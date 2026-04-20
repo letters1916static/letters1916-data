@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0576">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from F. J. Cribb, 6 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>F. J. Cribb</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from F.J. Cribb, chief engineer with Marshall&#39;s. It is not clear to whom this letter is addressed although the matter was dealt with in the chief secretary&#39;s office. In this letter, Cribb asks whether or not he will require a permit in order to visit Ireland. During his visit , Cribb intends to spend a fortnight fishing on Lough Corrib as he has done for the past four years. He describes himself as English, born in London, and mentions his work with Marshall&#39;s. A note added to the letter (in the CSO) indicates that British subjects do not require a permit to visit Ireland.The office of chief secretary for Ireland was vacated by Augustine Birrell (1850-1933) on 30 April, 1916. Birrell and his under-secretary Sir. Matthew Nathan had offered their resignations in the aftermath of the Easter Rising of 1916. Henry Edward Duke (1855-1939), subsequently took up the position of chief secretary on 31 July 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5620/13589</collection>
+                  <idno>https://letters1916.ie/item/576</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1308">F. J. Cribb</persName>
+              <date>1916-08-06</date>
+              <placeName key="#letters1916_place-0571">Sand Rock House, Retford, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Henry Duke</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0576_img_1974_1"  type="Letter"  url="7369ff96cb5dbd83d34ceab8af9e6c3d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0576_img_1974_1"/>
+                Sand Rock House  Retford    Aug 6 <hi rend="superscript">th</hi> 16    Dear Sir   I shall be much obliged if you <lb/> will kindly inform me whether <lb/> a 'Permit' is still necessary to <lb/> visit Ireland &amp;if it is to give me <lb/> the address of the official to apply to <lb/> for one. <lb/>  I want to come over as I have done for <lb/> the past 4 years for a fortnights <lb/> fishing in Lough Corrib staying at <lb/><lb/> Oughterard. I am English born in <lb/> London &amp; and am Chief Engineer to <lb/> Mess <hi rend="superscript">rs</hi> Marshall &amp; Co <seg type="unclear">Garrisboro</seg><lb/> with whom I have been for 28 years  <cb/> Thanking you in anticipation <lb/> &amp; enclosing stamped envelope  <seg type="closer"> I remain <lb/> Yrs. faithfully <lb/> F J Cribb  </seg> Inform that British subjects <lb/> do not require a permit to <lb/>visit Ireland <lb/> 8 - 8 - 16 <lb/>  Done 10/8 <lb/> despd 10/8 <lb/>  
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0304">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Agnes Halton to Herbert Henry Asquith, 28 April 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Agnes Halton</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Agnes Halton in the US to Herbert Henry Asquith (1852-1928), British prime minister. Asquith, a Liberal MP, served as prime minister from 1908 until his resignation in December 1916. . He was one of the longest continuously serving prime minister in the 20th century. In the letter, Halton states that she does not wish to be a traitor to her religion, but that the real allies to Germany are the Irish Catholic Clergy. She states that, if necessary she can provide names. Halton goes on to say that she wishes that the guilty are punished, but states that not all Irish are guilty, and that some are like John Redmond (1856-1918) and T. P. O&#39;Connor (1848-1929), Home Rulers. She warns that it must be followed up on as Irishmen will not betray their priest.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5611/8442/1</collection>
+                  <idno>https://letters1916.ie/item/304</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0037">Agnes Halton</persName>
+              <date>1916-04-28</date>
+              <placeName key="#letters1916_place-0369">1218 Arch Street, North Pittsburgh, Philadelphia, US</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0582">Herbert Henry Asquith</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0304_img_1525_1"  type="Letter"  url="50c92397059d3db119fe3ac9bf9d9960.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0304_img_1525_1"/>
+                1218 Arch St North Pittsburg U.S.A  .   April 28 1916    Mr Asquith Prime Minister   Dear Sir   At the expense of being considered a traitor to my church<lb/> I must tell you that the real allies of the Germans and<lb/> the ring leaders of this revolt are certain Irish Roman<lb/> Catholic priests - I have been shocked at the hatred  of England  expressed<lb/> by them. If necessary I can give names and<lb/> occasions where these expressions have been made<lb/> I assure you Sir that this is in no spirit of revenge<lb/> nor for any gain except my love of England<lb/> and my wish to see the guilty punished in Ireland<lb/> for not all are guilty in Ireland for there are<lb/> many as true as TP O'Connor or John Redmond<lb/> himself. You may be inclined to ignore this<lb/> warning coming from an unknown source but it is a<lb/> clue and I implore you to heed it. I know the task<lb/> is hard as the Irish are like the French Ãrucius<lb/> for good or evil but no Irishman will betray<lb/> his priest That your investigator must find out<lb/> Sir I beg your pardon for addressing you I had<lb/> thought to write the consul here but that would have<lb/> caused delay My excuse is England in trouble <lb/> for whom my life or work is freely given <seg type="closer"> I have the <sic>honor</sic> to be your most humble servant <lb/> Agnes Halton </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0079">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Alphonsus Carroll to Army Veterinary Service, 29 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Alphonsus Carroll</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Patrick Alphonsus Carroll to the Director General of the Army Veterinary Service. Carroll begs to apply for a commission, stating that circumstances had prevented him from making the request sooner.Patrick Alphonsus Carroll was a veterinary surgeon based in Carlow town who had qualified from the Royal College of Veterinary Surgeons. The Army Veterinary Corps was well tested throughout the Great War. There were about 2.5 million admissions mainly on the Western Front and 80% of injured animals were treated and returned to duty.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Pat Carroll</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/79</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1328">Patrick Alphonsus Carroll</persName>
+              <date>1915-12-29</date>
+              <placeName key="#letters1916_place-0020">Reddy&#39;s Hotel, Carlow, Co.Carlow, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Army Veterinary Service</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0014">London</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0079_img_1148_1"  type="Letter"  url="634f6b4c20ada217ed4cf20499204a21.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0079_img_1148_1"/>
+               A. CARROLL M.R.C.V.S. <lb/> VETERINARY SURGEON <lb/>    Reddy's Hotel  Carlow    Dec <hi rend="underline">29 <hi rend="superscript">th</hi> 1915 </hi>   Sir,   I beg to apply for a <lb/> Commission in the Army <lb/> Veterinary Corps. Circumstances <lb/> prevented me from applying <lb/>Earlier.  <seg type="closer"> Yours respectfully,  P.A.Carroll <seg type="unclear">a.n.c.es</seg><lb/>  Director General  Army Veterinary Service,  16 Victoria Street,  London, SW  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

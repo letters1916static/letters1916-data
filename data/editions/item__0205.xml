@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0205">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Harold Smith-Wright to the Secretary of the Irish Office, 3 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Harold Smith-Wright</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Lieutenant Commander John Harold Smith-Wright (b. 1882) to the Secretary of the Irish Office in London. Wright explains that his maid was unable to reach Dublin due to the Easter Rising and had to return to London. He asks for compensation of £5 to reimburse money he has given to her to cover her outlay during this time.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/7461</collection>
+                  <idno>https://letters1916.ie/item/205</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1001">John Harold Smith-Wright</persName>
+              <date>1916-05-03</date>
+              <placeName key="#letters1916_place-1135">Royal Naval Barracks, Chatham, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Secretary of the Irish Office</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1198">Irish Office, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0205_img_1352_1"  type="Letter"  url="fc6fa5a9ba4d380f732b07c534b38bfe.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0205_img_1352_1"/>
+                ROYAL NAVY BARRACKS  CHATHAM    3rd May 1916   Sir   I desire to bring to your notice the following, <lb/>whereby, thanks to the non-announcement of the troubles in Dublin, <lb/> I am out of pocket to the extent of some Â£5.  On Monday 24th April I discharged an Irish <lb/> maid-servant Violet Williams from Chatham to Dublin. She was unable <lb/>to land in Ireland and having no friends or relatives outside <lb/> Dublin, I cannot see that she could have acted otherwise than she <lb/> did, which was to return to us when she found it impossible to <lb/>reach her friends. This girl has no experience as a traveller and <lb/> knows no one in England outside my own family. After many adventures <lb/>she finally reached Kingstown, but was then advised to return to <lb/> London as it was quite impossible for her to reach Dublin. What <lb/>else could a young inexperienced girl, travelling alone do, under <lb/> the circumstances especially as her stock of money was getting low? <lb/>On arrival in London on Saturday morning she telephoned to me and <lb/> rather than that she should be alone in London I told her to return <lb/>to my house, where she arrived Saturday p.m.  Her total expenses during this period (5 whole <lb/>days) including journey from Chatham to Kingstown and back at single <lb/> rates, food, cabs, porterage etc. and such sleeping accommodation <lb/>as she could get, amounted to Â£5.1.6., and it was exceedingly fortunate <lb/> that she carried enough money to meet the case, though she could <lb/>not have gone on through another week end.  Had the disturbed state of Dublin been announced <lb/>I, of course would not have dreamed of letting the girl go, but <lb/> under the circumstances, you will I am sure, agree that <lb/>compensation is due to me for the amount mentioned as I have of <lb/> course repaid the girl for what she spent over what I had allowed <lb/> her for the actual journey. <seg type="closer"> I have the honour to be, <lb/>Sir <lb/>Your obedient servant <lb/> <hi rend="underline">J. Smith-Wright</hi> <lb/>Lieut-Commander R.N,   The Secretary  Irish Office  London S.W.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

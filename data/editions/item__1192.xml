@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1192">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Fitzgibbon to Fr Provincial Thomas V. Nolan, circa 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Fitzgibbon</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from John Fitzgibbon (1845–1919) to Fr. Nolan regarding Jack Fitzgibbon&#39;s son, John Fitzgibbon. John Fitzgibbon was a successful draper and MP for South Mayo from 1910-1918. He was also involved in the Gaelic League, the temperance movement and the Department of Agriculture and Technical Instruction (DATI). Father Nolan (1867-1941) was the Provincial of the Irish Province of the Society of Jesus (1912-1922) and was a member of the Distribution Committee which looked after the welfare and distribution of the the Belgian refugees who arrived in Ireland as a consequence of the First World War.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IJA/CHPI/21/15, IJA/CHPI/21/15</collection>
+                  <idno>https://letters1916.ie/item/1192</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0632">John Fitzgibbon</persName>
+              <date>1918</date>
+              <placeName key="#letters1916_place-1717">Dublin, Ireland </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas V Nolan </persName>
+              <date></date>
+              <placeName key="#letters1916_place-1717">Dublin, Ireland </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1192_img_3874_1"  type="Letter"  url="3d56ef3d579ae14f299a9fda9e54dd26.jpg"/>
+      <graphic xml:id="L1916_1192_img_3874_2"  type="Letter"  url="9650d3772e46a25a507744515aa365f1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1192_img_3874_1"/>
+                Castlerea    My dear Father Nolan,   The <lb/>enclosed is that <lb/>letter to plead <lb/>in I am happy <lb/>Gods holy work is <lb/>done. He was <lb/>my joy and pride <lb/>and the thought <lb/>that when he <lb/>Cheerfully gone <lb/>to God he would <lb/>have made more <lb/>use of him on <lb/>this earth, Jack  
+            <pb n="2" facs="L1916_1192_img_3874_2"/>
+              was always full <lb/>of energy and <lb/>I have not the <lb/>slightest doubt <lb/>he is now a <lb/>busier Man than <lb/>ever, we naturally <lb/>feel the parting <lb/>but are consoled <lb/>in the thought of <lb/>Larry Shaw an <lb/><seg type="unclear">advocate</seg> to secure <lb/>for us a speedy <lb/>passage to the <lb/>Heavenly kingdom. <lb/>He loved the order <lb/>and I hope I am <lb/>not being too presumptuous <lb/>in saying that <lb/>it's <seg type="unclear">members mourn</seg><lb/>his loss and I feel <lb/>deeply for them. <lb/>With grateful thanks <lb/>for your touching <lb/>letter <seg type="closer"> I <seg type="unclear">remain</seg><lb/>Yours Faithfully  John Fitzgibbon </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1920">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Robert O'Brien to Robert Chalmers, 17 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Robert O&#39;Brien</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from the secretary of the Congested Districts Board for Ireland, John Robert O&#39;Brien (b. 1856), to Under-Secretary Sir Robert Chalmers (1858–1938). After the Easter rising of 1916 Chalmers was sent to Ireland as under-secretary, replacing Sir Matthew Nathan (1862-1939) who had resigned along with Augustine Birrell (1850-1933), his chief secretary. O&#39;Brien is sending this letter to acknowledge the receipt of a previous letter and asks for a list of address to be sent to him.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/8409</collection>
+                  <idno>https://letters1916.ie/item/1920</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1083">John Robert O&#39;Brien</persName>
+              <date>1916-05-17</date>
+              <placeName key="#letters1916_place-1584">23 Rutland Square, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1920_img_1370_1"  type="Letter"  url="f54e140fe7695b3ba9839600d74eef05.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1920_img_1370_1"/>
+             CONGESTED DISTRICTS BOARD FOR IRELAND, <lb/>23, Rutland Square, Dublin.   17<hi rend="superscript">th</hi>, May, 1916   Sir:-   I am directed by the Congested District Board for <lb/>Ireland to acknowledge the receipt of your letter of the 15th. <lb/>instant (No. 7940) with enclosure, and to suggest that the <lb/>High Sheriff of County Galway (Mr. James R. Martin, Rockmore, <lb/>Athenry) should be asked to give the names and addresses of <lb/>the persons referred to in the extract from his letter of the <lb/>9th. instant.   I am, <lb/> Sir, <lb/>Your obedient Servant,   John O'Brien   The Under-Secretary, <lb/>Dublin Castle. 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4006">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Jones McKenna to Lord Wimborne, 21 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Jones McKenna</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-5623-14781</collection>
+                  <idno>https://letters1916.ie/item/4006</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0072">Jones McKenna</persName>
+              <date>1916-08-21</date>
+              <placeName key="#letters1916_place-0859">Ancient Order of Hibernians Meeting Room, Dingle, Co Kerry, Ireland </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1374">Ivor Churchill Guest</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4006_img_3392_1"  type="Letter"  url="a9bfc5322ea767b046159baf5c9edb7c.jpg"/>
+      <graphic xml:id="L1916_4006_img_3392_2"  type="Letter"  url="48739592ba2097098c1d2e85d37251ee.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4006_img_3392_1"/>
+             Ancient <hi rend="underline">Order</hi> Of Hibernians<lb/>Meeting Room<lb/>Dingle   August 21<hi rend="superscript">st</hi> 1916   His Excellency<lb/>The Right Hon Lord Wimborne<lb/>Lord Lieutenant of Ireland<lb/><hi rend="underline">Dublin Castle</hi>    Your Excellency   at a specially <seg type="unclear">convened</seg><lb/>meeting of the Dingle branch of the<lb/>Ancient. Order. of Hibernians (B O.E) lead at<lb/>their Meeting Rooms on Sunday August the 20<hi rend="superscript"><hi rend="underline">th</hi></hi><lb/>the following resolution was proposed by<lb/>Bro Thomas McKenna and seconded by<lb/>Bro John Flahive, and directed to be<lb/>sent to Your Excellency. With the regular<lb/>that you   give the matter your<lb/>immediate attention as the Fishing Season<lb/>is practically at hand.     Your most obedient Servant <lb/> Jones McKenna (See) <lb/><lb/><hi rend="underline">Resolution</hi>  Resolved that we the members of the<lb/>Dingle branch of the Ancient - Order - of - Hibernians<lb/>in the meeting assembled, respectfully request<lb/>of His Excellency The Right Hon Lord Wimborne<lb/>Lord Lieutenant of Ireland to use <seg type="del">your</seg> His<lb/>influence with the   Dictricts Board<lb/>in   from that Body, for the<lb/>local Dingle Fishermen a new surrey<lb/>of Mackerel nets for the coming Autumn Fishing<lb/>as a free grant or a loan on easy terms.     We   wish to point out to His Excellency.    P. J. O.   
+            <pb n="2" facs="L1916_4006_img_3392_2"/>
+             That it is impossible for the Fishermen<lb/>to   these mets, as in consequence of<lb/> successive bad season (prior   to the present<lb/>one. The profits of which went towards<lb/>defraying the loans and debt incured <lb/>during former bad seasons) they are<lb/>financially unable to do so.       If the [questonable readinig]   Board does not<lb/>come to the assistance of these poor Fishermen<lb/>it will be impossible for them, with their<lb/>present worn out nets to profitably work<lb/>their Boats during the coming Fall Fishing.     And as their principle means of<lb/><sic>livelyhood</sic> depends on the successful<lb/>prosecution of the Mackerel Fishing<lb/>we call upon His <seg type="del">your</seg> Excellency to do all<lb/>in His <seg type="del">your</seg> power to assist these men<lb/>and mitigate the great hardships<lb/>under which they labour. 
+         </ab>
+      </body>
+   </text>
+</TEI>

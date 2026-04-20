@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1103">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Tyrrell to his wife Nora Tyrrell. 23 May 1916 from Wakefield prison</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Jim (James) Tyrrell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter sent from Wakefield prison on 23 May 1916 to Jim&#39;s wife Nora (née Crothers). Jim indicates in the letter that he had nothing to do with the events of 1916. Online resources list him as having being arrested in connection with events at Ballsbridge and sent to Wakefield on 6 May 1916. The references therein are to his children, Annie, Bob and Jim. Annie Tyrrell subsequently married Denis Fennell from Dublin.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Private Collection</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/1103</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0130">Jim (James) Tyrrell</persName>
+              <date>1916-05-23</date>
+              <placeName key="#letters1916_place-1424">Wakefield Prison, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Nora Tyrrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1380">Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1103_img_331_1"  type="NULL"  url="848c886e6ebb5bd944878fbcbd436208.jpg"/>
+      <graphic xml:id="L1916_1103_img_331_2"  type="NULL"  url="9846c512ced0ca3a66f76c71da5764bd.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1103_img_331_1"/>
+              For God For King &amp; For Country <lb/>Y.M.C.A.   Address reply to   Regt No 721B James Tyrrell  Irish Prisoner (Wakefield)  c/o Chief Postal Censor London    23/5/16   Dear Nora   I have not received any reply to the <lb/> letter I sent you last week. I have not got <lb/> any word of what they are going to do <lb/> with me yet. I had filled in a form <lb/> saying I had nothing to do with the trouble <lb/> and referred them to the Engineer to show <lb/> I was working. He will have the Doctor's <lb/> Certificate that I was sick on Tuesday &amp; <lb/> Wednesday, and this ought be proof <lb/> enough for anyone. I expect the form <lb/> will be sent to Dublin and I suppose <lb/> as soon as they certify the statement I will <lb/> probably be released. The form has now been <lb/> filled in a week so the reply should be <lb/> here any time. I understand I will be  
+            <pb n="2" facs="L1916_1103_img_331_2"/>
+              <lb/>allowed to send one letter a week. Let me <lb/> hear from you as soon as you can. <lb/>Is May still at her music &amp; is Robert <lb/> still going to school? Where are you stopping? I have <lb/> seen a great lot of people here from Dublin. <lb/> There is one old chap I knew who has only <lb/> one eye &amp; he has been shoved over here too. <lb/> We will have great times when we get <lb/> back. I want you to keep some of the papers <lb/> with an account of what happened as I <lb/> don't know yet who was killed or injured  (do not send). them. <lb/> who has taken up my job in Kingstown? <lb/> How are Jem &amp; Annie. Is Jem better? <lb/>There is no use of you sending me anything <lb/> here. But I think you might have a look <lb/> round for a small shop, as I don't think <lb/> I will stop in the job anyhow. Tell everyone <lb/> I was asking for them. I am in the best of <lb/> health. I will close with a note for Bob &amp; Jem. <lb/>BOB AND JEM <lb/> I WILL SOON BE COMING <lb/> HOME ON THE MAIL BOAT <lb/> DADDY <lb/>Write to me &amp; I will reply as soon as I can.  <seg type="closer"> Jim </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

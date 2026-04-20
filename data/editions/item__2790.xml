@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2790">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Rev Robert Kelson to Mrs. Burns, 10 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Rev Robert Kelso</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a next  of kin letter  from Rev Robert Kelso, Principal Chaplain&#39;s Dept,Bologne Base, B.E.F. France to Mrs Burns whose son died in the Canadian Hospital, Bologne.
+
+He advised Mrs Burns that her son had appeared to be recovering well from his wounds, was in good spirits but then suffered a sudden relapse and died. He expressed his shock at the unexpected death, offered his deepest sympathies and gave details of her son&#39;s burial in France in grave number 4039. 
+
+He added that her son&#39;s life and great sacrifice must surely be pleasing to God.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Kelso Papers, D3019/1/1</collection>
+                  <idno>https://letters1916.ie/item/2790</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0766">Rev Robert Kelso</persName>
+              <date>1916-10-10</date>
+              <placeName key="#letters1916_place-1130">Chaplain&#39;s Dept, Bologne Base, B.E.F. France </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mrs. Burns</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0755">74 Paisley Rd., Renfrew, Scotland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2790_img_2208_1"  type="Letter"  url="47b42c005461bad0edf63aaca960600f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2790_img_2208_1"/>
+             Mrs Burns <lb/>74 Paisley Rd. <lb/> Renfrew <lb/>Scotland   Serg. Geo. Burns (8641) <lb/>2nd Canadians   Principal Chaplains Dept <lb/>Boulagne Base <lb/>B.E.F. France   9.10.16   Dear Mrs Burns   I am sure you will have heard the <lb/>bad news of your son's death &amp; I feel I must write to say <lb/> how much I feel for you in your loss. After my last <lb/> letter to you he was so much better that he said he <lb/> had written you himself so I did not do so. I thought <lb/> he was on the sure road to recovery &amp; I was terribly <lb/> disappointed when he suddenly became worse &amp; passed <lb/> away. He was in such good spirits &amp; so confident <lb/>of recovery that the relapse was - to me - as unexpected <lb/> as it was sudden. He was buried in the military <lb/> cemetery here - on 8th <seg type="del">Sept</seg> Oct. - with full military honours <lb/> &amp; the number of his grave is - 4039. The authorities <lb/> will send you a photo of the grave on application to <lb/> "Director of Graves Registration &amp; Enquiries, War Office <lb/>Winchester House, St James Sq. London S.W." but <lb/> it may be a little time before they can reply to you. <lb/>Will you please accept my sincerest sympathy &amp; believe <lb/> me when I say that everything possible was done for your <lb/> son's comfort &amp; welfare while in Hospital. He has <lb/> made the great sacrifice &amp; such a life &amp; death as his must <lb/> surely be well-pleasing in the sight of Him who saith <lb/> greater love hath no man than that a man lay down <lb/> his life for his friends.   Sincerely Yours    R Kelso 
+         </ab>
+      </body>
+   </text>
+</TEI>

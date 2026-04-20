@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0821">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to the Charitable People of America, 22 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter addressed to the Charitable people of America. The letter pleas for the provision of relief to those who were affected by the Easter Rising. The letter quotes Reverend Richard Bowden, the administrator of the Pro Cathedral, who remained trapped in the cathedral for three days during Easter Week along with some forty refugees. This letter may have been addressed from the Irish Relief Bazaar or the Friends of Irish Freedom, an Irish-American Republican organisation that raised funds for the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>American Irish Historical Society</repository>
+                  <collection>FOIF0304a, FOIF0304a</collection>
+                  <idno>https://letters1916.ie/item/821</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-07-22</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-1649">United States</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0821_img_2363_1"  type="Letter"  url="1d0ef81905a290f0d732cc8f0e9a9d8c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0821_img_2363_1"/>
+             <seg type="head">TO THE CHARITABLE PEOPLE OF AMERICA</seg> The terrible scourge of war, which has devastated so many countries of Europe, has fallen <lb/>with fury upon Ireland, At the present moment the Irish Capitol and other cities and <lb/>towns are largely in ruins. In the language of a Relief Committee, headed by Reverend <lb/>Richard Bowden, Administrator of the Dublin Pro-Cathedral, '300 were slain during the insurrection, <lb/>15 were executed by Courts-martial, 134 have been condemned to penal servitude, 2650 <lb/>were deported without trial, and 400 await sentence by Courts-martial.'   All these calamities have produced a suspension of industry and reduced to idleness <lb/>practically the entire labouring population of Dublin and other places.   Under any conditions, the families of those who were killed or taken captive would be <lb/>reduced to misery. But owning to the cessation of industry those who might be expected to relieve <lb/>them are themselves rendered destitute and this distress, growing every hour more acute, <lb/>must end, unless some relief be afforded, in total starvation of may and grievous suffering by <lb/>all that sorely afflicted populace.  To relieve the families of those massacred and slain, as well as of those who are actually <lb/>starving or in danger of starvation, a fund is being raised, and this Committee appeals to <lb/>the whole body of the American people for contributions to aid this object, which is purely <lb/>humanitarian and charitable.  In the language of the Committee in Ireland, 'we make our appeal to all human hearts, <lb/>whose noble compassion can reach over every obstacle to redress wrongs and alleviate suffering, <lb/>that they may co-operate in this merciful and righteous work, For the sake of our country we <lb/>make it, of our Nation's honor, and of our own, so that its high repute for justice shall be <lb/>transmitted by our generation unsullied to future and happier times.' <seg type="closer"> New York,  July 22, 1916  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

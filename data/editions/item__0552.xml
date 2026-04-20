@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0552">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Captain Fairbairn Downie to Sir Robert Chalmers, 28 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Captain Fairbairn Downie</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Captain Fairbairn Downie (d. 1949), an Irish representative of the Ministry of Munitions. The letter is addressed to the Under-Secretary for Ireland Sir Robert Chalmers (1858 – 1938). Chalmers was sent to Ireland as under-secretary, replacing Sir Matthew Nathan who had resigned along with Augustine Birrell, his chief secretary, following the Easter Rising in 1916. The letter refers to the employment of Mr H. Woods who has applied for a position in the Dublin National Shell Company but been unsuccessful thus far. According to Downie, Woods needs to renew his registration at the Labour Exchange in order to be considered for any future appointments.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-5620-13029, NAI-CSO-RP-1916-5620-13029</collection>
+                  <idno>https://letters1916.ie/item/552</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1130">Captain Fairbairn Downie</persName>
+              <date>1916-07-28T00:00:00</date>
+              <placeName key="#letters1916_place-2000">32 Nassau Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0552_img_1936_1"  type="Letter"  url="3a5c64caef48175cdeccee9831536fd8.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0552_img_1936_1"/>
+                32, NASSAU STREET,  DUBLIN.    28th July 1916.    The Under Secretary,   Dublin Castle.   Sir,   I beg to refer to a communication from Mr. <lb/>H. Woods, 144, Oxmantown Road Dublin, regarding employment <lb/>on Munitions work, forwarded by you to this Office on the <lb/>10th instant and to state that in accordance with the <lb/>procedure laid down by the Ministry of Munitions, London, <lb/>for dealing with such matters, we communicated with the <lb/>Board of Trade, Labour Exchange. That department inform <lb/>us that on the 8th May Mr. Woods applied for employment <lb/>in the Dublin National Shell Factory. At the time, however, <lb/>there was no suitable vacancy and he was informed accordingly.   At the present moment there is no vacancy in <lb/>the Factory mentioned in which Mr. Wood's services could <lb/>be utilized. If however he calls at the Labour Exchange <lb/>and renews his registration, he will be considered for any <lb/>future appointments elsewhere which may be notified in the <lb/>National Clearing House Sheets.  <seg type="closer"> I am, Sir, <lb/>Your obedient Servant,  <lb/>Ministry of Munitions (No. 10 Area) Ireland, <lb/>Capt Director  F Downie </seg> Inform Mr Woods <lb/>as at A   
+         </ab>
+      </body>
+   </text>
+</TEI>

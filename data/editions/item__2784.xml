@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2784">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Montgomery to his mother, Sara Montgomery, 23 December, 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Alexander Montgomery</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from William Montgomery to his mother giving details of proposed movements between dug-outs in the trenches.
+
+The Montgomery family lived in Malone Park, one of the wealthiest suburbs of Belfast city. This letter is part of a large collection that their son, William, a Captain with the 9th Battalion of the Royal Irish Rifles, wrote to his parents, Harford Hugh and Sara Montgomery, throughout the war. His first letter is dated 3 December 1914. Captain Montgomery was a decorated soldier. He was awarded both the Victoria and the 15 Star medals and was promoted to the rank of Major. His father owned a fire assessor business.
+
+
+
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Papers of the Montgomery Family, D2794/1/1/8</collection>
+                  <idno>https://letters1916.ie/item/2784</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1502">William Alexander Montgomery</persName>
+              <date>1915-12-23</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sara Montgomery</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2095">Monacherra, Malone Park,Belfast, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2784_img_2202_1"  type="Letter"  url="acba31934cf6ac65071de6b7b94327e1.jpg"/>
+      <graphic xml:id="L1916_2784_img_2202_2"  type="Letter"  url="5a5d27bdbd0d59f34026f98658da600b.jpg"/>
+      <graphic xml:id="L1916_2784_img_2202_3"  type="Envelope"  url="6f13e3a0e70fe34e950962bb3535dfa8.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2784_img_2202_1"/>
+             Dear Montgomery   You know that there is a <lb/>lot of important work to be done before we come <lb/>out this time, &amp; you know how handicapped I <lb/>am without Haigh; I an going back for a <lb/>  that is to let Sinclair taste "a" till we <lb/>get back to   after <seg type="del">we</seg> your coy is <lb/>relieved by C tomorrow &amp; you to take over <lb/>direction of working parties, in y. own way &amp; y. own <lb/>own time for work on the   etc. I know <lb/>that you have already had a hell of a time, but <lb/>I am sure that if you direct the work a lot of <lb/>your energy would be saved; &amp; at the same time <lb/>you can by delegating jobs to others get some <lb/>sleep, when you are in C dug out.  <lb/> With this end in view I am telling &amp; D to <lb/>let you know by 6 AM what men you can have <lb/>for work, <seg type="del">till they</seg> in the care of C till they <lb/>relieve you &amp; in care of D will they relieve B. <lb/>After that C can tell you what they can give <lb/>you daily and B as well also A.   The General expects a lot, but that is a penalty
+            <pb n="2" facs="L1916_2784_img_2202_2"/>
+            we pay for a good reputation, but I am <lb/>sure that in yr. hands the reputation we <lb/>have for hard work can be well maintained. <lb/>I am telling B to lend C 2 officers for work <lb/>in trenches generally, as they have  gone <lb/>days outs.  <lb/> The more the men the sector they remain <lb/>I am sure.  <lb/> Yours sincerely  <lb/>1 AM <lb/> 22nd/23rd XII  <lb/> A party of 1 N.C.O. and 12 men S. Lancs. are <lb/>to report H.Q. at 5 PM tell adjt. where <lb/>you want them sent. 
+            <pb n="3" facs="L1916_2784_img_2202_3"/>
+            <hi rend="underline">Replied</hi>  23 January 1916  <lb/> Mrs. H.H. Montgomery <lb/>Monacherra <lb/>Malone Park <lb/>Belfast 
+         </ab>
+      </body>
+   </text>
+</TEI>

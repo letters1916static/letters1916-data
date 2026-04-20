@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6483">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sheila Doogan to Charlie Daly, 8 February 1923</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Sheila Doogan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry County Archives</repository>
+                  <collection>Charlie Daly Collection, P41/15/6</collection>
+                  <idno>https://letters1916.ie/item/6483</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0610">Sheila Doogan</persName>
+              <date>1923-02-08</date>
+              <placeName key="#letters1916_place-2130">Westland Avenue, Derry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1307">Charlie Daly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0726">Drumboe Castle, Stranorlar, Tirconaill, Donegal, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Civil War (1922-1923)</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Civil War (1922-1923)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6483_img_None_1"  url="3c70b005803ec098ead1a07bc6419b94.jpg"/>
+      <graphic xml:id="L1916_6483_img_None_2"  url="d12d7a4f68c5a3793b079576839cfa49.jpg"/>
+      <graphic xml:id="L1916_6483_img_None_3"  url="933927a56dbfb08e6c2947b0739b926f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6483_img_0_1"/>
+              PS<lb/>Did you get<lb/>the history I<lb/>sent you some<lb/>weeks ago   <seg type="foreign">Slán agat</seg>   Write if you<lb/>want anything<lb/>We don't know<lb/>what to send<lb/>that you might<lb/>want. - We<lb/>can't send stamps as we<lb/>havent the same<lb/>duty rules<seg type="del">ing</seg> over here    3 Westland Ave<lb/>Derry    8.2.23   <seg type="foreign"> Chormaic, a chara, </seg>  I got both your letters some<lb/>time back, pardon my length of time<lb/>in leaving them unanswered. I do<lb/>hope the boys &amp; yourself are in good health<lb/>&amp; spirits. I daresay, you ae receiving<lb/>many letters these days or at least during<lb/>last week. Such a bit of excitment as<lb/>prevailed about you all; lest the Awful<lb/>Tragedy as the papers termed it should<lb/>take place. It would have been nothing<lb/>new, of course, but still in <hi rend="underline">Donegal</hi> it would<lb/>be awful. However, I dont think there's<lb/>any need to worry now, when Bishop O'Donnell<lb/>has <seg type="del">taken</seg> spoken.  Ginger has looked a <seg type="unclear">poor</seg><lb/>in New Bridge. I had a letter from    
+            <pb n="2" facs="L1916_6483_img_0_2"/>
+             Paddy Curran &amp; he says so. They are fairly<lb/>well treated there. There is no news<lb/>from Mountoy at all. Shan Hegarty hasn't<lb/>witten <seg type="del">at </seg>since Xmas. All your Derry<lb/>friends are well, and wish to be<lb/>remembered to you.  Really, I've no news to write<lb/>that would e<seg type="del">xs</seg>cape the Scissors, so<lb/>there's no use in putting ink &amp;<lb/>paper to loss, in these awful times<lb/>of plundring &amp; destruction. The<lb/>Country is in an awful State &amp; this<lb/>roving band, seems to be everywhere<lb/>&amp; anywhere, at the one time. It's<lb/><seg type="unclear">CENSORED</seg> no doubt.<lb/>With Best Regards to the boys<lb/>&amp; yourself, trust the clouds have passed<lb/>over the Castle and that no danger<lb/>prevails. Beannacht Dé agaibh <seg type="unclear">nilig</seg><lb/>Scriobh arís gan      Mise do Chara dhil <lb/>Shiela Doogan<lb/><lb/>  
+            <pb n="3" facs="L1916_6483_img_0_3"/>
+              <seg type="foreign">Cormaic Uasal Úa Dálaig</seg><lb/>Prisoner.<lb/>Drumboe Castle<lb/><hi rend="underline">Stranorlar</hi>.  
+         </ab>
+      </body>
+   </text>
+</TEI>

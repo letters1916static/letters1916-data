@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3779">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Alice Park to Hanna Sheehy Skeffington, 11 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Alice Park</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from leading Californian suffragette Alice Park (1861-1962) to Hanna Sheehy Skeffington (1877-1946) following the death of Hanna&#39;s husband, Francis. Park writes that she has only just managed to find Mr Sheehy Skeffington&#39;s name in the dispatches. Park keeps her note brief so it will reach Hanna quickly.
+
+Hanna Sheehy Skeffington (1877-1946), suffragette, nationalist, language teacher, was the founder of the Irish Women’s Franchise League and a founding member of the Irish Women Workers’ Union. She was the widow of Francis Sheehy-Skeffington who was summarily executed on 26 April 1916. She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papaers, Collection List No. 47; Ms 33,608/3-2</collection>
+                  <idno>https://letters1916.ie/item/3779</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0752">Alice Park</persName>
+              <date>1916-05-11</date>
+              <placeName key="#letters1916_place-1775">Dubuque, Iowa, United States</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="death">1962</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3779_img_3164_1"  type="Letter"  url="f33028b543fdd757c7ffd6c874583ab0.jpg"/>
+      <graphic xml:id="L1916_3779_img_3164_2"  type="Letter"  url="fd2bea19838750202f9d65ffe71b4c6a.jpg"/>
+      <graphic xml:id="L1916_3779_img_3164_3"  type="Letter"  url="24abcc5a527efa24b721e3983fb13d36.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3779_img_3164_1"/>
+             (Temporary only<lb/>(Dubuque<lb/>(Iowa  <lb/> May 11-16 <lb/>My very dear friend,<lb/>Only today<lb/>have the dispatches contained<lb/>Mr. S's - name. I have<lb/>searched the papers for days<lb/>as I traveled from place to<lb/>place. I want this<lb/>message to reach you<lb/>so I make it brief 
+            <pb n="2" facs="L1916_3779_img_3164_2"/>
+             and general - to as-<lb/>sure you of my con-<lb/>stant love - of which<lb/>you know without any<lb/>words from me.  I shall write<lb/>again - briefly -<lb/>I wrote you very<lb/>fully in February  &amp; mailed letters from<lb/>Falmouth Feb. 25 -<lb/>I wish I could have<lb/>seen you at that<lb/>time.  <lb/> Yours for women.<lb/>Alice Park.    <lb/>Do <hi rend="underline">not</hi>think me - nor my letter - cold.<lb/><seg type="unclear">to be m._____</seg><lb/>(Palo Alto, Calif. June.20)  
+            <pb n="3" facs="L1916_3779_img_3164_3"/>
+             Murray Hill Hotel<lb/>Park Avenue 40th &amp; 41st Sts.<lb/>New York 
+         </ab>
+      </body>
+   </text>
+</TEI>

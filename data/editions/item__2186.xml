@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2186">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to the Chief Secretary of Ireland, 9 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was addressed to the chief secretary of Ireland. At this time there is no official chief secretary for Ireland following the resignation of Augustine Birrell (1850-1933) on 3 May 1916. Birrell&#39;s resignation was a consequence of the 1916 Rising for which he accepted responsibility. His successor, Henry Edward Duke (1855-1939), was not officially appointed until 31 July 1916.
+The letter is simply signed by &#39;One Who Knows&#39;. The letter concerns the appointment of magistrates in Ireland over the past decade.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/9734</collection>
+                  <idno>https://letters1916.ie/item/2186</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-06-09</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Chief Secretary</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0268">Dublin Castle, Dublin, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2186_img_1632_1"  type="Letter"  url="19e75f03ac1e3f7345edf8cc8d77b1aa.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2186_img_1632_1"/>
+             The Chief Secretary <lb/>Dublin Castle   Sir   I enclose a cutting from Irish Daily Independent of <lb/>26<hi rend="superscript">th</hi> May Instant for the purpose of bringing under <lb/>your notice that portion of it which refers to the appointment <lb/>of magistrates in Ireland for the past ten years and <lb/>which are known to the nationalist public as popular appts. <lb/>There is nothing but jobbery and corruption in Connection <lb/>with such appts and there is no reliance to be placed in <lb/>members so appointed as in now quite evident. Major Price <lb/>from practical experience knows the value of such men as <lb/>is shown by his evidence. It is not a fact that there <lb/>are a great many Ex District Inspectors of the RIC and <seg type="unclear">Ex </seg> <lb/>Constables of that <seg type="unclear">Faree</seg> who are fully qualified for the Commission <lb/> of the <seg type="unclear">Beau</seg> on account of their legal knowledge and loyalty <lb/>very few Districts but there are such men residing <lb/>but very few of them <seg type="unclear">JPS</seg>. They are too proEnglish which <lb/>in itself is a disqualification in the eyes of those who have <lb/>the recommendation of such appointments. <seg type="unclear">nt mps</seg>   Yours Respectfully   One who knows 
+         </ab>
+      </body>
+   </text>
+</TEI>

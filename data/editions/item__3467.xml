@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3467">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to Hanna Sheehy Skeffington, 31 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter to Hanna Sheehy Skeffington (1877-1946) concerns a different number of arrangements including obtaining the correct address for various members, collecting prize and cash donations and dance tickets.
+
+Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the widow of Francis Sheehy-Skeffington (who was summarily executed on 26 April 1916). She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47; MS 33,604/17-1</collection>
+                  <idno>https://letters1916.ie/item/3467</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-03-31</date>
+              <placeName key="#letters1916_place-0800">11 Rathmines Park, Dublin, Ireland </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0720">11 Grosvenor Place, Rathmines, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3467_img_2876_1"  type="Letter"  url="b586aa6e52868e040ea834fa76caa2cd.jpg"/>
+      <graphic xml:id="L1916_3467_img_2876_2"  type="Letter"  url="b0de329dbc09125776c12d5cc862f10f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3467_img_2876_1"/>
+             14 Rathmines Park   <hi rend="underline">31st of March</hi>   Dear Mrs Skeffington   Can you let me have <lb/>the present address of Mrs Martinson <lb/>and of Mr J Wesley Berns. The ones in <lb/>Membership Book are incorrect? <lb/> (Sargent's is also incorrect)  I did not see Mrs Quinn last week, <lb/>but I wrote asking her for a prize or cash <lb/>donation. She gave 2/6 today — it is in <lb/>the Safe — it is better than nothing!   I left a cake for Mrs. <seg type="unclear">Tinsley</seg> and some <lb/>more jumbles.   I wrote to Mrs. <lb/>Emerson re typing notes for Dance Tickets <lb/>Please let me know when the Dance Tickets <lb/> (ordered them last Saturday)  are sent in. We have been obliged <lb/>to postpone moving until next week <lb/>as our landlady wrote at last moment to <lb/>say repairs were not finished owing to <lb/>bad weather. It means a little more <lb/>breathing space anyway.   MKC 
+            <pb n="2" facs="L1916_3467_img_2876_2"/>
+            <hi rend="underline">Returning MKC newspaper</hi>  Mrs S. Skeffington <lb/>11 Grosvenor Place 
+         </ab>
+      </body>
+   </text>
+</TEI>

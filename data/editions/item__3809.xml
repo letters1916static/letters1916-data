@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3809">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Myles Colt to Thomas Kirkpatrick, 11 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Myles Colt</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Dr Myles Colt (1885-1966) to Thomas Percy Kirkpatrick (1869-1954) regarding the changes made to Dr Colt&#39;s name. Colt had requested that his prior name of Myer Cohen be changed to Myles Colt. Additionally, the letter concerns the advance of Colt&#39;s diplomas. 
+
+From 1910 until 1954 Thomas Kirkpatrick served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T79-4</collection>
+                  <idno>https://letters1916.ie/item/3809</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0482">Myles Colt</persName>
+              <date>1916-07-11</date>
+              <placeName key="#letters1916_place-0386">5 Stamford Hill, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0544">Thomas Percy Kirkpatrick</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1966</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3809_img_3191_1"  type="Letter"  url="b9ae50a5d47535a5970f218c225e1806.jpg"/>
+      <graphic xml:id="L1916_3809_img_3191_2"  type="Letter"  url="f0cca1128cde5f153b2841203c3e3787.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3809_img_3191_1"/>
+             5 Stamford Hill, <lb/>London. N.   July 11 1916   Dr Percy Kirkpatrick F.R.C.P.I. <lb/>Registrar, <lb/>Royal College of Physicians <lb/>Kildare Street, Dublin.   Dear Sir,   I beg to acknowledge receipt of you letter dated <lb/>8th July 1916 &amp; to tender my thanks to the <lb/>President, Fellows of the R.C.P.I. for acceding <lb/>to my request to use the name of Myles Colt.   With reference to the sending  on  of my <lb/>Diplomas. I shall only be here till the <hi rend="underline">24th</hi> <lb/><hi rend="underline">day of July 1916</hi>, and if it is not possible to <lb/>receive the diplomas by this date; I would be <lb/>obliged if you would ask Dr Robert <lb/>Phelps to send them to my peoples <lb/>address in Dublin viz c/o D. J. Cohen Esq <lb/>"Balmoral" <lb/>9 Grosvenor Road, Rathgar, Dublin.
+            <pb n="2" facs="L1916_3809_img_3191_2"/>
+            I could then bring them to London <lb/>at a future date.   With renewed expressions of my sincere <lb/>thanks for courtesy &amp; promptness in <lb/>this matter.   Yours Faithfully,   Myles Colt.  <lb/>(formerly Myer Cohen.)
+         </ab>
+      </body>
+   </text>
+</TEI>

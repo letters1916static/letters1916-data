@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0563">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Henry Arthur Wynne to Thomas Delany, 2 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Henry Arthur Wynne</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Sir Henry Arthur Wynne (1867-1945) to Longford Crown Solicitor, Thomas Delany (1868-1939) informing Delany that the attorney general James Campbell has approved the leave he requested. Enclosed with the letter is Delany’s application requesting three weeks leave.Henry Arthur Wynne was the chief crown solicitor for Ireland following the death of Malachy Kelly (1850-1916).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Reigstered Papers, 1916-5620-13135-2</collection>
+                  <idno>https://letters1916.ie/item/563</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0815">Henry Arthur Wynne</persName>
+              <date>1916-08-02</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas William Delany</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0610">Longford, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0563_img_1952_1"  type="Letter"  url="de87264f3567433e367661091fe69411.jpg"/>
+      <graphic xml:id="L1916_0563_img_1952_2"  type="Enclosure"  url="03ccf30ebc9c107c0e35903d6a67ac15.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0563_img_1952_1"/>
+                2nd August 1916   Leave of Absence  Dear Sir   The Attorney General consents to your having the leave asked for. <seg type="closer"> Yours truly  Henry Arthur Wynne   T W Delany Esq.,  Crown Solicitor,  Longford.  </seg> 
+            <pb n="2" facs="L1916_0563_img_1952_2"/>
+             <seg type="head">FORM.</seg> I Thomas W Delany Crown Solicitor (and <lb/>Sessional Crown Solicitor) for Longford <lb/>beg to apply for leave of absence from <lb/>to 6<hi rend="superscript">th</hi> August to 27<hi rend="superscript">th</hi> August 1916 <lb/>T. W. Delany  Schedule To Be Filled Up.  Proposed Substitute. <lb/>Joseph Delany  Qualification <lb/>Solicitor 15 years <lb/>Qualified. Acted <lb/>for me as as substitute <lb/>on previous occasion  Crown Cases pending or which the Crown Solicitâ <lb/>or has been ordered to take charge of which may posâ <lb/>sibly come on during his absence.  Title of Cause <lb/>Nil  Nature of Case.  
+         </ab>
+      </body>
+   </text>
+</TEI>

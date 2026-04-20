@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5745">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Private F. Murphy, 3 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>F. Murphy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Private F Murphy to an unknown recipient. In the letter Murphy pleads with the recipient to get his children back, although it is not fully clear where the children are one can assume that that had been put in a home while Murphy was off fighting because the family had little money. Murphy describes how he and his wife wish to have them back now that he is home and he asks for the recipients help in the matter.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3922</collection>
+                  <idno>https://letters1916.ie/item/5745</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1340">F. Murphy</persName>
+              <date>1916-01-03</date>
+              <placeName key="#letters1916_place-1631">Agda Camp, County Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5745_img_845_1"  type="Letter"  url="72a2cc86478d2559a293f3c4ad9bb1bd.jpg"/>
+      <graphic xml:id="L1916_5745_img_845_2"  type="Letter"  url="0cd0eca5b16c77c57f0331c05e8df382.jpg"/>
+      <graphic xml:id="L1916_5745_img_845_3"  type="Envelope"  url="b0cccb1668c57dc3c8dd741fa33a8d27.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5745_img_845_1"/>
+             3/1/16  Private <lb/>F. Murphy  3RMFG <seg type="unclear">C<hi rend="superscript">o</hi>F</seg> <lb/>Agda Camp <lb/>Co. Cork <lb/>Ireland   Dear Sir   I beg to inform you <lb/>about my <sic>Chrelden</sic> as <lb/>I came to the conclusion <lb/>to take them out as I <lb/>Made that Statement <lb/>to the <sic>Goverment</sic>to <lb/>take them out I have <lb/>got <sic>marred</sic> and She <lb/>is <sic>Inclind</sic> to Look after <lb/>my <sic>Chrenlden</sic> she have <lb/>got two <sic>Chrelden</sic> and <lb/>she is paying and She <lb/>is paying for one of <lb/>them to Constable, <lb/>Neana 
+            <pb n="2" facs="L1916_5745_img_845_2"/>
+             for one of them it is <lb/>not easy to pay out <lb/>of 91 Shillings and to <lb/>and to keep herself I <lb/>was Sick Myself and <lb/>I <sic>yoard</sic> the Balance of <lb/>pay but as bad as I was <lb/>I <sic>Volteerd</sic> to fight for <lb/>my <sic>Cuntry</sic> I was In- <lb/><sic>vailed</sic> home last Ma <lb/>rch and 4 Months <lb/>in <sic>Cilvan</sic> life and <lb/>was Called on Again <lb/>So Dear Sir I Would <lb/>be pleased to know if <lb/>you could let me have <lb/>my <sic>Chrelden</sic> <sic>Me</sic> Wife <lb/>is Number 14 Frances <lb/>Street Tralee Co Kerry <lb/>Ireland Name Anan <lb/>3922116 
+            <pb n="3" facs="L1916_5745_img_845_3"/>
+             Dear Sir <lb/><sic>Chrelden</sic> four and <lb/>the Wife two in Tralee <lb/>homes 
+         </ab>
+      </body>
+   </text>
+</TEI>

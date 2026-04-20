@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0738">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Resident Medical Superintendent to the Inspectors of Lunatics, 15 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from the resident medical superintendent of the District Asylum in Kilkenny to the Inspectors of Lunatics forwarding on three copies of general rules pertinent to the management of the asylum.William Richard Dawson (1864-1950) was appointed HM inspector of lunatics in Ireland in 1911. During the Great War he served in the Royal Ambulance Medical Corps, gaining the rank of lieutenant-colonel, as a specialist in ‘nerve disease’ or shell shock to the troops in Ireland.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered papers, CSO-RP-1916-5615-11194-1</collection>
+                  <idno>https://letters1916.ie/item/738</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-06-15T00:00:00</date>
+              <placeName key="#letters1916_place-1320">District Asylum, Kilkenny, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Inspectors of Lunatics</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0738_img_2251_1"  type="Letter"  url="7ce8b8d8519507521359bfbc1b6facca.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0738_img_2251_1"/>
+                District Asylum, Kilkenny    15 <hi rend="superscript">th day of June 1916</hi>   Gentlemen,   I am sending you forward 3 copies <lb/>of the General Rules for the Management <lb/>of the Asylum for approval together with <lb/>the proofs of same.  <seg type="closer"> I am <lb/>Gentlemen <lb/>Your obedient Servant,   <seg type="unclear">Locus Rn GGI</seg>   The Inspectors of Lunatics  Dublin Castle.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

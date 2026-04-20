@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5501">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from M.P. Kehoe to Sir Roger Casement, 8 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M.P. Kehoe</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from M.P. Kehoe, to Sir Roger Casement (1864-1916). The letter was written during Casement&#39;s eighteen month stay in Germany, where he was attempting to gain German support for an Irish rebellion against British rule. The letter refers to Casement&#39;s attempts to create an Irish Brigade of Irish-born British army soldiers who were then held as prisoners of war in German camps. It was the camp at Linberg, in the Lahn valley, that was designated for the project. The project was, however, largely unsuccessful and only fifty-six men signed up. In the letter, Kehoe looks to arrange a meeting with Casement.
+Casement was later arrested in County Kerry having returned to Ireland in a submarine to try and prevent the Easter Rising from taking place as he felt German support was insufficient. He was hanged in London in August 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casement Papers, Collection List No A15; Ms. 13,085 /21</collection>
+                  <idno>https://letters1916.ie/item/5501</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0288">M.P. Kehoe</persName>
+              <date>1915-11-08</date>
+              <placeName key="#letters1916_place-0160">Germany</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Roger Casement</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0160">Germany</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5501_img_533_1"  type="Letter"  url="117596e09ebd91cd02c8eca17431f5e6.jpg"/>
+      <graphic xml:id="L1916_5501_img_533_2"  type="Letter"  url="a3b001902c0ae7e6239fb83402dd8707.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5501_img_533_1"/>
+             <hi rend="underline">8-11-15</hi>  To Sir Roger Casement   Dear Roger   I am up here with<lb/>German Underofficer who<lb/>has been appointed by<lb/>Connandanter to come to<lb/>Limburg with me to-night.<lb/>9 42pm he wished to<lb/>come to Berlin at this time<lb/>to get some things at his<lb/>home. I want to know<lb/>if it is possible to see you<lb/>in Hotel or where &amp; when<lb/>can I see you. I've got<lb/>some important things to<lb/>say   Your obedient servant<lb/>M.P.Kehoe<lb/>C.Sw.M  
+            <pb n="2" facs="L1916_5501_img_533_2"/>
+            For <lb/>Sir Roger Casement
+         </ab>
+      </body>
+   </text>
+</TEI>

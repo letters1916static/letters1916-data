@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1797">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Harty, Archbishop of Cashel, to Sir John Robert O'Connell, 30 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Harty</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by John Harty (1867-1946), the Catholic archbishop of Cashel. Harty was a strong supporter of the Irish Parliamentary Party. He was a supporter of John Redmond and in 1916 wrote a letter denouncing the Easter Rising and congratulating the people of Cashel for abstaining from the insurrection.
+In this letter Harty recommends Sir John Robert O&#39;Connell for the position of chief crown solicitor and hopes that he is chosen for the position.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/7153/21</collection>
+                  <idno>https://letters1916.ie/item/1797</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1260">John Harty</persName>
+              <date>1916-03-30</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0595">John Robert O&#39;Connell</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1946</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1797_img_1251_1"  type="Letter"  url="0f050ac4c6936da668299deb7b6daf1c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1797_img_1251_1"/>
+             The Palace, <lb/>Thurles.   30th March 1916   My Dear Sir John,   Showing your legal quali- <lb/>fications and also the many benefits <lb/>which you have conferred on University <lb/> Education especially in connection with <lb/>University College, Cork, I sincerely <lb/>hope that you will be appointed to <lb/>the office of Chief Crown Solicitor for <lb/>Ireland. Your appointment would give <lb/>pleasure to many who know your merits.   Yours very faithfully,   +JM Harty   p.s. You may make whatever use you please of <lb/>this letter. +JMH 
+         </ab>
+      </body>
+   </text>
+</TEI>

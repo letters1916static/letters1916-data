@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5537">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Monteith to Roger Casement, 24 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Monteith</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Robert Monteith (1880-1956) to Roger Casement (1864-1916) from Zossen, Germany. Monteith was the commander of the Irish Brigade, appointed by Casement. 
+Casement had spent seventeen months in Germany attempting to secure German support for an uprising in Ireland and raising an ultimately unsuccessful brigade of Irish soldiers in German prisoner of war camps. Casement had been become disillusioned with German assistance and marginalized from the plans for the Rising. He believed there should be no rising without sufficient German support and when he realised that it was going ahead with only a small supply of German arms, a month after this letter was written, he traveled to Ireland to prevent it from taking place. The Germans supplied a submarine to transport Casement, Monteith and Sergeant Beverly (Daniel Bailey) to Ireland but Casement and Beverly were captured after they landed in Kerry on the eve of the Easter Rising. Casement was hanged for treason in London in August 1916.
+This letter refers to the acquisition of machine guns for the Irish Brigade. Monteith reports that he was beginning drill with the guns but regrets the delay in receiving them as they had not been issued with formal authority to take them. There is also a handwritten note by Casement about the issuing of the guns.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sir Roger Casement Papers, Collection List No. A15; Ms. 13,085/24/10</collection>
+                  <idno>https://letters1916.ie/item/5537</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0377">Robert Monteith</persName>
+              <date>1916-03-24</date>
+              <placeName key="#letters1916_place-0605">Zossen, Germany</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1253">Roger Casement</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1956</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5537_img_632_1"  type="Letter"  url="860d49b3d32c1572cea026f524bda5ca.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5537_img_632_1"/>
+              Recd. by me <lb/>on Sunday morning <lb/><hi rend="underline">26.3.16</hi> whilst <lb/>writing my <lb/>farewell <hi rend="underline">"memo"</hi> for <lb/><hi rend="underline">Dr.Curry</hi>    <hi rend="underline">Zossen</hi>  <lb/>3 pm  <hi rend="underline">24.3.16</hi>   Dear Sir Roger -   I have this moment been issued with the <lb/>M.Gs they have been here two days, but I was <lb/><hi rend="underline">not</hi>allowed to have them as no <hi rend="underline">written </hi> <lb/><hi rend="underline">authority</hi> had come along — I am just <lb/>going to start drill now, it is heart breaking <lb/>the time we have lost — I am enclosing a <lb/>note from Mr. Krebbs, he did not know your <lb/>address. Trusting you are keeping well   Yrs sincerely   R.<hi rend="underline">Monteith</hi>    It was on Thursday 16 Mch <lb/>that Captain Nadolny promised <lb/>me in the Gr General Staff the <lb/>machine guns wd be issued at <lb/>once for the training of the band of picked men RC  
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1477">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Máire Ní Catháin to Mabel FitzGerald, 3 June 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Máire Ní Catháin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter sent by Máire Ní Catháin (b. 1875) to Mabel FitzGerald (1884-1957). Máire sympathizes with Mrs FitzGerald on her husband&#39;s imprisonment but, as she writes, at least he is alive, unlike The O&#39;Rahilly. Mabel was the wife of Desmond FitzGerald (1888-1947), an Irish Volunteer who served in the GPO garrison during the Easter Rising. He was subsequently arrested, court-martialled and sentenced to 20 years penal servitude, later commuted to 10 years. Michael Joseph O&#39;Rahilly, self-described as &#39;The&#39; O&#39;Rahilly (1875-1916) was shot in Parnell/Moore Street on 28 April 1916 and died some time later. Both Fitzgerald and O&#39;Rahilly had tried to prevent the Rising but joined in once it started.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1599</collection>
+                  <idno>https://letters1916.ie/item/1477</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">Irish</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0789">Máire Ní Catháin</persName>
+              <date>1916-06-03</date>
+              <placeName key="#letters1916_place-0998">Dingle, County Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1746">2 Loretto Villas, Bray, County Wicklow, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1477_img_930_1"  type="Letter"  url="503fad1393e10387fa8707fd8e736165.jpg"/>
+      <graphic xml:id="L1916_1477_img_930_2"  type="Letter"  url="4357c855fdb2fcdc73c54027fabc1485.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1477_img_930_1"/>
+               Main St Dingle  <lb/>c/o Mrs Adams.  <lb/>  <lb/>June 3 <hi rend="superscript">rd</hi> 1916    <lb/><lb/>A bhean Ní Ghearailt a chara   Tá brón mór<lb/>orm i dtaobh an Gearaltach do bheith<lb/>ins an prusiun &amp; go mór mhór<lb/>muintir an Oileáin, ach is mór<lb/>an ní ná bhfuil sé marbh mar<lb/>an t-Ó Rahaille. Bíonn daoine<lb/>annso ag ráth liom go raibh<lb/>sé <seg type="del">a</seg> na fhear <sic>Gearám</sic><hi rend="superscript"><sic>n</sic></hi><sic>ach</sic> 
+            <pb n="2" facs="L1916_1477_img_930_2"/>
+             acht bíonn mise ag ráth ná raibh<lb/>acht Éireannach ceart. <seg type="del">&amp;</seg> deir cuid<lb/>eile aca go raibh sé ag rághail<lb/>airgead ó Germany agus Bli<seg type="del">g</seg>the<lb/>leis. Níl mórán fios agam anois<lb/>Ó'n Oileán mar ni rabhas ann leí<lb/>tamall connas tá Dem &amp; Piaras<lb/>tá sail agam tá siad go maith  Slán leat anois  <seg type="closer"> Mise do Chara   </seg>  <seg type="closer"> Máire Ni Catain </seg>    
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3217">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Gerald Blue to Sir Robert Chalmers, 15 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Gerald Blue</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-8461</collection>
+                  <idno>https://letters1916.ie/item/3217</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1247">Gerald Blue</persName>
+              <date>1916-05-15</date>
+              <placeName key="#letters1916_place-0336">Department of Recruiting for Ireland, 4th Area Office, Mansion House, Dublin, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3217_img_2639_1"  type="Letter"  url="571599a06fc8da8c21e0d4f9be72a3d1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3217_img_2639_1"/>
+              Department of Recruiting for Ireland    4th AREA OFFICE     MANSION HOUSE     DUBLIN.    Telephone No. 4838. <lb/> I5th. May I916.    Sir Robert Chalmers, K.C.B.<lb/>Under Secretary,<lb/>Dublin Castle.    Sir, <lb/>I have the honour to submit for your consideration an<lb/>application for the position of Secretary to the Committee about to<lb/>be formed in connection with the damage to the City.<lb/>For a number of years I acted as Fire Loss Assessor to<lb/>a number of the leading Fire Insurance Offices in Dublin and have<lb/>a wide experience of the settlement of claims connected with all <seg type="unclear">class</seg><lb/>classes of trades.<lb/>Shortly after the outbreak of war I engaged in Recruiting<lb/>work in various parts of Ireland and since the inception of this<lb/>Office have acted as Organiser for the City and County of Dublin<lb/>under the Sub Directo for the Area, Alderman James Moran.<lb/>I have considerable experience of secretarial work and<lb/>enjoy the confidence of a number of influential business men in<lb/>the City.<lb/> I have the honour to be, Sir,<lb/>Your obedient servant,<lb/>Gerald Blue  
+         </ab>
+      </body>
+   </text>
+</TEI>

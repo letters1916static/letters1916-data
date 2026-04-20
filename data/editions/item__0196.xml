@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0196">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Edward Thrift to Sir Matthew Nathan, 7 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Edward Thrift</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Professor William Edward Thrift (1870-1947) to Sir Matthew Nathan (1862-1939) the under-secretary to the Chief Crown Secretary of Ireland. Thrift is writing to thank Nathan for his consideration of Thrift&#39;s previous letter, in which Thrift brought to Nathan&#39;s attention a Dublin newspaper named &#39;Eye-Opener&#39;. Thrift claimed that the paper was making terrible insinuations about some of the members of his Rathmines Parish Church in an article entitled &#39;Black Peril&#39;. Thrift claims that the people being targeted are good people and that the paper was causing serious harm.Thrift (1870-1942) was an academic and politician. He was a fellow of Trinity College Dublin and an Independent TD for Dublin University until the abolition of university representation. In 1922 he announced in the house that he did not apologise for his previous unionism, but recognised that the days of unionism were over, and was fully committed to serving the new political reality. The letter was addressed to Sir Matthew Nathan (1862 - 1939). Nathan was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/6216/1</collection>
+                  <idno>https://letters1916.ie/item/196</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0186">William Edward Thrift</persName>
+              <date>1916-04-07</date>
+              <placeName key="#letters1916_place-1458">80 Grosvenor Square, Rathmines, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0196_img_1338_1"  type="Letter"  url="976aca7d7e53c2a5a82e06e896b0d0b0.jpg"/>
+      <graphic xml:id="L1916_0196_img_1338_2"  type="Letter"  url="81d4cde24873817359be3a75b18ab9d1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0196_img_1338_1"/>
+                80, Grovsvenor Square,  Rathmines,  Dublin.    7 April 1916    The Rt. Hon.   Sir Matthew Nathan  Chief Secretary's Office  <hi rend="underline">Dublin Castle</hi>   Dear Sir,   I am much obliged <lb/> for your kind letter of 4th inst. <lb/> in reply to mine of 31st Mar., and <lb/> for the information you give me. <lb/> I am sure you will do all <lb/> in your power to prevent harm <lb/> being done. As you say, I had <lb/> not thought of you taking <lb/>  
+            <pb n="2" facs="L1916_0196_img_1338_2"/>
+              steps under the Defence of the <lb/> Realm Act, but I did <lb/> think you might have powers, <lb/> of the exact nature of which <lb/> I was unaware, to deal with <lb/> a paper, which seemed to me <lb/> a danger to public morals.    I write merely to <lb/> thank you for your reply <lb/> and kind consideration of my letter.  <seg type="closer"> Yours faithfully  W. E. Thrift </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

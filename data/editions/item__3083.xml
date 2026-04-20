@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3083">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Harold Perkins to Mrs. Leigh White, 8 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Harold Perkins</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Handwritten letter from Harold Perkins to Arethusa Leigh-White asking permission to auction the tenancy of land he holds from the Bantry Estate for the last 21 years. He explains his personal and financial situation. There is a note by Leigh-White on her answer.
+This is a letter from the extensive Bantry Estate Collection, held in the Boole Library of University College Cork. The collection, which covers a period of 300 years, contains the formal records regarding the legal, financial and general administration of this large house and estate in County Cork.  
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>UCC Library Special Collections and Archives</repository>
+                  <collection>The Bantry Estate Collection BL_E_B_446_265</collection>
+                  <idno>https://letters1916.ie/item/3083</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1350">Harold Perkins</persName>
+              <date>1915-12-08</date>
+              <placeName key="#letters1916_place-0837">Union Hill, Bantry, Co. Cork</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Arethusa Leigh-White</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3083_img_2487_1"  type="Letter"  url="db9bd9e7d727ec2e8b6e0da510d208c6.jpg"/>
+      <graphic xml:id="L1916_3083_img_2487_2"  type="Letter"  url="9c211ca1a5f7ad91532e10f252140421.jpg"/>
+      <graphic xml:id="L1916_3083_img_2487_3"  type="Letter"  url="16527490bc42f1378951cc453b995d8f.jpg"/>
+      <graphic xml:id="L1916_3083_img_2487_4"  type="Letter"  url="c9025efae81439957c1bf18b56d99a00.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3083_img_2487_1"/>
+             Mr H. Perkins <lb/> Union Hill <lb/> Bantry <lb/>Co Cork   Wed 8 Dec   To Mrs Leigh White   My Dear <lb/> Friend   I beg to ask your <lb/> permission to Auction <lb/> the goodwill and tennen <lb/>cy of your ground in <lb/> my possession having <lb/> been in the family over <lb/> (21) years. So you know <lb/> how I have stocked the <lb/> same also put it under <lb/> repair.   <hi rend="underline">(The reason)</hi> <lb/> I am leaving Bantry <lb/> as things are bad and
+            <pb n="2" facs="L1916_3083_img_2487_2"/>
+             I remain your sincere <lb/>friend   Harold Perkins 
+            <pb n="3" facs="L1916_3083_img_2487_3"/>
+            have had quarrels at <lb/> home with the wife's <hi rend="underline">brother</hi> <lb/> because I corrected my <lb/> child &amp; punished him <lb/> they said I would not <lb/> do it again; I said I <lb/> would see about that <lb/> and so I will.   I have written to Brighton <lb/> asking to take me back, <lb/> if not granted I am going <lb/> to <hi rend="underline">Australia</hi> fruit farming. <lb/> Trusting you will give <lb/> me permission to do as <lb/> I ask after expending <lb/> all my savings and <lb/> funds given me on the <lb/> said ground without <lb/> a bit incomming of it. 
+            <pb n="4" facs="L1916_3083_img_2487_4"/>
+             I don’t know the full <lb/>meaning of this <lb/>request - but the man <lb/>is a discharged sailor <lb/>it is true that money <lb/>amounting to nearly £40 <lb/>at least has been expended <lb/>by him in the   <lb/>I have said I have no <lb/>proof but have provided <lb/><seg type="unclear">to</seg> Trustees to deal with   ATW. 
+         </ab>
+      </body>
+   </text>
+</TEI>

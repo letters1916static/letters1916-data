@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1435">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Thomas Little Heath to Sir Matthew Nathan, 26 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Little Heath</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Sir Thomas Little Heath (1861 - 1940), secretary to the treasurer, to Sir Matthew Nathan (1862-1939). Heath was a British civil servant, mathematician, classical scholar, historian of ancient Greek mathematics and translator.Nathan was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.In the letter Heath tells Nathan that the legal personal representatives of the late Mr. Arthur James Johnston will be awarded three hundred and forty pounds. Heath also returns the death certificate.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3952</collection>
+                  <idno>https://letters1916.ie/item/1435</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1472">Thomas Little Heath</persName>
+              <date>1916-02-26</date>
+              <placeName key="#letters1916_place-0893">Whitehall, London, S.W., United Kingdom</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1435_img_855_1"  type="Letter"  url="81263de86483f52ce6e7adfc4dcedcc4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1435_img_855_1"/>
+                TREASURY CHAMBERS    29th February 1916  . 4606 16.  Sir   In reply to your letter of the <lb/>16th instant I am directed by the Lords Commissioners of  2952 <lb/>His MajestyÃ¢â¬â¢s Treasury to state for information of His Excellency the <lb/>Lord Lieutenant that They are pleased to award to <lb/>the legal personal representatives of the late Mr. Arthur James Johnson, <lb/>Staff Officer, Local Government Board, Ireland, <lb/>a gratuity under section 2 (1) of the Superannuation Act, 1909, of Three <lb/>hundred and forty pounds  ÃÂ£340:-:- <lb/>which the Paymaster General has been instructed to pay forthwith.   The death certificate is returned herewith. <seg type="closer"> I am, <lb/>Sir, <lb/>Your obedient Servant,   T.L. Heath   The Under Secretary  Irish Office.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

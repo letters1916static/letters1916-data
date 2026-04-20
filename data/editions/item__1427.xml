@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1427">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J. Jackson to Lady Clonbrock, August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J. Jackson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from a prisoner of war, J. Jackson, Connaught Rangers, to Lady Clonbrock (1839-1928). The letter thanks Lady Clonbrock for cigarettes she had sent via the &#39;Tobacco Fund&#39; in London. The fund was managed by the &#39;Weekly Dispatch&#39; newspaper to supply cigarettes to servicemen in the British army and the postcard would have been received by the soldier with the cigarettes. In earlier cards, soldiers gave their unit information but this was stopped by the British authorities for security reasons.Augusta Caroline Dillon (née Crofton) was the wife of Luke Gerald Dillon (1834-1917), the 4th Baron of Clonbrock, Co. Galway and the daughter of Lord Crofton of Mote Park (Edward Henry Churchill Crofton, 3rd Baron), Co. Roscommon. Aged 75 at the outbreak of war, Lady Clonbrock, worked closely with the Irish Women&#39;s Association to send basic necessities to Irish POWs. Many of her care packages went to members of the Connaught Rangers imprisoned in Limburg near Cologne.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No 54, Ms 35,796 (14)</collection>
+                  <idno>https://letters1916.ie/item/1427</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0558">J. Jackson</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0049">Lady Clonbrock</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1237">Ahascragh, County Galway</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1427_img_84_1"  type="Letter"  url="5c44b858b834a86487e85d6d46bea605.jpg"/>
+      <graphic xml:id="L1916_1427_img_84_2"  type="Envelope"  url="d9044d25bbf5855d93a3a68379e5d413.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1427_img_84_1"/>
+                Dear Lady Clonbrock   Many thanks for <sic>Cigarettes</sic> which I <lb/>received in good condition, I am in good <lb/>health again, having just returned from <sic>Hospital</sic><lb/>after a stay of 3 weeks. <lb/>Thanking you once more for your favour.  <seg type="closer"> I remain <lb/>B<hi rend="superscript">r</hi><seg type="unclear">Seddlis</seg> J Jackson. </seg> At the request of the Authorities. <lb/>In thanking the donor, please do not mention your unit.    
+            <pb n="2" facs="L1916_1427_img_84_2"/>
+              <seg type="head">POST CARD</seg> <lb/>A Request <lb/>Most of these post cards <lb/>will naturally be returned to <lb/>the folks at home who are <lb/>sending the tobacco and <lb/>cigarettes. <lb/>And if the message on <lb/>this postcard is of more than <lb/>personal interest, then the <lb/>friend who receives this <lb/>post card would greatly help <lb/>the good work by sending <lb/>it to the Organizer of the <lb/>Tobacco Fund. <lb/>It would probably help <lb/>the Organizer to stimulate <lb/>further subscriptions, and â <lb/>a lot more money is reâ <lb/>quired to keep up supplies <lb/>to the brave men. <lb/>Weekly Dispatch <lb/>Tobacco fund <lb/>Carmelite House, <lb/>London, E. C. <lb/>14     Lady Clonbrock,  Clonbrock,  Ahascragh,  Co. Galway,  Ireland.     
+         </ab>
+      </body>
+   </text>
+</TEI>

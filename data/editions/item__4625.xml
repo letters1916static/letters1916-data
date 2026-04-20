@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4625">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas Kirkpatrick to the Manager, Munster and Leinster Bank, 22 October 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Kirkpatrick</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>From 1910 until 1954 Thomas Percy Kirkpatrick (1869-1954) served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-14-54</collection>
+                  <idno>https://letters1916.ie/item/4625</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1453">Thomas Kirkpatrick</persName>
+              <date>1918-10-22</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-1937">3 Lower Baggot Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1954</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4625_img_3966_1"  type="Letter"  url="5ed3220c894b8a69aee786da0033a72c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4625_img_3966_1"/>
+             22 Oct, 1918   The Manager, <lb/>Munster &amp; Leinster Bank, <lb/>2 Lower Baggot street. <lb/>also Bank of Ireland <lb/>Ulster Bank   Dear Sir,   I beg to inform you that at the stated annual <lb/> meeting of the President and Fellows of the College <lb/>held on St. Luke's day following appointments were <lb/>made: <lb/>President: Joseph O'Carroll, Md.D., 43 Merrion Square. <lb/>Vice-President: S.T. Gordon, F.R.C.P.I, 26 Morehampton Road. <lb/>and I have requested the new Vice-President to send <lb/>you a copy of his signature for registration.   Yours faithfully,  <lb/>Fellow &amp; Registrar.
+         </ab>
+      </body>
+   </text>
+</TEI>

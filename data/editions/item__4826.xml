@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4826">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to James Craig, 5 March 1921</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>James Craig (1861-1933) was a demonstrater in anatomy at the RCSI.  He served as Registrar of the RCPI (1897-1910) and later became its censor and vice-president (1912-1914).  From 1919-1921 he served as President of the RCPI.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-15-22</collection>
+                  <idno>https://letters1916.ie/item/4826</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1921-03-05</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1198">James Craig</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4826_img_4152_1"  type="Letter"  url="e13e6305756729e21c271ef8722c0c7e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4826_img_4152_1"/>
+             RCP1/2/3/2/15/22   5th MARCH 21   James Craig Esq., M.D.,<lb/>President R.C.P.I.,<lb/>Dublin.   Dear Mr.President,   I am instructed by the Registrar to forward you<lb/>the draft letter which he proposes to send to the Commander<lb/>of the Forces in Ireland subject to your approval. Should <sic>yo</sic><lb/>desire to make any alterations in the letter will you kindly<lb/>do so. I also enclose a copy of the resolution <hi rend="underline">Rg</hi> Hospital<lb/>Finance which has been approved by the two Royal Colleges<lb/>with regard to which the Registrar wishes for your instruc-<lb/>tions.   Yours faithfully,  
+         </ab>
+      </body>
+   </text>
+</TEI>

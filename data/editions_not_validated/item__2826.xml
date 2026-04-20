@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2826">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edmund Talbot to Lady Londonderry, 18 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edmund Talbot</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Lord Edmond Talbort to Lady Londonderry. This letter is part of a series of correspondence belonging to Lady Londonderry, a large proportion of which concerns Sir Edward Carson and opposition to the Third Home Rule Bill. Lady Londonderry was a prominent figure in politics and high­ society from 1890 until 1919. Her correspondence includes many important figures in literature, the arts, the military, law and the church.
+
+Lord Edmund Talbot (1855-1947), also known as Edmund Bernard Fitzalan-Howard, first Viscount FitzAlan of Derwent, was a leading British politician and significant opponent of Home Rule. He served as Conservative Whip from 1905 until 1913, as Unionist Chief Whip from 1913 until 1921, and as Viceroy of Ireland from April 1921 until December 1922, the period in which Ireland underwent partition.
+
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Theresa, Lady Londonderry Papers, D2846/2/21/96</collection>
+                  <idno>https://letters1916.ie/item/2826</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0852">Edmund Talbot</persName>
+              <date>1915-12-18</date>
+              <placeName key="#letters1916_place-0122">1, Buckingham Palace Gardens, Westminster, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Theresa Talbot</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1947</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2826_img_2241_1"  type="Letter"  url="5728305c56543dafd21249adec21ff64.jpg"/>
+      <graphic xml:id="L1916_2826_img_2241_2"  type="Letter"  url="84eb2f295d2770eb2867d3ccfeb2feac.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2826_img_2241_1"/>
+             1, BUCKINGHAM PALACE GARDENS, <lb/>S. E. 1   Dec: 18. 1915.   Dear Lady Londonderry   I saw Goddes <lb/>but found from him <lb/>it was not his job <lb/>but <seg type="del">ar</seg> <seg type="unclear">Addison's</seg>, or <lb/> Minister of Reconstruction..    Unfortunately he <lb/>is off to Machester <lb/>&amp; can't see you.   I am very sorry <lb/> &amp; fear you must
+            <pb n="2" facs="L1916_2826_img_2241_2"/>
+            wait for a later <lb/ opportunity.    Yours <sic>affect</sic>    Edmond Talbot 
+         </ab>
+      </body>
+   </text>
+</TEI>

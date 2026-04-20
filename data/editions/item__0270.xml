@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0270">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from F. L. C. Houd to Sir Robert Chalmers, 12 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>F. L. C. Houd</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The is a letter sent by F. L. C. Houd, the assistant secretary of the Board of Agriculture and Fisheries, to Robert Chalmers (1858-1938) Under Secretary for Ireland.Chalmers became Under secretary for a brief period following the resignation of Matthew Nathan (1862-1939), who relinquished his position following his political failure during the 1916 Easter Rising. The letter concerns an enclosure of a letter from Mr John Mitchell Moubray (b. 1856) in which he applies to acquire a permit for the travel of one of his Irish workers. In the enclosed letter he states that John Campbell, the Irish worker, has worked for him for 25 years and that he has sent him money to get to England but he is unable to travel due to the restrictions as a result of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>National Archive of Ireland-Chief Secretary&#39;s Office-Registered Papers, NAI/CSO/RP/1916/5611/8172/1</collection>
+                  <idno>https://letters1916.ie/item/270</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0041">F. L. C. Houd</persName>
+              <date>1916-05-12</date>
+              <placeName key="#letters1916_place-0413">Whitehall Place, London</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers </persName>
+              <date></date>
+              <placeName key="#letters1916_place-0858">Irish Office, Old Queen Street, Westminster, London.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0270_img_1464_1"  type="Letter"  url="5fef73282d94136c4f9456b3fcfee7a5.jpg"/>
+      <graphic xml:id="L1916_0270_img_1464_2"  type="Enclosure"  url="47934f55b36d6a1afc9d67fac1079f52.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0270_img_1464_1"/>
+                BOARD OF AGRICULTURE AND FISHERIES,  WHITEHALL PLACE,  LONDON, S.W.    12th May, 1916.  <hi rend="underline">No. L. 9838/1916.</hi><lb/> Sir,   I am directed by the President of the Board of Agriculture<lb/> and Fisheries to forward to you the enclosed copy of a letter dated<lb/> the 10th instant which has been received in this Department from<lb/> Mr. J.M. Moubray, of Sutton Farm, Lewes, with reference to his desire<lb/> to secure a permit for the passage to this Country of some Irish<lb/> agricultural laborers whom he has engaged.  Mr Moubray has been informed accordingly <seg type="closer"> I am , <lb/> Sir,<lb/> Your obedient Servant,  F. L. C. Houd <lb/> Assistant Secretary<lb/>  The Under Secretary,  The Irish Office  Old Queen Street,  Westminster, S.W.  </seg> 
+            <pb n="2" facs="L1916_0270_img_1464_2"/>
+              <hi rend="underline">COPY</hi> <seg type="head"><hi rend="underline">MEMORANDUM</hi></seg>   Sutton Farm,  Lewes.    10 May, 1916.   From <lb/> J.M. Moubray.   The Secretary,  Board of Agriculture,  London.   Dear Sir,   I am very much hindered in my work by not getting my<lb/> Irishmen over. <hi rend="underline">Please send a Licence</hi> by first post to John<lb/> Cambell and a lad, address Faheens, Swinsford, Co., Mayo, Ireland.  This man has worked for me for 25 years. I sent him<lb/> the money to bring him over but he cannot get, owing to the<lb/> Dublin Affair. I will be pleased to hear that you have<lb/> sent him a pass to come to me <seg type="closer"> Yours faithfully, <lb/> (signed) John M. Moubray .</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5897">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Marquess of Sligo to Lady Clonbrock, 23 October, 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>The Marquess of Sligo</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letters from George Ulick Browne (1856-1935), 6th Marquess of Sligo to Lady Clonbrock, Augusta Caroline Dillon (née Crofton), (1839-1928), wife of Luke Gerald Dillon, 4th Baron Clonbrock (1834-1917). Lady Clonbrock was one of a number of ladies who were members of the Irish Women&#39;s Association. Formed in London in the Spring of 1915, the IWA.&#39;s purpose was to provide food and comforts for prisoners of war belonging to Irish Regiments.
+The writer refers to two letters from Connaught Rangers Prisoners of War in Bulgaria to Lady Mayo, Geraldine Sarah Ponsonby, Countess of Mayo, (1863-1944). These POWs claimed that they hadn&#39;t received any parcels. Sligo advises that this is incorrect and goes on to say that the men from the Connaught Rangers are apparently playing everybody, begging here and there and pretending that they are being neglected.
+The writer says that this will continue unless the people sending the parcels consult first with Regimental and Central Organisations.
+He encloses a circular which he issued the previous June and in which he outlines correct procedure. This document has not survived.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No. 54; Ms. 35,796/11/3</collection>
+                  <idno>https://letters1916.ie/item/5897</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0121">The Marquess of Sligo</persName>
+              <date>1916-10-23</date>
+              <placeName key="#letters1916_place-2009">Westport House, Co. Mayo, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0483">Augusta Caroline Dillon</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1545">Clonbrock House, Ahascragh, Co. Galway, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1935</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5897_img_992_1"  type="Letter"  url="9fefc5eff5ba630bed5f897977908a20.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5897_img_992_1"/>
+             23rd. October, 1916.   The Lady Clonbrock, <lb/>Clonbrock, <lb/>Ahascragh, <lb/>Co. Galway.   Dear Lady Clonbrock,   re Yours of the 17th. instant, - enclosing two letters (which I return herewith) from men <lb/> who wrote to Lady Mayo, i.e. No. 10207 Lce Corpl P.Lynch and No. 3875 Pte W. Foland, both <lb/>5th Connaught Rangers, Prisoners of War at Phillippoplis, Bulgaria, stating that they had <lb/>not received any parcels, either Clothing or food. I find that both these men have been <lb/> receiving their parcels regularly, and have as regularly acknowledged them. They have <lb/>received complete outfits of Clothes, shaving &amp;c &amp;c., and another complete outfit is going <lb/> out this week.   I regret to say that the men of the Connaught Rangers are in the habit of begging <lb/>right and left, apparently from everybody they know, and misrepresenting that they are <lb/> being neglected, but as long as people send parcels individually, in reply to any request <lb/>that may be made, and not through Regimental or Central Organisations, they are indeed <lb/>encouraged to do so.   I enclose a Circular which I issued to all my Subscribers last June, in which I <lb/>pointed out the procedure recommended with reference to Prisoners of War in Bulgaria.   Sincerely   <hi rend="underline">Sligo</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

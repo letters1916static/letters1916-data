@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1403">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Brown to Sir Malachy Kelly, 10 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Brown</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from solicitor James Brown to Malachy Kelly asking for a reply concering the case of the death of Elizabeth Hogg.Sir Malachy J. Kelly (1851-1916) was the Chief Crown Solicitor for Ireland. He was appointed Crown Solicitor for Mayo in 1884 and was involved in a number of high profile cases. In 1905, he was appointed Chief Crown Solicitor for Ireland and moved to Dublin.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3888</collection>
+                  <idno>https://letters1916.ie/item/1403</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0489">James Brown</persName>
+              <date>1916-03-10</date>
+              <placeName key="#letters1916_place-2047">Broad Street, Magherafelt, County Derry</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0509">Malachy Kelly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1403_img_798_1"  type="Letter"  url="e3ce35721e556c70884d3bec9332b78f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1403_img_798_1"/>
+                BROAD STREET,  MAGHERAFELT    10th March 1916   Dear Sir,   <hi rend="underline">Elizabeth Hogg deceased</hi>  I wrote you herein some time ago <lb/>but got no reply and I would thank you to <lb/>give this matter your earliest consideration. <seg type="closer"> Yours faithfully  James Brown   Sir Malachy J Kelly  Chief Crown Solicitor for Ireland  The CastladdrLine>  Dublin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0192">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Lancelot Worthy Horne to Robert Chalmers 31, May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Lancelot Worthy Horne</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Lancelot Worthy Horne (1875-1924), railway superintendent, to Robert Chalmers (1858-1938) under-secretary for Ireland. This letter is in reference to the journey made by Augustine Birrell (1850-1933), former chief secretary of Ireland, back to Dublin after the outbreak of the Easter Rising. Horne is requesting payment of the rail fares from London to Holyhead for Birrell and his party.Horne began working at the N. W. Railway Company at 17 and was appointed the position of superintendent in 1914. Sir Robert Chalmers was sent to Ireland as replacement under-secretary for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5612/9266</collection>
+                  <idno>https://letters1916.ie/item/192</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1547">Lancelot Worthy Horne</persName>
+              <date>1916-05-31</date>
+              <placeName key="#letters1916_place-0554">London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0192_img_1332_1"  type="Letter"  url="c9a17f68e19fb6849ca08582d5055846.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0192_img_1332_1"/>
+                L.W.Horne  Superintendent of the Line  London &amp; North Western Railway  Office of Superintendent of the Line,  Euston Station,  London.  N.W.    31st May 1916.   Dear Sir,   I understand my letter of the <lb/>6th inst. addressed to the Command Paymaster, <lb/>Irish Command, Dublin, respecting the <lb/>journey of the Rt. Hon. A. Birrell and party <lb/>from London to Holyhead on Wednesday, 26th <lb/>April, has been forwarded to you, and I <lb/>shall be glad if you will kindly send me a <lb/>warrant to cover the fares for seven first <lb/>class passengers Euston to Holyhead <lb/>(Â£14.17.6.), and one first class passenger <lb/>Chester to Holyhead (15/-) and oblige. <seg type="closer"> Yours faithfully,  L.W.Horne <lb/>for L.W.H   Under Secretary for Ireland,  Dublin Castle.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

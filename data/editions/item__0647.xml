@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0647">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Father Edward Murnane to Margaret Gavan Duffy, 31 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Father Edward Murnane</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Father Edward F. Murnane to Margaret Gavan Duffy (1876–1967). Murnane discusses their appeals for the release of Sir Roger Casement (1864–1916), including an appeal to John Redmond (1856–1918), the leader of the Irish Parliamentary Party.Margaret Gavan Duffy was the wife of George Gavan Duffy (1882-1951), who acted as solicitor to Casement during his trial for treason. Casement had been arrested in Kerry in April 1916 during a failed landing of German arms for use in the Easter Rising. He was hanged in August 1916. Gavan Duffy was later one of the Irish signatories of the Anglo-Irish Treaty in 1921.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>George Gavan Duffy Papers, P152/10</collection>
+                  <idno>https://letters1916.ie/item/647</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0599">Father Edward Murnane</persName>
+              <date>1916-07-31</date>
+              <placeName key="#letters1916_place-0552">London, UK</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Margaret Gavan Duffy</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0647_img_212_1"  type="Letter"  url="118977b2867c3d67aa05b4b14da440b3.jpg"/>
+      <graphic xml:id="L1916_0647_img_212_2"  type="Letter"  url="9924f08ed97bda0dbdbf1b99a4707b96.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0647_img_212_1"/>
+                THE PRESBYTERY,  DOCKHEAD,  BERMONDSEY, S.E.    July 31. 1916   Dear Mrs Gavan Duffy.   Your wire, I had half<lb/> a suspicion it was yours, filled<lb/> me with joy. But it has not<lb/> been realised. Anyhow I wrote<lb/> him a long letter on the<lb/> strength of it. You will see<lb/> by this letter, one of many,<lb/> that Lady O Conor is doing<lb/> her utmost and successfully<lb/> to obtain influential names<lb/> And she is doing what I <lb/>told Roger, a multitude are<lb/> doing â moving Heaven by<lb/> our prayers and the powers<lb/> that be by our letters &amp; appeals  
+            <pb n="2" facs="L1916_0647_img_212_2"/>
+              He is having Masses, Communions<lb/> &amp; prayers here daily âyou need<lb/> not return Lady O'Conor's<lb/> letter. I put your very thoughts<lb/> in my appeal to John Redmond<lb/> what a help Roger would<lb/> be to the new &amp; happier Ireland<lb/> we are all striving &amp; praying<lb/> for. I am so grateful to you<lb/> &amp; Gavan for the privilege of<lb/> knowing Roger, whose friendship<lb/> will always be a very hallowed<lb/> one. I shall leave this letter<lb/> open until the morning in<lb/> case any fresh news comes.<lb/> With a grateful blessing and<lb/> prayers for you, Gavan and<lb/> the children. <seg type="closer"> Ever yr sincere friend.   E.F. Murnane </seg> Feast of St. Peter's Chains. Let us<lb/> hope a happy omen of our dear<lb/> friend's release. No later news.  
+         </ab>
+      </body>
+   </text>
+</TEI>

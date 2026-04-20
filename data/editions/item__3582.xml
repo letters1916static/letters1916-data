@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3582">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Laurence Ginnell to Hanna Sheehy Skeffington, 19 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Laurence Ginnell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>In this letter from Laurence Ginnell (1852 – 1923) to Hanna Sheehy Skeffington (1877-1946), Laurence expresses his sympathy regarding the death of Hanna&#39;s husband, Francis. He then assures her that he is posing questions to parliament, which he was a member of from 1906 to 1916, regarding Francis&#39; death. He asks her to recommend to any friends of hers who may have &#39;bad cases&#39; to send him information, as he is willing to advocate for them as well.
+
+Laurence Ginnell was an Irish nationalist politician, lawyer, and member of parliament. He initially ran as a member of the Irish Parliamentary Party, but, from 1910 onward he ran as an Independent Nationalist. Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the founder of the Irish Women’s Franchise League and a founding member of the Irish Women Workers’ Union. She was the widow of Francis Sheehy-Skeffington who was summarily executed on 26 April 1916. She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy-Skeffington Papers, Collection List No.47; MS 33,605/3-3</collection>
+                  <idno>https://letters1916.ie/item/3582</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1007">Laurence Ginnell</persName>
+              <date>1916-05-09</date>
+              <placeName key="#letters1916_place-0554">London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0184">11 Grosvenor Pl, Rathmines, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1923</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3582_img_2983_1"  type="Letter"  url="9f27561908a67397b2a8949ee59c8f47.jpg"/>
+      <graphic xml:id="L1916_3582_img_2983_2"  type="Envelope"  url="6851ea1791958cf7afc2fa41548e6154.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3582_img_2983_1"/>
+             London,   9<hi rend="superscript">th</hi> May, 1916.   Deepest Sympathy.  Morrell and myself asked <hi rend="underline">urgent</hi><lb/>questions today.  Prime Minister said he had no<lb/>knowledge, but would inquire.<lb/>I then gave notice of a question<lb/>for Thursday.  Kindly tell all friends who have<lb/>bad cases that if they send me<lb/>particulars I will promptly<lb/>do my utmost for them.  <lb/> L.Ginnell  
+            <pb n="2" facs="L1916_3582_img_2983_2"/>
+             Mrs H. Sheehy Skeffington <lb/>111 Grosvenors Place <lb/>Rothmines <lb/>Dublin 
+         </ab>
+      </body>
+   </text>
+</TEI>

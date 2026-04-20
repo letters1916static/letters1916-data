@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5760">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from M.C Wright to Lady Clonbrock, 18 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mabel Crawford Wright</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Cover letter from Irish War Hospital Supply to Lady Clonbrock (Augusta Caroline Dillon (née Crofton), wife of Luke Gerald Dillon, 4th Baron Clonbrock) for an attached lot of leaflets the creation of centres County Galway for the collection of moss for surgical dressings.
+
+Ms 35,796 (9) Correspondence relating to the Weekly Dispatch “Tobacco Fund” for British servicemen; 14 items
+1916</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Ms 35,796 (9) ; Collection List 54</collection>
+                  <idno>https://letters1916.ie/item/5760</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0535">Mabel Crawford Wright</persName>
+              <date>1916-04-18</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0049">Lady Clonbrock</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1862">Galway, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5760_img_86_1"  type="Letter"  url="6b43ed325a0afb4e2b22ab498f8a9322.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5760_img_86_1"/>
+             Irish War Hospital Supply,<lb/> Royal College of Science Sub-Depot.   April 18<hi rend="superscript">th</hi> 1916   Dear Madam   We have much pleasure in forwarding<lb/> you the dozen leaflets as requested and shall<lb/> send you a further supply should you<lb/> require them.   Yours truly  M.C. Wright<lb/> <sic>Superintendant</sic> Sphagnum Dept.<lb/> per B.D.S D.
+         </ab>
+      </body>
+   </text>
+</TEI>

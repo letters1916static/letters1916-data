@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3466">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from Bulmer Hobson to Hanna Sheehy Skeffington, 15 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Bulmer Hobson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A postcard from Bulmer Hobson (1883-1969)  to Hanna Sheehy Skeffington (1877-1946) concerning the programme for the upcoming fundraising concert in aid of the &#34;Irish Citizen&#34;.
+
+John Bulmer Hobson was an Irish nationalist and a leading member of the Irish volunteers. In 1904, he became a member of the Irish Republican Brotherhood (IRB). He was kept unaware of the plans of the Rising; while he could detect some underground preparations he was unable to find any evidence for it. On discovery of the plans for the Rising, Hobson attempted to alert the other members of the Irish Volunteers; he was imprisoned at gunpoint, and kept hostage while the Rising was underway. After the Rising, Hobson went into hiding to avoid arrest, an action which hurt his future political prospects and led to rumors that he was a traitor to the Volunteers and the IRB. Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the widow of Francis Sheehy-Skeffington (who was summarily executed on 26 April 1916). She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47; MS 33,604/16-35</collection>
+                  <idno>https://letters1916.ie/item/3466</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1109">Bulmer Hobson</persName>
+              <date>1916-02-15</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0720">11 Grosvenor Place, Rathmines, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1969</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3466_img_2875_1"  type="Letter"  url="ca2fa3e79f844b640ba145320eb7a231.jpg"/>
+      <graphic xml:id="L1916_3466_img_2875_2"  type="Letter"  url="16463e3ee9cf933c27a9ec48ffdc93df.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3466_img_2875_1"/>
+             15 FEB 1916   I met Madame  <seg type="unclear">before arriving to <hi rend="underline">Lpap</hi></seg>  &amp; she will <lb/>give an <seg type="unclear">adut</seg> to programme <lb/>a 2/6. Mables same as the <lb/>other programme.   <hi rend="underline">B.H.</hi> 
+            <pb n="2" facs="L1916_3466_img_2875_2"/>
+             Mrs Sheehy Skeffington <lb/>11 Grosvenor Place <lb/>Rathmines <lb/><hi rend="underline">Dublin</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4215">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Samuel Shaw to James Shaw, 18 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Samuel Shaw</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Samuel Shaw to his father, James Shaw, reassuring his father that he is well and checking in on the children at home. Samuel comments on the loneliness his father must feel now all the boys have gone.
+
+Samuel Henry Shaw (1896-1967) was a sergeant with the 10th Battalion, Royal Inniskilling Fusiliers. He volunteered for active service in September 1914. Before enlisting Samuel was a member of the Portstewart Company, Coleraine Battalion, North Derry Regiment, Ulster Volunteer Force. Samuel served in France, and was wounded during the Battle of the Somme in July 1916 and again in early 1917 and in 1918. Before the War he was employed as a ironmonger&#39;s assistant. His father, James, was a fisherman.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Shaw Papers, D1962-37</collection>
+                  <idno>https://letters1916.ie/item/4215</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0493">Samuel Shaw</persName>
+              <date>1916-10-18</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">James Shaw</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1967</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4215_img_3585_1"  type="Letter"  url="676e9eeb4cdff1398c482133afb9bad1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4215_img_3585_1"/>
+             B.E.F.   <hi rend="underline">18-10-16</hi>   My Dear <lb/>Dad   Just a few lines to <lb/>let you know I am well. I received <lb/>your letter all right. You will feel <lb/>lonely now with the boys away <lb/>again. I am sure they enjoyed them— <lb/>selves after been so long at sea. Jessie <lb/>will feel lonely <sic>to</sic>now <hi rend="superscript">Bill</hi>is gone <sic>to</sic>. How <lb/>is all the children getting on, tell toby <lb/>I was asking for him, he will be <lb/>quite a big boy now, is he and young <lb/>Scott as chummy now as they used to <lb/>be. Tell Mr Mc Aulery I was asking <lb/>for him &amp;Annie. I think this is <lb/>all at present. With love to all.  <lb/> From Your <lb/>Loving Son   <hi rend="underline">Sammie</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4346">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Horace Plunkett to Edward Carson, 5 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Horace Plunkett</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Horace Plunkett (1854-1932) to Edward Carson (1854-1935). Carson was a prominent Unionist Politician. Originally a practicing solicitor from Dublin, Carson&#39;s opposition to the proposed third Home Rule bill made him the figure head of Unionism throughout the island. He was the centerpiece of the speaking tour that culminated in Ulster Day (28 September 1912), when just under half a million signed Ulster&#39;s solemn league and covenant pledging to use ‘all means which may be found necessary to defeat the present conspiracy to set up a home rule parliament in Dublin’. Carson inaugurated the Larne gunrunning in 1914 which armed the UVF, many of whom Carson would encourage to join the British Army throughout the First World War. Sir Horace Curzon Plunkett, Unionist MP, was an Anglo-Irish agricultural reformer, pioneer of agricultural cooperatives, supporter of Home Rule, and author.
+
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Carson Papers, D1507/A/18/6</collection>
+                  <idno>https://letters1916.ie/item/4346</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0570">Horace Plunkett</persName>
+              <date>1916-07-05</date>
+              <placeName key="#letters1916_place-1751">105 Mount Street, London, W, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0539">Edward Carson</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1932</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4346_img_3703_1"  type="Letter"  url="8aad5bb6900f38e5570669aa76fb91b9.jpg"/>
+      <graphic xml:id="L1916_4346_img_3703_2"  type="Letter"  url="d0b738e60bd1d8aa91d09a25bfa5bbec.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4346_img_3703_1"/>
+             TELEGRAMS, <lb/>"JUVERNA LONDON." <lb/>TELEPHONE, <lb/>GERRARD 4703.   105, MOUNT STREET, <lb/>LONDON, W.   5 July 1916   My Dear Carson   I am confined to my <lb/>bed (&amp; have been for a fortnight) <lb/>by a small but quite crippling ailment.   A short confidential <lb/>and altogether non Committal
+            <pb n="2" facs="L1916_4346_img_3703_2"/>
+            talk might be helpful to <lb/>us both — for I too, though <lb/>by the rules of the game an <lb/>irresponsible onlooker, am deeply <lb/>concerned in this <seg type="unclear">Ll.f.</seg> <lb/>settlement (!) &amp; am going to <lb/>play my part. Of Course I <lb/>should go to you but <lb/>for my unhappy plight   Yours ever   <hi rend="underline">Horace Plunkett</hi>   I may just say that I believe <lb/>you could save the situation <lb/>in Ireland as none other could. 
+         </ab>
+      </body>
+   </text>
+</TEI>

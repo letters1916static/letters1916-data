@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1264">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Roger Casement, 26 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Roger Casement</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a facsimile copy of a letter written by Sir Roger Casement (1864-1916). The letter was written from Munich and refers mainly to Casement&#39;s sister who was soon to turn 60. Casement is grieved at having to leave again without seeing his sister and leaving her dependent on &#39;strangers&#39;. He notes that she had been &#39;hunted out of Ireland&#39; the previous year and had to go to America. He is also grieved that he cannot tell her anything of what he is doing.Sir Roger Casement was a humanitarian and Irish Nationalist. Casement believed that an Irish insurrection would be crushed unless it received substantial assistance from Germany. He spent eighteen months in Germany, arriving first as an envoy of Irish-American leaders, attempting to encourage Germany to support Irish separatist aspirations by providing arms. Casement succeeded in securing limited German support but his attempt to form a brigade of Irish soldiers in German prisoner of war camps to fight against Britain was largely unsuccessful. When it became clear that adequate help would not be forthcoming he travelled to Ireland by submarine. Casement landed and was arrested at Banna Strand, County Kerry on Good Friday 1916. He was tried in the Old Bailey for treason and subsequently executed by hanging at Pentonville Prison on 3 August 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Mrs Erskine Childers Collection, CD 6/2/13</collection>
+                  <idno>https://letters1916.ie/item/1264</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1253">Roger Casement</persName>
+              <date>1916-03-26</date>
+              <placeName key="#letters1916_place-2060">Munich, Germany</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1264_img_453_1"  type="Letter"  url="ea9f911151d8c3f4a7cf79f52f446ff7.jpg"/>
+      <graphic xml:id="L1916_1264_img_453_2"  type="Letter"  url="bffdfa9c3ed8e6908172f80aa58cc03d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1264_img_453_1"/>
+                Munich    Sunday, 26 March 1916    My chief grief today is <lb/> for my poor old sister. She will <lb/> be 60 on 25 May next â <lb/> &amp; I am going off without ever <lb/> seeing her again â &amp; leaving <lb/> her dependent on the help <lb/> of strangers. For years <lb/> she had been dependent <lb/> on me.   She is staying with friends <lb/> in America &amp; <lb/> ..... ..... know where.   
+            <pb n="2" facs="L1916_1264_img_453_2"/>
+              She was hunted out of <lb/> Ireland last Sept. or Augt. <lb/> &amp; had to fly to America.   I am writing to her, but <lb/>I can't tell <hi rend="underline">her anything</hi> â <lb/>only pretend things &amp; this <lb/> grieves me greatly.   Don't forget ......... &amp; Huber <lb/> &amp; the book. All proceeds (if any ever <lb/> come) to go to my sister .... ' .....  <seg type="closer"> This is all for the present  <hi rend="underline">R.C.</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

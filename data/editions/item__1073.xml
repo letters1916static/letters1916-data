@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1073">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Alfred Miller to The Royal College of Physicians of Ireland, 18 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Alfred Miller</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Alfred Miller to the Royal College of Physicians of Ireland (RCPI) informing the college that Mr Leo Patrick O&#39;Connor has passed the recent final examination. Alfred Miller (1884-1942) served as both the registrar of the Royal College of Surgeons (1910-1938) and as secretary to the Conjoint Board of the College of Physicians and College of Surgeons. At the outbreak of the Rising Miller instructed James Duncan, the college porter, to lock the college doors in order to deter Michael Mallin&#39;s occupying rebel force in St. Stephen&#39;s Green.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T92, RCPI-2-3-1-58-T92</collection>
+                  <idno>https://letters1916.ie/item/1073</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0696">Alfred Miller</persName>
+              <date>1916-10-18</date>
+              <placeName key="#letters1916_place-1615">Royal College of Surgeons, Stephen&#39;s Green, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1073_img_3214_1"  type="Letter"  url="ea9838a238b001cc06cddaf90ea7e6b3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1073_img_3214_1"/>
+                OFFICES OF COMMITTEE OF MANAGEMENT  ROYAL COLLEGE OF SURGEONS  STEPHEN'S GREEN  DUBLIN,    18/10/1916   Dear Sir,   I have been requested to inform you that Mr. Leo Patrick <lb/>O'Connor passed the recent Special Final Examination. <seg type="closer"> I am, <lb/>Yours faithfully,   Alfred Miller <lb/> Secretary   The Registrar,  Royal College of Physicians  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

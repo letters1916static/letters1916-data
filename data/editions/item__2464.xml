@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2464">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Kate O'Donnell to Dr Edward Thomas O'Dwyer, 10 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Kate O&#39;Donnell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from Kate O&#39;Donnell, an Irish emigrant in South Australia but originally from Adare, Co. Limerick, congratulating Bishop Edward Thomas O&#39;Dwyer (1842-1917) on his &#39;splendid letter&#39; to General Sir John Maxwell (1859-1929) which had come by cable and had appeared in all the morning papers. &#39;I felt so proud to be a Limerick girl, and of having been prepared for my first Holy Communion at Adare by your lordship.&#39; In his celebrated letter of 17 May 1916, Bishop O&#39;Dwyer condemned General Maxwell&#39;s misgovernment of the country in the wake of the Easter Rising; copies of the letter were distributed widely overseas.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Limerick Diocesan Archive</repository>
+                  <collection>LDA: Edward Thomas O&#39;Dwyer Papers, M</collection>
+                  <idno>https://letters1916.ie/item/2464</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1426">Kate O&#39;Donnell</persName>
+              <date>1916-06-10</date>
+              <placeName key="#letters1916_place-0041">Manoora, South Australia</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Dr Edward Thomas O&#39;Dwyer, bishop of Limerick</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0556">Limerick, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2464_img_1900_1"  type="Letter"  url="8ac5159412f12735b22485281af5789c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2464_img_1900_1"/>
+             Manoora<lb/>South Australia   June <hi rend="superscript">10th</hi> 1916   Most Rev<lb/>Doctor O' Dwyer   My Lord   Last week your splendid letter<lb/>to Colonel Maxwell came out by 'Cable' and<lb/>appeared in all our morning Papers the<lb/>following day. I felt so proud to be a<lb/>Limerick girl, and of having been prepared<lb/>for my first Holy Communion at Adare by<lb/>your Lordship that I posted you the<lb/>leading Paper in which your letter appeared.<lb/>Hoping you are well, and begging your<lb/>Lordships blessing.   I remain my Lord<lb/>Yrs respectfully<lb/>Karen O' Donnell  
+         </ab>
+      </body>
+   </text>
+</TEI>

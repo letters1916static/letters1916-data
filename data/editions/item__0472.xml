@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0472">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Condon to Herbert Samuel, 17 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Condon</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from John Condon to Herbert Samuel (1870-1963), British Home Secretary, to support his application for the vacant post of Clerk of Crown and Peace for County Westmeath. Condon is also sending letters to Sir Robert Chalmers (1858-1938), the Under Secretary for Ireland, and Ignatius John Oâ€™Brien (1857-1930), the Lord Chancellor, seeking their support. Condon names a number of people who would testify as to his suitability for the post and indicates he would be willing to fill the vacancy for a reduced salary.Herbert Samuel, liberal politician, served as Home Secretary of the British Government 1916. During the Great War he initiated legislation which offered thousands of Russian refugees a choice between conscription into the British Army, or returning to Russia for military service. Samuel resigned as Home Secretary following Asquith&#39;s replacement by David Lloyd George.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5615/10652</collection>
+                  <idno>https://letters1916.ie/item/472</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1317">John Condon</persName>
+              <date>1916-06-17</date>
+              <placeName key="#letters1916_place-1177">Newcastlewest, County Limerick, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1103">Herbert Samuel</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0554">London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0472_img_1819_1"  type="Letter"  url="a3661f0762d4238587f46743873bbb62.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0472_img_1819_1"/>
+                Offices, Newcastle, Co Limerick,  and Listowel, Co Kerry,  <hi rend="underline">Newcastlewest Office,</hi>    <hi rend="underline">17<hi rend="superscript">th</hi> day of June 1916</hi>   Dear Mr Samuel   I feel I am troubling <lb/>You too much considering that our <lb/>introduction arose out of a small <lb/>personal matter but I have just <lb/>seen that a vacancy has occurred <lb/>in the office of Clerk Crown &amp; Peace <lb/>for County Westmeath and I shall feel <lb/>for ever grateful if you will <seg type="unclear">nominate</seg><lb/>and support my application In the <lb/>position which I am sending to the <lb/>Under secretary at the Castle this <lb/>Evening.  I am also writing to the <lb/>Lord Chancellor asking for his influence <lb/>and as he knows my claims and <lb/>qualifications I am refraining from further <lb/>troubling any more of my friends.  I am sure Lord Justice Malony <lb/>and the two Co Co presumably County Court Judges â Law Smith <lb/>and Drumgoole <seg type="unclear">K Co</seg> whom <lb/><seg type="unclear">Practise</seg> in Limerick and Kerry <lb/>would also testify to my qualifications <lb/>if necessary  As I have written also to W Neill <lb/>stating that I am willing to accept <lb/>a reduced salary owing to the <lb/>unfortunate war Conditions I <lb/> need not trouble you at length with <lb/> my desire to do anything conformable <lb/>to the wishes of the Executive.  Hoping I am not giving you too <lb/>much trouble. <seg type="unclear">In my</seg> successful I shall ever <seg type="unclear">privy</seg> <seg type="closer"> <seg type="unclear">Yours sincerely</seg>  John Condon    Home Secretary  John Condon  The Right <sic>Honble</sic>  Herbert Samuel MP PC  Home Secretary  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

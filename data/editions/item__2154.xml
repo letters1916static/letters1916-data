@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2154">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from D. W. Oliver to Harold John Tennant, 5 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>D. W. Oliver</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from D.W. Oliver, the London manager of the Montreal Bank, to Harold John Tennant (1865-1935). Tennant was British Prime Minister Herbert Asquith&#39;s brother-in-law and also acted as his assistant private secretary. Other posts which he occupied were financial secretary to the War Office from 1911-1912, under-secretary of state from 1912-1916 and secretary of Scotland from July 1916 to December 1916.
+The letter is clarifying mistakes which have been made in a previous letter in relation to the sending of a dispatch to Dublin to investigate the whereabouts of a maid who had travelled to Dublin on Easter Monday but had not been heard from since.  </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland </repository>
+                  <collection>Chief Secretary’s Office Registered papers, CSO RP/1916/8718/2</collection>
+                  <idno>https://letters1916.ie/item/2154</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0849">D. W. Oliver</persName>
+              <date>1916-05-05</date>
+              <placeName key="#letters1916_place-0725">Bank of Montreal, 9 Waterloo Place, Pall Mall, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">H. J. Tennant</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0907">War Office, Whitehall, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2154_img_1602_1"  type="Letter"  url="ca3ee03b1f53c6f208cacee568ccb35c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2154_img_1602_1"/>
+             Bank of Montreal<lb/> 9, Waterloo Place, Pall Mall<lb/> London. S.W.    5th May 1916   Sir:-   I have just received copy of a letter<lb/> from Mr. Donald MacMaster, M. P. addressed<lb/> to you, and as some of the particulars are<lb/> not quite correct I thought it advisable to<lb/> send you the original message from my sister,<lb/> whose name is Craske, and whose husband is<lb/> Colonel Craske, D.S.O. C.M.G. of the Leinster<lb/> Regiment.   Her nurse Cissie Harte left Birr<lb/> during the Easter holidays, and has since then<lb/> not been heard of. My sister's husband<lb/> managed to get to Dublin, and I understand had<lb/> charge of one of the Railway Stations there<lb/> and as far as I know is still in Dublin.   My sister is very anxious and so are<lb/> the family of the girl in question. If it is<lb/> possible to get a wire through and reply I <lb/> shall be deeply grateful.   Thanking you in anticipation, and<lb/> regretting the trouble given you, <lb/>  Yours faithfully,  H. W. Oliver<lb/>  The Rt.Hon.H.J. Tennant,<lb/> or in his absence<lb/> Ian Macpherson, Esq. , M.P.<lb/> War Office,<lb/> Whitehall, S.W. 
+         </ab>
+      </body>
+   </text>
+</TEI>

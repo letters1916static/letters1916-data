@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1644">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Picture Postcard from Roger Casement to Robert Monteith, 23 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Roger Casement</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Roger Casement, (1864-1916), Irish nationalist, arrested at Banna Strand, Co. Kerry on Good Friday 1916 while trying to land arms secured in Germany. He was tried in the Old Bailey for treason and subsequently executed by hanging at Pentonville Prison.
+Robert Monteith – member of the Irish Republican Brotherhood, associate of Roger Casement engaged in recruitment of Irish Prisoners of War in Europe for the Irish Volunteers. Accompanied Casement on the ill-fated voyage which ended at Banna Strand, Co. Kerry on Good Friday, 1916.
+This is a receipt for 2,050 German Marks which Casement withdrew from funds held in the bank under Monteith&#39;s name, and an account of how he used the money.
+
+The front of the Postcard has a picture of the Hotel Saxonia, Potsdamer Platz, Berlin, where Casement is known to have stayed.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Brother Allen Collection BMH CD/75/2/1</collection>
+                  <idno>https://letters1916.ie/item/1644</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1253">Roger Casement</persName>
+              <date>1916-02-23</date>
+              <placeName key="#letters1916_place-0523">Hotel Saxonia, Potsdamer Platz, Berlin, Germany</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0377">Robert Monteith</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1916</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1644_img_1105_1"  type="Letter"  url="9d1aa5e24cc6ca2da4169b5c5d10c1b8.jpg"/>
+      <graphic xml:id="L1916_1644_img_1105_2"  type="Letter"  url="24c4df829970b3bb4351e6ec59f6f78d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1644_img_1105_1"/>
+             Hotel Saxonia, Berlin W9<lb/><seg type="del">Königgrätzerstr. 10</seg><lb/>Budapester Str.10    <hi rend="underline">23 Feby 1916</hi>    My dear M<hi rend="superscript">r</hi>. Monteith,   Please regard this<lb/>as a receipt for the Marks <hi rend="underline">2050.</hi><lb/>I handed me yesterday <!-- -- "yesterday" clear but the sentence is confused ----> from the funds in<lb/>your name at the Bank. The refund of<lb/>MKs 1750 I gave my <hi rend="underline">McFadden to get</hi><lb/>away and <seg type="del">250</seg> 300 MKs repaid by yourself<lb/>I return to Munich tonight I hope &amp; <seg type="unclear">does</seg><lb/>this to cover your refund.   Yours <lb/> Roger Casement  
+            <pb n="2" facs="L1916_1644_img_1105_2"/>
+             Potsdamer Bahnhof Potsdamer Platz Hotel Saxonia 
+         </ab>
+      </body>
+   </text>
+</TEI>

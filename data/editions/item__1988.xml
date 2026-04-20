@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1988">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J. F. Henderson to Matthew Nathan, 28 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J. F. Henderson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from J. F. Henderson assistant secretary in the Home Office to Sir Matthew Nathan (1862-1939) the under-secretary to the chief secretary of Ireland Augustine Birrell (1850-1933). Nathan was under-secretary until the 1916 Rising after which he offered his resignation. In the letter the men are discussing a case involving F. G. Kitts. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/7621/1</collection>
+                  <idno>https://letters1916.ie/item/1988</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1169">J. F. Henderson</persName>
+              <date>1916-04-28</date>
+              <placeName key="#letters1916_place-0856">Home Office, Whitehall, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1939</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1988_img_1435_1"  type="Letter"  url="0d353a5ff40ba8ecc9e74542a96592c2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1988_img_1435_1"/>
+             HOME OFFICE, <lb/>WHITEHALL.   28th April, 1916.   Sir,   I am directed by the Secretary of State to refer to <lb/>his letter of the 10th instant, in the case of Mr. F.G. <lb/>Kitts, and to say that Mr Kitts is believed by his mother <lb/>to be residing at 69, Kenilworth Square, Rathgar: she <lb/>states that she has not seen or heard from him for 4 months.   I am, <lb/>Sir, <lb/>Your obedient Servant,   J. F. Henderson    The Under Secretary, <lb/>Dublin Castle.   Chief Comms <lb/>D.M.P. <lb/>Please state <lb/>Mr Kitts' present address <lb/>EOF <lb/>8.V.16   Supt. E Div.   Sergt Megahey <lb/>for report <lb/>O'Kiernan Supt. 19/5/16   Castle Reg. <lb/>W.A.M. 9/5   First rep. not yet <lb/>recd. in Cen. Reg. <lb/>J.C. 18/5/16 
+         </ab>
+      </body>
+   </text>
+</TEI>

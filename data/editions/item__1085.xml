@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1085">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Harriet Reed to Thomas Kirkpatrick, 4 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Harriet Emily Reed</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Harriet Emily Reed to Thomas Percy Kirkpatrick (1869-1954) regarding the proposed establishment of a nursing college. Reed apologises for her absence at the conference but expresses her wholehearted support for the initiative in order to safeguard the position of the trained nurse in Irish hospitals.From 1910 until 1954 Thomas Kirkpatrick served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-3-15-15, RCPI-2-3-3-15-15</collection>
+                  <idno>https://letters1916.ie/item/1085</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0191">Harriet Emily Reed</persName>
+              <date>1916-04-04</date>
+              <placeName key="#letters1916_place-0349">Ivanhoe, Lansdowne Road, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0544">Thomas Percy Kirkpatrick</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1085_img_3232_1"  type="Letter"  url="2c92fda813263ed5baab84d3ad4d4b84.jpg"/>
+      <graphic xml:id="L1916_1085_img_3232_2"  type="Letter"  url="a810f7f88dfd04afd7a3fd1302e5d839.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1085_img_3232_1"/>
+                IVANHOE,  LANDSDOWNE ROAD,  DUBLIN.    4.4.1916   Dear D <hi rend="superscript">r</hi>Kirkpatrick,    I am very sorry that I am <lb/>prevented by work here from attending <lb/>the Conference this afternoon.   The College of Nursing has been <lb/>established through the influence <lb/>and efforts of those who have <lb/>the best and highest interests of <lb/>the trained nurse at heart.   I have been in touch with some <lb/>of the principal promoters of <lb/>the College since it was first  
+            <pb n="2" facs="L1916_1085_img_3232_2"/>
+              suggested, and am quite convinced <lb/>that it will improve the standard <lb/>position, and in consequence the <lb/>renumeration of the trained nurse.   To safe-guard the future of the <lb/>trained nurse in Ireland, I <lb/>sincerely hope the Dublin Hospitals <lb/>will join in the scheme.  <seg type="closer"> Yours sincerely  <hi rend="underline">Harriet E. Reed.</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

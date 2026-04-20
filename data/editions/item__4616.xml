@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4616">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas Kirkpatrick to Clara Moser, 29 June 1917</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Kirkpatrick</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>From 1910 until 1954 Thomas Percy Kirkpatrick (1869-1954) served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.
+
+Clara Moser was the secretary of the Irishwomen&#39;s Reform League, a non-party and non-militant suffrage organization, and the Dublin Watch Committee. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-235</collection>
+                  <idno>https://letters1916.ie/item/4616</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1453">Thomas Kirkpatrick</persName>
+              <date>1917-06-29</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0391">Clara Moser</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1954</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4616_img_3958_1"  type="Letter"  url="3719148b878b5ad96bd6c0b3024926a2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4616_img_3958_1"/>
+             29th JUNE 17   Miss Moser, <lb/>Hon. Sec., <lb/>Dublin Watch Committee.   Dear Madam,   In reply to yours of the 7th inst., I beg to <lb/>inform you that the President and Fellows of this <lb/>College will meet on Friday next the 6th July, at <lb/>4:30 p.m., at that the deputation from your Committee <lb/>will be received as soon as possible after that hour.    I remain, <lb/>Yours faithfully,  <lb/>Fellow &amp; Registrar.
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5782">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas Atwell to Malachy J. Kelly, 4 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Atwell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter Thomas Atwell who was a solicitor in Co. Roscommon, to Sir Malachy J. Kelly (1851-1916), the Chief Crown Solicitor of Ireland. The letter talks of the death of Kate Patterson (1854-1916) of Roscommon. An issue involving Pattersons will is discussed and Atwell asks whether or not the Attorney General is going to interfere. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/4200/16</collection>
+                  <idno>https://letters1916.ie/item/5782</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0981">Thomas Atwell</persName>
+              <date>1916-03-04</date>
+              <placeName key="#letters1916_place-1318">Main Street, Boyle, County Roscommon, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1023">Malachy J. Kelly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5782_img_881_1"  type="Letter"  url="3be3ce8b9ca066f294647b64f2099de4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5782_img_881_1"/>
+             Attorney General. <lb/>I presume you must not interfere. <lb/>M. Kelly <lb/>6/3/16"   The Atty. Gen. will not <lb/>interfere. <hi rend="underline">J.G.</hi> <lb/>7/3/16.   Main Street <lb/> Boyle   4th March, 1916  <lb/>Kate <hi rend="underline">Patterson</hi> deceased.  <hi rend="underline">Sir</hi>   The deceased died at Boyle on 7th December, 1915. She <lb/>was 62 years of age. She took out a Policy of Insurance on her <lb/>life in 1914 a copy of the particulars which  I enclose  She made her will <lb/>on 24 November 1915 leaving the Policy to Mrs Kate Lavin. <lb/>I enclose copy will. You will see by the particulars the amount <lb/>payable on death of deceased is £9.12.0. I prepared the <lb/>papers for administration with the will annexed on behalf of Mrs <lb/>Kate Lavin and sent them to Mr. Concannon the Dist. Registrar Tuam <lb/>who found there was some difficulty in the matter as Mrs. <lb/>Lavin was no relation of deceased. He laid the matter before <lb/>the principal Registrars Dublin and I enclose the reply quoted in <lb/>Mr. Concannon's letter to me of 24 February last. I got the <lb/>affidavit <seg type="del">Mr Concannon</seg> suggested by the Registrar sworn as to the <lb/>previous history of the deceased of which I enclose a Copy. <lb/>In order to let the matter through and as the Sum of money <lb/>payable by the Insurance Co. on the death of deceased is <lb/>so small. I will feel greatly obliged if you say that the Attorney <lb/>General will not interfere.   Your obedient Servant,   <hi rend="underline">Thomas Atwell</hi>   The Chief Crown Solicitor <lb/>Dublin Castle   P.S. Mrs. Lavin's Sureties are the two witnesses to the will and are merchants in <lb/>Boyle.  <lb/>T.A.
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3075">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Charles E.L. Olden to Turner & Ellis, 10 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Charles E.L. Olden</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from the extensive Bantry Estate Collection, held in the Boole Library of University College Cork. The collection, which covers a period of 300 years, contains the formal records regarding the legal, financial and general administration of this large house and estate in County Cork.  </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>UCC Library Special Collections and Archives</repository>
+                  <collection>The Bantry Estate Collection BL_E_B_446_342_2</collection>
+                  <idno>https://letters1916.ie/item/3075</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0811">Charles E.L. Olden</persName>
+              <date>1916-08-10</date>
+              <placeName key="#letters1916_place-0005">39 South Mall, Cork, Ireland </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Turner &amp;amp; Ellis</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0934">Glengarriff, Co. Cork, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3075_img_2479_1"  type="Letter"  url="e3a209aa2ee81b9240d7215b67fbd16d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3075_img_2479_1"/>
+              BL/EP/B/446/p.342(2) <lb/><lb/> 10th August 1916. <lb/><lb/>Estate of E. E. Leigh-White Esq.<lb/><hi rend="underline">Eccles Glengarriff Hotel Co. Ltd.</hi><lb/><lb/> Chas E. L. Olden Esq. F.C.A.<lb/>Liqidator.<lb/>50 South Mall.<lb/>Cork., <lb/><lb/> Dear Sir.,   I reply to your letter of the 7th inst,<lb/>below we give you particulars of rents due to above Estate.<lb/>Fo. 342 1/2 years rent out of Reenmeen West to 25th March 1916.<lb/>(last gale day) £8:3:1,<lb/>Railway <seg type="unclear">unknown symbol</seg> Sanitary rate 2/—<lb/>I. Tax @ 3/—18/7 1:0:7.<lb/>345. do out of the Foreshore to<lb/>do. 1:10:0<lb/>344 <seg type="del">8</seg> 9 months rent out of Monteendudder<lb/>to last Sept 1916. <seg type="del">1:0:0</seg> 1:2:6<lb/>345. <seg type="del">8</seg> 9 months do out of do<lb/><hi rend="underline">to do <seg type="del">6:18:4</seg> 7:10:0</hi><lb/>£14:5:10<lb/>15:5:0<lb/> yours truly, <lb/> Turner &amp; Ellis <lb/>Agents. 
+         </ab>
+      </body>
+   </text>
+</TEI>

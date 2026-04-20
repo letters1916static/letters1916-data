@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2338">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas Patrick Gilmartin to Right Reverend President Hogan, 25 May, 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author> Thomas Patrick Gilmartin </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Thomas Patrick Gilmartin, D.D. (1861-1939) was Catholic Bishop of Clonfert from 1909 to 1918, and Archbishop of Tuam from 1918 to 1939. Rev. John F. Hogan D.D. served as President of St. Partick’s College, Maynooth from 1912 to 1918.
+Gilmartin writes of two students from the Diocese of Clonfert who are to be accepted into the Priesthood in Maynooth. They will be accommodated with postings in their home Diocese when vacancies arise. In the meantime they must agree to take up posts elsewhere. Gilmartin mentions that the Army is looking for chaplains, but adds that it is entirely up to the students as to whether they wish to volunteer.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>St Patrick’s College, Maynooth</repository>
+                  <collection>John F. Hogan Papers 21/6/24/1</collection>
+                  <idno>https://letters1916.ie/item/2338</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0075"> Thomas Patrick Gilmartin </persName>
+              <date>1916-05-25</date>
+              <placeName key="#letters1916_place-0835">St. Brendans, Loughrea, Co. Galway, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None"> Right Reverend President Hogan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0789">St. Patrick’s College, Maynooth, Co. Kildare, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1939</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Faith</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2338_img_1785_1"  type="Letter"  url="710fd6ec8b3a5cc1ae2c5842412fd5b4.jpg"/>
+      <graphic xml:id="L1916_2338_img_1785_2"  type="Letter"  url="5ec6d9d44a0b8faf46d92696b9238725.jpg"/>
+      <graphic xml:id="L1916_2338_img_1785_3"  type="Letter"  url="f6d17311227aadd28e789c18b3b36a87.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2338_img_1785_1"/>
+             Embossed Bishop's seal Se. Brendans,<lb/>Loughrea.   25<hi rend="superscript">th</hi> May, 1916    My dear President   I hereby send for<lb/>full faculties for<lb/>the promotion of the Students<lb/>of the Diocese of Clonfert<lb/>to the Orders to which<lb/>they will be called &amp; given<lb/>Council at the close<lb/>of next term. The faculties<lb/>
+            <pb n="2" facs="L1916_2338_img_1785_2"/>
+            <!-- Left hand side of page: -->for priesthood are however<lb/>on the <hi rend="underline">condition</hi> that<lb/> <seg type="unclear"></seg>(your going in the Dunboyne)<lb/>&amp; Clarke Express this<lb/>in writing their willingness<lb/>to seek &amp; accept <sic>until</sic> <lb/> <seg type="unclear"></seg> until I can<lb/>provide for them <hi rend="underline">all</hi> houses in the diocese. At present<lb/>we have no vacancy &amp; there<lb/>are three out to <seg type="unclear"></seg><lb/>When this war is over<lb/>I may add that there<lb/>are more chaplains<lb/>wanted for the army<lb/>but of course it is<lb/>a matter for each<lb/>individual to<lb/>volunteer or next<lb/>
+            <pb n="3" facs="L1916_2338_img_1785_3"/>
+             <seg type="unclear">21/6/290</seg>  I hope Mr. Gleeson will<lb/>be qualified for a<lb/>place in the —<lb/>Dunboyne Establishment.<lb/>Mgr. H - all best wishes to<lb/>self &amp; Council,<lb/> I remain<lb/>Yours especially<lb/>+ T. P Gilmartin<lb/>The Right Rev<lb/>The President College Maynooth 
+         </ab>
+      </body>
+   </text>
+</TEI>

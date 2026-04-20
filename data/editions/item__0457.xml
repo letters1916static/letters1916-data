@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0457">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from B.B. Cubitt to the Under-Secretary of State, Home Office, 30 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>B.B. Cubitt</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from B. B. Cubitt to the Under-Secretary of State, Home Office, stating that he has forwarded a Petition of Right lodged on behalf of John and Agnes Scott, John McCulloch and Mary Shearer. Cubitt also states that he has been commanded by the Army Council to indicate that they have nothing further to offer on the matter. Cubitt was originally appointed to the War Office in 1886 and was under-secretary of state from 1914 until his retirement in 1926.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI, CSORP/1916/7280/4</collection>
+                  <idno>https://letters1916.ie/item/457</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0565">B.B. Cubitt</persName>
+              <date>1916-03-30</date>
+              <placeName key="#letters1916_place-0372">War Office, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-1832">Home Office, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0457_img_1801_1"  type="Letter"  url="de1ac15bd27653e0164b4b5df2046226.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0457_img_1801_1"/>
+                WAR OFFICE,  LONDON S.W.    30th March, 1916.    Irish 11/275. (L.B.)   Sir,   With reference to your letter of the 10th instant <lb/> No.309349, forwarding a copy of a Petition of Right which <lb/> has been lodged on behalf of John and Agnes Scott, John <lb/> McCulloch and Mary Shearer, I am commanded by the Army Council <lb/> to acquaint you, for the information of Mr. Secretary <lb/> Samuel, that They have no remarks to offer on the matter <lb/> at this present stage. <seg type="closer"> I am, <lb/>Sir, <lb/>Your obedient Servant,  (Sgd) B.B. Cubitt   The Under Secretary of State,  Home Office.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

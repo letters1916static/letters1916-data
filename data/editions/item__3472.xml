@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3472">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Card to Hanna Sheehy Skeffington, 30 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Card to Hanna Sheehy Skeffington (1877-1946) promising to drop in a small folding table on Saturday and to call in the following afternoon.
+
+Hanna Sheehy Skeffington suffragette, nationalist, language teacher, was the founder of the Irish Women’s Franchise League and a founding member of the Irish Women Workers’ Union. She was the widow of Francis Sheehy-Skeffington who was summarily executed on 26 April 1916. She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47; MS 33,604/17-6</collection>
+                  <idno>https://letters1916.ie/item/3472</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-03-30</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0720">11 Grosvenor Place, Rathmines, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3472_img_2881_1"  type="Letter"  url="24196d9c6053086912327ef5d2d1c3db.jpg"/>
+      <graphic xml:id="L1916_3472_img_2881_2"  type="Letter"  url="0c0692c6bd9d6740f0f92374a3bbaeeb.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3472_img_2881_1"/>
+             30 MARCH 1916   I am game for the plot <lb/>I think<seg type="del">s</seg> yours is a brilliant <lb/>idea. I  too  was afraid to go <lb/>in by my lone <seg type="del">too</seg>.   I will bring my small <lb/>folding table down on <lb/>Sat night. I am to <lb/>get in free this time you <lb/>know   I am going up <lb/>tomorrow afternoon to <lb/>inspect my new abode. <lb/>I'll call in on the chance <lb/>that you might come <lb/>for a run.   <seg type="unclear">Em</seg>   No word I suppose from the <lb/>Dublin Guide 
+            <pb n="2" facs="L1916_3472_img_2881_2"/>
+             Mrs. Sheehy Skeffington, M.A.<lb/> <lb/>11, Grosvenor Place, <lb/>Rathmines 
+         </ab>
+      </body>
+   </text>
+</TEI>

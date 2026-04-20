@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5908">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J.W. Rainey to the General Officer, 19 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J. W. Rainey</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Major J. W. Rainey informing the General Officer that Patrick Alphonsus Carroll has been instructed to proceed to the Curragh on 9th February 1916 to receive a temporary commission.Patrick Alphonsus Carroll was a veterinary surgeon based in Carlow town who had qualified from the Royal College of Veterinary Surgeons. The Army Veterinary Corps was well tested throughout the Great War. There were about 2.5 million admissions mainly on the Western Front and 80% of injured animals were treated and returned to duty. Major Rainey would survive the war and later document the story of the AVC in the Great War in 1925.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Pat Carroll</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/5908</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1292">J. W. Rainey</persName>
+              <date>1916-01-19</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">General Officer, Commanding-in-Chief, the Forces in Ireland</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5908_img_1154_1"  type="Letter"  url="8a8e239335459826279a41ebfdb45765.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5908_img_1154_1"/>
+                19th January, 1916.   Sir,   I am directed to inform you that Mr. P.A. Carroll, <lb/> M.R.C.V.S., has been instructed to proceed to the <lb/> Curragh on the 9th February, 1916, and report himself to<lb/> the Officer Commanding, Station Veterinary Hospital, for <lb/> duty, in anticipation of being gazetted to a temporary <lb/> Commission as Lieutenant in the Army Veterinary Corps.  A report of his arrival should be furnished to this <lb/> Office. <seg type="closer"> I am, <lb/> Sir,<lb/> Your obedient Servant,  (Sd/â)  J.W.Rainey ,<lb/> Major,<lb/> for Major General,<lb/> Director General,<lb/> A.V.S.<lb/>  The General Officer  CommandingâinâChief,  The Forces in Ireland,  Dublin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

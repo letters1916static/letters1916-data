@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4324">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Leopold Maxse to Ruby Carson, 15 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Leopold Maxse</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Leopold Maxse (1864-1932) to Lady Ruby Carson (1881-1966). Ruby was born in Yorkshire and was the daughter of Lt Col Stephen Frewen. In 1914 she became the second wife of the prominent Unionist figure Sir Edward Carson (1854-1935). Leopold &#34;Leo&#34; James Maxse was editor of the conservative British publication, National Review, between August 1893 and his death in January 1932. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Carson Papers, D1507/A/17/19</collection>
+                  <idno>https://letters1916.ie/item/4324</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0776">Leopold Maxse</persName>
+              <date>1916-06-15</date>
+              <placeName key="#letters1916_place-0966">National Review, 14, Tavistock Street, Covent Garden, London, W.C., England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Ruby Carson</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1932</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4324_img_3684_1"  type="Letter"  url="095fce5b37ebe90ff726eca137ff8675.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4324_img_3684_1"/>
+             TELEGRAMS, NATIONAL REVIEW. <lb/>TELEPHONE, REGENT 1914.   Maxse   NATIONAL REVIEW, <lb/>14, TAVISTOCK STREET, <lb/>COVENT GARDENS, LONDON, W.C.   15th June 1916.   Dear Lady Carson,   Sir Edward has the enviable reputation of not <lb/>reading letters. It would be so kind of you to hand him <lb/>the enclosure. I am appalled and shocked by this Irish <lb/>development. The installation of a Sinn Fein Government in <lb/>Ireland after the events of the last few weeks <seg type="del">seems</seg>  is  <lb/>simply putting a premium on crime everywhere. Its <lb/>effects in Egypt and India and elsewhere would be incal- <lb/>culable.   Yours very sincerely,   L.J. <hi rend="underline">Maxse</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

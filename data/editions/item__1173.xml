@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1173">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fr Francis M. Shaw to Fr Provincial Thomas V. Nolan, 22 September 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Francis Shaw</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Francis M. Shaw (1881-1924) to the Father Provincial Thomas V Nolan (1867-1941) regarding Shaw&#39;s worries about medical staff. Francis, or Frank, Shaw SJ was born in Ennis, county Clare. He was ordained on 31 July 1916 at Milltown Park, Dublin. Fr Shaw joined the war early in 1916, working in the 16th General Field Hospital at Le Tréporte. In 1917, possibly due to his nationalistic views, Fr Shaw was dispatched to India, and later to Mesopotamia.Fr. Thomas V. Nolan was the Provincial of the Irish Province of the Society of Jesus (1912-1922) and was a member of the Distribution Committee which looked after the welfare and distribution of the Belgian refugees who arrived in Ireland as a consequence of the First World War.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IJA/CHPI/54/33, IJA/CHPI/54/33</collection>
+                  <idno>https://letters1916.ie/item/1173</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1473">Francis Shaw</persName>
+              <date>1918-09-22</date>
+              <placeName key="#letters1916_place-1343">Archbishop&#39;s House, Wodehouse Road, Bombay, India</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Fr Thomas V Nolan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1173_img_3850_1"  type="Letter"  url="be84ce5895526371f7a0535e66238417.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1173_img_3850_1"/>
+              P.S. The pay <lb/>people in Poonas <lb/>notify that they <lb/>have applied to <lb/>India Office for <lb/>my last pay <lb/>certificate. There <lb/>will be a fat <lb/>cheque going <lb/>your way soon. <lb/>F.S    Archbishop's House  Wodehouse R<hi rend="superscript">d</hi>  Bombay    22 Sept. 1918   Dear Reverend F<hi rend="superscript">r</hi>Provincial, P.C.   I am still at 65 British General <lb/>Hospital, but keep the old address. Masses for <lb/>September for F<hi rend="superscript">r</hi>Farley, 20. It is the first <lb/>time since I don't know when, that I have the <lb/>full number to report. I am writing <sic>tohim</sic> also, in <lb/>case of accidents. All still going well. The <lb/>latest addition <sic>toour</sic>medical staff is Doctor <lb/>Dillon-Kelly, F<hi rend="superscript">r</hi>Robert's brother. I was delighted <lb/>when I found who he was, as I am 'stranded' as <lb/>far as Papist officers are concerned. He told me <lb/>F<hi rend="superscript">r</hi>James Daly was in a private asylum. I did <lb/>not know that. Some one sent the 'Mungret <lb/>Annual', I suppose it is F<hi rend="superscript">r</hi> Frost. It was very <lb/>welcome. I mentioned to F<hi rend="superscript">r</hi> Farley in my last <lb/>note that I had met Frank Flanagan. I <lb/>hear from an old Ranger that F<hi rend="superscript">r</hi><seg type="unclear">Hartigan's</seg><lb/>grave in Amara is well cared for, and has a <lb/>good Cross erected over it. He says also it is <lb/>marked out with a special border.  Clouds have once more appeared in our skies, <lb/>and two days ago it rained heavily round the <lb/>horizon. There is hope at last. <seg type="closer"> I commend myself <sic>tothe</sic> prayers <sic>ofall</sic>. <lb/>Your Reverence's servant in Christ,  FrancisMShaw S.J. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

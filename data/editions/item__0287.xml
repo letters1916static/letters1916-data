@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0287">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J. G. Swift MacNeill to Augustine Birrell, 17 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J. G. Swift MacNeill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from J .G . Swift Mac Neill (1849-1926), Irish politician, to Augustine Birrell (1850-1933) the Chief Secretary for Ireland. The letter concerns the use of Robert Louis Stevenson&#39;s novel &#39;Kidnapped&#39; on the school syllabus, which some felt was an overtly Scottish book with language Irish children would not understand. Swift MacNeill was a Protestant nationalist who represented the district of South Donegal. Augustine Birrell served as the Chief Secretary of Ireland from 1907 to 1916. Birrell was a liberal politician praised for his reforms of the Irish educational system. The Easter Rising caught him unawares, occupied in London, there was little he could do. A later inquiry into the Rising held Birrell chiefly responsible for the events that occurred. Birrell offered his resignation on May 1.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>National Archive of Ireland-Chief Secretary&#39;s Office-Registered Papers, NAI/CSO/RP/1916/5611/8225/4</collection>
+                  <idno>https://letters1916.ie/item/287</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0334">J. G. Swift MacNeill</persName>
+              <date>1916-04-17</date>
+              <placeName key="#letters1916_place-0684">17 Pembroke Road, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0534">Augustine Birrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0287_img_1489_1"  type="Letter"  url="6462b977b7c69f95be4ed16492ee7aa3.jpg"/>
+      <graphic xml:id="L1916_0287_img_1489_2"  type="Letter"  url="cda3baa7dd9c5e9c94bb42d64442b482.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0287_img_1489_1"/>
+              <hi rend="underline">Private</hi><lb/><lb/>  17, Pembroke Road,  Dublin.    April 17.   My dear Birrell   Would you be so kind <lb/> as to look into this <sic>mater</sic> which <lb/> constituted a very serious <seg type="unclear">occasion</seg><lb/> &amp; to see whether you can do anything<lb/> to <seg type="unclear">reverse</seg> it. You might perhaps <lb/> send me back enclosed papers <lb/> when you have considered the <lb/><sic>mater</sic> because if you are unable <lb/> to help us in this paper some  
+            <pb n="2" facs="L1916_0287_img_1489_2"/>
+              strong public protest must be <lb/> made â The <seg type="unclear">incident</seg> is all <lb/> but intolerable in present circum â<lb/> stances  <seg type="closer"> Kind regards   J.G. Swift MacNeill </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

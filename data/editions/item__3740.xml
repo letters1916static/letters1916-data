@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3740">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mary Hayden to Hanna Sheehy Skeffington, 16 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mary Hayden</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Mary Hayden (1862-1942) to Hanna Sheehy Skeffington  (1877-1946) regarding her subscription to the Irish Citizen, asking if she could stop receiving it until after Christmas because she is moving house and will be very busy.
+
+Mary Hayden was a suffragette and historian. As one of the earliest women graduates of the Royal University of Ireland she became the professor of modern Irish history at University College Dublin in 1911. Although opposing militant protests as counterproductive, she sought justice in the treatment of protesters. Involved in various suffrage groups, in 1915 she and Mary Gwynn established another, the Irish Catholic Women’s Suffrage Association, to attract more Catholic women to the movement. Throughout her life she publicly advocated women’s rights, including demands for full citizenship in both the 1922 and 1937 constitutions.
+
+Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the founder of the Irish Women’s Franchise League and a founding member of the Irish Women Workers’ Union. She was the widow of Francis Sheehy-Skeffington who was summarily executed on 26 April 1916. She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy-Skeffington Papers, Collection List No.47; MS 33,604/13-30</collection>
+                  <idno>https://letters1916.ie/item/3740</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0197">Mary Hayden</persName>
+              <date>1915-11-16</date>
+              <placeName key="#letters1916_place-0400">16 Rathmines Road, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0720">11 Grosvenor Place, Rathmines, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="death">1942</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3740_img_3128_1"  type="Letter"  url="1e95c1db99766ef9f48499d614764ea9.jpg"/>
+      <graphic xml:id="L1916_3740_img_3128_2"  type="Letter"  url="58f909af072abec9334a6aa72726ad94.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3740_img_3128_1"/>
+              16 Rathmines Rd <lb/> Nov 16th<lb/>1915   Could you please let me off paper tilll<lb/>after Xmas! We are moving house on<lb/>Wed 1st at 2 shall be very busy for some<lb/>time before and after. When we are settled<lb/>down (4) Windsor Road Ranalagh, I shall have<lb/>more leisure.   M Hayden.  
+            <pb n="2" facs="L1916_3740_img_3128_2"/>
+             DUBLIN<lb/>1. 45 PM<lb/>16 NOV 15  Mrs. Sheehy Skeffington<lb/> 11 Grosvenor Place<lb/>Rathmines  
+         </ab>
+      </body>
+   </text>
+</TEI>

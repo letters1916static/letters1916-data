@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0005">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from M. L. Waller, Home Office, to the Commandant, Prisoner of War Camp, Frongach, 9 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M. L. Waller</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from M.L. Waller of the Home Office in Whitehall, London, to the commandant of Frongach internment camp in Wales. After the Easter Rising over 3,400 men and women were arrested and interned in prisons and camps in Ireland, England and Wales. The majority were released after a short imprisonment and eventually most of the men who remained imprisoned were transferred to Frongach in north Wales. By October 1916 there were still over 500 men interned there. This letter refers to the case of a number of prisoners who were punished for refusing to perform &#39;fatigue duty&#39;. Walker asks that the remainder of the punishment be remitted and that the men are no longer asked to perform those duties. This letter is contained in the collection of papers relating to the Cowan family of Drumcondra and their uncle, Seamus McGowan who was a captain in the Irish Citizen Army and was one of the men imprisoned in Frongach after the Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Cowan Family Papers, P34/D/13</collection>
+                  <idno>https://letters1916.ie/item/5</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1066">M. L. Waller</persName>
+              <date>1916-06-09</date>
+              <placeName key="#letters1916_place-0856">Home Office, Whitehall, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">The Commandant, Frongach Internment Camp</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1247">Frongach Internment Camp, Wales</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0005_img_1025_1"  type="Letter"  url="bf677a9011fe26bed04bb3a9fc60cb4c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0005_img_1025_1"/>
+             To be posted on Notice Board in Prison    Home Office,  Whitehall.    9th October 1916.   313206/.  Sir,   I am directed by the Secretary of State to say that<lb/>he has had under his consideration the case of the<lb/>prisoners now under punishment for refusing to perform<lb/>fatigue duty ordered by you (removal of rubbish from the<lb/>guard's quarters), and it appears to him that they have<lb/>now been sufficiently punished for this offence. He has<lb/>therefore decided to remit the remainder of the punishment<lb/>and also for the future to relieve them from this<lb/>particular duty, which he understands from you can be<lb/>properly performed by the guard.  In announcing this decision to the prisoners, the<lb/>Secretary of State desires that you should make it clear<lb/>that in his opinion you were right in requiring them to<lb/>perform this duty and right in punishing those who<lb/>refused, but, the matter being a trifling one, he does not<lb/>desire to carry the punishment further. <seg type="closer">I am, Sir, Your obedient servant,  (sgd) M. L. Walker   The Commandant,  Prisoner of War Camp,   Frongoch.  </seg>
+         </ab>
+      </body>
+   </text>
+</TEI>

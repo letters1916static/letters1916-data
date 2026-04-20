@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3678">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from A. J. Cockington to the Registrar, Royal College of Physicians of Ireland, 8 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>A. J. Cockington</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from A. J. Cockington on behalf of the General Council of Medical Education &amp; Registration for the United Kingdom forwarding documents regarding the case of Ulick Joseph Burke.
+
+The letter was addressed to the registrar of the Royal College of Physicians of Ireland (RCPI). In 1916 this position was occupied by Alfred Miller (1884-1949). Miller served as both the registrar of the Royal College of Surgeons (1910-1938) and as secretary to the Conjoint Board of the College of Physicians and College of Surgeons. At the outbreak of the Rising Miller instructed James Duncan, the college porter, to lock the college doors in order to deter Michael Mallin&#39;s occupying rebel force in St. Stephen&#39;s Green. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T51</collection>
+                  <idno>https://letters1916.ie/item/3678</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0269">A. J. Cockington</persName>
+              <date>1915-12-08</date>
+              <placeName key="#letters1916_place-0329">299 Oxford Street, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0696">Alfred Miller</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3678_img_3071_1"  type="Letter"  url="f33502ad45fb9a6d875fb3e7b0de4edd.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3678_img_3071_1"/>
+             General Council of <lb/>Medical Education &amp; Registration <lb/>of the United Kingdom, <lb/>299, Oxford Street, London, W.   8th December, 1915.   The Registrar, <lb/>Royal College of Physicians of Ireland, <lb/>Kildare Street, <lb/>Dublin.   Dear Sir,   In accordance with the request in your letter of the <lb/>7th inst., I have pleasure in forwarding you a few copies of <lb/>the confidential documents and evidence in the case of Ulick <lb/>Joseph Burke as prepared by the Council's Solicitor for the <lb/>hearing of the charge made against him on the 3rd of November <lb/>last. As you ask for the full documents, I send you the <lb/>file in this practitioner's case. You will notice that the <lb/>early papers refer to a matter which did not come before the <lb/>council, but I am not detaching them for fear that they might <lb/>be lost during the removal of the council to its new premises <lb/>next week.   I shall be glad if you will treat them as strictly <lb/>confidential.   Yours faithfully,   AJ Cockington,  <lb/>Acting Registrar.
+         </ab>
+      </body>
+   </text>
+</TEI>

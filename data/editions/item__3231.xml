@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3231">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas Mercer to Arthur John Bigge, 8 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Mercer</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Thomas F. Mercer, secretary for the harbour commission, to Arthur John Bigge (1859-1931) regarding a resolution passed by the commission lamenting the death of Lord Kitchener (1850-1916).
+
+Arthur John Bigge, 1st Baron Stamfordham, was the private secretary to King George V. Bigge has served in the same position for Queen Victoria during the final years of her reign. Bigge exercised considerable influence over King George V and advised the change of family name from Saxe-Colburg-Gotha to Windsor.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers CSO RP/1916-9969</collection>
+                  <idno>https://letters1916.ie/item/3231</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1503">Thomas Mercer</persName>
+              <date>1916-06-08</date>
+              <placeName key="#letters1916_place-2076">Harbour Office, Sligo, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Arthur John Bigge</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1677">Buckingham Palace, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3231_img_2651_1"  type="Letter"  url="4c15557409cd7c5e3a25ea63764880ef.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3231_img_2651_1"/>
+             THE SLIGO HARBOUR COMMISSIONERS. <lb/>Telephone N. 12.   Harbour Office <lb/>Sligo   8th. June 1916.   Sir,   I am directed by the Sligo Harbour Commissioners to <lb/> forward you for presentation to His Majesty The King <lb/> the accompanying copy of a Resolution passed at their <lb/> meeting to-day relative to the lamented death of Field <lb/> Marshal Lord Kitchener.   I have the honour to be, <lb/>Sir, <lb/>Your obedient servant,   Thomas Mercer  <lb/>Secretary.  The Private Secretary, <lb/>To His Majesty The King, <lb/>London. 
+         </ab>
+      </body>
+   </text>
+</TEI>

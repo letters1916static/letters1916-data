@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0830">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Pearse, 25 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Henry Pearse</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter, written by Patrick Pearse, concerns a statement of accounts for Desmond, a pupil at St Enda&#39;s, who Pearse states is doing very well and working hard. St. Enda&#39;s was a school Pearse established himself, through the school Pearse promoted the use of the Irish language amongst other things.Patrick Pearse (1879-1916), a writer, a school headmaster and a key member of the military council of the IRB who planned the Easter Rising, Pearse was one of the signatories of the proclamation of the Irish republic (largely his own writing), which he read outside the GPO after the outbreak of the Rising. As president of the provisional government Pearse called for the surrender and was executed on 3 May 1916. Pearse&#39;s mother, Margaret Pearse (1857-1932) kept Pearse&#39;s school, St Enda&#39;s, open after his death and was later elected as a TD.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, IE/AL/PC/9/27</collection>
+                  <idno>https://letters1916.ie/item/830</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0291">Patrick Henry Pearse</persName>
+              <date>1915-11-25</date>
+              <placeName key="#letters1916_place-0713">St. Enda&#39;s College, Rathfarnham, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0830_img_2380_1"  type="Letter"  url="3cc7cf6e2a416f4a6b066134f9897475.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0830_img_2380_1"/>
+                Scoil Ãanna,  RÃ¡t FearnÃ¡m.  ST.ENDA'S COLLEGE,  RATHFARNHAM.    15th Nov. 1915.   <seg type="foreign">A chara,</seg>   I am enclosing statement of acc., including <lb/> books and sundries given to Desmond this term. <lb/> He is very well, and he works steadily. <lb/> With kindest regards to all <seg type="closer"> Sincerely yours  <hi rend="underline">P.H. Pearse.</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0255">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Anderson to Sir Matthew Nathan, 21 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Anderson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Robert Anderson (b.1860), the honorary secretary of the Irish Association of Volunteer Training Corps, to Sir Matthew Nathan (1862-1939). Anderson writes that the Executive Committee of the IAVTC were willing to offer their services where requested by the Chief Commissioner. In the letter Anderson asks how many men would be required for each post, the length of time their service would be required, whether the men would be sworn in as special constables, if they would be provided with sticks and whistles, if they must wear a uniform and who the men would be answering to.Sir Matthew Nathan was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising. The letter concerns the Irish Association of Volunteer Training Corps (IAVTC). The IAVTC were a corps consisting of men who were over age or engaged in important occupations and therefore could not enlist for wartime service when war broke out in 1914. This was a volunteering training militia that came to be known by the nickname &#39;Gorgeous Wrecks&#39; due to the G.R. armbands they wore symbolising Georgius Rex.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/7964/4</collection>
+                  <idno>https://letters1916.ie/item/255</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0902">Robert Anderson</persName>
+              <date>1916-04-21</date>
+              <placeName key="#letters1916_place-0063">The Plunkett House, Dublin, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0255_img_1439_1"  type="Letter"  url="e3a68e340e79d32367aee003577b27c6.jpg"/>
+      <graphic xml:id="L1916_0255_img_1439_2"  type="Letter"  url="48e7b970be8ca28db3f7fb05c05ec8d5.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0255_img_1439_1"/>
+                The Plunkett House,  Dublin.    21 April 1916   Dear Sir Matthew Nathan,   As I anticipated <lb/>the Executive Committee of the <lb/>I.A.V.T.C. were unanimous <lb/>in agreeing to offer the <lb/>services of the requisite <lb/>number of men to discharge <lb/> the various duties indicated <lb/> by the Chief Commissioner. <lb/>Before addressing any formal requisition to the <lb/>Corps  
+            <pb n="2" facs="L1916_0255_img_1439_2"/>
+              it would be necessary <lb/>for us to have some <lb/>further particulars which <lb/>perhaps it might be as well <lb/>that I should ask for in <lb/>the first instance unofficially.  The required information <lb/>would be :-  1. The number of men for <lb/>each post.  2. The length of time each man would be required, <lb/>(I presume 24 hours.<seg type="del">)</seg><lb/>This would mean in <lb/> the case of a guard of  
+         </ab>
+      </body>
+   </text>
+</TEI>

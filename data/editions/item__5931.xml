@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5931">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Kate English to Patrick English, 9 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Kate English </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Kate English to her son Patrick. In the letter Kate discusses a parcel she had sent to Patrick and a visit she had from Mrs McMahon. The letter goes on to discuss an incident with Lady Holm Patrick, Edina Conyngham (1888–1964). According to the letter, Lady Holm Patrick slipped at the hall door and injured her shoulder. This letter was written by Kate (b.1855) to Patrick English (1894-1970) while he was interned. Patrick had been stationed in the G.P.O for the Rising. Following the surrender he was sent to Stafford Prison before being moved to Frongoch internment camp in Wales.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Patrick English</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/5931</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0694">Kate English </persName>
+              <date>1916-06-09</date>
+              <placeName key="#letters1916_place-0099">Castleknock, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0178">Patrick English</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1722">Frongoch, Wales</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5931_img_1411_1"  type="Letter"  url="8636ea432813947139242b98e316dab4.jpg"/>
+      <graphic xml:id="L1916_5931_img_1411_2"  type="Letter"  url="bb7c350fb95387139086a9fc9c79f060.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5931_img_1411_1"/>
+              <hi rend="underline">Also a hand-<lb/> kerchief in<lb/> the parcel</hi>    Dunsink Cottage,  Castleknock    9 - 6 -16   Dear Patrick    A line in answer to your very welcome <lb/> letter which I was longing to get it made me young <lb/> you did not mention anything about the last parcel I sent <lb/> it contained Prayer book homemade cake stamps cigarettes <lb/> when you are writing always let me know what you receive<lb/> I am glad to see by your letter that you are going on <lb/> well and keep up your heart as it will not be long <lb/> untill you are home with your poor old mother again <lb/> M<hi rend="superscript">rs</hi> Dewar was out to see me she was <seg type="unclear">greath</seg> â <lb/> to hear you were in England she stayed for a <lb/> few days  
+            <pb n="2" facs="L1916_5931_img_1411_2"/>
+              You will be surprised to hear who I had for a visitor last <lb/> week, M<hi rend="superscript">rs</hi> M<hi rend="superscript">c</hi>Mahon  <seg type="unclear">(Baby)</seg>  Mary Henderich she has three children <lb/> they were here for a few days so I was not too lonely <lb/> you will be â to hear that Lady Holmpatrick met <lb/> with an accident she sliped at the halldoor and hurted her <lb/> shoulder. Lawrence is a very good boy now, Nellie has<lb/> changed her mind she is not going to England she is afraid <lb/> to go across the sea Frank expects a job as Motor Driver<lb/> in Guinness Jamesy Mary Jane Aunt Annie Nellie Katie and all <lb/> the boys sends their love enclosed is a postal order for <lb/> 2 shillings as the funds are very low as you want <lb/> no girl I send you my love what is better than a <lb/> Mothers Love  <seg type="closer"> Your loving<lb/> Mother </seg><seg type="postscript"> I got Davie to write this </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

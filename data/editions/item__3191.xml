@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3191">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Dublin Castle to Rev. James Moody, 2 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-7909-1</collection>
+                  <idno>https://letters1916.ie/item/3191</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-06-02</date>
+              <placeName key="#letters1916_place-0268">Dublin Castle, Dublin, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Rev. James Moody</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2093">The Manse, Dundalk, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Faith</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3191_img_2614_1"  type="Letter"  url="91131f5629f19dbc387fa71d59a02ded.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3191_img_2614_1"/>
+             Any reply to this communication<lb/>should be addressed to: -<lb/><lb/>The Under Secretary,<lb/>Dublin Castle,<lb/>and the following number quoted,<lb/>No. 1909.   Draft.   Dublin Castle,<lb/> 2<hi rend="superscript">nd</hi>, July, 1916 ,<lb/><lb/> Sir,   I am directed by the Lord Lieutenant to acquaint you that His Excellency<lb/>has been pleased to appoint you to be temporary Presbyterian chaplain<lb/>at and for Dundalk Prison <seg type="del">deleted text</seg>.  You will put yourself in communication as soon as possible with the<lb/>General Prisons Board, Dublin Castle, and will take from it instructions as to<lb/>the commencement of your duties.  You will receive pay from the date of your actually beginning duty in<lb/>the Prison  and  <seg type="del">you will hold office<lb/>by the tenure stated in the 28th Section of The General Prisons (Ireland)<lb/>Act, 1877.</seg>  I am, <lb/>Sir,<lb/> Your obedient Servant, <lb/><lb/>Rev. James Moody,<lb/> The House,<lb/>Dundalk.    (797). 
+         </ab>
+      </body>
+   </text>
+</TEI>

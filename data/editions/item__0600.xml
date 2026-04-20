@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0600">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Jeannie Adams to her sister Annie Adams, 27 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Jeannie Adams</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Jeannie Adams (d. 1936), to her sister Annie Adams (1889- 1966). In this letter Jeannie thanks Annie for her recent letter and card. She writes that she attended Church twice on Easter Sunday and thought of her brother &#39;Poor Johnnie&#39; who had been home &#39;this time last year&#39;. Jeannie Adams, born Jane Adams, later emigrated to Auckland, New Zealand, where she died in 1936. During the Great War, her brother John Adams (1890-1971), served with the 9th (Service) Battalion, Royal Irish Fusiliers. He spent the winter of 1915-16 in the trenches near the Somme valley. John Adams was wounded two months before the Battle of the Somme and spent Christmas 1916 in a camp in Tipperary. After returning to the Western Front in early 1917, he was involved in the Battle of Messines and further fighting in Ypres (Passchendaele). He was seriously wounded in October 1918, a few weeks before the end of the war.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Adams Family Collection</repository>
+                  <collection>Adams Family Collection</collection>
+                  <idno>https://letters1916.ie/item/600</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0218">Jeannie Adams</persName>
+              <date>1916-04-27</date>
+              <placeName key="#letters1916_place-1084">Holywood, Co. Down</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Annie Adams</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1981">Lisadian, Co. Armagh</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0600_img_2011_1"  type="Letter"  url="6beec39d08bcb18b0888bae628c3fdb2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0600_img_2011_1"/>
+                Church Hill  Hollywood  Co. Down    27 April 1916   My Dear Annie   thanks very much for letter and card, which I got alright <lb/> I hope you are all quite well. I suppose Easter was very quiet <lb/> well I was at Church twice on Sunday the Soldiers were at <lb/> the morning service there was a good many I was thinking <lb/> of Poor Johnnie he was here this time last year. I saw <lb/> Cissie Crozier and Annie and Sara on Saturday night <lb/> the asked me down to Annie on Monday, so Sara came <lb/> up for me in the afternoon and we went down round the <lb/> shore the tide was full in and it was lovely. Leonard Brown <lb/> was down he isn't bad wee chap at all I was talking <lb/> to him a good while he was telling me all the news about <lb/> home he says his Father is very ill he was in a bad way <lb/> about him he said he wanted Jimmie and Davie Crozier <lb/> to come with him I wish Jimmie had come they all went. <lb/> up to town about five they wanted me to go with them but I <lb/> did not go. I wonder did he get home. Sometimes the <lb/> Crozier are not bad. they always ask me to go with them <lb/>if the are for minnie or anywhere <cb/> I think this is near about <lb/> all as its near bed time <lb/> I hope you will write me <lb/> a good long letter soon has Jimmie <lb/> the potatoes all in <lb/> yet. The weather has been <lb/> nice this last few days <lb/> was Thomas Moffatt home at <lb/> Easter I donât think any <lb/> of the boy got any leave <lb/> the might later on. <seg type="closer">  Write soon give my love <lb/> to all<lb/> I remain your <lb/> Loving Sister   Jeannie <lb/> Write soon </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3722">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Kathleen Cantwell to Hanna Sheehy Skeffington, 17 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Kathleen Cantwell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Kathleen Cantwell to Hanna Sheehy Skeffington (1877-1946) regarding her attempts to get in contact with Hanna with regards to a letter about a pamphlet that will be printed. She then expresses a desire to subscribe to the Irish Citizen and inquires about the price.
+
+Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the founder of the Irish Women’s Franchise League and a founding member of the Irish Women Workers’ Union. She was the widow of Francis Sheehy-Skeffington who was summarily executed on 26 April 1916. She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy-Skeffington Papers, Collection List No.47; MS 33,604/13-11</collection>
+                  <idno>https://letters1916.ie/item/3722</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1192">Kathleen Cantwell</persName>
+              <date>1915-11-17</date>
+              <placeName key="#letters1916_place-0717">Beauparc, Monkstown, Co. Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3722_img_3111_1"  type="Letter"  url="7e0a89d179f0ac5a258c74cba57ba621.jpg"/>
+      <graphic xml:id="L1916_3722_img_3111_2"  type="Letter"  url="f03ef09c4187c2921f80eeb5d4cdc4a5.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3722_img_3111_1"/>
+             Beauparc,<lb/>Monkstown,<lb/>Co. Dublin.   17 Nov. 1915    Dear Mrs. Skeffington,   I called at 34 twice to-day<lb/>but found the place locked. I had a letter<lb/>from Mrs. <seg type="unclear">Swyer</seg> about the printup of<lb/>the pamphlet and she asked me to see you<lb/>about it. Will you be in 34 on Frid.<lb/>morning at 12 O'C or away where else that<lb/>would suit you — you could ring me<lb/>up here &amp; let me know — my no. is <hi rend="underline">Black</hi>—<lb/><hi rend="underline">Rock 111.</hi> If I am out you might leave the<lb/>message.  I'd like to subscribe to 'The <seg type="unclear">Cite</seg> 
+            <pb n="2" facs="L1916_3722_img_3111_2"/>
+             I generally buy it but I'd prefer to have it<lb/>come regularly — how much is it — in—<lb/>cluding postage?  With kind regards,<lb/>I remain<lb/>yours sincerely<lb/>K. Cantwell 
+         </ab>
+      </body>
+   </text>
+</TEI>

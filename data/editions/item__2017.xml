@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2017">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Joseph Michael Stanley, 29 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Joseph Michael Stanley</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Joseph Michael Stanley (1890-1950). In 1913 Stanley bought a struggling printing works, and in the following years he became increasing involved in the republican movement. He printed the Gaelic Press and later An tOglach for Michael Collins. His printing works were raided in March 1916 and the presses confiscated. He delivered copies of a handbill ‘The Provisional Government to the Citizens of Dublin’ to the GPO on Easter Tuesday. He was arrested at the end of the week and eventually was imprisoned at Frongoch Concentration Camp near Bala in North Wales. In this letter Stanley is writing to enclose official documents from a military and police raid of his premises in which he printed newspapers.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI; Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/7801/4</collection>
+                  <idno>https://letters1916.ie/item/2017</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0460">Joseph Michael Stanley</persName>
+              <date>1916-04-14</date>
+              <placeName key="#letters1916_place-0141">16 Booterstown Avenue, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0534">Augustine Birrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1935</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2017_img_1465_1"  type="Letter"  url="65b81cfa0e2f2cf554f49608de482fea.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2017_img_1465_1"/>
+             THE GAELIC PRESS   30 UPPER LIFFEY STREET, DUBLIN.   29th March 1916.   Dear Sir   We beg to enclose you, for your information, and <lb/>official memorandum of the military and police raid which <lb/>took place <seg type="del">here</seg> on these premises on Friday 24th March. <lb/>The matter, we understand, will be raised in the House of <lb/>Commons, and we wish to put you in possession of the facts <lb/>of the case, in the event of your deeming it necessary to <lb/>intervene in the interests of justice.   Yours truly <lb/>Per pro GAELIC PRESS   J M Stanley Manager 
+         </ab>
+      </body>
+   </text>
+</TEI>

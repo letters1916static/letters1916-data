@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1375">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Dr. Edward Griffin to James Smith, 26 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward Griffin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Dr. Edward Griffin to James Smith referring to the appointment of a dressmaker and nurse, Bridget Cremin, at the Killarney District Asylum. According to Dr. Griffin, Cremin was the only candidate who met the age requirement for the position. Griffin also addresses a report that Cremin&#39;s mother died in the asylum.In 1916 Dr Edward Griffin was serving as the resident medical superintendent in the Killarney District Asylum. James Smith was the civil servant in charge of the Office of Inspectors of Lunatic Asylums.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3755/2</collection>
+                  <idno>https://letters1916.ie/item/1375</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0359">Edward Griffin</persName>
+              <date>1916-02-26</date>
+              <placeName key="#letters1916_place-0959">District Asylum, Killarney, Co. Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">James Smith</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1375_img_729_1"  type="Enclosure"  url="ef8bf4c66518ee1603d484f5507292e1.jpg"/>
+      <graphic xml:id="L1916_1375_img_729_2"  type="Letter"  url="59d73536e03f2a6a74eb37f6b9692a30.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1375_img_729_1"/>
+                DISTRICT ASYLUM,  KILLARNEY    26 February, 1916.   Sir,   Your letter No.252, of the 3rd inst, with enclosure <lb/>referring to the recent appointment of Dressmaker and Nurse <lb/>here, was duly considered by my Committee on the 24th inst. <lb/>I was directed to say in reply,for the information of the <lb/>Inspectors, that Bridget Cremin, who was appointed to the <lb/>position named, was the <hi rend="underline">only</hi> candidate qualified by age <lb/>and she also had a certificate of competence from a local <lb/>dressmaker. Cremin was appointed subject to reports from <lb/>the R.M.S. and the Matron and that the latter appeared <lb/>before the Committee and reported verbally as to her fit- <lb/>ness and is to report further in writing to next meeting. <lb/>The appointment was made strictly in accordance with the <lb/>terms of the advertisement, which bore no resemblance to <lb/>those quoted in the enclosure. The statement that Cremins <lb/>mother died in the Asylum is not correct; she was never a <lb/>patient here. <seg type="closer"> I am, Sir, <lb/>your obedient servant,  E.W. Griffin <lb/>Resident Medical Superintendent   James Smith, Esq.  Office of Lunatic Asylums,  Dublin Castle.  </seg> 
+            <pb n="2" facs="L1916_1375_img_729_2"/>
+                Office of Inspectors of Lunatiacs, Dublin Castle.    <hi rend="underline">KILLARNEY</hi> Lunatic Asylum  SUBJECT.  COMPLAINT OF MISS MARY O' LEARY <lb/>RELATIVE TO APPOINTMENT OF MISS <lb/>BRIDGET CREMIN AS DRESSMAKER &amp; <lb/>NURSE  MINUTE.  Assistant Under Secretary  With reference to your minute of the <lb/>2nd instant, we beg to state that we had <lb/>previous  to its receipt  informed Miss Mary O'Leary that <lb/>the appointment of a Dressmaker &amp; Nurse in <lb/>the Killarney District Asylum is vested <lb/>solely in the Committee of Management, and <lb/>that any representations she wished to make <lb/>on the subject should be addressed to that <lb/>body.  We also forwarded a copy of her letter <lb/>to the Committee, whose reply, dated the <lb/>26th instant, is now annexed. <lb/>The matter does not appear to call for <lb/>any further action. <seg type="closer"> W.R. Dawson   28th February, 1916  </seg>  Eof <lb/><hi rend="underline"> 4-II-16</hi>  
+         </ab>
+      </body>
+   </text>
+</TEI>

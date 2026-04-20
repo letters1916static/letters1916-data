@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3391">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from George D. Roche to Nancy McCarthy, 23 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>George D. Roche</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Postcard from George D. Roche to Nancy and Eily McCarthy, written as a covering letter for a French paper Le Miroir - “It is the best out here”. He has been far from a village or shops for 6 weeks and they are living in a small wooden hut in a field “but the Padre’s gramophone is playing now (can’t you hear it?) and we are quite comfy”.
+
+Nancy McCarthy was a well-practised letter-writer, and her collection of correspondence spans eighty years. This postcard is one of seven included in the Letters of 1916 collection written to Nancy by her uncle, George D. Roche, on active service with the 7th London regiment during World War I.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>UCC Library Special Collections and Archives</repository>
+                  <collection>The Nancy McCarthy Collection, BL/PP/NMC/610</collection>
+                  <idno>https://letters1916.ie/item/3391</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0611">George D. Roche</persName>
+              <date>1916-10-23</date>
+              <placeName key="#letters1916_place-0461">Belgium</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Nancy McCarthy</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0711">The Convent, Mountrath, Queen's County, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3391_img_2803_1"  type="Letter"  url="a6cdf5e054e59b5ac8e1ceb5a2b80904.jpg"/>
+      <graphic xml:id="L1916_3391_img_2803_2"  type="Letter"  url="d03c32932f8b8bae2222c456e933888e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3391_img_2803_1"/>
+              Belgium   23/10/16.   My deat Nancy &amp; Emily.   Just time to sent you another French paper <lb/>"Le Miroir" — It is one of the best out here, but <lb/>I have been away from villages &amp; shops for <lb/>over a month or six weeks so couldn't get a <lb/>copy until today.   I hope you are both pretty bobbish! It <lb/>is awfully cold out here. Living in a little wooden <lb/>hut in the fields but the Padre's gramaphone <lb/>is playing now (can't you hear it?) and we are <lb/>quite comfy.   I send love to you both from   Uncle George. 
+            <pb n="2" facs="L1916_3391_img_2803_2"/>
+            <!-- photo -->
+         </ab>
+      </body>
+   </text>
+</TEI>

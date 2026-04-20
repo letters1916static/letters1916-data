@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0762">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Wilfrid Spender. 13 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from the collection of Lady Lillian Spender, wife of the author, Sir Wilfrid Bliss Spender (1876 - 1960). The letters date mainly from 1915 to 1918, when Sir Wilfrid was serving in France. The letters concern politics, the Irish question, personal life, and Wilfrid&#39;s experience of the Great War.In this letter Spender writes that he has arrived at a destination where he is to spend some weeks. He is sharing a room with a curé and his two pictures of Popes, but promises that they will not disturb his sleep. He gives an account of a recent march he went on with &#39;one of the brigades&#39;, noting their discipline and their loss of numbers. Spender expresses astonishment that the Unionists have done so poorly on the Home Rule issue, characterising the situation as one where rebellion against the Crown is actively rewarded, and stating that a pardon for Sir Roger Casement (1864-1916) would be &#39;the limit&#39;. He suggests that the war has descended into stalemate, and that there is very little chance of breaking the German line, unless the bad weather damages their harvest.In this letter Spender is writing to his &#39;dear folks&#39;, presumably his family. Sir Wilfrid Spender was a member of the British Army until 1913 when controversy surrounding his signature of the Ulster Solemn League and Covenant resulted in his resignation. Spender was called up for military service in 1914 and from 1915 served in the 36th (Ulster) Division. Throughout the war, Spender remained in contact with the Ulster Unionist leadership, and consistently opposed Home Rule and the six-county solution.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Lady Spender&#39;s Correspondence, D1633/1/1/343</collection>
+                  <idno>https://letters1916.ie/item/762</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0667">Wilfrid Spender</persName>
+              <date>1916-07-13</date>
+              <placeName key="#letters1916_place-0769">France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lillian Spender</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0971">20 Hillmorton Road, Rugby, Warwickshire, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0762_img_2294_1"  type="Letter"  url="65347f1b498982a3bcb0026c05858518.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0762_img_2294_1"/>
+               in their attack from Thiepval wood.  I am very unhappy about the political<lb/> scheme. Our old Unionist leaders have<lb/> shown themselves to be such babes of<lb/> innocence in dealing with the Home<lb/> Rule question i.e. in allowing themselves<lb/> to be so bamboozled by Squiffy &amp; Co.  It is almost inevitable that with all<lb/> the winning cards in the pack they<lb/> should have allowed themselves to be<lb/> so bamboozled as to give the Irish Home<lb/> rule as a reward for rebellion.  We are keeping in Ireland  as a garrison  now &amp;<lb/> nearly as many British troops as we<lb/> have obtained from the Southern provinces<lb/> in recruits for the whole army.  I think if Casement is pardoned, which<lb/> will really be the limit the least<lb/> they can do is to reinstate the loyal<lb/> rebels! but of course we give no more<lb/> trouble and are therefore not worth<lb/> bribing. <cb/> 
+         </ab>
+      </body>
+   </text>
+</TEI>

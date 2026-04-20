@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4240">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Wilfrid Spender to Lillian Spender, 27 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Sir Wilfrid Spender (1876 - 1960) to his wife, Lillian (1880-1968). Spender was a member of the British Army until 1913 when controversy surrounding his signature of the Ulster Solemn League and Covenant resulted in his resignation. Spender was called up for military service in 1914 and from 1915 served in the 36th (Ulster) Division. Throughout the war, Spender wrote a collection of letters to his wife Lady Lillian Spender. The letters date mainly from 1915 to 1918, when Sir Wilfrid was serving in France. The letters concern politics, the Irish question, personal life, and Wilfrid&#39;s experience of the Great War.&#34;</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Letters from Sir Wilfrid Spender to Lady Spender, D1633/1/1/78</collection>
+                  <idno>https://letters1916.ie/item/4240</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0667">Wilfrid Spender</persName>
+              <date>1915-11-27</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lillian Spender</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1960</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4240_img_3608_1"  type="Letter"  url="0675cb0a1f973bae08aca8ab1dd7e050.jpg"/>
+      <graphic xml:id="L1916_4240_img_3608_2"  type="Letter"  url="25d947db03a4a446f276282320c88ec1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4240_img_3608_1"/>
+             27<hi rend="superscript">th</hi>   You have got some rather <lb/> severe critics among your <lb/> Committee. Lady F wrote a <lb/> letter describing the present <lb/> chaos &amp; wreckage, whereat <lb/> Gen N seemed amused. He said <lb/> there's nobody left but your <lb/> HQs you had better see that <lb/> they do you well, you'd better <lb/> put in for concertinas etc etc !    We did not give our funds <lb/> to be chucked away like that &amp; <lb/> there is no reason for it.    I think she feels put into <lb/> the shade by being put on as /of <lb/> packing Committee. Anyhow the <lb/> ice is pretty thin &amp; Gen N not inclined
+            <pb n="2" facs="L1916_4240_img_3608_2"/>
+            to be sympathetic because I suppose <lb/> Mrs N' is not boss. However luckily <lb/> PRs are accustomed to deal with <lb/> traps &amp; trappers thanks to her <lb/> life with a  wild  b w .   I wonder whether these <lb/> 2, Gen N &amp; Lord F know of <lb/> our contribution. It will be <lb/> a bit of a surprise if they do. <lb/> I should <seg type="del">deal</seg> correspond with your battalion <lb/> &amp; unit  committees as much as possible <lb/> not with the Div' HQ<hi rend="superscript">rs,</hi>tho' <lb/> the more you consult me, the <lb/> better I shall be pleased.   I think you can keep the <lb/> peace with Lady R better than most <lb/> but she too is rather a tigress.   I am not sure that Col McCammon <lb/> would not be a better person to advise <lb/> about the typewriter loan.   WBS.   WBSpender 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3604">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Kathleen Cantwell to Hanna Sheehy Skeffington, 10 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Kathleen Cantwell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Kathleen Cantwell to Hanna Sheehy Skeffington (1877-1946) in which Kathleen expresses her sympathies regarding the death of Hanna&#39;s husband, Francis.
+
+Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the founder of the Irish Women’s Franchise League and a founding member of the Irish Women Workers’ Union. She was the widow of Francis Sheehy-Skeffington who was summarily executed on 26 April 1916. She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy-Skeffington Papers, Collection List No.47; MS 33,605/3-6</collection>
+                  <idno>https://letters1916.ie/item/3604</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1192">Kathleen Cantwell</persName>
+              <date>1916-05-10</date>
+              <placeName key="#letters1916_place-0717">Beauparc, Monkstown, Co. Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3604_img_3004_1"  type="Letter"  url="7b09fe1a580cead2573518116629a810.jpg"/>
+      <graphic xml:id="L1916_3604_img_3004_2"  type="Letter"  url="70d6ebb58fe99c125a7ddf9b3ff696d6.jpg"/>
+      <graphic xml:id="L1916_3604_img_3004_3"  type="Letter"  url="c58a5a238557e44afd88fd27a98eaeca.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3604_img_3004_1"/>
+             BEAUPARC. MONKSTOWN, CO. DUBLIN.   10 <hi rend="underline">May 1916</hi>   Dear <sic>Hannah</sic>.   I feel I would<lb/>like to send you a  line  <lb/>to tell you how <seg type="unclear">much</seg> I<lb/>feel for you in this<lb/>tragedy that has come.<lb/>on you. I think I was  
+            <pb n="2" facs="L1916_3604_img_3004_2"/>
+             say that sympathy<lb/>with you is universal.  I do not know where to<lb/>find you so I send<lb/>you this through  <lb/>as I feel I must let<lb/>you know how sorry<lb/>I am for this uncalled  
+            <pb n="3" facs="L1916_3604_img_3004_3"/>
+             for miscarriage of<lb/>justice.  God know the Sheeleys<lb/>have had made <sic><seg type="unclear">their</seg></sic> <lb/>their share and I can<lb/>only trust that better<lb/>days are in store for<lb/>you   Yours Sincerely.    Kathleen Cantwell.   
+         </ab>
+      </body>
+   </text>
+</TEI>

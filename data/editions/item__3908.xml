@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3908">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Father Willie Doyle S.J. to Hugh Doyle, 26 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Willie Doyle</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IE-IJA-J2-83-92</collection>
+                  <idno>https://letters1916.ie/item/3908</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1272">Willie Doyle</persName>
+              <date>1916-10-23</date>
+              <placeName key="#letters1916_place-0642">British Expeditionary Force, France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hugh Doyle</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2113">Melrose, Dalkey, County Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1917</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3908_img_3285_1"  type="Letter"  url="3be625bdf430ab31db62f34fadcf548d.jpg"/>
+      <graphic xml:id="L1916_3908_img_3285_2"  type="Letter"  url="98971e09bb269238cff959557ed3fc9d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3908_img_3285_1"/>
+             J2/83 (92)   B. A. Force.    26/10/'16.    My dearest Father,   As I have only<lb/>the tip of my nose and two<lb/>fingers sticking out of a sea<lb/>of mud, I must ask you to<lb/>excuse all shortenings in<lb/>this letter written under such<lb/>difficulties. You said in your<lb/>last welcome dispatch to me<lb/>that you hoped I would soon<lb/>be shaking the dust of Belgium<lb/>off my feet. As a matter of<lb/>fact a small earthquake would<lb/>be needed at the present moment<lb/>to free me from the affectionate<lb/>embraces of Mother Earth.  However that is a trifle as I have 
+            <pb n="2" facs="L1916_3908_img_3285_2"/>
+             Ever so many stamps for<lb/>your welcome letters. I<lb/>hope you had a good<lb/>time in <seg type="unclear"></seg> <lb/>with dear Mai. All well   Will    
+         </ab>
+      </body>
+   </text>
+</TEI>

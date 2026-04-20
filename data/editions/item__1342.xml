@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1342">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Ursula Mahon to Lady Clonbrock, 18 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Ursula Mahon</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Ursula Mahon (1906-1986) to her grandmother Augusta Dillon,Lady Clonbrock, (1839-1929) wishing her grandparents many happy returns on their Golden Wedding anniversary. Ursula also tells her grandparents abut her activities while she is out in the countryside.Ursula Mahon was the daughter of Edith Dillon and Sir George Mahon. Following her marriage to Arthur Marcus Lowther Crofton (1898-1962) in 1929 she became Ursula Crofton. Augusta Caroline Dillon (née Crofton) was the wife of Luke Gerald Dillon (1834 - 1917), the 4th Baron of Clonbrook, Co. Galway and the daughter of Lord Crofton of Mote Park (Edward Henry Churchill Crofton, 3rd Baron), Co. Roscommon. Augusta was a skilled photographer and was responsible for creating much of the collection of 3,000 negatives and prints, now held by the National Photographic Archive of Ireland, which illustrates many aspects of life on the estate over a period of seventy years. She was also very active in promoting home industries at Clonbrock and in organizing voluntary work on behalf of local men serving with the British Army during the First World War, for which she was awarded an OBE in 1920.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>CLonbrock Papers, Collection List No. 54;, Ms 35,795/11</collection>
+                  <idno>https://letters1916.ie/item/1342</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0727">Ursula Mahon</persName>
+              <date>1916-07-18</date>
+              <placeName key="#letters1916_place-2107">Castlegar, Ahascragh, Galway, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0483">Augusta Caroline Dillon</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0089">10 Cadogan Gardens, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1342_img_68_1"  type="Letter"  url="d8a619acf79c25bd513b590e20fc0351.jpg"/>
+      <graphic xml:id="L1916_1342_img_68_2"  type="Envelope"  url="c2c0858c10701366e89c22ab9e2d5e64.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1342_img_68_1"/>
+                Castlegar  Ahascragh    July 18<hi rend="superscript">th</hi> 1916  <lb/>Sunday.  My dear Daddi &amp; Papapa.   Many happy returns <lb/> of the day. We helped hay making <lb/> in the Orchard yesterday, we raked <lb/> it up to the cock. I got on top <lb/> of one of the cocks when it <lb/> was being <sic>bilt</sic>. It is pouring <lb/> with raining now. But I think <lb/> it will clear up for Church <sic>allright</sic>. <lb/>I am going to get a prize of 2/â <lb/> if I can get 100 marks by the <lb/> time we go to the sea.  It is time to go to Church <seg type="closer"> Love to all <lb/>from  Ursula </seg> 
+            <pb n="2" facs="L1916_1342_img_68_2"/>
+                The  Lady Clonbrock  10 Cadogan Gdns.  London.  s.w.    
+         </ab>
+      </body>
+   </text>
+</TEI>

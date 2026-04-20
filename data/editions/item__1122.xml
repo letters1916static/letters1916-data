@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1122">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Gertrude Clements to Lady Catherine Nugent, 7 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Gertrude Clements</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Gertrude Clements nee Markham (1832-1931) to Lady Catherine Nugent. Clements writes to lady Nugent of the casualty lists published in the newspapers after the initial battles of the Somme offensive, of which the Ulster Division took a prominent part in.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Farren Connell Papers D3835/E/4/3/25, Farren Connell Papers D3835/E/4/3/25</collection>
+                  <idno>https://letters1916.ie/item/1122</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1497">Gertrude Clements</persName>
+              <date>1916-07-07</date>
+              <placeName key="#letters1916_place-0248">Ashfield Lodge, Cootehill, Co. Cavan, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lady Catherine Nugent</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1122_img_3534_1"  type="Letter"  url="4ae6a4af49bf9f15bcb8bc2f0d58b60c.jpg"/>
+      <graphic xml:id="L1916_1122_img_3534_2"  type="Letter"  url="1b94515a72590e3bc9e85667c9badca3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1122_img_3534_1"/>
+                July 7 1916    Ashfild Lodge  Cootehill  Ireland   Dear Mrs Nugent   I must write to say <lb/>how thrilled we feel at <lb/>the Ulster Division's <lb/>magnificent advance under <lb/>your husband's valiant <lb/>lead. His addresses to his <lb/>troops are so splendid, and <lb/>their response so fine. Please <lb/>let him know what we feel <lb/>here. So many of our brave boys <lb/>from here are with him. Among them <lb/>Three from our Gate Lodge (one <lb/>wounded) &amp; another the only <lb/>child of a family great friends <lb/>of ours. He is signaller - my <lb/>daughters first taught him  
+            <pb n="2" facs="L1916_1122_img_3534_2"/>
+              but it is a terrible watch now <lb/>for the names. They would <lb/>neither surrender nor retire <lb/>The world might call it foolhardy <hi rend="superscript">glorious!</hi><lb/>but it is such conduct that <lb/>purifies the poor world, and <lb/>raises it to a higher level <lb/>and lives in history for generations <lb/>to come. Please convey our <lb/>heart felt congratulations to <lb/>your husband and accept <lb/>them yourself also from us. <lb/>Don't these verses fit them? <lb/>And now we feel that all around <lb/>Have angels walked the well known ground <lb/>Not winged &amp; strange beyond our ken <lb/>But in the form of common men <lb/>God's messengers from Heaven's own sphere <lb/>Unrecognised - because so near.  <seg type="closer"> Believe me sincerely yours  Gertrude Clements </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

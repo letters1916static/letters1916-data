@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3497">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Major-General Lovick Bransby Friend to John Redmond, 8 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Lovick Bransby Friend</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Major-General Lovick Bransby Friend (1856-1944) to John Redmond (1856-1918). Friend writes to Redmond about the activities of the Irish Volunteer Training Corps. The Volunteer Training Corps was a voluntary home defence militia during World War I.
+
+Major General Sir Lovick Bransby Friend was a British Army major general and cricketer. Friend was in charge of Administration at Irish Command in 1912 and appointed Commander-in-Chief, Ireland in 1914, he was replaced following the Easter Rising in 1916. John Redmond was an MP and leader of the Irish Parliamentary Party. He was instrumental in securing the promise of Home Rule from Asquith&#39;s liberal government. Upon the outbreak of war, Redmond addressed a group of Irish Volunteers at Woodenbridge, Co. Wicklow, encouraging them to fight with the British Army to ensure the implementation of Home Rule. Redmond&#39;s words split the Irish Volunteers across the country. The Easter Rising shocked Redmond, who condemned it bitterly. Nonetheless he appealed for leniency towards those who had not been involved in planning the Rising. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>MS 15,188/10/3</collection>
+                  <idno>https://letters1916.ie/item/3497</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0593">Lovick Bransby Friend</persName>
+              <date>1916-03-08</date>
+              <placeName key="#letters1916_place-1307">Headquarters, Irish Command, Parkgate, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1486">John Redmond</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1944</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3497_img_2904_1"  type="Letter"  url="3f7d54633c628acaaf0decf58affc7f4.jpg"/>
+      <graphic xml:id="L1916_3497_img_2904_2"  type="Letter"  url="1b4a5e7674bf787a5bd9c74390775a14.jpg"/>
+      <graphic xml:id="L1916_3497_img_2904_3"  type="Letter"  url="7f89356a5143a173b755d74089bb96f6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3497_img_2904_1"/>
+             Headquarters, <lb/>Irish Command, <lb/>Parkgate, <lb/Dublin.   8 <hi rend=”underline”>March</hi> <seg type="unclear">1916</seg>  Dear Mr Redmond:   The Enclosed cutting <lb/>Expresses rather an Exaggerated <lb/>view of the way in which <lb/>the Irish V.<seg type="unclear">J.</seg> Corps have <lb/>been used. They have <lb/>been used at Belfast<seg type="unclear">,</seg> as <lb/>in Dublin — on "Special <lb/>Constable" kind of duties, <lb/>and quite unofficially. <lb/>We cannot at present <lb/>use them officially, I <lb/>am sorry to say : &amp; all
+            <pb n="2" facs="L1916_3497_img_2904_2"/>
+            we can do in Dublin <lb/>is to ask them to do <lb/>such useful work — <lb/>as supervising the <lb/>arrival &amp; departure <lb/>of soldiers at North <lb/>Wall : &amp; drills in <lb/>Connection with the <lb/><seg type="unclear">Office's</seg> Training Corps.   I do not Think it <lb/>too late now to extend <lb/>the usefulness of  Volunteer  <lb/>Service in Ireland <seg type="unclear">—</seg>
+            <pb n="3" facs="L1916_3497_img_2904_3"/>
+            been carried out <lb/>here,   Yours Sincerely   <hi rend="underline">J.B. Friend</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

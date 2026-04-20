@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3237">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Kelly to Sir Robert Chalmers, 6 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Kelly</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-9735</collection>
+                  <idno>https://letters1916.ie/item/3237</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0662">John Kelly</persName>
+              <date>1916-06-06</date>
+              <placeName key="#letters1916_place-0628">22 Mary Street, Westport, Mayo</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3237_img_2657_1"  type="Letter"  url="1482924f337018f5965c93f195f3f180.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3237_img_2657_1"/>
+             Westport,<lb/>Co Mayo   8th June 1916.    Sir,   WESTPORT PETTY SESSIONS 22nd June 1916.  I beg to bring the following matter under your notice and to make<lb/>a request in connection therewith:—  I am Solicitor for the Local Board of Conversators and they<lb/>have instructed me to bring a <sic>proscution</sic> against William Gannon and Austin<lb/>Gannon of Drummin, Westport in this County for removing sand from the Salmon<lb/>spawning bed of a river at Drummin.  The Board regard this as a very bad case and wish me to<lb/>write you for the purpose of directing, Mr Hinkson. R.M. at attend at Westport<lb/>on the 22nd of June when the case will come on for hearing.  I shall arrange with Mr Milling R.M. to attend on that day<lb/>also.  I shall be much obliged if can accede to my request.   Yours faithfully,  John Kelly   The Under Secretary,<lb/>Dublin Castle,<lb/>Dublin.   
+         </ab>
+      </body>
+   </text>
+</TEI>

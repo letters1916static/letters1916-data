@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3214">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Bradley to Sir Robert Chalmers, 20 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Bradley</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from John Bradley to Sir Robert Chalmers regarding broken wall between the Mountjoy Prison and North Circular Road Laundry.
+
+Sir Robert Chalmers (1858-1938) was appointed under-secretary of Ireland in 1916, replacing Sir Matthew Nathan (1862-1939) in the aftermath of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-8758</collection>
+                  <idno>https://letters1916.ie/item/3214</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0074">John Bradley</persName>
+              <date>1916-05-20</date>
+              <placeName key="#letters1916_place-1645">The Treasury, Whitehall, London, S.W., England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3214_img_2636_1"  type="Letter"  url="5d63b18c86c37502dd3cc4e7e9894a17.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3214_img_2636_1"/>
+             Any reply to this letter should be addressed to— <lb/>THE SECRETARY, <lb/>TREASURY, <lb/>WHITEHALL, LONDON, S.W.. <lb/>and the following number quoted. <lb/>6061 <lb/>16   TREASURY CHAMBERS.   20 May 1916.   Sir,   I have laid before the Lords Commissioners of <lb/>His Majesty's Treasury Sir M. Nathan's letter of the 3rd <lb/>March last 3719/16 stating that during a storm in Dublin <lb/>on the night of the 12th November last a portion of the <lb/>wall, 15 feet high, forming the boundary between the <lb/>grounds attached to the Medical Officer's quarters at <lb/>Mountjoy Prison and those of the North Circular Laundry <lb/>Company was entirely blown down for length of 24 yards.   In reply I am to enquire whether the needs of <lb/>the case could not be satisfactorily met at a far less <lb/>cost by the erection of a substantial wooden fence by <lb/>the Laundry Company subject to a contribution of one half <lb/>the cost by the Prisons Board.   I am, <lb/>Sir, <lb/>Your obedient Servant,    John Bradley   The Under Secretary, <lb/>Dublin Castle.   Send copy of this letter to <lb/>Prisons Board for their <lb/>observations. <lb/>I.J.T. <lb/>23.V.16 
+         </ab>
+      </body>
+   </text>
+</TEI>

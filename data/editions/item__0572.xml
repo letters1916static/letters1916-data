@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0572">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Kerin &amp; Hickman to the Under-Secretary, 5 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Kevin Hickman</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Kerin &amp;amp; Hickman Solicitors to Sir Robert Chalmers (1858-1938), Under-Secretary for Ireland, acknowledging that a Resident Magistrate in charge of the district has been instructed to attend Kilrush Petty Sessions on 7 August 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5620/13539</collection>
+                  <idno>https://letters1916.ie/item/572</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0453">Kevin Hickman</persName>
+              <date>1916-08-05T00:00:00</date>
+              <placeName key="#letters1916_place-1367">Ennis, County Clare, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0572_img_1967_1"  type="Letter"  url="d07edf5c3a2fdf06a977f96edfe28634.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0572_img_1967_1"/>
+                Ennis  Co. Clare    5th August 1916.    The Under Secretary,  Dublin Castle,  Dublin.   Sir   <hi rend="underline">William Boughey v John O'Dwyer</hi>  We are in receipt of your letter of the 4th instant <lb/>and note that the Resident Magistrate in charge of the <lb/>district has been instructed to attend Kilrush Petty <lb/>Sessions on the 7th instant. <seg type="closer"> We are, Sir, <lb/>Your obedient Servants  Kevin Hickman </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

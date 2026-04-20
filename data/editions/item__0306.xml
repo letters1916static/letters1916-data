@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0306">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Maurice Moore and Agnes O'Farrelly regarding Roger Casement, 17 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Maurice Moore</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Maurice George Moore (1854-1939) and Agnes O&#39;Farrelly. Moore was an Irish author, soldier and politician. Born in Co Mayo, he was the younger brother of the writer George Moore. He reached the rank of colonel in 1902. He resigned his commission in 1906 over matters of principle during the Boer War. A member of the provisional committee of the Irish Volunteers in 1913, he was made the organisation&#39;s Inspector General, spending much of 1914 organising the troops in Ireland. In 1916 he collected a petition with Agnes O&#39;Farrelly asking for a reprieve of the death sentence against Roger Casement. The letter is addressed to &#39;Sir&#39; and concerns the petition for the reprieve of Roger Casement. In the letter both state that they believe that the shedding of blood will not improve Anglo-Irish relations.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casement Papers, Collection List No. A15, Ms.13088/9/3</collection>
+                  <idno>https://letters1916.ie/item/306</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0505">Maurice Moore</persName>
+              <date>1916-07-17</date>
+              <placeName key="#letters1916_place-1852">Duswell&#39;s Hotel, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0306_img_1527_1"  type="Letter"  url="cc7d97a7884aedad400b7266e4824b32.jpg"/>
+      <graphic xml:id="L1916_0306_img_1527_2"  type="Letter"  url="51bf3914c1c6289f04f505685f4f6aec.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0306_img_1527_1"/>
+                Buswell's Hotel, Dublin.    17th. July, 1916   Dear Sir   Some Irish men and women who are deeply grieved at the<lb/> events of the last few months propose to petition the Government<lb/> to show mercy to Roger Casement. They are not influenced by<lb/> any sympathy for his acts but believe that any further shedding<lb/> of blood will not tend to improve the relations between the two<lb/> islands, or to smooth the irritation which unfortunately exists.  It is not proposed to prepare any monster petition at<lb/> present ; in this matter we must be guided by circumstances<lb/> as they arise, and at present such a course does not seem advisable.<lb/> The time available does not permit much delay for consultation<lb/> but we hope you will approve of the form of petition now drawn up;<lb/> We propose that the present petition should go forward with only<lb/> a limited number of signatures - those of people of note or<lb/> influence in literature, art, politics, etc., being placed together.<lb/> This will give it a separate distinct character.  If you approve we shall be glad if you will return the<lb/> petition signed so that it can be attached to others of the same<lb/> nature. <seg type="closer"> Yours faithfully,  Maurice Moore <lb/> Agnes O'Farrelly <lb/>Committee :-<lb/> The Lord ffrench<lb/> Right Rev. Monsignor Ryan P.P.<lb/> Rev. Matthew MacGuire P.P.<lb/> Dr. Hyde L.L.D.<lb/> Colonel Moore C.B.<lb/> Lorcan Sherlock Esq. Late Lord Mayor, Dublin<lb/> P.J. Allen Esq.<lb/> Mrs. Hutton<lb/> Mrs. O'Nolan<lb/> Miss O'Farrelly<lb/> Miss Young </seg> 
+            <pb n="2" facs="L1916_0306_img_1527_2"/>
+               Petition of Col. Moore &amp; Agnes Farrelly  letter mostly re R. Casement 1916-18  from A.S.G., 'MÃ¡ire' clement Shorter, A. Monell, James Stephens, etc.  
+         </ab>
+      </body>
+   </text>
+</TEI>

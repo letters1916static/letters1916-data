@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1012">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mary Hayden to Hanna Sheehy Skeffington, 17 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mary Hayden</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Mary Hayden (1862-1942) to Hanna Sheehy Skeffington (1877 - 1946). Hayden writes that she will be taking one of the tickets Hanna sent to her for the Irish Citizen fundraising concert, but must return the rest since she is not very good at selling tickets. Hayden hopes that Skeffington will have a good audience despite not always seeing eye-to-eye with the &#39;Irish Citizen&#39;.Mary Hayden was a suffragette and historian. As one of the earliest women graduates of the Royal University of Ireland she became the professor of modern Irish history at University College Dublin in 1911. Although opposing militant protests as counterproductive, she sought justice in the treatment of protesters. Involved in various suffrage groups, in 1915 she and Mary Gwynn established another, the Irish Catholic Women’s Suffrage Association, to attract more Catholic women to the movement. Throughout her life she publicly advocated women’s rights, including demands for full citizenship in both the 1922 and 1937 constitutions.Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the widow of Francis Sheehy-Skeffington (who was summarily executed on 26 April 1916). She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47, MS 33,604/16-30</collection>
+                  <idno>https://letters1916.ie/item/1012</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0197">Mary Hayden</persName>
+              <date>1916-02-17T00:00:00</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1012_img_2860_1"  type="Letter"  url="1837bee51ac74b2f0df708e335133f41.jpg"/>
+      <graphic xml:id="L1916_1012_img_2860_2"  type="Letter"  url="b19430f26381df6aed4d17be854a306c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1012_img_2860_1"/>
+                47 WinchinRd    Feb 17<hi rend="superscript">t</hi> 1916   Dear Mrs Skeffington   I am taking a <lb/>ticket for the play on the 20th. I <lb/>fear I am no good at selling <lb/>tickets, so return the other. I hope <lb/>that you will have a good au <lb/>dience. âthe Irish Citizenâ â although <lb/>as you know, I donât always see <lb/>eye to eye with it, could not  
+            <pb n="2" facs="L1916_1012_img_2860_2"/>
+              <lb/>be <seg type="unclear">spared</seg>. I feel.  Believe me <seg type="closer"> Yrs sincerely  May Hayden </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

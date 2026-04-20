@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0584">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John R. Moorhead to Robert Chalmers, 10 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John R. Moorhead</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from John R. Moorhead to Sir Robert Chalmers (1858-1938). Mr. Moorhead is returning papers in relation to the case of Patrick and Elizabeth McCartney, recently heard in Belfast Summer Assizes. They were tried for two offences. Elizabeth was convicted in relation to one only. Patrick was acquitted on both charges. A handwritten note added is an instruction to Dr. Wynne to advise the War Office of the outcome, and another note (by Wynne) indicates that he has done so.John R. Moorhead of Moorhead and Wood, was a Crown Solicitor in Belfast. Sir Robert Chalmers (1858 - 1938) was sent to Ireland as replacement under-secretary for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916. Henry Arthur Wynne (1867-1943), Chief Crown Solicitor for Ireland, 1916</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5620/13768</collection>
+                  <idno>https://letters1916.ie/item/584</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1437">John R. Moorhead</persName>
+              <date>1916-08-10</date>
+              <placeName key="#letters1916_place-0616">Belfast, County Down, Northern Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Law and Judiciary</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0584_img_1987_1"  type="Letter"  url="dab4117f11dc3853d157a8c7348089e9.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0584_img_1987_1"/>
+              Counties of Antrim &amp; Belfast Crown Solicitor's Office. <seg type="head">The King v <hi rend="underline">Patrick</hi> &amp; Elizth. McCartney </seg>   30 Rosemary Street  Belfast    10th. August 1916   Dear Sir/   I return File in this case which was heard at the recent <lb/> Summer Assizes for the Co. of the City of Belfast. The female prisoner <lb/> was convicted in the offense committed at Killyleagh in the Co. of Down, <lb/> but His Lordship held that there was no evidence against either of them <lb/> in regard to the offences alleged in Belfast. The male prisoner was <lb/> acquitted.  <seg type="closer"> I am, <lb/>Your <sic>odebt.</sic> servant   John R Moorhead   The Under Secretary/  The Castle, Dublin.  </seg> <hi rend="underline">Assistant Under Secretary</hi><lb/> I have referred to W.O. &amp; returned <lb/> the papers. H.S.W. <lb/> 12 . 8 .16   Chief Crown <sic>Solr</sic><lb/> Please report requests <lb/> to War Office, returning <lb/> file as requested <lb/> 11.8.16   
+         </ab>
+      </body>
+   </text>
+</TEI>

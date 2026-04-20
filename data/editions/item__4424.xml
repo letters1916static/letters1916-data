@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4424">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John McDonald to King George V, 26 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Reginald McDonald</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from John McDonald (on behalf of the Loyal Orange Lodge No. 677) to King George V expressing their sympathy for the King&#39;s loss of Lord Kitchner.
+
+John Reginald McDonald (1885-1967) was a chaplain working in Co. Down. He would later serve as the Archdeacon of Connor, (1946-64).
+
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection> NAI/CSO/RP/1916/10970/1</collection>
+                  <idno>https://letters1916.ie/item/4424</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0672">John Reginald McDonald</persName>
+              <date>1916-06-26</date>
+              <placeName key="#letters1916_place-0422">Bangor, Co. Down, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">King George</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1677">Buckingham Palace, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1936</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4424_img_3776_1"  type="Letter"  url="0e68724eecd34fc4af5ec1514fc14c87.jpg"/>
+      <graphic xml:id="L1916_4424_img_3776_2"  type="Enclosure"  url="e7e813bebb9b02465e425428f3fae84d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4424_img_3776_1"/>
+             To His Majesty the King <lb/>Sir   I have been requested by the <lb/>members of Royal Orange Lodge Number <lb/>677 to forward to your Majesty <lb/>the enclosed resolution:   It was passed unanimously at <lb/>our June meeting held in the <lb/>Orange Hall Bangor, Co Down, <lb/>Ireland.   I have the honour to remain, <lb/>Your Majestys' most faithful subject <lb/>&amp; dutiful servant.   J.<seg type="unclear">Raymond</seg>McDonald <lb/><seg type="unclear">Unplain</seg>L.O.L. no.677.
+            <pb n="2" facs="L1916_4424_img_3776_2"/>
+            <lb/>Resolution:—  "The members of L.O.L. No.677 assembled in <lb/>"Lodge at Bangor, Co. Down, Ireland, express their <lb/>"deep grief and heartfelt regret at the tragedy <lb/>"which as robbed His Majesty the King and his <lb/>"Empire of the distinguished solider and leader, <lb/>"Field Marshall the Right Honourable H.H. Earl <lb/>"Kitchener of Khartoum, K.G., K.P., G.C.B., O.M., G.C.S.I., <lb/>"G.C.M.G., G.C.I.E., Secretary of State for War. They <lb/>"express their humble sympathy with His Majesty in the <lb/>"loss which he has sustained. At the same time they <lb/>"are very grateful for the noble work done by the late <lb/>"Earl for the Empire, and the splendid example of <lb/>"duty and service which he has left for his fellow <lb/>"subjects."  <!-- this page has a stamp reading BANGOR PURPLE STAR L.O.L. No. 677-->
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5903">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Bureau de Secours aux Prisonniers de Guerre, 21 August, 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Bureau de Secours aux Prisonniers de Guerre</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was received by the Royal Dublin Fusiliers County Kildare Committee and forwarded by Lady Mayo to Lady Clonbrock in her letter of 1 September, 1916, which also survives.
+The writer says that he has a number of cards from Connolly expressing gratitude for bread. However the R.D.F. &#39;subscription&#39; for bread in this case has ended and the writer wants to know if it is being renewed.
+Connolly was a Connaught Ranger and when Lady Mayo realised this she referred his case back to Lady Clonbrock. 
+Lady Mayo, Geraldine Sarah Bourke (née Ponsonby), Countess of Mayo, (1863-1944), was a committee member in The Royal Dublin Fusiliers&#39; County Kildare Committee. The Committee dealt with parcels for RDF prisoners of war abroad.
+Lady Clonbrock, Augusta Caroline Dillon (née Crofton) (1839-1928), wife of Luke Gerald Dillon, 4th Baron Clonbrock, (1834-1917) was one of a number of ladies who were members of the Irish Womens Association. Formed in London in the Spring of 1915, the IWA&#39;s purpose was to provide food and comforts for prisoners of war belonging to Irish Regiments. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock  Estate Papers, Collection List No. 54; Ms. 35,796/11/9</collection>
+                  <idno>https://letters1916.ie/item/5903</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0051">Bureau de Secours aux Prisonniers de Guerre</persName>
+              <date>1916-08-21</date>
+              <placeName key="#letters1916_place-0282">British Section, British Legation, Helvetiastrasse 5, Berne, Switzerland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-0793">Royal Dublin Fusiliers County Kildare Committee, Naas, Co. Kildare, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5903_img_998_1"  type="Letter"  url="5c3959eeb48f1914d2b9faf191c5608f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5903_img_998_1"/>
+             Bureau de Secours <lb/>Aux <lb/>Prisonniers de Guerre <lb/>British Section <lb/>British Legation <lb/>Berne   <hi rend="underline">21 August 1916</hi>   Dear Sir   We beg to enclose card just received from <lb/> <hi rend="underline">Pte. J. Connolly</hi> and also previous cards expressing <lb/> his gratitude for the bread — unfortunately your <lb/> subscription for his supply <hi rend="underline">ended</hi> on <hi rend="underline">June 7<hi rend="superscript">th</hi></hi> last <lb/> but we <hi rend="underline">hope</hi> that you will now kindly renew the <lb/> same &amp; have written to that effect to him as well.   With compliments, <lb/>Yours faithfully   Bureau de secours <lb/>aux <lb/>prisonniers de guerre <lb/>Section Anglaise. <lb/>BERNE    <hi rend="underline">P.S.</hi> If you cannot undertake the supply anymore, <lb/> kindly return his <hi rend="underline">last</hi> card (only) &amp; much oblige  
+         </ab>
+      </body>
+   </text>
+</TEI>

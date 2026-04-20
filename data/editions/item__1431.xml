@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1431">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from W. Goodman to Mabel FitzGerald, 12 April 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>W. Goodman</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from W. Goodman to Mabel Fitzgerald (1884-1957). Mabel FitzGerald&#39;s husband Desmond FitzGerald, (1888-1947) had been arrested and detained at Richmond Barracks to await Court-Martial. W. Goodman writes that he was also arrested and had been put in a cell with Mr. FitzGerald. The latter asked him to write to Mabel to tell her how he was doing. Goodman reports that FitzGerald was in very good form - singing and sleeping well. They also discussed religion and politics and Goodman expresses great admiration for FitzGerald who he hopes will get out soon. He writes that he expects Fitzgerald will achieve a high position in life. Mabel was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1568</collection>
+                  <idno>https://letters1916.ie/item/1431</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0609">W. Goodman</persName>
+              <date>1916-04-12</date>
+              <placeName key="#letters1916_place-1204">Dromod, Co.Leitrim, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1431_img_850_1"  type="Letter"  url="4ebe85e5716a6e43ff1556dc5245149c.jpg"/>
+      <graphic xml:id="L1916_1431_img_850_2"  type="Letter"  url="ac86190cc0ffb45ce4883b576c5d8f72.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1431_img_850_1"/>
+                Derrycarne,  Dromod,  Co.Leitrim    12<hi rend="superscript">th</hi> April  May?  16  <lb/>To Mrs T Desmond Fitzgerald  Dear Madam   Your husband Mr.Desmond <lb/> Fitzgerald asked me when I saw him <lb/> yesterday to tell you how he was <lb/> getting on.  I was arrested for not having <lb/> a Pass at Kingstown on Wednesday <lb/> morning last &amp; was placed in a <lb/> cell with Mr.FitzGerald &amp; spent 28 hours <lb/> with him. He was very jolly &amp; <lb/>in the best of heart &amp; sang about <lb/> 20 songs &amp; slept grand.  I differ with him in <lb/> Religion &amp; Politics but I couldn't <lb/> help being extremely fond of him.  I was very sorry indeed to <lb/> leave him in such surroundings <lb/> but I presume if not soon liberated <lb/> he will be shifted to better quarters .<lb/> I do hope he will get free &amp; if <lb/> so I shall expect to hear of him <lb/> occupying a high position in  
+            <pb n="2" facs="L1916_1431_img_850_2"/>
+              <lb/>life in the near future as he is very <lb/> clever. <seg type="closer"> I am dear Madam <lb/>Yours faithfully  W.Goodman </seg> I greatly sympathise with you.  
+         </ab>
+      </body>
+   </text>
+</TEI>

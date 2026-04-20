@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0309">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from George Hugh Mercer to the Secretary, Department of Recruiting for Ireland, 4 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>George Hugh Mercer</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from George Hugh Mercer (b. 1872), private secretary in the Royal Irish Constabulary (RIC) Office, Dublin Castle to the secretary in the Department of Recruiting for Ireland. The letter details a school being set up to train non-commissioned officers for the RIC. The school, Mercer says, will take in 150 officers and is set to start the Monday after the letter was sent. The letter is also accompanied with a circular about the formation of the school.The department of recruiting for Ireland oversaw the recruitment of Irishmen to the British army to fight in the Great War.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Erskine Childers Papers, Collection List No 161, Ms. 15,175/6/1</collection>
+                  <idno>https://letters1916.ie/item/309</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0675">George Hugh Mercer</persName>
+              <date>1916-03-04</date>
+              <placeName key="#letters1916_place-2049">Royal Irish Constabulary Office, Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">The Secretary, Department of Recruiting for Ireland</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0309_img_1532_1"  type="Letter"  url="a7914f94ceef531fa27904fd43d9dbf7.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0309_img_1532_1"/>
+              (Copy)    R.I. Constabulary Office,  Dublin Castle.    4/3/16.   Dear Sir,   With reference to our conversation on the telephone <lb/>yesterday I now send you a copy of the circular that was issued <lb/>with regard to the formation of a school of instruction for <lb/>N.C.O's from the R.I.C. in consultation with the Military <lb/>Authorities. The latter subsequently decided to take 150 of <lb/>our men - instead the 100 referred to in the circular.  In response to the circular, 199 men volunteered, of <lb/>whom 5 subsequently with drew their names. From the remaining <lb/>194, the number allotted to the class, viz: 150 have been <lb/>selected be the I.G. and they will join on Monday next. <seg type="closer"> Yours very truly,  (Signed) G.H. MERCER, <lb/>Private Secretary. <lb/>THE SECRETARY, <lb/>Department of Recruiting for Ireland.</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

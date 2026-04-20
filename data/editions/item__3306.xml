@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3306">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from M.L. Waller to Robert Chalmers, 10 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M.L. Waller</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-11899</collection>
+                  <idno>https://letters1916.ie/item/3306</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0730">M.L. Waller</persName>
+              <date>1916-07-10</date>
+              <placeName key="#letters1916_place-0856">Home Office, Whitehall, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3306_img_2720_1"  type="Letter"  url="6289c7238a05ce3bdfcd626ddcfc43cb.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3306_img_2720_1"/>
+             Ant further communication on the<lb/>subject of this letter should be addressed to-<lb/>THE UNDER SECRETARY OF STATE.<lb/>HOME OFFICE,<lb/>LONDON, S. W.<lb/>and the following number quoted-<lb/>313691/3.  HOME OFFICE,<lb/>WHITEHALL.   10th July 1916.    Sir,   I am directed by the Secretary of State to inform<lb/>you that a telegram of which the following is an extract<lb/>was received on July 8th from the General Officer<lb/>Commanding-in-Chief, Ireland:-  Have received the following telegram aaa<lb/>Provost Martial Richmond Barracks Dublin mother<lb/>of prisoner Edward Foley number 503 South Camp<lb/>Frongoch North Wales dead brother asks permission<lb/>for prisoner to attend funeral of mother at Wexford<lb/>on Monday morning next he would require to cross<lb/>over tonight  I am to acquaint you that this request was carefully<lb/>considered upon receipt, but no action was taken, as the<lb/>Secretary of State regrets that he would not feel justified<lb/>in permitting temporary release in order to attend funerals.  <lb/> I am,<lb/>Sir,<lb/>Your Obedient Servant,   M.L. Waller<lb/>The Under Secretary,<lb/>Dublin Castle. 
+         </ab>
+      </body>
+   </text>
+</TEI>

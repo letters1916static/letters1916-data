@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1419">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J.H.G. Stantin to Mabel FitzGerald, 20 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J.H.G. Stantin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter is from Colonel J.H.G. Stantin of the Irish Command, British army, to Mabel FitzGerald (née Washington McConnell) (1884-1958), wife of politician and intellectual Desmond FitzGerald (1888-1947). The letter informs Mrs. FitzGerald of the sentence passed on her husband at court-martial, and advises her of his transfer to Mountjoy Prison.Mabel was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington (1878 -1916) during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1575/1</collection>
+                  <idno>https://letters1916.ie/item/1419</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0395">J.H.G. Stantin</persName>
+              <date>1916-05-20</date>
+              <placeName key="#letters1916_place-0399">Headquarters Irish Command, Parkgate, Dublin, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1746">2 Loretto Villas, Bray, County Wicklow, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1419_img_830_1"  type="Letter"  url="8116a64767d88edfa7037272527adeaf.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1419_img_830_1"/>
+              109/A.    Headquarters Irish Command,  Parkgate, Dublin.    20<hi rend="superscript">th</hi> May, 1916.   Madam,   In reply to your letter of the 17th instant, I <lb/> have to inform you that the Court Martial on Mr Desmond <lb/> Fitzgerald was <seg type="del">considered</seg> confirmed  to-day by the General Officer <lb/> Commanding in Chief. He was sentenced by the Court to <lb/> twenty years Penal Servitude ten years of which were <lb/> remitted by the General Officer Commanding in Chief. He <lb/> will be removed to Mountjoy Prison where he will be permitted <lb/> the visit usually allowed to convicts during the <lb/> first week of their sentences. Application should therefore <lb/> be made to the Governor, Mountjoy Prison. Any <lb/> property belonging to Mr.Fitzgerald which may be found in <lb/> Richmond Barracks will be forwarded to you. <seg type="closer"> Yours faithfully,  J.H.G.Stantin <lb/> for  Brig.Genl. <lb/>D.A.G.   Mrs Fitzgerald,  2 Loretta Villas,  BRAY.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

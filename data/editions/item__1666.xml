@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1666">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas O'Donnell to Augustine Birrell, 9 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas O&#39;Donnell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Thomas O&#39; Donnell (1871-1943), an Irish member of parliament, to Augustine Birrell (1850-1933), the Chief Secretary for Ireland. Thomas O&#39;Donnell was an Irish Nationalist MP who held his seat for West Kerry from 1900- 1918. Augustine Birrell was the Chief Secretary for Ireland from 1907 until 1916 when he resigned after his failure to prevent and manage the Easter Rising. The letter is a request for an interview with Birrell over the Easter week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/6893/9/3</collection>
+                  <idno>https://letters1916.ie/item/1666</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0636">Thomas O&#39;Donnell</persName>
+              <date>1916-04-09</date>
+              <placeName key="#letters1916_place-0804">Killorglin, County Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0534">Augustine Birrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1731">Dublin, County Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1666_img_1125_1"  type="Letter"  url="3bb892a5bf6c265afb731d39502e5be3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1666_img_1125_1"/>
+             J.Q. <lb/>Have the Justice <lb/>any knowledge of <lb/>this case. Early <lb/>report please <lb/>M.N. 9/4   <hi rend="underline">6-4-16</hi>   Dear Mr. Birell,   The <seg type="unclear">Killorglin</seg> <lb/>Town Tenants are most <lb/>anxious to have an <lb/>interview with you during <lb/>the Easter recess if you <lb/>are then in Dublin. I <lb/>trust you will find it <lb/>convenient to arrange as <lb/>the matter is urgent &amp; <lb/>most important.   V. <sic>Sincy</sic> Yours   Thos O'Donnell 
+         </ab>
+      </body>
+   </text>
+</TEI>

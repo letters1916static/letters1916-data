@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1623">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Marie Martin to her mother Mary Martin, 31 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Marie Martin </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Marie Helena Martin (1892-1975) to her mother Mary Martin (1866-1955) in Dublin. Marie was a born in Dublin and trained as a nurse at the out break of World War I. Two of Marie&#39;s brothers joined the British Army at this time, one of whom was killed in action. Marie served as a nurse in Malta, Leeds and France, and later set up the Medical Missionaries of Mary.
+In the letter Marie expresses her surprise at seeing her aunt Lily, who has signed up to be a nurse. She goes on to state that Lily is in good form and that she is having capes made for her. The letter ends with Marie stating she will write her mother a long letter when she gets back from St Georges.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Medical Missionaries of Mary</repository>
+                  <collection>BF127</collection>
+                  <idno>https://letters1916.ie/item/1623</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0238">Marie Martin </persName>
+              <date>1916-01-31</date>
+              <placeName key="#letters1916_place-1504">St. George&#39;s Hospital, Malta</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mary Martin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0990">Greenbank, Monkstown, Dublin, Co. Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="death">1975</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1623_img_1086_1"  type="Letter"  url="ff9caa557c456df03445b8d10b4d13b0.jpg"/>
+      <graphic xml:id="L1916_1623_img_1086_2"  type="Letter"  url="825d172068c2caf7113a4b74c0c34c90.jpg"/>
+      <graphic xml:id="L1916_1623_img_1086_3"  type="Envelope"  url="b117b0e49280729d6303c63b2f890359.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1623_img_1086_1"/>
+             The Club <lb/> <hi rend="underline">Malta</hi>   My very dearest Mother    It was a great pleasure <lb/> &amp; surprise to see Aunt Lily &amp; <lb/> to hear how she left you all <lb/> which cheered me up greatly <lb/> she has been very lucky &amp; <lb/> got to <hi rend="underline">the</hi> Hospital &amp; I think <lb/> I ought to be quite happy it is <lb/> rather a party in a way for her <lb/> we are so slack as I think <lb/> one is much happier busy <lb/> we are so slack now also <lb/> I got 48 hours off again <lb/> which turned in very <lb/> useful as it gave me an
+            <pb n="2" facs="L1916_1623_img_1086_2"/>
+             opportunity of seeing her we, drove out this<lb/>afternoon to Antonio Palace &amp; then visited the<lb/>C. Convent where A. Lily is getting some caps<lb/>made. I hope by the time this reaches<lb/>you, you will have had some more news<lb/>I feel sure poor boy he is a prisoner<lb/>&amp; can only pray he may be well treated<lb/>&amp; that it will not be long before we can<lb/>get into communication with him so that<lb/>he will not feel so lonely.  A. Lily is in great form &amp; I am delighted<lb/>to have her here as it will make it more<lb/>homely especially as we have so much time<lb/>on our hands.  I shall write you a real long letter tonight<lb/>when I get back to St G. but this is<lb/>just a hurried note to let you know<lb/>all goes well with me hoping you are<lb/>the same. A.L. thinks I have got<lb/>disgustingly fat - so cheer up -  Give my fondest love to all  Your most loving daughter     <hi rend="underline">Marie</hi>  
+            <pb n="3" facs="L1916_1623_img_1086_3"/>
+             <seg type="unclear">On A. . .</seg>   Mrs Martin,<lb/>Greenbank<lb/>Monkstown,<lb/>Co Dublin<lb/><hi rend="underline">Ireland</hi>  
+         </ab>
+      </body>
+   </text>
+</TEI>

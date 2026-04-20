@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2921">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Langford Beazley to Piaras Béaslaí, 8 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Langford Beazley</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from the father of Piaras Béaslaí to Piaras with 10 shillings and a recruitment cartoon form a newspaper.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>MS 33,972 / 11</collection>
+                  <idno>https://letters1916.ie/item/2921</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1204">Patrick Langford Beazley</persName>
+              <date>1916-04-08</date>
+              <placeName key="#letters1916_place-1359">Cheshire, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Piaras Béaslaí</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2921_img_233_1"  type="Letter"  url="c0b216ef45da4949b3679523abfdf222.jpg"/>
+      <graphic xml:id="L1916_2921_img_233_2"  type="Enclosure"  url="7739772170a8f39055865328146cc24b.jpg"/>
+      <graphic xml:id="L1916_2921_img_233_3"  type="Envelope"  url="6c2237341b8f9881a34d30e671505054.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2921_img_233_1"/>
+             "GLENGARIFF" <lb/>RUDGRAVE SQUARE, <lb/>EGREMONT, <lb/>CHESHIRE   8<hi rend="superscript">th</hi> April, 1916   My dearest Pierce,   I have left myself only <lb/>a few minutes to write, so <lb/>I can merely say that we <lb/>are both well, thank <lb/>God, and send fondest <lb/>love. I enclose a little <lb/>note - one for ten shillings. <lb/>I hope you are well and <lb/>that everything is going <lb/>on well with you.   Always affectionately   Father. 
+            <pb n="2" facs="L1916_2921_img_233_2"/>
+              April 7 1916  <lb/><lb/>THE GALLANT FUSILIERS. YOUR KING AND COUNTRY NEED YOU  Echo cartoon.  Mr. McKenna has now mobilised the matches as a striking force.   
+            <pb n="3" facs="L1916_2921_img_233_3"/>
+              Wallasey Apr 8<lb/>8-pm<lb/>1916   Pierce Beazley, Esqr.,<lb/>25 Lindsay Road,<lb/>Glasnevin,<lb/>Dublin. 
+         </ab>
+      </body>
+   </text>
+</TEI>

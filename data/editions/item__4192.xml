@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4192">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Shaw to Martha Shaw, c. 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Shaw</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from William Shaw to his mother, Martha Shaw, about his life aboard the H.M.S. Excellent. William mentions more about the recent thefts among the boys. He seems to think the &#34;Derby dodgers&#34; are the responsible party. William also writes that he has not gotten any word from his brother Samuel, who is serving with the Royal Inniskilling Fusiliers in France. He also talks about a recent excursion of the Albermarle which was turned around due to the presence of destroyers.
+
+William Shaw (1893-1934) was a gunner in the Royal Naval Reserve. He volunteered for active service in 1915 and served on ships such as the H.M.S. Excellent and H.M.S. Albemarle, a battle cruiser. Before the War he was a fisherman.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Shaw Papers, D1962-13</collection>
+                  <idno>https://letters1916.ie/item/4192</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1233">William Shaw</persName>
+              <date>1916</date>
+              <placeName key="#letters1916_place-0161">H.M.S. Excellent, Portsmouth, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Martha Shaw</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1934</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4192_img_3564_1"  type="Letter"  url="fbd053c25ade61a1c51ae005b3be6a05.jpg"/>
+      <graphic xml:id="L1916_4192_img_3564_2"  type="Letter"  url="ffa22f5bb4a424e31ad272630e677a54.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4192_img_3564_1"/>
+             57 <seg type="unclear">Mess</seg> Sunday <lb/>H.M.S. Excellent <lb/>Portsmouth   My Dear mother,   I was very glad to get <lb/> your letter I got it on Friday night as <lb/>I had no fags we do no get them as <lb/>cheap here as we did on board ship, <lb/>I went ashore Saturday night <lb/>for awhile. I sent Jessie a doll I hope <lb/>it will arrive in good order. Well I <lb/>never saw my purse since Jack has <lb/>lost his oilskin so you may guess what <lb/>kind of boys the Derby dodgers is. It <lb/>is nearly all them that came in here <lb/>there was another draft came in on <lb/>Friday night from Devonport, so you <lb/>see they come and go every week from <lb/>this place. There was a chap caught <lb/>last night opening letters that did <lb/>not belong to him, he was   I <lb/>expect he will get 14 days cells. <lb/>I see by the paper that Mrs Jones had <lb/>a good funeral
+            <pb n="2" facs="L1916_4192_img_3564_2"/>
+             I did not get any word from Sam <lb/>this fortnight I am glad he is at <lb/>the base I hope he will stick there <lb/>for awhile. The Albemarle went <lb/>to sea on Thursday last she was <lb/>bound for Birkenhead but had to <lb/>return I think it was the destroyers <lb/>that was out and she had no <lb/><sic>ammunition</sic> she was going to <seg type="unclear">refit/refill</seg> <lb/>I just was thinking that Lizzie <lb/>would not <seg type="del">lef</seg> like the city it is <lb/>not like Portstewart. I get your <lb/>parcels on Monday midday I got <lb/>the paper this morning. It is <lb/>blowing and raining like anything <lb/>today we are having bad weather <lb/>as well as you. I am glad to see <lb/>the fishing is keeping good I will <lb/>close now with love for every—body <lb/>not forgetting yourself   Your loving   son Willie   PS I expect my father <lb/>is writing the fishing <lb/>notes today <lb/> W. 
+         </ab>
+      </body>
+   </text>
+</TEI>

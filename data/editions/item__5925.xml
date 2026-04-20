@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5925">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Dawson to the Resident Medical Superintendent of Kilkenny, 29 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Richard Dawson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from William Richard Dawson (1864-1950), the inspector of lunatics, to the Resident Medical Superintendent of Kilkenny. The letter is an instruction for the government to submit regulations to the asylum under section 9 sub section 6 of local Government Act (Ireland) 1898. William Richard Dawson was appointed HM inspector of lunatics in Ireland in 1911. During the Great War he served in the Royal Ambulance Medical Corps, gaining the rank of lieutenant-colonel, as a specialist in ‘nerve disease’ or shell shock to the troops in Ireland.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered papers, CSO-RP-1916-5615-1119-3</collection>
+                  <idno>https://letters1916.ie/item/5925</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1058">William Richard Dawson</persName>
+              <date>1915-11-29T00:00:00</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-0984">The President Medical Superintendent, District Asylum, Kilkenny, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5925_img_2126_1"  type="Letter"  url="1ebffe6c7b6b904861d863962daf6f47.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5925_img_2126_1"/>
+                29 November, 1915   Sir,   I am directed by the Inspectors to state that <lb/>they have been instructed by Government to request <lb/>that your Committee will kindly submit Regulations <lb/>for the management of the Asylum in pursuance of secâ <lb/>tion 9 (subâsection 6) of the Local Government <lb/>(Ireland) Act, 1898.  <seg type="closer"> I am <lb/>Sir <lb/>Your Obedient Servant,    The Resident Medical Superintendent  District Asylum  KILKENNY  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

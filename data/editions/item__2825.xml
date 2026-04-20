@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2825">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edmund Talbot to Lady Londonderry, 7 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edmund Talbot</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is part of a series of correspondence belonging to Lady Londonderry, a large proportion of which concerns Sir Edward Carson and opposition to the Third Home Rule Bill. Lady Londonderry was a prominent figure in politics and high­ society from 1890 until 1919. Her correspondence includes many important figures in literature, the arts, the military, law and the church.
+
+Lord Edmund Talbot (1855-1947), also known as Edmund Bernard Fitzalan-Howard, first Viscount FitzAlan of Derwent, was a leading British politician and significant opponent of Home Rule. He served as Conservative Whip from 1905 until 1913, as Unionist Chief Whip from 1913 until 1921, and as Viceroy of Ireland from April 1921 until December 1922, the period in which Ireland underwent partition.
+
+In this letter, Talbot informs Londonderry that he has written to Bonar Law (the Conservative party leader) asking him to recommend an acquaintance for a position in government. He expresses surprise that the previous holder of the position was &#39;a Commoner&#39;, suggesting that there are plenty of eligible peers to choose from.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Theresa, Lady Londonderry Papers, D2846/2/21/90</collection>
+                  <idno>https://letters1916.ie/item/2825</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0852">Edmund Talbot</persName>
+              <date>1916-02-07</date>
+              <placeName key="#letters1916_place-0122">1, Buckingham Palace Gardens, Westminster, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Theresa Talbot</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1947</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2825_img_2240_1"  type="Letter"  url="99be427b6d2d8c560c5ab6724e37a5d8.jpg"/>
+      <graphic xml:id="L1916_2825_img_2240_2"  type="Letter"  url="8ca1775a00047415518d6a779fb99857.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2825_img_2240_1"/>
+             1, BUCKINGHAM PALACE GARDENS,<lb/>S.W.    <hi rend="underline">Private</hi>   Feb.7.1916   My dear Lady Londonderry   I have written Bonar<lb/>Law &amp; asked him to<lb/>see L<hi rend="superscript">d</hi>. <seg type="unclear">Laurdadice</seg> with<lb/>a view to the Prime<lb/>Minister being approached<lb/>on behalf of <seg type="unclear">Stanley</seg>.     I did not know 
+            <pb n="2" facs="L1916_2825_img_2240_2"/>
+            there was a vacancy.   I see the late man <lb/>was a commoner. <lb/>I wonder why, I should <lb/>have thought Dorset <lb/>could produce <lb/>enough eligible Peers <lb/>for a selection to be <lb/>made from them.   If there is no big <lb/>Liberal Peer in the <lb/>County, I should think <seg type="unclear">Stanley</seg> ought to have <lb/>a good chance.   Yours affect   Edmund Talbot 
+         </ab>
+      </body>
+   </text>
+</TEI>

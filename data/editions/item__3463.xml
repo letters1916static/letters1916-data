@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3463">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from Gerard B. Crofts to Hanna Sheehy Skeffington, 12 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Gerard Crofts</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>In this card from Gerard Crofts (1889-1934) to Hanna Sheehy Skeffington (1877-1946) Crofts confirms his recitation for the upcoming concert and asks Skeffington if she is pleased with her advertising campaign. 
+
+Gerard Crofts was known for writing and performing Republican songs and frequently sang at concerts and made gramophone recordings. He joined the Irish Volunteers in 1914 and during the 1916 uprising was serving at the General Post Office in Dublin. 
+
+Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the widow of Francis Sheehy-Skeffington (who was summarily executed on 26 April 1916). She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47; MS 33,604/16-28</collection>
+                  <idno>https://letters1916.ie/item/3463</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0301">Gerard Crofts</persName>
+              <date>1916-02-12</date>
+              <placeName key="#letters1916_place-1488">82 Camden Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0720">11 Grosvenor Place, Rathmines, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1934</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3463_img_2872_1"  type="Letter"  url="a8993fc816c20f6f3f7ed14d9d43efd0.jpg"/>
+      <graphic xml:id="L1916_3463_img_2872_2"  type="Envelope"  url="9c49757c2b287c691e69829695894f71.jpg"/>
+      <graphic xml:id="L1916_3463_img_2872_3"  type="Envelope"  url="da40a2c120724c4d2c21598dd5b4ed99.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3463_img_2872_1"/>
+             82 Camden St <lb/>Dublin   12/2/16   Dear Mrs Skeffington   You may put down Brian O'Higgins <lb/>for "Who is Ireland's Enemy?" <lb/>(Recitation by Brian Bauben) <lb/>I shall call down to Westmoreland St <lb/>Monday evening.   I am glad to see you have <lb/>advertised very well.    <seg type="foreign"> </seg> we shall <lb/>have a  .  with good wishes <seg type="foreign"> </seg>   G B Crofts 
+            <pb n="2" facs="L1916_3463_img_2872_2"/>
+            <!-- front of envelope -->  Mrs Sheehy Skeffington <lb/>11 Grosvenor Place <lb/>Rathmines Dublin 
+            <pb n="3" facs="L1916_3463_img_2872_3"/>
+            <!-- back of envelope, typed -->  IF USED FOR TRANSMISSION TO ANY PLACE ABROAD TO WHICH THE 1<hi rend="superscript">d.</hi> RATE <lb/>OF LETTER POSTAGE NOT APPLY, THE ADDITIONAL POSTAGE REQUIRED <lb/>SHOULD BE PREPAID BY MEANS OF ADHESIVE POSTAGE STAMPS. 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0546">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from T. Walsh to Mrs Kibble, 1 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>T. Walsh</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by T. Walsh to Mrs Frances Kibble (d. 1956). The letter records Walsh&#39;s reaction to news of the Easter Rising as she questions the &#39;cruel sentences inflicted on the poor innocent deluded dupes of Atheists and incapables.&#39;In the letter Walsh discusses Frances&#39;s brother Fergus (1876 - 1952) and his imprisonment after the Rising. Though Fergus does not appear to have taken any major part in the 1916 Rising, he was interned, first in Dartmoor in 1916, and later transferred to Lewes Prison in 1917, most likely for publishing pamphlets such as the ‘Oration of P.H. Pearse over O’Donovan Rossa’s Grave’ in 1915, which would have been seen by the British government as seditious material.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Allen Library, Br. Allen Collection, IE/AL/FOC/1/3</collection>
+                  <idno>https://letters1916.ie/item/546</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0735">T. Walsh</persName>
+              <date>1916-08-01</date>
+              <placeName key="#letters1916_place-1597">St. Anne’s Convent, Alderney, Channel Islands</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Frances Kibble</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0546_img_1926_1"  type="Letter"  url="f32fcc2fe026207bea2dd93621a4e009.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0546_img_1926_1"/>
+                St Anne's Convent, Aldorney,   Channel Isles,  August 1st 1916 .  Dear Mrs Kibble   Your very nice letter, which I received in due course, <lb/> was a great relief to my mind, enabling as it did to break through the <lb/> thick cloud of uncertainty which surrounded me since 'The Daily Chronicle' <lb/> brought us here the woeful account of the Dublin disturbance and the savage <lb/> cruel sentences inflicted on the poor innocent deluded dupes of Atheists and incapables. <lb/> However, these men have been punished and it is useless now to recriminate. <lb/> But it was with bitter anguish that I saw the name of poor dear Fergus in the <lb/> list, a numerous one, of the riotous <seg type="del">pietious</seg> I do not mention to you how I felt as I thought on this <lb/> calamitous occurrence would I know be only harrowing up your feelings a new, and <lb/> I should seek rather some motive to console and cheer, rather than depress.    Well now! it is the general opinion that Fergus, and some more like him, will be liberated <lb/> before X<hi rend="superscript">mas</hi> at least. In any case, you may be quite certain that a young man of <lb/> Ferguses good and gracious manner and temperament will very soon be duly appreciated <lb/> even in <sic>Dartmoor</sic> and his lot be made as supportable as the place can allow.<lb/> Tell dear Mother to try to remember the wise saying ' No Cross no crown' ,  and after all it <lb/> is only a transitory burden destined soon to pass away. As for me it really <seg type="del">is</seg> with a sort <lb/> of satisfaction that I offer up Holy Mass for him and pray for him every day in requital <lb/> for his unfailing kindness courtesy and devotedness to me.   Cheer up Mrs Kibble the good Lord will not allow your beloved brother to suffer <lb/> too much or too long. Boat just starting for Guernsey, excuse haste, <seg type="closer"> Most Sincerely yours, <lb/> T. Walsh .</seg> Best regards to Mother <lb/> Mr. Kibble and the ' Boys' <lb/> SlÃ¡n leat. T. W.   
+         </ab>
+      </body>
+   </text>
+</TEI>

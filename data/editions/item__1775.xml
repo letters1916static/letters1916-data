@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1775">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Archbishop of Tuam, John Healy, 8 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Healy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by the Archbishop of Tuam, John Healy (1841-1918). Healy occupied the position from 1903 until his death in 1918. In the letter Healy mentions that he has been acquainted with John Robert O&#39;Connell (1868-1943), a solicitor, for many years and that he found him to be able and accomplished. Healy hopes that O&#39;Connell will be successful in his candidature for the position of chief crown solicitor.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/7153/6</collection>
+                  <idno>https://letters1916.ie/item/1775</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0763">John Healy</persName>
+              <date>1916-04-08</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1918</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1775_img_1230_1"  type="Letter"  url="be04b00220d13e7383463e8bcb3300d4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1775_img_1230_1"/>
+             Copy of D<hi rend="superscript">r</hi> Healy's <lb/>Letter.   <seg type="del">34, Kildare Street,</seg> <lb/><seg type="del">Dublin.</seg>   S<hi rend="superscript">t</hi> Jarlath's <lb/>Tuam   April 8<hi rend="superscript">th</hi>   I am acquainted with <lb/>Sir John R O'Connell for <lb/>several years and I have <lb/>found him to be an <lb/>able and accomplished <lb/>gentleman eminently <lb/>fit to succeed Sir Tce. Kelly <lb/>in his office. I hope he will <lb/>be successful in his candidature  John Healy DD  <lb/>Archbishop of Tuam.
+         </ab>
+      </body>
+   </text>
+</TEI>

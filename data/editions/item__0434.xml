@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0434">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Marie Martin to her mother, Mary Martin, 15 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Marie Martin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Marie Martin (1892-1975) to her mother Mary Lewis Martin (1866-1955). This is a short letter to tell her mother about a letter that Marie received from Mrs Gartlan. She mentions that things are quiet as they have been evacuating, but they are expecting a rush of casualties in the next few days.Marie Helena Martin later known as &#39;Mother Mary&#39;, was a volunteer nurse during the First World War. She served in field hospitals in Malta, Leeds, and France working for the British army and later went on to become the founder of the Medical Missionaries of Mary (MMM).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Medical Missionaries of Mary</repository>
+                  <collection>France Letters, France Letters</collection>
+                  <idno>https://letters1916.ie/item/434</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0709">Marie Martin</persName>
+              <date>1916-07-15</date>
+              <placeName key="#letters1916_place-1543">Hardelot, France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mary Martin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1257">Monkstown, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0434_img_1769_1"  type="Letter"  url="13a842079cf75bdffa394fc59f4795b4.jpg"/>
+      <graphic xml:id="L1916_0434_img_1769_2"  type="Letter"  url="7d1dc779f241d553606d129a5e8c2653.jpg"/>
+      <graphic xml:id="L1916_0434_img_1769_3"  type="Letter"  url="13a842079cf75bdffa394fc59f4795b4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0434_img_1769_1"/>
+                15-7-16   Dearest Mother,   I had such a nice letter <lb/> M<hi rend="superscript">rs</hi>.<sic>Garttun</sic> yesterday <lb/> also one from Gerald telling me <lb/> he had been slightly wound <lb/> but was still on duty. They <lb/> are at present a good bit <lb/> behind the front line being <lb/> refitted, they seem to have had <lb/> a very bad time of it &amp; all <lb/> Geralds officers were hit but he did <lb/> not think they were very seriously <lb/> wound. He seemed rather depressed <lb/> and said Brown the only other sur- <lb/> viving officer of the original Batt:<lb/> was killed in the last show &amp; <lb/> that the ones they are getting are <lb/> hopeless. I do wish he had been <lb/> sent to hospital somewhere just <lb/> to keep him out of it for a bit  
+            <pb n="2" facs="L1916_0434_img_1769_2"/>
+              I am hoping there will be a letter <lb/> from you tonight and hope it will <lb/> report you all very well. Many <lb/> thanks for sending on Tommy's <lb/> letter. I am so glad you have <lb/> read it. He seems in his usual <lb/> form. M<hi rend="superscript">rs</hi> G. said something <lb/> about him being sent to France. <lb/> Is it true, I do hope not as <lb/> I think he is in the safer place <lb/> just at present. We have not <lb/> been quite so busy these last <lb/> few day as we are evacuating <lb/> again &amp; expect a big rush <lb/> to-day or tomorrow as we hear <lb/> our <sic>Calvary</sic> has got through <lb/> &amp; that the lines of communication <lb/> have been cut. I do hope <lb/> this is true the nuns seem <lb/> very hopeful of it ending soon.<lb/> I must close now as it is time for  
+            <pb n="3" facs="L1916_0434_img_1769_3"/>
+              duty. We can hear the guns quite distinctly all to-day.<lb/> with fondest <lb/> love to<lb/> everyone<lb/> at home <lb/> hope you <lb/> are well <lb/> &amp; going for <lb/> a change<lb/> <seg type="closer"> your loving  <hi rend="underline">Marie.</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

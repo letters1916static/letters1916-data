@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0253">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Matthew Nathan to Walter Edgeworth-Johnstone, 22 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Matthew Nathan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Sir Matthew Nathan (1862-1939) to Walter Edgeworth-Johnstone (1863–1937), the chief commissioner of the Dublin Metropolitan Police Force. The letter answers a series of questions posed by Robert Anderson, the secretary of the IIAVTC, in a previous letter concerning how many men would be required for each post, the length of time their service would be required, whether the men would be sworn in as special constables, if they would be provided with sticks and whistles, if they must wear a uniform and who the men would be answering to.Sir Matthew Nathan was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising. The IIAVTC were a corps consisting of men who were over age or engaged in important occupations and therefore could not enlist for wartime service when war broke out in 1914. This was a volunteering training militia that came to be known by the nickname &#39;Gorgeous Wrecks&#39; due to the G.R. armbands they wore symbolising Georgius Rex. During the Rising, Edgeworth-Johnson withdrew his men from the streets after three were shot dead. In May 1916 he gave evidence to the royal commission of inquiry into the causes of the rebellion. The commission praised the conduct of the unarmed Dublin Metropolitan Police and noted that Edgeworth-Johnstone had given the government several warnings on which they could have acted before the Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI, CSORP/1916/7964/3</collection>
+                  <idno>https://letters1916.ie/item/253</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date>1916-04-22</date>
+              <placeName key="#letters1916_place-0167">Chief Secretary&#39;s Office, Dublin Castle, Dublin, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0426">Walter Edgeworth-Johnson</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0873">Dublin Metropolitan Police, Dublin, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0253_img_1434_1"  type="Letter"  url="48c16181b75ce94a39f4331d3c36901d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0253_img_1434_1"/>
+                CHIEF SECRETARY'S OFFICE,  DUBLIN CASTLE.    22nd April, 1916.   Dear Edgeworth Johnstone,   Will you kindly enable me to supplement <lb/>your minute of the 18th in this file by answers to the <lb/> questions put to me informally in Mr. Anderson's note of <lb/>yesterday. I should certainly say that the answer to 3 <lb/>should be in the affirmative and I am inclined to think also <lb/> the answer to 5. The uniform of the Volunteer Training Corps <lb/> has now been made sufficiently familiar to the public for <lb/> men in it to be employed on quasi-military duty without <lb/>exciting much comment. As regards 6 I imagine there can be <lb/> no objection to the various posts being inspected by a <lb/>Volunteer Training Corps Orderly Officer. <seg type="closer"> Yours sincerely,  Matthew Nathan   Lt.Col. W. Edgeworth Johnstone,  Chief Commissioner,  Dublin Metropolitan Police.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1123">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Finn to May Fay, 1 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Finn</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from James Finn (1877-1922) to May Fay (1897-1976) regarding arrangements for their upcoming wedding.James Finn was a civil servant, working in the National Health Service Commission on Mount Street. While neither James nor May were politically active their letters provide a very unique insight into the affairs of Easter Week and its aftermath. James died in 1922 as a result of the flu epidemic, May was pregnant with their fourth child at the time.May Fay became engaged to James Finn in January 1916. Despite the twenty year age gap their letters show a very personal and private insight into courting in early 20th century Ireland. She held on to his letters as her reminder of him. May never remarried and focused her attention instead on her businesses in order to provide for their children.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Finn Family Collection</repository>
+                  <collection>NULL</collection>
+                  <idno>https://letters1916.ie/item/1123</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0500">James Finn</persName>
+              <date>1916-06-01T00:00:00</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0367">May Fay</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1123_img_354_1"  type="NULL"  url="54205dae00d86eb01b85e87aff8018e2.jpg"/>
+      <graphic xml:id="L1916_1123_img_354_2"  type="NULL"  url="bf19498cf89a2cfe8d92e1bbcd04a58f.jpg"/>
+      <graphic xml:id="L1916_1123_img_354_3"  type="NULL"  url="d07e7a1557d71e1f0d1b27ea862aa5eb.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1123_img_354_1"/>
+                1 June, 1916.   My dearest love.    Youâll have to let me <lb/>off with a very short note today <lb/>as I am awfully rushed and <lb/>have been all day, partly business <lb/>and partly arrangements for coming <lb/>events. Glad you fixed up the <lb/>motor for me and am much obliged <lb/>for your good offices in the matter. <lb/>About the ring, I think what I have <lb/>selected will be all right and I donât <lb/> think it will look too imposing. In any  
+            <pb n="2" facs="L1916_1123_img_354_2"/>
+              case youâre worthy of the best I can get <lb/>for you. The time you suggest will <lb/>of course suit me that is 9:30 new <lb/>time but remember we shall have to <lb/>catch train at Portarlington at <lb/> 4 oâclock <hi rend="underline">new time</hi> and I presume will <lb/>have to leave Togherstown about 2 <lb/>pm. That will however give us plenty <lb/>of time I think. Tourist arrangements <lb/> in the South are all off Iâm afraid <lb/>so we must try and manage as best <lb/>we can by car as the motor coaches <lb/>will not be running until 1st July. <lb/>We will make for Glengarriff anyhow <cb/><lb/>and chance our arm from there as <lb/>to getting on to Killarney by the coast <lb/>route. I havenât time to write any <lb/>more now although I could spend <lb/>a few more minutes anyhow telling <lb/>you how I love you. Do you <lb/>need me to do that though? I <lb/>hope that by now you know me <lb/>enough to feel sure of my sentiments <lb/>in that respect anyhow. Donât <lb/>forget ring card this evening  I send you my warmest love and <lb/>kisses, my dear dear May <seg type="closer"> Your loving  James. </seg><seg type="postscript"> Shall go to Holy Communion on Sunday as </seg> 
+            <pb n="3" facs="L1916_1123_img_354_3"/>
+              <seg type="postscript"> you suggest. <hi rend="underline">Please</hi> remember me in <lb/>yours and pray <hi rend="underline">hard</hi>for me. I kiss <lb/>you again. <lb/>James </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1710">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Arthur Hamilton Norway to Matthew Nathan, 31 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Arthur Hamilton Norway</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Arthur Hamilton Norway (1859–1938), assistant Secretary of the General Post Office, to Sir Matthew Nathan (1862–1939), under-secretary for Ireland, proposing Robert Lonsdale, the Crown Solicitor for Leitrim, for the position of Chief Crown Solicitor. The position had become available on the death of Malachy J. Kelly.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/5760/1</collection>
+                  <idno>https://letters1916.ie/item/1710</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1113">Arthur Hamilton Norway</persName>
+              <date>1916-03-31</date>
+              <placeName key="#letters1916_place-0246">General Post Office, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1938</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1710_img_1167_1"  type="Letter"  url="3856c7f92b5e0d54621b521bb83142db.jpg"/>
+      <graphic xml:id="L1916_1710_img_1167_2"  type="Letter"  url="c362727ef6d4aaae064e0d719f1da14f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1710_img_1167_1"/>
+             Put with other <lb/>applications <lb/>M.N. <lb/>1/4/16   31 March 1916   Dear Sir Matthew,   I am asked to draw <lb/>your attention to the application of <lb/>Mr Lonsdale, Crown Solicitor for <lb/>Leitrim, for the post of Chief <lb/>Crown Solicitor, vacated by the death <lb/>of Sir Malachi Kelly.   I believe Mr Lonsdale, <lb/>who is one of the oldest crown
+            <pb n="2" facs="L1916_1710_img_1167_2"/>
+            Solicitors, is recognised as being <lb/>a clever capable man, and free <lb/>from active political associations.   I am, <lb/>Yours Sincerely   Ce. Ft Norway 
+         </ab>
+      </body>
+   </text>
+</TEI>

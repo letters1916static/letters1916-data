@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3808">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Myles Colt to Robert Phelps, 20 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Myles Colt</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Dr Myles Colt (1885-1966) to Robert Phelps, librarian at the Royal College of Physicians (RCPI), enclosing Colt&#39;s medical certificates and a copy of the London Gazette documenting his name change from Myer Cohen to Myles Colt. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T79-2</collection>
+                  <idno>https://letters1916.ie/item/3808</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0482">Myles Colt</persName>
+              <date>1916-06-20</date>
+              <placeName key="#letters1916_place-0386">5 Stamford Hill, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1482">Robert Phelps</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1966</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3808_img_3190_1"  type="Letter"  url="d9c1cd695dd8984eccd8626b4df6fbd4.jpg"/>
+      <graphic xml:id="L1916_3808_img_3190_2"  type="Enclosure"  url="abfadd6bb2ae8e85708ff5562510414e.jpg"/>
+      <graphic xml:id="L1916_3808_img_3190_3"  type="Enclosure"  url="cba5fabd8f4fca60e29e14cc8ca86468.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3808_img_3190_1"/>
+             5, STAMFORD HILL,  London  N.   20 June 1916   Robert Phelps Esq <lb/>Secretary Royal College of Physicians.   Dear Sir,   Enclosed please find Certificates of the <lb/>Royal Colleges  &amp; Copy of Gazette  to have name altered <lb/>from Myles Cohen to Myles Colt. <lb/>Under separate cover cheque &amp; <seg type="del">Copy of <lb/>Gazette</seg> has been forwarded.   Yours truly   Myles Colt. 
+            <pb n="2" facs="L1916_3808_img_3190_2"/>
+            
+            <pb n="3" facs="L1916_3808_img_3190_3"/>
+            
+         </ab>
+      </body>
+   </text>
+</TEI>

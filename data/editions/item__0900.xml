@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0900">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Peter Mooney to his sister Katie Mooney, 2 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Peter Mooney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Peter Mooney (b.1886) to his sister, Katie (b.1884). Peter writes her news of his health and complains that the meat that is being served is not the best. He describes the weather as cold and rainy. He writes about the fair and longs to be back with the animals on the farm. Orphaned at age 7, Peter and his sister Katie were raised by their uncle William and his wife Mary in Caulstown. While there are no surviving enlistment papers for Peter, his War Badge Index Record shows his enlistment date as 18 October 1915. He served with the Royal Artillery and later transferred to the Royal Engineers where he was promoted to the rank of Sergeant. He served in several places at the Western Front, including Ypres, St. Omer and Passchendael. Peter and Kate were avid correspondents. This letter part of a collection of over ninety surviving letters.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Mooney Family Papers</repository>
+                  <collection>Mooney Family Papers, mooney-1916-10-02</collection>
+                  <idno>https://letters1916.ie/item/900</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0428">Peter Mooney</persName>
+              <date>1916-10-02</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1038">Katie Mooney</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1057">Dunboyne, Castletown, Meath</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0900_img_2495_1"  type="Letter"  url="c2f87f2c82b825313f173ba0fd7e42cf.jpg"/>
+      <graphic xml:id="L1916_0900_img_2495_2"  type="Envelope"  url="2f11e51550b75ccdf99cf6c9c23664ec.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0900_img_2495_1"/>
+                Oct 2nd 1916   Dear Katie,   I hope this letter will find you all in the <lb/>best of health. It is a good while since I had a <lb/> letter from home now. I feel i the best of health &amp; <lb/>spirits just get better along alright. I had a letter from <lb/><seg type="unclear">Lawrence Kennedy</seg>. He told me he is going <lb/>home from Howth. He said you looked greatly <lb/>improved. I was glad to hear it. The weather is <lb/>not so bad out here yet we have an odd days rain <lb/>it is not too cold yet. I hope to receive the <seg type="unclear">Putties</seg> &amp; <lb/>cardigan in a few days &amp; they will be useful when <lb/>the wet days of winter come along. I had a letter <lb/>from John Bruton during the week he said cattle were <lb/>not <seg type="unclear">paying</seg> so well but he expects them to improve. <lb/>I wish I could attend Ballinasloe Big fair this <lb/>year. I hope next year next year I will be there it would be <lb/>Heaven to me to get <seg type="unclear">mind of</seg> with the cattle &amp; sheep <lb/>again. I hope everything is going on alright in both <lb/>places. I wrote to the <seg type="unclear">governor</seg> a few days ago I did <lb/>not hear from him yet. Remember me to all down the <lb/>Paddock <seg type="unclear">way</seg>. I ask both my Aunt &amp; yourself not to <lb/>worry about  me  as I am not in any great danger &amp; I hope <lb/>to get through alright. I now say Good-Bye &amp; May God <lb/>Bless &amp; keep you all. <seg type="closer"> Peter Mooney </seg> 
+            <pb n="2" facs="L1916_0900_img_2495_2"/>
+                Miss K. Mooney  Caulstown  Dunboyne  Co. Meath  Ireland    
+         </ab>
+      </body>
+   </text>
+</TEI>

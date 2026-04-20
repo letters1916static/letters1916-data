@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0173">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward O'Farrell to the Thomas McKinnon Wood, 27 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward O&#39;Farrell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Edward O&#39;Farrell (1857-1926), the assistant under-secretary to Ireland, to Thomas McKinnon Wood (1855-1927), the under-secretary of state for Scotland. This letter was written a month following the Rising and regard the enforcement of a state of martial law in Ireland. It states that the Secretary of State for Scotland Thomas McKinnon Wood (1855-1827), should be informed. Enclosed is a written statement regarding martial law and a poster on same.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5612/9002/4</collection>
+                  <idno>https://letters1916.ie/item/173</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date>1916-05-27</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas McKinnon Wood</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0658">Whitehall, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0173_img_1309_1"  type="Letter"  url="b422eb8dea4662250d977dcd8d9adc60.jpg"/>
+      <graphic xml:id="L1916_0173_img_1309_2"  type="Enclosure"  url="10e4d3be5bdf055185717f9c3dbb4f56.jpg"/>
+      <graphic xml:id="L1916_0173_img_1309_3"  type="Enclosure"  url="3015b9fe48da8bc85864aa7910327535.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0173_img_1309_1"/>
+                27th May, 1916.   Sir,   I am directed by the Lords Justices to <lb/>enclose, for the information of the Secretary <lb/> for Scotland, a copy of a Proclamation made by <lb/>Their Excellencies on the 26th instant, direct- <lb/> ing that a state of Martial Law shall continue <lb/> to exist throughout Ireland until further order. <seg type="closer"> I am, <lb/>Sir, <lb/>Your obedient Servant,  E. O'Farrell   The Under Secretary of State,   Scottish Office,  Whitehall,  London, S.W.  </seg> 
+            <pb n="2" facs="L1916_0173_img_1309_2"/>
+               LAW ROOM, <lb/>DUBLIN CASTLE.  Whereas dissatisfaction and unrest still <lb/>prevail in certain parts of Ireland <seg type="del">cuasing</seg><lb/>causing anxiety and alarm amongst the <lb/>peaceful   law abiding subjects of His Majesty   Now we (n ?) do hereby proclaim that a <lb/> state of martial law shall continue to <lb/> exist throughout Ireland until further <lb/>order  25 - 5 - 16  
+            <pb n="3" facs="L1916_0173_img_1309_3"/>
+               <lb/>BY THE LORDS JUSTICES GENERAL AND <lb/>GENERAL GOVERNORS OF IRELAND <lb/>A PROCLAMATION  <lb/>WHEREAS disaffection and unrest still <lb/>prevail in certain parts of Ireland, causing <lb/>anxiety and alarm amongst the peaceful and <lb/>law abiding subjects of His Majesty: <lb/>NOW WE, the Lords Justices General <lb/> and General Governors of Ireland DO HEREBY <lb/>proclaim that a state of <lb/>MARTIAL LAW <lb/>shall continue to exist throughout Ireland until <lb/>further order.    <lb/>Given at His Majesty's Castle of Dublin, <lb/>this 26th of May, 1916.  <lb/>RICHD. R, CHERRY, L.C.J. <lb/>J.O. WYLIE <lb/>GOD SAVE THE KING  
+         </ab>
+      </body>
+   </text>
+</TEI>

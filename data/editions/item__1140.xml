@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1140">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas Kirkpatrick to Sir Arthur Stanley, 19 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Percy Kirkpatrick</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Thomas Percy Kirkpatrick on behalf of the Royal College of Physicians of Ireland (RCPI) to Sir Arthur Stanley regarding the appointment of Irish representatives to the governing board of the newly established college of nursing. According to the letter Sir John Moore and Sir Arthur Chance, both Irish representatives on the General Medical Council, will be in London next week if Stanley wishes to question them about Irish representation on the nursing council. From 1910 until 1954 Thomas Kirkpatrick (1869-1954) served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.Sir Arthur Stanley (1869-1947) was a philanthropist. In 1916 Stanley founded the College of Nursing with Dame Sarah Swift and became the first chairman of the college council. Additionally, Stanley served as chairman of the British Red Cross Society&#39;s committee from 1915 and was actively involved with the Star and Garter Home for Disabled Sailors and Soldiers.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-3-15-22, RCPI-2-3-3-15-22</collection>
+                  <idno>https://letters1916.ie/item/1140</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0544">Thomas Percy Kirkpatrick</persName>
+              <date>1916-05-19</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0219">Sir Arthur Stanley</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1140_img_3734_1"  type="Letter"  url="f3325c5dba1aea0f87d8c9b1393e3010.jpg"/>
+      <graphic xml:id="L1916_1140_img_3734_2"  type="Enclosure"  url="c96a05c3c2048179c937bbea5b040ba4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1140_img_3734_1"/>
+                19th MAY 16.    To the Hon. Arthur Stanley, M.P.,  83 Pall Mall, London, S.W.   Dear Sir,   A meeting of the Conference Committee of the Irish <lb/>Royal Colleges <hi rend="underline">re</hi> the College of Nursing was held this <lb/>afternoon. I am directed to forward you a copy of the <lb/>following resolution which was adopted by the conference: <lb/>RESOLVED: 'That the Hon.Arthur Stanley be informed that <lb/>Sir John Moore and Sir Arthur Chance, the Representatives <lb/>of the Royal Colleges of Physicians &amp; Surgeons in Ireland on <lb/>the General Medical Council will be in London next week and <lb/>if the Hon Arthur Stanley wishes to discuss the question <lb/>of the representation of Irish Nurses upon the governing body <lb/>of the College of Nursing Sir John Moore &amp; Sir Arthur Chance <lb/>will be glad to meet and discuss the matter.'  The address of the Representatives will be 44 Hallam St., <lb/>Portland Place, London, W. <seg type="closer"> I remain, Dear Sir, <lb/>Yours faithfully, </seg> 
+            <pb n="2" facs="L1916_1140_img_3734_2"/>
+                19th MAY 16.   Dear Sir,   A meeting of the Conference Committee of the Irish Royal <lb/>Colleges <hi rend="underline">Re</hi> the College of Nursing was held this afternoon and <lb/>I am directed to forward you a copy of the following resolution <lb/>which was adopted by the Committee :â  Resolved: 'that the Hon.Arthur Stanley be informed that Sir <lb/>John Moore and Sir Arthur Chance, the representatives of the <lb/>Royal Colleges of Physicians and Surgeons in Ireland on the <lb/>General Medical Council, will be in London next week and if the <lb/>Hon.Arthur Stanley wishes to discuss the question of the <lb/>representation of Irish Nurses upon the governing body of the <lb/>College of Nursing Sir John Moore and Sir Arthur Chance will <lb/>be glad to meet and discuss the matter.'  The address of the representatives will be the General Medical <lb/>Council Office, 44 Hallam St., Portland Place, London, W. <seg type="closer"> I am, dear Sir, <lb/>Yours faithfully </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

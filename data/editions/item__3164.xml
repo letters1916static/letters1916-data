@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3164">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">A letter Mr Mooney to his sister Katie Mooney, 20 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mr Mooney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Mr Mooney is sending a letter to Katie asking about how things are at home and catching up on the latest news.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Mooney Family Papers</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/3164</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1107">Mr Mooney</persName>
+              <date>1915-12-20</date>
+              <placeName key="#letters1916_place-0313">Ballincollig, Co Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1038">Katie Mooney</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1062">Co. Meath, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3164_img_2585_1"  type="Envelope"  url="c03be79c7ee8acbf4d19d103b32f38d5.jpg"/>
+      <graphic xml:id="L1916_3164_img_2585_2"  type="Letter"  url="a04b6c342f5cf8d3fd6b7158dc58bd31.jpg"/>
+      <graphic xml:id="L1916_3164_img_2585_3"  type="Letter"  url="73fa40841908092250bcf66779c61506.jpg"/>
+      <graphic xml:id="L1916_3164_img_2585_4"  type="Letter"  url="30e371544ff3914418e33dec9ee63602.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3164_img_2585_1"/>
+             5th (b) Reserve Brigade R.F.A <lb/>Ballincollig.   Dec <seg type="del">19</seg> 20 1915   Dear Katie,   A few things I want <lb/>you to send me when you <lb/>go to Dublin are the following <lb/>tooth powder and the usual <lb/>tobbaco &amp; two pair of <lb/><seg type="unclear">Pumerals</seg> &amp; of course the <lb/>socks &amp; Putties. I will <lb/>be glad to have some of <lb/>the Christmas pudding. <lb/>It will be something from <lb/>home. 
+            <pb n="2" facs="L1916_3164_img_2585_2"/>
+             Did Tommy have a ride on <lb/>the motor bike since I <lb/>hope it is in good order <lb/>still. I am sure the kitchen <lb/>is grand now also the <lb/>lobby. I will not know <lb/>the place when I get home. <lb/>We are having a hard <lb/>frost now. I suppose poor <lb/>old Barry will run away <lb/>from me when he next sees <lb/>me. I nearly forgot to ask for <lb/>little Lot. I have no <lb/>more to say at present so <lb/>Good—Bye &amp; God Bless you <lb/>all. 
+            <pb n="3" facs="L1916_3164_img_2585_3"/>
+             5th (b) Reserve Brigade R.F.A <lb/>Ballincollig.   Dec <seg type="del">19</seg> 20 1915   Dear Katie,   A few things I want <lb/>you to send me when you <lb/>go to Dublin are the following <lb/>tooth powder and the usual <lb/>tobbaco &amp; two pair of <lb/><seg type="unclear">Pumerals</seg> &amp; of course the <lb/>socks &amp; Putties. I will <lb/>be glad to have some of <lb/>the Christmas pudding. <lb/>It will be something from <lb/>home. 
+            <pb n="4" facs="L1916_3164_img_2585_4"/>
+             5th (b) Reserve Brigade R.F.A <lb/>Ballincollig.   Dec <seg type="del">19</seg> 20 1915   Dear Katie,   A few things I want <lb/>you to send me when you <lb/>go to Dublin are the following <lb/>tooth powder and the usual <lb/>tobbaco &amp; two pair of <lb/><seg type="unclear">Pumerals</seg> &amp; of course the <lb/>socks &amp; Putties. I will <lb/>be glad to have some of <lb/>the Christmas pudding. <lb/>It will be something from <lb/>home. 
+         </ab>
+      </body>
+   </text>
+</TEI>

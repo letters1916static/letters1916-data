@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1530">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Lady Mayo, Royal Dublin Fusiliers Kildare Committee, to Lady Clonbrock, 31 December 1915.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Geraldine Sarah Bourke</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Geraldine Sarah Bourke (née Ponsonby), Lady Mayo (1863-1944) to Augusta Caroline Dillon (née Crofton), Lady Clonbrock (1839-1928). Lady Mayo refers to a parcel sent to Pte. Joseph Connolly - there appears to be a situation where some prisoners are getting too many parcels and the German authorities are suppressing them. She also refers to £14 sent to Berne to cover 24 weeks&#39; supply of bread for Connolly - a note on the back of the letter, possibly written by Lady Clonbrock, confirms this and also that Lady Mayo is the contact. Lady Mayo is having difficulty finding out who looks after Connaught Rangers POWs and suggests that Lady Clonbrock try to find out by placing some newspaper advertisements.Lady Clonbrock was the wife of Luke Gerald Dillon (1834-1917), the 4th Baron of Clonbrock, Co. Galway and the daughter of Lord Crofton of Mote Park (Edward Henry Churchill Crofton, 3rd Baron), Co. Roscommon. Aged 75 at the outbreak of war, Lady Clonbrock, worked closely with the Irish Women&#39;s Association to send basic necessities to Irish POWs. Many of her care packages went to members of the Connaught Rangers imprisoned in Limburg near Cologne.Lady Mayo, was a committee member in The Royal Dublin Fusiliers&#39; County Kildare Committee. The Committee dealt with parcels for RDF prisoners of war abroad.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No. 54, Ms. 35,796/11/1</collection>
+                  <idno>https://letters1916.ie/item/1530</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1240">Geraldine Sarah Bourke</persName>
+              <date>1915-12-31T00:00:00</date>
+              <placeName key="#letters1916_place-0928">Palmerstown, Straffan, Co. Kildare, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0483">Augusta Caroline Dillon</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1530_img_990_1"  type="Letter"  url="a5dbfa027791d39765fa67cb43520fe4.jpg"/>
+      <graphic xml:id="L1916_1530_img_990_2"  type="Letter"  url="21913bc949895cf364bdbea31d92a1d1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1530_img_990_1"/>
+                <seg type="del">GARRYARD</seg>, PALMERSTOWN,  <seg type="del">JOHNSTOWN</seg>,  STRAFFAN,  CO. KILDARE    31st December 1915.   Dear Lady Clonbrook,   Many thanks for your letter, When Pte. Joseph <lb/>Connolly's name was first sent to me I thought he was a <lb/>civilian, that was why I sent him a parcel at once. Also <lb/>I had some difficulty in finding out who looked after the <lb/>Connaught Rangers' prisoners, Would it not be well if you <lb/>occasionally put an <sic>advertisment</sic> into the newspaper. Our <lb/>Co. Dublin organization works very well I think. But exactly <lb/>the same thing happens as you describe, kind people send <lb/>parcels to men whom we know are getting many.  I saw a returned prisoner from Limburg, yesterday, <lb/>a native of Naas, and he told me that the men are all getting <lb/><seg type="del">too</seg> many parcels and if <hi rend="underline">too</hi> many come the Germans suppress <lb/> them. I sent Â£1 4 to Berne for bread for Connolly which will <lb/> do for 24 weeks from Decr. 28th. I hope this is not a nuisance <lb/> but it is difficult to alter it now. <seg type="closer"> Yrs sincerely,  G. U. Mayo </seg> 
+            <pb n="2" facs="L1916_1530_img_990_2"/>
+               <hi rend="underline">Lady Mayo</hi> 1915 <lb/>Pte. J. Connolly <lb/>Connaught Rangers <lb/>She sent Â£1.4 to Berne <lb/>for Connolly â to last for <lb/>24 weeks.  
+         </ab>
+      </body>
+   </text>
+</TEI>

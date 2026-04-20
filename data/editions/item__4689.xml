@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4689">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas Kirkpatrick to Laurence O'Neill, 14 December 1917</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Kirkpatrick</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>From 1910 until 1954 Thomas Percy Kirkpatrick (1869-1954) served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.
+
+Laurence O&#39;Neill (1864-1943) was an Irish politician, Lord Mayor of Dublin (1917-1924) and senator. Taking office during some of Dublin&#39;s most turbulent times O&#39;Neill often acted as mediator between opposing sides. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-13-273</collection>
+                  <idno>https://letters1916.ie/item/4689</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1453">Thomas Kirkpatrick</persName>
+              <date>1917-12-14</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Laurence O&#39;Neill</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1954</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4689_img_4027_1"  type="Letter"  url="246f640948790faad08ea49f56859b86.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4689_img_4027_1"/>
+             14th DECEMBER 17.   To the Right Honorable <lb/>The Lord Mayor of Dublin.   My Lord,   I am requested by the President and Fellows of the <lb/>Royal College of Physicians of Ireland to forward you a copy <lb/>of the following resolution which was adopted at a recent <lb/>meeting of the College :    <hi rend="underline">Resolved</hi>: "that the President and Fellows of the Royal <lb/>College of Physicians of Ireland will be glad to give <lb/>the Sanitary Authority any assistance in its power in <lb/>the preparation of a scheme in accordance with the <lb/>Regulations issued by the Local Government Board for <lb/>Ireland on the subject of Venereal Diseases."   I am, My Lord, <lb/>Your Lordship's obedient Servant,  <lb/>Fellow &amp; Registrar.
+         </ab>
+      </body>
+   </text>
+</TEI>

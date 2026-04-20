@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3348">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">St. Patrick's Day 1916 Postcard from Máire in Rathmore/Killarney to Piaras Béaslaí</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Maire</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>St. Patrick&#39;s day card from Máire (possibly a cousin as Piaras&#39;s father was from Kerry) to Piaras Rathmore in Co. Kerry. She mentions having met a boy from Dublin in Rathmore that made her think of Piaras. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>MS 33,977 / 7; Collection List 44</collection>
+                  <idno>https://letters1916.ie/item/3348</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">Irish</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0755">Maire</persName>
+              <date>1916-03-16</date>
+              <placeName key="#letters1916_place-2094">Rathmore, Co. Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Piaras Béaslaí</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3348_img_276_1"  type="Letter"  url="d1505736a843c75df1aa84006324c5b4.jpg"/>
+      <graphic xml:id="L1916_3348_img_276_2"  type="Letter"  url="6a94cedd2747e098a12b3c7950189b5b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3348_img_276_1"/>
+             Cionnas taoi? Bhíos a cainnt <lb/> le buacaill ó Bla Clíath aréir <lb/> &amp; bhíos a cur do thuairisg <lb/> Bhí sé a radh móran <seg type="unclear">buzzitings</seg> <lb/> id thaoibh (ní sgriobhfad annso <lb/> iad). Volunteer seadh é &amp; <lb/> tusa a chaiptín.   Beidh cainnt eile agam leis <lb/> sar a <seg type="del">d</seg> imteóchadh sé &amp; cuirfead <lb/> a lán sgeula cúghat.   Níl a thuillead agam a rádh <lb/> anois acht bí <seg type="unclear">dood</seg> &amp; tabhair <lb/> aire maith dhuit féin mar <lb/> "is gann atá na daoine <lb/> maithe   <hi rend="underline">Máire</hi>   Do <lb/>Piaras Beaslaoí   24 Mountjoy St. <lb/> <hi rend="underline">Dublin</hi> 
+            <pb n="2" facs="L1916_3348_img_276_2"/>
+            From <lb/>Dear old <lb/>Killarney <lb/>We hail this joyous day, <lb/>To Erin's sons so dear! <lb/>Tho' you are far away <lb/>In thoughts you're always near. <lb/>Beannacht ort ar theacht Lae <lb/>Fhéile Phádraig <lb/>(To greet you on St. Patrick's Day) <lb/> <lb/>IRISH MANUFACTURE THROUGHOUT
+         </ab>
+      </body>
+   </text>
+</TEI>

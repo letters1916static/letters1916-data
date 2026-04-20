@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5694">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Brown to Malachy J. Kelly, 15 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Brown</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from solicitor James Brown to Malachy J. Kelly (1851-1916), the Chief Crown Solicitor. Brown explains how it is not clear whether the brother of the deceased (Elizabeth Hogg) is still alive and so will wait until he hears word before proceeding with an application on behalf of his client, John Duff.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3888</collection>
+                  <idno>https://letters1916.ie/item/5694</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0489">James Brown</persName>
+              <date>1916-04-15</date>
+              <placeName key="#letters1916_place-2047">Broad Street, Magherafelt, County Derry</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1023">Malachy J. Kelly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0476">Dublin Castle, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5694_img_797_1"  type="Letter"  url="e21647346707e879208ebbabb1a016d1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5694_img_797_1"/>
+             Offices:- <lb/>Broad Street <lb/>Magherafelt   15th April 1916   Dear Sir,  <hi rend="underline">E Hogg deceased</hi>  I am in receipt of yours of 14th inst and beg to say that <lb/>Mr Millar Solicitor, Cookstown has written me that he has sent a Power <lb/>Of Attorney to <hi rend="underline">a brother of deceased who he thinks is alive but he is not sure</hi>.   My Client Mr john duff is convinced the man is dead and so <lb/>is every one else. I enclose your Mr Millar's letter which please return.   In meantime I can go no further with my application till <lb/>Mr Millar gets a reply.   Yours faithfully   James Brown   The Chief Crown Solicitor <lb/>Chief Secretary's Office <lb/>The Castle <lb/>Dublin. 
+         </ab>
+      </body>
+   </text>
+</TEI>

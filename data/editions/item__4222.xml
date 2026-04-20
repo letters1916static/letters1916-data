@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4222">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edmund Blayney Clarke to Augustine Birrell, 23 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edmund Blayney Clarke</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Edmund Blayney Clarke regarding his recommendation as an architect to rebuild Dublin after the damage done during Easter week 1916. He encloses one of his designs to support the letter.
+
+Birrell served as the chief secretary of Ireland from 1907 to 1916. Birrell was a liberal politician praised for his reforms of the Irish education system. The Easter Rising caught him unawares and, occupied in London, there was little he could do. A later inquiry into the Rising held Birrell chiefly responsible for the events that occurred. Birrell offered his resignation on 1 May 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/9085</collection>
+                  <idno>https://letters1916.ie/item/4222</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0008">Edmund Blayney Clarke</persName>
+              <date>1916-05-23</date>
+              <placeName key="#letters1916_place-0548">England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0534">Augustine Birrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4222_img_3592_1"  type="Letter"  url="be6850b9811fd439f4f0a7cf10aaabaa.jpg"/>
+      <graphic xml:id="L1916_4222_img_3592_2"  type="Enclosure"  url="c79cea1f4b892753a14d557dd2ff4876.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4222_img_3592_1"/>
+              23rd May 1916    To the Right Honble The Lord Wimbourne, K.G. etc<lb/>Viceroy of Ireland,<lb/>Viceregal Lodge, Dublin     8474 aw    April    chief secretary's<lb/>9085 - 29 may 1916<lb/>rec'- from Vice Regal Lodge<lb/>Office    1 Ack<lb/>2 Add to offers file     1 done HJC 3/6<lb/>2:6:16    1   <seg type="unclear"> despt </seg>  <lb/> Vob 3/6     8474 aw    Your Excellency,   I hope you will pardon the liberty<lb/>of writing to Your Excellency to ask if I may<lb/>be favoured with an opportunity and the privilege<lb/>of submitting designs, plans etc for the reconstruction<lb/>of Buildings in Dublin and other parts of Ireland destroyed<lb/>or damaged during the recent disturbances.<lb/>I am an experienced architect, upon a large<lb/>number of buildings of importance in England,<lb/>India, South America etc -  <seg type="unclear">design</seg>  planning,<lb/>construction, organisation, superintendance etc of <seg type="unclear">works</seg><lb/>I enclose copies of Testimonies together with prints of<lb/>2 of my designs and if Your Excellency should so<lb/>favour me I should consider it both an honor<lb/>and a privilege to give such further particulars Your<lb/>Excellency may desire   I have the honor to remain<lb/>Your Excellency's<lb/>Obedient Servant <lb/>E<hi rend="superscript">d</hi> Blaney Clarke  <lb/> T!<lb/><seg type="unclear">Merus</seg><lb/>only I <seg type="unclear">atta?</seg><lb/>when rec? - in Regy<lb/>Res 29/5 <lb/>  
+            <pb n="2" facs="L1916_4222_img_3592_2"/>
+             SWAN AND EDGAR   Edmund B. Clarke <seg type="unclear"></seg>  1912 <seg type="unclear"></seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

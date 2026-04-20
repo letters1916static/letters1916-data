@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0906">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the War Office to the Under Secretary, 31 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from the War Office, London to the under-secretary, Sir Matthew Nathan (1862-1939), regarding the issuing of permits for civilians from Government Departments travelling to the British Zone at the front. The letter suggests that a regulation, similar to those in force in the War Office (‘Permits for Civilians Proceeding to France on Duty&#39; which is attached) should be established in each Department. Sir Matthew Nathan was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5618/26</collection>
+                  <idno>https://letters1916.ie/item/906</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1915-12-31</date>
+              <placeName key="#letters1916_place-0456">London S.W., England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0906_img_2520_1"  type="Letter"  url="45d255e8ece29391af6aae608210945d.jpg"/>
+      <graphic xml:id="L1916_0906_img_2520_2"  type="Letter"  url="eb9d40e85140626995e6abddb1e4af48.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0906_img_2520_1"/>
+              PERMITS FOR CIVILIANS PROCEEDING TO FRANCE ON DUTY  Any civilian proceeding on duty to the zone of operations<lb/> in France is required to obtain a passport, and to apply<lb/> at the Military Permit Office, 19 Bedford Square, with a view<lb/> to its being <seg type="unclear">vise</seg> just in the same way as a civilian travelling<lb/> on private affairs. He should take the passport to the Military<lb/><sic>Pormit</sic> Office with a certificate from the head of the branch by<lb/> which the order to proceed to France is issued to the effect<lb/> that he is travelling on duty and that the necessary steps have<lb/> been taken either through the Adjutant-General, Expeditionary<lb/> Force, or the Inspector-General of Communications, as the case<lb/> may be, to ensure that a pass permitting him to proceed to his<lb/> destination will be found awaiting him at the office of the<lb/> Assistant Provost-Marshal at the port of disembarkation. The<lb/> head of the branch will be responsible for informing the<lb/> Adjutant-General, Expeditionary Force, or the Inspector-General<lb/> of Communications, either by letter or in urgent cases  by telegram  that, if<lb/> there is no objection, it is proposed to send .............. to<lb/> .......... on .......... for the purpose of .......... and that<lb/> it is requested that a pass may be issued and await him at the<lb/> Assistant-Provost-Marshal's office at ............ <seg type="closer"><seg type="unclear"><hi rend="underline">Office Memorandum No.812</hi></seg><lb/>  <seg type="unclear">7</seg>th September, 1915.  </seg> 
+            <pb n="2" facs="L1916_0906_img_2520_2"/>
+                War Office,  London, S.W.    31<hi rend="superscript">st</hi> December, 1915   Sir,   I am commanded by the Army Council to acquaint you that<lb/> the Commander-in-Chief, British Army in the Field has represent<lb rend="hyphen"/>ed that officials of different Government Departments occasion<lb rend="hyphen"/>ally arrive within the British Zone of the Armies without any<lb/> previous communication having been addressed to him on the<lb/> subject of their intended visit. He requests that to avoid<lb/> difficulty, every Department should adopt regulations similar<lb/> to those in force at the War Office, a copy of which is attached.  The Council would be glad to be informed of the name and<lb/> designation of the official of your Department who may be<lb/> appointed to grant the certificate to which reference is made<lb/> in the Regulations and to move the military authorities in<lb/> France to issue the necessary pass. These will be communicated<lb/> to the Adjutant General, Expeditionary Force and the Inspector<lb/> General of Communications for their information, and will be<lb/> recorded at the Military Permit Office, Bedford Square. <seg type="closer"> I have the honour to be,<lb/> Sir,<lb/> Your obedient servant,   The Under Secretary  Irish Office.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

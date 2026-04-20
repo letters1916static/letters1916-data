@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1089">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Arthur Stanley to Sir John William Moore, 22 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Sir Arthur Stanley</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Sir Arthur Stanley to Sir John William Moore requesting to arrange a meeting to discuss the issue of the representation of Irish nurses on the governing body of the College of Nursing. Sir Arthur Stanley (1869-1947) was a philanthropist. In 1916 Stanley founded the College of Nursing with Dame Sarah Swift and became the first chairman of the college council. Additionally, Stanley served as chairman of the British Red Cross Society&#39;s committee from 1915 and was actively involved with the Star and Garter Home for Disabled Sailors and Soldiers.Sir John William Moore (1845-1937) served as President of Royal College of Physicians of Ireland from 1898 until 1900 and was knighted for his services to medicine. Aside from his work in medicine he has a strong interest in meteorology.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-3-15-24, RCPI-2-3-3-15-24</collection>
+                  <idno>https://letters1916.ie/item/1089</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0219">Sir Arthur Stanley</persName>
+              <date>1916-05-22</date>
+              <placeName key="#letters1916_place-1511">83 Pall Mall, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir John William Moore</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1089_img_3238_1"  type="Letter"  url="fda7484afb928624d15dc463c945faff.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1089_img_3238_1"/>
+                83, PALL MALL,  LONDON, S.W.    22nd May 1916.   Dear Sir,   I received a letter from the Registrar of the <lb/>Royal College of Physicians of Ireland in which he says <lb/>that you and Sir Arthur Chance will be in London this <lb/>week.   I should be very glad if you could spare me a <lb/>little time in which to discuss the representation of <lb/>Irish Nurses upon the governing body of the College of <lb/>Nursing. Will you kindly let me know what time and plave <lb/>would be convenient for you to see me.  <seg type="closer"> Yours truly,  <hi rend="underline">Arthur Stanley</hi>   Sir John Moore, M.A.,M.D.,  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

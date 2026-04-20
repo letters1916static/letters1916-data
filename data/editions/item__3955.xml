@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3955">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Francis Sheehy Skeffington to Laurence Ginnell, 13 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Francis Sheehy Skeffington</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>From Francis Sheehy Skeffington to Laurence Ginnell regarding several different issues. After enquiring about his difficulties with censorship Skeffington writes that Countess Markievicz has been asked to register as an alien due to her husband&#39;s Russian nationality. Enclosed with the letter was a copy of a letter which Skeffington had sent to Lord Kitchener regarding the detention of baggage. 
+
+Francis Sheehy Skeffington, journalist, was a prominent feminist, activist and co-founder of the Irish Women&#39;s Franchise league in 1908. In 1912, he and his wife, Hanna Sheehy Skeffington (1877-1946), founded the suffragist newspaper The Irish Citizen. A staunch pacifist and nationalist, Sheehy Skeffington opposed Irish involvement in the Great War. During the Easter Rising, he attempted to organise a civilian defence force to prevent looting and saved the life of a British officer under fire. Arrested on the evening of Tuesday 25 April 1916, Sheehy Skeffington and two other civilians were shot by firing squad on the morning of Wednesday 26 April.
+
+
+Laurence Ginnell (1852 – 1923) was an Irish nationalist politician, lawyer, and member of parliament. He initially ran as a member of the Irish Parliamentary Party, but, from 1910 onward he ran as an Independent Nationalist. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection> Sheehy Skeffington Papers, Collection List No. 47; Ms 33,612/18-36</collection>
+                  <idno>https://letters1916.ie/item/3955</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1551">Francis Sheehy Skeffington</persName>
+              <date>1916-02-13</date>
+              <placeName key="#letters1916_place-0720">11 Grosvenor Place, Rathmines, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1007">Laurence Ginnell</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1916</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3955_img_3330_1"  type="Letter"  url="01dacbdcd6e9581799c813b0c0841c4e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3955_img_3330_1"/>
+              11, Grosvner Place, <lb/>Rathmines, Dublin   Dear Mr.Ginnell,   Many thanks for sending me the question about Ryan. I have not <lb/>heard of his being molested since, so I presume the public inquiry <lb/>was enough to warn them off.   With regards to the other two points which I wrote to you <lb/> about too late for last session, :&amp;#x 2014 the Glasgow affair has been somewhat <lb/>cleared up since; you will have seen the paragraph about it in nationally <lb/>. the second youth arrested is called Reuder, not Reid. <lb/> They are both charged, I am told with stealing explosives <lb/> as regards my cable to Holland witch was stopped, perhaps you <lb/> would be good enough to ask wether any cables to Holland which was stopped perhaps you <lb/> would be good enough to ask wheter any cables sent by me have been <lb/> stopped and whether the money paid for them will be returned besides <lb/> this one cable which I know was stopped I suspect that two <lb/> others (sent by me to the united states) have also been held up; and <lb/> perhaps a general query might elicit some information about these. <lb/> Countess Markievicz has been told by police that she must <lb/> register as an alien, &amp;#x 2014 her husband being Russian subject, of <lb/>course she takes his nationality she has never been asked to <lb/> register since the beginning of the war till now. she refuses to <lb/>register and is awaiting the next move of the police <lb/> I enclose a copy of my letter to Kitchener on the detention of <lb/> baggage which may amuse you.
+         </ab>
+      </body>
+   </text>
+</TEI>

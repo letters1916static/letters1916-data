@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3601">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Royal College of Physicians of Ireland to Edythe Fitzgerald, 3 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from the Royal College of Physicians of Ireland (RCPI) to Edythe Fitzgerald expressing their deep sense of loss following the death of their colleague, Edythe&#39;s husband, Dr Charles Edward Fitzgerald (1853-1916).
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-13-168</collection>
+                  <idno>https://letters1916.ie/item/3601</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-06-03</date>
+              <placeName key="#letters1916_place-0650">Royal College of Physicians, 6 Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0674">Edythe Fitzgerald</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0236">27 Upper Merrion Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Medicine</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3601_img_3000_1"  type="Letter"  url="80d15d2b89d28df0406f025c5b04e70e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3601_img_3000_1"/>
+             THE ROYAL COLLEGE OF PHYSICIANS OF IRELAND, <lb/>6 Kildare street, Dublin.   3rd JUNE, 1916.   Mrs.FitzGerald, <lb/>Dublin.   Dear Madam,   I am directed by the President and Fellows of this <lb/>College to forward you a copy of the following resolution <lb/>which was carried in silence at yesterday's meeting : <lb/>RESOLVED : "That the President and Fellows of the Royal <lb/>College of Physicians of Ireland desire to record their <lb/>deep sense of the loss sustained by their College, by the <lb/>Medical Profession and by the public at large in the death <lb/>of their distinguished and beloved colleague Dr.Charles <lb/>Edward FitzGerald, Ex-President of the College; and the <lb/>President and Fellows hereby tender an expression of <lb/>heartfelt sympathy to Mrs FitzGerald and the other members <lb/>of his family in their bereavement."   I remain, Dear Madam, <lb/>Yours faithfully,  <lb/>Fellow &amp; Registrar.
+         </ab>
+      </body>
+   </text>
+</TEI>

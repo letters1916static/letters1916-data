@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0846">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Liam Mellows to Seumas Ua Faoláin, 26 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Liam Mellows</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>In this letter, Liam Mellows inquires if Seumas Ua Faoláin has any more copies of Major Casserley&#39;s book on “War training for Volunteers” which he had bought from him the previous week. He requests half a dozen copies.Liam Mellows (1892-1922) was a revolutionary nationalist. He was a principle organiser of Fianna Éireann, the radical nationalist boy scout movement, and he grew increasingly active in the Irish Republican Brotherhood and the Irish Volunteers. During Easter Week of 1916, Mellows led attacks on barracks in Oranmore and Athenry. He was executed as an irregular by the Free State government during the Civil War.Seumas Ua Faoláin [Seamus Whelan] was a publisher. In December 1916 his company, Whelan &amp;amp; Son, published the first printed edition of The Soldier&#39;s Song [Amhrán na bhFiann], later to become the Irish national anthem.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, Green Autograph Book 1, IE/AL/GAB1/88</collection>
+                  <idno>https://letters1916.ie/item/846</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0079">Liam Mellows</persName>
+              <date>1915-11-26</date>
+              <placeName key="#letters1916_place-1363">Church Street, Athenry, Co. Galway, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Seumas Ua Faoláin</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0846_img_2404_1"  type="Letter"  url="befd742f7be79c8fbd0ad3330f5b3542.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0846_img_2404_1"/>
+                C/o J Broderick Esq.  Church St.  Athenry    26.11.1915.   A Caradh, L,   Have you any more  copies  of Major Casserly's book on <lb/> * 'War training for Volunteers' price 2/-? You will <lb/> remember the book. I bought one from you <lb/> last week. If you have any more copies, <lb/> please send me 1/2 a dozen and enclose bill.   There is nothing else I want at present. <lb/> I hope you are keeping well.  <seg type="closer"> With best wishes, <lb/> Do Cara   Liam <hi rend="underline">Mellows</hi> </seg> * <hi rend="underline">I believe this is the name</hi><lb/><hi rend="underline">Seamus Ua Faolain</hi> Uas   
+         </ab>
+      </body>
+   </text>
+</TEI>

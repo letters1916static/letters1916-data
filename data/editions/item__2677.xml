@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2677">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Father Edward Murnane to George Gavan Duffy, 24 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward F. Murnane</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Fr. Edward Murnane, The Presbytery, Dockhead, Bermondsey, to George Gavan Duffy in which he notes that the appeal of Casement’s case to the House of Lords had been refused, and how prayers on his (Casement’s) behalf will have to be redoubled.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>George Gavan Duffy Papers P152/9</collection>
+                  <idno>https://letters1916.ie/item/2677</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1398">Edward F. Murnane</persName>
+              <date>1916-07-24</date>
+              <placeName key="#letters1916_place-0554">London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0467">George Gavan Duffy</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2677_img_210_1"  type="Letter"  url="b03bdb60776de32a837f03dd4113f404.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2677_img_210_1"/>
+             P152/9   The Presbytery,<lb/>Dockhead,<lb/>Bermondsey, S. E. <lb/> July 24. 1916 <lb/> My dear Gavan Duffy   I called this Evg. about<lb/>8.30, with the hope of seeing<lb/>you and Mrs Gavan Duffy<lb/>The Eng. Papers stated that<lb/>Smith had refused the appeal<lb/>to the House of Lords. And I<lb/>counted on it so much. I am<lb/>anxious to see you both. I have<lb/>had a most affectionate, though<lb/>sad letter from Sir Roger<lb/>We must redouble our prayers<lb/>Can I see you both tomorrow<lb/>any time .  With a blessing<lb/>to you and yours.   Ever yrs Sincerely   E.F. Murnane 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3643">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dublin police report on the illegal importation of glass from Belgium by a Mr. H. Wigoder in Feb. 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Sergeant M. Mannion</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Report on the interview between Sergeant M. Mannion of the Dublin Metropolitan Police and a Mr. H. Wigoder of 75 Talbot St. with regards to the illegal importation of glass for pictures from Belgium. Mr. Wigoder claims not to have known that a permit was required. He apologised and promised not to re-offend. Sgt. Mannion concludes that Mr. Wigoder&#39;s loyalty to Britain is unquestionable. The letter has a stamp of the Chief Secretary&#39;s Office. The Chief Secretary of Ireland at the time was Augustine Birrell.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI_CSO/RP/1916/3651/1</collection>
+                  <idno>https://letters1916.ie/item/3643</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1128">Sergeant M. Mannion</persName>
+              <date>1916-02-25</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3643_img_304_1"  type="Letter"  url="784069b6727c2e1579d451a711c6298e.jpg"/>
+      <graphic xml:id="L1916_3643_img_304_2"  type="Letter"  url="98845e67d0977312bb137a1b9b0bf504.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3643_img_304_1"/>
+              DUBLIN METROPOLITAN POLICE. <lb/>Detective Department, <lb/>Dublin,   25th Feby 1916.   Subject, <hi rend="underline">Messrs Wigoder and Co importing goods from</hi> <lb/><hi rend="underline">Belgium</hi>   I beg to state that <lb/>I have seen Mr H. Wigoder <lb/>75 Talbot St in reference to <lb/>his importing goods from <lb/>Belgium, without the neces- <lb/>sary permit.   He states a traveller of <lb/>the firm in Belgium called <lb/>on him in August last, <lb/>that he then gave an order <lb/>for glass for pictures &amp;c, at <lb/>the same time arranging that <lb/>the money was not to be sent <lb/>from this country in payment <lb/>until the end of the war <lb/>and  The Supt. G. Dw<hi rend="superscript">n</hi> 
+            <pb n="2" facs="L1916_3643_img_304_2"/>
+            and that he has a guar- <lb/>antee from the National Bank, <lb/>College Green, Dublin, to this <lb/>effect, but that he was <lb/>unaware that a permit was <lb/>required for getting the <lb/>glass into this country until <lb/>he was informed by the <lb/>Shippers — Palgrave and <lb/>Murphy.   He is very sorry for <lb/>causing any trouble and <lb/>will not offend again in this <lb/>manner.   There can be no doubt as <lb/>to Mr Wigoder's loyalty to <lb/>this country. He came to <lb/>Great Britain when an infant <lb/>and his father, who came from <lb/>Russia was a naturalised <lb/>British subject.  <seg type="closer"> M. Mannion  <lb/><hi rend="underline">Sergt I.G.</hi><seg type="closer">
+         </ab>
+      </body>
+   </text>
+</TEI>

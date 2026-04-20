@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0071">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Pearse to Seán T. O'Kelly, 21 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Pearse</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a mobilisation order sent by William Pearse (1881-1916) to Seán Thomas O&#39;Kelly (1882-1966) on 21 April 1916. The order is a personal order for O&#39;Kelly, signed by &#39;Acting Chief of Staff&#39; Willie Pearse, and was for the planned manoeuvres on Easter Sunday, 23 April. Unbeknownst to the rank and file, these manouevres were to be used as a cover for the beginning of the Easter Rising but were countermanded by Eoin MacNeill, chief of staff of the Irish Volunteers, when he became aware of the plans. The Rising then went ahead on 24 April with significantly reduced numbers. It informs O&#39;Kelly that he is to be prepared to act on the staff of P.H. Pearse, &#39;Acting G.O.C. Dublin Brigade&#39; and instructs him on the equipment and rations he should bring.William Pearse was a sculptor and brother of Patrick Pearse, one of the leaders of the Easter Rising. William held the rank of captain on the headquarters staff of the Dublin Brigade of the Irish Volunteers. O&#39;Kelly was a politician and later president of Ireland. In 1916 he was also a member of the Irish Volunteers and Irish Republican Brotherhood and served as aide-de-camp to Patrick Pearse during the Rising. William Pearse was executed for his part in the Rising on 4 April. O&#39;Kelly was arrested and imprisoned until December 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Document, Séan T. O&#39;Kelly Collection, BMH CD/95/2/2</collection>
+                  <idno>https://letters1916.ie/item/71</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0853">William Pearse</persName>
+              <date>1916-04-21</date>
+              <placeName key="#letters1916_place-0265">2 Dawson Street, Dublin`</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0470">Seán T. O&#39;Kelly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0071_img_1140_1"  type="Letter"  url="691abb1f42d289814f14c5b5c440e1de.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0071_img_1140_1"/>
+             <seg type="head"><hi rend="underline">IRISH VOLUNTEERS</hi></seg>   Headquarters:-  2, Dawson Street  Dublin    21st April, 1916.   Capt. SeÃ¡n T. O'Kelly    Sent at 5pm <hi rend="underline">DUBLIN BRIGADE: EASTER MANOEUVRES. 1916</hi>  You will report yourself to me at temporary Head- <lb/>quarters, Beresford Place at the hour of 4 p.m. on <lb/> Sunday next, 23rd inst. (Easter Sunday) and hold yourself <lb/>in readiness to act on the Staff of Commandant P.H. Pearse <lb/> Acting G.O.C Dublin Brigade, during the Easter Manoeuvres.  You will provide yourself with a bicycle, a Street <lb/> map of Dublin City, A road map of the Dublin District and <lb/>a field message book. you will carry full arms <lb/> ammunition, full service equipment (including overcoat) <lb/> and rations for eight hours.  You will acknowledge receipt of this order by <lb/>returning, by hand, to meet me at St.Enda's College, Rath- <lb/> farnham, the annexed form duly filled in and signed. <seg type="closer"> William Pearse  <lb/>capt <lb/>Acting Chief of Staff</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

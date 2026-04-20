@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1349">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mabel C. Wright to Lady Clonbrock, 4 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mabel Crawford Wright</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Mabel C Wright of the Irish War Hospital Supply to Lady Clonbrock (1839-1928) requesting the creation of centres in County Galway for the collection of moss for surgical dressings.Augusta Caroline Dillon (née Crofton) was the wife of Luke Gerald Dillon (1834-1917), the 4th Baron of Clonbrock, Co. Galway and the daughter of Lord Crofton of Mote Park (Edward Henry Churchill Crofton, 3rd Baron), Co. Roscommon. Aged 75 at the outbreak of war, Lady Clonbrock, worked closely with the Irish Women&#39;s Association to send basic necessities to Irish POWs. Many of her care packages went to members of the Connaught Rangers imprisoned in Limburg near Cologne.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Ms 35,796 (9), Ms 35,796 (9)</collection>
+                  <idno>https://letters1916.ie/item/1349</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0535">Mabel Crawford Wright</persName>
+              <date>1916-04-04</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0049">Lady Clonbrock</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1862">Galway, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1349_img_70_1"  type="Letter"  url="de2967ff61b1028e5e4853535d257470.jpg"/>
+      <graphic xml:id="L1916_1349_img_70_2"  type="Letter"  url="6c42e4d6ee054e157f770d3a15077dba.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1349_img_70_1"/>
+                Irish War Hospital Supply,  Royal College of Science Sub-Depot.  Dublin    <hi rend="underline">4/4/16.</hi>    The Rt. Hon. Lady Clonbrock,  President,  Connaught Rangers Comforts Fund Committee,  Ahascragh,  Co. Galway.   Madam,   At the request of the Director General <lb/>of Voluntary Organisations this sub-depot <lb/> which controls the Sphagnum branch of <lb/> the Irish War Hospital Supply Depot, <lb/> 40 Merrion Square, has undertaken for <lb/> the War Office the Sphagnum Supply <lb/> for Ireland. The Director General has <lb/> suggested that in connection with <lb/> this depot two main centres should be <lb/> formed in the country for the collection <lb/> and preparation of the moss, so that <lb/> it may be sent to Dublin ready to be <lb/> made up into surgical dressings.   
+            <pb n="2" facs="L1916_1349_img_70_2"/>
+              Would it be possible for your Committee to <lb/> organise such a centre, as there are large <lb/> supplies of the moss available in CO. Galway. <lb/>We have already received most valuable <lb/> help from Lady Mahon and others in <lb/> the country, who would then contribute <lb/> to your centre.   I enclose some literature and a copy of <lb/> our leaflet, and if your Committee <lb/> can possibly undertake this work, we <lb/> shall be pleased to supply any further <lb/>information.    The demand for moss dressings has <lb/> increased with such unexpected rapidity, <lb/> that it is absolutely essential to <lb/> organise its collection on a much larger <lb/> scale than we have done up to the <lb/> present.  <seg type="closer"> Yrs. Truly   Mabel C. Wright <lb/>Supt. Sphagnum Dept. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

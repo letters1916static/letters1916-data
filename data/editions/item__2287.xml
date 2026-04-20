@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2287">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Bishop Patrick Morrisroe to John F. Hogan, 17 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Morrisroe</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter addressed to Rev Dr John Francis Hogan (1858–1918) from Bishop Patrick Morrisroe (1869-1946). John F. Hogan was an author, priest and President of St Patrick&#39;s College, Maynooth who was a native of Clare. Patrick Morrisroe was born in Mayo and became Bishop of Achonry in 1911. He help this post until his death in 1946. Morrisroe is writing to Hogan to apologize for the difficulty in admitting a student and his dealings with the college in Maynooth.  </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>St Patrick&#39;s College, Maynooth</repository>
+                  <collection>John F. Hogan Papers, 21/1/9a</collection>
+                  <idno>https://letters1916.ie/item/2287</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0540">Patrick Morrisroe</persName>
+              <date>1916-09-17</date>
+              <placeName key="#letters1916_place-1011">Chichester Park, Belfast, County Antrim, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John Francis Hogan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0291">St Patrick's College, Maynooth, County Kildare, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1946</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2287_img_1734_1"  type="Letter"  url="337c94da4b57fc6cdc1c126b24d1dcf0.jpg"/>
+      <graphic xml:id="L1916_2287_img_1734_2"  type="Letter"  url="0138352e4da93263a087208c490bb562.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2287_img_1734_1"/>
+             1/9  <!-- Embossed Bishop\'s Seal --><!-- Embossed Bishop\'s Address: --> Chichester Park,<lb/>Belfast.     Sept 17th, 1916   <sic>My Dear Mgt. Hogan </sic>  I am sorry there has been a<lb/>difficulty in admitting Cullenan as he is<lb/>a very excellent young man. Some <seg type="unclear"></seg><lb/>time ago I reminded the President of the<lb/>Collge about the advisability of seeing that<lb/>this freshman complied with all the Maynooth<lb/>requirements. He has a good deal to do <seg type="unclear"></seg><lb/>and probably forgot all about my warning.  If the President and entrance Board can<lb/>interpret this rule about Certificates from<lb/>Doctors in as <seg type="unclear"></seg> a spirit as possible, I 
+            <pb n="2" facs="L1916_2287_img_1734_2"/>
+             will not complain. So if Dr. Redmond does<lb/>not consider the student absolutely unfit to<lb/>undergo the College routine, perhaps he may be<lb/>received into the the House subject to this proviso<lb/>That if his health at any time shows signs<lb/>of a break-down, the Bishop will remove him.  The boy worked very hard in the Seminary,<lb/>received Honours in <seg type="unclear">Senior</seg> grade this year, &amp;<lb/>never so far as I know complained of <seg type="unclear"></seg>.<lb/>People with weak hearts - sometimes manage to<lb/>have a long time. At the same time I will not<lb/>find fault with anything the authorities of the<lb/>College deem it their <seg type="unclear">gift - to do in his care</seg>.   With all kind wishes I remain,<lb/>Very sincerely yours<lb/>+ P. Morrisoe   P. S. The <seg type="unclear">Barn</seg> left here on Friday. <seg type="unclear">Mine has</seg> and<lb/>is very well. Weather changed for <seg type="unclear">worse way</seg>.  <seg type="unclear"></seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

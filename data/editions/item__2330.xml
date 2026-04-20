@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2330">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Bishop Michael Fogarty to John Francis Hogan, 21 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Michael Fogarty</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Bishop Michael Fogarty (1859-1955) to John Francis Hogan (1858-1918). Michael Fogarty was born in Kilcolman, County Cork in 1859. He was ordained in 1885 and in 1904 became Bishop of Killaloe, holding this office until his death in 1955. John Francis Hogan, born in County Clare, was a priest, author and President of St Patrick&#39;s College, Maynooth. Fogarty is writing to Hogan in connection with W.Ryan&#39;s ordination. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>St Patrick&#39;s College, Maynooth</repository>
+                  <collection>John F. Hogan Papers, 21/19/38</collection>
+                  <idno>https://letters1916.ie/item/2330</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1434">Michael Fogarty</persName>
+              <date>1916-04-21</date>
+              <placeName key="#letters1916_place-1367">Ennis, County Clare, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John Francis Hogan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1955</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2330_img_1778_1"  type="Letter"  url="80561fd84234aa59df57413b5c733b1f.jpg"/>
+      <graphic xml:id="L1916_2330_img_1778_2"  type="Letter"  url="fdd7d0f86b15a7725f4bcd3738a37e52.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2330_img_1778_1"/>
+             19/38   Ennis.    21.4.16    My dear Monsignor,   A whole lot of my<lb/>priests have got knocked<lb/>out of action by sickness<lb/>so I must ordain. W.<lb/>Ryan. 4<hi rend="underline"><hi rend="superscript">th</hi></hi><seg type="unclear">Divine</seg> and<lb/>I hope you will let him<lb/>be ready to be ordained<lb/>here on Sunday<lb/>30<hi rend="superscript">th</hi> april — next 
+            <pb n="2" facs="L1916_2330_img_1778_2"/>
+             Sunday week - &amp; let<lb/>me know if you please<lb/>if that will be all<lb/>right.<lb/>I am sorry to hear<lb/>the accounting which reach<lb/>me about Fr. Valen?<lb/>Donovan's health are<lb/>of the more<lb/>alarming character  <lb/>His heart and liver are in<lb/>a bad way and his whole<lb/>body <seg type="unclear">dropsica </seg> I and<lb/>the doctors in<lb/>attendance are rather<lb/>despondent about<lb/>his care,<lb/> With good wishes,<lb/>Yours sincerely,<lb/>M. Fogarty  
+         </ab>
+      </body>
+   </text>
+</TEI>

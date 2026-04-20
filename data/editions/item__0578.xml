@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0578">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Fitzpatrick, 9 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Fitzpatrick</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from John Fitzpatrick, a blacksmith. In the letter, Fitzpatrick claims to have left his watch for repair at the Pillar House on Sackville Street before the outbreak of the Easter Rising. The watch having been lost during the Easter Rising, Fitzpatrick states that he is seeking compensation for the loss. In the letter Fitzpatrick describes himself as a &#39;poor man&#39; who cannot afford the loss of the watch. He outlines the cost of the watch and states that he was advised by the Pillar House to make this claim.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5620/13656</collection>
+                  <idno>https://letters1916.ie/item/578</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0803">John Fitzpatrick</persName>
+              <date>1916-08-09T00:00:00</date>
+              <placeName key="#letters1916_place-0332">17 Londonbridge Road, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0578_img_1978_1"  type="Letter"  url="72b8fb18867f3480e6847b89178876eb.jpg"/>
+      <graphic xml:id="L1916_0578_img_1978_2"  type="Letter"  url="b91cf0608085593b1f81802e8ef44775.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0578_img_1978_1"/>
+                N <hi rend="superscript">o</hi> 17 London   Bridge Rd  Dublin    Dear Sir   Just a line to let you <lb/>know I left a watch at the <lb/>Pillar house to be repaired <lb/>a while before the rebellion <lb/>and its gone through same <lb/>and I am making an application <lb/>for compensation for it <lb/>I am a poor man and cant <lb/>afford to be at the loss of it <lb/>it cost from  Â£ 3.10  s  to 5  Â£  when <lb/>new it was a <seg type="unclear">siles'</seg> lever double <lb/>cased watch and was very  
+            <pb n="2" facs="L1916_0578_img_1978_2"/>
+              valuable <lb/>to me so I hope Dear <lb/>sir you will consider my <lb/>application you know sir <lb/>I called for my watch to <lb/>the Pillar house and they <lb/>told me to put my application <lb/>in for the loss of it <lb/>hoping Dear sir my application <lb/>will find your kind <lb/>attention  <seg type="closer"> I remain yours <lb/>Sincerely   John Fitzpatrick <lb/>Blacksmith  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

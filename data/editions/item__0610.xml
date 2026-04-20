@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0610">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Matthew Nathan to the Treasury, 3 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Matthew Nathan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Sir Matthew Nathan (1862-1939), the under-secretary for Ireland, to the Treasury. Nathan served as under-secretary for Ireland from 1914 to 1916. In 1916 Nathan, and his chief secretary Augustine Birrell (1850-1933), each offered their resignations in the aftermath of the Easter Rising.This letter concerns the collapse of a wall which stood as a boundary between the North Circular Laundry and Mountjoy Prison. The Laundry had claimed that the prison authorities were responsible for the collapse of the wall as they had allowed a heavy growth of ivy on the prison side. Although the prison Board has denied liability Nathan proposes the sanctioning of a payment of not more than £50 towards the construction of a new wall.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3719a</collection>
+                  <idno>https://letters1916.ie/item/610</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date>1916-03-03T00:00:00</date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-0554">London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0610_img_2026_1"  type="Letter"  url="53b1a5a11837ccabe2b8608c587379a0.jpg"/>
+      <graphic xml:id="L1916_0610_img_2026_2"  type="Letter"  url="c81085701b2a783571347e0cdbf03aac.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0610_img_2026_1"/>
+              <hi rend="underline">Copy</hi>   3719   3rd March, 1916.   Sir,   I am directed by the Lord Lieutenant to state for the <lb/>information of the Lords Commissioners of His Majesty's <lb/>Treasury that during a storm in Dublin on the night of the <lb/>12th November last a portion of the wall, 15 feet high,formâ <lb/>ing the boundary between the grounds attached to the Medical <lb/>Officer's quarters at Mountjoy Prison and those of the North <lb/>Circular Laundry Company was entirely blown down for a length <lb/>of 24 yards.   The Laundry Company have preferred a claim against the <lb/>General Prisons Board for a contribution towards the cost <lb/>of rebuilding the portion of the wall blown down alleging <lb/>that the damage was caused in some measure by the growth of <lb/>ivy on the prison side of the wall.   The Board report that the deeds in their possession <lb/>show quite clearly that the wall in question was in existence <lb/>when the prison was built and in this connection I enclose <lb/>for Their Lordships information a copy of a report made to <lb/>the Board by Mr Abraham, Clerk of Works, together with a <lb/>map showing the position of the wall in question. The Board <lb/>presume, however, that the Company are under no obligation <lb/>to build a high wall such as that which was blown down or <lb/>any wall at all; and should the Company not do so the Board <lb/>would have to build an entirely new wall the cost of which <lb/>at <lb/>The Secretary, <lb/>Treasury, <lb/>London, S.W.  
+            <pb n="2" facs="L1916_0610_img_2026_2"/>
+              at the present price of materials might amount to nearly <lb/>Â£100.   His Excellency is advised that the Prison Authorities <lb/>are not liable for the fall of the wall, but that the Board's <lb/> view of the situation as stated above is accurate; and in <lb/>circumstances I am to recommend Their Lordships to <lb/>sanction a contribution of not more than Â£50 from the Vote <lb/>for Prisons, Ireland, towards the construction of a new wall.  <seg type="closer"> I am, <lb/>Sir, <lb/>Your obedient Servant,   (Sd) Matthew Nathan </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

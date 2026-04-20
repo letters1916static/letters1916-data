@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2356">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from S.C Harrison to Sir Matthew Nathan, 5 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>S.C. Harrison</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from S.C. Harrison to Sir Matthew Nathan. Sir Matthew Nathan (1862-1939). was  the under-secretary to the Chief Crown Secretary of Ireland Augustine Birrell (1850-1933). Nathan was under-secretary until the 1916 Rising after which he offered his resignation. 
+
+Harrison is writing to Nathan about the making of linen in Belfast and how there are women employed in the making of linen.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI CSO RP KB, 1916/7443/24</collection>
+                  <idno>https://letters1916.ie/item/2356</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0115">S.C. Harrison</persName>
+              <date>1916-03-05</date>
+              <placeName key="#letters1916_place-1390">36, Upper Fitzwilliam Street, Dublin, County Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName >None</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2356_img_1802_1"  type="Letter"  url="c99337646ca89986a7f2ea6ff73e9945.jpg"/>
+      <graphic xml:id="L1916_2356_img_1802_2"  type="Letter"  url="ae004271138eae5702dc1afb14d10292.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2356_img_1802_1"/>
+             36, Upper Fitzwilliam Street    5<hi rend="superscript">th March, 1916.</hi>   Dear Sir Matthew    I shall be glad to know <lb/> if you have investigated my statements <lb/> as to the conditions of employment in the <lb/> linen factories &amp; mills in Belfast yet? <lb/> The time is getting on, while these poor <lb/> women slave for 6/2.5 a week I <lb/> hear their well off sisters are being given <lb/> the munition work at 16/- -I have not <lb/> had the opportunity of checking this fact <lb/> figure - But I was shocked <lb/> to hear that the direction of munition <lb/> work in Belfast has been handed over <lb/> to W Alexander M<hi rend="superscript">c</hi>Dowell officially, - <lb/> the representative of the employers in the <lb/> linen trade - without anyone to represent
+            <pb n="2" facs="L1916_2356_img_1802_2"/>
+            labour associated with him. This -<lb/> ought not to be -    If you would just invited my <lb/> official informants,- Miss M Galway <lb/> Avenue Hall, Garfield Street,<lb/> W Wm. M<hi rend="superscript">c</hi>Dowell, 11 Dover Street <lb/> Shankill Road, <lb/> &amp; Mr D. Gordon, Engineer's Hall College <lb/> Street Belfast, to come &amp; give you <lb/> their evidence, you would soon find <lb/> what cruel injustice is being worked <lb/> by the foot- putting such powers into <lb/> the hands of those interested in keeping <lb/> down women's wages . There is no <lb/> other explanation of such a measure as <lb/> introducing well off women into factory <lb/> life in Belfast now where so large a <lb/> number of women are on short time &amp; <lb/> earning pitifully insufficient wages if the <lb/> prices were normal, but starvation wages with <lb/> high war prices -    Yours Sincerely  <hi rend="underline">S. C. Harrison</hi>
+         </ab>
+      </body>
+   </text>
+</TEI>

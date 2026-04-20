@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0695">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Paddy Holahan to Fr Albert, Church Street, 10 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Paddy Holahan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Paddy Holahan was interned in Frongoch following his involvement in the fighting in the Four Courts area. He writes this letter to Fr Albert, a Capuchin priest based in Church Street. Holahan describes the difficulty in receiving &#39;the Sacraments&#39; in Frongoch prison as they have only one priest. Holahan also mentions Fr Albert&#39;s presence at Seán Heuston&#39;s (1891-1916) execution, writing that it is &#39;delightful to see our leaders converted to the Catholic faith.&#39;The Capuchin priests were very involved with na Fianna Éireann and Irish Volunteers before, during and after 1916. They cared for the wounded and administered the last rights to the leaders of the Rising in Kilmainham jail during Easter Week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Capuchin Provincial Archives</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/695</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0918">Paddy Holahan</persName>
+              <date>1916-07-10</date>
+              <placeName key="#letters1916_place-1430">Frongoch</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Reverend Father Albert</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1380">Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0695_img_2187_1"  type="NULL"  url="7604372dba74dfa41698af3d1fc46ebb.jpg"/>
+      <graphic xml:id="L1916_0695_img_2187_2"  type="NULL"  url="f4ddb1905a04cf87ac02912e924df666.jpg"/>
+      <graphic xml:id="L1916_0695_img_2187_3"  type="NULL"  url="20b5cb7cfae091fc08f02bf14790a223.jpg"/>
+      <graphic xml:id="L1916_0695_img_2187_4"  type="NULL"  url="0eb9a435e58ba5496168472ee155e89e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0695_img_2187_1"/>
+                Patrick Holahan 975 Irish Prisoner  <seg type="unclear">Hut</seg> 2 Upper Camp Frongoch  Bala  North Wales    19 July 1916   Dear Father Albert,   I have just got this<lb/> small piece of paper and I am using it for to<lb/> thank you for not <sic>forgeting</sic> me. All the Boys<lb/> that you know are all here now with the<lb/> exception of Liam <seg type="unclear">Stanes</seg> and Rennie Neary<lb/> who are in the lower camp. We are all in the<lb/> best of health and spirits and all hope<lb/> to be soon home again in Dear old Dublin.<lb/> Dear Father it is not so handy getting<lb/> to the sacraments here as it was in<lb/> the prison as we only have one priest<lb/> and he can only hear our confession on  
+            <pb n="2" facs="L1916_0695_img_2187_2"/>
+              Sunday and then we have to wait till<lb/> the following Sunday. Will you please<lb/> call on my mother and see that she<lb/> is alright as I got a letter saying that<lb/> she was sick and you know that the<lb/> brother and I are her only support.  I was glad to hear that you were with<lb/> Heuston when he died as I was very<lb/> fond of him. It is <sic>delightfull</sic> to see<lb/> all our leaders being converted to the<lb/> catholic faith. We say the rosary every<lb/> night in our huts in Irish and we also<lb/> say the litany.  Good Bye for the present. <seg type="closer"> I Remain,<lb/> your <sic>obed</sic> servant  Patrick Holahan </seg> 
+            <pb n="3" facs="L1916_0695_img_2187_3"/>
+                Rev. Father Albert  Franciscan Capuchin Friary  Church Street  Dublin    
+            <pb n="4" facs="L1916_0695_img_2187_4"/>
+              OPENED BY<lb/> CENSOR.  
+         </ab>
+      </body>
+   </text>
+</TEI>

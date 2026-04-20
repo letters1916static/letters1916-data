@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0379">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Brown to Sir Matthew Nathan, 22 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Brown</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Robert Brown to Matthew Nathan requesting compensation for attending the trail of Henry McCambley. Brown was required to attend the hearing as a witness in Belfast. The letter discusses the money Brown lost in both his travel to Belfast and time of work, stating he has not been compensated the amount he owed.Robert Brown worked as the assistant manager at the National Marginal Company in Leith, Scotland.Sir Matthew Nathan (1862-1939) served as the under secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5613/7279/1</collection>
+                  <idno>https://letters1916.ie/item/379</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1431">Robert Brown</persName>
+              <date>1916-04-22</date>
+              <placeName key="#letters1916_place-0960">Leith, Edinburgh, Scotland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0379_img_1629_1"  type="Letter"  url="b769c8183f1cd85ba0c40351d9e69222.jpg"/>
+      <graphic xml:id="L1916_0379_img_1629_2"  type="Letter"  url="ef2a80b07e514d13fd622bcf84f7c1b6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0379_img_1629_1"/>
+                10, QUALITY STREET  LEITH    22nd April 1916    To The Under Secretary,  Dublin Castle,   DUBLIN.    Dear Sir,   I am in receipt of your favour of 18th. inst no.6825. I <lb/> cannot understand your letter. Please say to which journey you are <lb/> referring. I thought I had made it clear to you that I was requested <lb/> to proceed to Belfast on 8th.Oct. to give information to the Bel <lb/>-fast Police Officials regarding alleged frauds by McCambley. It <lb/>was in connection with this journey that I lost valuable time <lb/> through being absent from by work and was thus deprived of my <lb/> earnings for the time lost. Not one penny piece has been offered to <lb/> me or paid to me in connection with this journey to Belfast ex <lb/>-cept the actual sum I paid out of my pocket to take me to Belfast <lb/> and back, and I had to wait over five months before I <seg type="del">even</seg> was able <lb/> to obtain the actual amount paid out of my pocket in responding to <lb/> the request of the Police. You must be under some misapprehension <lb/> as to the circumstances when you state I have been paid the maxi <lb/>-mum rate authorised by the Lords Commissioners of His Majesty's  
+            <pb n="2" facs="L1916_0379_img_1629_2"/>
+              Treasury. I wish to <sic>emphathise</sic> the fact that I have been paid noth <lb/>-ing at all with regard to the rate authorised to which you refer. <lb/> I shall be glad if you will now make enquiry into the matter and <lb/> remit to me the amount authorised by the Lords Commissioners of <lb/> His Majesty's Treasury. <seg type="closer"> I am, <lb/>Yours faithfully,  Rob Brown <lb/>Assistant Manager</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1008">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Florence Salked to Hanna Sheehy Skeffington, 31 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Florence Salkeld</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Florence Salkeld to Hanna Sheehy Skeffington (1877-1946). Salkeld writes that she likely will not be able to recite at Skeffington&#39;s upcoming concert, because she never publicly recites and also because her only current recitation is completely in Irish. If Skeffington is short singers, Salkeld writes that she may be able to recite her Irish song. Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the widow of Francis Sheehy-Skeffington (who was summarily executed on 26 April 1916). She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47;, MS 33,604/15-20</collection>
+                  <idno>https://letters1916.ie/item/1008</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0492">Florence Salkeld</persName>
+              <date>1916-01-31</date>
+              <placeName key="#letters1916_place-0504">Riversdale, Templeogue, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1008_img_2854_1"  type="Letter"  url="18ac30a1dc950df7363b348983c61dcf.jpg"/>
+      <graphic xml:id="L1916_1008_img_2854_2"  type="Letter"  url="c903d0c9cf106e6f3e94c50ab5cb72d5.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1008_img_2854_1"/>
+                <hi rend="underline">31.1.16</hi>    Riversdale,  Templeogue.   Dear M <hi rend="superscript">rs</hi> Sheehy Skeffington    I have been so worried <lb/>&amp; busy nursing my sister who <lb/>was frightfully ill with Pneuâ <lb/>monia, &amp; my father who is <lb/>still very ill, also I s<hi rend="superscript">hd</hi><lb/>not have left your letter so long <lb/>unanswered.   I <hi rend="underline">never</hi> recite &amp; I have only <lb/>one Recitation in the world &amp; <lb/>it's lengthy &amp; <hi rend="underline">in Irish</hi> so it <lb/>would only be suitable at a purely <lb/>Gaelic speaking assemblage.   If you areshort of singers, <lb/>I w<hi rend="superscript">d</hi> sing for you with pleasure: <lb/> w<hi rend="superscript">d</hi> a French song do? As I  
+            <pb n="2" facs="L1916_1008_img_2854_2"/>
+              am studying with a <lb/>French man, I have only <lb/>French songs at present <lb/>&amp; my Repertory of Irish <lb/>Folk songs requires reâ <lb/>plenishing.   With renewed <seg type="unclear">apologies</seg> <seg type="closer"> Yours sincerely  <hi rend="underline">Florence Salked</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

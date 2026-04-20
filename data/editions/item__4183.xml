@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4183">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Carey to John Quinnell, 22 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Clerk of Union and Council, Killarney Poor Law Board of Guardians</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Patrick Carey to John Quinnell </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry Library, Tralee</repository>
+                  <collection>Killarney Poor Law Board of Guardians BG104/B/4</collection>
+                  <idno>https://letters1916.ie/item/4183</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0073">Clerk of Union and Council, Killarney Poor Law Board of Guardians</persName>
+              <date>1915-12-22</date>
+              <placeName key="#letters1916_place-0668">Killarney, County Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">J.B. Quinnell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2036">Tralee, County Kerry, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4183_img_3556_1"  type="Letter"  url="483a3d8c6dc40a07c6ff3b5190fa0174.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4183_img_3556_1"/>
+             22nd December 1915,   Dear Sir,   At a meeting of the Guardians on the 18th Inst. Mr <lb/>James J Coffey inquired how many insertions of <lb/>advertisements were given to the Newspapers; and in the <lb/>course of the discussion Mr John Murphy stated that I <lb/>forwarded his Paying Orders to Mr Quinnell. As Mr Murphy's <lb/>tender  only  has been accepted for the advertising of the <lb/>business of the Union and Council in certain papers I <lb/>shall send the advertisements to him in future and the <lb/>Paying Orders will be drawn in his favour and sent direct <lb/>to him. The Paying Orders hitherto, so far as advertising <lb/>in the Killarney Echo, were drawn in his favour.   Yours faithfully,  <lb/>Clerk of Union &amp; Council.  JB Quinnell Esq <lb/>E Harrington Esq <lb/>Tralee. 
+         </ab>
+      </body>
+   </text>
+</TEI>

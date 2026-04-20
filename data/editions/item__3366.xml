@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3366">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward Marsh to the Nicolas Lamb, 8 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>E. Marsh</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Edward Marsh to the Nicolas Lamb, 8 July 1916. Marsh writes on behalf of Prime Minister H. H. Asquith to acknowledge the receipt of a letter from Lamb.
+
+Edward Marsh (1872–1953) was the Assistant Private Secretary to Prime Minister H. H. Asquith. He later had a long association with Winston Churchill and was knighted in 1937. 
+
+Nicolas Lamb (b. 1861) was the Town Clerk of Longford and sat on the Longford Urban District Council. The Longford Urban District Council was the towns local authority and was renamed the Longford Town Council in 2002.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Longford County Archives Service</repository>
+                  <collection>LUDC-1-3-1916-8-8</collection>
+                  <idno>https://letters1916.ie/item/3366</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1505">E. Marsh</persName>
+              <date>1916-07-08</date>
+              <placeName key="#letters1916_place-0365">10 Downing Street, Whitehall, S.W., London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Nicholas Lamb</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0823">Longford Urban District Council, Longford, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3366_img_2777_1"  type="Letter"  url="d697413214dcd67969015fcf8c2f720a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3366_img_2777_1"/>
+             10 Downing St. <lb/>Whitehall S.W   8 July 1916   Dear Sir   The Prime Minister desires me <lb/>to acknowledge receipt of your letter of the <lb/>5<hi rend="superscript">th</hi> inst and of the enclosed resolution   E. Marsh   Nicholas Lamb 
+         </ab>
+      </body>
+   </text>
+</TEI>

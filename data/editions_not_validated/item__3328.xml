@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3328">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from W. Rowan to Sir Robert Chalmers, 4 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>W. Rowan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-5616-11427</collection>
+                  <idno>https://letters1916.ie/item/3328</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1533">W. Rowan</persName>
+              <date>1916-07-04</date>
+              <placeName key="#letters1916_place-1833">Tralee Prison, Tralee, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Law and Judiciary</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3328_img_2741_1"  type="Letter"  url="49ad6241632862a226d35de588b72b5d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3328_img_2741_1"/>
+             HM Prison—<seg type="unclear">Halel</seg>  <lb/> July 4th 1916   Sir   I beg to report for the information of the <lb/>Lords Justices that the Discipline of this <lb/>prison has been well maintained by the <lb/>Governor during the past year, only in <lb/>one case was it necessary to call in the <lb/>interference of the Justices which was a <lb/>case of a violent conduct twain an Officer <lb/>of the prison—only <seg type="del">in</seg>13 other cases <lb/>did the Governor find it necessary to <lb/>inflict punishment. 63 prisoners <lb/>have been committed to this Prison <lb/>under martial law.   The garden continues to be <lb/>cultivated with the usual satisfactory results.   The health of the Prisoners has been <lb/>good and the Premises kept in <lb/>excellant order.   I am Sir <lb/>Your obedient Servnt  <lb/>Wm Rowan Lt Col  <seg type="unclear">Chairman Visiting Justices</seg></signed?   To The <lb/>Undersecretary <lb/>The Castle <lb/>Dublin    under Secretary <lb/>Seen and <lb/>returned <lb/>  <lb/>Chairman  7. 7. 16.    <seg type="unclear">I. Donell. 6/7</seg> <seg type="unclear">6/7</seg>  EOF   7.<seg type="unclear">7</seg>. 16.    I Ack <lb/>II G.B.P <lb/>  <lb/> EOF  <lb/> 5.7.16  
+         </ab>
+      </body>
+   </text>
+</TEI>

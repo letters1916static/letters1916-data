@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2984">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Pearse, 4 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Henry Pearse</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was sent by Patrick Henry (1879-1916), a writer and school headmaster at St Enda&#39;s College. In this letter Pearse iencloses a receipt for £25, adding that  Desmond and Fintan are both getting on very well at the College. 
+
+A key member of the military council of the IRB who planned the Easter Rising, Pearse was one of the signatories of the proclamation of the Irish republic (largely his own writing), which he read outside the GPO after the outbreak of the Rising. As president of the provisional government Pearse called for the surrender and was executed on 3 May 1916. Pearse&#39;s mother, Margaret Pearse (1857-1932) kept St Enda&#39;s, open after his death and was later elected a TD.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Military Archives of Ireland, Br Allen Collection, Pearse Collection; IE/AL/PC/9/30</collection>
+                  <idno>https://letters1916.ie/item/2984</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0291">Patrick Henry Pearse</persName>
+              <date>1916-03-04</date>
+              <placeName key="#letters1916_place-0713">St. Enda&#39;s College, Rathfarnham, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1916</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2984_img_2388_1"  type="Letter"  url="f02c07565e449cab1d444756e7428cb3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2984_img_2388_1"/>
+             <seg type="foreign">Scoil Eanna, <lb/>Rat Fearnain</seg>    ST. ENDA'S COLLEGE, <lb/>RATHFARNAM.   7<hi rend="superscript">th</hi> Mar. 1916.   <seg type="foreign">A Cara Croise,</seg>   I am very much obliged to you for <lb/>p.o.o. £25, for which I have pleasure in <lb/>enclosing receipt.   The two boys are very well. Desmond <lb/> is giving great satisfaction in his <lb/>school work, and Fintan is regular <lb/> and punctual in going in to his <lb/> university classes. Indeed, we are all <lb/> as busy as can be.   With kindest regards to you <lb/>and Mrs Murphy.   Sincerely yours   <lb/><hi rend="underline">P.H.Pearse.</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

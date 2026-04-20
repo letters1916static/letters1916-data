@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4187">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Drawing & Autograph by Noel D Lemass while in Dublin Castle Hospital May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Noel D Lemass</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A drawing and an autograph by Noel D Lemass, May 1916, while a patient in Dublin Castle Hospital. It was drawn in an autograph book belonging to a Nurse Kelly who was working there at that time. The sketch shows a nurse taking a patients temperature and expressing her concerns to a colleague. The caption reads: &#34;This patient&#39;s temperature is 108! What shall I do?&#34; &#34; Put him down (as) a 100. The doctor gets so nervous if it is more.&#34; The sketch is signed:  Noel D Lemass  rebel  Dublin Castle Hospital May 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Private Collection</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/4187</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1101">Noel D Lemass</persName>
+              <date>1916-05</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Nurse Kelly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1923</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4187_img_356_1"  type="NULL"  url="254cbfa8638a633cbfb230dcdd763fd4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4187_img_356_1"/>
+             Noel D.Lemass, Rebel, Dublin Castle Hospital, May '16   "This patient's temperature is 105! What shall I do?" "Put him down 100! The doctor gets so nervous if it's more" 
+         </ab>
+      </body>
+   </text>
+</TEI>

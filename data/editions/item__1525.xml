@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1525">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mrs E.N. Gilbert to Madeleine, c. June 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>E.N. Gilbert</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>An acquaintance of the writer&#39;s brother, anonymous and unknown to Madeleine, upon hearing of the death of &#39;The&#39; O&#39;Rahilly, sends a cheque, asking that a draft for the same amount be sent to Mrs. O&#39;Rahilly - the donor only wanting to be identified as &#39;a sympathiser&#39;.Michael Joseph O&#39;Rahilly, self-described as &#39;The&#39; O&#39;Rahilly, (1875-1916) was involved in the procurement of arms in the lead-up to the Rising and was involved in the Howth gun-running incident. He fought in the G.P.O. During the Rising and was shot in Parnell/Moore Street on 28 April 1916 and died some time later. Nancy O&#39;Rahilly (1875-1961), his wife, was a member of the Provisional Council of Cumann na mBan at the founding in 1914. Nancy was pregnant at the time of her husband&#39;s death – the child was born three months later.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Humphreys Papers, P106/120/34</collection>
+                  <idno>https://letters1916.ie/item/1525</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0530">E.N. Gilbert</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0226">823 N. 20th Street, Philadelphia, United States of America.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Madeleine</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1525_img_986_1"  type="Letter"  url="2a59a9d43840bf0ceecf8ac6f78148eb.jpg"/>
+      <graphic xml:id="L1916_1525_img_986_2"  type="Letter"  url="b01dfe5f07414465f03c479212da7da3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1525_img_986_1"/>
+                525-N.20th St  Phila,   Dear Madeleine,   An acquaintance of <lb/> my brother's, hearing of poor O' Rahilly's <lb/> death, has written expressing his <lb/> regrets. He had heard of O' R. in convntion <seg type="del">ect</seg><lb/> with Lady Aberdeen and was much <lb/> interested in him. He encloses a cheque for <lb/> 26 <hi rend="superscript">-</hi> asking Dr to get a draft for that amount, <lb/> and send it to Mrs. O'R from 'A <lb/> Sympathizer', no name to be mentioned. <lb/> Dr wrote at once saying that he knew <lb/> nothing of Mrs. O'R's affairs and did we <lb/>  
+            <pb n="2" facs="L1916_1525_img_986_2"/>
+              know whether the cheque would be <lb/> acceptable or accepted, and suggested <lb/> keeping the <seg type="del">t</seg> cheque until he could consult <lb/> with you what you thought best to <lb/> do. Will you advice with <seg type="del">your</seg> family <lb/> and tell what you'd like done. I assure <lb/> you that it is from a <hi rend="underline">person you do</hi><lb/><hi rend="underline">not know</hi>, probably never saw, and <lb/> of course was sent absolutely from the <lb/> man's own initiative. Love to the <lb/> dear little boys, and love and never <lb/> ceasing prayers for all my dear ones there  <seg type="closer"> E.N.G </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

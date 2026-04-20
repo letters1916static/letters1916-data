@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0834">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Messrs. Gaffney &amp; Co. to Rebel Scollan, 25 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Messrs. Gaffney &amp;amp; Co.</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This brief note is an invitation to supper, sent internally within Frongoch Prison. The senders of the letter describe themselves as &#39;Messrs. Gaffney &amp;amp; Co.&#39;, and instruct Scollan to bring his plate, mug and cutlery; the dress code is &#39;optional&#39;. A different hand, written in blue ink in December 1950, has identified Rebel Scollan as John J. Scollan.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, IE/AL/1916/79/1</collection>
+                  <idno>https://letters1916.ie/item/834</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1258">Messrs. Gaffney &amp;amp; Co.</persName>
+              <date>1916-08-25</date>
+              <placeName key="#letters1916_place-0006">Gaffney&#39;s Doss, Room III, Frongoch Prison, Wales</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John J. Scollan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0112">Frongoch Prison, Wales</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0834_img_2385_1"  type="Letter"  url="cd82b25fcd92da21501c519be7afe6b8.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0834_img_2385_1"/>
+                Gaffneys Doss,  Room III. Frongoch    Sunday 25/8/16    Messrs Gaffney &amp; Co request the <lb/> pleasure of your company to <lb/> Supper tonight at 8.15 p.m. <lb/> Please bring your plate., mug <lb/> and butter.   <hi rend="underline">Dress â Optional</hi>  <hi rend="underline">To Rebel Scollan</hi>  John J. Scollan <lb/> Comdt. H.R. <lb/> 7-12-50   
+         </ab>
+      </body>
+   </text>
+</TEI>

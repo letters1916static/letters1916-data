@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1259">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from George Noble Plunkett to Geraldine Plunkett Dillon, 18 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>George Noble Plunkett</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Count George Nobel Plunkett (1851-1948) to his daughter Geraldine (b. 1891). The letter was sent from Richmond Barracks where Plunkett was being held at the time. He refers to some good news delivered to Geraldine by a solicitor, requests some money and thanks Geraldine for food she had sent.Count Plunkett has a nationalist and a papal count. He had been sworn in to the IRB by his son, Joseph Mary Plunkett (1887-1916), before the Rising and arrested afterwards. Count Plunkett was elected as an MP in 1918 and a member of the first Dáil.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Geraldine Plunkett Dillon Collection, BMH CD/5/8/6</collection>
+                  <idno>https://letters1916.ie/item/1259</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0116">George Noble Plunkett</persName>
+              <date>1916-05-18</date>
+              <placeName key="#letters1916_place-1516">&#39;Company&#39; Guard Room, Richmond Barracks, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Geraldine Plunkett Dillon</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1697">13 Belgrave Road, Rathfarnham, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1259_img_449_1"  type="Letter"  url="a8b949eba4ee10d8fd83ca8474079016.jpg"/>
+      <graphic xml:id="L1916_1259_img_449_2"  type="Envelope"  url="46a49a7af8994c0c08c9125eb469a516.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1259_img_449_1"/>
+                'Company' Guardroom  Richmond Barracks    18 <hi rend="superscript"><hi rend="underline">th</hi></hi> May 1916    My Dear Gerry,   I suppose <lb/> Mr. Mathews has given you <lb/> the good news â I should say <lb/><seg type="foreign">'Deo gratias'</seg> if I were with <lb/> Mammy. I say <seg type="foreign">'Deo Gratias'</seg><lb/> now!   My money is run out, so <lb/> I'd be glad to get Â£1 in change. <lb/> You've brought me so many <lb/> good things to eat that I should <lb/> be ill if I tried to eat them: and <lb/> now I get hot meals, in plenty.  <seg type="closer"> God bless you all â <hi rend="underline">with all</hi><lb/> my love. Your affectionate   Father </seg> 
+            <pb n="2" facs="L1916_1259_img_449_2"/>
+                Mrs Geraldine Dillon  13 Belgrave Road  Rathmines  Co. Dublin    A.R.L <lb/> 2nd Lt   
+         </ab>
+      </body>
+   </text>
+</TEI>

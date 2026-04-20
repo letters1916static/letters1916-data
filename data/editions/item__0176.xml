@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0176">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to William Edward Thrift, 4 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter sent to Professor William Edward Thrift. In this letter the writer refers to a libelous comments made in a newspaper about members of Catherine&#39;s Parish Church, and notes the involvement of a solicitor. The writer suggests that the measures taken under the Defence of the Realm Act against other newspapers printing seditious material would not be suitable in this case.Thrift (1870-1942) was an academic and politician. He was a fellow of Trinity College Dublin and an Independent TD for Dublin University until the abolition of university representation. In 1922 he announced in the house that he did not apologise for his previous unionism, but recognised that the days of unionism were over, and was fully committed to serving the new political reality. The letter was addressed to Sir Matthew Nathan (1862 - 1939). Nathan was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5561/1</collection>
+                  <idno>https://letters1916.ie/item/176</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-04-04</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0186">William Edward Thrift</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1458">80 Grosvenor Square, Rathmines, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0176_img_1312_1"  type="Letter"  url="5256467a67df15649d2653e2af99f6db.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0176_img_1312_1"/>
+                4th April, 1916.   Dear Sir,   with reference to a letter which you were <lb/> good enough to write on the 29th March on the <lb/> subject of insinuation contained in a newspaper <lb/> against some members and the Rector of Catherines <lb/> Parish Church, I enclose a copy of a communication <lb/> I have this day sent on the same subject to the <lb/> Solicitor to the Rev. E. H. Lewis-Crosby who wrote <lb/> to me officially with regard to it.   I need scarcely tell you that suppression in <lb/> the manner that it has recently been necessary to <lb/> adopt, for reasons connected with the safety of the <lb/> realm, against a certain dangerous paper in Dublin <lb/> would not be a suitable way to deal with a paper <lb/> charged with criminal libel.  <seg type="closer"> Yours faithfully,   Wm. E. Thrift, Esq., F.T.C.D.,  80, Grosvenor Square,  Rathmines,  Dublin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3410">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James (Seamus) Whelan to Annie Whelan, 16 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Whelan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>My Grandfather James (Seamus) Whelan was interned in Frongoch after 1916 Rising until late in 1916. From the time of his arrest he wrote letters to his wife, Annie Whelan (née Firth), who remained at home in Dublin caring for three small children.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Private Collection </repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/3410</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0165">James Whelan</persName>
+              <date>1916-06-16</date>
+              <placeName key="#letters1916_place-0619">Stafford Prison, Staffordshire, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Annie Whelan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1410">17 Upper Ormond Quay, Dublin, Ireland </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1948</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3410_img_2820_1"  type="Letter"  url="eadc530cb18a71d35befa951790b37b7.jpg"/>
+      <graphic xml:id="L1916_3410_img_2820_2"  type="Envelope"  url="d798639b1e7c9b03c550c1224997fdf8.jpg"/>
+      <graphic xml:id="L1916_3410_img_2820_3"  type="Envelope"  url="d01b988f01527689940abee915536fb1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3410_img_2820_1"/>
+             16/6/16   My dearest Annie   Herewith I send you a letter <lb/>one of the Dublin chaps has got from his wife. It <lb/>explains itself &amp; I would ask you to give it to <lb/>Father O'Flanagan or Dr. L. Sherlock or <lb/>indeed in anyway in which you can promptly <lb/>convey it to some of the many committees that are <lb/>keeping those in need. He seems to be a very <lb/>respectable man &amp; it was only by the merest <lb/>chance I found out his case. He is <hi rend="underline">not</hi> a <lb/>Catholic, therefore there must be no <seg type="unclear">negligence</seg>, even <lb/>apparent.   I am still awaiting the <seg type="unclear">collars &amp; fronts</seg> asked <lb/>for , also some more money &amp; butter. <lb/>We had a great visit from Ginnell here, yesterday <lb/>&amp; he made a great speech &amp; the boys carried <lb/>him on their shoulders around the exercise yard. <lb/>John Duffy got Tommy Gay's parcel of books <lb/>&amp; cigarettes from him, but I had not a <lb/>chance of speaking to him.   We are being sent to Wales next week. I <lb/>believe &amp; I will let you know my address <lb/>immediately. They say it is a beautiful <lb/>place — but "there's no place like home," <lb/>especially in <hi rend="underline">holy</hi> Ireland. 
+            <pb n="2" facs="L1916_3410_img_2820_2"/>
+             Mrs. Annie Whelan <lb/>17 upper Ormond Quay, <lb/>Dublin. 
+            <pb n="3" facs="L1916_3410_img_2820_3"/>
+             OPENED BY <lb/>CENSOR. <lb/>561 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5207">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James J. Donaghy to Cornelius Daly, 15 March 1923</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Donaghy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry County Archives</repository>
+                  <collection>Charlie Daly Collection, P41/8/8</collection>
+                  <idno>https://letters1916.ie/item/5207</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1112">James Donaghy</persName>
+              <date>1923-03-15</date>
+              <placeName key="#letters1916_place-1693">Drumboe Castle, Stranorlar, Tirconail, Donegal, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1388">Cornelius Daly </persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Civil War (1922-1923)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5207_img_None_1"  url="d00349b42b242b4baa7067ff0741302f.jpg"/>
+      <graphic xml:id="L1916_5207_img_None_2"  url="be68a09e9633abafd3460c85ace973a9.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5207_img_0_1"/>
+             141/8/8   Drumboe Castle<lb/>Co Donegal    15.3.23    Dear Sir,   I now take in hand the very<lb/>sad task, of compling with Charlie's wishes.<lb/>He wants the family to reconcile themselves<lb/>as far as possible to Gods Holy Will.  He himself (R.I.P) was quite reconciled to<lb/>his fate, and bore it bravely, as he bore<lb/>all disadvantages, during the three years<lb/>I knew him.  It shall comfort you to know the officers<lb/>here done all they could for them.<lb/>They had the attendance of three priests<lb/>during the greater part of the preceding<lb/>night, and in the morning they attended<lb/>Mass, and received Holy Communion. They<lb/>were all quite cheerful, as they knew they<lb/>were going to meet their Maker, and all were<lb/>very well prepared. 
+            <pb n="2" facs="L1916_5207_img_0_2"/>
+             2.  <lb/>Now Mr Daly I know it is beyond my powers of<lb/>comprehension the loss you suffer, but still try<lb/>and do as dear Charlie asked. We must all<lb/>bow to God and His holy Will.  My comrades here, wish me to convey to<lb/>you their heartfelt sorrow at the loss<lb/>of such a fine comrade &amp; chum.<lb/>I might add Charlie always made friends<lb/>no matter where he was, and it continued<lb/>even in captivity. May he rest in Peace   Believe me<lb/>Yours in sorrow<lb/>Jas. J. Donaghy  
+         </ab>
+      </body>
+   </text>
+</TEI>

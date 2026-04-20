@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0452">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J. Simpson to the Chief Crown Solicitor, 20 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J. Simpson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from J. Simpson on behalf of the Assistant Financial Secretary to the War Office, Sir Charles Harris (1864-1943), to Henry Arthur Wynne (1867-1945) requesting the prosecution of Private J. Parnell (10th Royal Dublin Fusiliers) and his sister for false declaration of payments.Henry Arthur Wynne was the chief crown solicitor for Ireland following the death of Malachy Kelly (1850-1916).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, 1916/7263/2/6</collection>
+                  <idno>https://letters1916.ie/item/452</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1115">J. Simpson</persName>
+              <date>1916-04-20</date>
+              <placeName key="#letters1916_place-0372">War Office, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0815">Henry Arthur Wynne</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0452_img_1796_1"  type="Letter"  url="c2a97cdcfcc3b6d0f3f0670d7e6cf86c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0452_img_1796_1"/>
+                War Office,  London S.W.    20<hi rend="superscript">th</hi> April 1916   Sir,   With reference to War Office letter of the <lb/> 20th July 1915, No. 46/690 (Accounts 3.) I am directed <lb/> to transmit the enclosed documents which have been forâ <lb/> warded to this Department by the Board of Customs and <lb/> Excise in connection with a claim for a dependants allowâ <lb/> ance for the <hi rend="underline">sister</hi> of the soldier named in the <lb/> margin, and to request that you will be so good as to take <lb/> the necessary action with a view to the prosecution of the <lb/> soldiers and the <hi rend="underline">dependant</hi> in accordance with instructions <lb/> contained in the letter quoted.  It has been ascertained that the soldier is <lb/>serving <hi rend="underline">at the Royal Barracks Dublin</hi> <seg type="closer"> I am, <lb/> Sir, <lb/> Your obedient Servant,   J. L. <hi rend="underline">Simpson</hi>  for the Assistant Financial Secretary.   The Chief Crown Solicitor,  Dublin Castle.  </seg>  <hi rend="underline">Solicitor General.</hi><lb/>Please advise as to a prosecution in <lb/> this case. The soldier, prior to enlistment, earned from <lb/> his employer 2/4 per week up to the 19 Oct 15 &amp; 5/ subsequently. The <lb/> Declarations of Soldier &amp; Dependant allege 10s paid weekly for support of <lb/> Dependant. It is stated by the latter that the soldier earned money in <lb/> in his spare time in addition.  <lb/>E.O.F. <lb/>22.4.16  <seg type="del"><seg type="unclear">Here is a prima facie lose.</seg></seg>  Regimental No.25745 <lb/> Name Pte J Parnell <lb/> Unit 10<hi rend="superscript"><hi rend="underline">th</hi></hi> Roy Dublin Fusiliers  
+         </ab>
+      </body>
+   </text>
+</TEI>

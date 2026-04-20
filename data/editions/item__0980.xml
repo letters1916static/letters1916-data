@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0980">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Catherine M. Mahon to Hanna Sheehy Skeffington, 29 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Catherine M. Mahon</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Catherine M. Mahon (1869-1948) to Hanna Sheehy Skeffington (1877-1946). Mahon apologises for missing a meeting at which she was supposed to present a speech. In this letter she discusses women&#39;s representation and the &#39;Irish Citizen&#39;, a suffragist newspaper edited by Hanna Sheehy Skeffington. Catherine M. Mahon was a teacher and the president of the Irish National Teachers&#39; Organization, a nationalist, and a supporter of the Gaelic League. She was a vocal supporter of the Easter Rising and wrote letters to the Irish Citizen, a suffragist newspaper, in support of the more radical activities of suffragist organisations like the Irish Women&#39;s Franchise League. Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the widow of Francis Sheehy-Skeffington (who was summarily executed on 26 April 1916). She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47;, MS 33,604/16-6</collection>
+                  <idno>https://letters1916.ie/item/980</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1520">Catherine M. Mahon</persName>
+              <date>1916-02-29</date>
+              <placeName key="#letters1916_place-1033">Birr, King&#39;s Co., Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0980_img_2826_1"  type="Letter"  url="f31c085ea6e608863d27e2bb91c04331.jpg"/>
+      <graphic xml:id="L1916_0980_img_2826_2"  type="Letter"  url="c38c3d39b64ff648bea3e71bd5d9e119.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0980_img_2826_1"/>
+                Carrig N.S.  Birr, King's Co.,    29. 2 . 1916   My dear Mrs. Skeffington,   I am truly mortified <lb/>at having to disappoint tonights meeting. <lb/>I had my speech prepared (copy of which <lb/>I enclose to let you see my attempt â at <lb/>putting the woman's cause in the forefront). <lb/>And at the last moment I got a wire <lb/>from Mansfield saying that the <lb/>Majority of the Committee voted <lb/>against representation at the meeting. <lb/>Some neglected to vote otherwise we had <lb/>enough to outvote the Unionists but <lb/>they neglected the chance of a lifetime.  
+            <pb n="2" facs="L1916_0980_img_2826_2"/>
+              We have an incompetent President, who <lb/>while posing as a Larkinite to suit him <lb/>with one class, poses among us as an <lb/>Imperialist because he has a couple <lb/>of brothers in the Army â one of that <lb/>class of men whose aim is life is 'job' <lb/>hunting but who never succeeds.  And when a President refuses to move <lb/>between Meetings the Committee is <lb/>powerlessâ especially when to me <seg type="unclear">like ones</seg><lb/>Another reason at the back of their <lb/>heads I suspect is fear of offending <lb/>the MPs the Irish Leaders to whom <lb/>they will have to go on future deputations <lb/>(God Save us!) I never felt so mortified <lb/>to see the Citizen losing the chance <lb/>of a lifetime &amp; off I went when they <lb/>voted against they would repudiate me <seg type="closer"> yrs V. Sincerely   C M Mahon </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

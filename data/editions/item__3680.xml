@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3680">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Charles Murray to Royal College of Physicians of Ireland, 6 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Charles Murray</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Charles Murray asking if the Royal College of Physicians of Ireland (RCPI) could possibly send two replacement copies of his diplomas, which he lost while working as a locum. Murray also expresses his regret upon hearing of the death of Dr White and extends his sympathy. 
+
+The letter has been initialled by Ephraim MacDowel Cosgrave (1853-1925). Cosgrave served as president of the Royal College of Physicians of Ireland in 1914 and held the position until 1916. Aside from his dedication to medicine Cosgrave was also a member of the Royal Society of Antiquities of Ireland, treasurer of the Royal Zoological Society of Ireland and a founder and secretary of the Georgian Society of Dublin.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T53</collection>
+                  <idno>https://letters1916.ie/item/3680</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0473">Charles Murray</persName>
+              <date>1915-12-06</date>
+              <placeName key="#letters1916_place-0068">Appleton House, Station Road, Hinckley, Leicestershire</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1499">Ephraim MacDowel Cosgrave</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1963</item>
+               <item n="tag">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3680_img_3073_1"  type="Letter"  url="f99b875212c9cd30c69e816c0a491453.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3680_img_3073_1"/>
+             Reg<hi rend="superscript">d</hi> 1914. July 30 J. <lb/><seg type="unclear">Deisagoland</seg>, <lb/>Virginia, Cavan   Appleton House <lb/>Station Rd <lb/>Hinckley <lb/>Leicistershire   VI/XII/XV   Dear Sir,   I am sorry to be thus forced to trouble <lb/>you. Some months ago in travelling around here <lb/>doing Locum my box in which were my <lb/>diplomas was lost. I have hopelessly failed <lb/>to find it. As I am settling here in a <lb/>practice I shall want a copy if it is <lb/>at all possible to procure some.   As I shall need the copies in two weeks <lb/>time I hope you will please do what you <lb/>can in the matter.   I am sorry to see by "B.M.J" that <lb/>Dear Dr White has passed away. You <lb/>shall miss him so much.   Thanking you in anticipation &amp; again <lb/>apologising for thus troubling you.   I am Dear Sir <lb/>Yours Respectfully   Charles Murray.   MacdC. <lb/>7.I.16 
+         </ab>
+      </body>
+   </text>
+</TEI>

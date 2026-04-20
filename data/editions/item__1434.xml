@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1434">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mabel FitzGerald to the Governor of Richmond Barracks, 11 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mabel FitzGerald</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Mabel FitzGerald to the Governor of Richmond Barracks. Mabel FitzGerald&#39;s husband, Desmond FitzGerald, (1888-1947) had been arrested and detained. She has heard that he is to be moved from Kingstown Police Station to Richmond Barracks and to be tried by Court-Martial. She writes to be advised as to where and when the trial will take place. She enquires about visiting arrangements and wants to arrange for her husband to be allowed order food from a restaurant and to get daily papers. She asks that the distance from her home to the Barracks be taken into account when she is being notified of the trial.Mabel was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1572/1</collection>
+                  <idno>https://letters1916.ie/item/1434</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date>1916-05-11</date>
+              <placeName key="#letters1916_place-0431">Bray, Co.Wicklow, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">The Governor, Richmond Barracks.</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1418">Richmond Barracks, Dublin, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1434_img_854_1"  type="Letter"  url="b6fe9f5c2aab6e5e03e33b39131abf00.jpg"/>
+      <graphic xml:id="L1916_1434_img_854_2"  type="Letter"  url="10b882c61de87c45a7a6f7779a7e7b9a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1434_img_854_1"/>
+                2 Loretto Villas Bray.    11<hi rend="superscript">th</hi> May, 1916   Sir,   I should be very glad to have some information as to <lb/> Prison Regulations in Richmond Barracks.  My husband, Mr Desmond FitzGerald, was brought before <lb/> the Provost Marshall in Kingstown today and is, I hear, to be <sic>take</sic><lb/> to Richmond Barracks tomorrow to be tried before a Court Martial.  I hope that it will be possible to inform me beforehand <lb/> of the place, day and time of his trial: I shall be glad to <lb/> to know if this is done.  And can I or other relatives or friends visit him in <lb/> the Barracks? Please let me know the hours for doing so. It <lb/> is <sic>posible</sic> that his sister will come over from England at the <lb/> week-end specially to see him, I should be specially grateful for <lb/>precise information as to the hours at which he may be visited on <lb/> Saturday and Sunday as her time will be so short.  I hope that you will give Mr. <sic>FitzGerlad</sic> facilities <seg type="del">fr</seg><lb/> for ordering his food from a Restaurant and for ordering daily <lb/> papers if these are <sic>per mitted</sic>, as owing to the distance, I shall be <lb/> unable to see to these matters for him, and that you will permit <lb/> him to write me if he wishes a change of clothing to be sent <lb/> him.  If he is sentenced I presume that I will be permitted <lb/> to see him at least once after it before he is  removed. I shall   
+            <pb n="2" facs="L1916_1434_img_854_2"/>
+              <lb/>be glad if in this case the distance at which I live is taken into <lb/> account and sufficient time given me to keep the appointment.  Hoping that you will see your way to let me have the information <lb/> I desire, <seg type="closer"> I remain, <lb/>Yours truly,   The Governor  Richmond Barracks Prison,  Dublin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

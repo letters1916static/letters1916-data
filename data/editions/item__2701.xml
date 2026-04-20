@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2701">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Emma Duffin to her mother Maria Duffin, 27 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Emma Duffin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is part of a rich correspondence between various members of the Duffin family, a large prosperous family living in Strandtown, Belfast. Several family members served in the war, including Major Terence Duffin, who was a staff officer with 107 Brigade, and later with Royal Irish Rifles; Major Charles G Duffin MC, Royal Field Artillery; and their sisters Emma, Celia and Dorothy who served as Voluntary Aid Detachments (VADS) in Egypt and France, and with the YMCA.
+
+This letter was sent by Emma (1883 - 1979) to her mother Maria (1854 – 1954). Emma was born in Belfast and educated at Cheltenham Ladies College. She served initially in Egypt before being transferred to northern France just before the Battle of the Somme, where she remained to the Armistice in 1918.
+
+In this letter Emma tells her mother of her plans to meet with her sisters Dorothy, Celia and Olive. Before signing off, Emma expresses her sorrow at the death of her aunt Margaret.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Duffin Papers, D2109/10/1/C/33</collection>
+                  <idno>https://letters1916.ie/item/2701</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1134">Emma Duffin</persName>
+              <date>1916-03-27</date>
+              <placeName key="#letters1916_place-0018">Strand Palace Hotel, Strand, London W.C., England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0664">Maria Duffin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1066">Dunowen, Belfast, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2701_img_2121_1"  type="Letter"  url="61e1c98770984f806f81ea729851c98a.jpg"/>
+      <graphic xml:id="L1916_2701_img_2121_2"  type="Letter"  url="1520ca8d608f5926475d60262caf9f74.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2701_img_2121_1"/>
+             STRAND PALACE HOTEL, <lb/>STRAND, <lb/>LONDON,W.C.   March 27/16   My dearest Mamma   I got your wire, I suppose <lb/>you were astonished to get mine, but <lb/>we only were given a few hours notice &amp; <lb/>I saw no advantage in cabling as it would <lb/>only have made you anxious, especially <lb/>as we were not able to give the name of <lb/>the ship. I am arriving home by <lb/>Larne &amp; Stranraer tomorrow, Tuesday.   I wired Olive who came to meet me <lb/> &amp; stayed last night. Dorothy is staying <lb/>with me tonight &amp; Celia is trying to get <lb/>a half day, today as she was only able
+            <pb n="2" facs="L1916_2701_img_2121_2"/>
+            to rush up yesterday for an hour.   I was terribly shocked to hear of dear <lb/>Aunt Margaret's death. I cannot realise <lb/>it yet at all! She was the most <lb/>patient unselfish person I ever met and <lb/>always so good and sweet to me. I <lb/> dread meeting poor Marjorie. She will <lb/>feel so terribly alone.   I won't write more now dearest, it will <lb/> be lovely to see you all again   Best love to Papa   Ever your own   <hi rend="underline">Emma</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0521">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Major W.S. Lennon to Madge Daly, 4 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>W.S. Lennon</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Major W.S. Lennon, commandant of the Detention Barracks, Kilmainham to Madge Daly declining to return the bodies of Edward Daly and Tom Clarke for burial. Madge Daly (1877 - 1969) was the sister of Commandent Edward Daly (1891 - 1916). Daly&#39;s battalion was stationed at the Four Courts during the Easter Rising until ordered to surrender by Pearse on 29 April. Daly was sentenced t death by court martial and was executed by firing squad on 4 May 1916.The letter also refers to the case of Tom Clarke (1858 - 1916) who was married to Daly&#39;s sister Kathleen. Clarke served in the GPO during Easter Week and was sentenced to death for his role in the Rising. He was executed on 3 May 1916 and buried at Arbour Hill prison cemetery.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Museum of Ireland</repository>
+                  <collection>HE, EW.149</collection>
+                  <idno>https://letters1916.ie/item/521</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0710">W.S. Lennon</persName>
+              <date>1916-05-04</date>
+              <placeName key="#letters1916_place-1681">Kilmainham Gaol, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Madge Daly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0521_img_1893_1"  type="Letter"  url="e3f1155832bcfbc9997f6e2230152159.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0521_img_1893_1"/>
+               Madam   Referring to your request <lb/> for the body of the late Edward <lb/> Daly, I am directed to inform you <lb/> that it is regretted that your <lb/> request cannot be granted. <seg type="closer"> W J Lennon <lb/>Army<lb/> Comm<hi rend="superscript">dt</hi></seg><seg type="postscript"> Miss Mary Daly <lb/> This applies also in the case of the <lb/> late T. J. Clarke, (request made by Mrs Clarke ) </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

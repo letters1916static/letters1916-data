@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0166">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Maud Griffith to Anna O'Rahilly, 13 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Maud Griffith</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Maud Griffith, wife of Arthur Griffith (1872-1922), Irish nationalist and leader of Sinn Fein, to Anna O&#39;Rahilly, the sister of Michael Joseph O&#39;Rahilly (1875-1916).Michael &#39;The&#39; O&#39;Rahilly (1875-1916) was a nationalist and a journalist. In 1916 he aligned himself with Eoin MacNeill (1867-1945) and Bulmer Hobson (1883-1969) who opposed a preemptive rising. Although O&#39;Rahilly played a large role in delivering MacNeill&#39;s countermanding order he felt obligated to stand with the men he recruited and trained. O&#39;Rahilly was fatally wounded on Thursday 27 April when the GPO was being evacuated.Arthur Joseph Griffith was a journalist and politician. His newspaper, Sinn Féin was published every day from August 1909 to January 1910. He joined the Volunteers and took part in the Howth gun-running of July 1914.The IRB was closely associated with the Volunteers, and the Sinn Féin party was not. Nonetheless, since the IRB was obliged to act in secret while Griffith&#39;s newspaper and his party were widely known, if not widely supported, the new paramilitary force was often called ‘the Sinn Féin Volunteers’. During Easter week, Griffith brought the countermanding order to Bray. Althouhg he did not participate in the rebellion he was arrested in its aftermath, and on 3 May was interned in Richmond barracks; he was then sent to Reading jail, and remained there until Christmas Eve.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Sighle Humphreys Papers, P106/184/1/1</collection>
+                  <idno>https://letters1916.ie/item/166</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0159">Maud Griffith</persName>
+              <date>1916-09-13</date>
+              <placeName key="#letters1916_place-1652">122 Lawrence Road, Clontarf, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0639">Anna O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0166_img_1300_1"  type="Letter"  url="1b25c1d143515843178d227ef3156e08.jpg"/>
+      <graphic xml:id="L1916_0166_img_1300_2"  type="Letter"  url="77dea23b9fdfe4447f6039465723ee69.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0166_img_1300_1"/>
+                122 St. Lawrence Rd Clontarf    13 Sept. 1916.   Dear Miss O'Rahilly,   Many thanks for cheque <lb/>received yesterday. Hope you <lb/>are feeling the better for the <lb/> change, it was glorious weather. <lb/>I have been to see Arthur, <lb/>he looked fairly well &amp; in good <lb/> spirits, he desired to be remem- <lb/>bered to all friends &amp; he is <lb/>confident of success, but <lb/>I have for certain all in  
+            <pb n="2" facs="L1916_0166_img_1300_2"/>
+              <lb/>Reading are in till the war <lb/>ends, the conditions are <lb/>much better than in Wandsworth. <lb/> With best wishes &amp;grateful <lb/>thanks, hope you'll come <lb/>see me sometime as I am <lb/>very lonely, more so since <lb/> my London visit. <seg type="closer"> Very Sincerely Yours,  Maud Griffith. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

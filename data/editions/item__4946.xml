@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4946">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Charlie Daly to Ellen Daly, 9 November 1921</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Charlie Daly</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Cormac (Charlie Daly) to Mrs Daly, 9 November 1921. Mick Allman visited. Allman has an appointment with the ‘D.E.’ [Department of Education]. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry County Archives</repository>
+                  <collection>Charlie Daly Collection, P41/2/1/3</collection>
+                  <idno>https://letters1916.ie/item/4946</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1307">Charlie Daly</persName>
+              <date>1921-11-09</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1168">Ellen Daly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1923</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4946_img_None_1"  url="e8811ba1af76fe358fa1527bc21625d8.jpg"/>
+      <graphic xml:id="L1916_4946_img_None_2"  url="0153812b703ecf023e915bc4669a5ba0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4946_img_0_1"/>
+             P41/2/1/3   9th Nov '21    <seg type="foreign"></seg>   Got your letter of the 7th last<lb/>night.<lb/>Mick Allman arrived here last<lb/>Sat. night. He took me by surprise<lb/>for even though if he was appointed I<lb/>expected that he would go home<lb/>first. He spent the whole week in<lb/>Dublin &amp; was twice disappointed by<lb/>the D.E. who made appointments<lb/>with him. He was in a fix &amp; did not<lb/>know what to do and happening to<lb/>meet one of my men he came right<lb/>on here with him to see me.<lb/>He left again yesterday to try<lb/>&amp; hunt up the D.E. &amp; will probably<lb/>go home tomorrow for a few days.<lb/>I suppose his people must be wor(ryi)<lb/>ng what has become of him for (he)<lb/>was to go home last week.<lb/>I think that he will be <seg type="unclear"></seg>    
+            <pb n="2" facs="L1916_4946_img_0_2"/>
+             to this place alright.  I expect Free<lb/>will not like it but he can afford<lb/>to do without him better than I can.<lb/>Of course twould be much nicer<lb/>for Mick to be at home.  He<lb/>said that he would call around<lb/>to see ye when at home.  He is<lb/>great sport &amp; has some good<lb/>yarns.  So Jim McCarthy is getting<lb/>married to Mrs Brennan.  Let me<lb/>know when the wedding is so that<lb/>I may send him a note.  I am glad to hear that ye are<lb/>getting the house improved.  I expect<lb/>to find it very snug when I go home.<lb/>This conference is a good deal tougher<lb/>that expected.  After all it looks<lb/>as if they were arriving at a settlement<lb/>We will soon know now, best<lb/>wishes to all<lb/> In haste<lb/>Cormac  
+         </ab>
+      </body>
+   </text>
+</TEI>

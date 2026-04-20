@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0938">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick J. Mallon to Herbet Henry Asquith, 29 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick J. Mallon</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from solicitor Patrick Joseph Mallon (1881-1974) to Herbert Henry Asquith (1852-1928) regarding the vacant clerkship of the Crown and Peace for Westmeath. Mallon is applying to Asquith as the position of lord lieutenant was temporarily vacant in the aftermath of the Easter Rising. Herbert Henry Asquith (1852-1928) was Liberal Prime Minister of the United Kingdom from 1908 to 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916-5616-11468</collection>
+                  <idno>https://letters1916.ie/item/938</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0904">Patrick J. Mallon</persName>
+              <date>1916-06-29</date>
+              <placeName key="#letters1916_place-1007">Coralana, Lismacaffrey, Co. Westmeath, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0582">Herbert Henry Asquith</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0938_img_2742_1"  type="Letter"  url="b18f6ce5ea6cf3b5a314ee71e4681d0f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0938_img_2742_1"/>
+              Irish Office    Coralana, Lissmacaffrey  Co. Westmeath,    29 <hi rend="superscript">th</hi> June 1916    To the Right Hon. H. Asquith. M.P.  Prime Minister   Sir,   I am a candidate for the vacant Clerkship of the <lb/>Crown &amp; Peace for country Westmeath. I practised as <lb/>a Solicitor in that County and also Longford for past <lb/>twelve years. As the appointment rests with the <lb/>Lord Lieutenant who I understand has resigned, <lb/>I put in my application for the position to you. <lb/>I beg to refer you to Mr John P. Hayden. M.P. <lb/>Mullingar Co. Westmeath. for reference. I have <lb/>the honour to remain <seg type="closer"> Sir <lb/>your obedient servant  Patrick. J. Mallon </seg> I ask &amp; state that <lb/>an appointment has been <lb/>made.  
+         </ab>
+      </body>
+   </text>
+</TEI>

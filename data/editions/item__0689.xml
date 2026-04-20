@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0689">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Captain James Davidson to his mother Clara Mary Davidson, 7 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Davidson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from James Davidson (1877-1916) to his mother, Clara. Davidson writes a short note to his mother that he has had unofficial news that his Battalion will be sent to the front line. He asks her to dispatch a bag to him as soon as possible so he has it before he leaves.This letter is part of a large correspondence from Captain James Davidson to his parents. Davidson, who was Managing Director of the Sirocco Engineering Works in Belfast, served with 13 Royal Irish Rifles and the Machine Gun Corps. His letters describe his experiences while training in England and serving in France. He was killed on 1 July 1916, the first day of the Battle of the Somme.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Davidson Family Papers, D364/B/15</collection>
+                  <idno>https://letters1916.ie/item/689</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1196">James Davidson</persName>
+              <date>1915-12-07</date>
+              <placeName key="#letters1916_place-0250">in the Field</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Clara Mary Davidson</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1196">Bangor, Co. Down</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0689_img_2180_1"  type="Letter"  url="2d5e6995f346e92f0477df8c23b850ca.jpg"/>
+      <graphic xml:id="L1916_0689_img_2180_2"  type="Envelope"  url="a03d21bd81b3dec7a16d376da2058572.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0689_img_2180_1"/>
+                7/12/15   My dear mother,   I posted a letter to you today <lb/> but I have since heard unofficially that we <lb/> are not to be here much longer &amp; will be <lb/> leaving for some part of the line at very <lb/> short notice, so this is just a hurried note <lb/> to ask you to hurry Erskine with my green <lb/> canvas kit bag &amp; have it dispatched <lb/> as quickly as possible. I am afraid <lb/> that even as it is, it can hardly be here <lb/> in time for our move, however perhaps we <lb/> may not be off so soon as at present anticipated. <lb/> I suspect we shall go to one of the 'Hot Spots' this <lb/> time at least that seems to be the general <lb/> impression. Of course wherever we are <lb/> things will reach me all right, only if possible <lb/> I would like the bag before we move. <seg type="closer"> In haste your loving son  Jim </seg> 
+            <pb n="2" facs="L1916_0689_img_2180_2"/>
+               On Active Service<lb/> Rced 14<hi rend="superscript">th</hi> Dec/15   Mrs. S. C. Davidson  Seacourt  Bangor  Co. Down  Ireland   JS Davidson   
+         </ab>
+      </body>
+   </text>
+</TEI>

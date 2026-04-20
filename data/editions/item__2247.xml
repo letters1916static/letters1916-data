@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2247">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Hugh de Fellenberg Montgomery to James Stronge, 9 June 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Hugh de Fellenberg Montgomery</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Hugh de Felllenberg Montgomery (1844-1924). He was a landowner and politician. Originally a Liberal and a strong supporter of Gladstone, Montgomery was also a firm Unionist, but by 1916 he believed that Ulster Unionists had no choice but to accept Lloyd George&#39;s proposal for a six-county Northern Ireland.
+The letter was addressed to Sir James Henry Stronge (1849-1928), a barrister and prominent Unionist politician. 
+This letter concerns meetings and advice given by Sir Edward Carson (1854-1935). Carson was a lawyer, politician and the leading figure in Ulster Unionism. He had sanctioned the formation of the paramilitary Ulster Volunteer Force in January 1913 and he helped to found the Ulster provisional government of September 1913. In 1916 he was at the peak of his parliamentary influence and by December was appointed to the first lordship of the admiralty by Lloyd George (1863-1945). </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Montgomery of Blessingborn Papers; D/627/429/25</collection>
+                  <idno>https://letters1916.ie/item/2247</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1402">Hugh de Fellenberg Montgomery</persName>
+              <date>1916-06-09</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">James Henry Stronge</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1924</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2247_img_1690_1"  type="Letter"  url="393cb9bf2429ed8d81fa0f3baf06104f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2247_img_1690_1"/>
+            <lb/>Copy  9th June, 1916.   My dear Stronge,   I am writing to Carson as per enclosed. If you have <lb/>not already <seg type="del">had</seg> done so you should hear from Carson or Craig <lb/>their full reasons for the advice carson gave us. The secret <lb/>reasons are stronger than those stated at the meetings on <lb/>Tuesday. I shall go up by first train on Monday, perhaps <lb/>I shall meet you at Tynan Station.   Yours very truly, 
+         </ab>
+      </body>
+   </text>
+</TEI>

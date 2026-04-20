@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1117">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Finn to May Fay, 30 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Finn</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from James Finn (1987-1922) to May Fay (1879-1922) regarding the wedding presents James has been trying to arrange following their engagement. James also mentions the publicized correspondence between Sir General John Maxwell (1859-1929) and the Bishop of Limerick, Edward Thomas O&#39;Dwyer (1842-1917), regarding the British administration&#39;s handling of the Easter Rising, the executions in particular.James Finn was a civil servant, working in the National Health Service Commission on Mount Street. While neither James nor May were politically active their letters provide a very unique insight into the affairs of Easter Week and its aftermath. James died in 1922 as a result of the flu epidemic, May was pregnant with their fourth child at the time.May Fay became engaged to James Finn in January 1916. Despite the twenty year age gap their letters show a very personal and private insight into courting in early 20th century Ireland. She held on to his letters as her reminder of him. May never remarried and focused her attention instead on her businesses in order to provide for their children.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Finn Family Collection</repository>
+                  <collection>NULL, NULL</collection>
+                  <idno>https://letters1916.ie/item/1117</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0500">James Finn</persName>
+              <date>1916-05-30</date>
+              <placeName key="#letters1916_place-1244">National_Health_Insurance_Commission, Pembroke House, Upper Mount Street, Dublin, Ireland </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0367">May Fay</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1117_img_349_1"  type="NULL"  url="086ef9a6cf99487a0fea3d34efd6cd33.jpg"/>
+      <graphic xml:id="L1916_1117_img_349_2"  type="NULL"  url="cad32717a6fdc7b4da50a7c3cdc5e47f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1117_img_349_1"/>
+                NATIONAL HEALTH INSURANCE COMMISSION (IRELAND),  PEMBROKE HOUSE,  UPPER MOUNT STREET,  DUBLIN.    30th May, 1916.   My dearest May,   I was very much disappointed at not receiving a <lb/>letter today as I was anxious to settle the matter of the <lb/>bangle and brooch also the even more important matter <lb/>of the wedding ring. I was looking at a few specimens of <lb/>the latter at Hopkinâs temporary place yesterday: they have succeeded <lb/>in saving a few from the fire and I rather liked one which <lb/>was rather thick and heavy and generally massive looking. Iâm <lb/>not sure however whether you might not like a ring somewhat <lb/>less imposing and if you do of course your wish is law. <lb/>But I want to know the size anyway and if you havenât <lb/>written to day will you please drop me a line tomorrow <lb/>when you get this. We had Father Willie Moran up to <lb/>see us yesterday and he stayed last night. He had no  
+            <pb n="2" facs="L1916_1117_img_349_2"/>
+              special news although he was full of the Rebellion and the <lb/>incidents of it. There was a very hot correspondence <lb/>published in the Cork Examiner on Saturday last between <lb/>General Sir John Maxwell and Edward Thomas, Bishop <lb/>of Limerick, in which I believe the latter referred to the appeals <lb/>England made for clemency to the Boer Government for <lb/>Jameson at the time of the Jameson Raid and contrasted that <lb/>with the want of clemency shown in Ireland. He referred <lb/>also to the âbloody and fatuousâ policy of Maxwell since <lb/>his arrival in Ireland. I havenât been able to see a copy <lb/>of the Examiner yet: I believe all the copies that could be <lb/>traced were seized by the military. Maybe Jennie would have <lb/>had a copy in Mitchelstown. If so you ought to ask her <lb/>for it as I believe it is worth reading.  Please drop me a line by return as <lb/>I must get ring this week. With warmest love and <lb/>kisses. <seg type="closer"> Your ever loving  <hi rend="underline">James</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0556">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to Philip C. MacDermot, 31 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Unsigned letter to Philip MacDermot (b. 1863), the Crown Solicitor for Roscommon concerning fees which may be due to a Mr Cusack in connection with a case concerning cattle driving off &#39;Mathers land&#39; in Ballinasloe.Philip C. MacDermot was the Crown Solicitor for Co. Roscommon based in Boyle.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-5620-13077-3, NAI-CSO-RP-1916-5620-13077-3</collection>
+                  <idno>https://letters1916.ie/item/556</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-07-31T00:00:00</date>
+              <placeName key="#letters1916_place-1783">Ballinasloe, County Galway, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1081">Philip C. MacDermot</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0885">Boyle, County Roscommon, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0556_img_1941_1"  type="Letter"  url="9c1e3ec9a097ebe35cfb50818b7a21e3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0556_img_1941_1"/>
+              Cattle Driving off Mathers Lands <lb/> Ballinasloe Prosecutions     31st July 1916     Dear Sir,    Yours of 29th instant received and contents noted. <lb/>You need not mark any fee on Mr Cusack's Brief. I will later <lb/>get the Attorney General's directions as to what fees and <lb/> refreshers, if any, are to be paid to Mr Cusack and will inform <lb/>you in due course.  <seg type="closer"> Yours Truly,   P C P MacDermot Esq.,  Crown Solicitor,  Boyle.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

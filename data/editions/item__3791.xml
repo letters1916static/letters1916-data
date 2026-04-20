@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3791">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Michael Cahill to Robert Phelps, 4 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Michael Frederick Cahill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from solicitor Michael Frederick Cahill to Robert Phelps, librarian at the Royal College of Physicians of Ireland, regarding the change of name of Dr Aimai Maneckji Cooper. Following the outbreak of the Easter Rising Cahill is wondering if matters have been sorted in Dublin and is it, therefore, safe to post Dr Cooper&#39;s diploma through the post.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T68-3</collection>
+                  <idno>https://letters1916.ie/item/3791</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1000">Michael Frederick Cahill</persName>
+              <date>1916-05-04</date>
+              <placeName key="#letters1916_place-1478">16 Cleveland Road, Ilford, Essex, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1482">Robert Phelps</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3791_img_3175_1"  type="Letter"  url="15065631f70ebeb29be09f2d9853e03f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3791_img_3175_1"/>
+             M. F. CAHILL, <lb/>SOLICITOR.   16, CLEVELAND ROAD, <lb/>ILFORD, ESSEX.   4. 5.16.   Dear Sir,  <lb/>Miss Aimai Cooper. Change of Name  With reference to your letter to me of the 31 <lb/>March, will you kindly say if matters are now in <lb/>order in Dublin and whether I may safely forward <lb/>you Miss Cooper's diplomas through the post <lb/>together with the declaration etc.   Yours faithfully   M. F. Cahill   R. Phelps Esq <lb/>Librarian R.C.P.I. 
+         </ab>
+      </body>
+   </text>
+</TEI>

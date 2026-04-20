@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3745">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Deborah Webb to Hanna Sheehy Skeffington, 26 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Deborah Webb</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Deborah Webb (b. 1838) writes to Hanna Sheehy Skeffington (1877-1946) to thank her for sending along some important papers. 
+
+Deborah Webb was a member of the Irish Women&#39;s Franchise League and a nationalist. 
+
+Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the founder of the Irish Women’s Franchise League and a founding member of the Irish Women Workers’ Union. She was the widow of Francis Sheehy-Skeffington who was summarily executed on 26 April 1916. She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy-Skeffington Papers, Collection List No. 47; MS 33,604/13-19</collection>
+                  <idno>https://letters1916.ie/item/3745</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0173">Deborah Webb</persName>
+              <date>1915-11-26</date>
+              <placeName key="#letters1916_place-1100">9 Garville Road,Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3745_img_3132_1"  type="Letter"  url="754098f99e7a3f917f1df770c6fe9984.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3745_img_3132_1"/>
+             9 Garville Rd.   26.11.'15   Dear Hanna.   Thanks for <lb/>papers wh. I return. Enclosed please <lb/>find 1/6 for I.C's - 6 that you <lb/>sent me &amp; 12 wh. please give <lb/> . It seems clever to have <lb/>the payment of the bill to you, as I sent <lb/>you the 1/10 <hi rend="superscript">1/2</hi>. I am so sorry to <lb/>give you the trouble. Just when you <lb/>are at the office please. And I <lb/>won't do it again.   Yours always   D.Webb. 
+         </ab>
+      </body>
+   </text>
+</TEI>

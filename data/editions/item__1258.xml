@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1258">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from George Noble Plunkett to Geraldine Plunkett Dillon, 13 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>George Noble Plunkett</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A Letter from Count George Noble Plunkett (1851-1948) to his daughter Geraldine (b. 1891). The letter was sent from Richmond Barracks where Plunkett was being held at the time. He requests food, makes reference to a visit by Geraldine that &#39;lifted his heart&#39; and the &#39;joy&#39; of being clean. He also asks that she communicates with her mother, who had also been arrested.Count Plunkett was a nationalist and a papal count. He had been sworn in to the IRB by his son, Joseph Mary Plunkett (1887-1916), before the Rising and arrested afterwards. Count Plunkett was elected as an MP in 1918 and was elected a member of the first Dáil.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Geraldine Plunkett Dillon Collection, BMH CD/5/8/6</collection>
+                  <idno>https://letters1916.ie/item/1258</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0116">George Noble Plunkett</persName>
+              <date>1916-03-13</date>
+              <placeName key="#letters1916_place-0909">Block F, Richmond Barracks, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Geraldine Plunkett Dillon</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1697">13 Belgrave Road, Rathfarnham, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1258_img_448_1"  type="Letter"  url="f5bc52931a8f4f68c70454cdb3dd86e5.jpg"/>
+      <graphic xml:id="L1916_1258_img_448_2"  type="Envelope"  url="46199cd8dd501fa80d704c629ca8bff0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1258_img_448_1"/>
+                Richmond Barracks  Top Guard Room, Block F    Saturday, 13<hi rend="superscript"><hi rend="underline">th</hi></hi> May 1916   My dear Gerry   Some sandwiches,<lb/> and apples or oranges would be<lb/> a Godsend to me. Also  a small tumbler little mirror,  some matches,  &amp;<lb/> stamps.   God bless you all. You lifted up<lb/> my heart today. <seg type="closer"> With all my love to all, <lb/> Your loving,  Father. </seg> O the luxury of feeling clean!<lb/> (In body as well as spirit.) Perhaps you could now communicate<lb/> with Mammy, even if you could<lb/> not see her yet. I gave the name of Mr. Mathews<lb/> (of Denning's) as my solicitor today.  
+            <pb n="2" facs="L1916_1258_img_448_2"/>
+                Mrs. Geraldine Dillon  13 Belgrave Road  Rathmines  Co. Dublin    C.R.G. Heath<lb/> 2/6 SF  
+         </ab>
+      </body>
+   </text>
+</TEI>

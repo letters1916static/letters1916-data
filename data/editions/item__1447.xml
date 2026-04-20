@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1447">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Louis C.P. Smith to R.J. Newell, 24 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Louis C.P. Smith</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Louis C.P. Smith (1867-1923) the Crown Solicitor of Cavan to R J Newell the secretary to the Local Government Board in Dublin. Smith is writing to Newell to explain the delay in returning the files that Newell requested claiming that due to the cases being several years old the unfortunate fact that Constables have been transferred is delaying his work.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/4061</collection>
+                  <idno>https://letters1916.ie/item/1447</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0183">Louis C.P. Smith</persName>
+              <date>1916-02-24</date>
+              <placeName key="#letters1916_place-1394">Cavan Office, County Cavan, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">R.J.Newell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2013">Local Government Board, Custom House, Dublin, Ireland </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1447_img_872_1"  type="Letter"  url="c8f9140bffde4b53b84ac18f9a289f7e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1447_img_872_1"/>
+              Copy /    Cavan Office    24th day of February, 1916.   Dear Sir,   I am in receipt of yours of the 23rd instant, <lb/>in reference to the Prosecutors and Witnesses Expenses <lb/>in County Cavan. I have already written to the County <lb/>Inspector to get the necessary authority from the <lb/>respective Sergeants and Constables referred to in the <lb/>Certificate  s . I expect to have the information required <lb/>in the course of a few days, immediately I get it I <lb/>will at one forward you the Query Form with Answers.   I am sorry for the delay, but as some of the cases <lb/>are since 1914 and some of the Constables have been <lb/>transferred - others joined the Colours - there is some <lb/>delay in getting the information required by you, other- <lb/>wise I would have replied to you by return of post. You <lb/>may rest assured that I am doing everything possible to <lb/>hurry up the matter and comply with your request.   I expect to have the details so far as I can in a <lb/>few days. I can explain everything myself save the <lb/>Car-hire <seg type="del">by</seg> of  Witnesses paid by the Police.  <seg type="closer"> Yours faithfully,  Louis C. P. Smith. <lb/>R. J. Newell, Esq. <lb/>Auditor,   Local Government Board,  Custom House,  Dublin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0515">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Local Government Board (LGB) to Cecil Pim, 11 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Local Government Board</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from the Local Government Board (LGB) to Cecil Pim of the Greenmount Spinning Company, requesting information on the reasons behind imposing &#39;short time&#39; hours on the employees in a number of Belfast linen mills, and whether it is due to shortage of raw materials or coal. The writer poses these questions to Pim so as to be &#39;prepared to meet demands which may arise for the relief of distress...&#39;</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI, CSORP/1916/7443/14/5</collection>
+                  <idno>https://letters1916.ie/item/515</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0699">Local Government Board</persName>
+              <date>1916-03-11</date>
+              <placeName key="#letters1916_place-1501">Local Government Board, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1170">Cecil Pim</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1010">Greenmount Spinning Company, Harold's Cross, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0515_img_1887_1"  type="Letter"  url="d0834110a377e958a1fc27231ef810a2.jpg"/>
+      <graphic xml:id="L1916_0515_img_1887_2"  type="Letter"  url="12d9b1e4441357411e91f7fcc608fb10.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0515_img_1887_1"/>
+                Local Government Board,   Dublin.    11th March, 1916.   Dear Mr. Pim,   You have been good enough on previous occasions to <lb/> give me the benefit of your knowledge as to the conditions <lb/> prevailing in the linen trade in Belfast and I fell sure that <lb/> you will not object to doing so again. Such information as <lb/> you can give me will of course be confidential.   Some months ago as far as I can ascertain 'short time' <lb/> was imposed upon a number of Belfast Mills owing to the <lb/> difficulty and uncertainty as to the supply of raw materials. <lb/> Am I right in thinking that these difficulties have not been <lb/> so great as was anticipated and that by some means or other <lb/> the spinning and weaving trades are managing to get a <lb/> reasonably good supply of flax and yarn? If this is so at <lb/> the moment I suppose we may reasonably conclude that that <lb/> supply of raw material will somehow or other continue to be <lb/> sufficient to keep the mills going without recourse to short <lb/> time.'   Upon the other hand I hear that there is great <lb/> difficulty experienced in getting sufficient supplies of coal <lb/> in Belfast and that owing to a shortage in coal rather than a <lb/> shortage in material 'short time' prevails and may continue.   I am asking you these questions because as you know <lb/> we have to be prepared to meet demands which may arise for the <lb/> relief of distress as a consequence either of shortage in raw <lb/> material/  
+            <pb n="2" facs="L1916_0515_img_1887_2"/>
+              material, coal or from any other cause. <lb/> With apologies for troubling you again.  <seg type="closer"> Yours very truly,   Cecil Pim, Esq.,  c/o Greenmount Spinning Company,  Harold's Cross,  DUBLIN.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

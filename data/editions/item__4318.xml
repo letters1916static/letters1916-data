@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4318">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from sir William Robert Robertson to Edward Carson, 7 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Robert Robertson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Sir William Robert Robertson (1860-1933) to Edward Carson (1854-1935). Carson was a prominent Unionist Politician. Originally a practicing solicitor from Dublin, Carson&#39;s opposition to the proposed third Home Rule bill made him the figure head of Unionism throughout the island. He was the centerpiece of the speaking tour that culminated in Ulster Day (28 September 1912), when just under half a million signed Ulster&#39;s solemn league and covenant pledging to use ‘all means which may be found necessary to defeat the present conspiracy to set up a home rule parliament in Dublin’. Carson inaugurated the Larne gunrunning in 1914 which armed the UVF, many of whom Carson would encourage to join the British Army throughout the First World War. Robertson, field marshal, served as Chief of the Imperial General Staff (CIGS) from 1916 to 1918 during the First World War. Robertson frequently clashed with David Lloyd-George (1863-1945), the minister for munitions and later Prime Minister over the conduct of the war.  Robertson was the first and only British Army soldier to rise from private soldier to field marshal..</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Carson Papers, D1507/A/17/10</collection>
+                  <idno>https://letters1916.ie/item/4318</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1043">William Robert Robertson</persName>
+              <date>1916-06-07</date>
+              <placeName key="#letters1916_place-0372">War Office, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0539">Edward Carson</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1933</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">Politics</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4318_img_3679_1"  type="Letter"  url="294d01e38f082e859dbb70884b97564f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4318_img_3679_1"/>
+             Dictated   7th June 1916.   Dear Sir Edward,   There is no intention of breaking up the Ulster <lb/>Division and I hope there never will be. I do not think <lb/>there will be. There is some difficulty regarding the <lb/>provision of drafts, and on this question the Adjutant - <lb/>General hopes to see you shortly. I saw the Division <lb/>about a fortnight ago. It was looking very well and as <lb/>might be expected has a very good <seg type="foreign">esprit de corps</seg>.   I am a little anxious just now as you can imagine <lb/>with regard to the successor to Lord Kitchener. The <lb/>selection of a suitable successor is a very important <lb/>matter.   <seg type="unclear">Sir William Robert Robertson</seg>   The Right Hon: <lb/>Sir E. H. Carson. 
+         </ab>
+      </body>
+   </text>
+</TEI>

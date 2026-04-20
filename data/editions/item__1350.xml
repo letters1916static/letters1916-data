@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1350">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Sweetman to Sir John Griffith, 23 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Sweetman</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A request made by John Sweetman (1844-1936) to Sir John Purser Griffith (1848-1938). Sweetman&#39;s request was made on behalf of political activist and editor of &#39;The Irishman&#39;, Herbert Moore Pim (1883-1950). Sweetman had written an article which is due to appear in a forthcoming edition of &#39;The Irishman&#39; in which he mentioned a rumour that Sir John Griffith&#39;s son resigned his position as engineer-in-chief of the Dublin Port and Docks board. He requests that Sir John Griffith contact Pim on the subject.John Sweetman was a member of Sinn Féin and patron to Arthur Griffith. In 1915 he spoke out against conscription and was arrested in the aftermath of the 1916 Rising. Sir John Griffith was the chief engineer at the Dublin Port and Dock Board but took early retirement in 1912. He was knighted in 1911 and later became a member of Seanad Eireann.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sweetman Family Papers, Collection List No. 156, Ms. 47,589 /12</collection>
+                  <idno>https://letters1916.ie/item/1350</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0883">John Sweetman</persName>
+              <date>1916-10-23</date>
+              <placeName key="#letters1916_place-0989">Drumbaragh, Kells, County Meath</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John Griffith</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1350_img_700_1"  type="Letter"  url="57e8a2b46879bf8b6b95f61cc8962387.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1350_img_700_1"/>
+                DRUMBARAGH,  KELLS,  CO. MEATH.    October 23<hi rend="superscript">RD 1916</hi>    Sir John P. <seg type="del">Brosnan</seg> Griffith   Rathmines Castle   Dear Sir   In a letter which will appear in <lb/> 'The Irishman' of the 28<hi rend="superscript">th </hi> I have drawn attention<lb/> to the Dublin Port &amp;Docks Board, &amp;<lb/> mentioned a rumour I had heard that your <lb/> son had resigned his position as engineer <lb/> -in-chief to that Board owing to its recent <lb/> action.  I know little of the facts of the case,<lb/> &amp; J M<hi rend="superscript">c</hi>Herbert M. Pim, the editor of the <lb/> Irishman, whose pen-name is A.<seg type="unclear">Newman</seg>,<lb/> has asked me to see whether you would <lb/> write to him on the subject. <seg type="closer"> Yours truly  John Sweetman </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

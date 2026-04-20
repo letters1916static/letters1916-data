@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2847">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Wilfrid Spender to his wife Lady Lillian Spender, circa June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is part of a series of correspondence from Sir Wilfrid Bliss Spender to his wife Lady Lillian Spender. The letters date mainly from 1915 to 1918, when Sir Wilfrid was serving in France. The letters concern politics, the Irish question, personal life, and Wilfrid&#39;s experience of  the Great War.
+
+In this letter Spender is writing to his wife, Lady Lillian Spender, née Dean, (1880-1968). Sir Wilfrid Spender (1876 - 1960) was a member of the British Army until 1913 when controversy surrounding his signature of the Ulster Solemn League and Covenant resulted in his resignation. Spender was called up for military service in 1914 and from 1915 served  in the 36th (Ulster) Division. Throughout the war, Spender remained in contact with the Ulster Unionist leadership, and consistently opposed Home Rule and the six-county solution.
+
+In this letter, Spender tells his wife of life at the front, asks her to find a watchmaker to fix his broken watch, and regrets that he has had no news from his brother Rex.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Lady Spender&#39;s Correspondence, D1633/1/1/303</collection>
+                  <idno>https://letters1916.ie/item/2847</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0667">Wilfrid Spender</persName>
+              <date>1916</date>
+              <placeName key="#letters1916_place-0769">France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lillian Spender</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1960</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2847_img_2260_1"  type="NULL"  url="94e4a0c6eb5aef854a3bec7f9b5bdde8.jpg"/>
+      <graphic xml:id="L1916_2847_img_2260_2"  type="NULL"  url="f27f585521687ee0bf313cdd9fa647ab.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2847_img_2260_1"/>
+              D1633/1/1/303 <lb/><lb/>I would if could be the Ulsters but not<lb/>if G N &amp; P remain. Comyn in saying<lb/>goodbye said he found that relations<lb/>between G &amp; Q would become more &amp;<lb/>more strained now I had gone, &amp;<lb/>added that their would have been<lb/>several rows already if he hadn't<lb/>been afraid of hurting my feelings.<lb/>This was rather nice but it makes<lb/>me sad &amp; anxious for the future.  Douglas has got the school as<lb/>his billet at night which is rather<lb/>lucky &amp; with camp bed he<lb/>does very well. M Gill turned up<lb/>with both horns last night but I 
+            <pb n="2" facs="L1916_2847_img_2260_2"/>
+             have not yet seen him.  If you find yourself near the<lb/>watchmaker's could you send me<lb/>out another cover to my watch as<lb/>I have broken mine.  I wish I could get news of Rex<lb/>&amp; also of other people. No doubt I<lb/>have been a bit spoilt in the past  I had a talk with Gen Harper the other<lb/>day who says Alfred Spinder is now very<lb/>subdued &amp; can raise no defence on either<lb/>the Irish or German questions. He must<lb/>have changed lately  Don't forget Rex's weekly parcel<lb/><hi rend="underline">please</hi> If it is a lot of trouble give a<lb/>standing order for 5/- a week<lb/><lb/> Your rather forlorn <seg type="unclear">questionable reading</seg> <lb/>W B Spender. 
+         </ab>
+      </body>
+   </text>
+</TEI>

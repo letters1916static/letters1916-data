@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4422">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to John Moorhead, 29 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter to John Moorhead regarding interviewing witnesses for his case. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI/CSO/RP/1916/10797/2</collection>
+                  <idno>https://letters1916.ie/item/4422</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-05-29</date>
+              <placeName key="#letters1916_place-0932">Ballymoney, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John Moorhead</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4422_img_3773_1"  type="Letter"  url="0be286fd7548fc216571dd846b30fa1c.jpg"/>
+      <graphic xml:id="L1916_4422_img_3773_2"  type="Letter"  url="b241945030629793e61d90e977090aef.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4422_img_3773_1"/>
+            The King v. Ellen Davidson of Taughey  Please note Mrs Davidson's <lb/>address is <hi rend="underline">Taughey</hi>, and <lb/>not Faughey   Customs &amp; Excise <lb/>Ballymoney   29 May 1916   Dear Sir,   I have interviewed the witnesses in the <lb/>above case to-day and the evidence given by <lb/>them is as follows:—   (1st) Mrs Ellen Boyd of Drumshaglis states that <lb/>the soldier was  living with her since before the beginning <lb/>of July 1915, as she remembers that on the 12th <lb/>or 13th July 1915 (when there were holidays at the <lb/>Balnamore mill at which the soldier worked) she <lb/>went out to visit a neighbour and on her <lb/>return found that the soldier had gone fishing <lb/>to the River Bann &amp; had locked the door, so <lb/>that she was unable to get into her house <lb/>until his return, &amp; she is positive that <seg type="del">s</seg>he had <lb/>been living with her <seg type="del">before</seg>some weeks before this.   (2nd) Mrs Margaret Graham of Drumshaglis (who <lb/>lives next door to Mrs Boyd) corroborates the above <lb/>statement and is more definite in her evidence <lb/>than (3rd) William Hugh Hackett of Drumshaglis <lb/>who states that he is certain that the soldier <lb/>lived with Mrs Boyd for at any rate 3 or 4 <lb/>months before and up to the date of enlistment. <lb/>As Hackett is in a better position than either of <lb/>the others &amp; can have no possible interest in the <lb/>case, it might be advisable to have him also   Yours truly   MacWarnock   John R Moorhead Esq 
+            <pb n="2" facs="L1916_4422_img_3773_2"/>
+            Rex. V <hi rend="underline">Ellen Davidson</hi> <lb/>WITNESSES <hi rend="underline">FOR PROSECUTION</hi>  1 <hi rend="underline">THOMAS McAFEE J. P.</hi> Witnessed the signature of <lb/>defendant to Army Form 0.1839 ( Declaration <lb/>in respect of her son Ptve, Hugh Reid) on <lb/>20th. December 1915.   2. <hi rend="underline">R%A.WARNOCK</hi> Pension Officer Ballymoney Made enquiries and <lb/>found out that the answers in defendant's Declaration <lb/>at 4a. viz: — "<sic>wasthe</sic> Soldier living with you <lb/>"immediately before he enlisted" Answer "Yes" <lb/>is false as the Soldier had been living with <lb/>his Grandmother (Mrs.Ellen Boyd) since before <lb/>July 1915.   3. <hi rend="underline">Mrs. Ellen Boyd</hi>, the Grandmother will corroborate   4. <hi rend="underline">Mrs Margaret Graham</hi>: a neighbour of Mrs. Boyd will also <lb/>corroborate.   5. <hi rend="underline">Wm. Hugh Hackett</hi>, Farmer, who can have no possible <lb/>interest in the case, will also corroborate. 
+         </ab>
+      </body>
+   </text>
+</TEI>

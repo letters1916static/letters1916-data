@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0615">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Charles Arthur Munro to the North Circular Laundry Ltd., 10 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Charles Arthur Munro</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by the Governor of Mountjoy Prison, Charles Arthur Munro (1869 - 1952). Munro was writing to the manager of the North Circular Laundry regarding the recent destruction of a wall which had separated the prison from the laundry.The Prison authorities and the laundry were in dispute concerning the responsibility for the collapse of this wall with the latter attributing it to ivy that the prison had allow become overgrown. The laundry sought compensation towards the reconstruction of the wall.In this letter, Munro offers to remove the overgrown ivy but does not admit that this has caused the wall to collapse. The prison cannot, therefore, contribute to its reconstruction. Enclosed is a letter dated 6 December 1915 from the North Circular Laundry company to Charles Munro. The writer is adamant that the weight of the ivy caused the collapse and calls on the Governor to remove the remaining ivy without delay. It urges the Prison Board to give the question of a contribution towards reconstruction of the wall further consideration.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/6151</collection>
+                  <idno>https://letters1916.ie/item/615</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0487">Charles Arthur Munro</persName>
+              <date>1915-12-10T00:00:00</date>
+              <placeName key="#letters1916_place-1512">Mountjoy, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-0836">North Circular Road, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0615_img_2032_1"  type="Letter"  url="32808124702120b12ba8897a76bf8e84.jpg"/>
+      <graphic xml:id="L1916_0615_img_2032_2"  type="Letter"  url="ce96ff25ac08037fb05d4320935e14dd.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0615_img_2032_1"/>
+              Copy    His Majesty's Prison,  Mountjoy, Dublin,    10th December, 1915.   Gentlemen,   I am in receipt of your letter of the 6th instant, â if <lb/>you wish the ivy removed from the wall I will, as a matter of <lb/> courtesy, give directions to have it done, though we do not <lb/>admit that the ivy was instrumental in causing the fall of the <lb/>wall. We are under no liability as regards the effect of the <lb/>storm, and it could only be in the event of the wall being a <lb/>party wall that we could join in the expense of its repair.   At the present time the General Prisons Board cannot <lb/>consider a proposal to buy the land in question.  <seg type="closer"> I am, <lb/>Gentlemen, <lb/>Your obedient Servant,   Governor  CAM   Messre The North Circular Laundry, Ltd.,  North Circular Road,  DUBLIN.  </seg> 
+            <pb n="2" facs="L1916_0615_img_2032_2"/>
+                NORTH CIRCULAR ROAD,  (TOP OF BERKLEY STREET),  DUBLIN,    Dec 6 <hi rend="superscript">th</hi> 1915     C.A. Munroe Esq.  H.M Prison  Mountjoy   Dear Sir   We are in receipt of yours 4 <hi rend="superscript">th</hi><lb/>and must express surprise at contents <lb/>as there can be no question but that <lb/>the foliage of your ivy carried such a <lb/>weight of water and weight of itself <lb/>as pulled down our wall and what <lb/>still remains is liable to be pulled <lb/>down also by the weight of growth on <lb/>it and we now call on you to have <lb/>this entirely removed from wall before <lb/>further damage is done by your ivy <lb/>&amp;c.   We have no desire at all for litigation <lb/>and would be willing to sacrifice a very <lb/>great deal rather than enter into <seg type="unclear">such</seg><lb/>and so would be willing to accept a <lb/>reasonable sum towards cost of the <lb/>necessary repairs to wall and would be <lb/>glad if Prisons Board would give the <lb/>matter further consideration <seg type="unclear">when</seg><lb/>we feel sure they will see we are entitled <lb/>to a sum towards cost of repair.   We would also be glad to hear as <lb/>to our offer of the ground  <seg type="closer"> yours faithfully   N.C. L.L. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

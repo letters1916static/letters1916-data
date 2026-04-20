@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0427">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Treasa Ní Modhráin, Dublin, to her brother Eamonn, imprisoned in Frongoch, Wales, 19 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Treasa Ní Modhráin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Treasa Ní Modhráin (1889-1971) to her brother, Eamonn O&#39;Modhráin (Edward Moran) (1881-1954). Treasa writes to Eamonn inquiring if he has received a parcel sent earlier in the day. In the letter, she asks if he is well and tells him how the rest of the family is. She explains to Eamonn that sisters Maire, Una, and Nancy are doing well. Written after the Rising, she mentions that while the O&#39;Connell street is in a terrible state their usual places of business remain unaffected.Eamonn O&#39;Modhráin and his brother, Lughaidh, were arrested along with hundreds of volunteers and republicans soon after the Easter Rising of 1916. Eamonn was eventually sent to Frongoch Prison in Wales. Tresa was a member of Cumann na mBan.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>O&#39;Modhráin Family</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/427</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1501">Treasa Ní Modhráin</persName>
+              <date>1916-05-19</date>
+              <placeName key="#letters1916_place-0794">Drumcondra, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1527">Eamonn O&#39;Modhráin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1722">Frongoch, Wales</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0427_img_1741_1"  type="Letter"  url="9495aacd6dc9d5277c726f40646090cf.jpg"/>
+      <graphic xml:id="L1916_0427_img_1741_2"  type="Letter"  url="6a66f839cd904c229145f1215f010361.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0427_img_1741_1"/>
+                Caondrum,  Woodville Road  Druncondra.    19th May, 1916.   My dear Eamonn,   I hope before you receive this letter that you will <lb/> have got safely the parcel which Marie forwarded to you <lb/> and Lughidh this morning. It was only last night we <lb/> succeeded in finding out where you were gone to.   Immediately on receipt of your post card from Richmond <lb/> I wrote to Marie and am writing again to-day giving <sic>yu</sic><lb/> her address.   I <sic>findly</sic> hope you are both keeping well. How did <lb/> you like your trip across?   Marie returned to Ballysax to-day and will stay there <lb/> for the present. Nancy has not returned to town yet.   Business is booming with Una. In fact, they are in <lb/> late almost every night, and worked half a day last <lb/> Sunday.   The weather is glorious here for the last few days. <lb/>Joe starts work on Monday.   I suppose you got a glimpse of the city as you <lb/> passed through. O'Connell Street is a terrible wreck. <lb/> None of our places of business suffered at all. <lb/><hi rend="underline">Mother</hi>  
+            <pb n="2" facs="L1916_0427_img_1741_2"/>
+              Mother is managing A.1. at home. Uncle Simon gives her <lb/> great help.   <lb/>Marie has secured a place in Blackpool for Bridgid. <lb/>Tell Lughaigh I will write to him toâmorrow. <lb/> With warmest love to you both, and hoping to see you <lb/> soon again.  <seg type="closer"> Your affectionate sister,   <hi rend="underline">Treasa</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

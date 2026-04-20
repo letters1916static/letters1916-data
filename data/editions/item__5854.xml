@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5854">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Anne MacDonnell to Lady Clonbrock, 21 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Anne MacDonnell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Anne MacDonnell, honorary secretary of the Irish Women&#39;s Association, to Augusta Caroline Dillon (née Crofton). The Irish Women&#39;s Association was set up to provide aid and assistance to Irish regiments and to Irish members of the British army who were being held in prisoner of war camps.
+MacDonnell writes about two prisoners of war who are &#39;giving a great deal of trouble&#39;. The men are being held in Bulgaria and are writing &#39;innumerable begging letters&#39;. She also writes about the transfer of items to men serving in Mesopotamia.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No 54; Ms. 35,796</collection>
+                  <idno>https://letters1916.ie/item/5854</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1071">Anne MacDonnell</persName>
+              <date>1916-09-21</date>
+              <placeName key="#letters1916_place-0515">Kensington Palace, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0049">Lady Clonbrock</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5854_img_952_1"  type="Letter"  url="8efecacde876001e85186ef93e58d6ba.jpg"/>
+      <graphic xml:id="L1916_5854_img_952_2"  type="Letter"  url="7965c6eddc97676d95fd4de678b77a5a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5854_img_952_1"/>
+             Correct 426.1.7 <lb/>400 — <lb/>7-17-6   The Irish Women's Association <lb/>(to aid Irish Regiments and Prisoners of War) <lb/>Kensington Palace, <lb/>London W.   September 21st 1916   Dear Lady Clonbrock,   Pte. Hore and French are <lb/> giving a very great deal of trouble. They <lb/>are excellently provided for in every way, but <lb/>they are writing innumerable begging letters. <lb/>We hold quantities of their <sic>acknwoledgments</sic> - <lb/>they are really in no need of further assistance <lb/>whatsoever,   598 Pte. James Macdonald is acknowledging <lb/> his food parcels most profusely and has also <lb/> acknowledged <seg type="del">all</seg>  a  clothing parcels.   I am sorry to say that the begging of our <lb/> men in Bulgaria is assuming alarming proportions, <lb/>so much so that the British officer <lb/> in charge of them has asked us not to send <lb/> them anything that they ask for over and above <lb/> their usual parcels, unless he countersigns <lb/> the application. He has been sent money and <lb/> has fitted every man out with boots. This <lb/>applies to the Prisoners in Philippopolis. <lb/> I will send a pair of boots to Macdonald at once. 
+            <pb n="2" facs="L1916_5854_img_952_2"/>
+            (2)  We are in constant, almost daily communication with the <lb/>R.A.C.D. about the outfit for the men in Bulgaria - so far <lb/>they will not issue it - but we are trying very hard to make them do so.   I wired to Miss Hynes telling her the the 1st Battalion <lb/>in Mesopotamia have written acknowledging the things sent out <lb/> from here by your order. They took a very long time to arrive, <lb/> but they have arrived - which is really very extraordinary as <lb/> we are told on all sides that it is almost impossible for any <lb/>things to arrive with our men in Mesopotamia. However, the <lb/>Rangers have got theirs and it is rather a triumph. I do not <lb/>know whether the triumph applies to us, or to the Military <lb/>Forwarding Officer, or to the Goddess of Chance!   For your <hi rend="underline">private information only</hi> I may tell you that <lb/> the I. W. A. will, we have every reason to believe, stand by itself. <lb/>The powers that be are kind enough to acknowledge that <lb/>we are capable of standing on our own legs.   Mother and I have been away for a fortnight but that is <lb/>not a very long time.   Yours very sincerely,   A. MacDonnell  <lb/>Hon. Secretary
+         </ab>
+      </body>
+   </text>
+</TEI>

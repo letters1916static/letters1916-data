@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0527">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from David Lloyd George to Edward Carson, 29 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Lloyd George</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from David Lloyd George (1863 - 1945) to Edward Carson (1854 - 1935) reiterating his stance that Ulster will not merge with the rest of Ireland at the end of he provisional period. David Lloyd George served as Minister of Munitions during the Shell Crisis of 1915. His role as Minister won him wide-spread support across Britain. He took over the role of Secretary of State for War on 6 June 1916, after the death of Horatio Herbert Kitchener, (1850–1916) who died on board the cruiser HMS Hampshire when it was sunk by a German mine on 5 June 1916, while on course to Russia. Following the collapse of Asquith&#39;s government, Lloyd George became Prime Minister of the coalition government in December 1916.Edward Carson (1854-1935) was a prominent Unionist Politican. Originally a practicing solicitor from Dublin, Carson&#39;s opposition to the proposed third Home Rule bill made him the figure head of Unionism throughout the island. He was the centrepiece of the speaking tour that culminated in Ulster Day (28 September 1912), when just under half a million signed Ulster&#39;s solemn league and covenant pledging to use ‘all means which may be found necessary to defeat the present conspiracy to set up a home rule parliament in Dublin’. Carson inaugurated the Larne gunrunning in 1914 which armed the UVF, many of whom Carson would encourage to join the British Army throughout the First World War.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Museum of Ireland</repository>
+                  <collection>HE, 1995.25</collection>
+                  <idno>https://letters1916.ie/item/527</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0472">Lloyd George</persName>
+              <date>1916-05-29</date>
+              <placeName key="#letters1916_place-1587">Whitehall Place, S.W., London </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0539">Edward Carson</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0527_img_1899_1"  type="Letter"  url="87c1b1c0669ff370461cd7a790930a38.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0527_img_1899_1"/>
+                Whitehall Place S, W,    May 29th 1916    My Dear Carson   â I enclose Green's <lb/> draft propositions. We must make <lb/> it clear that at the end of the <lb/> provisional period Ulster does not, <lb/> whether she wills it or not, merge <lb/> in the rest of Ireland. <seg type="closer"> Ever Sincerely <lb/> ( Signed ) D. Lloyd George </seg><seg type="postscript"> Will you show it to Craig. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

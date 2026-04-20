@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1307">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James O'Shea to Alice Stopford Green, 30 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James O&#39;Shea</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>In this letter, dated 30 July 1916, James O’Shea writes to Alice Stopford Green (1847-1929) to tell her of the unanimous opposition of the Public Boards of County Kerry to the execution of Roger Casement (who was charged with treason after being arrested just before the Easter Rising and alter hanged on 3 August 1916). He writes that he has signed a petition she had sent and suggests that she meet with the king, who O’Shea is sure can be convinced that granting Casement a reprieve will help foster a better relationship between Ireland and England.Alice Stopford Green was an Irish historian and nationalist. While not a supporter of armed rebellion, her house provided a space for leading nationalists to meet. Stopford Green had collaborated with Roger Casement on Congo Reform and, after the Easter Rising in 1916, she tried to save him from execution</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casement Papers, List no. A15, Ms. 13,088 /9</collection>
+                  <idno>https://letters1916.ie/item/1307</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0144">James O&#39;Shea</persName>
+              <date>1916-07-30</date>
+              <placeName key="#letters1916_place-0752">Muckross, Killarney, County Kerry </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0989">Alice Stopford Green</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1307_img_526_1"  type="Letter"  url="50ad930be60372b291426702bcdc76ed.jpg"/>
+      <graphic xml:id="L1916_1307_img_526_2"  type="Letter"  url="a4c316e384449f3405a3fa7a4cfba7d3.jpg"/>
+      <graphic xml:id="L1916_1307_img_526_3"  type="Letter"  url="df434bcba8b8bb0d16425dec2f721e09.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1307_img_526_1"/>
+              Answered <lb/> August 2nd-1916     Muckross,  Killarney,  Co.Kerry    30/7/16   Madam   I hope you received <lb/> Petition signed by me on <lb/> behalf of poor Sir Rodger. <lb/> I could easily have got a <lb/> million names attached. <lb/> But as our Public Boards <lb/> of Kerry are all unanimous <lb/> in not having the execution <lb/> &amp; passed resolutions to that <lb/> effect, we believe it ought <lb/> to have more weight, with <lb/> in authority, for they truly <lb/> represent our people. I <lb/> enclose you one of those  
+            <pb n="2" facs="L1916_1307_img_526_2"/>
+               Left hand page follows right hand page and have been transcribed previously in sequence, rather than as appear on page <lb/> 
+            <pb n="3" facs="L1916_1307_img_526_3"/>
+              <lb/>friendships between the <lb/> people of these Islands. <lb/> Let us all to day ask the <lb/> Great God to direct the <lb/> heart &amp; mind of King <lb/> George to extend his <lb/> Clemency to Brave noble <lb/> Sir Rodger. If he does <lb/><sic>hel</sic> do more to win the <lb/> hearts love of his Irish <lb/> people than actually his <lb/>dear departed father <lb/> King Edward the man <lb/> of Peace.  <seg type="closer"> I remain <lb/>Dear Madam <lb/>Yours most respectfully   James O'Shea </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

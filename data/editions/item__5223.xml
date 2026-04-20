@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5223">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Charlie Daly to Kate Allman, 6 November 1922</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Charlie Daly </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry County Archives</repository>
+                  <collection>Charlie Daly Collection, P41/10/1/4</collection>
+                  <idno>https://letters1916.ie/item/5223</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0548">Charlie Daly </persName>
+              <date>1922-11-06</date>
+              <placeName key="#letters1916_place-1693">Drumboe Castle, Stranorlar, Tirconail, Donegal, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Kate Allman  </persName>
+              <date></date>
+              <placeName key="#letters1916_place-2063">Providence Convent, Wood Green, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1923</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">The Rising Tide (1917-1919)</item>
+               <item n="topic">Civil War (1922-1923)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5223_img_None_1"  url="1d4a63e97965b6d92ac3a7c3c8c3a92c.jpg"/>
+      <graphic xml:id="L1916_5223_img_None_2"  url="08b6facbe30e5149145bdb3b5e260bcd.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5223_img_0_1"/>
+              Miss K Allman<lb/>Providence Convent<lb/>Wood Green<lb/>London    6th Nov 22  
+            <pb n="2" facs="L1916_5223_img_0_2"/>
+              Dromboe Castle<lb/>Stranorlar<lb/>Tirconaill    <hi rend="underline">Nov 6th 22</hi>    A Chatharna   You see by above add. that<lb/>Liberty &amp; I have once more parted company<lb/>but like on previous occasions let's hope<lb/>not for long. For once Luck was against me &amp;<lb/>I was had by a mere fluke. The wonder of<lb/>the thing is that it did not happen long ago.<lb/>However, in a life like this we must take<lb/>such incidents as philosophically as possible.  In case you have written to the last add.<lb/>I gave you you had better recall your letter<lb/>or, if you like, write &amp; ask them to post it to<lb/>me here. After all I may be in, or<lb/>around Dublin when you are passing through.<lb/>Miccal may be have influence enough to obtain<lb/>you a visit. <seg type="unclear">Iny</seg> Anyway. Send me over<lb/>some newspapers &amp; books. Sorry that I was<lb/>not outside until I heard from you again <seg type="foreign"></seg>    Beannacht leat,    Do chara    Cormach Mac D  
+         </ab>
+      </body>
+   </text>
+</TEI>

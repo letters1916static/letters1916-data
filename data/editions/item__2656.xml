@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2656">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from A. Duffin to Celia Duffin, 2 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>A. Duffin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is part of a rich correspondence between various members of the Duffin family, a large prosperous family living in Strandtown, Belfast. Several family members served in the war, including Major Terence Duffin, who served as a staff officer with 107 Brigade, and later with Royal Irish Rifles; Major Charles G Duffin MC, Royal Field Artillery; and their sisters Emma, Celia and Dorothy who served as Voluntary Aid Detachments (VADS) in Egypt and France, and with the YMCA.
+
+Celia Duffin was a VAD with the 3rd London General Hospital in Wandsworth which opened in 1914. She was an accomplished poet, publishing, amongst other volumes, a book of poetry with her sister Ruth.
+
+In this letter the writer tells Celia that her Aunt Margaret is dying. An operation revealed &#39;deep-seated trouble&#39; and says that she may have been saved a long and painful illness.  T</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Duffin Papers, D2109/10/1/C/22</collection>
+                  <idno>https://letters1916.ie/item/2656</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0124">A. Duffin</persName>
+              <date>1916-03-02</date>
+              <placeName key="#letters1916_place-1376">Ulster Club, Belfast, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1155">Celia Duffin</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Faith</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2656_img_2080_1"  type="Letter"  url="52263923d9d30135991ddf3f48c7896e.jpg"/>
+      <graphic xml:id="L1916_2656_img_2080_2"  type="Letter"  url="35d06305ddfef9a3f61f783e84d861b2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2656_img_2080_1"/>
+             D2109/10/1/C  Ulster Club<lb/>Belfast.   2<hi rend="superscript">nd</hi> March. 1916.    Dearest Celia   I have bad news for you. I<lb/>fear dear Aunt Margaret is dying.<lb/>She was to have been at<lb/><seg type="unclear">Dundrum</seg> for tea on Saturday,<lb/>but felt ill and went to bed &amp;<lb/>on Monday had to go to the<lb/>Nursing Home for a very<lb/>serious operation, which  
+            <pb n="2" facs="L1916_2656_img_2080_2"/>
+             <seg type="unclear"></seg><lb/>Poor thing it may be that she<lb/>has <seg type="unclear"></seg>a long and<lb/>painful illness the end of<lb/>which was inevitable.<lb/>Poor Marjorie will be home<lb/>in the morning. It is very<lb/>terrible for her.  <lb/>I can think of nothing else.   Your loving<lb/>A.Duffin  
+         </ab>
+      </body>
+   </text>
+</TEI>

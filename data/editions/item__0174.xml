@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0174">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Alexander Crawford to Matthew Nathan, 17 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Alexander G. Crawford</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Alexander G. Crawford to Sir Matthew Nathan (1862-1939). Crawford writes about the work of a Mr Houston in his role as principal of a school in Coleraine. Crawford describes the positive effect he has had in his forty five years of service including paying for the up keep of the school from his own purse. Crawford explains that the Irish Society, the school&#39;s biggest benefactors, think that some provision should be made for Houston in his old age. Mathew Nathan had become under-secretary in 1914 under Augustine Birrell (1850-1933). After the Easter Rising 1916, Nathan resigned as under-secretary due to his misjudgement and failure to stop the Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/4904</collection>
+                  <idno>https://letters1916.ie/item/174</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0485">Alexander G. Crawford</persName>
+              <date>1916-03-17</date>
+              <placeName key="#letters1916_place-1349">Coleraine, Derry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0174_img_1310_1"  type="Letter"  url="16743e3f510ad919bc81786fbc1053d1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0174_img_1310_1"/>
+                Coleraine    17<hi rend="superscript">th</hi> March 1916   Sir,   On receipt of yours of 10th inst(Ro7298)<lb/> I looked up the register of the Coleraine Academical<lb/> Institution but could find no Contract as to provision<lb/> with Mr Hueston at the time of his appointment<lb/> in March 1870  The Governors fully considered the situation<lb/> last year in consultation with the Hon:The Irish Society<lb/> who are the Schools main benefactors. they felt that<lb/> some provision should be made for Mr Hueston in<lb/> his old age, considering his forty five years of faithful<lb/> service &amp; the fact that he had spent out of his own private<lb/> purse at least Â£100 per annum during all the years<lb/> of his Principalship on the upkeep &amp; development of<lb/> the school  The Hon:The Irish Society allow Â£200 per year<lb/> to go through our books for this object &amp; took the whole<lb/> circumstances into consideration in their other benefactoring <lb/><seg type="closer"> Believe me<lb/> Your Obedient servant  Alex G Crawford <lb/> Hon <sic>Secty</sic><lb/>  The Under Secretary  Dublin Castle  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

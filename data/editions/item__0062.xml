@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0062">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Gerald Horan to James O'Shea, 11 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Gerald Horan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Gerald Horan (1880 - 1949), a barrister, to James O&#39;Shea (b. 1866) a member of the Killarney District Council and Kerry County Council. The letter states that on 6 February a recruitment committee meeting was disturbed by men forcing their way in, playing drums and pipes. According to Horan it is believed that O&#39;Shea played a prominent role in the activities. As this conduct would be incompatible with O&#39;Shea&#39;s role as Justice of the Peace the Lord Chancellor, Stanley Buckmaster (1861-1934), requests an explanation.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI_CSO_1916_7020_3A_1</collection>
+                  <idno>https://letters1916.ie/item/62</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0761">Gerald Horan</persName>
+              <date>1916-02-11</date>
+              <placeName key="#letters1916_place-1953">Four Courts, Dublin, Co.Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0144">James O&#39;Shea</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1505">Killarney, Co.Kerry, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0062_img_1129_1"  type="Letter"  url="5e5710198ddde619d381da744fa05fe3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0062_img_1129_1"/>
+                Crown and Hanaper Office  Four Courts, Dublin    12th February 1916   Sir,   The attention of The Lord Chancellor has been called to the<lb/> fact that on the 6th inst. at Killarney, while a meeting was being<lb/> held by the Co. Kerry Recruiting Committee, a number of persons<lb/> accompanied by pipes and drums forced their way through the meeting<lb/> and interfered with its progress ; and further that you were associated<lb/> with and <sic>occupired</sic> a prominent position in connection with the<lb/> procession.  Such conduct would be quite incompatible with your position<lb/> as a Justice of the Peace, and The Lord Chancellor requires an explanation<lb/> of this matter on or before Thursday the 17th inst. <seg type="closer">  I am, Sir, <lb/> Your obedient Servant, <lb/>  GERALD HORAN   James O'Shea, Esq. J.P.  Chairman Killarney Rural District Council  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

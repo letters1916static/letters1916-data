@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0937">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick O'Brien to the Lord Lieutenant of Ireland, 21 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick O&#39;Brien</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Patrick O&#39;Brien to the lord lieutenant concerning O&#39;Brien&#39;s distressed circumstances due to his dependence on a small amount of outdoor relief as a result of unemployment.In 1916 the lord lieutenant of Ireland was Ivor Churchill Guest, 1st Viscount Wimborne (1873-1939). Guest worked closely alongside Sir Matthew Nathan (1862-1939) in the administration of Ireland. Following the suppression of the Rising, Guest, under pressure, was forced to resign as Lord Lieutenant. A later inquiry into the Rising exonerated Guest and held Augustine Birrell (1850-1933) chiefly responsible for the events that occurred. Guest would continue to serve as Lord Lieutenant until 1918.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-10591, NAI-CSO-RP-1916-10591</collection>
+                  <idno>https://letters1916.ie/item/937</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1131">Patrick O&#39;Brien</persName>
+              <date>1916-06-21T00:00:00</date>
+              <placeName key="#letters1916_place-1233">Glenbane, Lattin, Co. Tipperary, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1374">Ivor Churchill Guest</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0937_img_2731_1"  type="Letter"  url="60b1f7b86aa192fb37355c6ead1031a9.jpg"/>
+      <graphic xml:id="L1916_0937_img_2731_2"  type="Letter"  url="82903b04cb667552e3ac94ae5efed026.jpg"/>
+      <graphic xml:id="L1916_0937_img_2731_3"  type="Envelope"  url="44740b9b3d9dd2f97d8d63332aa816d5.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0937_img_2731_1"/>
+                Glenbane    June 21<hi rend="superscript">st</hi>, 16   Dear Lord Lieutenant   May it be pleasing to your good <lb/>excellency to accept these lines <lb/>from a poor distressed man. I <lb/>am out of my health for the last <lb/> five years and cannot work. I <lb/>have only three shillings a week <lb/>to support me, that is given to <lb/>me as out door relief, and I <lb/>want to put my claim before <lb/>you, confidently expecting that <lb/>I will be successful.  
+            <pb n="2" facs="L1916_0937_img_2731_2"/>
+              you will not ever regard or be <lb/>the worst of the realm, if you <lb/>take compassion on me, and keep <lb/><hi rend="underline">me from a lingering starvation</hi> <seg type="closer"> <hi rend="underline">I remain your obedient</hi>  P O'Brien   Address)Patrick O'Brien.  Glenbane,  Lattin.  <hi rend="underline">Co Tipperary</hi>  </seg> I implore your excellency's donation.  
+            <pb n="3" facs="L1916_0937_img_2731_3"/>
+               <hi rend="underline">On His Majesty's Service.</hi><lb/>THE REGISTRAR, <lb/>Dublin Castle.  
+         </ab>
+      </body>
+   </text>
+</TEI>

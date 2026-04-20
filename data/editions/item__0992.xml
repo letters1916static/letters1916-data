@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0992">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from Lily Doherty to Piaras Béaslaí, September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Lily Doherty</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Lily Doherty to Piaras Béaslaí (1881-1965) stating that Madge had gone back to Belfast two weeks previously. Eileen has told Lily that she would never be able to become a nun as she had played &#39;rabbits&#39; with Piaras.Piaras Béaslaí (born Percy Frederick Beazley) was an English born writer, revolutionary, politician, language revivalist, journalist and a member of the IRB. In February of 1916 he published the Fàinne, a publication to organise Gaelic speakers. He soon abandoned it and became involved in politics and would later fight in the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>MS 33,977 / 7, Collection List 44</collection>
+                  <idno>https://letters1916.ie/item/992</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0495">Lily Doherty</persName>
+              <date>1916-09-09</date>
+              <placeName key="#letters1916_place-0377">Dundalk, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Piaras Béaslaí</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0992_img_284_1"  type="Letter"  url="88ec1bcedd6656bdec812385a6391f0f.jpg"/>
+      <graphic xml:id="L1916_0992_img_284_2"  type="Photograph"  url="f3e5439ae9447860445f12e7a27a9748.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0992_img_284_1"/>
+               Got your P.C. Madge <lb/> has gone back to <lb/> Belfast about two <lb/> weeks past, Dermot <lb/> has written to her <lb/> since, we had cards <lb/> from Eileen &amp; she <lb/> said I could not <lb/> become a nun because <lb/> I had played 'rabbits' <lb/> with you,  <seg type="closer"> Your Sincere Friend  Lily Doherty </seg> hurry up! come <lb/> soon to Dundalk again       Mr. P Beazley,  25 Lindsay Road,  Dublin,  Ireland     
+            <pb n="2" facs="L1916_0992_img_284_2"/>
+               South End, Blackrock, Dundalk   
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1508">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Secretary, Office of the Chief Commissioner of Police, to Hanna Sheehy-Skeffington, 26 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>The Secretary, Office of the Chief Commissioner of Police</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter was written on behalf of the chief commissioner of the Dublin Metropolitan Police, Walter Edgeworth-Johnstone (1863-1937), and is in response to complaints from Hanna Sheehy-Skeffington (1877-1946) about visits by detectives to she and her landlady. The reply confirms that she is not required to complete items 10, 11, and 12 and denies that the landlady was told otherwise. The visits were because of breaches of Aliens Regulations by Mrs.Schmutz. The writer denies that any enquiries were made as to Hanna Sheehy Skeffington&#39;s whereabouts and notes that the detective (Sgt. Ahern) was calling to see her about missing property.Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the widow of Francis Sheehy-Skeffington (who was summarily executed on 26 April 1916). She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband and it wasn&#39;t until almost two weeks later that the full detail emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Trinity College Dublin</repository>
+                  <collection>, Ms. 6837/31/1</collection>
+                  <idno>https://letters1916.ie/item/1508</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0189">The Secretary, Office of the Chief Commissioner of Police</persName>
+              <date>1916-10-26</date>
+              <placeName key="#letters1916_place-0268">Dublin Castle, Dublin, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0722">Hanna Sheehy-Skeffington</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1322">43 Moyne Road, Ranelagh, Dublin, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1508_img_966_1"  type="Letter"  url="7a6593ba20e651daf94e23bb97abc91a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1508_img_966_1"/>
+              In case of any further communication <lb/>on this subject, please note the following reference ( 12384/16. ), <lb/>and address - <lb/>The Chief Commissioner of Police, <lb/>Dublin Castle.     Dublin Castle    26th October, 1916.   Madam,   I am directed by the Chief Commissioner of Police to <lb/>acknowledge the receipt of your letter of the 24th instant, <lb/>and to state that British subjects are only required to fill <lb/> in Nos. 1,2, 3 and 7 on form of Registration (specimen enclosed <lb/>in your letter returned herewith.) Mrs. Schmutz was not told <lb/> that she should require you to fill in Nos. 10,11 and 12.   The visits paid by Sergt. Megahy and Const. Devine to <lb/>Mrs. Schmutz were made in consequences of breaches of Aliens <lb/> Regulations on the part of Mrs. Schmutz, and it was only on <lb/>account of your omission to fill in No. 7 on form that you <lb/> were referred to.   Beyond <hi rend="underline">pointing out to her that No. 7 had not been <lb/>filled in as required </hi>, the officers concerned state that no reference <lb/>was made to you, nor were any further questions asked regarding <lb/>your movements. No enquiry was made relative to your luggage, <lb/>furniture or the name under which you travelled.   Sergt. Ahern, to whom you refer, states that he called to <lb/>see you on several occasions (perhaps four times in all) with <lb/> reference to enquiries which he was making in regard to your <lb/>missing property, but he made no enquiry beyond what was <lb/> necessary for the purpose of tracing the property.   Mrs. O'Brien was not interviewed by the Police, and has <lb/>not been subjected to annoyance by them.  <seg type="closer"> I am, <lb/>Madam, <lb/>Your obedient Servant,   W. A. <seg type="unclear">Wallis</seg>  Secretary   Mrs. Hanna Sheehy Skeffington,  43 Moyne Road,  DUBLIN.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1387">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Captain J. Black to the Area Administrative Officer, 23 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J. Black</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Captain J Black regarding the injury of Patrick Sheehan. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3785</collection>
+                  <idno>https://letters1916.ie/item/1387</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0216">J. Black</persName>
+              <date>1916-02-23</date>
+              <placeName key="#letters1916_place-0087">6, Lapp&#39;s Quay, Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0912">Area Administrative Officer</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0388">Royal Hospital, Kilmainham, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1387_img_763_1"  type="Letter"  url="d70589edca4c0ff6d6649a94f566e600.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1387_img_763_1"/>
+              <hi rend="underline">Subject. Injury of Patrick Sheehan.</hi>    23/2/16.    6, Lapp's Quay,  Cork.    A.A.O., Ireland,  Royal Hospital,  Kilmainham.    1. I attach letter from Mr. Patrick Sheehan who, while <lb/>employed in carrying oats into Messers Beamish and Craw- <lb/>fordÃ¢â¬â¢s Store, slipped with a bundle of empty sacks and <lb/>injured his ankle. He called here yesterday on crutches <lb/>and I asked him to put his claim in writing.   The favour of your instructions is requested please. <seg type="closer"> J. Black <lb/>Captain A.S.C., <lb/>D.D.O.S. Cork District.e <lb/>M.C. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

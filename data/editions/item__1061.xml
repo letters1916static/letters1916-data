@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1061">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Davidson to Clara Davidson, 18 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Davidson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from James Davidson to his mother, Clara Mary (b.1852). James writes that he is keeping well. He warns that she may not hear from him for some time as they are &#39;on the eve of big events.&#39; The Somme bombardment would begin six days later on 24 June. This letter is part of a large correspondence from Captain James Davidson to his parents. Davidson, who was Managing Director of the Sirocco Engineering Works in Belfast, served with 13 Royal Irish Rifles and the Machine Gun Corps. His letters describe his experiences while training in England and serving in France. He was killed on 1 July 1916, the first day of the Battle of the Somme.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>PRONI-D3642-B-8-56, PRONI-D3642-B-8-56</collection>
+                  <idno>https://letters1916.ie/item/1061</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1196">James Davidson</persName>
+              <date>1916-06-18</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Clara Mary Davidson</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1115">Seacourt, Bangor, Co. Down, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1061_img_3157_1"  type="Letter"  url="716b778f894ee9c109f66e66c9b2edc9.jpg"/>
+      <graphic xml:id="L1916_1061_img_3157_2"  type="Envelope"  url="9f3e136b68197e3626c805f315916f9e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1061_img_3157_1"/>
+                18/6/16   my dearest mother   Just a very few <lb/><seg type="unclear">lines</seg> to tell you that <lb/>I am well. I don't <lb/>know whether this <lb/> will reach you as <lb/>postal arrangements <lb/>are upset. we are <lb/>on the eve of big events <lb/>so you must not be <lb/>alarmed if you don't <lb/>have news for perhaps <lb/>a week or even more. <lb/>fondest love to all <seg type="closer"> your loving <seg type="unclear">son</seg>  James </seg> 
+            <pb n="2" facs="L1916_1061_img_3157_2"/>
+               On Active Service <lb/>letter 8<hi rend="superscript"><hi rend="underline">th</hi></hi> We<hi rend="underline">d</hi> 22<hi rend="superscript"><hi rend="underline">nd</hi></hi><lb/>June/16   Mrs. S.C.Davidson  Seacourt  Bangor  Co Down Ireland   JDavid<hi rend="underline">son</hi>  
+         </ab>
+      </body>
+   </text>
+</TEI>

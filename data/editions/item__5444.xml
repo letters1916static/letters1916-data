@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5444">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Tomás Ó Ceallaigh to Piaras Béaslaí, 4 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Tomás Ó Ceallaigh</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from Tomás Ó Ceallaigh of County Galway to Piaras or Pierce Béaslaí, born Percy Beazley (1881-1965). Ó Ceallaigh asks for a copy of Béaslaí&#39;s play, &#39;Cluiche Cartaí&#39; and refers to the staging of another play. Béaslaí was a journalist, writer and member of the militant Keating branch of the Gaelic League. He fought in the North King Street area during the Easter Rising and was imprisoned afterwards. He later became publicity officer in the Dáil government and edited the IRA newspaper &#39;An t-Oglach&#39;. He wrote twenty plays between 1913 and 1939.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Piaras Béaslaí Papers, Collection List No 44; Ms. 33,933 (3)</collection>
+                  <idno>https://letters1916.ie/item/5444</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">Irish</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1329">Tomás Ó Ceallaigh</persName>
+              <date>1916-02-04</date>
+              <placeName key="#letters1916_place-1294">23 Lower Dominick Street, Galway, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Piaras Béaslaí</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0311">Messrs M.H. Gill &amp; Son Ltd., Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Culture and the Arts</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5444_img_476_1"  type="Letter"  url="ef9440a74a97c9098db014c0a97c2ad5.jpg"/>
+      <graphic xml:id="L1916_5444_img_476_2"  type="Envelope"  url="afe177c1ede7523b8f6df43434dee102.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5444_img_476_1"/>
+             23 L<hi rend="superscript">r</hi> Dominic Street<lb/><hi rend="underline">Gallimh</hi>   4.2.1916   <seg type="foreign">A chara</seg>,   <seg type="foreign">An bhféadfá cóip de<lb/>Cluiche Cártai nó dráma maith<lb/><hi rend="underline">ghrinn</hi> eile do chur chugam? Tá<lb/>ceann ag teasdáil ón gCumann<lb/><sic>Gaedhlach</sic> <sic>annso</sic> le haghaidh lae 'le<lb/>Pádraig.</seg>     Cuir in iúl dúinn cé tá le<lb/>díol as ceann ar bith chuirfeas tú<lb/>chugainn má chuirtear ar an árdán<lb/>é. Bhí Fear an Sgéilín Grinn<lb/>againn anuraidh.   Mise agat, le cion ort<lb/>Tomás Ó Ceallaigh  <!-- begin translation -->  23 Lr Dominic Street<lb/>Galway   4.2.1916   My dear friend,   Could you send me a copy of ‘A Game of Cards’ or or another good comic play? The Gaelic Society here wants one for St. Patrick’s Day.     Let us know who is to be paid for any that you send us if it is staged. We did ‘The Man with the Funny Story’ last year.   Yours affectionately,<lb/>Tomás Ó Ceallaigh  <!-- end translation --> 
+            <pb n="2" facs="L1916_5444_img_476_2"/>
+             Piaras Béaslaoi, <lb/>c/o J.J. O'Kelly Esq <lb/>Messrs M. H. Gill &amp; Son <seg type="unclear">Ltd.</seg> <lb/><hi rend="underline">Dublin</hi>   <hi rend="underline">Please forward</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5475">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Gertrude Bannister to C. Spencer Smith, 29 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Gertrude Bannister</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a copy of a letter sent by Gertrude Bannister, a cousin of Roger Casement (1864-1916), to C. Spencer Smith of Queen Anne&#39;s School in London. Owing to the publicity Bannister had drawn through her Casement campaign the school had decided to terminate her employment but would not make the reason for termination public. In the letter, Bannister requests the explicit reason for the termination as it was unlikely to have been owing to unsatisfactory service. She asks that the matter be out before the board of governors but insists that she will not appeal the decision.
+
+The letter was written while Casement was imprisoned in London after he had been arrested while landing on the coast of Kerry in a submarine on the eve of the Easter Rising. Bannister was heavily involved in raising public support for Casement during his trial for treason.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casement Papers, Collection List No A15; Ms. 13,075 /1</collection>
+                  <idno>https://letters1916.ie/item/5475</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1365">Gertrude Bannister</persName>
+              <date>1916-07-29</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0895">C. Spencer Smith</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5475_img_508_1"  type="Letter"  url="139110bd80c6a125fbc62b5a3a29a7f1.jpg"/>
+      <graphic xml:id="L1916_5475_img_508_2"  type="Letter"  url="0af8f379ecdc0397b1794b2bfd0a421b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5475_img_508_1"/>
+            Copy of letter sent to C,Spencer Smith July 29<hi rend="superscript">th</hi> 1916  Dear Sir   I beg to acknowledge receipt of yr letter gladly enclosing <lb/> my Thrift Scheme securities &amp; a cheque for £40 in lieu of notice. <lb/>I think that after 17 years service, during which time <lb/> I have had no notification from either the Head Mistress or the Governors <lb/> that my work at Queen Anne's School was otherwise than satisfactory (which <lb/> I think I am entitled to assume it was in consideration of the fact that <lb/> the Governors entrusted to me the control of the School during the Head <lb/> Mistress's absence of four months in India) <seg type="del">that</seg> I am entitled to <lb/> ask them to be more explicit as to the reasons which have inspired <lb/> them to dismiss me from their service. It will be easily understood <lb/> that a bare statement such as is contained in the resolution passed by <lb/> the Committee   itself open to several constructions. As the Agreement with <lb/> the Governors referred to states that a Mistress is only dismissed from <lb/> their service without notice for serious misconduct or other causes <lb/> equally grave it will most assuredly leave me open to the <lb/> implication that it was for some such reason I was dismissed. <lb/> The Head Mistress's letter, stating merely that the Committee did not <lb/> think it wise for me to return also gives no  clear  reason. P.T.O.
+            <pb n="2" facs="L1916_5475_img_508_2"/>
+            <lb/>I therefore ask you to be so very kind as to lay this matter <lb/> before the Chairman of the Governors &amp; to ask him as a matter <lb/> of common fairness to one who has done her best to render <lb/> faithful &amp; useful service to the School for nearly 17 years <lb/> to state clearly the real reason for which I am dismissed.   Please understand that I do not in any way <lb/> appeal against my dismissal, I accept it without <lb/> any comment, but I think the Governors cannot fail to <lb/> see the justness of my request that I should be clearly <lb/> told why they think I am no longer fitted to be in <lb/> their service.   Yours faithfully   GA Bannister 
+         </ab>
+      </body>
+   </text>
+</TEI>

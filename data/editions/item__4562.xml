@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4562">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas Kirkpatrick to Rev. James Harnett Murphy, 6 November 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Kirkpatrick</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>From 1910 until 1954 Thomas Percy Kirkpatrick (1869-1954) served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.
+
+James Edward Harnett Murphy (1850-1919) was a reverend for the Church of Ireland in Co. Meath. He also served as a Professor in Irish in Dublin University.&#34;</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RPCI-2-3-2-13</collection>
+                  <idno>https://letters1916.ie/item/4562</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1453">Thomas Kirkpatrick</persName>
+              <date>1916-11-06</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">James Edward Harnett  Murphy</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1178">Enfield, Co. Meath, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1954</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4562_img_3902_1"  type="Letter"  url="67d1f31e2159f71418e0e9e61a263daa.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4562_img_3902_1"/>
+             6th November 16.   The Rev. J.E.H. Murphy, M. A., <lb/>Enfield, <lb/>Co. Meath.   Dear Sir,   I beg to inform you that at a meeting of this <lb/>College you were duly elected Examiner in Irish for the <lb/>Preliminary Examinations under the Conjoint scheme with <lb/>the Royal College Surgeons.   I remain, <lb/>Yours faithfully,  <lb/>Fellow &amp; Registrar.
+         </ab>
+      </body>
+   </text>
+</TEI>

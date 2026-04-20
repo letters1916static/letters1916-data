@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0311">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Elizabeth Francis Neill to Lady Clonbrock, 21 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Elizabeth Francis Neill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Elizabeth Francis Neill (b. 1861) to Augusta Caroline Dillon, Lady Clonbrock (1840-1928). Clonbrock was a prominent member of the Irish Women&#39;s Association, founded to provide aid and assistance to Irish soldiers and prisoners of war and the wife of Luke Gerald Dillon, 4th Baron Clonbrock. In the letter, Neill thanks Clonbrock for her sympathy over the death of her husband, Richard Herbert Neill (1859-1916). The letter goes on to say that Neill will pass on what Clonbrock has said about the election of a new secretary, stating that the ladies of the tea room will be glad that the position is filled by Charles Joseph Botterill (1862-1959).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No. 54, Ms. 35,796/10/15</collection>
+                  <idno>https://letters1916.ie/item/311</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0100">Elizabeth Francis Neill</persName>
+              <date>1916-02-21T00:00:00</date>
+              <placeName key="#letters1916_place-1156">Headford Tea Rooms, Galway </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0483">Augusta Caroline Dillon</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0311_img_1535_1"  type="Letter"  url="2d00ca0350f44fc218d46862b3faa6aa.jpg"/>
+      <graphic xml:id="L1916_0311_img_1535_2"  type="Letter"  url="8d9d14db18086a1e58df7f46adec7c70.jpg"/>
+      <graphic xml:id="L1916_0311_img_1535_3"  type="Letter"  url="42e9b63a8d473ffcc13e53654678d47a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0311_img_1535_1"/>
+                Feb 21 <hi rend="superscript">st</hi> 1916    Dear Lady Clonbrock   I thank you very <lb/>much for your kind <lb/>expressions of regret <lb/>for my dear husband <lb/>&amp; sympathy with <lb/>us in our great loss.   It seems to grow <lb/> greater with time.   
+            <pb n="2" facs="L1916_0311_img_1535_2"/>
+              I shall pass on <lb/>what you say about <lb/>the election of Secretary <lb/>for Tea Room â the <lb/>Ladies of the Committee <lb/>will doubtless be <lb/> very glad to have <lb/> the post filled <lb/> by M<hi rend="superscript">rs</hi> Batterill â <cb/><lb/>who will I think <lb/>always take a <lb/>deep interest in <lb/>the Temperance <lb/>cause here.  <seg type="closer"> I remain <lb/>your Ladyship's <lb/>Most sincerely   Elizabeth F Neill </seg> 
+            <pb n="3" facs="L1916_0311_img_1535_3"/>
+               1916 <lb/>Feb: M <hi rend="superscript">rs</hi> Neill Headfood Tea <lb/><hi rend="underline">rooms</hi>  
+         </ab>
+      </body>
+   </text>
+</TEI>

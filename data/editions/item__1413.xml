@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1413">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Copy of telegraph from citizens of Cork to Lord Wimborne, 9 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Citizens of Cork</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This telegraph was sent by a number of prominent Cork citizens to Sir Ivor Churchill Guest (1873-1939), 1st Viscount Wimborne, lord lieutenant of Ireland. The authors believe their message voices the opinion of the &#39;vast majority of Citizens of Cork.&#39; It requests an end to the executions and mass arrests that followed the suppression of the Easter Rising. It is argued that to continue would have a &#39;most serious affect on the people&#39; and be &#39;extremely prejudicial to the peace&#39;. The letter came on the day that Thomas Kent was executed in Cork Detention Barracks for his part in the death of a policeman.The signatories to the message include Rev. Daniel Cohalan, later bishop of Cork and an outspoken opponent of IRA violence during the War of Independence, the lord mayor of Cork, the high sheriff of Cork and members of the United Irish League. Lord Wimborne was appointed the Lord Lieutenant of Ireland in 1915. Guest worked closely alongside Sir Matthew Nathan (1862-1939) in the administration of Ireland. Following the suppression of the Rising, Guest, under pressure, was forced to resign as Lord Lieutenant. A later inquiry into the Rising exonerated Guest and held Augustine Birrell (1850-1933) chiefly responsible for the events that occurred. Guest would continue to serve as Lord Lieutenant until 1918.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5611</collection>
+                  <idno>https://letters1916.ie/item/1413</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1337">Citizens of Cork</persName>
+              <date>1916-05-09</date>
+              <placeName key="#letters1916_place-1534">Cork</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lord Wimborne</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0061">Vice Regal Lodge, Phoenix Park, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1413_img_821_1"  type="Letter"  url="90986328dbf82b0b9d18d7369af28929.jpg"/>
+      <graphic xml:id="L1916_1413_img_821_2"  type="Letter"  url="707d4c8e25bb867db4680d7e17529aba.jpg"/>
+      <graphic xml:id="L1916_1413_img_821_3"  type="Letter"  url="1b717ec501cacc8d11b98159f96c8ac7.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1413_img_821_1"/>
+                9th May 1916  <lb/>Given at Cork a at 4.40pm <lb/>Received in Vice Regal Lodge at 6.15pm Telegraphist.   To{ Wimborne  Vice Regal Lodge Dublin    Voicing, we believe, the opinion of <lb/>the great majority of the Citizens of <lb/> Cork, we desire to protest most <lb/>strongly against any further shooting <lb/>as the result of Court Martial trials, <lb/> and against the indiscriminate <lb/>arresting of men throughout the <lb/> Country. We are strongly of the opinion <lb/> that such shooting and arrest are <lb/> having a most serious effect on the <lb/> feelings of the people, and may be  
+            <pb n="2" facs="L1916_1413_img_821_2"/>
+              extremely prejudicial to the peace <lb/> and the future harmony of Ireland. <lb/> aaa Such a course of conduct <lb/> as has been pursued, if persisted <lb/> in, must seriously imperil the future <lb/>friendly relations between the Irish <lb/> and English people. <seg type="closer">Signed.  X Daniel Cohalan <lb/>Assistant Bishop of Cork  T.C. Butterfield <lb/>Lord Mayor of Cork</seg> 
+            <pb n="3" facs="L1916_1413_img_821_3"/>
+              <seg type="closer"> William Harte <lb/>High Sheriff  Wm Murphy Chairman U.I.L.  <lb/>Executive Cork City  John J Horgan  James MacCabe  George Crosbie <lb/>Representing the U.I. League <lb/>Executive of the City of Cork</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

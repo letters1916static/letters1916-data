@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1171">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fr Francis M. Shaw to Fr Provincial Thomas V. Nolan, August 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Francis Shaw</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Francis M. Shaw (1881-1924) to the Father Provincial Thomas V Nolan (1867-1941) regarding some letters that were lost.Francis, or Frank, Shaw SJ was born in Ennis, county Clare. He was ordained on 31 July 1916 at Milltown Park, Dublin. Fr Shaw joined the war early in 1916, working in the 16th General Field Hospital at Le Tréporte. In 1917, possibly due to his nationalistic views, Fr Shaw was dispatched to India, and later to Mesopotamia.Fr. Thomas V. Nolan was the Provincial of the Irish Province of the Society of Jesus (1912-1922) and was a member of the Distribution Committee which looked after the welfare and distribution of the Belgian refugees who arrived in Ireland as a consequence of the First World War.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IJA/CHPI/54/30, IJA/CHPI/54/30</collection>
+                  <idno>https://letters1916.ie/item/1171</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1473">Francis Shaw</persName>
+              <date>1918-08</date>
+              <placeName key="#letters1916_place-2129">Mesopotamia </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Fr Thomas V Nolan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1717">Dublin, Ireland </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1171_img_3848_1"  type="Letter"  url="4381bf3234a68a27c397c9e882dbc74c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1171_img_3848_1"/>
+                2<hi rend="superscript">nd</hi> week <sic>ofAugust</sic>.   Dear Reverend Father Provincial, P.C.   I don't know if your Reverence has received <lb/>any letters I wrote from foreign parts. I learnt on my return from <lb/>one <sic>ofour</sic> journeys that the mails that left Bombay for England <lb/>on 7 July last were lost. Now the cheque I sent you is dated <lb/>in my cheque-book 26.6.'17 and it may very likely be, as the <lb/>soldier says, 'na poohed'. I mentioned the fact that I had sent <lb/>the cheque in a second letter which may have got through. If <lb/>you let me know how matters stand I shall be obliged.  We have already done two trips with our ship. The 'beat' <lb/>is by no means an ideal one in monsoon weather. For three <lb/>days going you have a monsoon sea, and then for two or three <lb/>days a roasting Gulf, which,<seg type="foreign">mutatio mutandis</seg>, is <lb/>repeated on the homeward journey. At present heat stroke <lb/>is very bad in Mesopotamia, and most of our patients <lb/>are knocked out by it alone. The end of this <lb/>month should see an improvement. F<hi rend="superscript">r</hi> O'Mahony's <lb/>boat is still here, but I think we shall miss one <lb/>another this time as as my boat only stays a week.  We get scraps of Irish news in the Indian papers. I <lb/>believe the Convention is expected to do something <lb/>one of these days. Have any of the newly-ordained <lb/>or the prospective 'Tullabeggars' donned the khaki ?  I forget if I mentioned a meeting I had in Durban <lb/>with a M<hi rend="superscript">r</hi> Power. He was a Jesuit once and got <lb/>as far as Philosophy or Theology. He knew you very well. <lb/>He is employed in a book-stores in Durban. I met him at <lb/>the Cathedral. I believe he writes very well in defence <sic>ofthe</sic> Faith. <seg type="closer"> I recommend myself <sic>toYour</sic> Reverence's Masses &amp; prayers.  Francis M.Shaw S.J. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

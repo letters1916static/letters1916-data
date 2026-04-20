@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0277">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Andrew Philip Magill to J. G. Swift MacNeill, 19 April 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Andrew Philip Magill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Andrew Philip Magill to J. G. Swift MacNeill (1849-1926), Irish Politician. The letter is an acknowledgement of a letter sent from MacNeill to Augustine Birrell (1850-1933), the chief secretary of Ireland, regarding the use of Robert Louis Stevenson&#39;s novel &#39;Kidnapped&#39; on the school syllabus.Andrew Philip Magill (1871 - 1941) acted as private secretary to Augustine Birrell (1850-1933) the Chief Secretary for Ireland. Magill assumed the role in 1913 and continued after the resignation of Birrell in 1916. John Gordon Swift MacNeill (1849 - 1926) was a jurist and politician. He was MP for South Donegal from 1887 until 1918.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>National Archive of Ireland-Chief Secretary&#39;s Office-Registered Papers, NAI/CSO/RP/1916/5611/8225/3</collection>
+                  <idno>https://letters1916.ie/item/277</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0014">Andrew Philip Magill</persName>
+              <date>1916-04-19</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">J G Swift MacNeill</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0062">17 Pembroke Road, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0277_img_1477_1"  type="Letter"  url="003f621593d310b99588d251853016b5.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0277_img_1477_1"/>
+                19th April, 1916   Dear Mr. Swift MacNeill,   I am desired by Mr. Birrell to acknowledge the<lb/> receipt of your letter of the 17th instant, &amp;<lb/> enclosure, relative to the inclusion of Stevenson's<lb/> 'Kidnapped' in the Intermediate Programme, which will<lb/> receive attention. <seg type="closer"> Yours faithfully,  (Sd.) A.P.M<lb/> Under Secy.<lb/> APM<lb/> 19/4/16.<lb/>  J.G. Swift MacNeill, Esq., K.C., M.P.,  17, Pembroke Road  DUBLIN.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

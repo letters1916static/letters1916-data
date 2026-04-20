@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0641">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Terence Duffin to Maria Duffin, March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Terrence Duffin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Terence &#39;Terry&#39; Duffin to his mother, Maria. Terry writes about the death of Mrs. Margaret Duffin, his aunt. Terence is shocked at the news and expresses concern for his cousins Marjorie and Sam at home, and Thomas, who is off at war. Terrence and his men have taken over another Brigade and has been very busy. He writes that he has received &#39;better news about Verdun,&#39; the bloodiest offensive of the war at the time.This letter is part of a rich correspondence between various members of the Duffin family, a large prosperous group living in Strandtown, Belfast. Several family members served in the World War , including Major Terrence Duffin, who served as a staff officer with the 107 Brigade and later with Royal Irish Rifles; Major Charles G Duffin MC, Royal Field Artillery; and their sisters Emma, Celia, and Dorothy who served as Voluntary Aid Detachments (VADS) in Egypt and France and with the YMCA.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Duffin Papers, D2109/10/1/C/27</collection>
+                  <idno>https://letters1916.ie/item/641</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0936">Terrence Duffin</persName>
+              <date>1915-03</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0664">Maria Duffin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1066">Dunowen, Belfast, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0641_img_2112_1"  type="Letter"  url="4d5c137ea4e3746bf75b7b1c6e814682.jpg"/>
+      <graphic xml:id="L1916_0641_img_2112_2"  type="Letter"  url="353e85c71ac3930bdd9c1463eff42ddc.jpg"/>
+      <graphic xml:id="L1916_0641_img_2112_3"  type="Letter"  url="8fc46428bd77006c9d729f32761c7e29.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0641_img_2112_1"/>
+                Hd Qrs. 107 Bde  B. E. F.    Dearest Mama   I was so sorry to get<lb/> your letter tonight telling me about<lb/> poor Aunt Margaret. Dorothys<lb/> letter came in the morning and I hoped from it all would be<lb/> well and then a few hours<lb/> later came yours. It seems<lb/> so unexpected and so fearfully<lb/> sad. Like you I had pictured<lb/> her settling down to happier days<lb/>  
+            <pb n="2" facs="L1916_0641_img_2112_2"/>
+              when she had got over the blow<lb/> of Uncle Charlie's death. I am<lb/> sorry Marjorie was not with her<lb/> at the end though perhaps for her <lb/> sake it was better. My heart<lb/> aches for poor Charlie getting the<lb/> sad news out hereâ I suppose<lb/> he would be allowed home for a<lb/> time though all leave has been<lb/> stopped. What will happen<lb/> about poor Marjorie with Charlie<lb/> away and I suppose Sam may<lb/> be sent off at any time. It is <lb/> all so tragic.  I will write you again soon<lb/> but at present I am over whelmed<lb/> as we are back in the line<lb/> again and taking over everything<lb/> from another Bde. always<lb/> means confusion, till things<lb/> settle a bit. Our rest<lb/> lasted six days and all that<lb/> time the men were working as<lb/>  
+            <pb n="3" facs="L1916_0641_img_2112_3"/>
+              <lb/>hard as in the trenches!!  Better news about Verdun<lb/> tonight and talk of a separate<lb/> Turkish peace.  Glad to know all are well<lb/> at home in spite of the weather.  We have had snow here<lb/> for the last fortnight and it<lb/> is bitterly cold. <seg type="closer"> Ever your own  <hi rend="underline">Terry</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

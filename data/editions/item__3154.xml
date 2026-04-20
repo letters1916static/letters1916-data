@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3154">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Peter Mooney to his sister Katie Mooney, April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>P.Mooney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Peter Mooney (b.1886) and his sister Katie were raised by their uncle William and his wife Mary in Caulstown. While there are no surviving enlistment papers for Peter, his War Badge Index Record shows his enlistment date as 18 October 1915. He served with the Royal Artillery and later transferred to the Royal Engineers where he was promoted to the rank of Sergeant. He served in several places at the Western Front, including Ypres, St. Omer and Passchendael. Peter and Kate were avid correspondents. This letter part of a collection of over ninety surviving letters.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Mooney Family Papers</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/3154</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0737">P.Mooney</persName>
+              <date>1916-04-19</date>
+              <placeName key="#letters1916_place-1941">Paris, France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Katie Monney</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3154_img_2576_1"  type="Letter"  url="76373d22760d2bbb562a72cf6e4bd91c.jpg"/>
+      <graphic xml:id="L1916_3154_img_2576_2"  type="Letter"  url="98a4ed486e784fadab48cb1f8eb0246b.jpg"/>
+      <graphic xml:id="L1916_3154_img_2576_3"  type="Letter"  url="015d0d59ea92bd69d4dc124269a5faf1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3154_img_2576_1"/>
+             April 19 : 1916   Dear Katie.   I received your letter <lb/>of the 14th last alright. Glad <lb/>to see by it that all are <lb/>going on well. I feel in <lb/>good form &amp; getting quite <lb/>used to his place. The <lb/>weather here is very bad. <lb/>It is raining everyday <lb/>&amp; the wind is very <lb/>cold. 
+            <pb n="2" facs="L1916_3154_img_2576_2"/>
+             2  Many thanks for the<lb/>corn plasters. I have<lb/>enough to last me now<lb/>until the war is over.<lb/>I was sorry to see that<lb/>old Govert <seg type="unclear">Grant</seg> was<lb/>killed at Punchestown<lb/>you know I always liked<lb/>a good horse. Hebertstown<lb/>must be a very big place<lb/>by now. I hope Mr.  3<lb/>Whithworth will return<lb/>safely to enjoy it. Tell<lb/>Bridget I could do with<lb/>a good feed of rashers &amp;<lb/>eggs now. If you saw<lb/>me sometimes out here<lb/>you would say I was<lb/>a nice clean chap with<lb/>mud up to the knees<lb/>as for the boots they<lb/>are something like Paddy<lb/>every day ones. 
+            <pb n="3" facs="L1916_3154_img_2576_3"/>
+             4<lb/>I have nothing more<lb/>to say at present so Good—<lb/>Bye &amp; Pray for me always.  P. Mooney.   The following address will<lb/>find me!<lb/><lb/>Dr. P. Mooney 101267. K.F <lb/>No.1 Lection Lahore D. <lb/>B:E: F France.     
+         </ab>
+      </body>
+   </text>
+</TEI>

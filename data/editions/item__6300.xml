@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6300">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Seán Lehane to Thomas Daly, 20 November 1923</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Seán Lehane</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Sean Lehane, Scarth, Bantry to Tomas Dalaig (Thomas Daly) Knockane, Firies, County Kerry, 20 October 1924. Lehane is glad to hear that Thomas is free and that Charlie and his comrade&#39;s bodies are to be returned. He asks him to send him the funeral arrangements so that Charlie&#39;s Northern comrades can make it to the funeral. English with Irish salutation and valediction. One page and one envelope. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry County Archives</repository>
+                  <collection>Charlie Daly Collection, P41/3/5/6</collection>
+                  <idno>https://letters1916.ie/item/6300</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0102">Seán Lehane</persName>
+              <date>1923-11-20</date>
+              <placeName key="#letters1916_place-0222">Scarth, Bantry, Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas Daly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1113">KnockaneCoolteen, Ballyfinane, Firies, Kerry, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Civil War (1922-1923)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6300_img_None_1"  url="2f5f5983bd7f232ce35df92a452566d3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6300_img_0_1"/>
+             P41/3/5/6   <seg type="unclear">Icart</seg><lb/>Bantry    20/10/<seg type="unclear">21</seg><hi rend="superscript"><seg type="unclear">st</seg></hi>    <seg type="foreign">A Thomáis, a chara</seg>   Yours of Friday last to hand<lb/>glad to find you doing fine.  I am glad also that the poor lads<lb/>bodies are to be handed back.  I will communicate with the<lb/>lads here who were with me up<lb/>north &amp; we will try &amp; attend at the<lb/>re-burial. Please let me know<lb/>if you possibly can what arrangemts<lb/>you will make, so as to give us<lb/>a chance of being in time.  Hoping this finds you &amp; yours<lb/>in the best of form   <seg type="foreign">Do cara</seg><lb/>Sean Lehane  
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0512">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the War Employments Inspector to Alexander McDowell, 22 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>War Employments Inspector</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from the War Employments Inspector to Alexander McDowell (d. 1918), Ministry of Munitions, thanking McDowell for his reply to his queries about the employment of female workers in the Linen and Munitions factories in Belfast. The inspector states that the information will be submitted in a report to the Local Government Board (LGB).Alexander McDowell, Esq., was the joint director of Ireland for the Ministry of Munitions.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI, CSORP/1916/7443/11</collection>
+                  <idno>https://letters1916.ie/item/512</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0459">War Employments Inspector</persName>
+              <date>1916-03-22</date>
+              <placeName key="#letters1916_place-0536">War Employments Branch, Local Government Board, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0654">Alexander McDowell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0814">Ministry of Munitions, Coates Building, Castle Street, Belfast, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0512_img_1884_1"  type="Letter"  url="1878521cba3d505df82b91245dfb67f0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0512_img_1884_1"/>
+                Local Government Board,  (War Employments Branch)  Dublin.    22nd March, 1916   Dear Sir,   I have to thank you for yours of the 17th instant in <lb/> reply to my letter of the 11th addressed to Captain Kelly. <lb/> The information you have been good enough to obtain from <lb/> the President of the Flax Spinners and Power Loom Weavers' <lb/> Association is most valuable and reassuring and will be <lb/> embodied in my report to the Board.   I am also obliged for the information contained as to <lb/> the employment of female workers in Munition work.  <seg type="closer"> I am, <lb/> Sir, <lb/> Yours faithfully.   War Employments Inspector. <lb/>  Alexander McDowell, Esq.,  Ministry of Munitions,  Coates Building,  Castle St,  BELFAST.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

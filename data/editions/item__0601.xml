@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0601">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Jeannie Adams to her mother Mary Adams, 16 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Jeannie Adams</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Jeannie Adams (d. 1936), to her mother Mary Adams (d. 1942). Jeannie begins this letter by apologising to her mother for the long time that it has taken her to write. She writes that she has been very busy and has never worked so hard before in her life. Jeannie writes that it had been her intention to send her brother, John (1890-1971), a parcel for Easter but she could not find the time. She asks if her mother could send him a parcel and writes that she is sure &#39;he will be lonely&#39;. Jeannie Adams, born Jane Adams, later emigrated to Auckland, New Zealand, where she died in 1936. During the Great War her brother, John Adams, served with the 9th (Service) Battalion, Royal Irish Fusiliers. He spent the winter of 1915-16 in the trenches near the Somme valley. John Adams was wounded two months before the Battle of the Somme and spent Christmas 1916 in a camp in Tipperary. After returning to the Western Front in early 1917, he was involved in the Battle of Messines and further fighting in Ypres (Passchendaele). He was seriously wounded in October 1918, a few weeks before the end of the war.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Adams Family Collection</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/601</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0218">Jeannie Adams</persName>
+              <date>1916-04-16</date>
+              <placeName key="#letters1916_place-1084">Holywood, Co. Down</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mary Adams</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1981">Lisadian, Co. Armagh</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0601_img_2012_1"  type="Letter"  url="fdc579f1d757f2447aed4ddcebcbbfe6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0601_img_2012_1"/>
+                Church Hill  Hollywood  Co Down    <hi rend="underline">16<hi rend="superscript">th</hi> April 1916.</hi>   My Dear Mother   I am very sorry I have been such a time in writing<lb/> but I could not help it I have been so busy I think I<lb/> never did as much work in my life as I have done this<lb/> last week, we have got all the cleaning done we just got done<lb/> last night, and I am tired there was a woman in only<lb/> three days I did the rest myself. I was down in Hollywood last<lb/> night after I got finished I met <seg type="unclear">Croziers</seg> the first thing<lb/> Sara asked me was I sick she said I never loked as sick<lb/> looking but I am glad to get finished. I hope you are all well<lb/> had you any word from Johnnie fately. I had none all week. I<lb/> wrote to him last Sunday. I told him I was going to send<lb/> him a Parcel but I had not time to do it would you<lb/> send him one for Easter. I am sure he will be lonely I hope<lb/> we will hear from him soon has Sammy Moffat been<lb/> home yet. I forgot to tell you that last week the Lough<lb/> was full of ships Mr Trimble said he counted 19, there<lb/> was  German  submarines in the Channel, these ships were guarded<lb/> by a war ship, I think the have caught one of the<lb/> submarines I wish it was all over it seems to get worse  
+         </ab>
+      </body>
+   </text>
+</TEI>

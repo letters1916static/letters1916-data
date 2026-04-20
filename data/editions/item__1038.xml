@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1038">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Under Secretary to the Earl of Meath on the appointment of a Deputy Lieutenant for Dublin</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Sir Matthew Nathan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Previously Reginald Le Normand Brabazon, 13th Earl of Meath, Lord Lieutenant of County Dublin had proposed Viscount Powerscourt for the vacant position of Deputy Lieutenant of Dublin following the death of Captain Charles M. Celthurst Vesey. The Under Secretary at Dublin Castle ( Sir Matthew Nathan) points out that Powerscourt is already Lieutenant of Wicklow and that there is no precedent for appointing an existing Lieutenant of a County to be Deputy Lieutenant of another county. Nathan recommends that Meath reconsider his recommendation.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI_CSO/RP/1916/3644/8-9, NAI_CSO/RP/1916/3644/8-9</collection>
+                  <idno>https://letters1916.ie/item/1038</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0152">Sir Matthew Nathan</persName>
+              <date>1916-02-02</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0635">Reginald Le Normand Brabazon, 13th Earl of Meath, Lord Lieutenant of County Dublin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0202">Chertsey, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1038_img_310_1"  type="Letter"  url="fc71641347706bda2f0675841eaf9b0c.jpg"/>
+      <graphic xml:id="L1916_1038_img_310_2"  type="Letter"  url="0c7f276bdee39a1bb47c1e50416d6485.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1038_img_310_1"/>
+                DUBLIN CASTLE,   <seg type="del">My Lord</seg> Dear Lord Meath,    <seg type="del">With reference to Your Lordships letter of</seg> You wrote to me on  the 11th ultimo <lb/>proposing to appoint <seg type="del">the Viscount</seg> Lord  Powerscourt, <seg type="del">M.V.C.</seg>, to be <lb/>a Deputy Lieutenant for the County of Dublin in the room of <lb/>the late Captain Charles M. Colthurst Vesey; <seg type="del">I am directed</seg> I had some doubts on etc. } <lb/><seg type="del">by the Lord Lieutenant to inform you that while there are</seg><lb/>three Lieutenants of Counties who are Deputy Lieutenants of <lb/>other Counties in Ireland, viz: Lord Rathdonnell, the Right <lb/>Honourable Edward Archdale and Sir Anthony Weldon, Bart., these <lb/>gentlemen held their appointments as Deputy Lieutenants prior <lb/>to their appointments to the Lieutenancy. There appears to <lb/>be no precedent for the appointment of an existing Lieutenant <lb/>of a County to be a Deputy Lieutenant of another County. <lb/>When a gentleman who holds a Commission as a Deputy Lieutenant <lb/>has been proposed for appointment as a Deputy Lieutenant in <lb/>another County it has been the rule to require him to resign <lb/>his existing Commission before approving of the appointment. <lb/>The number of Deputy Lieutenants in each County being limited, <lb/>the holding of two Commissions by the same gentleman prevents <lb/>the appointment of another gentleman who may be duly <lb/>qualified. It would appear to His Excellency that similar <lb/>considerations would apply to the proposed appointment of a <lb/>Lieutenant of a County as a Deputy Lieutenant of another <lb/>County<seg type="del">and His Excellency would therefore</seg> &amp; in these <sic>circs</sic> I would be glad  be glad if <seg type="del">Your</seg><lb/><seg type="del">Lordship will be so good as</seg> you could see your way to  reconsider your recommendation <lb/>as  The Right Honourable, <lb/>The Earl of Meath, K.P., <lb/>Chamworth House, <lb/>Ottershaw, <lb/>Chertsey.  
+            <pb n="2" facs="L1916_1038_img_310_2"/>
+              as to the filling of the present vacancy. <seg type="closer"> <seg type="del">I have the honour to be,</seg><lb/><seg type="del">My Lord, </seg><lb/><seg type="del">Your obedient Servant,</seg> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

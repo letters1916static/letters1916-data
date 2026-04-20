@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1394">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Lord French to Sir John Maxwell, 19 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Denton Pinkstone French</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from sir John French, 1st Earl of Ypres (1852-1925), commander of all British forces on home service, to Sir John Maxwell (1859-1929). In this short letter French is arranging to visit Maxwell in Dublin and proposes &#39;the week after next&#39;, unless Maxwell wishes to postpone the visit.Sir John Henry Grenfell Maxwell was appointed commander in chief of the British forces in Ireland after the outbreak of the Easter Rising. Before 1916, Maxwell briefly held command of British troops in Egypt, where he successfully organised defences against a Turkish attack in February 1915 and presided over the huge expansion of his command as Egypt became a major British imperial military base. In March 1916, having been superseded as general officer commanding in Egypt, he was recalled home when the Easter Rising broke out. Sir John Denton Pinkstone French, first Earl of Ypres, was a British officer. Upon the outbreak of war, French was appointed Field Marshal of the British Expeditionary Force (BEF). Although popular with his men, the failure of his offensives, Neuve-Chapelle and Loos, to break the German lines and his criticism of the home government led to his replacement as Field Marshal by sir Douglas Haig (1861-1928) in late 1915. French was appointed Commander in Chief of the Home forces in January 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>De Valera Papers, P150/512</collection>
+                  <idno>https://letters1916.ie/item/1394</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0358">John Denton Pinkstone French</persName>
+              <date>1916-05-19</date>
+              <placeName key="#letters1916_place-1422">G.H.Q., Home Forces, Horse Guards, Whitehall, S.W., London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0174">John Grenfell Maxwell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1394_img_777_1"  type="Letter"  url="2941b321dd95d31a71c5c67fcc5449a2.jpg"/>
+      <graphic xml:id="L1916_1394_img_777_2"  type="Letter"  url="c8aaa235a50e82f9a9b8f2e1d7add83a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1394_img_777_1"/>
+                G.H.Q. Home Forces,  Horse Guard,    <hi rend="underline">May.19.1916</hi>   My Dear Maxwell,   Yours of 12<hi rend="superscript">th</hi>  You have acted with great <lb/> promptitude,  , &amp;  <lb/> and I feel <seg type="unclear">that</seg> all people - whose <lb/> opinion matters - think so.  i <seg type="unclear">will</seg> see about Rifles for your <lb/> Reserve Regts.  I am trying to arrange to go <lb/> over to you the week after  
+            <pb n="2" facs="L1916_1394_img_777_2"/>
+              <lb/>next but will write again about <lb/> this: but I can defer my visit <lb/> if you prefer it. <seg type="closer"> <seg type="unclear">Yours</seg> sincerely  <hi rend="underline">French</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

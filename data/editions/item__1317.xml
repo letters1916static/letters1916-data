@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1317">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to Sir Henry Grattan Bellew, 8 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Jennings</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter to Sir Henry Grattan Bellew (1860-1942) enclosing a letter from Father Flanagan, the Parish Priest of Cootehall (now lost), asking for a commission for his nephew, Frederick Kerr, in Grattan Bellew&#39;s battalion. The writer recommends the nephew as a &#39;very nice &#39;gentlemanly&#39; fellow above the average intelligence.&#39; A note from Grattan Bellew records that he answered the letter but could do nothing for Mr. Kerr.Sir Henry Christopher Grattan Bellew was the third baronet of Mount Bellew in County Galway. He held the rank of Lieutenant-Colonel, 4th Battalion Connaught Rangers. His son, sir Charles Christopher (1887-1948) held the rank of Lieutenant-Colonel, King&#39;s Royal Rifle Corps. He was decorated with the award of the Military Cross (M.C.) in 1918.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Bellew of Mount Bellew Papers, Collection List No. 33, Ms. 27,290/2</collection>
+                  <idno>https://letters1916.ie/item/1317</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1252">Jennings</persName>
+              <date>1916-01-08</date>
+              <placeName key="#letters1916_place-1976">Boyle, County Roscommon</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Henry Grattan Bellew</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1317_img_611_1"  type="Letter"  url="4e667a5df259c667407bda5ac2d54720.jpg"/>
+      <graphic xml:id="L1916_1317_img_611_2"  type="Letter"  url="14223b04f3ed3c7b090e3be7b816aac2.jpg"/>
+      <graphic xml:id="L1916_1317_img_611_3"  type="Letter"  url="c8a854a06a3bebaa94cddcf8a57f4d4c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1317_img_611_1"/>
+              answered <lb/>19-1-16 <lb/>can't do anything <lb/>for Gen Hammond <lb/><lb/>Doyle 8-1-16   My dear Sir Henry.   May I enclose a <lb/>letter from the Rev<hi rend="superscript">d</hi><lb/>Father Flanaghan P.P of <lb/>Cootehall â he is most <lb/>anxious to obtain <seg type="del">his</seg><lb/>a commission in your <lb/>Batt<hi rend="superscript">n</hi> for his nephew <lb/>M<hi rend="superscript">r</hi> Frederick L. Kerr, <lb/>a very good sort of well educated, good <lb/>looking young man  
+            <pb n="2" facs="L1916_1317_img_611_2"/>
+              desirable and presentable <lb/>in every way â Mr <lb/>Kerr was educated <lb/>at Blackrock and <lb/>Catholic University â <lb/>I am writing to you <lb/>on his behalf to know <lb/>if he w<hi rend="superscript">d</hi> have any <lb/>chance of obtaining <lb/>Comm. in your Batt<hi rend="superscript">n</hi>.  Father Flanagan has <lb/>supported recruiting  and the army <lb/>generally. hence <lb/>my intruding &amp; <lb/>furthermore M<hi rend="superscript">r</hi> Kerr <lb/>is quite qualified <lb/>and up to the mark <lb/>and can be supported <lb/>by Sir Thomas Stafford <lb/>and many others <lb/>perhaps for Mr <lb/><seg type="unclear">James</seg> not much <lb/>writing to Father <lb/>T Flanagan P.P. <lb/>Cootehall <lb/>Boyle  
+            <pb n="3" facs="L1916_1317_img_611_3"/>
+              and assist him <lb/>in anyway, I <lb/>can say that Mr <lb/>Kerr is a very nice <lb/>âgentlemanly' fellow <lb/>above the average intelligence <seg type="closer"> With regards &amp; apologies  <seg type="unclear">Frederick <lb/><hi rend="underline">Jennings</hi></seg> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

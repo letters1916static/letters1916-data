@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1799">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Jeannie Horner to Augustine Birrell, 4 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Jeannie Horner</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Jeannie Horner to Augustine Birrell (1850-1933), the chief secretary for Ireland. Birrell had support from many leading nationalist and unionist leaders as chief secretary, however the day after the 1916 Easter Rising Birrell resigned due to his in ability to anticipate or squash the rebellion. The letter is a recommendation by Horner for William Horner (1878-1947), a Londonderry solicitor and unionist, to fill the position as chief crown solicitor upon the death of the former solicitor Sir Malachy Kelly (1850-1916). The letter acknowledges Birrell&#39;s powerful position noting that he weighs &#39;lesser mortals&#39; in the balance. It goes on to greatly recommend Horner, stating he is an able solicitor, noting that his brother Andrew L. Horner (1886-1916), an MP for South Tyrone, did not worry Birrell too much, except on education. It also notes that Andrew died, stating he was a kindly fellow. The letter ends stating that William Horner has brains and that Ireland can have the benefit if Birrell allows it. A card from Jennie Horner is enclosed. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/6463/5</collection>
+                  <idno>https://letters1916.ie/item/1799</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0488">Jeannie Horner</persName>
+              <date>1916-04-04</date>
+              <placeName key="#letters1916_place-0092">Magheramore, Limavady, Londonderry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0534">Augustine Birrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2041">Chief Secretary's Office, Dublin Castle, Dublin, Ireland </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1799_img_1253_1"  type="Letter"  url="f84feebf993b3b6546ec4dcd8349a2f9.jpg"/>
+      <graphic xml:id="L1916_1799_img_1253_2"  type="Enclosure"  url="24dd80e55e24dea9972bf4e19e7c9396.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1799_img_1253_1"/>
+             Magheramore,<lb/>Limavady, Co Londonderry.   April 4<hi rend="superscript">th</hi> 1916.   To the Chief Secretary for Ireland,<lb/>Mr Augustine Birrell   Dear Sir,   One gathers from Spanish <seg type="unclear">Gold</seg> that<lb/>you are an approachable Chief Secretary, and as<lb/>Chief Secretary you weigh lesser mortals in a balance<lb/>but perhaps you are a Chief Secretary with a<lb/>sporting <seg type="unclear">instinct</seg> - and may I approach ?<lb/>William Horner Sol<hi rend="superscript">or</hi>, Limavady &amp; Londonderry wants<lb/>that Chief Crown Solicitorship, &amp; would you give it<lb/>to him because he is an able lawyer, and<lb/>because his brother Andrew Long Horner never<lb/>worried you <hi rend="underline">too</hi> much, save on grants about<lb/>education, and we are all in a bad way since<lb/>he died — he was such a kindly fellow.     William has brains &amp; Ireland might well have the benefit<lb/>if you wish it !   Yours faithfully   Jeannie Homer.  
+            <pb n="2" facs="L1916_1799_img_1253_2"/>
+             Miss J. Horner, B.A. <lb/>MAGHERAMORE, <lb/>LIMAVADY. 
+         </ab>
+      </body>
+   </text>
+</TEI>

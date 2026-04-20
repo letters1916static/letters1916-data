@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2167">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Jasper Travers Wolfe to Robert Chalmers, 19 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Jasper Travers Wolfe</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Jasper Travers Wolfe (1872-1952), a Cork based solicitor, to the under-secretary, Sir Robert Chalmers (1858-1938).
+Wolfe sends the letter with the intention of enclosing a reference from the Clerk of the Crown and Peace for Cork, Mr. Henry T. Wright, which backs Wolfe&#39;s own application to the office of the Crown Solicitor of Cork.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/8533/1</collection>
+                  <idno>https://letters1916.ie/item/2167</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0660">Jasper Travers Wolfe</persName>
+              <date>1916-05-19</date>
+              <placeName key="#letters1916_place-0540">Skibbereen, Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1952</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2167_img_1615_1"  type="Letter"  url="0aa18abb61b398bf1aa262841af3a21f.jpg"/>
+      <graphic xml:id="L1916_2167_img_1615_2"  type="Enclosure"  url="ac02b03b85ef4776477a295acd95d223.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2167_img_1615_1"/>
+             19th May,1916.   To:-   The Under-Secretary for Ireland, <lb/>Dublin Castle.   Sir, ,  Following my application for appointment to the Office of <lb/>Crown Solicitor for the City of Cork and West Riding;I beg to <lb/>enclose Certificate received from Mr. Henry T. Wright, Clerk of <lb/>the Crown and Peace, Cork.   I as, <lb/>Sir, <lb/>Your obedient servant,   <hi rend="underline">J Travers Wolfe</hi> 
+            <pb n="2" facs="L1916_2167_img_1615_2"/>
+             I have the pleasure of knowing Mr <lb/> Jasper Wolfe I think since he became <lb/> a Solicitor, he is in the employment at <lb/> present of the largest practice in West Cork <lb/>including a very extensive Quarter <lb/> Sessions and Petty Sessions practice, he <lb/> is an able advocate with a thorough <lb/> knowledge of criminal law and with <lb/> a very large experience acquired in <lb/> the defence of prisoners; I have <lb/> no hesitation in saying that I <lb/> consider him preeminently <lb/> suitable for the office of Crown <lb/> Solicitor and for which office I <lb/> hardly know anybody so suitable   Henry Wright    Clerk of the Crown and Peace <lb/>Court House Cork   <hi rend="underline">May 16th 1916</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

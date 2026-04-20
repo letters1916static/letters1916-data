@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1662">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Cathal Brugha to Éamonn Ceannt, 24 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Cathal Brugha</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Cathal Brugha (1874-1922), revolutionary, to Éamonn Ceannt (1881), cultural nationalist and revolutionary. 
+Brugha writes a message in English and in Irish on the morning of the Easter Rising from his mobilisation point. Eoin MacNeill&#39;s countermanding order and the decision to postpone the Rising until Easter Monday led to much confusion and a far reduced number of men turned out.
+
+Brugha (born Charles Burgess) was an active nationalist, member of the Gaelic League and adjutant of the 4th Dublin battalion of the Irish Volunteers. Ceannt was Ceannt was an active cultural nationalist and seperatist and was a member of the Gaelic League, the Irish Volunteers (where he was director of communications and commandant of the 4th Dublin battalion) and the Irish Republican Brotherhood. Ceannt was a signatory of the Proclamation of the Irish Republic and during the Easter Rising Ceannt commanded the garrison of rebels in the South Dublin Union where Brugha served as his second in command. Brugha was severely wounded during the fighting but survived and Ceannt was executed on 8 May 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Áine Ceannt Collection; BMH CD/94/4/3</collection>
+                  <idno>https://letters1916.ie/item/1662</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">Irish</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0724">Cathal Brugha</persName>
+              <date>1916-04-24</date>
+              <placeName key="#letters1916_place-0714">Emerald Square, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0397">Éamonn Ceannt</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1922</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1662_img_1121_1"  type="Letter"  url="300dcc06e823a2ba0e6cf1d4d28203f3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1662_img_1121_1"/>
+             To Comdt Kent Emerald Square   Caithfidh tú duine éigin eile <lb/> d'fhághailt chun obair Thaidg Uí <lb/> Briain a dhéanamh  Cathal Bruga<lb/>  Just <seg type="unclear">got</seg> message. I did not <seg type="unclear">wire</seg> because <lb/> I thought you could get your motor cyclist <lb/> when you received my message.  <lb/>10.55 am  24 4 16  <lb/>I.V. cyclist <!-- begin translation -->  You must get someone to do the work of Tadhg Ó Briain (O’Brien).  Cathal Brugha <!-- end translation -->
+         </ab>
+      </body>
+   </text>
+</TEI>

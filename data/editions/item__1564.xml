@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1564">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Major E. Reade to Mabel FitzGerald, 20 July 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>E. Reade</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Desmond FitzGerald (1888-1947) was an Irish Volunteer and was present in the GPO during the Easter Rising. He was subsequently arrested, court-martialed and sentenced to 20 years Penal Servitude, later commuted to 10 years.
+Mabel FitzGerald (1884-1957) was the wife of Desmond Fitzgerald.
+At the time of this letter Desmond FitzGerald was in HM Prison, Dartmoor, England.
+Reade, acknowledges Mrs. FitzGerald&#39;s postcard of 18 July and advises as to when a visit might be allowed, but tells her not to make any travel plans until such time as she has received an Official Visiting Order. He also writes in relation to some missing papers that Mrs. FitzGerald had enquired after.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1607/1</collection>
+                  <idno>https://letters1916.ie/item/1564</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0782">E. Reade</persName>
+              <date>1916-07-20</date>
+              <placeName key="#letters1916_place-0003">HM Prison, Dartmoor, England.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0166">2 Loretto Villas, Bray, Co. Wicklow, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1564_img_1032_1"  type="Letter"  url="b16bbc426c143f70250084ef7cc2a808.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1564_img_1032_1"/>
+              All Communications should be <lb/>addressed to <hi rend="underline">"The Governor",</hi> <lb/> and not to any official by name.     H.M.Prison <lb/>Dartmoor     20th July 1916     Madam  <lb/>I have to acknowledge receipt of your Post Card of 18.7.16 <lb/> and to inform you in reply that q190 T.D.Fitzgerald will <lb/> be due for a visit any week day after 17.9.16. <lb/> provided he does not lose any marks.   If a visit is contemplated, the Governor must <lb/> be written to, and the journey must not be undertaken <lb/> till the official Visiting Order has been received.   The papers may have been taken by the Police <lb/> or Military Authorities, with other papers, or possibly <lb/>sent Publisher, by you, whilst he was in prison before.   If you cannot find them, he suggests, you <lb/> had better do what you can with the four others.    I am, <lb/>Madam, <lb/>Your obedient Servant, <lb/> E.R.Reade   <lb/>Governor   Mrs.M. Fitzgerald <lb/>2 Loretto Villas <lb/>Bray <lb/>Co Wicklow <lb/>Ireland  
+         </ab>
+      </body>
+   </text>
+</TEI>

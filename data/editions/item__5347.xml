@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5347">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Chester A. Arthur to Con, Ellen and Cormac O'Dálaig, June 1922 </title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Chester A. Arthur</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry Library Archives</repository>
+                  <collection>Charlie Daly Collection, P41/13/1 </collection>
+                  <idno>https://letters1916.ie/item/5347</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0094">Chester A. Arthur</persName>
+              <date>1922-06</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Con, Ellen and Cormack O&#39;Dálaig</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1151">Co Kerry, Ireland </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Civil War (1922-1923)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5347_img_4629_1"  type="Letter"  url="63cc39373ecb6bff54354b275486a374.jpg"/>
+      <graphic xml:id="L1916_5347_img_4629_2"  type="Letter"  url="3ccee5531e2a8e44188cb6b4e95f6a20.jpg"/>
+      <graphic xml:id="L1916_5347_img_4629_3"  type="Enclosure"  url="822d84d03a56d9458c0e9d23109030e2.jpg"/>
+      <graphic xml:id="L1916_5347_img_4629_4"  type="Envelope"  url="6baec07f8f9d14cb2210ef56475942c0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5347_img_4629_1"/>
+             My love to Charlie<lb/>if you see him. I hope he is<lb/>safe and well. 
+            <pb n="2" facs="L1916_5347_img_4629_2"/>
+             I want to thank you all<lb/>for the wonderful day I<lb/>spent at your house. I<lb/>am looking forward to bringing<lb/>my wife to see you.  We flew by airplane from<lb/>London to Paris for our honeymoon,<lb/>but we return to Ireland the<lb/>14 of July.  My best to you always<lb/><seg type="unclear"></seg><lb/>Chester Arthur 
+            <pb n="3" facs="L1916_5347_img_4629_3"/>
+             P41/13/1  Mrs. Charles Scotto Wilson<lb/>announces the marriage of her daughter<lb/>Charlotte Joy<lb/>to<lb/>Mr. Chester Alan Arthur Jr.<lb/>on Thursday the Twenty ninth of June,<lb/>One Thousand nine hundred and Twenty two<lb/>at St. Marks Church.<lb/>Surbiton, England. 
+            <pb n="4" facs="L1916_5347_img_4629_4"/>
+             Mr &amp; Mrs O' <lb/>Miss O'   7   <lb/> Ireland Co.Kerry    
+         </ab>
+      </body>
+   </text>
+</TEI>

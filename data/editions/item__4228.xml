@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4228">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Wilfrid Spender to family, 20 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Sir Wilfrid Spender (1876 - 1960) to his family. Spender was a member of the British Army until 1913 when controversy surrounding his signature of the Ulster Solemn League and Covenant resulted in his resignation. Spender was called up for military service in 1914 and from 1915 served in the 36th (Ulster) Division. Throughout the war, Spender wrote a collection of letters to his wife Lady Lillian Spender. The letters date mainly from 1915 to 1918, when Sir Wilfrid was serving in France. The letters concern politics, the Irish question, personal life, and Wilfrid&#39;s experience of the Great War.&#34;</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Letters from Sir Wilfrid Spender to Lady Spender, D1633/1/1/67</collection>
+                  <idno>https://letters1916.ie/item/4228</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0667">Wilfrid Spender</persName>
+              <date>1915-11-20</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1960</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4228_img_3598_1"  type="Letter"  url="bdb4443a686cda56e5974cddfa69d385.jpg"/>
+      <graphic xml:id="L1916_4228_img_3598_2"  type="Letter"  url="1d1941e3b7e1b0b72d479190777512d0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4228_img_3598_1"/>
+             <seg type="del">Mater Emund <lb/> Mab</seg>Rex   <hi rend="underline">Please return finally to Lil.</hi>   20Nov   Dear folks   Only time for a very few lines, as out with <lb/> the GOC.    Such nice letters from you &amp; Mater.   Gen N told me you had taken over &amp; I left <lb/> the matter without much comment. I can see you <lb/> will be skating over thin ice for some time, &amp; the <lb/> ice spreads right over to here too: at least I expect <lb/> there will be a distinct reflex action of any explosion <lb/> in your area !    A good deal of stuffiness in the air this <lb/> morning but Hickman whose dexterity I admire <lb/> greatly <seg type="del"> me </seg> talked the General into a <lb/> more genial mood before we left, &amp; had we been <lb/> able to stop to <seg type="unclear">lunch</seg> the panacea of all ills, every-
+            <pb n="2" facs="L1916_4228_img_3598_2"/>
+            thing would have been quite rosey.   As regards Winston's speech it is quite clear <lb/> to me that he took charge of his Naval Advisors, who <lb/> were either persuaded  by him  or who rather than express <lb/> their disagreement &amp; retire remained silent, as al- <lb/> ways happens at Committee meetings with no one <lb/> responsible.   I have been out for a long time with the <lb/> Gen' this afternoon so have no time to write more <lb/> but send my love to you both.   I thought Jessie would begin spoiling you if <lb/> she got the chance, &amp; if you give her any excuse <lb/> she will be telling you all kinds of tales about <lb/> us.    Wilfried . BSpender   P.S. I will try &amp; write to Lil as soon as I have any <lb/> news to send. 
+         </ab>
+      </body>
+   </text>
+</TEI>

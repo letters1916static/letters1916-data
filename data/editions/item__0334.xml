@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0334">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Laurence Gaughan to Alice Stopford Green, 26 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Laurence Gaughan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was addressed to Alice Stopford Green (1847-1929), the wife of historian John Richard Green (1837-1883). Stopford Green was a nationalist, involved in the Howth gun-running and a historian in her own right. She was shocked by the 1916 Rising and horrified that Casement had been plotting to obtain German assistance. Nonetheless, she visited Casement in prison and lobbied to prevent his execution.This letter was sent by the Bishop of Meath Laurence Gaughan (1842-1928). In this letter Gaughan states that he has signed the petition for the cancelation of the charges against Roger Casement (1864-1916). Casement had been imprisoned in London after he had been arrested while landing on the coast of Kerry in a submarine on the eve of the Easter Rising. A campaign was launched featuring many prominent figures such as W.B. Yeats and George Bernard Shaw to secure a reprieve for Casement but he was hanged on 3 August 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casement Papers, Collection List No. A15, Ms. 13,088/9</collection>
+                  <idno>https://letters1916.ie/item/334</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0108">Laurence Gaughan</persName>
+              <date>1916-07-26</date>
+              <placeName key="#letters1916_place-0300">Bishop&#39;s House, Dublin Road, Mullingar, County Westmeath, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Alice Stopford Green </persName>
+              <date></date>
+              <placeName key="#letters1916_place-0183">36 Grosvenor Road, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0334_img_1562_1"  type="Letter"  url="2ffba5b21c3a9fb9cf53a9b17506a249.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0334_img_1562_1"/>
+                26th July, 1916   Madam,   I have given my name <lb/> to Colonel Moore, as a Signatory<lb/> to the petition for the <seg type="unclear">circulation</seg><lb/> of the lectures on Roger Casement. <seg type="closer"> Yours etc. <lb/> Laurence Gaughan <lb/> Bishop of Meath<lb/>  Mrs Stopford Green  36 Grosvenor Road,  London  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

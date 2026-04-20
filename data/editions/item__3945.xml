@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3945">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Francis Sheehy Skeffington to Earnest Aston, 1 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Francis Sheehy Skeffington</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Francis Sheehy Skeffington to Earnest Aston regarding a surviving debt of the Civic League. Skeffington states that he will not be paying the debt and suggesting meeting up with Aston soon on another matter.
+
+Francis Sheehy Skeffington (1878-1916),  journalist, was a prominent feminist, activist and co-founder of the Irish Women&#39;s Franchise league in 1908. In 1912, he and his wife, Hanna Sheehy Skeffington (1877-1946), founded the suffragist newspaper The Irish Citizen. A staunch pacifist and nationalist, Sheehy Skeffington opposed Irish involvement in the Great War. During the Easter Rising, he attempted to organise a civilian defence force to prevent looting and saved the life of a British officer under fire. Arrested on the evening of Tuesday 25 April 1916, Sheehy Skeffington and two other civilians were shot by firing squad on the morning of Wednesday 26 April.
+
+Ernest Albert Aston (1873–1949) was a journalist and urban planner.  Aston was a supporter of Home Rule and was co-founder of the Dublin Liberal Association in 1910. His acquaintance with many of the political leaders of 1908–20, including Éamon de Valera, Arthur Griffith, and Eoin MacNeill meant that he was suspected of providing political intelligence to the British authorities.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47; Ms 33,612/18-16</collection>
+                  <idno>https://letters1916.ie/item/3945</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1551">Francis Sheehy Skeffington</persName>
+              <date>1916-02-01</date>
+              <placeName key="#letters1916_place-0720">11 Grosvenor Place, Rathmines, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Ernest Albert Aston</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1916</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3945_img_3320_1"  type="Letter"  url="9159649af500207f548d481dc7bac06f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3945_img_3320_1"/>
+             11, Grosvenor Place, <lb/>Rathmines.   1 — II. —16   My Dear Aston ,   The enclosed reached me a few days ago, and I had no idea to what <lb/>it referred. On inquiry I find that it refers to advertisements <lb/>which I inserted, two years ago, on behalf of the Civic League !   Has that pre—historic (that is to say, pre—War) organisation <lb/>enough vitality left to discharge this debt? In any case, <hi rend="underline">I</hi> <lb/>don't intend to pay it.   I should like to see you some day soon with reference to another <lb/> matter, — if all your time is not taken up with sending fools to the <lb/> shambles.   Yours sincerely   Francis Sheehy Skeffington 
+         </ab>
+      </body>
+   </text>
+</TEI>

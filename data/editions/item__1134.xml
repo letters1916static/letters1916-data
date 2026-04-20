@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1134">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Monsieur J. des Longchamps to Sir Neville Chamberlain, 18 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J. des Longchamps</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter requesting that two Alsatians - Romain Willmann and Louis Herr - living in Ireland should be given free passage to Boulogne, France to serve in the French Army, as per an agreement between the British and French governments.Monsieur Jean Louis Amable Loiseleur des Longchamps-Deville served as the French Consul in Ireland from 1913. Sir Neville Francis Fitzgerald Chamberlain (1856-1944) army officer and inventor of snooker. In 1900 Chamberlain was appointed inspector-general of the Royal Irish Constabulary in an attempt to revitalize the senior ranks of the force. He was made a KCB in 1903 and KCVO in 1911.Unimpressed by the value of the intelligence gathered by the Royal Irish Constabulary, Major-General Sir Arthur Paget, general officer commanding Ireland, requested the appointment of a replacement for Chamberlain, whom he described as ‘a man lacking in character and initiative’, in the event of martial law being imposed (Paget to J. E. B. Seely, 23 March 1914, Beckett, 336). There were further moves to replace him early in 1916 as the situation in Ireland deteriorated, but he remained to lead the force at the time of the Easter rising. The Hardinge commission of inquiry commended Chamberlain&#39;s handling of the rising, but criticisms of the constabulary&#39;s intelligence failures continued, and he was replaced in July 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI CSO/RP/1916/442/11/6, NAI CSO/RP/1916/442/11/6</collection>
+                  <idno>https://letters1916.ie/item/1134</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1075">J. des Longchamps</persName>
+              <date>1915-12-18</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Neville Chamberlain</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1134_img_370_1"  type="Letter"  url="0b661c769e1927d202bb536b31527a2a.jpg"/>
+      <graphic xml:id="L1916_1134_img_370_2"  type="Letter"  url="76beb0b716a96f0f8081aac2d0a84253.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1134_img_370_1"/>
+               <seg type="foreign">CONSULAT DE FRANCE</seg>  <seg type="foreign"><hi rend="underline">EN IRLANDE.</hi></seg>  Dublin  <seg type="foreign">le</seg>  18 <hi rend="superscript">th</hi><sic>Decembre</sic> 1915   <lb/><hi rend="underline">Confidential</hi> Dear Sir,   According to the<lb/>agreement between the British<lb/>and French Governments the<lb/>Alsatians born in Germany,<lb/>established in British territories<lb/>and who are willing to serve<lb/>in the French Army are sent<lb/>to France by the care of the<lb/>French Consuls in those territories.  Two of these Alsatians are<lb/>living in Ireland, Louis <hi rend="underline">Herr</hi><lb/>at Roscommon and Romain    Sir Neville Chamberlain  Inspector General of the  Royal Irish Constabulary  The Castle  <hi rend="underline">Dublin</hi>    
+            <pb n="2" facs="L1916_1134_img_370_2"/>
+              <hi rend="underline">Willmann</hi> at Londonderry â <lb/>and the Home Office has sent <lb/>me the necessary warrants <lb/>for their free fare passage <lb/>on boats and railways <lb/>from Dublin to Boulogne. <lb/>I now apply to you kindly <lb/>send me those two men to my <lb/>Consulate in order that I <lb/>may forward them to France <lb/>as soon as possible according <lb/>to the request of the Home Office.  <seg type="closer"> Believe me, <lb/>Dear Sir, <lb/>Your most obedient Servant   LE CONSUL DE FRANCE <lb/>J de Longchamps  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0501">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William P. Triston to Fred J. Allan, 18 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William P. Triston</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from William P. Triston, a solicitor from Dublin, to Fred J. Allan (1861-1937). Triston writes that the photographic company Lafayette had agreed to pay £5 from the fees they had received for a photograph of Thomas MacDonagh (1878–1916), one of the executed leaders of the Rising. He also notes that Muriel MacDonagh, MacDonagh&#39;s widow, wishes the money to be donated to the Irish National Aid Association.Allan was an IRB activist and committee member of the Irish National Aid Association, which was founded to raise funds for the dependents of those who had fought during the Easter Rising and were either killed, imprisoned or lost their jobs.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>, MS 24,376 /1</collection>
+                  <idno>https://letters1916.ie/item/501</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0081">William P. Triston</persName>
+              <date>1916-09-18</date>
+              <placeName key="#letters1916_place-0066">1, Dame Street</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0038">Fred J. Allan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1875">City Hall, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0501_img_187_1"  type="Letter"  url="aa0cab839efee31762c3c976bdbff8d1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0501_img_187_1"/>
+              Telephone Nos Dublin 1207 <lb/>Athy 8 William P.Triston, <lb/> Solicitor <lb/> and <lb/> Duke Street, <lb/> Athy. <lb/>    1, Dame Street  Dublin    18th Sept. 1916   Dear Mr Allen,   I have been in communication with Messrs Lafayette <lb/> Ltd. on behalf of Mrs Muriel MacDonagh, widow of the late Mr Thomas <lb/> MacDonagh with reference to the Publication of her husbands Photograph <lb/> by their Publication Department. After some correspondence they agreed <lb/> to pay Â£5 portion of the fees they received up to the present time.   I am requested by Mrs MacDonagh to send you the amount <lb/> she received from Messrs Lafayette as she wishes it to be given to the <lb/> National Aid Fund. If I receive any further sums from Messrs Lafayette <lb/> on the same account I will forward it to you.  <seg type="closer"> Yours faithfully  <unclear/>   Fred. J. Allen Esq.  Secy. Electric Lighting Committee  City Hall  Dublin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

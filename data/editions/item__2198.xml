@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2198">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Francis Henry Downing to Clerk of the Council, 22 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Francis Henry Downing</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Francis Henry Downing (1865-1931), the County Kerry solicitor, to the clerk of the council.
+
+The letter concerns an amendment to the Tralee and Dingle (committee management) order 1896. The letter states that it is urgent that the order should be made before the next meeting of the county council.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland </repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/5613/8180/2</collection>
+                  <idno>https://letters1916.ie/item/2198</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0126">Francis Henry Downing</persName>
+              <date>1916-05-22</date>
+              <placeName key="#letters1916_place-1883">Tralee, Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1931</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2198_img_1645_1"  type="Letter"  url="b18b43af98cd1e82cbbf0f20020fdda1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2198_img_1645_1"/>
+             22, Denny Street, <lb/>Tralee   <hi rend="underline">22nd May</hi> 191<hi rend="underline">6.</hi> <lb/> <lb/>P.C. Dept. 11/16. <lb/> <hi rend="underline">re Tralee &amp; Dingle Railway.</hi>  SIR,   I beg to refer you to my letter of the 14th inst., returning <lb/> draft Order herein and requesting that same be amended in accordance with <lb/> the advice of Counsel on behalf of the County Council.   It is a matter of urgent necessity that this Order should be <lb/>made before the next annual Meeting of the County Council at which <lb/>Meeting the are bound to elect all Committees for the coming year.   The annual Meeting is fixed for the 9th day of June next.   Yours faithfully,    F. H. Downing   The Clerk of the Council, <lb/> DUBLIN CASTLE. 
+         </ab>
+      </body>
+   </text>
+</TEI>

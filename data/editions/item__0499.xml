@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0499">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Michael O'Connell to the Under-Secretary, Dublin Castle, 22 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Michael O&#39;Connell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Michael O&#39;Connell, a medical practitioner, to Sir Matthew Nathan, the Under-Secretary of Ireland. O&#39;Connell writes that his allowance of petrol is insufficient for him to carry out his work. He requests a form to acquire more petrol for his medical practice and for the practice of a colleague who is currently on military service in France.Sir Matthew Nathan was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising. Under the Defence of the Realm Act (DORA), introduced in 1914, restrictions on the use of petrol throughout the British isles were steadily tightened as the war continued.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI, CSORP/1916/7491/1</collection>
+                  <idno>https://letters1916.ie/item/499</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0927">Michael O&#39;Connell</persName>
+              <date>1916-04-22</date>
+              <placeName key="#letters1916_place-2001">3 Coote Terrace, Maryborough, Portlaoise, County Laois, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0350">Chief Secretary's Office, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0499_img_1866_1"  type="Letter"  url="806a72867ba8092ec7c48edd99713a12.jpg"/>
+      <graphic xml:id="L1916_0499_img_1866_2"  type="Letter"  url="74e2e7bbac29b94c253e53cf026752eb.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0499_img_1866_1"/>
+                3 Coote Terrace,  Maryborough.    22 â 4 â 1916    To Under â Secretary  Dublin Castle   Sir,   I beg to inform you that <lb/> that I am a medical <lb/> practitioner, and that <lb/> in addition of my own <lb/> work I am performing <lb/> the duties of a colleague  
+            <pb n="2" facs="L1916_0499_img_1866_2"/>
+              who is with our armies <lb/> in France. My <lb/> consumption of petrol <lb/> in six months is <lb/> from 250 to 300 gallons. <lb/> At the present time I <lb/> am unable to get <lb/> sufficient to carry on <lb/> my work. I have <lb/> returned the form that <lb/> you forwarded to medical <lb/> practitioners.  <seg type="closer"> Your medical servant,  Michael O'Connell MD </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

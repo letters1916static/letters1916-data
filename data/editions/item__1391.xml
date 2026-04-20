@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1391">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from Private M. Cahill to Lady Clonbrock, March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M. Cahill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from a prisoner of war, Private M. Cahill, 5th Company, Connaught Rangers, to Lady Clonbrock (1839-1928). Private Cahill was on active service in World War I and thanks Lady Clonbrock for cigarettes she has sent via the &#39;Tobacco Fund&#39; in London. The &#39;Tobacco Fund&#39; was managed by the &#39;Weekly Dispatch&#39; newspaper to supply cigarettes to servicemen in the British army and the soldier would have received the postcard with the cigarettes. Cahill mentions that he is from the same town, Ahascragh, as Lady Clonbrock.Augusta Caroline Dillon (née Crofton) was the wife of Luke Gerald Dillon (1834-1917), the 4th Baron of Clonbrock, Co. Galway and the daughter of Lord Crofton of Mote Park (Edward Henry Churchill Crofton, 3rd Baron), Co. Roscommon. Aged 75 at the outbreak of war, Lady Clonbrock, worked closely with the Irish Women&#39;s Association to send basic necessities to Irish POWs. Many of her care packages went to members of the Connaught Rangers imprisoned in Limburg near Cologne.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No 54, Ms. 35,796 (9)</collection>
+                  <idno>https://letters1916.ie/item/1391</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0389">M. Cahill</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0049">Lady Clonbrock</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1431">Ahascragh, Ballinasloe, County Galway</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1391_img_77_1"  type="Letter"  url="bd907460b4c9d70f3af58fb4e77976cf.jpg"/>
+      <graphic xml:id="L1916_1391_img_77_2"  type="Envelope"  url="248469e18378ae1b1e65fd95873c1145.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1391_img_77_1"/>
+              <seg type="head">On Active Service.</seg>  Your Ladyship,   Being the recipient of the <lb/> smokes forwarded to a soldier, I now take <lb/> the pleasure of thanking you for same. <lb/>I happen to be a townsman of Ahascragh, so <lb/> it gives me double the amount of pleasure <lb/> to accept them from so distinguished a person <lb/>of my town. <seg type="closer"> And I beg to remain <lb/>Yours truly  Pte. M. Cahill, 5th Conn. Rangers </seg>  
+            <pb n="2" facs="L1916_1391_img_77_2"/>
+              <seg type="head">POST CARD</seg> <lb/>A Request <lb/>Most of these post cards <lb/>will naturally be returned to <lb/>the folks at home who are <lb/>sending the tobacco and <lb/>cigarettes. <lb/>And if the message on <lb/>this postcard is of more than <lb/>personal interest, then the <lb/>friend who receives this <lb/>post card would greatly help <lb/>the good work by sending <lb/>it to the Organizer of the <lb/>Tobacco Fund. <lb/>It would probably help <lb/>the Organizer to stimulate <lb/>further subscriptions, and â <lb/>a lot more money is reâ <lb/>quired to keep up supplies <lb/>to the brave men. <lb/>Weekly Dispatch <lb/>Tobacco fund <lb/>Carmelite House, <lb/>London, E. C. <lb/>14    Lady Clonbrock,  Clonbrock  Ahascragh,  Ireland     
+         </ab>
+      </body>
+   </text>
+</TEI>

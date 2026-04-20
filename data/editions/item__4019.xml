@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4019">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Leslie Price, 20 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Leslie Price</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Leslie Price requesting a weekly grant to Mrs. O&#39;Leary. 
+
+Leslie Price (d. 1984) wife of Tom Barry, was involved in the 1916 rising and a prominent member of Cumann na mBan, later becoming director of the organisation.  She also went on to become Chairman and President of the Irish Red Cross.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>MS8434:17-5</collection>
+                  <idno>https://letters1916.ie/item/4019</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0233">Leslie Price</persName>
+              <date>1916-09-20</date>
+              <placeName key="#letters1916_place-2030">Offices of the Irish National Aid and Volunteer Dependent&#39;s Fund, 10 Exchequer Street, Dublin, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="death">1984</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4019_img_3403_1"  type="Letter"  url="0dce533e79d0b1b4c55ec29b3e572e91.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4019_img_3403_1"/>
+             Coimhlucht Conganta na nGaodhal<lb/>agus<lb/>Spleádhach Oglach na hÉireann<lb/><sic>Longphort</sic>: 10 Sráid an Chiste, Áth Cliath   Irish National Aid<lb/>and<lb/>Volunteer Dependents’ Fund<lb/>Offices: 10 EXcchequer St., Dublin    20th September 1916    Reply<lb/>27/9/16<lb/>Letter read <seg type="unclear"></seg><lb/>We are in touch<lb/>with Mrs O L + family<lb/>+ you may insure<lb/>all needs will<lb/>be attended to    A chara <lb/>I wish you, if possible, to give some<lb/>weekly grant to Mrs O’Leary,<lb/>24, Steele’s Road, Haverstock Road,<lb/>London, N.W. I do not think<lb/>she has been on your lists.<lb/>Is mise<lb/>Le meas mór<lb/>Lesli <sic>Praidheas</sic><lb/>Sec sub committee<lb/> Leslie Price?  
+         </ab>
+      </body>
+   </text>
+</TEI>

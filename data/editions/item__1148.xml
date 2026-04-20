@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1148">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fr Francis M. Shaw to Fr Provincial Thomas V. Nolan, circa March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Francis Shaw</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Francis M. Shaw (1881-1924) to Father Provincial Thomas V. Nolan (1867-1941) regarding Shaw&#39;s new position and new address in a hospital in France. Francis M. Shaw worked in the 16th General Field Hospital at Le Traporte. He was ordained on 31st July 1916 at Milltown Park in Dublin and in 1917 was dispatched to India, and later to Mesopotamia, possibly due to his nationalistic views. Fr. Thomas V. Nolan was the Provincial of the Irish Province of the Society of Jesus (1912-1922) and was a member of the Distribution Committee which looked after the welfare and distribution of the the Belgian refugees who arrived in Ireland as a consequence of the First World War.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IJA/CHPI/54/2, IJA/CHPI/54/2</collection>
+                  <idno>https://letters1916.ie/item/1148</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1473">Francis Shaw</persName>
+              <date>1916</date>
+              <placeName key="#letters1916_place-1311">3rd General Hospital, Le Treport, France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Fr Thomas V Nolan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1148_img_3824_1"  type="Letter"  url="168505fe8e52fc04c407d08bed588aa5.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1148_img_3824_1"/>
+               Dear Reverend Father Provincial, <lb/>P. C. <lb/>My address until <lb/>further orders is   3<hi rend="superscript">rd</hi> General Hospital  British Expeditionary Force  <hi rend="underline">France.</hi>    I have got on splendidly so far, astonishing <lb/>the natives by my command of the language. <lb/>My hospital is situated 'somewhere in France' <lb/>but I shall let you know more about my <lb/>work later, when I have time for a real <lb/>letter, and know in what it consists. The <lb/>four of us parted in Great spirits, hoping to <lb/>meet again, if not on earth then â <seg type="closer"> Begging your Reverences prayers <lb/>I remain <lb/>Yours very sincerely,  Francis M. Shaw SJ C.F. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

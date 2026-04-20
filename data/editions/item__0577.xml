@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0577">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from M. M. to Robert Chalmers, 16 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter to Sir Robert Chalmers (1858-1938) concerning fees paid to doctors in respect of their treatment of Police personnel . The author anticipates a claim for additional payment ‘as of right&#39; and argues that this should be resisted. The author suggests that the two doctors are dissatisfied because the volume of work was much more than they expected when entering the contract(s).Sir Robert Chalmers was sent to Ireland as replacement under secretary for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5620/13622</collection>
+                  <idno>https://letters1916.ie/item/577</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-08-16T00:00:00</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1570">CSO, Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0577_img_1976_1"  type="Letter"  url="539b37a7fbb747c45502f8e6a41e254c.jpg"/>
+      <graphic xml:id="L1916_0577_img_1976_2"  type="Letter"  url="0237b1938c45afdd3b96a4d724849484.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0577_img_1976_1"/>
+               Sir R. Chalmers   This claim must certainly be resisted if put forward <lb/>as of right. If the County Infirmary at Navan is a Hospital <lb/>within the meaning of the Act 25 and 26 Vic. Cap. 83, Sec. <lb/>5 of the Act says that Constables etc. 'suffering from <lb/>'fever or other disease <hi rend="underline">or bodily injury</hi> requiring treatment <lb/>'in hospital may be admitted . . . . and shall contribute <lb/>'the full average cost of daily mintenance and establishment <lb/>'charges, medical and <hi rend="underline">surgical</hi> treatment in such hospital <lb/>'for the whole term of their continuance therein.' These <lb/>constables did so contribute (an average of about Â£5 apiece <lb/>at about 2/6 a day) and at the request of the Inspector General <lb/>I authorized repayment to the Constables at Navan under the <lb/>discretion given me by the Treasury.   Dr. FInagan appears to be Medical Officer of Navan <lb/>Infirmary, and Dr. Timmon Visiting Physician. They were <lb/>only doing their legal duty, therefore, and we have paid the <lb/>legal charge made by the Infirmary under the Act. [I may say <lb/>that I found out from Mr. Bacon in 1913 that His Majesty's <lb/>Government cannot claim here, as in England, free treatment <lb/>of Government Servants in rate supported hospitals where <lb/>His Majesty's Government makes contributions in lieu of rates.]   In addition to this, Dr. Finagan is the Local <lb/>Medical attendant of the R.I.C. and under par. 386 of their <lb/>Finance Code he receives 2/â per month for each Officer and <lb/>men in his district (subject to certain conditions) whether <lb/>he attends them or not.   The position is that these doctors took on a contract <lb/>or contracts (in Finagan's case) and find that they were <lb/>involved in more work than they expected.   If claims for some much smaller sum were put forward <lb/>in equity, on these grounds, possibly the Treasury would <lb/>agree/  
+            <pb n="2" facs="L1916_0577_img_1976_2"/>
+              agree to pay, as excess over contract prices, within strict <lb/>limits, has been allowed in the case of contractors faced <lb/>with a large rise of prices since their contract was made. <lb/>But I agree with the Inspector General that to admit any <lb/>claim as of right would be a most dangerous precedent.  <seg type="closer"> M. M.   16th August 1916.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

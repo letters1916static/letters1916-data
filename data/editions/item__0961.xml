@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0961">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Joseph Slevin to the Longford Urban District Council, [August 1916]</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Joseph Slevin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Joseph Slevin, the town surveyor, to the Longford Urban District Council regarding the upkeep of the back of houses on St. Mel&#39;s Road and issues arising with Ballymacormick cemetery.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Longford County Archives Service</repository>
+                  <collection>LUDC-1-3-1916-9-5, LUDC-1-3-1916-9-5</collection>
+                  <idno>https://letters1916.ie/item/961</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0938">Joseph Slevin</persName>
+              <date>1916-08-01T00:00:00</date>
+              <placeName key="#letters1916_place-0740">Longford</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Nicholas Lamb</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1752">Longford Urban District Council</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0961_img_2783_1"  type="Letter"  url="ff9c496907778588bde62e9a8cec5ef7.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0961_img_2783_1"/>
+              Town Surveyor report   Mr. Chairman &amp; Gentlemen   I beg report that <lb/>we had again some trouble with the drain at <lb/>back of houses on S<hi rend="superscript">t</hi> Mel's Road, causes by <lb/>tenants leaving cinders etc at their back <lb/>doors and I may add the back of the houses <lb/>is in a bad state.  There have been rumors made <lb/>that the graves are not made deep enough <lb/>in Ballymacormick graveyard, it would <lb/>be well to appoint a person for that purpose <lb/>as at present anyone could go and dig where <lb/>he likes-  A lot of the fountain fitting are worn <lb/>out and I have written to Glenfield &amp; <lb/>Kennedy for renewals <seg type="closer"> Your <sic>obdt servt</sic>  Joseph Slevin </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

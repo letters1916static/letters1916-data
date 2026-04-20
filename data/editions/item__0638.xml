@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0638">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from General John Grenfell Maxwell to Bishop Edward Thomas O'Dwyer, 6 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Grenfell Maxwell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Sir General John Grenfell Maxwell (1859 – 1929), to Bishop Edward Thomas O&#39;Dwyer (1842-1917), who served as the Bishop of Limerick from 1888 until his death. In this letter Maxwell is requesting that O’Dwyer remove two priests in his diocese so that they cannot interact with the general population. According to Maxwell the presence of these priests is a dangerous menace to the peace and safety of the realm and had they been laymen both would already be under arrest. The priests concerned are Fr Thomas Wall (1877 – 1956), and Fr Michael Hayes (1873 – 1934). Maxwell reportedly called for the pair’s removal because they were providing moral support to the rebels of Easter Week 1916.Maxwell had been appointed commander in chief of the British forces in Ireland after the outbreak of the Easter Rising. He arrived in Ireland on Friday 28 April, the fifth day of the insurrection. As acting military governor of Ireland, Maxwell dealt with the rebellion according to his understanding of martial law which had been earlier declared by the Lord Lieutenant.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Limerick Diocesan Archive</repository>
+                  <collection>LDA/BI/ET/239/1/1, LDA/BI/ET/239/1/1</collection>
+                  <idno>https://letters1916.ie/item/638</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0174">John Grenfell Maxwell</persName>
+              <date>1916-05-06</date>
+              <placeName key="#letters1916_place-1039">Irish Command Headquarters, Parkgate, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1500">Edward Thomas O&#39;Dwyer</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0556">Limerick, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0638_img_2108_1"  type="Letter"  url="054639680201b29e3f4f64f8966ff19f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0638_img_2108_1"/>
+              <hi rend="underline">No. O.B.7. (57).</hi>    Head Quarters, Irish Command,  Parkgate, DUBLIN,    6th May, 1916.   My Lord,   I have the honour to request your Lordship's<lb/> co-operation in a matter connected with the present<lb/> deplorable situation in Ireland the settlement of which<lb/> I am confident you desire no less keenly than I do.  There are two Priests in your Diocese, the Reverend<lb/> Father Thomas Wall, of Drumcollogher, Co.Limerick, and <lb/> the Reverend Father M. Hayes, of Newcastle West, County<lb/> Limerick, whose presence in that neighbourhood I consider<lb/> to be a dangerous menace to the peace and safety of the<lb/> Realm, and had these priests been lay men they would have<lb/> already been placed under arrest. In this case I would<lb/> be glad if your Lordship could obviate the necessity<lb/> for such action by moving these Priests to such employment<lb/> as will deny their having intercourse with the people, and<lb/> inform me of your decision.  <seg type="closer"> I have the honour to be,<lb/> Your obedient servant,  J. G. Maxwell <lb/> General,<lb/> Commander-in-Chief,<lb/> The Forces in Ireland.<lb/> The Most Reverend Dr. O'Dwyer,<lb/> Bishop of LIMERICK,<lb/> LIMERICK </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

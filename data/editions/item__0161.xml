@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0161">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Hayes to Anna O'Rahilly, 23 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Canon Hayes</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Patrick C. Hayes (b.1856) to Anna O&#39;Rahilly, the sister of Michael Joseph O&#39;Rahilly (1875-1916). The letter concerns a suggestion made on the part of Anne to build a spire in the memory of the O&#39;Rahilly. The letter goes on to discuss the cost of such a project. Michael Joseph O&#39;Rahilly, self-described as &#39;The&#39; O&#39;Rahilly, was involved in the procurement of arms in the lead-up to the Rising and was involved in the Howth gun-running incident. He fought in the G.P.O. During the Rising and was shot in Parnell/Moore Street on 28 April 1916 and died some time later.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Sighle Humphreys Papers, P106/171/14/5</collection>
+                  <idno>https://letters1916.ie/item/161</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0329">Patrick Canon Hayes</persName>
+              <date>1916-08-23</date>
+              <placeName key="#letters1916_place-1380">Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0639">Anna O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0161_img_1290_1"  type="Letter"  url="008668c60159eee963fa698daed66e32.jpg"/>
+      <graphic xml:id="L1916_0161_img_1290_2"  type="Letter"  url="cef97cfcc504512d0d7c6c3f04a1a4bf.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0161_img_1290_1"/>
+                Royal Marine Hotel,  Kingstown,  Co. Dublin.    Aug. 25: 1916   Dear Miss O'Rahilly,   I received your <lb/>letter here this morning. <lb/>Yes, I saw the suggestion <lb/> in the Kerryman to build <lb/>the spire to the memory <lb/> of your brother. I could <lb/> not think of undertaking <lb/> such a heavy work. <lb/> &amp; found it difficult <lb/> enough to build a <lb/> Parochial Hall. It <lb/> cost Â£300 and by that  
+            <pb n="2" facs="L1916_0161_img_1290_2"/>
+              <lb/>from Ballylongford subscribers <lb/>little over Â£100. The project <lb/> of putting in large stained <lb/> glass windows has not - <lb/><seg type="unclear">success</seg> though at all. I <lb/>was just about to com- <lb/>mence the work about <lb/> a year before the war when <lb/> the people prevailed on <lb/> me to build the Hall <lb/> first. The window scheme <lb/>will cost over Â£500. I <lb/>got the plans &amp; specific- <lb/>ations from an architect. <lb/> Of course in case the <lb/>work is not carried out <lb/> the money will be ret- <lb/>urned to you and your <lb/>sister. <seg type="closer"> With Kind Regards, <lb/>I remain, <lb/>Yours Sincerely,  P. Hayes, P.P.   Miss Anna O'Rahilly  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

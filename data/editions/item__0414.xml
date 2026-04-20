@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0414">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Hugh de Fellenberg Montgomery to William Coote, 25 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Hugh de Fellenberg Montgomery</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Hugh de Fellenberg Montgomery (1844-1924) to William Coote (1853-1924). The letter refers to the 10th (Irish) Division of the British army and the figures that were given to Montgomery by the Chaplain of the division. Montgomery describes the 10th as &#39;the Division which nationalists always talk about as if it consisted exclusively of Home Rulers, who were sent to Suvla Bay.&#39; He surmises that a good many Church of England soldiers enlisted with the 10th, making them &#39;presumably good Unionists.&#39;Originally a Liberal and a strong supporter of Gladstone, Montgomery was also a firm Unionist, but by 1916 he believed that Ulster Unionists had no choice but to accept Lloyd George&#39;s proposal for a six-county Northern Ireland. Coote was a politician and in 1916 he was representing South Tyrone in the Imperial Parliament as a Unionist and continued to do so until 1922.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Montgomery of Blessingborn Papers, D/627/429/4</collection>
+                  <idno>https://letters1916.ie/item/414</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1402">Hugh de Fellenberg Montgomery</persName>
+              <date>1916-03-25</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">William Coote</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0414_img_1703_1"  type="Letter"  url="daa2e46fff0d26a171659e3387cbee8d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0414_img_1703_1"/>
+              Copy    25th March 1916.    Coote,    ou may be glad to have these figures which were given me <lb/> rimate, he having obtained them from his son who is Chaplain <lb/>  10th Division and who vouches for them as the official <lb/> supplied to him last November. This is the Division which <lb/> onalists always talk about as if it consisted exclusively <lb/> ome Rulers, who were sent to Shuvla Bay and other dangerous <lb/> le the Ulster Division was kept in safety.   urmise that a good many of the Church of England soldiers <lb/> hmen drafted into the Regiment because Irishmen could <lb/> t, but a good many of them are Irish Church Protestants, <lb/> fore presumably very good Unionists.   e amalgamation resolution was passed unanimously at Clogher  <seg type="closer"> Yours very truly, </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0370">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Samuel Alex Wray to the Henry Arthur Wynne, 19 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Samuel Alex Wray</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Samuel Alex Wray (b.1875), a solicitor, to Henry Arthur Wynne. In the letter, Wray states that he is the solicitor for Professor Valentine Steinberger (b.1853), a German professor in University College Galway who was arrested in Galway following the Easter Rising and deported to Wandsworth prison, and his wife Elizabeth Steinberger (b. 1858). Wray states that he wishes to consult Steinberger regarding his half of the rent payment, also requesting to be informed of Steinberger&#39;s whereabouts.Henry Arthur Wynne (1867-1945) was the chief crown solicitor for Ireland during the Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5611/8624/1</collection>
+                  <idno>https://letters1916.ie/item/370</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0145">Samuel Alex Wray</persName>
+              <date>1916-05-19</date>
+              <placeName key="#letters1916_place-1349">Coleraine, Derry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0815">Henry Arthur Wynne</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0370_img_1617_1"  type="Letter"  url="fec8f073de61312e7c6d6cf83face4be.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0370_img_1617_1"/>
+              <lb/>SAMUEL A. WRAY, <lb/>SOLICITOR. <lb/>COMMISSIONER FOR OATHS <lb/>TELEPHONE N <hi rend="superscript">o</hi> 28   <lb/>Attorney General <lb/>For your directions <lb/><seg type="unclear">newsletter June</seg><lb/>20.V.16     COLERAINE.    19th May 1916.   Dear Sir,   <lb/>I act as solicitor and agent for Professor Steinberger of <lb/>Belmore Galway and his wife who are joint owners of some house <lb/>property in this town. My custom after completion of my collection <lb/>of the May and November rents has been to send a statement, and a <lb/>cheque for one half of amount payable, to each. Following upon the <lb/>Sinn Fein rebellion the Professor has been arrested and I would <lb/>be glad to hear from you if there would be any objection on the part <lb/>of the Crown to my remitting to him his half of the rents or taking <lb/>his instructions as to the disposal thereof and, if there is no such <lb/>objection, I would feel obliged if you would tell me where he is now <lb/>to be found.  <seg type="closer"> Yours faithfully,  Samuel A. Wray </seg> <lb/>The Chief Crown Solicitor, <lb/>Dublin Castle, <lb/>Dublin.   <lb/>Inform Mr Way that Professor <lb/>Steinberger is in the custody of <lb/>the military authorities &amp; that he <lb/>should apply to them <lb/><seg type="unclear">MN</seg> 22.5.10   
+         </ab>
+      </body>
+   </text>
+</TEI>

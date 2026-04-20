@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2268">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Edward O'Farrell to Margaret O'Brien, 8 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward O&#39;Farrell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Sir Edward O&#39;Farrell (1857-1926), assistant under-secretary for Ireland, to Margaret O&#39;Brien.
+
+The writer refers to Mrs. O&#39;Brien&#39;s application for permission to move her deceased husband&#39;s remains from one grave to another within the Protestant church graveyard in Midleton and instructs her to furnish written consent from the church authorities and the District Sanitary Authority, in this case, Midleton Urban District Council.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/10140/3</collection>
+                  <idno>https://letters1916.ie/item/2268</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date>1916-06-08</date>
+              <placeName key="#letters1916_place-0528">Chief Secretary&#39;s Office, Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Margaret O&#39;Brien</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2066">The Green, Midleton, County Cork, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2268_img_1710_1"  type="Letter"  url="9b5ae134185511b8ce3c51217ec6850d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2268_img_1710_1"/>
+             Any reply to the communication should<lb/>be addressed to:—<lb/>THE UNDER SECRETARY,<lb/>DUBLIN CASTLE.<lb/>and the following number quoted,<lb/>9575.  CHIEF SECRETARY'S OFFICE,<lb/>DUBLIN CASTLE   8th June, 1916.    Madam   With reference to your letter of the 23rd ultimo,<lb/>applying for permission to remove the remains of your<lb/>husband from one grave to another in the burial ground<lb/>attached to the Protestant Church at Midleton, Co.Cork,<lb/>I am directed by the lords justice to request that you will<lb/>be so good at to furnish the consents in writing of the<lb/>authority in whom the burial ground is vested and of the<lb/>Sanitary Authority of the district to the removal of the<lb/>remains.  I am,<lb/>Madam,<lb/>your obedient Servant.   E. O'Farrell        Mrs. Margaret. O'Brien<lb/>The Green,<lb/>Midleton,<lb/>CO. CORK.   
+         </ab>
+      </body>
+   </text>
+</TEI>

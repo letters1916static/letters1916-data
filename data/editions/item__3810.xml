@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3810">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Charles Hemsley Gick to Royal College of Physicians of Ireland, 26 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Charles Hemsley Gick</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from the Charles Hemsley Gick, on behalf of the Irish Medical Association, to the Royal College of Physicians of Ireland (RCPI) regarding the application of the Scotch Act 19165 to Ireland. Gick requests that the RCPI nominate a member to act in conjunction with a committee to consider the necessary amendments.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T80-1</collection>
+                  <idno>https://letters1916.ie/item/3810</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0678">Charles Hemsley Gick</persName>
+              <date>1916-06-26</date>
+              <placeName key="#letters1916_place-1703">58 Dame Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0320">Royal College of Physicians of Ireland</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3810_img_3192_1"  type="Letter"  url="6987c1a1d1eda7b374648f759f729c7d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3810_img_3192_1"/>
+             Irish Medical Association. <lb/>FOUNDED 1839; INCORPORATED 1882.   Secretary <lb/>C. HEMSLEY GICK, <lb/>58, DAME STREET, <lb/><hi rend="underline">DUBLIN.</hi> <lb/>PHONE N<hi rend="superscript">o</hi> 1857. <lb/>TELEGRAMS, GICK DUBLIN 1857   Royal College of Surgeons, <lb/>Dublin   26th June 1916.   Dear Sir,   At the Annual meeting of the Irish Medical Association <lb/>held on the 21st inst: the following Resolution was passed:- <lb/>"That the principles of the Midwives' Acts (England &amp; Scotland) <lb/>"be embodied in a special Act suitable for, and made applicable <lb/>"to Ireland."   I was directed to send above to the Royal Colleges of <lb/>Physicians and Surgeons, the Royal Academy of Medicine, the Ulster <lb/>and Cork Medical Societies, and the Irish Committee of the British <lb/>Medical Association; requesting each to nominate a member to act <lb/>in conjunction with a Committee to be appointed by the Council of <lb/>the I. M. A. to consider amendments necessary to make the Scotch Act <lb/>of 1915 applicable to Ireland.   In order that there may be an early meeting of the Committee <lb/>(which will be appointed by the Council next Friday) will you kindly <lb/>endeavour to let me have the name and address of the nominee from <lb/>your Body as soon as possible.   Yours faithfully,   C Hemsley Gick  <lb/>Secretary.  P.S. Copy of each Act will be sent you in a few days.   Macd.C <lb/>7.VII.16 
+         </ab>
+      </body>
+   </text>
+</TEI>

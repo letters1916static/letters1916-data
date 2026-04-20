@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3044">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Nicholas Byrne to Colonial George Arthur French, Commanding Officer, Wexford, 18 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Nicholas Byrne</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>In this letter the Mayor of Wexford, Nicholas Byrne, is writing back to Colonel George Arthur French, Commanding Officer of the British Army in Wexford  to acknowledge his letter and to thank for his kind words about the people of Wexford. Nicholas Byrne was a Mayor of Wexford in 1916 and 1917.
+
+Sir George Arthur French (1841-1921) was born on 19th June 1841, Roscommon, Ireland. He was educated at the Royal Military College, Sandhurst, and the Royal Military Academy, Woolwich, and commissioned in the Royal Artillery in 1860.  In 1871, at the request of the Canadian government, he was sent to Canada as a military inspector, eventually becoming head of the School of Gunnery at Kingston, Ontario. He was appointed to organize the North-West Mounted Police on its creation in 1873, and the next year he led the force on its famous march to the foothills of the Rockies. 
+
+French resigned in 1876 and returned to duty in the British Army, eventually attaining the rank of major-general. The organizational skills developed in Canada were used to establish local defense forces in India and Australia. In September 1883 he was appointed Commandant of the Queensland Local Forces with the local rank of colonel, and arrived in the colony on January 4, 1884. Colonel French married Janet Clarke in 1862, daughter of the late Robert Long Innes, formerly of the 37th Regiment. Colonel French retired in 1891, and returned to England. When French retired in 1902 he received a knighthood and for the next 19 years much of his time was spent guarding the crown jewels in London, where he died on 28 July 1921.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Wexford County Archive</repository>
+                  <collection>Wexford County Archive, WXCA/P190/3</collection>
+                  <idno>https://letters1916.ie/item/3044</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1456">Nicholas Byrne</persName>
+              <date>1916-05-18</date>
+              <placeName key="#letters1916_place-0828">The Mayorality, Wexford, County Wexford, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0796">George Arthur French</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1432">Wexford, County Wexford, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3044_img_2443_1"  type="Letter"  url="a55a54fcb94385bc96716a83217f0a5d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3044_img_2443_1"/>
+             WCA/P190/2  XIII 3   18th May, 1916.    Dear Colonel French,   Needless to say I was very gratified to receive your<lb/>letter of today's date, intimating your pleasure at the attitude<lb/>of the Citizens of Wexford during the recent deplorable<lb/>disturbances.  I have taken the liberty to send your letter to the<lb/>local Press, as I am aware that the townspeople will very much<lb/>appreciate your allusions to their action during the crisis, now<lb/>happily at an end.  I am sure that it is unnecessary for me to add that<lb/>you may always rely on Wexfordmen doing their utmost to uphold<lb/>the good name of the town in every way possible, and that the<lb/>vast majority of them will ever be found on the side of law and<lb/>order.  May I add a word of praise as to the manner in which the<lb/>Troops under your Command carried out their various duties<lb/>during the critical times of the past few weeks.   Colonel G. A. French,<lb/>Commanding Troops,<lb/>Co. Wexford.    Yours very truly,<lb/>Nicholas Byrne<lb/>Mayor of Wexford.  
+         </ab>
+      </body>
+   </text>
+</TEI>

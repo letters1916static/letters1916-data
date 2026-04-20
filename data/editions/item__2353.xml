@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2353">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Telegram from Algy Peel to Lady Clobrock, 22 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Algy Peel</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This telegram was sent by Algy Peel to Augusta Caroline Dillon (née Crofton), Lady Clonbrock (1840-1928), to congratulate her on the occasion of her golden wedding anniversary in July 1916. Lady Clonbrock was married to Luke Gerald Dillon, 4th Baron Clonbrock (1834-1917). She was also a prominent member of the Irish Women&#39;s Association, which was established to provide aid and assistance to Irish soldiers and prisoners of war.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>MS 35,793 (9)/10 (Collection List 54)</collection>
+                  <idno>https://letters1916.ie/item/2353</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0608">Algy Peel</persName>
+              <date>1916-07-22</date>
+              <placeName key="#letters1916_place-0675">Ahascragh, Galway, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lady Clonbrock (Augusta Caroline Dillon (née Crofton)</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0437">10 Cadogan Gardens, Chelsea, London</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2353_img_180_1"  type="Letter"  url="ccb427686174aea3755348183b0fb34e.jpg"/>
+      <graphic xml:id="L1916_2353_img_180_2"  type="Envelope"  url="2b112a9ded5f465f7e7c3d6a89da13e6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2353_img_180_1"/>
+            <hi rend="underline">POST OFFICE TELEGRAPHS.</hi> <lb/>Office of Origins and Service Instructions.  <seg type="unclear">SEWham</seg> redd from Ahascragh  <lb/>Handed in at 10 -5 Received here at} 6 12 h  TO { The Lady Clonbrock 10 Cadogan <sic>Gdns</sic> <lb/>Chelsea <sic>Ldn</sic> SW.   Better late than never please <lb/>accept my best congratulations love <lb/>to you both   <hi rend="underline">Algy Peel</hi> 
+            <pb n="2" facs="L1916_2353_img_180_2"/>
+            <hi rend="underline">TELEGRAM.</hi> <lb/><hi rend="underline">NO CHARGE FOR DELIVERY.</hi>  368   <hi rend="underline">Algy</hi>   The Lady Clonbrock <lb/><hi rend="underline">10 Cadogan <sic>Gdns</sic></hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

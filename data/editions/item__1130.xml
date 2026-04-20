@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1130">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Dawson Bates to Edward Carson, 2 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Richard Dawson Bates</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Sir Richard Dawson Bates (1876-1949) was a solicitor and Norther Ireland cabinet minister. From 1906 until 1921 he served as secretary of the Ulster Unionist Council, he helped to organise the Ulster covenant and Ulster Volunteer Force. In 1921 Sir appointed Bates Northern Ireland minister of home affairs, a post he held for nearly twenty-two years. Edward Carson (1854-1935) was a prominent Unionist Politician. Originally a practicing solicitor from Dublin, Carson&#39;s opposition to the proposed third Home Rule bill made him the figure head of Unionism throughout the island. He was the centerpiece of the speaking tour that culminated in Ulster Day (28 September 1912), when just under half a million signed Ulster&#39;s solemn league and covenant pledging to use all means which may be found necessary to defeat the present conspiracy to set up a home rule parliament in Dublin. Carson inaugurated the Larne gunrunning in 1914 which armed the UVF, many of whom Carson would encourage to join the British Army throughout the First World War.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Carson Papers, D1507/A/14/15</collection>
+                  <idno>https://letters1916.ie/item/1130</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1358">Richard Dawson Bates</persName>
+              <date>1915-12-02</date>
+              <placeName key="#letters1916_place-0783">Old Town Hall, Belfast, Co. Antrim, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0539">Edward Carson</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1130_img_3648_1"  type="Letter"  url="dbe43f3f0e8c0cd8dfd6e5add285e63f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1130_img_3648_1"/>
+              Bates <lb/>Crawford Presentation    OLD TOWN HALL,  BELFAST.    2nd Decmeber, 1915.  <hi rend="underline">Enclosure.</hi>  Rt. Hon. Sir Edward Carson, K.C., M.P.,  5, Eaton Place,  London, S.W.  <hi rend="underline">Major Fred Crawford Presentation.</hi> Dear Sir Edward,   The Casket has now been completed and <lb/>forwarded to you and insured against all risks. <lb/>I enclose you Statement showing the cost of the Casket, <lb/>amounting in all to Â£56.10.0., and perhaps you would sign <lb/>a cheque on your No. 2 Account and send it to me when I <lb/>will have the account settled. The Account in the Bank <lb/>is now as shown in the enclosed slip. We thought it better <lb/>that the Casket should be sent to you so that you could <lb/>deal with it and the Balance in any way you thought proper <lb/>in regard to making the presentation.  Bates <lb/>Crawford Presentation <seg type="closer"> Yours very truly,  R Dawson Bates </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0917">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sean T. O'Kelly to James Ryan, 15 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Seán T. O&#39;Kelly</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Sean T. O&#39;Kelly (1882-1966) to James Ryan (1891-1970). The letter was written after Ryan&#39;s release from Frongach but while O&#39;Kelly was still imprisoned. The letter refers to a visit from Mary Kate (who looked &#39;tired&#39;) and another of Ryan&#39;s sisters, Min, and asks Ryan to send his regards to Phyllis.James Ryan studied medicine in UCD. He was appointed chief medical officer in the GPO during the Easter Rising. After the Rising he was imprisoned in Stafford and, later, Frongoch and was released in August 1916. Ryan was later a founder member of Fianna Fáil and a government minister. Sean T. O&#39;Kelly was a politician and later president of Ireland. He was arrested after the Rising and imprisoned first in Wandsworth the Woking, Frogach and Reading. O&#39;Kelly married Ryan&#39;s sister Mary Kate (Kit in the letter) in 1918 and after her death he married another of Ryan&#39;s sisters, Phyllis.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Dr James Ryan Papers, P 88/41</collection>
+                  <idno>https://letters1916.ie/item/917</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0470">Seán T. O&#39;Kelly</persName>
+              <date>1916-09-15</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0447">James Ryan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0917_img_259_1"  type="Letter"  url="2c20853974a037288aa2ab0407a35886.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0917_img_259_1"/>
+                15-9-16   A Sheamuis Dhilis   Thanks for your last very <lb/> interesting epistle. I am wondering if you <lb/> succeeded in your design of getting up to Dublin <lb/> and back. I hope you got up in time to see our <lb/> vivacious friend before her departure anyhow. <lb/> Give her my kindest regards when you are writing <lb/> again.   Kit, <seg type="unclear">Min</seg> and Fr. M have been here since last <lb/> I wrote to you and I need not tell you how happy we were <lb/> to see them. It was a great relief to see <seg type="unclear">Min</seg> again. <lb/> I was very anxious about her for the last few weeks. <lb/> Martin and <seg type="unclear">Min</seg> looked in the pink but Kit I thought <lb/> looked a bit tired and worn. Art O'Brien was <lb/> with me yesterday and I am in hopes of seeing Miss L. <lb/> G.Duffy tomorrow when she comes to visit Ginger.    I wrote to Liam yesterday. The letter was <lb/> wholly in Irish. I sent it as a test. I hope he gets it <lb/> safely. I had a long letter from 'the Widow' today â just <lb/> as usual. Remember me to Phyllis. I hope to write to <lb/> her soon. I know she is up to her eyes in work and can't <lb/> write. This place <seg type="del"> </seg> resembles a <lb/> monastery too much for good stories to flourish inside <lb/> its precincts. You'd be put in the clink I believe if <lb/> you only whispered the word 'Monkey'. <lb/>Give my regards to any of the boys you come across.  <seg type="closer"> Do Bhuan Chara  S.T. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

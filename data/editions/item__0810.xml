@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0810">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Francis Oswald Lindley to Sir Edward Grey, 13 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Francis Oswald Lindley</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from the British Embassy in Petrograd, Russia and signed by Francis Oswald Lindley in the absence of the Ambassador (George William Buchanan (1872–1950)). The letters was sent to the Under Secretary at Dublin Castle, perhaps forwarded from London, where the recipient of the letter, Sir Edward Grey (1862-1933) was based. The enclosure of the letter is a notice from the Institute for Mental Diseases, Section dealing with Foreigners at the Moscow Lunatic Asylum regarding a British patient, John Casey, born in County Mayo, Ireland and suffering an &#39;early stage brain weakening&#39;. Sir Francis Oswald Lindsey, a diplomat, was born in 1872. From July 1915 he became counsellor of embassy in Petrograd. After the withdrawal of the ambassador, Sir George William Buchanan, in January 1918 he was left in charge of the mission. Sir Edward Grey, 1st Viscount Grey of Fallodon, was a British Liberal statesman. He served as Foreign Secretary from 1905 to 1916, the longest continuous tenure of any person in that office.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered Papers, NAI/CSO/RP/1916/77200</collection>
+                  <idno>https://letters1916.ie/item/810</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0691">Francis Oswald Lindley</persName>
+              <date>1916-04-13</date>
+              <placeName key="#letters1916_place-1675">Petrograd, Russia</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Edward Grey</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0810_img_2352_1"  type="Letter"  url="26dd403223118aab87b36052a421d5d2.jpg"/>
+      <graphic xml:id="L1916_0810_img_2352_2"  type="Enclosure"  url="8923207426003bb3f6374dd1e6c5a446.jpg"/>
+      <graphic xml:id="L1916_0810_img_2352_3"  type="Enclosure"  url="24ffd74d9f2d402e178132ca02a28c4a.jpg"/>
+      <graphic xml:id="L1916_0810_img_2352_4"  type="Envelope"  url="1f00c12ab351d785bcbb152550b8e3db.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0810_img_2352_1"/>
+              No 22 Consular.    British Embassy,  Petrograd.    April 13.1916.   Sir,   I have the honour to transmit, herewith, details <lb/> with regard to John Kesey, a British Subject at pre- <lb/>sent detained in a Moscow Lunatic Asylum. <seg type="closer"> I have the honour to be, <lb/> with the highest respect, <lb/> sir, <lb/> your most obedient, <lb/> humble servant, <lb/> (signed in the absence of the Ambassador)   F. O. Lindley </seg> 
+            <pb n="2" facs="L1916_0810_img_2352_2"/>
+                2nd Department of the Foreign Office   February 26th 1916.  <lb/>No 932  <hi rend="underline">Translation of enclosure</hi>  <lb/><hi rend="underline">NOTICE.</hi> <lb/><hi rend="underline"><sic>Institues</sic> for Mental Diseases</hi> <lb/><hi rend="underline">Section dealing with Foreigners.</hi> The following is presented in two columns <lb/>1.Name of the Institution The Alexevsky Mental Hospital <lb/>2.Christian and Surname of Patient John CASEY <lb/>3. Nationality British subject <lb/>4. What passport has the patient <lb/> held in Russia or who holds <lb/> his papers Russian or otherwise <lb/> assuring his nationality <lb/>Billet given out at the Governor <lb/> General's Foreign Department of <lb/> the Chancery &amp;#x2014; 8th Feb. 1916. No. 1245. <lb/>5. Age 32 <lb/>6. Occupation or family circum- <lb/>stances Domestic Teacher (Tutor) Unmarried <lb/>7. Place where born Ireland, County Mayo <lb/>8. Place where generally resided. Moscow <lb/>9. Address of place where lived <lb/> before entering Institution House No. 8 Big Chenovohovokomy, <lb/>Periuluk, Tverskoy District (2nd part) <lb/>10. Name of Disease Early stage of brain weakening <lb/>11. When brought to Institution 18 February 1916 <lb/>12. By whom placed in the Institution. By Chaplain of the English Church <lb/>(?) The Rev. Andrea <lb/>13. State who is maintaining him Being maintained by the English Church <lb/>14. Christian &amp; Surname &amp; Address <lb/> of parents, Spouse, grown up <lb/> children &amp; other persons who <lb/> can accept charge of patient No knowledge of parents. <lb/> Signed by the <lb/>Doctor of the <lb/>Alexevsky Mental Hospital <lb/>POCTRAYNI ( ?)   
+            <pb n="3" facs="L1916_0810_img_2352_3"/>
+               This page in Russian - translated on previous page to English  
+            <pb n="4" facs="L1916_0810_img_2352_4"/>
+              <hi rend="underline">O.H.M.S</hi><lb/>  The Under Secretary  The Castle  Dublin    
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1492">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Major E. Reade to Mabel FitzGerald, 15 Jult 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>E. Reade</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from the governor of Dartmoor prison, Major E. Reade, to Mabel FitzGerald (née Washington McConnell) (1884-1958), wife of politician and intellectual Desmond FitzGerald (1888-1947). Reade advises that Mrs FitzGerald&#39;s letter of 11 July has been stopped and detained by the censor. He passes a message from her husband regarding the possible location in the home of the &#39;Fairy Stories&#39; and advises that Mr FitzGerald is in his &#39;usual health&#39;.Desmond FitzGerald was a poet and a journalist belonging a group of Irish poets now known as the Imagists. Following his marriage to Mabel Washington McConnell (1884–1958) he became involved with Irish politics, arranging meetings for the Irish Volunteers. He later served in the GPO during the Easter Rising, being placed in charge of the garrison&#39;s food supply. He initially escaped arrest after the Rising but was soon rounded up and imprisoned in Mountjoy, Dartmoor, Maidstone, Lewes and Portland.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1605/3</collection>
+                  <idno>https://letters1916.ie/item/1492</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0782">E. Reade</persName>
+              <date>1916-07-15</date>
+              <placeName key="#letters1916_place-1395">Dartmoor, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1999">Bray, County Wicklow, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1492_img_946_1"  type="Letter"  url="61169dd4191ae2bac9de4bad166351d0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1492_img_946_1"/>
+                H. M. Prison,  Dartmoor    15th July 1916   Madam,  q190 <hi rend="underline">F.W.</hi> Fitzgerald.   I have to acknowledge the receipt of your letter of the 11th inst <lb/> and to inform you in reply that the letter was stopped <lb/> by the censor, and <hi rend="underline">detained by him.</hi>  In reference to the Fairy stories  , your husband <seg type="del">he</seg> says <lb/> perhaps they are in the Store room. Where  the  boiler is, <lb/> or else in  the  attic, he cannot remember otherwise.   He is in his usual health. <seg type="closer"> I am, <lb/><seg type="del">Sir</seg> Madam, <lb/>Your obedient Servant, <lb/>  E. Reade <lb/> Governor   Mrs M. FitzGerald  2 Loretto Villas  Bray  Co. Wicklow,  Ireland  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

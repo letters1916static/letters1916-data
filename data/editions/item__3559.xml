@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3559">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Helen Morony to Hanna Sheehy Skeffington, May 15th 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Helen Morony</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>In this letter from Helen Morony to Hanna Sheehy Skeffington (1877-1946), Helen expresses her grief over the death of Hanna&#39;s husband, Francis, and her sadness over the hardships everyone is experiencing. She assures Hanna that she shouldn&#39;t worry about answering the note, as Helen is sure she is overwhelmed by writing already.
+
+Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the founder of the Irish Women’s Franchise League and a founding member of the Irish Women Workers’ Union. She was the widow of Francis Sheehy-Skeffington who was summarily executed on 26 April 1916. She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy-Skeffington Papers, Collection List No.47; MS 33,605/1-26</collection>
+                  <idno>https://letters1916.ie/item/3559</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0112">Helen Morony</persName>
+              <date>1915-05-15</date>
+              <placeName key="#letters1916_place-1194">Crescent View, Limerick, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3559_img_2962_1"  type="Letter"  url="40f811aee8f47183e23d96693646738b.jpg"/>
+      <graphic xml:id="L1916_3559_img_2962_2"  type="Letter"  url="4bc6fe73e3fea477a76bfc0c938fe8eb.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3559_img_2962_1"/>
+              Crescent View<lb/>Limerick   May 15th<lb/>1916    Dear Mrs. Sheehy-Skeffington   Please accept my<lb/>sympathy is all the trouble<lb/>that has fallen upon you.<lb/>I am utterly incapable<lb/>of expressing it with any<lb/>fluency but I am truly<lb/>grieved for you. It seems<lb/>as if everyone were in trouble<lb/>almost the world over and<lb/>as for you this new tragedy 
+            <pb n="2" facs="L1916_3559_img_2962_2"/>
+             in our own unhappy<lb/>land, I can hardly bear<lb/>to talk about it.  Please don't think of<lb/>troubling to answer this<lb/>you will have much to<lb/>think of &amp; be overwhelmed<lb/>with writing I am sure.   <lb/>Yours truly<lb/>Helen Morony  
+         </ab>
+      </body>
+   </text>
+</TEI>

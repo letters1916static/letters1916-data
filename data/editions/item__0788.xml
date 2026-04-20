@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0788">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from North Circular Laundry to Charles Arthur Munro, 16 December 1915.</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from North Circular Laundry to Charles Arthur Munro (1869 - 1952) concerning a collapsed wall. This letter is part of a series of correspondence regarding the collapse of a shared wall between the neighbouring laundry and prison. According to this letter the collapse of the wall was the result of the prison&#39;s planting ivy against the wall which proved to heavy for the structure. The manager requests that the Prison Board considers the role of the prison&#39;s ivy in the wall&#39;s collapse as the author believes the laundry is entitled to compensation as a result.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/677/2</collection>
+                  <idno>https://letters1916.ie/item/788</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1915-12-16T00:00:00</date>
+              <placeName key="#letters1916_place-0836">North Circular Road, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0487">Charles Arthur Munro</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1165">Mountjoy Prison, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0788_img_2327_1"  type="Letter"  url="88d2066319b323fc8d01f7840a692b26.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0788_img_2327_1"/>
+              N. C. LAUNDRY Ltd.   NORTH CIRCULAR ROAD  (TOP OF BERKLEY STREET),  DUBLIN,    16th Dec 1915.    C. Munro Esq.  Governor,  H. M. Prison  MOUNTJOY.  DUBLIN.   Dear Sir   We duly received yours 10th inst and have since had <lb/>the wall in question thoroughly examined again and the further <lb/>report of examination confirms what we had already stated, that <lb/>undoubtedly the heavy vibration of the ivy, weighted as it was <lb/>with so much water, brought down the wall, and we must call on you <lb/>to have your ivy removed from our wall which still remains standing, <lb/>not as a matter of courtesy (as you put it) but as we are entitled <lb/>to call on you to have done.   Of course we did not suggest for a moment that the wall in <lb/>question was a party wall and our claim to have you contribute <lb/>towards the cost of the damage done was by reason of your having <lb/>injured the fabric of our wall by allowing the ivy to grow on <lb/>same, and the act of its having been there having materially <lb/>assisted in the wall being blown down. We think we have a just <lb/>and legal claim to such a contribution as we ask you to make, and <lb/>would be obliged if you would again bring this matter before the <lb/>General Prisons Board, with a view to their contributing something <lb/>towards our loss.   We have no wish to have any unpleasantness in the matter, <lb/>and think the Board should meet us in a reasonable and equitable <lb/>way.  <seg type="closer"> Yours faithfully  N. C. LAUNDRY LTD.  <hi rend="underline">NC</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5938">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Reginald Brabazon (Earl of Meath) to Lord Clonbrock, 16 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Reginal Brabazon (Earl of Meath)</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from Reginald Brabazon (1841–1929) to Luke Gerald Dillon. Brabazon requests Clonbrock to form a committee representing &#39;loyal Ireland&#39; (those in Ireland loyal to the British Crown) to oversee the &#39;R.I.C. and Police Fund&#39; in Galway and to contribute personally to the fund an amount that would encourage others to do likewise.Luke Gerald Dillon, the 4th Baron Clonbrock, Co. Galway, is the husband of Lady Clonbrock who was a member of the Irish Women’s Association and heavily involved in assisting Irish soldiers during World War I. Brabazon , 12th earl of Meath, was a committed unionist and leading member of the Irish Land Conference. He sat in the house of lords as Baron Chaworth. The Irish Police &amp;amp; Constabulary Recognition Fund was founded by Meath to recognise the work of the police during the Easter Rising. It presented certificates, war bonds and awards to policemen who were in active service in the Royal Irish Constabulary or Dublin Metropolitan Police during the Rising and compensation to the widows and dependants of those killed or injured.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No 54, Ms. 35,766 (12)</collection>
+                  <idno>https://letters1916.ie/item/5938</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1012">Reginal Brabazon (Earl of Meath)</persName>
+              <date>1916-09-16</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lord Clonbrock</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5938_img_115_1"  type="Letter"  url="705344bfe5edf8c73c3c719c22b2df41.jpg"/>
+      <graphic xml:id="L1916_5938_img_115_2"  type="Enclosure"  url="69ecd5923cf65f8fc37ee7fb85ed784c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5938_img_115_1"/>
+              K<lb/>  As H. M. L. for the County of Galway, will you assist me<lb/> in this effort, by joining a small Committee representative of loyal Ireland<lb/> to collect and manage such a Fund? Will you raise subscriptions in your<lb/> County and will you kindly supplement this Â£100 by some substantial sum which<lb/> may persuade others to follow your example? Lord Iveagh has been good enough<lb/> to send me a cheque for Â£100. <seg type="closer"> Yours sincerely <lb/> Meath </seg> 
+            <pb n="2" facs="L1916_5938_img_115_2"/>
+               Sep 16 1916 L: Meath<lb/> R I.C. &amp; Police<lb/> Fund  
+         </ab>
+      </body>
+   </text>
+</TEI>

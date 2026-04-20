@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2018">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Mitchell Moubray to Robert Chalmers, 13 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Mitchell Moubray</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from John Mitchell Moubray (b. 1856) to Robert Chalmers (1858-1938) under-secretary for Ireland. Chalmers became under-secretary for a brief period following the resignation of Matthew Nathan (1862-1939), who relinquished his position following his political failure during the 1916 Easter Rising. The letter is an application by Moubray to acquire a permit for the travel of one of his Irish workers. In the enclosed letter he states that John Campbell, the Irish worker, and a boy. He goes on to state he requires them at once.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>National Archive of Ireland-Chief Secretary&#39;s Office-Registered Papers; NAI/CSO/RP/1916/5611/8173/1</collection>
+                  <idno>https://letters1916.ie/item/2018</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0577">John Mitchell Moubray</persName>
+              <date>1916-05-13</date>
+              <placeName key="#letters1916_place-0633">Sutton Farm, Lewes, East Sussex</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers </persName>
+              <date></date>
+              <placeName key="#letters1916_place-0858">Irish Office, Old Queen Street, Westminster, London.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2018_img_1466_1"  type="Letter"  url="62f3371e9cd9ff1f9ce6600d004b6b3f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2018_img_1466_1"/>
+             SUTTON FARM, <lb/>LEWES.   13 May 1916   The Under Sec. <lb/>of the Irish Office <lb/>Old Queen Street <lb/>Westminster.   Dear Sir,   Please fwd a Licence to come to me <lb/> to John Campbell Faheens Swinford <lb/> County Mayo Ireland &amp; one for a boy <lb/> the Boy I am not quite sure about. I <lb/> require Campbell at once as he is my <lb/> Head Stockman. I expect 2 more <lb/>over
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5373">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Róise Ní Dómnaill to Charlie Daly, [February/March 1923]</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Róise Ní Dómnaill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry Library Archives</repository>
+                  <collection>Charlie Daly Collection, P41/24/4</collection>
+                  <idno>https://letters1916.ie/item/5373</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0272">Róise Ní Dómnaill</persName>
+              <date>1923-02</date>
+              <placeName key="#letters1916_place-1541">Ballybofey, Co Donegal, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1307">Charlie Daly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0387">Drumboe Castle, Stranorlar, Co Donegal, Ireland </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Civil War (1922-1923)</item>
+               <item n="topic">Civil War (1922-1923)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5373_img_4658_1"  type="Letter"  url="06bee4fd518fd58be699cad87419e4d1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5373_img_4658_1"/>
+             Main St.,<lb/>Ballybofey,  Wednesday  P41/24/4   A cara dil,   Thanks for your letter rec’d a<lb/>few days ago. I hope you are still going<lb/>as well over there. I heard Ginger was<lb/>removed to Dublin with the other prisoners<lb/>who were sent from Buncrana. I am<lb/>sure you will miss him as he was a bit<lb/>of a sport. Two ladies called here<lb/>to see you &amp; the other chaps on Sunday.<lb/>They were much disappointed when<lb/>they were informed that visits were<lb/>not allowed. They send you all<lb/>their kindest regards. “If we don’t<lb/>get meeting on this world we may<lb/>on the next” After all life is very<lb/>unpleasant. Don’t you think so. Drop<lb/>me a note as soon as you can. This<lb/>may be the last but I hope not.   Beannacht Dia leat<lb/>Do cara anaim<lb/>Roise Ni Domhnaill     Good. Bye  <!--­­ This is written on the bottom left of the page and is perpendicular to the page ­­--> 
+         </ab>
+      </body>
+   </text>
+</TEI>

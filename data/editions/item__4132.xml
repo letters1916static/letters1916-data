@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4132">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from H. Hallings Latham to Sir Robert Ponsonby Staples, 2 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>H Hallings Latham</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Staples Papers D1567-F-13-13-3</collection>
+                  <idno>https://letters1916.ie/item/4132</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1032">H Hallings Latham</persName>
+              <date>1916-05-02</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Ponsonby Staples</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1389">Lissan, Cookstown, Co. Tyrone, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4132_img_3507_1"  type="Letter"  url="5e09166cfdd3cc15508075130dc98671.jpg"/>
+      <graphic xml:id="L1916_4132_img_3507_2"  type="Letter"  url="99cc90608cbec5da7efe8e0700e1cd27.jpg"/>
+      <graphic xml:id="L1916_4132_img_3507_3"  type="Envelope"  url="dba5f7efbf42c02b1a9b668504153d13.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4132_img_3507_1"/>
+             H.M.S. 'Glendevon' <lb/>c/o G.P.O.   May 2<hi rend="superscript">nd</hi> 1916.   Dear Mr. Staples   I expect you will have heard by <lb/>this time of your son's safe arrival; if <lb/>not I believe, as far as I can make <lb/>out, the Director of Military Transport <lb/>at the War Office is the correct person <lb/>to write to. But any how you may <lb/>rest assured that he is quite safe, <lb/>unless you have heard to the contrary <lb/>from the War Office. They would inform <lb/>you at once if any thing had happened
+            <pb n="2" facs="L1916_4132_img_3507_2"/>
+            <lb/>to your son anyway &amp; they are <lb/>really marvellously quick at letting <lb/>relatives know of any bad news, <lb/>so not having received this, it is <lb/>always a case of the old saying <lb/>these days:— "No news is good news"   With kind regards, hoping you <lb/>&amp; Mrs Staples are in the best of health <lb/>&amp; will have good news from your boy   Yours sincerely  <lb/><hi rend="underline">H. Hallings. Latham.</hi>
+            <pb n="3" facs="L1916_4132_img_3507_3"/>
+             R. Ponsonby Staples <sic>Esqre</sic> <lb/>Lissan <lb/>Cookstown <lb/><hi rend="underline">Co. Tyrone.</hi>   <sic>Comander</sic> Latham 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5445">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mrs Tracy to Piaras Béaslaí, 12 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mrs Tracy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from Bean Ui Treasaigh (Mrs Tracy) of Tuam, County Galway, to Piaras or Pierce Béaslaí, born Percy Beazley (1881-1965). The writer requests a copy of Béaslaí&#39;s play, &#39;Fear na Millúin Punt&#39;, and asks that it be with her by first post. Béaslaí was a journalist, writer and member of the militant Keating branch of the Gaelic League. He fought in the North King Street area during the Easter Rising and was imprisoned afterwards. He later became publicity officer in the Dáil government and edited the IRA newspaper &#39;An t-Oglach&#39;. He wrote twenty plays between 1913 and 1939.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Piaras Béaslaí Papers, Collection List No 44; Ms. 33,933 (3)</collection>
+                  <idno>https://letters1916.ie/item/5445</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">Irish</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1371">Mrs Tracy</persName>
+              <date>1916-02-12</date>
+              <placeName key="#letters1916_place-1230">Brownsgrove, Tuam, County Galway</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Piaras Béaslaí</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0093">18 North Frederick Street, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Culture and the Arts</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5445_img_477_1"  type="Letter"  url="a742564d747776c24665abdb9018c7b3.jpg"/>
+      <graphic xml:id="L1916_5445_img_477_2"  type="Letter"  url="6b57258cd1fb9f4d21d837289cdc0843.jpg"/>
+      <graphic xml:id="L1916_5445_img_477_3"  type="Envelope"  url="6de8edca613a5643c17a46ee0931e1ac.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5445_img_477_1"/>
+             Brownsgrove NS<lb/>Tuam   12.2.16   <seg type="foreign">A Cara</seg>,   <seg type="foreign">Cuir chugam mas e<lb/>do thoil é an drama<lb/>Fear na Milliún Punt<lb/>Seo é ocht <seg type="unclear">pighinn</seg> — luach<lb/>agus costas posta.</seg>     <seg type="del">Ta</seg> Beidh mé buideac<lb/>ma beidh se agam le 
+            <pb n="2" facs="L1916_5445_img_477_2"/>
+            <lb/><seg type="foreign">an gcead posta.   Mise le meas mór <lb/>Bean Ui Threasaigh <lb/>An Saoi P. Beaslai.</seg>   Address   Mrs Tracey, <lb/>Brownsgrove NS <lb/>Tuam.  <!-- begin translation -->  My dear friend,   Please send us the play ‘The Man of the Million Pounds’. Here is eight pence – price and cost of postage.   I would be grateful if I got it in the first post.   Yours respectfully, <lb/>Mrs Tracey  <!-- end translation -->
+            <pb n="3" facs="L1916_5445_img_477_3"/>
+             An Saoi Piaras Beaslai, <lb/>18 North Frederick St., <lb/>Dublin. 
+         </ab>
+      </body>
+   </text>
+</TEI>

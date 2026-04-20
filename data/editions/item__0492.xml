@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0492">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Telegram from R.M. Wynne to the Under-Secretary, 29 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward Melville Phillips Wynne </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Edward Melville Phillips Wynne (1849-1923), Resident Magistrate for Tralee, County Kerry, to Sir Robert Chalmers (1858-1938), Under-Secretary for Ireland, advising that a magistrate is required for Causeway, County Kerry for a forthcoming petty session and suggests Mr. James, from Ballybunion, County Kerry as suitable.Sir Robert Chalmers was appointed Under-Secretary of Ireland in 1916, replacing Sir Matthew Nathan (1862-1939) in the aftermath of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5620/13084</collection>
+                  <idno>https://letters1916.ie/item/492</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1097">Edward Melville Phillips Wynne </persName>
+              <date>1916-07-29</date>
+              <placeName key="#letters1916_place-2036">Tralee, County Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0492_img_1857_1"  type="Letter"  url="5282f259e02aa9b87561f36f08303ace.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0492_img_1857_1"/>
+              OHMS    Tralee    To Under Secretary Dublin  Castle    Resident magistrate required at Causeuray <lb/>petty sessions twelve noon next <lb/>Tuesday probably Mr Jones R. <lb/>Mr Ballybuniour most convenient. <seg type="closer"> Wynne R. M.    Tralee  </seg> I Instruct Mr Jones to attend <lb/>II Inform ' Wynne RM <lb/>III Note  <hi rend="underline">29:VII:16</hi><lb/>I.II &amp; III Done 29/7 <lb/>I II Respd <lb/>EoF 29/7  
+         </ab>
+      </body>
+   </text>
+</TEI>

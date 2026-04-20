@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6000">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Wilfrid Spender to Ernest Clark, 28 March 1922</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Wilfrid Spender to Ernest Clark discussing a special allowance for Field Marshal, Henry Wilson</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Correspondence and papers re Field Marshall Sir Henry Wilson, PRONI/CAB-6-89-93</collection>
+                  <idno>https://letters1916.ie/item/6000</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0667">Wilfrid Spender</persName>
+              <date>1922-03-28</date>
+              <placeName key="#letters1916_place-0321">Unknown</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Ernest Clark</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0321">Unknown</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1960</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6000_img_None_1"  url="675eb0026137002be3ba75c484463aae.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6000_img_0_1"/>
+              CAB6/89/93   <seg type="del">SIR ERNEST </seg>  Mr CLARKE<lb/><hi rend="underline">Home Affairs</hi>  You will have been  informed of  the decision of the Cabinet<lb/>in regard to the special allowanace for F.M. Sir Henry<lb/>Wilson. In regard to the pay of the G.O.C. and staff<lb/>appointed to the Constabulary Forces the Cabinet have<lb/>decided to accept the Field-Marshal's recommendations<lb/>but no details have been settled. I understood him to<lb/>say that he thought that the Ulster Government should<lb/>pay Military rates to these officers, plus bonus, in view<lb/>of the uncertain length of their appointment. I fancy<lb/>that he will offer these terms to the G.O.C. who will<lb/>be in a position to acquaint you with the terms of pay<lb/>for the whole staff.   W.B Spender    28th March 1922.     
+         </ab>
+      </body>
+   </text>
+</TEI>

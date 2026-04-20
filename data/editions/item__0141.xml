@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0141">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Office of the Chief Commissioner of Police to Nancy O'Rahilly, 19 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was sent to Nancy O&#39;Rahilly on behalf of the chief commissioner of the Dublin Metropolitan Police. The letter concerns a car belonging to Nancy&#39;s late husband, Michael. According to the letter Michael&#39;s car was found, partially burned, on Princes Street, outside the General Post Office and was removed to the Lower Castle Yard. The car will be handed over on receipt of payment for the costs incurred in moving it.Nancy (Nan, Nannie) O&#39;Rahilly was the wife of Michael Joseph &#39;The&#39; O&#39;Rahilly (1875–1916). Michael was a nationalist and a journalist. In 1916 he aligned himself with Eoin MacNeill and Bulmer Hobson who opposed a preemptive rising. Although O&#39;Rahilly played a large role in delivering MacNeill&#39;s countermanding order he felt obligated to stand with the men he recruited and trained. O&#39;Rahilly was fatally wounded on the Thursday 27 April when the GPO was being evacuated. Nancy was pregnant at the time of her husband&#39;s death. This letter was sent on behalf of the chief commissioner of the Dublin Metropolitan Police, Walter Edgeworth-Johnstone (1863-1937). During the Rising Johnstone withdrew his men from the streets after three were shot dead. In May 1916 he gave evidence to the royal commission of inquiry into the causes of the rebellion. The commission praised the conduct of the unarmed Dublin Metropolitan Police and noted that Edgeworth-Johnstone had given the government several warnings on which they could have acted before the Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Sighle Humphreys Papers, P106/125/1/1</collection>
+                  <idno>https://letters1916.ie/item/141</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-06-19</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1534">Nancy O&#39;Rahilly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1978">40 Herbert Park, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0141_img_1263_1"  type="Letter"  url="6f0615a63f65f89077617f8cb111d3b5.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0141_img_1263_1"/>
+                Dublin Castle,    19th June, 1916 .  Madam,   I am directed by the Chief Commissoner of Police<lb/> to inform you that a motor car, the property of your<lb/> late husband, which was found, partially burned, in<lb/> Princes Street, outside the Central Post Office, is<lb/> now in possession of the Police having been conveyed<lb/> to Lower Castle Yard at a cost of 30/-.  The car will be handed over to you or any<lb/> person authorised by you to receive it, on payment<lb/> of the cost of conveyance incurred by the Police as<lb/> stated above. <seg type="closer">  I am,<lb/> Madam,<lb/> Your obedient Servant, <lb/> <seg type="unclear">W. Amalill</seg>  Secretary.<lb/>  Mrs O'Rahilly,  40 Herbert park,  DUBLIN.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

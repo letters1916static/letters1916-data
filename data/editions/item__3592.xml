@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3592">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Clerk, Royal College of Physicians of Ireland to the Provost Marshal, 26 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Clerk, Royal College of Physicians of Ireland</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Typescript letter to the Provost Marshal requesting a copy of the sentence passed on Robert [Richard] Francis Hayes &#39;for the part he took in the recent Irish rebellion&#39;. (See letter RCPI/2/3/2/13/162)</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-13-161</collection>
+                  <idno>https://letters1916.ie/item/3592</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0345">Clerk, Royal College of Physicians of Ireland</persName>
+              <date>1916-05-26</date>
+              <placeName key="#letters1916_place-0272">Royal College of Physicians of Ireland, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">The Provost Marshall</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2117">Richmond Barracks, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3592_img_2992_1"  type="Letter"  url="7a24bdbc0478b4bc980dbca16cd79bfb.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3592_img_2992_1"/>
+             26th May 16   The Provost Marshal <lb/>Richard Barracks.   Sir,   <lb/>I am requested by the register of the Royal College of <lb/>Physicians of Ireland to enquire whether you will be so good <lb/>as to furnish him with a copy of the sentence passed in the <lb/>case of Robert Francis Hayes, L.R.C.P.&amp; S.I. ,1905, late of <lb/>Lusk, who is reported as having been sentenced to twenty <lb/>years penal servitude for the part he took in the <lb/>recent rebellion.  I have the honour to be <lb/>Sir, <lb/>Your obedient Servant, <lb/>Clerk, R.C.P.I. 
+         </ab>
+      </body>
+   </text>
+</TEI>

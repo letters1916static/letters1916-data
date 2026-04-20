@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0581">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Walter Edgeworth-Johnstone to Robert Chalmers, 18 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Walter Edgeworth-Johnson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Walter Edgeworth-Johnstone (1863–1937), the chief commissioner of the Dublin Metropolitan Police Force. In May 1916 Johnstone gave evidence to the royal commission of inquiry into the causes of the rebellion. The commission praised the conduct of the unarmed Dublin Metropolitan Police and noted that Johnstone had given the government several warnings on which they could have acted before the Rising. The letter is addressed to Sir Robert Chalmers (1858 – 1938), the under-secretary for Ireland. Chalmers was sent to Ireland as under-secretary, replacing Sir Matthew Nathan who had resigned along with Augustine Birrell, his chief secretary following the Easter Rising in 1916.The letter concerns Musketry Training for D.M.P. taking place in Dollymount, Dublin. Johnstone says that he is not aware of any dissatisfaction among the D.M.P. in relation to the course and goes on to outline the lodging and mess arrangements for the men. Johnstone goes on to say that there is no intention that D.M.P. policemen will carry arms in the course of duty, ‘except in cases of the gravest necessity’. The letter also raises the question of a war bonus and an increase in mess allowance for the force. A handwritten note added to the letter says that the pay of the D.M.P. is lower than that of many of the City Police Forces in Great Britain but they are not in the lowest paid police force in the United Kingdom.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5620/13691</collection>
+                  <idno>https://letters1916.ie/item/581</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0426">Walter Edgeworth-Johnson</persName>
+              <date>1916-07-18T00:00:00</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0581_img_1982_1"  type="Letter"  url="c92a165820ef01bfb45d0fecd9da63dc.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0581_img_1982_1"/>
+               The Under Secretary,    [ I am not aware of any dissatisfaction amongst the <lb/>Dublin Metropolitan Police in respect of Musketry Training, <lb/>except on the part of a few malcontents. This Training is <lb/>being carried out by direction of The General Officer <lb/>Commanding in Chief, with the consent of Government.   The cost of conveyance of Dublin Metropolitan Police <lb/>to and from Dollymount is being defrayed out of Public Funds.   In the first instance the men remained at Dollymount <lb/>during the whole course; they were provided with free lodging <lb/>and were messed at a lower rate than in their own Barracks. <lb/>Arrangements were subsequently made to limit the course to a <lb/>daily attendance of 3 hours, thus permitting the men to live <lb/>and obtain their meals in their own Barracks.   Orders were issued <seg type="del">by me</seg> that no man over 25 years' <lb/>service was to be detailed for this course;  but <seg type="del">by some oversight,</seg><lb/><seg type="del">however,</seg> a certain number of men over that service were <lb/> inadvertently  included in the classes.   <seg type="del">There is nothing to indicate any resentment amongst</seg><lb/><seg type="del">the Dublin Metropolitan Police at being instructed in the use</seg><lb/><seg type="del">of firearms</seg>. It is not proposed that  this force <seg type="del">they</seg> should carry rifles <lb/>when on duty or otherwise, except in cases of the gravest <lb/>necessity.  ]   The question of a War Bonus for the Force generally, <lb/>and an extra messing allowance to men on Musketry duty is <lb/>under consideration.    The rate of pay of The D.M.P. is lower than  that of  many <lb/>of the City Police Forces in G. Britain but they are <lb/>not the lowest paid <lb/>Police Force in The <lb/>U. Kingdom   <seg type="closer"> W. C. Johnstone  Chief Commissioner,   18/7/1916.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2024">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas H. Gardner Wallis to Sir Robert Chalmers, under-secretary for Ireland, 15 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas H. Gardner Wallis</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Thomas H. Gardner Wallis (b.1863), a solicitor from Cork. The letter is addressed to Sir Robert Chalmers. Chalmers (1858–1938) was sent to Ireland as under-secretary, replacing Sir Matthew Nathan  who had resigned along with Augustine Birrell , his chief secretary following the Easter Rising in 1916. 
+In the letter Wallis put himself forward as a candidate for the vacant position of crown solicitor for Cork. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI: &#39;Chief Secretary&#39;s Office Registered Papers; CSORP/1916/8257/1</collection>
+                  <idno>https://letters1916.ie/item/2024</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1504">Thomas H. Gardner Wallis</persName>
+              <date>1916-05-19</date>
+              <placeName key="#letters1916_place-1108">Cork, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0268">Dublin Castle, Dublin, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2024_img_1471_1"  type="Letter"  url="da18314035b99ca7744187a2a7f6c5f6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2024_img_1471_1"/>
+             16, South Mall, <lb/>Cork,   May 15<hi rend="superscript">th</hi>1916   And <lb/>Midleton, Co. Cork.  <lb/>To  The Under Secretary <lb/>The Castle <lb/>Dublin   Sir   I beg to offer my self as a candidate <lb/>for the Office of Crown Solicitor <lb/>for the City of Cork and County <lb/>of Cork West Riding, now vacant   Your obedient Servant   TH Gardner Wallis</hi><lb/> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3656">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Royal College of Physicians of Ireland to Ethel Benson, Dublin, 7 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Royal College of Physicians of Ireland</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from the Royal College of Physicians of Ireland (RCPI) to Ethel Martha Benson sending thanks for her donation of books to the college&#39;s library. 
+
+Ethel Martha Benson was the wife of surgeon Henry Arthur Benson (1852-1912). She was also the sister of Mrs Mary Lindsay, an elderly Protestant woman who was executed by the Irish Republican Army, alongside her driver James Clarke, in Cork in 1921. Mrs Lindsay&#39;s murder was one of the most controversial events of the War of Independence. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-13-187</collection>
+                  <idno>https://letters1916.ie/item/3656</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0320">Royal College of Physicians of Ireland</persName>
+              <date>1916-10-07</date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Ethel Martha Benson</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Medicine</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3656_img_3051_1"  type="Letter"  url="5e27970e9f333e02753292db6004a326.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3656_img_3051_1"/>
+             7th OCTOBER 16.   Mrs <seg type="unclear">A.R.</seg> Benson, <lb/>Dublin.   Madam,   I am requested by the President and Fellows of the Royal <lb/>College of Physicians of Ireland to forward you a copy of the <lb/>following resolution which was adopted at a meeting of the <lb/>College held yesterday the 6th inst.: <lb/>Resolved:'that the President and Fellows of the Royal College <lb/>of Physicians of Ireland desire to return to Mrs Arthur Benson <lb/>their best thanks for the spendid donation of books which she <lb/>has made to the library of the College. The books are valuable <lb/>in themselves and are, on account of their association with Dr. <lb/>Arthur Benson who was so well known to, and honoured by, the <lb/>Fellows of this College.   I have the honour to be, Madam, <lb/>Yours faithfully 
+         </ab>
+      </body>
+   </text>
+</TEI>

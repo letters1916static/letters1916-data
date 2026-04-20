@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1474">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Lord Buckmaster to John Redmond, 15 February 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Stanley Buckmaster</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Lord Stanley Buckmaster (1861-1934) to sir John Redmond (1856-1918). Buckmaster writes to Redmond that the town of Keighley in West Yorkshire was home to a large number of Irish immigrants after the Famine. Although these men remained staunchly nationalist the writer advises that as soon as war (the Great War) was declared these men enlisted, almost en masse. Redmond played an important role in the recruitment of Irish nationalists to the British army during the war.Stanley Buckmaster (1861-1934) was lord chancellor under British Prime Minister Herbert Henry Asquith (1853-1928) between 1915 and 1916. John Redmond MP, (1856-1918) was leader of the Irish Parliamentary Party between 1900 and 1918.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Erskine Childers Papers, Collection List No 161, Ms. 15,175</collection>
+                  <idno>https://letters1916.ie/item/1474</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0950">Stanley Buckmaster</persName>
+              <date>1916-02-15</date>
+              <placeName key="#letters1916_place-1088">House of Lords, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1486">John Redmond</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1474_img_923_1"  type="Letter"  url="c3df5101634f0dc70af8fc02b41d1532.jpg"/>
+      <graphic xml:id="L1916_1474_img_923_2"  type="Letter"  url="529c6adab032481b4623f85d4ffcd8f9.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1474_img_923_1"/>
+                HOUSE OF LORDS, S.W.    15th February, 1916.   Dear Mr. Redmond,   Please excuse a dictated letter: I have <lb/>little time for writing in my own hand.  There have always been, as you know well, <lb/> a very considerable body of Irish operatives in the <lb/> town of Keighley. They are strongly Nationalist, <lb/> and have always formed a body by themselves. <lb/> Many of them were members of the Labour Party, and I do <lb/>not know, and I have never sought to ascertain, how <lb/> they exercised their vote, although I believe that <lb/> I enjoyed at once their confidence and support.  What I thought right to tell you was this: <lb/> that as soon as the War was declared all of these <lb/> men available for military service enlisted in a <lb/> body, and it may be doubted if there are even a <lb/> handful left who are fit to fight and have not offered <lb/> their service. I want you to know this, as the Irish <lb/> position is, as no one knows better than yourself, <lb/> often but imperfectly understood. You could probably <lb/> verify this statement of mine by enquiry in the district.  
+            <pb n="2" facs="L1916_1474_img_923_2"/>
+              At any rate I know it will give you encouragement <lb/>in the difficult work at which you have laboured so <lb/>hard. <seg type="closer"> Yours very sincerely  Buckmaster   John E. Redmond, Esq. , M.P.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

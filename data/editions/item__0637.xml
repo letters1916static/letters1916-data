@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0637">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from R. Barry O'Brien to Bishop Edward Thomas O'Dwyer, 12 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Richard Barry O&#39;Brien</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Richard Barry O’Brien (1847–1918), to Bishop Edward Thomas O&#39;Dwyer (1842-1917), who served as the Bishop of Limerick from 1888 until his death. O’Brien wrote this letter to O‘Dwyer on behalf of Irish nuns in Ypres. According to O’Brien these nuns have been made the victims of the ‘ruthlessness of the foreigner’ and an opportunity has arisen to ‘replant’ these nuns in the ‘old soil’. O’Brien requests that O’Dwyer make a public statement to hasten the nun’s cause.O’Brien was an Irish nationalist biographer, historian, and publicist. His best known work concerned the life of Charles Stewart Parnell (1846 – 1891), a leading nationalist figure in Ireland and leader of the Home Rule Party, 1882-1891.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Limerick Diocesan Archive</repository>
+                  <collection>LDA/BI/ET/36, LDA/BI/ET/36</collection>
+                  <idno>https://letters1916.ie/item/637</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0860">Richard Barry O&#39;Brien</persName>
+              <date>1916-02-12</date>
+              <placeName key="#letters1916_place-0037">100 Sinclair Road, Kensington, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1500">Edward Thomas O&#39;Dwyer</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0036">Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0637_img_2107_1"  type="Letter"  url="5b1852c50dc636f6b75f092213513a43.jpg"/>
+      <graphic xml:id="L1916_0637_img_2107_2"  type="Letter"  url="ced2a01dee1e2cfd016af985c984f64e.jpg"/>
+      <graphic xml:id="L1916_0637_img_2107_3"  type="Letter"  url="a8f4a0a8fe06041a1d1293b1bbecf2e2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0637_img_2107_1"/>
+                100. SINCLAIR ROAD.  KENSINGTON     Feb: 12th /16.     Dear Lord Bishop,    The kind support <lb/> which your Lordship <lb/> gave to the movement for <lb/> creating a Celtic Cross <lb/> to the memory of the <lb/> soldiers of the Irish <lb/> Brigade who fought,<lb/>  
+            <pb n="2" facs="L1916_0637_img_2107_2"/>
+              and won at Foutenoy,<lb/> emboldens me to <lb/> approach your Lordship <lb/> on a kindred subject <lb/> I am sure that you <lb/> sympathise with the <lb/> position of the Irish Nuns <lb/> of Ypres who have been <lb/> made the victims of the <lb/> Ruthlessness of the foreigner <lb/> today as their predecessors <lb/> were made the victims of the <lb/> Ruthlessness of the foreigner <lb/> two hundred years ago <lb/> It struck us that it <lb/> would be in the fitness <lb/> of things to replant those <lb/> Irish Nuns in the old soil <lb/> and really a most <lb/>  
+            <pb n="3" facs="L1916_0637_img_2107_3"/>
+              unexpected and fortunate <lb/> chance for doing this has <lb/> offered itself to us. I am sure <lb/> that a public word from your <lb/> Lordship would hasten the <lb/> success of our movement <lb/> and in any event I feel that <lb/> your Lordship will forgive <lb/> me for trespassing upon you <lb/> because I 'Remember Limerick' . <seg type="closer"> I remain dear Lord <lb/> Bishop <lb/> Sincerely Yours,   R. Barry O'Brien </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1758">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Alfred Bryne to Augustine Birrell, 30 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Alfred Byrne</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Alfred Byrne (1882-1956), a member of parliament in Dublin harbor district and member of the Irish Parliamentary Party to Augustine Birrell (1850-1933), the Chief Secretary for Ireland. The letter recommends Charles P. O&#39;Neill (b. 1867), an Irish solicitor, for the vacant position of Chief Crown Solicitor due to the death of former solicitor Malchy Kelly (1850-1916). The letter recommends O&#39;Neill, noting the death of Kelly. It also notes that a word from Birrell will secure O&#39;Neill the position and that his appointment would be received with great gratitude. It ends thanking Birrell on behalf of the Irish Parliamentary Party.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland </repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/5729/8</collection>
+                  <idno>https://letters1916.ie/item/1758</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1405">Alfred Byrne</persName>
+              <date>1916-03-31</date>
+              <placeName key="#letters1916_place-0117">63 North Strand Road, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0534">Augustine Birrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0528">Chief Secretary's Office, Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1956</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1758_img_1214_1"  type="Letter"  url="32a814d765c3479106f7f79ee4014a46.jpg"/>
+      <graphic xml:id="L1916_1758_img_1214_2"  type="Letter"  url="e3e574ba287653d6dbe7609a96fa74e6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1758_img_1214_1"/>
+             60 North Strand R<hi rend="superscript">d</hi>   <hi rend="underline">30<hi rend="superscript">th</hi> March 1916</hi>   Dear M<hi rend="superscript">r</hi> Birrell   Friends innumerable of <lb/>Charles P O Neill Solicitor <lb/>(Chairman of Pembroke Council) <lb/>have called on me to write <lb/>to you on his behalf for <lb/>the Post of Crown Solicitor <lb/>now vacant — a word from <lb/>you they say would be <lb/>sufficient to gain him the <lb/>appointment and I believe
+            <pb n="2" facs="L1916_1758_img_1214_2"/>
+            if appointed, it will be <lb/>the most popular appointment <lb/>ever made and will be <lb/>received with gratification <lb/>by his numerous friends <lb/>in the Irish Party   With best wishes <lb/>yours sincerely   Alfred Byrne  <lb/>A Birrell Esq M P
+         </ab>
+      </body>
+   </text>
+</TEI>

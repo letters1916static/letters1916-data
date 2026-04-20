@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3113">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">A Letter from Alice Katherine Wynne to Veronica Wynne, 8 Dec 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Alice Katherine Wynne</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Alice Katherine Wynne to her daughter Veronica Wynne about recuperating from illness, visiting family and offering to lend her money if she needs it</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Trinity College Dublin</repository>
+                  <collection>TCD MS 10247/1/569</collection>
+                  <idno>https://letters1916.ie/item/3113</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1267">Alice Katherine Wynne</persName>
+              <date>1916-12-08</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Veronica Wynne</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3113_img_252_1"  type="Letter"  url="c842038925151959c9e143cbcd474245.jpg"/>
+      <graphic xml:id="L1916_3113_img_252_2"  type="Letter"  url="9f9bbcbe022b57acc4d1e90caaa0eeab.jpg"/>
+      <graphic xml:id="L1916_3113_img_252_3"  type="Letter"  url="c925c74cde025c9c972d10cf2b24306a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3113_img_252_1"/>
+            we shal<lb/>l please god<lb/> very soon be together<lb/> for a bit <seg type="unclear">ever</seg><lb/> darling child.<lb/> <seg type="unclear">=love</seg> Mother  <hi rend="underline">Alice K Wynne</hi> <!-- Above section is the end of letter written sideways on the top of the first page -->  50 Weymouth St.   Dec. 8th   My dearest Veronica   I must begin a<lb/> letter to you tonight<lb/> to finish tomorrow.<lb/> It was very nice to<lb/> get you last long let<lb/>ter yesterday. I am<lb/> so glad that you had<lb/> the week end at <seg type="unclear">Burn<lb/>aby</seg> Lodge. — I am<lb/> getting on very well<lb/> now able to walk<lb/> about the room &amp;
+            <pb n="2" facs="L1916_3113_img_252_2"/>
+            and have been out twice<lb/> in a Bath—chair. Je—<lb/> <seg type="unclear">tue</seg> &amp; <seg type="unclear">Eyrn</seg> were at<lb/> St Leonard's today<lb/> and have taken rooms<lb/> there. We hope to go<lb/> on Tues &amp; after a week<lb/> there to go on to<lb/> <seg type="unclear">Groney</seg> where it will<lb/> be very very joyful<lb/> to be together again.<lb/> I am sure you are<lb/> very busy with the<lb/> Exams. I do hope that you will come<lb/> out well I wonder<lb/> when the results will<lb/> be known. I <seg type="unclear">think</seg><lb/> you all seem to be<lb/> a very rowdy set!<lb/> in residence. Is there<lb/> any talk of dancing lessons later on?<lb/> Do not forget about<lb/> Xmas presents &amp; if you<lb/> go shopping the sooner<lb/> the better, shops get<lb/> so crowded. There is<lb/> a wonderful 1<hi rend="superscript">d</hi> bazaar
+            <pb n="3" facs="L1916_3113_img_252_3"/>
+            near Pims on the op—<lb/>posite side of the street<lb/> &amp; higher up if you<lb/> want any 1<hi rend="superscript">d</hi> togs.<lb/> If you want money<lb/> let me know. I<lb/> have a lot of time<lb/> for reading here &amp;<lb/> get through a great<lb/> many books &amp; more.<lb/> I will end for tonight<lb/> &amp; finish later.—  <seg type="unclear">Second</seg>. I am sorry to hear<lb/> that that "arrangement" has<lb/> not come right but I think<lb/> it may, perhaps next time<lb/> &amp; in any case I hope now that
+         </ab>
+      </body>
+   </text>
+</TEI>

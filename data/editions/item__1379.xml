@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1379">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir John Maxwell to Lord French, 4 May, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Grenfell Maxwell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from sir John Maxwell (1859 – 1929) to sir John French (1852-1925). Maxwell requests that the training of the 59th Division (2nd North Midland) continue as soon as possible. He writes about moving Brigades to Straffan Camp and Glen of Imaal for musketry and firing practice. He asks for Lord French&#39;s assistance in moving some of the Artillery of the Division, currently held up in Liverpool. Finally, in a handwritten postscript Maxwell says he is a little perplexed as to what to do with &#39;this man McNeill&#39; (Eoin MacNeill 1867-1945). He says MacNeill was prominent in the movement but he tried to stop the rebellion happening when it did. He expects the Priests and Politicians will try to save him and notes that he hasn&#39;t been tried yet.Sir John Henry Grenfell Maxwell was appointed commander in chief of the British forces in Ireland after the outbreak of the Easter Rising. Before 1916, Maxwell briefly held command of British troops in Egypt, where he successfully organised defences against a Turkish attack in February 1915 and presided over the huge expansion of his command as Egypt became a major British imperial military base. In March 1916, having been superseded as general officer commanding in Egypt, he was recalled home when the Easter Rising broke out. Sir John Denton Pinkstone French, first Earl of Ypres, was a British officer. Upon the outbreak of war, French was appointed Field Marshal of the British Expeditionary Force (BEF). Although popular with his men, the failure of his offensives, Neuve-Chapelle and Loos, to break the German lines and his criticism of the home government led to his replacement as Field Marshal by sir Douglas Haig (1861-1928) in late 1915. French was appointed Commander in Chief of the Home forces in January 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>DeValera Papers, P150/512/032</collection>
+                  <idno>https://letters1916.ie/item/1379</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0174">John Grenfell Maxwell</persName>
+              <date>1916-05-04</date>
+              <placeName key="#letters1916_place-0069">Head Quarters, Irish Command, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0358">John Denton Pinkstone French</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1379_img_740_1"  type="Letter"  url="7e957d954f93f8445807cc5faab62f11.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1379_img_740_1"/>
+                Head Quarters, Irish Command.  Dublin.    4 May, 1916.   Dear Lord French,   With reference to the 59<hi rend="superscript">th</hi> Division, as it <lb/> will be necessary to keep this Division in Ireland for <lb/> some considerable time I am anxious to arrange for its <lb/> training to be continued as soon as circumstances will <lb/> permit of this.  To begin with a Brigade is being moved to <lb/> Straffan Camp where there is excellent range accommodation <lb/> with a view to its carrying out Musketry, and Glen Imaal <lb/> being available I can arrange for part of the Divisional <lb/> Artillery to commence practice firing there.  I understand that some of the Artillery of this <lb/> Division has been detained at Liverpool to await further <lb/> instructions. In view of the training facilities available <lb/> here perhaps you will consider the question as to whether <lb/> it would not be advisable to complete the transport of the <lb/> Division to Ireland in order to continue its training.<seg type="del">here</seg>  I shall be glad to know what you decide to do<lb/> in the matter.  The letter is handwritten from here  I am a little perplexed what to do <lb/> about this man McNeill, he is no doubt one <lb/> of the most prominent in the movement <lb/> though I believe he did try and stop the <lb/> actual rebellion taking place when it did.  The Priests and politicians will try and <lb/> save him âHe is not tried yet <seg type="closer"> Yours sincerely  J G Maxwell </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1072">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Joseph O'Carroll to Thomas Kirkpatrick, 1 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Joseph Francis O&#39;Carroll</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Joseph Francis O&#39;Carroll (1856-1942) to Thomas Percy Kirkpatrick expressing his misgivings about his capabilities to preform as President of the College should Dr Bewley choose to defer his term.From 1910 until 1954 Thomas Kirkpatrick (1869-1954) served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T91-3, RCPI-2-3-1-58-T91-3</collection>
+                  <idno>https://letters1916.ie/item/1072</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0000">Joseph Francis O&#39;Carroll</persName>
+              <date>1916-10-01</date>
+              <placeName key="#letters1916_place-0195">43 Merrion Square, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0544">Thomas Percy Kirkpatrick</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1072_img_3213_1"  type="Letter"  url="4b94191f67ece1254749d19f8ebb0393.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1072_img_3213_1"/>
+                43, MERRION SQUARE,  DUBLIN.    1st Oct. 1916   My dear Registrar,   I hoped very sincerely <lb/>that D<hi rend="superscript">r</hi>. Bewley would take the Residency, to <lb/>which the votes of the College would have elected <lb/>him unanimously as against any other single <lb/>Fellow of the College. If however he desires to <lb/>defer his term of office, I feel that it is my <lb/>duty to the College, as it is a very great homour <lb/>to myself, to allow my name to go forward <lb/>as a candidate at the final election. But I <lb/>am so little confident of my ability to fill the <lb/>high position of President according to the Standards <lb/>set by the Presidents to whom I have known that <lb/>I should not feel at all displeased if some <lb/>more worthy candidate would be found in the <lb/>meantime. <seg type="closer"> Yours sincerely  Joseph O' Carroll   T. Percy Kirkpatrick Esq  MD. F.R.C.P.I.  Registrar, R.C.P.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

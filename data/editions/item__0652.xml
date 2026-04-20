@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0652">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Pedder to the Under Secretary of Ireland, 27 March, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Pedder</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from John Pedder enclosing the naturalization form for Captain B.R. Erickson to become a British subject. At the time this letter was written Sir Matthew Nathan (1862-1939) was serving as the under secretary for Ireland. Nathan took up the position in 1914 and held the office until 1916 when he offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered papers, CSO-RP-1916-5615-5528</collection>
+                  <idno>https://letters1916.ie/item/652</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0745">John Pedder</persName>
+              <date>1916-03-27T00:00:00</date>
+              <placeName key="#letters1916_place-0856">Home Office, Whitehall, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0652_img_2127_1"  type="Letter"  url="20ab4e93a5545fd38f5a186d732ba8e4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0652_img_2127_1"/>
+                HOME OFFICE,  WHITEHALL,    27th March, 1916   Sir,   I am directed by the Secretary of State to transmit to you herewith <lb/>a Memorial for a Certificate of Naturalization from Captain B.R. Erickson <lb/>together with the declarations relating <lb/>thereto, and I am to request that you will be good enough to cause special <lb/>(private) inquiry to be made into all the statements of the Applicant and <lb/>of his Referees, so far as the persons in question are or have been within your <lb/>jurisdiction, and to report the result of the inquiry.   The following points should be specially dealt with in the Report: â <lb/>1. the genuineness of the signatures. <lb/>2. As regards the Applicantâ <lb/>(a) His place of date of birth ; <lb/>(b) His character and respectability ; <lb/>(c) His knowledge of the English language ; <lb/>(d) His intention to reside in the British Dominions or <lb/>to enter the service of the Crown ; <lb/>(e) His reasons for applying for a Certificate of Naturaliâ <lb/>zation ; <lb/>(f) The statements in the Memorial as regards residence.   These should be verified both as to time and <lb/>place. If the applicant has been abset at all from <lb/>the United Kingdom during the twelve months preceding <lb/>the application, the exact particulars of any such <lb/>periods of absence should be ascertained.   (g) The date and place of the applicants' marriage or <lb/>marriages ; <lb/>(h) The full Christian name of his wife ; and <lb/>(i) The full names and the exact dates and places of birth <lb/>of his children under 21 years of age and their present <lb/>places of residence. <lb/>(j) Has he complied with the provisions of Part II. of the <lb/>Aliens Restriction Order? <lb/>3. As regards the Refereesâ <lb/>(a) Their character, respectability and occupations; <lb/>(b) The statements that they are householders and natural <lb/>born British Subjects ; <lb/>(c) Their acquaintance with the Applicant ; and <lb/>(d) The competency of the Residence Referee to testify to <lb/>the statements in the Memorial as regards residence. <lb/>Particular attention should be paid to the exact extent <lb/>of his knowledge and the manner in which it has been <lb/>acquired.   The Secretary of State trusts that care will be taken to make all the <lb/>necessary inquiries as thoroughly as possible, as he must depend, for his <lb/>decision in the matter, chiefly on the conclusions arrived at by the Police <lb/>and on the completeness and accuracy of the information supplied him.   Special care is needed at the present time, having regard to the <lb/>Aliens Restriction Order from which naturalization, if granted, would <lb/>relieve the alien.  <seg type="closer"> I am, <lb/>SIR, <lb/>Your obedient Servant,   John Pedder   The Under Secretary  DUBLIN CASTLE  <lb/>P.T.O. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

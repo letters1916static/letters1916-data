@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4881">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J. Mackay Wilson to Richard Dawson Bates, 19 April 1919</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J. Mackay Wilson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>D1327-18-19</collection>
+                  <idno>https://letters1916.ie/item/4881</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0142">J. Mackay Wilson</persName>
+              <date>1919-04-19</date>
+              <placeName key="#letters1916_place-0544">Curry, Edgeworthstown, Longford, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1358">Richard Dawson Bates</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4881_img_None_1"  url="53a7169543e3e6fa3fbef274e1f63e54.jpg"/>
+      <graphic xml:id="L1916_4881_img_None_2"  url="c37f2de692695ede1f147cd63b5cafff.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4881_img_0_1"/>
+             Irish Unionist Alliance   <seg type="del">Chief Offices:<lb/>109,. Grafton St.,<lb/>Dublin</seg>    Currygrane<lb/>Edgeworthstown <lb/> 19 Api: 19 <lb/> Dear Bates <lb/><lb/>I see you are to<lb/>have a meeting next<lb/>week -  I hope very much that<lb/>the matter of arranging<lb/>closer relationships with<lb/>Ulster will be sym-<lb/>pathetically entertained<lb/>a Joint committee<lb/>wd: probably be best. You 
+            <pb n="2" facs="L1916_4881_img_0_2"/>
+             4<lb/><lb/>will, I am sure, realize to<lb/>the full what a tremendous,<lb/> at last, successful fight<lb/>we have had to get rid<lb/>of Ld. Midleton &amp; his friends,<lb/>who, as we believe were<lb/>prepared to sacrifice the<lb/>Union; &amp;, our desire now<lb/>to be associated more<lb/>closely than ever with<lb/>Ulster -   J Mackay Wilson  
+         </ab>
+      </body>
+   </text>
+</TEI>

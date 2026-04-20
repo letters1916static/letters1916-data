@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0503">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from M. Farrelly to the Chief Secretary’s Office, 2 August, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M. Farrelly</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from M Farrelly to the Chief Secretary&#39;s Office requesting compensation for a watch left in for repair at the Pillar House, Sackville Street, Dublin. When the owner called in to collect he was informed that it had been looted and was advised to seek compensation with the government.This letter was addressed to the chief secretary. Henry Edward Duke (1855 - 1939) was appointed chief secretary on 31 July 1916 following the resignation of Augustine Birrell (1850 - 1933) on 3 May 1916. Birrell resigned following the outbreak of the Easter Rising, for which he accepted responsibility.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5620/13288</collection>
+                  <idno>https://letters1916.ie/item/503</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1042">M. Farrelly</persName>
+              <date>1916-08-02</date>
+              <placeName key="#letters1916_place-0847">3 Hardwicke Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Chief Secretary&#39;s Office</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0503_img_1871_1"  type="Letter"  url="60eb138b719270382a288ecb97946913.jpg"/>
+      <graphic xml:id="L1916_0503_img_1871_2"  type="Envelope"  url="f3e2fc2af02bc8d22b538ec90382b58f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0503_img_1871_1"/>
+                3 Hardwicke Street,  Dublin    <hi rend="underline">August 2</hi> 1916   Dear Sir   I beg to inform you <lb/> I left a watch to be repaired <lb/> at Pillar House Dublin and<lb/> when called for. I was told<lb/> it had being looted and to<lb/> apply to you. hoping to receive<lb/> information soon as possible. <seg type="closer"> And Oblige <lb/> Mr Farrelly </seg> Ask &amp; refer writer to the committee  
+            <pb n="2" facs="L1916_0503_img_1871_2"/>
+                To the Under Secretary Dublin Castle    
+         </ab>
+      </body>
+   </text>
+</TEI>

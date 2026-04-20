@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0539">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">A note to the Officer Commanding A Company, c. 24 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A note to the Officer Commanding A Company, most probably written during the Easter Rising. Éamonn Ceannt was succeed as the Captain of A Company, Irish Volunteers, in 1914 by Seamus Murphy. During the Easter Rising, Murphy was in charge of the garrison at the Marrowbone Lane Distillery with Captain Con Colbert as his second in command. This note informs Murphy of the best vantage points for securing and defending the area surrounding College Green.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Allen Library, Br. Allen Collection, IE/AL/1916/14</collection>
+                  <idno>https://letters1916.ie/item/539</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Seamus Murphy</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0539_img_1918_1"  type="Letter"  url="c41228bda08b82d36921bb71978a4b73.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0539_img_1918_1"/>
+                To O.C. <hi rend="underline">A Company</hi>    The houses in Grafton St forming the <lb/> triangle opposite Trinity College are unoccupied <lb/> They are high and the roofs could I think dominate <lb/> College Green and check the snipers on the roof of the <lb/> Bank also the line of Route, Dame St. to Georges St <lb/> Westmoreland St and Grafton St   Given by Rev.MC Allen PP <lb/> High Street 22 .7.66   
+         </ab>
+      </body>
+   </text>
+</TEI>

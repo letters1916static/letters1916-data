@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1499">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from Tom Dolan to Dolly Dolan, 11 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Tom Dolan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a postcard sent by Thomas Dolan (d.1917) to his sister. The postcard was written on 11 May, the day before the final executions of the leaders of the Rising. Tom writes to ensure his sister that he is safe and to show her the damage done in Dublin. The postcard is an image of the badly damage Liberty Hall, headquarters of the Irish Transport and General Workers Union. Many of those who took part in the Rising set out from Liberty Hall on its opening day. It was shelled by a British gunboat during the fighting but was empty at the time.Tom Dolan served with the British Army at the time of the 1916 Rising. Having taken part in the suppression, he would go on to serve in Belgium, where he was killed in action on the opening day of the second battle of Passchendaele, 26 October 1917.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Liam Smith</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/1499</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1295">Tom Dolan</persName>
+              <date>1916-05-11</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Dolly Dolan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1441">22 Western Road, Derby, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1499_img_957_1"  type="Letter"  url="7d55c3fa46f5c1b0f010d98c4b289c50.jpg"/>
+      <graphic xml:id="L1916_1499_img_957_2"  type="Letter"  url="5344c0fa7d704a5d2c61c8eee70d47de.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1499_img_957_1"/>
+                 May 11/16   Dear Dolly,    What do you <lb/> think of this PC. <lb/>Just to let you see <lb/>what Dublin is like. <lb/>I wish I could get <lb/> you one of Sackville St.  <seg type="closer"> You loving brother  Tom </seg>     Miss Dolan  22 Western Rd  Derby   <hi rend="underline">England</hi>     
+            <pb n="2" facs="L1916_1499_img_957_2"/>
+               Liberty Hall, Headquarters of the Citizen Army, after Bombardment.   
+         </ab>
+      </body>
+   </text>
+</TEI>

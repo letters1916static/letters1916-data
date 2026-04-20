@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0206">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick O'Donoghue to the Acting Secretary, Irish Government, June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick O&#39;Donoghue</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Patrick O&#39;Donoghue to the &#39;acting secretary, Irish Government&#39;. At this brief period there had been no official Chief Secretary for Ireland due to the resignation of Augustine Birrell (1850-1933) following the failure of his administration to deal with the 1916 Rising. O&#39;Donoghue enquires about the whereabouts of Patrick Joseph Ryan (b. 1881), a town councillor who was arrested in connection with the 1916 Easter Rising. It goes on to enquire if Ryan is imprisoned with a sentence or simply interned in a camp.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5612/9461/1</collection>
+                  <idno>https://letters1916.ie/item/206</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0690">Patrick O&#39;Donoghue</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1849">Queens Road, Cheetham, Manchester, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Acting Secretary, Irish Government</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0206_img_1353_1"  type="Letter"  url="5382c8cf2a3255c3ed1ba757b3708e50.jpg"/>
+      <graphic xml:id="L1916_0206_img_1353_2"  type="Letter"  url="27bc9576ec976bc70fbfd0833e16ac1a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0206_img_1353_1"/>
+              Reply that he should <lb/> address the Provost <lb/>Marshal, Richmond <lb/>Bks. Dublin WMC 5/6    125 Queens Road  Cheetham  Manchester    The acting Sec.  Irish Government  Dublin   Dear Sir   would you be good enough to let <lb/>me know where Mr Patrick Ryan (Town Councillor) <lb/> of Ballaghdereen, Ireland, <lb/> who was arrested in <lb/>connection with the recent <lb/>rebellion, is, and if <lb/>he is in prison or only  
+            <pb n="2" facs="L1916_0206_img_1353_2"/>
+              <seg type="del">a prisoner of war</seg><lb/>only in an internment camp.   By a prisoner I mean suffering a term of imprisonment. <seg type="closer"> Thanking <lb/>you in anticipation. <lb/>Yours etc <lb/> P O'Donoghue </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

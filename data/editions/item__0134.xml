@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0134">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Alfred O'Rahilly to Mary Ellen O'Rahilly, 25 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Alfred O&#39;Rahilly </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Alfred O&#39;Rahilly to Mary Ellen O&#39;Rahilly concerning the death of Mary&#39;s brother Michael. Alfred begins hi letter with an apology for his delay in writing to her but he did not want to intrude as their letters would be examined by English spies. The letter speaks of Mary&#39;s imprisonment and hopes that her son Dick will stay strong until he too is released. Alfred also writes of his hope that evidence will be collected regarding &#39;the Huns&#39; (British) atrocities as a day will come when it can be published.Alfred O&#39;Rahilly (1884–1969) was a priest, university scholar and first cousin to Micheal O&#39;Rahilly. Michael Joseph &#39;The&#39; O&#39;Rahilly (1875–1916) was a nationalist and a journalist. In 1916 he aligned himself with Eoin MacNeill and Bulmer Hobson who opposed a preemptive rising. Although O&#39;Rahilly played a large role in delivering MacNeill&#39;s countermanding order he felt obligated to stand with the men he recruited and trained. O&#39;Rahilly was fatally wounded on the Thursday 27 April when the GPO was being evacuated. Nell was also involved in the Nationalist movement as a member of Cumann na mBan and was imprisoned after the Rising for her role.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Sighle Humphreys Papers, P106/121/004/5</collection>
+                  <idno>https://letters1916.ie/item/134</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0436">Alfred O&#39;Rahilly </persName>
+              <date>1916-05-25</date>
+              <placeName key="#letters1916_place-1764">Ronan Hostel, Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mary Ellen O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0134_img_1229_1"  type="Letter"  url="584a13fe7d7a52228570c26c16cd4146.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0134_img_1229_1"/>
+                Honan Hostel  Cork     25 May 1916    Dear Nell    I would have written to you long ago<lb/> or at least to Anna, but I did not like intruding on you and besides I <lb/> presume all letters to you &amp; her are carefully perused by English spies.    I will say nothing about Michael. He was a hero &amp; is respected<lb/> &amp; honoured even by his enemies. This is not the time for speaking.<lb/> But his blood will not have been shed in vain. We are all Irish <lb/> now! I am going to try to be an Irishman in future.    I am glad that you are feeling none the worse after your <lb/> ill-treatment. I hope Dick will keep strong until he gets out.    You understand that we can't do or say much these times. <lb/> Please accept my sincerest sympathy. Could we wish for a<lb/> noble &amp; better death for anyone?  I hope Anna &amp; others will be able to collect evidence<lb/> concerning the Huns' atrocities. Even though it cannot be<lb/> published now, a day is coming.   Love to Anna &amp; yourself  <seg type="closer"> Yours affectionately <lb/> Alfred Rahilly </seg> Don't bother answering this  
+         </ab>
+      </body>
+   </text>
+</TEI>

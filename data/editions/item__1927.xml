@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1927">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward O'Farrell to the Clerk of the Crown and Peace, County Down, 25 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward O&#39;Farrell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Edward O&#39;Farrell (1857-1926) the assistant under-secretary to the Lord Lieutenant of Ireland Sir Ivor Churchill Guest , or Lord Wimborne as he is better known. The lord lieutenant or viceroy was the monarch’s representative in Ireland.  O&#39;Farrell was writing to the Clerk of the Crown and Peace in the county of Down. In the letter O&#39;Farrell is asking the clerk to send a one pound note and two notebooks that had been handed up during a hearing. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/8737</collection>
+                  <idno>https://letters1916.ie/item/1927</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date>1916-05-25</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">The Clerk of the Crown and Peace</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0452">Courthouse, Downpatrick, County Down, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1926</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1927_img_1377_1"  type="Letter"  url="f21ae15d476df7cd972a4a0269ab9891.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1927_img_1377_1"/>
+             25th May, 1916.  <lb/>No. 8737.  Sir,    With reference to your letter of the 11th <lb/>instant to the County Inspector Royal Irish Con- <lb/>stabulary, Downpatrick, in regard to the case of <lb/>the King v Samuel Heron, I am directed by the Lords <lb/>Justices to request you to be good enough to hand <lb/>over to the police the one pound note mentioned <lb/>therein and also two note books, one the property <lb/>of Sergeant Reynolds, and the other the property <lb/>of Constable McClaine, which were handed in at the <lb/>hearing of the case at Newtownards Petty Sessions <lb/>and, it is presumed, are attached to the depositions.   I am, <lb/>Sir, <lb/>Your obedient Servant,   EOFarrell    The Clerk of the Crown &amp; Peace, <lb/>Courthouse, <lb/>Downpatrick, <lb/>Co. Down.  
+         </ab>
+      </body>
+   </text>
+</TEI>

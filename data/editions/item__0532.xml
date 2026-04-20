@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0532">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John (Jack) Cromien to Maggie, 4 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Cromien</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from John (Jack) Cromien (1893-1916) to Maggie, informing her he has a bad cold and the only night he was out was on Wednesday to go to the barbers. He doesn’t expect to be better before Sunday and apologises for not writing sooner. The last part of the letter (the writer&#39;s signature) has been cut out.John (Jack) Cromien was an Irish Volunteer. During Easter Week, his position was in Prussia Street, Dublin. Cromien was shot dead by a British sniper during the week of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, IE/AL/1915/21</collection>
+                  <idno>https://letters1916.ie/item/532</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1046">John Cromien</persName>
+              <date>1915-11-04</date>
+              <placeName key="#letters1916_place-1138">13 Fingal Place, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Maggie</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0532_img_1910_1"  type="Letter"  url="be01ff071b50c9c142666691ae362c84.jpg"/>
+      <graphic xml:id="L1916_0532_img_1910_2"  type="Letter"  url="bf1f22373c30f98e33d65e4aebeb6343.jpg"/>
+      <graphic xml:id="L1916_0532_img_1910_3"  type="Letter"  url="4a0f0bc765e61aaf94b4d1b25773efcd.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0532_img_1910_1"/>
+                13 Fingal Pce    4.11.15   Dear Maggie   I <sic>couldânt</sic> go <lb/> out on Sunday night last, <lb/> my cold was very bad <lb/> and when the rain started <lb/> it decided me altogether. <lb/> I would have written you <lb/> sooner only I expected to <lb/> see you coming home for <lb/>dinner or when I was <lb/> coming home at night.   
+            <pb n="2" facs="L1916_0532_img_1910_2"/>
+              I havenât been out at night <lb/> time since last Saturday <lb/> night when I was talking <lb/> to you, except for half an <lb/> hour on Wednesday night <lb/> when I went down to the <lb/> barbers. This staying in <lb/> has me nearly âdown and <lb/> outâ and I donât expect <lb/> to be better before Sunday. <lb/> I hope this apology, or <lb/> excuse if you like, will <lb/> be accepted. I must be <lb/> doomed to write nothing <lb/> but apologies.   
+            <pb n="3" facs="L1916_0532_img_1910_3"/>
+              How are you getting on. <lb/> I hope you are alright <lb/> and wont catch anything <lb/> like the cold I have <lb/> You would feel miserable. <lb/> I better post this note <lb/> quick, I might tear it up <lb/> as I <sic>cant</sic> find anything <lb/> interesting to put in it. <lb/> Hoping you are not <lb/> vexed with me for not <lb/> writing before.   
+         </ab>
+      </body>
+   </text>
+</TEI>

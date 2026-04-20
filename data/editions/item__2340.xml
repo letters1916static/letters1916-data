@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2340">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from MJ Curran to Monsignor John F Hogan, 12 January, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M. J. Curran</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from MJ Curran to the Reverend  John F Hogan DD who served as President of St. Partick’s College, Maynooth from 1912 to 1918. Curran encloses a cheque for £5 on behalf of the Archbishop for a subscription to the Dr. Whitehead memorial.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>St Patrick&#39;s College, Maynooth</repository>
+                  <collection>John F. Hogan Papers 21/12/32</collection>
+                  <idno>https://letters1916.ie/item/2340</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1151">M. J. Curran</persName>
+              <date>1916-01-12</date>
+              <placeName key="#letters1916_place-1842">Archbishop’s House, Dublin, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Monsignor John F. Hogan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0789">St. Patrick’s College, Maynooth, Co. Kildare, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2340_img_1787_1"  type="Letter"  url="df864f74aac3b3146cce4833929c90bb.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2340_img_1787_1"/>
+             ARCHBISHOP'S HOUSE <lb/>Dublin   21.I.16   My dear Monsignor,   I enclose on behalf of his <lb/>Grace the Archbishop a cheque <lb/>for £5, his Grace's subscription <lb/>to the D. Whitehead memorial   With best wishes <lb/>Yours sincerely   M. J Curran 
+         </ab>
+      </body>
+   </text>
+</TEI>

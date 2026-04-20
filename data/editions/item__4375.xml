@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4375">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from MJ Murphy to Sir Edward O'Farrell, assistant under-secretary for Ireland, [November 1916?]</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>MJ Murphy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by M. J. Murphy to Sir Edward O&#39;Farrell (c.1857-1926), the assistant under-secretary to the lord lieutenant of Ireland.
+
+The letter concerns the licence of a couple in Waterford City.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP 1916/695/18/6</collection>
+                  <idno>https://letters1916.ie/item/4375</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1489">MJ Murphy</persName>
+              <date>1915-11</date>
+              <placeName key="#letters1916_place-2101">Waterford, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4375_img_373_1"  type="Letter"  url="a0b1b150a16569e02929a6494fd89fef.jpg"/>
+      <graphic xml:id="L1916_4375_img_373_2"  type="Letter"  url="c67bbfe2b5218ab362c7c3270db1b29b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4375_img_373_1"/>
+            <lb/>Monday  Dear Sir Edward   Very many <lb/>thanks for your letter. <lb/><seg type="unclear">Hyland</seg> is not initiated <lb/>in the spirit trade - <lb/>The licence has been <lb/>held since he married <lb/>(years ago) in his wifes <lb/>name. He is only <lb/>a <hi rend="underline">Sleeper</hi> in the <lb/>House. He deals
+            <pb n="2" facs="L1916_4375_img_373_2"/>
+            <lb/>in Cattle and works land.   I have sent in two names <lb/>to Mr Birrell for the City of <lb/>Waterford and I'd be glad <lb/>all <seg type="unclear">these</seg> could be fixed <lb/>together. The two I have <lb/>sent in are strong friends <lb/>of our Chief Mr. Redmond. <lb/>I requested Mr. Birrell to <lb/>ask Mr. Redmond's opinion <lb/>of them.   My kind regards <lb/>Yours Faithfully   MJ Murphy 
+         </ab>
+      </body>
+   </text>
+</TEI>

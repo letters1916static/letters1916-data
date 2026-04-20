@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0717">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Rev Robert Kelso to Mrs. Jackson, 14 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Kelso</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Rev Robert Kelso, Principal Chaplain&#39;s Dept, Bologne Base, B.E.F. France, to Mrs Jackson&#39;s whose son, Moore, died in a Canadian Hospital. Reverend Kelso writes that he was badly wounded, but was in good spirits and was hopeful of making a recovery to return home. Kelso writes that he saw Moore daily and everything possible was being done for him. He also corrects and error from a previous letter: Charlie Walt, which he wrote was dead, was in fact, alive and well and not wounded.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Kelso Papers, D3019/1/1</collection>
+                  <idno>https://letters1916.ie/item/717</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0887">Robert Kelso</persName>
+              <date>1916-10-14</date>
+              <placeName key="#letters1916_place-0024">Principal Chaplain Department, Boulogne Base, France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Eliza Jackson</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2110">1525 Queen St., West, Toronto, Ontario, Canada</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0717_img_2220_1"  type="Letter"  url="03d75f484583cef2d0482128245d763f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0717_img_2220_1"/>
+                Mrs Elisa Jackson  1525 Queen St. W.  Ontario  Toronto  <hi rend="underline">Canada</hi>    Principal Chaplains Dept  Boulogne Base B.E.<seg type="unclear">F.</seg>  France    14<hi rend="superscript">th</hi> Oct. 1916   Dear Mrs Jackson   Your Son, Moore Jackson, <lb/>is in no 3 Canadian Hospital here &amp; He asked <lb/>me to notify you of this fact. I am sorry to say <lb/>that he is pretty badly wounded &amp; has been <lb/>dangerously ill ever since his coming here <lb/> I see him almost every day &amp; so far as I can <lb/>judge he is getting a little better &amp; to-day he <lb/>told me that he was in hopes of making a pretty <lb/>good recovery. He is in fairly good spirits, <lb/>considering the circumstances &amp; I am hopeful that <lb/>his naturally cheery disposition &amp; good healthy <lb/>constitution may - under the good Providence of God - <lb/>spare him return to you &amp; his home. You <lb/> may rest assured that everything will be done to <lb/>assure this &amp; both Doctors &amp; Nurses are most <lb/>attentive to him as he is such a nice boy &amp; a <lb/>general favourite with them all.  He asked me to tell you that he had made a mistake <lb/>in the last letter to you in saying that Charlie <lb/>Walt had been killed. This is not so as your boy <lb/> saw him since he wrote you &amp; so far as he knows at <lb/>present he is alive &amp; well.  Hoping to have better news for you soon  <seg type="closer"> Sincerely Yours .  Robt Kelso  <lb/>Regt. Chaplain.</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

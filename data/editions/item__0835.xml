@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0835">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Herbert Pim, 9 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Herbert Pim</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Herbert Pim (1883-1950), the publisher of a pamphlet series entitled &#39;Tracts of our times&#39;, which included Patrick Pearse among its contributors. The letter is simply addressed to &#39;a chara&#39; or &#39;friend&#39; in Irish. Here Pim discusses the campaign of &#39;The Irishman&#39; to revive Sinn Féin. Also notable is Pim&#39;s written correction at the header of the letter that declares that &#39;The Irishman&#39; will now be published monthly as opposed to the original fortnightly.Pim, writer and political activist, was born 6 June 1883 in Belfast, son of Robert Barclay Pim and Caroline Pim (née Moore). The Pims were a leading Quaker business and professional dynasty. Initially conservative in politics, Pim developed liberal sympathies after meeting upper-class Belfast liberals, then joined the United Irish League (UIL), converted to Catholicism (1910), and joined the Ancient Order of Hibernians. In early 1916 Pim founded the literary and political monthly, &#39;The Irishman&#39;. Pim joined the Volunteer muster in Coalisland at Easter 1916. He was arrested after the Rising and deported to Reading Gaol. He was released in September 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, IE/AL/1916/80</collection>
+                  <idno>https://letters1916.ie/item/835</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1003">Herbert Pim</persName>
+              <date>1916-10-09</date>
+              <placeName key="#letters1916_place-2026">65 University Road, Belfast</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0835_img_2386_1"  type="Letter"  url="7dbf48d0c0e7af75e6702871f4e7b96b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0835_img_2386_1"/>
+                9<hi rend="superscript">th</hi> Oct 1916   <seg type="foreign">A Chara</seg>,   John Sweetman &amp; I were very sorry to<lb/> miss you, &amp; I hope you are better. Sweetman<lb/> probably told you what I told him, that I<lb/> that I have obtained the <seg type="unclear">census's</seg> permission to proceed <lb/> with   Sinn Fein. <hi rend="underline">The Irishman,</hi> if<lb/> you have been reading it, will show you how<lb/> the appetite of the publishers has been tickled and<lb/> the issue of 14<hi rend="superscript">th</hi> inst will show you how far it<lb/> has been possible to go. I do not know how <lb/> many of the General Council are at liberty. But<lb/> it must be the greatest comfort possible if a <lb/> meeting were called at which my campaign in<lb/><hi rend="underline">The Irishman</hi> to revive Sinn Fein might be <lb/> formally approved of. To deal with the necessary<lb/> business which the campaign will produce,<lb/> I hope that there will be a competent secretary  and TREASURER  at <lb/> 6 Harcourt Street. I think that a meeting might soon<lb/> be held in the <seg type="unclear">Foresters'</seg> Hall, &amp; afterwards one in Phoenix <lb/> Park. We shall sweep all before us; &amp; the Nation<lb/> League will expire in the arms of the Irish Parliament<lb/> Party. I shall be anxious to hear from you. <seg type="closer"> Yours sincerely,  Herbert M Pim </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6678">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter  from David Wilson to WB Yeats, 4 April 1917</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>David Wilson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Harry Ransom Center, The University of Texas at Austin</repository>
+                  <collection>William Butler Yeats Collection; II. Correspondence, 1891-1938, Outgoing. Box 8. Folder: Unidentified - Z (8.3)</collection>
+                  <idno>https://letters1916.ie/item/6678</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0336">David Wilson</persName>
+              <date>1917-04-04</date>
+              <placeName key="#letters1916_place-1286">66 Kenilworth Road, St. Leonards-on-Sea, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1561">W.B. Yeats</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6678_img_None_1"  url="phpFBHZg4.jpeg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6678_img_0_1"/>
+              66 Kenilworth Rd<lb/>St.Leonards-on-Sea    4.4.17    Dear Mr Yeats :   Enclosed I send an inscription<lb/>which contains something like the Key numbers 11. As the<lb/>whole of it may be a language Dr Ross perhaps would<lb/>like to see it. The original was written on silver and<lb/>copied on to glass. I am anxious to know if this<lb/>is a language &amp; if so what - for I used a special<lb/>method of trying to create an artificial <seg type="unclear">rapport</seg><lb/>I have not had much success with the photos lately.<lb/>I should also like to <seg type="unclear">hear</seg> if those other inscriptions<lb/>I sent Dr Ross made any sense?  I am sending this to you as you wrote about the<lb/>number 11.   Sincerely yours<lb/><hi rend="underline">David Wilson</hi>     
+         </ab>
+      </body>
+   </text>
+</TEI>

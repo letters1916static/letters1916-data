@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0703">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Denis Hurley to his brother John Hurley, 17 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Denis Hurley</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>In this letter Denis Hurley writes to his brother, John (b. 1844) who is at home in Cork. He thanks him for the bunch of shamrock and mentions that John&#39;s letter had the honour of &#39;being opened by the censor&#39;. He mentions his hopes that the war will be over soon and refers to some trouble beginning with Mexico. Additionally, Denis is curious whether any Clonakilty men have distinguished themselves in the war.Denis Hurley (1849 - 1926) was from a farming family in Tawnies, near Clonakilty, County Cork. After emigrating to Carson City, Nevada in 1873 Denis went on to become one of Carson City&#39;s most prominent citizens.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Cork City and County Archives</repository>
+                  <collection>Hurley Papers U170/71, Hurley Papers U170/71</collection>
+                  <idno>https://letters1916.ie/item/703</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1435">Denis Hurley</persName>
+              <date>1916-03-17</date>
+              <placeName key="#letters1916_place-0176">Carson City, Nevada, United States</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John Hurley</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1444">Tawnies, Clonakilty, County Cork, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0703_img_2195_1"  type="Letter"  url="9dca402c2569a46615b2727c84bfec6f.jpg"/>
+      <graphic xml:id="L1916_0703_img_2195_2"  type="Letter"  url="70200bd63651b0459319e4edf92536d3.jpg"/>
+      <graphic xml:id="L1916_0703_img_2195_3"  type="Letter"  url="4fe4b6a5fab2c913960d5f199e40d28d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0703_img_2195_1"/>
+                Carson city,    March 17 â16   Mr. John Hurley<lb/> Tannies<lb/> Dear John â   Your welcome<lb/> letter received on the 10<hi rend="superscript">th</hi> inst<lb/>. Thanks for the bunch of shamrocks.<lb/> I am sorry that you suffered<lb/> the loss of your horse, but there<lb/> are losses of one kind or another<lb/> as we go through life.  My health is pretty good, thank <lb/>God. Michael I have not from<lb/> in a couple of months. I was<lb/> with him for a couple of weeks<lb/> last October.  Your letter was honored by be <lb/>ing opened by the censor. I hope<lb/> this awful war will come to an <lb/>early close. It looks like some<lb/> trouble with Mexico just now  
+            <pb n="2" facs="L1916_0703_img_2195_2"/>
+              We are having delightful weather<lb/> here now â the month of January<lb/> was very severe. Has any Clona<lb/>kilty man distinguished himself<lb/> in this war.  I hope you are all well. <seg type="closer"> I remain your Brother  Denis </seg> 
+            <pb n="3" facs="L1916_0703_img_2195_3"/>
+               Mr. John Hurley<lb/>  Tannies, Clonakilty,  Co Cork  Ireland    
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4247">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Wilfrid Spender to Lillian Spender, circa November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Sir Wilfrid Spender (1876 - 1960) to his wife, Lillian (1880-1968). Spender was a member of the British Army until 1913 when controversy surrounding his signature of the Ulster Solemn League and Covenant resulted in his resignation. Spender was called up for military service in 1914 and from 1915 served in the 36th (Ulster) Division. Throughout the war, Spender wrote a collection of letters to his wife Lady Lillian Spender. The letters date mainly from 1915 to 1918, when Sir Wilfrid was serving in France. The letters concern politics, the Irish question, personal life, and Wilfrid&#39;s experience of the Great War.&#34;</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Letters from Sir Wilfrid Spender to Lady Spender, D1633/1/1/84</collection>
+                  <idno>https://letters1916.ie/item/4247</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0667">Wilfrid Spender</persName>
+              <date>1915-11</date>
+              <placeName key="#letters1916_place-1724">Métropole Hotel, Boulogne-sur Mer, France </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lillian Spender</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1960</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4247_img_3614_1"  type="Letter"  url="2aff71a60a90c466976d732577c268c5.jpg"/>
+      <graphic xml:id="L1916_4247_img_3614_2"  type="Letter"  url="8c9ffb59532ac0a84ee53d534a4c96c7.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4247_img_3614_1"/>
+            <!-- printed letterhead, hotel stationary -->  MĒTROPOLE HÔTEL <lb/>Boulogne-sur-Mer   Le 191    PAUL CHIRAUX, Propriétaire <lb/> CHAUFFAGE MODERNE <lb/>ÉCLAIRAGE ÉLECTRIQUE <lb/>SALLE DE BAINS <lb/>Téléphone 2.90   Begin a letter here tho' with much doubt as to <lb/>whether it will reach you.   We had an excellent passage but were disappointed to find <lb/> that there has been a sudden change of plans so instead of <lb/><seg type="del">coming</seg>going out on Motor busses as arranged we are to take <lb/> a train at midnight after waiting 12 hours &amp; to go to Amiens <lb/> &amp; then change &amp; go to another place &amp; again change &amp; arrive <lb/> at our destination at 10 tomorrow perhaps.   I hear that owing either to a German attack or to ours we <lb/> cannot go to the original place intended.   Owing to this long journey round I do not expect we <lb/> shall get back before the 10pm boat Friday &amp; consequently shall <lb/> not come on. If we catch the 4.30 pm <seg type="del">po</seg>boat I hope the <lb/> General will motor straight down    An airship accompanied us all the way in crossing <lb/> &amp; about half the channel appeared to be <seg type="unclear">netted</seg>. I could not gather <lb/>on what principle.   Arrived at destination about 4pm on extreme <lb/> R of British Line — rather an unnecessary long way <lb/> to send us perhaps but fairly interesting. 
+            <pb n="2" facs="L1916_4247_img_3614_2"/>
+            I came with General in motor    I do not think there is any chance of being <lb/> back Friday night owing to various mistakes but hope <lb/> to be back Saturday.   I will not add more except "10pm" is <lb/> not forgotten nor a little PR    Wilfrid BS. 
+         </ab>
+      </body>
+   </text>
+</TEI>

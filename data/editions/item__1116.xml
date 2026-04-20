@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1116">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from David Lloyd George to John Redmond, 29 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>David Lloyd George</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from David Lloyd George to John Redmond regarding the condition of the two Irish divisions in France. David Lloyd George (1863-1945) served as Minister of Munitions during the Shell Crisis of 1915. His role as Minister won him wide-spread support across Britain. He took over the role of Secretary of State for War on 6 June 1916, after the death of Horatio Herbert Kitchener, (1850â€“1916) who died on board the cruiser HMS Hampshire when it was sunk by a German mine on 5 June 1916, while on course to Russia. Following the collapse of Asquith&#39;s government, Lloyd George became Prime Minister of the coalition government in December 1916.John Redmond (1856-1918) was an MP and leader of the Irish Parliamentary Party. He was instrumental in securing the promise of Home Rule from Asquith&#39;s liberal government. Upon the outbreak of war, Redmond addressed a group of Irish Volunteers at Woodenbridge, Co. Wicklow, encouraging them to fight with the British Army to ensure the implementation of Home Rule. Redmond&#39;s words split the Irish Volunteers across the country. The Easter Rising shocked Redmond, who condemned it bitterly. Nonetheless he appealed for leniency towards those who had not been involved in planning the Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>John Redmond Papers, MS 15/189/25</collection>
+                  <idno>https://letters1916.ie/item/1116</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0876">David Lloyd George</persName>
+              <date>1916-09-29</date>
+              <placeName key="#letters1916_place-0372">War Office, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1486">John Redmond</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Politics</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1116_img_3485_1"  type="Letter"  url="e40fb368e28ac216ea81725d90363641.jpg"/>
+      <graphic xml:id="L1916_1116_img_3485_2"  type="Letter"  url="003ba7828538a59b3b382ebf8c1286a9.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1116_img_3485_1"/>
+                War Office    29th September, 1916   My Dear Redmond   The state of the two Irish Divisions in France -â <lb/>the 16th and 36th -â has been giving a good deal of anxiety <lb/>lately. The 16th Division in particular is now little <lb/>stronger than one Brigade, and the Ulster Division is hardly <lb/>up to two-thirds of its war establishment.   There are, as no doubt you will appreciate, many <lb/>objections to filling the Irish Divisions with Englishmen, <lb/>and at the present moment our recruiting reservoir is by no <lb/>means in a satisfactory state, so that a demand to keep <lb/>these two Divisions up to full strength will add further to <lb/>our difficulties. When they were raised, it was understood <lb/>that Irishmen would be able to keep them up to strength with <lb/>the necessary reserves, but, as you know, this has proved <lb/>fallacious. Under the circumstances, and until such time <lb/>as it may be possible to obtain the requisite amount of <lb/>recruits from Ireland, I propose to amalgamate the two <lb/>Divisions into one. With their present numbers there would <lb/>be <lb/>John Redmond, Esq., M.P.  
+            <pb n="2" facs="L1916_1116_img_3485_2"/>
+              be, approximately, two Brigades of the Ulster Division <lb/>and one Brigade of the 16th Division. It would be <lb/>necessary to amalgamate Battalions in each Division in <lb/>order to make up the Brigades as far as possible keeping, <lb/>of course, the Ulster and South of Ireland Brigades distinct.   Before any steps are taken in this direction, I <lb/>should be much obliged if you would kindly let me have your <lb/>ideas on the subject.  <seg type="closer"> Ever sincerely  <hi rend="underline">D Lloyd George</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0843">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Major C. Harold Heathcote to Dr Kathleen Lynn, 13 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>C. Harold Heathcote</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter to Dr Kathleen Lynn (1874-1955) from Major C. Harold Heathcote. Heathcote was officer in charge of prisoners&#39; effects in Richmond Barracks, where most of those arrested after the Rising were initially held. The letter is in reference to Lynn&#39;s attempts to secure the return of items taken from her after her arrest following the Rising.Dr Kathleen Lynn was a medical practitioner, a suffragist, a nationalist, and a revolutionary. Lynn was Chief Medical Officer of the Irish Citizen Army during Easter 1916 and was a part of the City Hall garrison, of which she took command of the garrison after the death of Seán Connolly on the first day of the Rising. After independence, Lynn dedicated much time and energy towards the improvement of public health, and played a significant role in the eradication of tuberculosis in Ireland.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, IE/AL/KL/1/29</collection>
+                  <idno>https://letters1916.ie/item/843</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0440">C. Harold Heathcote</persName>
+              <date>1916-10-13</date>
+              <placeName key="#letters1916_place-0228">Parkgate, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1086">Kathleen Lynn</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0992">9 Belgrave Road, Rathmines, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0843_img_2399_1"  type="Letter"  url="b3d5b009dba9edf03667dccc7ffcbb22.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0843_img_2399_1"/>
+              <hi rend="underline">Prisoners' Effects.</hi><lb/><hi rend="underline">Kathleen Lynn,</hi><lb/>Claim No. <hi rend="underline">611</hi> <lb/>    Kathleen Lynn,  9 Belgrave Road,  Rathmines.   Madam,   I have received your letter of 11/10/16 and have<lb/> noted its contents.  The matter of the recovery of your property has been<lb/> engaging my attention since I last wrote you.  If you could find an opportunity for doing so I <lb/> shall be very much obliged if you would call upon me<lb/> in my Office here to discuss this matter again with me. <lb/> I feel sure that you will readily understand that as it <lb/> was not until the 4th of July that you wrote to me<lb/> intimating that you had lost property in Liberty Hall and<lb/> not until August 19, when you called upon me in Richmond <lb/> Barracks that you made any claim for your Motor Car,<lb/> bicycle, etc., it has been very difficult for me after the<lb/> lapse of so many weeks to trace the disposition of your<lb/> property. <seg type="closer">C. Harold Heathcote.<lb/> Major.<lb/> O. i/c Prisoners' Effects.<lb/>  Room 32 Hospital,  Headquarters,  Irish Command,  Parkgate, DUBLIN.    12/10/16 . </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

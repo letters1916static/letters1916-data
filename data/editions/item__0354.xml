@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0354">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the the Acetylene Corporation to the Secretary, Irish Office, 18 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>The Acetylene Corporation</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from the Acetylene Corporation Ltd. to the secretary at the Irish Office in London. In the letter the Corporation offer their services to remove girders and other debris caused by the Easter Rising via the use of an oxy-acetylene blow pipe.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered papers, CSO RP/1916/8653/1</collection>
+                  <idno>https://letters1916.ie/item/354</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0944">The Acetylene Corporation</persName>
+              <date>1916-05-18</date>
+              <placeName key="#letters1916_place-1637">36-38 Old Queen Street, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0354_img_1591_1"  type="Letter"  url="2bae091f5e624653b8cbaf9d53e612b8.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0354_img_1591_1"/>
+              <hi rend="underline">ON ADMIRALTY &amp; WAR OFFICE LISTS</hi> TELEGRAMS CONTRACTORS TO H.M. GOVERNMENT, THE PRINCIPAL RAILWAY COMPANIES, TELEPHONE: 'FLAMMA,VIC,LONDON,' BOROUGH AND COUNTY COUNCILS, CROWN AGENTS FOR THE COLONIES &amp;c,&amp;c. VICTORIA 4830. &amp;#x2014; THE ACETYLENE CORPORATION OF GREAT BRITAIN, LTD., (WITH WHICH IS ASSOCIATED THE BRITISH AIR GAS COMPANY, LIMITED)    Branches:  Works:; 166, BUCHANAN ST, 19, ESHER STREET, GLASGOW, WESTMINSTER. 19, CROW ST, Carbide Depots: DUBLIN.    AT EVERY IMPORTANT PORT  49, Victoria Street, Westminster.  IN THE UNITED KINGDOM Ref:- M    18th May 1916    The Secretary,  Irish Office,  36 - 38, Old Queen Street, S.W.   Dear Sir,   In connection with the ruined buildings in Dublin<lb/> we should like to bring to your notice that we have a branch at<lb/> 19, Crow Street, Dublin and are in a position to cut away any<lb/> girders and other debris expeditiously by the oxy-acetylene blow<lb/> pipe.  We have several skilled men in Dublin and the<lb/> necessary plant and we could therefore give immediate attention<lb/> to any work of this description which may require to be done.  Will you be so kind as to bring this matter to the<lb/> notice of the responsible authorities as we are not sure to whom<lb/> we should apply in Dublin. <seg type="closer"> Yours faithfully,  THE ACETYLENE CORPORATION LTD. </seg> ack &amp; request that <lb/> application might be made<lb/> to the Corporation of Dublin  
+         </ab>
+      </body>
+   </text>
+</TEI>

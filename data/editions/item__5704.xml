@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5704">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from May Fay to James Finn, 29 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>May Fay</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is from a series of letters written between James Finn and his fiancée Mary (May) Fay. They became engaged in January 1916 and married in June. He lived in Dublin, she in Westmeath; he was 20 years older than her at 39 and had become acquainted with her during his regular visits to his relative Mrs Mary Seery, her neighbour. Throughout the series their relationship develops from the first somewhat tentative letters.
+They were not to be married long: in 1919 he fell ill with the great flu epidemic, it led to heart damage and he died in 1922 as she was expecting their fourth child. She held on to his letters as her reminder of him.
+Despite many offers and her difficult finances she never married again. She took in lodgers and trained (and practised) as a midwife, chiropodist, and public health nurse while raising her children. She proved to be an excellent entrepreneur, charmed bank managers into giving her loans (against the norm of the time) and bought properties one after another, many of which were broken up into flats.
+James Finn was a civil servant, working in the National Health Service Commission on Mount Street. Family history says that he was advising on the restructuring of the civil service as part of setting up the new government in 1922 and that eminent figures in that project were visiting him in his sick bed so that they could consult with him.
+Neither May nor James were politically active, although like many in the Civil Service, James learned Irish and as can be read in the letters after Easter, he knew many who more caught up in the Easter Rising. One can sense their shifting sympathies in the letters.
+James has returned from a short holiday in Westmeath, May misses him.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Finn Family Collection</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/5704</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0367">May Fay</persName>
+              <date>1916-03-29</date>
+              <placeName key="#letters1916_place-1114">Togherstown, Ballinea, Westmeath, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0500">James Finn</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2073">Rathmines, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="death">1976</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5704_img_807_1"  type="Letter"  url="90a239458a4845a6c372534c9b7d1c58.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5704_img_807_1"/>
+             Togherstown<lb/>Ballinea<lb/>Mullingar   29<hi rend="superscript"><hi rend="underline">th</hi></hi> March 1916    My dearest James,   <lb/>How did you get back last night? I hope<lb/>I will have a letter in the morning saying how you got on.<lb/>Were you lonely etc. I was not so lonely as I was the last—<lb/>time you left but I miss you very much today. I feel<lb/>inclined to be expecting you every minute but <sic>your</sic> not<lb/>coming. It would scarcely do for you to step out &amp; say<lb/>“you were going to see May”  Mrs Seery saw Father Moran in the<lb/>train as it shunted back last night that is why we<lb/>waited thinking the train might stop &amp; we could tell you<lb/>I am sure you would have liked the company as well as<lb/>the chat with your cousin.  I am going up to the stations now &amp; will post<lb/>this to you I have not a word of news so I hope you will excuse<lb/>this short letter. How did you find your Mother &amp; Nora? I hope<lb/>they did not think you looking the worse of your visit. I hope<lb/>your Mother is good heart with the thought of becoming so soon<lb/>a mother-in-law.  Good bye now dearest James fondest best<lb/>&amp; warmest love from your loving   <lb/> <hi rend="underline">May</hi> <lb/>   
+         </ab>
+      </body>
+   </text>
+</TEI>

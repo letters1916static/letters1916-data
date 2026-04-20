@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2071">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Two letters from Lord Cavan to John Redmond, 25 January & 8 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Frederick Rudolph Lambart</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Two short letters from Frederick Rudolph Lambart, 10th Earl of Cavan (1865-1946). Lord Cavan joined the Grenadier Guards and fought in the Boer War, retired from the army in 1913, only to be recalled at the start of the Great War. He was elected a representative peer for Ireland in 1915 (one of the last to be elected), and was appointed head of the XIV Corps of British Expeditionary Force in January 1916.
+The letters are written to John Redmond (1856-1918) MP and leader of the Irish Parliamentary Party at Westminster from 1900-1918 and refers to his unit and thanks Redmond for his support.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/2071</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0744">Frederick Rudolph Lambart</persName>
+              <date>1916-01-25</date>
+              <placeName key="#letters1916_place-1109">Halsey Street, Cadogan Gardens, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1486">John Redmond</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1946</item>
+               <item n="tag">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2071_img_1521_1"  type="NULL"  url="ea4f1cdb1159c12ac0e58f82e9d6c019.jpg"/>
+      <graphic xml:id="L1916_2071_img_1521_2"  type="NULL"  url="12491cd5412f70cd40dfe7ec74f16b99.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2071_img_1521_1"/>
+             Lord CAVAN to R   Feb 8 '16   HQ 14th Corps BEF   The Guards will be a part of my Corps directly I need not sa <lb/>how d<sic>el igh ted</sic> I am ..... I am sure the demand for reinforce <lb/>ments is bound to be very great by the autumn <sic>ad</sic> if we CAN reinf <lb/>force when Germany CANT we <sic>shal</sic> have made a big step forward   v truly <sic>yrs Cavan</sic>   Jan 25 '16   Dear Mr Redmond   Thank you for your little book and the <lb/>kind things said about the Guards and myself I now command the 14th Corps and this<sic>icludes</sic> the Ulster <sic>divn</sic> <sic>Tey</sic> have not  b een <lb/>tried yet in action but they are full of zeal and energy and their <lb/>disci p line seems good It is unutterably sad to me that it <sic>shd</sic> have <sic>bn</sic> necessary to excl u de Ireland from its <sic>sha e</sic> of our common <lb/>burden and I feel sure that although we probably differ very <lb/>cannotbe wrong to aim at it Nobody really <sic>wd</sic> ENJOY this <lb/>fighting more than the men of the South and South West if they <sic>wd</sic> but try it   <sic>Yrs</sic> v truly Cavan 
+            <pb n="2" facs="L1916_2071_img_1521_2"/>
+             47, Halsey Street, <lb/>Cadogan Gardens, S.W.S. 
+         </ab>
+      </body>
+   </text>
+</TEI>

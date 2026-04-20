@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0272">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from H.S. Hunter to Sir Matthew Nathan, 26 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>H.S. Hunter</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from H.S. Hunter to Sir Matthew Nathan (1862-1939), the under-secretary for Ireland. Hunter forwards a copy of a letter from the Prisoners&#39; Aid Society, Knockaloe. The letter concerns an internee, Alfred Tonnishoff, who is searching for his leaving certificate from the public school in Hagen, Germany. The certificate was seized when Tonnishoff was arrested on 16 August, 1914, 12 days after Great Britain declared war on Germany. Sir Matthew Nathan was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI, CSORP/1916/8118/3</collection>
+                  <idno>https://letters1916.ie/item/272</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1189">H.S. Hunter</persName>
+              <date>1916-04-26</date>
+              <placeName key="#letters1916_place-1296">49 Wellington Street, London, England.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0268">Dublin Castle, Dublin, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0272_img_1469_1"  type="Letter"  url="943357ab3e68d6d1e97f023a0f45ea46.jpg"/>
+      <graphic xml:id="L1916_0272_img_1469_2"  type="Enclosure"  url="dc27df38b2000f00529507c458d36151.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0272_img_1469_1"/>
+                49 WELLINGTON STREET,  LONDON, W.C.    26th April, 1916.   Sir,   I am instructed by the Director of the <lb/>Prisoners of War Information Bureau to forward herewith, <lb/> to be laid before the Lord Lieutenant, the enclosed <lb/> copy of a letter from Prisoners' Aid Society at the <lb/> Prisoners of War Camp, Knockaloe, which was forwarded <lb/> to this Bureau by the American Vice Consul, and to <lb/> enquire what reply may be made to the prisoner of war <lb/> Alfred TONNISHOFF. <seg type="closer"> I am, Sir, <lb/>Your obedient Servant,  H.S.Hunter.   The Under Secretary, <lb/>Dublin Castle, <lb/>Dublin, <lb/>IRELAND. J.G. <lb/>For inquiry <lb/>and report <lb/>EOF   4/5/16  </seg> To Comm Be of not <lb/>for report <lb/>WM Connell  
+            <pb n="2" facs="L1916_0272_img_1469_2"/>
+                KNOCKALOE (CAMP 10) PRISONERS' AID SOCIETY  Camp 1  Knockaloe,  Isle of Man    April 6th, 1916.    American Consular Service,  45, Broad Street,  London, E.C.    The here intended p/w No. 14977, <lb/>T o e n n i s s h o f f, applied to us and stated;-  When I was arrested on August 16th, 1914, at <lb/><hi rend="underline">BELFAST</hi>, Ireland by Colonel Hill-Trever and two dectectives, <lb/>I was brought to the police station where <lb/>all my personal papers were taken from me. Two days <lb/>later I was transferred to the detention barracks at <lb/>Dublin where all my papers were returned to me but <lb/>one:- the leaving certificate of the public school <lb/>at H a g e n (Westfalen) (Zeugnis der Reife, Oberrealschule H a g e n, Westfalen). Please try <lb/>to recover this certificate which is most valuable to me.  In connection with the above statement, we <lb/>should be thankful to you if you would kindly take the <lb/>necessary steps to recover the certificate for the man. <seg type="closer"> Thanking you in anticipation, we are, <lb/>yours obediently <lb/>Approved for dispatch:- <lb/>(Signed)  H. Graham Taylor, <lb/>Major. <lb/>Assistant Commandant, <lb/>for Commandant. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

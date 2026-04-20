@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0555">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Philip C. MacDermot to Henry Arthur Wynne, 27 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Philip C. MacDermot</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Philip MacDermot (b. 1863), the crown solicitor for Roscommon to Sir Henry Arthur Wynne (1867 – 1945). This letter concerns MacDermot’s employment of a typewriter in order to complete the number of warrants to be issued under the “Crimes Act”. MacDermot is looking to be reimbursed for the salary he was required to pay this typewriter which ,as he outlines, was essential in order to complete his work.Henry Arthur Wynne (1867-1945) was the chief crown solicitor for Ireland following the death of Malchy Kelly (1950-1916).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>, NAI-CSO-RP-1916-5620-13077-2</collection>
+                  <idno>https://letters1916.ie/item/555</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1081">Philip C. MacDermot</persName>
+              <date>1916-07-27</date>
+              <placeName key="#letters1916_place-0885">Boyle, County Roscommon, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0815">Henry Arthur Wynne</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0555_img_1940_1"  type="Letter"  url="9aa9da8ac678d015718403c7dda19a27.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0555_img_1940_1"/>
+                Office of Crown Solicitor for Co. Roscommon,  Boyle,    27th July, 1916.   Dear Sir,   With reference to the cases under the 'Crimes Act' <lb/> about which I had an interview with you on Tuesday, I found <lb/> it absolutely necessary yesterday at Roscommon to employ a <lb/> typewriter to type the warrants which, you are aware, are <lb/> very long as you advised me to set out the full charge as <lb/> drafted by you in the Summonses, and so as to get the matter <lb/> completed yesterday (and this was not done until eight <lb/> o'clock p.m.) I had, with the District Inspector, to find <lb/> a Typewriter and agree to pay him 11/6. so will you kindly <lb/> let me know if you can arrange for me to get a refund of <lb/>this? As you were aware the matter was urgent, and if all <lb/> these warrants had to be written out, or if I was not able <lb/>to get assistance at Roscommon yesterday, they could not <lb/>have been completed in time, as it was, the Resident <lb/>Magistrate had to wait until eight o'clock. The Police <lb/>witnesses, who had to make the informations, were unable to <lb/>arrive at Roscommon until the one o'clock train.  <seg type="closer"> Yours truly,  Philip C.J McDermot. <lb/>  The Chief Crown Solicitor,  Dublin Castle,  </seg> Attorney General/ <lb/> In the circumstances I think it would be reasonable and <lb/>fair to allow Mr. MacDermot the 11/6 paid typewriter. <lb/> H.A.W. , <lb/> 29.7.1916   Let the sum asked for be paid. <lb/> J.H.C. , <lb/> 1.8.'16   Mr Taylor/ <lb/> H.A.WYNNE, <lb/> 2.7.'16   
+         </ab>
+      </body>
+   </text>
+</TEI>

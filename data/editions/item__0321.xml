@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0321">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from George Hugh Chetwood Townsend to Lady Clonbrock, 1 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>George Hugh Chetwood Townsend</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from George Hugh Chetwood Townsend (b. 1872) to Lady Clonbrock (1840-1928). The letter was addressed to John James Thompson (1872-1924), the registrar at the Royal Hospital for Incurables. George Townsend was writing on behalf of the Tipperary Wounded Soldiers&#39; Fund. The letter thanks Clonbrock for her donation to the fund and for allowing her name to be used in connection with the association.Augusta Caroline Dillon (née Crofton) was the wife of Luke Gerald Dillon (1834-1917), the 4th Baron of Clonbrock, Co. Galway and the daughter of Lord Crofton of Mote Park (Edward Henry Churchill Crofton, 3rd Baron), Co. Roscommon. Aged 75 at the outbreak of war, Lady Clonbrock, worked closely with the Irish Women&#39;s Association to send basic necessities to Irish POWs. Many of her care packages went to members of the Connaught Rangers imprisoned in Limburg near Cologne.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No. 54, Ms. 35,796/12/2</collection>
+                  <idno>https://letters1916.ie/item/321</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1124">George Hugh Chetwood Townsend</persName>
+              <date>1916-04-01</date>
+              <placeName key="#letters1916_place-0046">Cordangan Manor, Tipperary, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0483">Augusta Caroline Dillon</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0696">Clonbrock, Ahascragh, County Galway, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0321_img_1545_1"  type="Letter"  url="ef9c26836bcee06e9ce96feddd766521.jpg"/>
+      <graphic xml:id="L1916_0321_img_1545_2"  type="Letter"  url="5a9aa119f421eba2a6ebb7e7802c4fb4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0321_img_1545_1"/>
+                Cordangan Manor'  Tipperary.    1st April 1916.   My Lady,   It is very good of you to send a donation to our <lb/>Wounded Soldiers' Fund; and also to allow your name to be <lb/> used in connection with the Association that has been formed <lb/> to further help the cause of these men. I feel that you also <lb/>have to be thanked for the donation sent by the Committee of the <lb/> Connaught Rangers War Fund, which has just been received from <lb/> your Treasurer. I hope to be able to further write to you <lb/>before long about this work. <seg type="closer"> Yours faithfully,  George C. Townsend   The Lady Clonbrock,  Clonbrock,  Ahaskeragh,  Ireland.  </seg> 
+            <pb n="2" facs="L1916_0321_img_1545_2"/>
+               1916 <lb/> April 3 <lb/>Mr Townsend <lb/> Tipperary Wounded <lb/>Soldiers  
+         </ab>
+      </body>
+   </text>
+</TEI>

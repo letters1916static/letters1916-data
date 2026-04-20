@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3881">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Father Willie Doyle S.J. to Fr Provincial Thomas V. Nolan, 31 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Willie Doyle</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Irish Jesuit Chaplain, Fr Willie Doyle SJ (1873-1917) to Father Provincial Thomas V. Nolan SJ (1867-1941) informing Nolan where he might find the crucifix he s searching for. Doyle writes that he is keeping well apart from a cold which is hard to avoid due to the constant rain.
+
+Fr Willie Doyle served as a military chaplain with the 8th Battalion of the Royal Irish Fusiliers, 16th Irish Division. In April 1916 he was recommended for the Military Cross (MC) for helping to dig wounded men out of a collapsed shelter under fire. He moved to the 8th Battalion, Royal Dublin Fusiliers around Christmas, 1916. He was killed during the third battle of Ypres while going to the aid of a wounded man near Frezenberg and his body was never recovered. His name is commemorated on the Tyne Cot memorial, Zonnebeke, Belgium.
+
+Fr. Thomas V Nolan was the Provincial of the Irish Province of the Society of Jesus (1912-1922) and was a member of the Distribution Committee which looked after the welfare and distribution of the the Belgian refugees who arrived in Ireland as a consequence of the First World War. During the Easter Rising Nolan was based at St Francis Xavier’s, Upper Gardiner Street and, alongside Rector Fr John Fahy SJ, risked his life in aiding the wounded and supplying local areas with food and milk.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IE-IJA-J2-83-13</collection>
+                  <idno>https://letters1916.ie/item/3881</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1272">Willie Doyle</persName>
+              <date>1915-12-31</date>
+              <placeName key="#letters1916_place-0728">Witley Camp, Surrey, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas V. Nolan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0036">Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1917</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">Faith</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3881_img_3260_1"  type="Letter"  url="144aefcb0ac0230a724ad4a90ba18da6.jpg"/>
+      <graphic xml:id="L1916_3881_img_3260_2"  type="Letter"  url="5112b14066bf4bc1a9e5d68b53ee0d5e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3881_img_3260_1"/>
+             CHPI/14 (13)<lb/> I met your<lb/>brother Richard<lb/>over here a<lb/>few Days ago. <lb/> Witley Camp <lb/> 31/12/'15.    Dear Fr. Provinicial<lb/>P.C.   Your letter<lb/>has only reached me<lb/>now as we have been<lb/>here since I wrote but<lb/>leave for Borden Camp,<lb/><seg type="unclear">Harts</seg> tomorrow.  I have some recollection<lb/>of having a small<lb/>crucifix in one 
+            <pb n="2" facs="L1916_3881_img_3260_2"/>
+             of the drawers of<lb/>the room. I occupied<lb/>in Gardiner St. during<lb/>the retreat, perhaps it<lb/>is the one you want.  I feel very well, thank<lb/>God, with the exception<lb/>of a cold, more over;<lb/>it is hard to escape as<lb/>we have had almost<lb/>constant rain since we<lb/>came here. No news<lb/>yet of our final<lb/><seg type="unclear">move</seg>.  With every good wish for<lb/>the New Year<lb/>Yours obediently in <seg type="unclear">Xth</seg><lb/>Fr. Doyle, <seg type="unclear">C. F.</seg>. 
+         </ab>
+      </body>
+   </text>
+</TEI>

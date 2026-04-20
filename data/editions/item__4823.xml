@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4823">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Craig to Winston Churchill, 28 June 1922</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Craig</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Talk on the disarmament of police in the neutral zone and  the neutral zone </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Correspondence and papers re Field Marshall Sir Henry Wilson, PRONI/CAB-6-89-36</collection>
+                  <idno>https://letters1916.ie/item/4823</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1198">James Craig</persName>
+              <date>1922-06-28</date>
+              <placeName key="#letters1916_place-1933">Stormont Castle, Belfast, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Winston Churchill </persName>
+              <date></date>
+              <placeName key="#letters1916_place-0384">Colonial Office, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1940</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4823_img_None_1"  url="47fbdad6e701e02849b6a6072d659f7c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4823_img_0_1"/>
+             CAR6/89/36   STORMONT CASTLE, BELFAST.    28. June, 1922.    My Dear Ch<hi rend="underline">urchilll</hi> <hi rend="underline"></hi>  I have carefully considered the proposal in  your telegram that all official arms should be withdrawn  from the neutral zone, Pettigo - Belleek, etc. and that  the Police in the area should be disarmed.  After consultation with our Constabulary  Authorities I find that there is a very strong feeling  against placing our Constabulary in a position in which  they are unable to protect themselves from attack,  especially near the Border Line. Our Constabulary  Authorities think that such action on our part might  have a very dilaterious effect on the morale of the whole  Force.  As an alternative suggestion, therefore, I  propose that all Constabulary should be withdrawn from the  zone on both sides, and that the Military occupying the  zone undertake the protection of the Constabulary Barracks  in the area and hand over persons charged with criminal offencess  to the nearest Constabulary post outside the neutral  zone within the jurisdiction of the Government of the  country in which the offence was committed. In order still  further to meet your views I would even acquiesce in the  Military performing this duty on our side of the Border  and unarmed Constabuary of the Free State being allowed to  function on the further side.   Yours sincerely,    The Ht. Hon. W. S. Churchill, M.P.,     Secretary of State,     Colonel Office,     LONDON. S.W.I.   H.    
+         </ab>
+      </body>
+   </text>
+</TEI>

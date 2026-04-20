@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1429">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from George Bernard Shaw to Mabel FitzGerald, 25 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>George Bernard Shaw</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from George Bernard Shaw, playwright, to Mabel Fitzgerald (1884-1957). Shaw writes to Mabel regarding the detention (and possibly the severity of the sentence) of her husband, Desmond FitzGerald (1888-1947). He speculates that there will be an amnesty shortly. He asks what she is living on and comments that &#39;Romantic Patriotism&#39; won&#39;t feed the boys and herself.George Bernard Shaw, journalist, political activist and playwright, was an associate of W.B. Yeats and the Abbey Theatre. Immediately after the Easter 1916 Rising, Shaw defended the actions of the leaders, and subsequently worked to try to save Roger Casement (1864 –1916) from execution, although Shaw shared no sympathy with Irish republican nationalism. Mabel was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers P80/1560/1, FitzGerald Papers P80/1560/1</collection>
+                  <idno>https://letters1916.ie/item/1429</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0018">George Bernard Shaw</persName>
+              <date>1916-05-25</date>
+              <placeName key="#letters1916_place-0554">London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1429_img_849_1"  type="Letter"  url="5603ba19d373c66e64c0f384f1a86973.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1429_img_849_1"/>
+                10 Adelphi Terrace. W.C.    25<hi rend="superscript">th</hi> May 1916   My dear Mabel   I have already done the very little I can. The only consolation is that D. was at <lb/> least luckier than poor SS, and that there will be an amnesty presently.  It looks as if your silly S.F had done the trick after all. As Goethe says, <seg type="foreign">'Blut <lb/> ist ein ganz besondrer saft'</seg> D. will be very uncomfortable for a while; but when it is all over <lb/> he will be jolly glad he was in it.  Meanwhile what are you living on? Romantic patriotism will not diminish the boy's <lb/> appetite, to say nothing of your own. <seg type="closer"> Yours sincerely   G. Bernard Shaw </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

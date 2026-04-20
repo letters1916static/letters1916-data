@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3491">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Dillon to John Redmond, 30 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Dillon</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from John Dillon (1851-1927) to John Redmond (1856-1918). Dillon writes to Redmond about the reaction of the London parliament to the Irish Parliamentary Party after the Easter Rising.
+
+John Redmond was an MP and leader of the Irish Parliamentary Party. He was instrumental in securing the promise of Home Rule from Asquith&#39;s liberal government. Upon the outbreak of war, Redmond addressed a group of Irish Volunteers at Woodenbridge, Co. Wicklow, encouraging them to fight with the British Army to ensure the implementation of Home Rule. Redmond&#39;s words split the Irish Volunteers across the country. The Easter Rising shocked Redmond, who condemned it bitterly. Nonetheless he appealed for leniency towards those who had not been involved in planning the Rising. John Dillon was an Irish Party M.P. in the House of Commons. Dillon issued a speech in the House on 11 May 1916 where he strongly condemned the British handling of the Rising which had been put down “with so much blood and so much savagery”, and called for an immediate end to executions. Dillon would succeed John Redmond as leader of the Home Rule party in 1918. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>MS 15,182/23/7</collection>
+                  <idno>https://letters1916.ie/item/3491</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0477">John Dillon</persName>
+              <date>1916-06-30</date>
+              <placeName key="#letters1916_place-1834">2 North Great George&#39;s Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1486">John Redmond</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1927</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3491_img_2899_1"  type="Letter"  url="fb2ca4d2ea08350dccfbaecc70a3ce8a.jpg"/>
+      <graphic xml:id="L1916_3491_img_2899_2"  type="Letter"  url="5ed83bbd1f37e07de563b8e598c8b092.jpg"/>
+      <graphic xml:id="L1916_3491_img_2899_3"  type="Letter"  url="d163af640ff3ec886eeb461e103dd0ba.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3491_img_2899_1"/>
+             2, North G<hi rend="superscript">t</hi> George's Street, Dublin.   Friday<lb/>30 June 1916 <lb/>10.30.   My Dear Redmond,   Your letter came just<lb/>now — And I sent a<lb/>line advising you <hi rend="underline">not</hi><lb/>to come — And saying that<lb/>I did not propose to<lb/>go to London till Tuesday<lb/>morning 
+            <pb n="2" facs="L1916_3491_img_2899_2"/>
+             I have just been reading <lb/>Landsdowns Speech— <lb/>And <seg type="unclear">Crown</seg> — They are <lb/>a nice crowd to deal <lb/>with.   I understand P.M. <lb/>is not ashamed to <lb/>summon us to London <lb/>after making it possible <lb/>for Landsdown — Speaking <lb/>still as a member of the
+            <pb n="3" facs="L1916_3491_img_2899_3"/>
+             Cabinet — to make the<lb/>speech he delivered to the<lb/>House last night.  You know that ever<lb/>since the P.M. —<lb/>shoveled us into<lb/><seg type="unclear">L.S.</seg> — And cut off<lb/>all <hi rend="underline">direct</hi> communication<lb/>with us — I have<lb/>all along suspected<lb/>treachery — But I<lb/>certainly was not prepared 
+         </ab>
+      </body>
+   </text>
+</TEI>

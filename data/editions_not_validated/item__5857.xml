@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5857">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Delmege Trimble to Lady Clonbrock, 25 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Delmege Trimble</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Delmege Trimble, assistant editor the Royal Irish Fusiliers&#39; gazette and a member of the Royal Irish Fusiliers Comforts Fund to Augusta Caroline Dillon (née Crofton), Lady Clonbrock. Lady Clonbrock was a member of the Irish Women&#39;s Association, set up to provide assistance to Irish regiments and Irish prisoners of war.
+Trimble writes enclosing a list of names of soldiers in the Connaught Rangers in a hospital in Sofia with sizes of boots and clothes to send to them.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No 54; Ms. 35,796</collection>
+                  <idno>https://letters1916.ie/item/5857</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0253">Delmege Trimble</persName>
+              <date>1916-04-25</date>
+              <placeName key="#letters1916_place-0314">Armagh, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Augusta Dillon</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1381">Ahascragh, County Galway, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5857_img_955_1"  type="Letter"  url="c2035abac375eb64b16296bf5b82a08b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5857_img_955_1"/>
+             Royal Irish Fusiliers Comforts Fund <lb/>For Men In the Fighting Lines and Prisoners of War. <lb/>ARMAGH GUARDIAN OFFICE, <lb/>Armagh  <!-- The above is notepaper heading -->  25th April 1916  <lb/>Delmege Trimble <lb/>Assistant Editor <lb/>"Faugh = a = Ballagh." <lb/>Regimental Gazette of the <lb/>Royal Irish Fusiliers. <!-- the above is notepaper heading --> <following is top left of page -->  The Lady Clonbrock, <lb/> Clonbrock, <lb/> Ahascragh   Madam,   I am in receipt of your letter of 20 th inst. and <lb/>herewith enclose you list of Connaught Rangers <lb/> prisoners, ,at 5th Divisional Hospital,  Sophia , with sizes <lb/> for clothes and boots, and note of wants most needed.   The information, which came from an <lb/> Irish Fusilier N.C.O., also says there are 10 more <lb/> men in Sophia.   I make no charge for helping another <lb/> Prisoner's Fund.   Yours faithfully,   Delmege Trimble 
+         </ab>
+      </body>
+   </text>
+</TEI>

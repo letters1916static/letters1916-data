@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0030">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from Dublin sent to Miss Macoun in Portadown, 10 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>T.</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a postcard from an unknown &#39;T.&#39; to Miss Macoun in Portadown, 1916. The postcard shows the ruins of Eden Quay after the Rising. The author writes to Miss Macoun about their account being written up by a Miss C.The message may refer to an article written by Miss Christabel Crowther, published in the Dublin Journal of Medical Science, Vol. CZLII, pp. 55-58, July 1916, &#39;Dublin during the Rebellion. Reprint from the Nursing Mirror and Midwives Journal, May 13, 1916&#39;.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Jane Dougan</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/30</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0089">T.</persName>
+              <date>1916-05-10</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Miss Macoun</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0889">Portadown, Co. Armagh, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0030_img_1061_1"  type="Letter"  url="6c76ce84ebf248728601a4f000f57751.jpg"/>
+      <graphic xml:id="L1916_0030_img_1061_2"  type="Photograph"  url="0b99dc30beb352062179455b7e120ce2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0030_img_1061_1"/>
+                 Miss Macoun,  102, Thomas St.,  <hi rend="underline">Portadown</hi>    10 May 1916    Hope you got my <lb/>card. Get the Nursing <lb/>Mirror for this week. <lb/>Miss C. wrote our <lb/>account to it. <lb/> This card shows <lb/>only little of <lb/>the ruins. <seg type="closer"> Best love from <lb/>  T. </seg>  
+            <pb n="2" facs="L1916_0030_img_1061_2"/>
+               After the insurrection - Ruins of - Ruins of Eden Quay.   
+         </ab>
+      </body>
+   </text>
+</TEI>

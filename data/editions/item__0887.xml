@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0887">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to William Bourke Cockran, 8 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter to William Bourke Cockran (1854-1923) requesting Cockran to give a speech to the Irish Relief Fund Committee during the month.William Bourke Cockran was an Irish born Democrat and member of the US House of Representatives.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>American Irish Historical Society</repository>
+                  <collection>DFC0303a, DFC0303a</collection>
+                  <idno>https://letters1916.ie/item/887</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-06-08</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">William Bourke Cockran</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1362">New York, NY, United States</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0887_img_2456_1"  type="Letter"  url="d4e28d510aff46835a95ec1363d1f913.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0887_img_2456_1"/>
+               June 8,16    Honorable W. Bourke Cockran  New York City, N. Y.   Dear Mr. Cockran:   We have started an Irish Relief Fund<lb/>Committee and at a conference last night with Arch<lb/>bishop Glennon it was agreed by all that it would be<lb/>most desirable to have you speak here for the Cause<lb/>some time during this month. Our people are neither<lb/>so numerous nor so enthusiastic here as in your own<lb/>City or Philadelphia or Chicago and need inspiration<lb/>such as only you can give. A great number would come<lb/>to hear you who would probably not attend to hear any<lb/>other speaker and we believe we could give you a reception<lb/>that would be in every way worthy of the Cause<lb/>and of yourself. I earnestly hope that you can comply<lb/>with our request and that you will send me a line or<lb/>a wire at the earliest possible moment advising me what<lb/>date you will find convenient to be here.  I shall always recall with pleasure<lb/>the hours we were together in Chicago and the almost<lb/>magical way in which the crowds were parted to let us<lb/>get to and from the reviewing stand. With cordial good<lb/>wishes <seg type="closer"> Sincerely yours, <lb/> R-O. </seg>
+         </ab>
+      </body>
+   </text>
+</TEI>

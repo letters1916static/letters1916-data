@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3344">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Joseph Slevin to the Longford Urban District Council, 3 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Joseph Slevin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Joseph Slevin to the Longford Urban District Council in which Slevin submits his Towns Surveyor report.
+Joseph Slevin (b. 1856) was the Town Surveyor for Longford. The Longford Urban District Council was the towns local authority and was renamed the Longford Town Council in 2002.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Longford Museum</repository>
+                  <collection>LUDC-1-3-1916-3-7</collection>
+                  <idno>https://letters1916.ie/item/3344</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0938">Joseph Slevin</persName>
+              <date>1916-07-03</date>
+              <placeName key="#letters1916_place-0610">Longford, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Longford Urban District Council</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0823">Longford Urban District Council, Longford, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3344_img_2756_1"  type="Letter"  url="8064339b3fa03d6e6cc105948d09a697.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3344_img_2756_1"/>
+             Town Surveyor &amp;<seg type="unclear">questionable reading</seg> Officers Report  Mr Chairman &amp; Gentlemen   I beg to report that I have had a house<lb/>in Blue Yard disinfected and some bedding<lb/>etc. burned for which I append a bill.  Mr Martin closed a drain that took the<lb/>overflow from Quarry and then wanted to<lb/>prevent the men working unless a pipe<lb/>drain is made.. I told them not to mind him<lb/>but go on with their work but we shall<lb/>probably hear more about it —  I consider the grate in Mr <seg type="unclear">Friars</seg> house<lb/>St. Niels Road could be reset and new<lb/>concrete hearth put in for about 10/-  Your obdt Servant<lb/>J Slevin   3:7:16  
+         </ab>
+      </body>
+   </text>
+</TEI>

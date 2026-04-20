@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1410">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Note from Eamonn Ceannt to Thomas MacDonagh, 3 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Éamonn Ceannt</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A short note from Eamonn Ceannt (1881-1916) to Thomas MacDonagh (1878-1916), possibly relating to a meeting of the Military Committee of the Irish Republican Brotherhood.Both Ceannt (born Edward Thomas Kent 1881) and Thomas MacDonagh played active roles in the Easter Rising, and were signatories of the Proclamation of Independence. Éamonn Ceannt was one of the leaders of the Easter Rising and a signatory of the Proclamation of the Irish Republic. During the Rising he commanded the garrison in the South Dublin Union. Following the surrender he was tried by court-martial and sentenced to death. He was executed on 8 May 1916. Thomas MacDonagh was a poet, playwright and teacher. MacDonagh was a leading member of the Dublin Brigade of the Irish Volunteers and was one of the principle organisers of the Easter Rising. He was also one of the seven signatories of the Proclamation of the Irish Republic. He was executed by firing-squad on 3 May 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>MS 44,330 /9, MS 44,330 /9</collection>
+                  <idno>https://letters1916.ie/item/1410</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0397">Éamonn Ceannt</persName>
+              <date>1916-04-03</date>
+              <placeName key="#letters1916_place-0892">29 Oakley Road, Ranelagh</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1464">Thomas MacDonagh</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1410_img_81_1"  type="Letter"  url="9a2e391ffc7e3bc6378368c61433aed4.jpg"/>
+      <graphic xml:id="L1916_1410_img_81_2"  type="Envelope"  url="8cf85f4075a416bd7bc3a0d9cb85dedd.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1410_img_81_1"/>
+               To Commt Mac D.   May we book you for <lb/>our meetings Thursday <lb/><hi rend="underline">?</hi> <seg type="closer"> Eamonn Ceannt  3/4/16 </seg> 
+            <pb n="2" facs="L1916_1410_img_81_2"/>
+                AN  <seg type="del">BARR BUADH</seg>   Thos. MacDonagh Esq   29 Oakely Rd,   Ranelagh  <seg type="del">12 SRAIDIN An TEMPAILL,</seg>  <seg type="del">I mBAILE ATHA CLIATH</seg>    
+         </ab>
+      </body>
+   </text>
+</TEI>

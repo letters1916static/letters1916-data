@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3181">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Michael Gregg to Nicholas Lamb, 1 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Michael Gregg</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Michael Gregg to Nicholas Lamb concerning a loan taken out by the Longford Urban Council to erect houses under the Housing of the Working Classes Act. 
+Michael Gregg (b. 1859) was the Principal Clerk in Local Government Board, Dublin. Nicholas Lamb (b. 1861) was the Town Clerk of Longford and served on the Longford Urban District Council. The Longford Urban District Council was the towns local authority and was renamed the Longford Town Council in 2002.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Longford Museum</repository>
+                  <collection>LUDC-1-3-1915-12-7-3</collection>
+                  <idno>https://letters1916.ie/item/3181</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0296">Michael Gregg</persName>
+              <date>1915-12-01</date>
+              <placeName key="#letters1916_place-1554">Local Government Board Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Nicholas Lamb</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0242">The Urban Council, Longford, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3181_img_2605_1"  type="Letter"  url="0e103e21db07955da32221cc983f180a.jpg"/>
+      <graphic xml:id="L1916_3181_img_2605_2"  type="Letter"  url="90fb939d2d08e33ee91b77fec6b64545.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3181_img_2605_1"/>
+             Loan £700<lb/>HW Classes   L.G. Board, Dublin    Dec 1<hi rend="superscript">st</hi> 1915    Sir   With reference to the application of the<lb/>Longord Urban D<hi rend="superscript">t.</hi> Council for the issue of the final<lb/>instalment of the supplemental loan of £700<lb/>sanctioned for the purpose of erecting woring class<lb/>lodging houses under the housing of the Working<lb/>Classes Acts, I am directed by the Local Gov Board 
+            <pb n="2" facs="L1916_3181_img_2605_2"/>
+             Board for Ireland to request that they may be<lb/>informed as to exact amount required to<lb/>defray all expenditure and liabilities incurred<lb/>in connection with these works.   By order of the Board<lb/>M Gregg    The Clerk Urban Council<lb/>Longford  
+         </ab>
+      </body>
+   </text>
+</TEI>

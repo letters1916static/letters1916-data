@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2969">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fr Michael Saul SJ to Fr Thomas V Nolan SJ, 31 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Michael Saul</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Irish Jesuit Michael Saul (1884-1932) to his Father Provincial Thomas V Nolan SJ (1867-1941) in which he refers to a letter he wrote to the editor of An Claidheamh Soluis complaining &#39;how foolish people are who write and squabble in English in his paper to promote Irish!&#39;
+
+Born in Drumconrath village (Co. Meath) in 1884, Michael Saul organised a branch of the Gaelic League in Drumconrath in 1904 before he joined the Jesuits in 1909. It was remarked that &#34;he never lost his early love and zeal for Irish…. few men have done more and laboured more for our language without notoriety or self- advertisement…”. Ordained in 1919, he was a member of An Fáinne, and the Coiste Gnótha of the Gaelic League. From 1922-27 he was attached to Belvedere College and was also assistant Director of  An Timire (the Irish language Messenger).  From 1927-30, he ministered in St Francis Xavier&#39;s, Upper Gardiner St., Dublin. In 1930 he was posted to Irish Jesuit mission to Hong Kong and in 1931 he went to the Catholic Mission in Canton, China. Here he contacted cholera and died on June 21st 1932. He is buried in Canton.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IE IJA/SC/MUNG/251</collection>
+                  <idno>https://letters1916.ie/item/2969</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1096">Michael Saul</persName>
+              <date>1916-07-31</date>
+              <placeName key="#letters1916_place-1608">Mungret College, Limerick, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas V Nolan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1453">St Francis Xavier's, Upper Gardiner Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1932</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2969_img_2374_1"  type="Letter"  url="561f162ae544c34408a8f37372b0534f.jpg"/>
+      <graphic xml:id="L1916_2969_img_2374_2"  type="Letter"  url="fdbc5a53553040e4dcfa68f690772d1e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2969_img_2374_1"/>
+              Mungret College,<lb/>Limerick    31.7.16   <lb/> Very Rev. Fr. Provincial<lb/>P.C.   I wrote a letter<lb/>to the Claidheamh Soluis about Irish in<lb/>general and how foolish people are<lb/>who write and squabble in English<lb/>in his paper <hi rend="underline">to promote Irish!</hi>  I sent it to the Rector who said he<lb/>sent it out to you, but then found he<lb/>had enclosed <hi rend="underline">my letter to him</hi> by<lb/>mistake and tore the real letter in two.<lb/>He sent it to me telling me to rewrite<lb/>it and forward it as soon as<lb/>possible. I put down a nom<lb/>de plume but he crossed it out and<lb/>put down my name.<lb/>Of course it is all the same to me, 
+            <pb n="2" facs="L1916_2969_img_2374_2"/>
+             name or not: I got ideas, had<lb/>practice in writing, tried to do<lb/>something for the cause, and so<lb/>rest content.  Very many thanks for being so kind<lb/>as to send me to Theology, which<lb/>news I heard this morning.<lb/>The address of the Claidheamh Soluis <claidheamh soluis="">is: —<lb/> Fear eagarthóir an Claidheamh Soluis<lb/>40 Ché Urumhan Íochtarach<lb/>baile atha cliath <lb/>Editor of C...<lb/> 40 Ormond quad Lower<lb/>Dublin </claidheamh>   Yours most obediently in Christ,<lb/>M Saul S.J.  
+         </ab>
+      </body>
+   </text>
+</TEI>

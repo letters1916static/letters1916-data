@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0775">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Wilfrid Spender to Lady Lillian Spender, 24 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Bliss Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Sir Wilfrid Bliss Spender (1876-1960) is writing to his wife, Lady Lillian Spender, née Dean, (1880-1968). In this letter, Spender gives a brief account of his arrival at the Corps Headquarters, of his longing for more letters, and of his guilt over abandoning his brother Rex.Sir Wilfrid Spender (1876 - 1960) was a member of the British Army until 1913 when controversy surrounding his signature of the Ulster Solemn League and Covenant resulted in his resignation. Spender was called up for military service in 1914 and from 1915 served in the 36th (Ulster) Division. Throughout the war, Spender wrote a collection of letters to his wife Lady Lillian Spender. The letters date mainly from 1915 to 1918, when Sir Wilfrid was serving in France. The letters concern politics, the Irish question, personal life, and Wilfrid&#39;s experience of the Great War. Lady Lillian served in the Ulster Volunteer Nursing Corps during the war, and was an organiser of the Ulster Division Comforts Fund.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Lady Spender&#39;s Correspondence, D1633/1/1/359</collection>
+                  <idno>https://letters1916.ie/item/775</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0931">Wilfrid Bliss Spender</persName>
+              <date>1916-07-24</date>
+              <placeName key="#letters1916_place-0769">France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lillian Spender</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0775_img_2308_1"  type="NULL"  url="cc8b1569c2cc2f2c12d4f6005da448ab.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0775_img_2308_1"/>
+                24 July   My Pr   I have arrived - early yesterday morning - at the Corps HQ, but am <lb/> only now getting into the work at all properly. Some people have the <lb/>gift of handing over, others with the best will in the world have not. <lb/> This corps has been the most successful hitherto, &amp; therefore its work <lb/> should be on sound lines, &amp; it is interesting seeing a new formation at <lb/>work tho' it lacks the excitement of a Divisional office.  I believe now that my message to <seg type="unclear">Sr edward</seg> was not correct, tho <lb/> true of the actual situation. There appears to be the greatest difficulty <lb/> in getting the stuff out tho' we are assured there is plenty at home.  One's facilities for writing letters are worse than ever before as 2 <lb/> of us sit at the same table - not always the same 2 tho' now I have more <lb/> or less settled my own place. This &amp; having no <seg type="del">one</seg> letters to inspire me will <lb/> make this a very dull letter.  My work seems likely to be mainly in the office but I hope to get some exercise daily.  I did not say goodbye to GN as he was out &amp; declined to <lb/> say goodbye on the previous day. I am not sure that this was not <lb/> deliberate on his part. In any case I really cannot say I am sorry <lb/> to leave him. He is I think the most naturally selfish man I have ever <lb/> been brought into close touch with, &amp; really this alleviates my regret <lb/> to some extent, tho' I still feel as if I had deserted Rex in his hour of need <lb/> It is, I am told absolutely certain that the only excuse for refusing any <lb/> appointment is lack of qualification &amp; tho' it is quite likely I may show <lb/> myself unfitted after trial I am not going to admit it before.  No time for more as I am off to visit the 'German' <lb/> lines in a motor ! Address Lt Col GS. attached HQ 15 Corps. <seg type="closer"> Your  b w <lb/> WB Spender  </seg><seg type="postscript"> PS: Some folks put RA &amp; omit GS on my letters which <lb/> may lead to my not getting them now. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

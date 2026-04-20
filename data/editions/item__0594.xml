@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0594">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Monteith to Mollie Monteith, 25 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Monteith</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>In this letter, written on Christmas day, from Robert Monteith to his wife Mary, Robert expresses loneliness and states that he misses his family. He recalls times they spent together and pleads with his wife to write to him.Robert Monteith (1879-1956) was a founding member of the Irish Volunteers. In 1915 Monteith was selected by Thomas Clarke (1858–1916), a veteran of revolutionary politics, to accompany Sir Roger Casement (1864–1916), to Germany to assist with recruitment of an Irish Brigade from the Irish prisoners-of-war. Robert and Mary Florence (Mollie) Monteith (née McEvoy, 1877-1960) married in 1909 against his family&#39;s wishes. the controversy came from Robert being a Protestant, and Mary a Catholic widow with three children.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, IE/AL/RM/2/18</collection>
+                  <idno>https://letters1916.ie/item/594</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0377">Robert Monteith</persName>
+              <date>1915-12-25</date>
+              <placeName key="#letters1916_place-0026">Zossen, Brandenburg, Germany</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mary Florence Monteith (née McEvoy)</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0594_img_2004_1"  type="Letter"  url="1e84e52835597bd4d2229709a02f0a93.jpg"/>
+      <graphic xml:id="L1916_0594_img_2004_2"  type="Letter"  url="b6ad122b71088b7eec53262038ffa443.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0594_img_2004_1"/>
+                Zossen    Xmas Day 1915   Dear old pet,   No letter from you yet. I am so <lb/> lonely today - you remember last year <lb/> in 8 Hartstonge St. with the little ones running <lb/> wild â why do you grip me so much <lb/> &amp; why are my thoughts so cluttered around <lb/> you? Mollie write me, I do so want your <lb/> sympathy, my work is so hard, and difficulties <lb/> so many - but of course if I had you here to <lb/> tell all my worries to, things would run <lb/> smoothly - I trust you and all at home  
+            <pb n="2" facs="L1916_0594_img_2004_2"/>
+              are enjoying yourselves, even now as I write <lb/> this letter â  I cant write more now, fondest love <lb/> Kiss them all for me <seg type="closer">  Yours ever <lb/> <seg type="unclear"><hi rend="underline">Cara</hi></seg> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0526">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Last letter from Con Colbert to his sister Lila, 7 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Con Colbert</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The last written letter of Cornelius (&#39;Con&#39;) Colbert (1888 - 1916). This letter was sent to Colbert&#39;s sister Elizabeth, &#39;Lila&#39; (1888 - 1974). After the Rising Elizabeth served on the committee of the Irish Volunteers Dependents’ Fund. In this letter, Colbert explains that he did not want his sister to visit him before his execution as &#39;it would grieve us both too much&#39;. Colbert asks his sister to pray for him and hopes that he can &#39;die well&#39;.Cornelius (&#39;Con&#39;) Colbert (1888 - 1916) was a member of the Irish Volunteers. On 24 April 1916 Colbert fought for the duration of the Rising until his open surrender on 30 April. He was designated for severe treatment owing to his pre-rising activities and for his connection with Pearse. He was shot by firing squad in Kilmainham jail on 8 May and buried in the common grave in Arbour Hill jail.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Museum of Ireland</repository>
+                  <collection>, HE.EW.501</collection>
+                  <idno>https://letters1916.ie/item/526</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1293">Con Colbert</persName>
+              <date>1916-05-07</date>
+              <placeName key="#letters1916_place-1932">Kilmainham Gaol, Kilmainham, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lila Colbert</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Last letters before death</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0526_img_1898_1"  type="Letter"  url="12a64830555cdc43806b7857a381940a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0526_img_1898_1"/>
+                Kilmainham Goal    9th May 1916   My dear Lila   I did not like to call you to this gaol <lb/> to see me before I left this world, because I felt it would <lb/> grieve us both too much, so I am just dropping you a <lb/> line to ask you to forgive me anything I do love you and to <lb/> say goodbye to you &amp; all my friends &amp; to get you &amp; them to <lb/> say a prayer for my soul. Perhaps I'd never get the chance <lb/> knowing when I was to die again and so I'll try &amp; die <lb/> well. I received this morning, &amp; hope to do so again before <lb/> I die. Pray for me, ask Fr. Devine &amp; Fr. Healy &amp; Fr. O'Brien <lb/> to say a Mass for me also any priests you know. May God <lb/> Help us all to die well â you to bear your sorrow.  <seg type="closer"> From Your loving Brother  Conn </seg> I sent you a prayer book as tolken <lb/> Write to Nan Jack &amp; Willie &amp; all the others   
+         </ab>
+      </body>
+   </text>
+</TEI>

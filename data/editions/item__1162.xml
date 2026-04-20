@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1162">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fr Francis M. Shaw to Fr Provincial Thomas V. Nolan, 4 February 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Francis Shaw</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Francis M. Shaw (1881-1924) to the Father Provincial Thomas V Nolan (1867-1941) regarding Shaw&#39;s new address. Francis M. Shaw writes to the Father Provincial to inform Father Farley about masses. Francis, or Frank, Shaw SJ was born in Ennis, county Clare. He was ordained on 31 July 1916 at Milltown Park, Dublin. Fr Shaw joined the war early in 1916, working in the 16th General Field Hospital at Le Tréporte. In 1917, possibly due to his nationalistic views, Fr Shaw was dispatched to India, and later to Mesopotamia.Fr. Thomas V. Nolan was the Provincial of the Irish Province of the Society of Jesus (1912-1922) and was a member of the Distribution Committee which looked after the welfare and distribution of the Belgian refugees who arrived in Ireland as a consequence of the First World War.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IJA/CHPI/54/21, IJA/CHPI/54/21</collection>
+                  <idno>https://letters1916.ie/item/1162</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1473">Francis Shaw</persName>
+              <date>1918-02-04</date>
+              <placeName key="#letters1916_place-0130">Mesopotamia</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Fr Thomas V Nolan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1162_img_3839_1"  type="Letter"  url="0123b941a3a3da2ba6f723c49fd63418.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1162_img_3839_1"/>
+                4 Feb. 1918   My dear Reverend Father Provincial, <lb/> P.C.   I write a last <lb/>note as I am just starting <lb/>up the great river. My <lb/>address until further <lb/>notice is: No. 16 Casualty <lb/>Cleaning Station. Mesopotamian <lb/>Expeditionary Force.  Please tell F<hi rend="superscript">r</hi> Farley I <lb/>said 15 masses for him <lb/>during January. I am <lb/>afraid I shall not be able to <lb/>say Mass on the river boat <lb/>and It takes about 2 weeks. <seg type="closer"> I commend myself xt  Francis M. Shaw </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

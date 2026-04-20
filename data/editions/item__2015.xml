@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2015">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Telegraph from Sir Neville Chamberlain to Andrew Phillip Magill, 24 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Inspector General Constabulary</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a telegraph from Sir Nevill Francis Fitzgerald Chamberlain (1856-1944), inspector general of the Royal Irish Constabulary, to Andrew Phillip Magill (1871-1941) the private secretary for the chief secretary of Ireland, Augustine Birrell (1850-1933). In the telegraph Chamberlain talks of the health of a Sergeant Ahearn, a police officer who was shot twice by Irish Volunteers on the 22 March 1916. The attack happened at when an anti-Sinn Fein demonstration took place in Tullamore, Co Offaly. Fourteen Irish Volunteers were besieged by a hostile mob in the local Sinn Fein hall. Believing they were inadequately protected by the police they fired revolvers to keep the mob away, and when the police moved in to disarm them resisted arrest, seriously wounding a Sergeant Ahearn.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI; Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/8125/1</collection>
+                  <idno>https://letters1916.ie/item/2015</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0188">Inspector General Constabulary</persName>
+              <date>1916-03-24</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Andrew Phillip Magill</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2015_img_1461_1"  type="Letter"  url="663ebf22374a26eafe3f798865a5da87.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2015_img_1461_1"/>
+            <hi rend="underline">POST OFFICE TELEGRAPHS</hi> <lb/><hi rend="underline">MESSAGE RECEIVED IN THE IRISH OFFICE</hi>  Date Mar 24th 1916  <lb/>Handed in at Dublin Castle at Received here at 2-4pm  From Inspr General, Constabulary To Magill   I will at once convey to all concerned Chief <lb/>Secretarys most kind and encouraging <lb/>message. It will be deeply appreciated by <lb/>all ranks. Sergeant Ahearns condition <lb/>today is reported to be good. Both bullets <lb/>have been located by X rays   A.U.S. <lb/>This may be put with <lb/>papers on the subject. <lb/>APM 8/5/16   WMC <lb/>13/5/16 
+         </ab>
+      </body>
+   </text>
+</TEI>

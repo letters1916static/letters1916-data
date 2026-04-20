@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1790">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Mangan regarding Sir John O'Connell, 3 April 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Mangan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by John Mangan as an endorsement of John Robert O&#39;Connell for the vacant chief crown Solicitor position. Mangan (1853-1917) was the Bishop of Kerry in 1916. Mangan writes that his chief experience of O&#39;Connell (1868-1943) was as a public man and that as such he contributed largely to the public good. Mangan believes that the south of Ireland is indebted to O&#39;Connell for his services. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/7153/17</collection>
+                  <idno>https://letters1916.ie/item/1790</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1357">John Mangan</persName>
+              <date>1916-04-03</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1917</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1790_img_1245_1"  type="Letter"  url="fce0ef7a4fb78f92befbfa46f953a425.jpg"/>
+      <graphic xml:id="L1916_1790_img_1245_2"  type="Letter"  url="0f971c4d47b9946e3dc0a53523b37dd0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1790_img_1245_1"/>
+            <lb/>people.   +John Mangan  <lb/>Bishop of Kerry.  <hi rend="underline">April 3<hi rend="superscript"><hi rend="underline">rd</hi></hi> 1916</hi>   THE PALACE, <lb/>KILLARNEY.   I have experience <lb/>of Sir John R. oConnell <lb/>for some years <lb/>past both professionally <lb/>and in other respects.   In every way as <lb/> far as my knowledge <lb/> goes he has been
+            <pb n="2" facs="L1916_1790_img_1245_2"/>
+            very successful.   My chief experience <lb/>of him has been <lb/>as a public man <lb/>and as such he <lb/>contributed very <lb/>largely to the public <lb/>good. In the South <lb/>of Ireland we are <lb/>very largely indebted <lb/>to him for his excellent <lb/>services to the University <lb/>College at Cork.   I may say that he <lb/>has in very large <lb/>measure the respect and <lb/>confidence of the <lb/>best class of our
+         </ab>
+      </body>
+   </text>
+</TEI>

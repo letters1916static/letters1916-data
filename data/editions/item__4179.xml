@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4179">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John to James Shaw, 2 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Shaw Papers, D1962-2</collection>
+                  <idno>https://letters1916.ie/item/4179</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0924">John</persName>
+              <date>1916-01-02</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">James Shaw</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4179_img_3552_1"  type="Letter"  url="4ccfe982827486818b8d9f5f1d5abf14.jpg"/>
+      <graphic xml:id="L1916_4179_img_3552_2"  type="Letter"  url="d9c3e021cf196bd9d073826ee3eca17d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4179_img_3552_1"/>
+             2<hi rend="superscript">nd</hi> Jan 1915   Dear James,   Many thanks for your very nice <lb/>card received to day I hope all your <lb/>people are well. I had one letter <lb/>from my <seg type="unclear">ma</seg> &amp; <seg type="unclear">Liam</seg> <seg type="unclear">Mike</seg> since he left <lb/>you. They are all getting along fine. <lb/>I thought they would have got a <lb/>few days  leave  at <seg type="unclear">Exmas</seg> I am getting along <lb/>fine here and we all had a good <lb/>time at <sic>Exmas</sic>. I am <sic>shure</sic> it is <lb/>very dull about Portstewart now <lb/>with all the boys away. I see Stuart <lb/>Henry has gone to  . There is some <lb/>talk about us getting leave but I <lb/>don't know whether it will come <seg type="unclear">up</seg> <lb/>or not. If I do get home I will miss <lb/>my old chum. I wish we could <lb/>both manage to be home at the same
+            <pb n="2" facs="L1916_4179_img_3552_2"/>
+            but it is a terrible watch now <lb/>for the names. They would <lb/>neither surrender nor retire.   The world might call it foolhardy  glorious!  <lb/>but it i;s such conduct that <lb/>purifies the poor world, and <lb/>raises it to a higher level <lb/>and lives in History for generations <lb/>to come. Please convey our <lb/>heart felt congratulations to <lb/>your husband and accept <lb/>them yourself also from us.   Don't these verses fit them? <lb/>And now we feel that all around <lb/>Have angels walked the well known ground <lb/>Not winged &amp; strange beyond your ken <lb/>But in the form of common men <lb/>God's messengers from Heaven's own sphere <lb/>Unrecognised — because so near.   Believe me sincerely yours <lb/>Gertrude Cd Clements 
+         </ab>
+      </body>
+   </text>
+</TEI>

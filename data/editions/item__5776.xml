@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5776">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from A R Barlas to Sir Matthew Nathan, 28 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Alexander Richard Barlas</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Alexander Richard Barlas (1862-) the Secretary for the Local Government Board to Sir Matthew Nathan (1862-1939) who  was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising. In the letter Barlas is forwarding a complaint, about the delay of work caused by the Crown Solicitor of Cavan Louis C.P. Smith (1867-1923), on behalf of the Board. Barlas explains that the board are not happy with the delays caused by the Crown Solicitor.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/4061</collection>
+                  <idno>https://letters1916.ie/item/5776</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0957">Alexander Richard Barlas</persName>
+              <date>1916-02-28</date>
+              <placeName key="#letters1916_place-1501">Local Government Board, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5776_img_875_1"  type="Letter"  url="7c475218a17c0fff6f54d0e760787a2f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5776_img_875_1"/>
+             Local Government Board, Dublin   28th. February, 1916.   <hi rend="underline">Immediate</hi> <lb/>Mr Smith - Crown Solicitor. <lb/>The Under Secretary would be <lb/>obliged for your observations as to B. It is <lb/>most desirable that the audit of these <lb/>claims should be completed without further <lb/>delay. <seg type="unclear">J.S.T.</seg> 29.2.16    Sir,   With reference to Mr. Taylor's minute of the 21st instant relative to <lb/>the Audit of the Claims in respect of Prosecutors and Witnesses Expenses in <lb/>the case of the County of Cavan for the Half-Years ended 31st March, 1914, <lb/>30th September, 1914, 31st March, 1915 and 30th September, 1915, I am <lb/>directed by the Local Government Board for Ireland to state that they <lb/>forwarded the Minute in question to their Auditor, Mr. Newell, who made the <lb/>following observations thereon:-   "Some three weeks ago I wrote to the Crown Solicitor forwarding certain <lb/>"queries in respect of this claim and asking for an early reply but he <lb/>"has not answered yet. I wrote again a couple of days ago pressing for <lb/>"a reply as the matter was urgent and expect a reply this week. I shall <lb/>"certify the Claim without delay when I hear from the Crown Solicitor.   "I have frequently spoken to the Accountant in County Cavan about <lb/>"his delay in sending on the Claims but without result. In this <lb/>"instance he has allowed four half years to accumulate which is very <lb/>"inconvenient. I should be obliged if the Board would kindly inform him <lb/>"that these claims must be promptly forwarded in future."   The Board desire me to point out as regards the observations of Mr. <lb/>Newell marked A that they are in communication with the County Council in <lb/>the matter.   I am, Sir, <lb/>Your obedient Servant,   A R Barlas  <lb/>Secretary.  The Under Secretary, <lb/>Dublin Castle. 
+         </ab>
+      </body>
+   </text>
+</TEI>

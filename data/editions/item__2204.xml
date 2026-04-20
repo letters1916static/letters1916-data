@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2204">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Margret O'Brien to Ivor Guest, Lord Wimborne, 23 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Margaret O&#39;Brien </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Margret O&#39;Brien to Lord Wimborne. Sir Ivor Churchill Guest (1873-1939), Lord Lieutenant of Ireland from 1915 to 1918. From the beginning of 1916 Wimborne began agitating for measures to be taken against the Irish Volunteers, but was constantly dissuaded by Birrell and Nathan. However, Wimborne&#39;s early recommendations for action reflected favorably on him after the 1916 Rising.
+
+In the letter, O&#39;Brien discuses her request for the exhumation of her husband&#39;s body due to it&#39;s burial in the wrong grave. She goes on to state the grave is the property of the Arnold family and she requests that her husband&#39;s body be moved.  </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland </repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/5613/9083/1</collection>
+                  <idno>https://letters1916.ie/item/2204</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0916">Margaret O&#39;Brien </persName>
+              <date>1916-05-23</date>
+              <placeName key="#letters1916_place-2066">The Green, Midleton, County Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Ivor Guest</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2204_img_1650_1"  type="Letter"  url="750011b5bbd5072526927f111becd28b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2204_img_1650_1"/>
+             The Green,<lb/>Middleton, Co. Cork   23 May 1916    To The Excellency<lb/>Earl Wimborne<lb/>Lord Lieutenant of Ireland    May it Please Your Excellency,   I respectfully beg<lb/>to enclose a communication received<lb/>from the Local Government Board<lb/>in reply to one addressed to that<lb/>Board requesting permission for<lb/>the disinterment of the remains<lb/>of my husband in the burial -<lb/>ground attached to the Protestant<lb/>Church at Middleton.  Further I beg to<lb/>inform Your Excellency that four<lb/>months since my husband's<lb/>remains were in error interred<lb/>in a grave the property of a<lb/>family named Arnold; and Your<lb/>Excellency's authority is now <seg type="unclear">prayed</seg><lb/>to have the remains removed<lb/>to an adjoining grave — my husband's<lb/>one — in the cemetery.   I have the honour to remain<lb/>Your Excellency's Servant <lb/><lb/> Mrs Margaret OBrien  
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3390">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from George D. Roche to Nancy McCarthy, 28 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>George D. Roche</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This postcard opens in French joking about his limitations in that
+language as he now lives with Flemish speakers. “And as Tommy says my language at present is “No bon””. 
+
+Nancy McCarthy was a well-practised letter-writer, and her collection of correspondence spans eighty years. This postcard is one of seven included in the Letters of 1916 collection written to Nancy by her uncle, George D. Roche, on active service with the 7th London regiment during World War I.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>UCC Library Special Collections and Archives</repository>
+                  <collection>The Nancy McCarthy Collection, BL/PP/NMC/611</collection>
+                  <idno>https://letters1916.ie/item/3390</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">French</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0611">George D. Roche</persName>
+              <date>1916-10-28</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Nancy McCarthy</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0711">The Convent, Mountrath, Queen's County, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3390_img_2802_1"  type="Letter"  url="02369f151b4a644bb6b1aa71a87c48ca.jpg"/>
+      <graphic xml:id="L1916_3390_img_2802_2"  type="Letter"  url="fd253f1b59c5e58db41d58b8e894bab3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3390_img_2802_1"/>
+            CARTE POSTALE <!--Card is stamped as follows: - Official Postal Office  28 09 16  --> <seg type="foreign"> Ma Chere Cervelle du Lievrette   C'est ne pas possible pour <lb/>moi a vous ecrive dans <lb/>la Francaise. Pourquoi? <lb/>Je reste avec les braves <lb/>Belges maintenant et Je <lb/>parle la Flamische tous <lb/>les jours. "Compree!"</seg> <lb/>And as Tommy says my language <lb/>at present is <seg type="foreign">"No bon."</seg> But I <lb/> to succeed hope— <seg type="foreign">Banzai!</seg> <lb/><seg type="foreign">Mais oui, Je ne lepeuse pas! </seg>  Hope the play went off successfully.   Love &amp; all the best <lb/>Uncle George   G.D. Roche   Miss Nancy McCarthy <lb/>The Convent <lb/>Mountrath <lb/>Ireland  <!-- Mountrath is in Co Laois -->
+            <pb n="2" facs="L1916_3390_img_2802_2"/>
+            <!-- Postcard-->  <seg type="foreign">—La Cathédrale Saint-Martin avant et après le Bombardement.</seg> <lb/>The Cathedral Saint-Martin's before the Bombardment and after. <lb/>Visé Paris N° 31214—59 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5644">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Resident Medical Superintendant, Killarney, to James Smith, 26 February 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author> Resident Medical Superintendent, Killarney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from The Resident Medical Superintendent of the District Asylum in Killarney assuring that the appointment of one Bridget Cremin as dressmaker and nurse was due to her being the only suitable candidate.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3755/2</collection>
+                  <idno>https://letters1916.ie/item/5644</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0759"> Resident Medical Superintendent, Killarney</persName>
+              <date>1916-02-26</date>
+              <placeName key="#letters1916_place-1553">District Asylum, Killarney, County Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">James Smith</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1302">Office of Lunatic Asylum, Dublin Castle, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5644_img_736_1"  type="Letter"  url="e43f37307b618c0102b2a37bfd7402ae.jpg"/>
+      <graphic xml:id="L1916_5644_img_736_2"  type="Enclosure"  url="c2c68f0491c49286bc343b50df42e051.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5644_img_736_1"/>
+             District Asylum, <lb/>Killarney   26 February, 1916.   Sir,   Your letter No.252 of the 3rd inst, which enclosure <lb/>referring to the recent appointment of Dressmaker and Nurse <lb/>here, was duly considered by my Committee on the 24th inst. <lb/>I was directed to say in reply, for the information of the <lb/>Inspectors, that Bridget Cremin, who was appointed to the <lb/>position named, was the only candidate qualified by age <lb/>and she also had a certificate of competence from a local <lb/>dressmaker. Cremin was appointed subject to reports from <lb/>the R.M.S and the Matron and that latter appeared <lb/>before the Committee and reported verbally as to her fitness <lb/>and is to report further in writing to next meeting. <lb/>The appointment was made strictly in accordance with the <lb/>terms of advertisement, which bore no resemblance to <lb/>those quoted in the enclosure. The statement that Cremins <lb/>mother died in the Asylum is not correct;she was never a <lb/>patient here.   I am, Sir, <lb/>your obedient servant,      <lb/>Resident Medical Superintendent  James Smith Esq. <lb/>Office of Lunatic Asylum, <lb/>Dublin Castle 
+            <pb n="2" facs="L1916_5644_img_736_2"/>
+             Office of Inspectors of Lunatic Dublin Castle.  <lb/>KILLARNEY Lunatic Asylum. <lb/>SUBJECT. <lb/>COMPLAINT OF MISS MARY O'LEARY <lb/>RELATIVE TO APPOINTMENT OF MISS <lb/>BRIDGET CREMIN AS DRESSMAKER &amp; NURSE. <lb/>MINUTE.  Assistant Under Secretary,   With reference to your Minute of the <lb/>2nd instant, we beg to state that we had <lb/>previous  to its receipt  informed Miss Mary O'Leary that <lb/>the appointment of a Dressmaker &amp; Nurse in <lb/>the Killarney District Asylum is vested <lb/>solely in the Committee of Management, and <lb/>that any representations she wished to make <lb/>on the subject should be addressed to that body.   We also forwarded a copy of her letter <lb/>to the Committee, whose reply, dated the <lb/>26th instant, is now annexed.  The matter does not appear to call for <lb/>any further action.   <seg type="unclear">M.R. Dawson.</seg>   28th February, 1916 
+         </ab>
+      </body>
+   </text>
+</TEI>

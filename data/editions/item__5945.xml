@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5945">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Eamonn O'Modhráin to his mother, Mary Moran, 3 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Eamonn O&#39;Modhráin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Eamonn O&#39;Modhráin (Edward Moran) (d. 1955) to his mother, Mary Moran. O&#39;Modhráin had been arrested after the Easter Rising and imprisoned, spending time in Wakefield Prison and Frongach Internment Camp. This letter was sent while O&#39;Modhráin was in Frongach. In the letter he refers to conditions and activities in the prison, a planned visit by his sisters and requests clothes and books. He also refers to matters relating to the family farm in County Kildare noting that his brother Lewis, who had been released from Wakefield, &#39;can charge current prices for materials&#39;.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>O&#39;Modhráin Family</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/5945</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1527">Eamonn O&#39;Modhráin</persName>
+              <date>1916-07-03</date>
+              <placeName key="#letters1916_place-0559">South Camp, Frongach Internment Camp, Bala, Wales</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mary Moran</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5945_img_1577_1"  type="Letter"  url="6a5c130d361bc82eea1915ba574a0a11.jpg"/>
+      <graphic xml:id="L1916_5945_img_1577_2"  type="Letter"  url="06a87a67c6fc0402c730b5d2642a683e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5945_img_1577_1"/>
+                290. Ed. Moran, Irish Prisoner of War  South Camp, Frongoch, N. Wales.    3 V11. 16   My Dearest Mother   Your letter &amp; Norman's came<lb/> Sat. and Maire's yesterday. I was very glad<lb/> to get them and to learn that all are well. Let you<lb/> all write often. We have Mass, confession &amp; Holy<lb/> Comm. every Sunday. Don't send papers, 'Ind' comes<lb/> every day now, send some books, Irish &amp; English.<lb/> As weather is wet I will want a coat &amp; vest, rough<lb/> tweed, good clothes no use here, they will want to be<lb/> larger than last measurement, also putties like<lb/> Knickers and a portmanteau, not too big, suit case  
+            <pb n="2" facs="L1916_5945_img_1577_2"/>
+              would do. I hope visiting time will be extended before<lb/> Tess &amp; Una come and that Maire can arrange to<lb/> come also. Glad to know all well Enniscorthy<lb/> Would you ask Maire to spend some of her holidays<lb/> with you. better buy cake now for delivery in<lb/> Nov., Cotton or Linseed, whichever better no<lb/> t 21/2 or 3 tons. I charged Casey 30/= for ten acres,<lb/> his own stuff. Let Lewie charge current prices<lb/> for materials. We are not having a bad time here<lb/> lectures, concerts, Irish classes, football, physical<lb/> drill, we had a march into country to-day. With<lb/> best love to all, particularly the children. <seg type="closer"> Ãamonn .</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

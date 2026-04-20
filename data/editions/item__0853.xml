@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0853">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Margaret Pearse, 14 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Margaret Pearse</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Margaret Pearse (1857-1932) to the Secretary of the American Alliance. In this letter, Margaret apologetically declines an invitation to a concert, confessing that she finds it difficult to attend any event &#39;that would in the least remind me of my own dear boys&#39;. She writes of the &#39;noble cause&#39; of Pearse and Willie, and discusses the ways in which she can now find consolation.Margaret Pearse was the mother of the Easter Rising leader Patrick (1879-1916) and Willie (1881-1916). Margaret fully supported her sons in their revolutionary activities, and following their execution in May 1916, she played an important role in perpetuating their memory and vision, and securing funds for the republican cause. She received a state funeral upon her death in 1932.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, Pearse Collection, IE/AL/PC/9/33</collection>
+                  <idno>https://letters1916.ie/item/853</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1330">Margaret Pearse</persName>
+              <date>1916-10-14</date>
+              <placeName key="#letters1916_place-0284">St. Enda&#39;s College, Oakley Road, Rathfarnham, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0853_img_2413_1"  type="Letter"  url="a62b729334453eb4e6ec2aee685b1713.jpg"/>
+      <graphic xml:id="L1916_0853_img_2413_2"  type="Letter"  url="3042f5c71c48c3f3efb20e05d6df6a18.jpg"/>
+      <graphic xml:id="L1916_0853_img_2413_3"  type="Letter"  url="edae008f461871beab9bece31c6a074d.jpg"/>
+      <graphic xml:id="L1916_0853_img_2413_4"  type="Letter"  url="fa62abeaf2c6f36827404940ad2ca7ed.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0853_img_2413_1"/>
+                St Endas College  Oakley Road    Oct 14 <hi rend="superscript">th</hi> 1916    To the Secretary of the Irish American Alliance  Dear Sir   I beg to be kindly <lb/> excused for not <lb/><sic>been</sic> able to accept <lb/> your very kind  
+            <pb n="2" facs="L1916_0853_img_2413_2"/>
+              invitation to your <lb/> concert which I hope <lb/> will be a great success <lb/> I assure you I regret <lb/> very much not feeling <lb/> able just yet to <lb/> attend anything that <lb/> would in the <seg type="unclear">least</seg><lb/> remind me of my <lb/> dear boys.   Not indeed but I <lb/> give them willingly  
+            <pb n="3" facs="L1916_0853_img_2413_3"/>
+              in the noble cause for which <lb/> they gave their dear lives for <lb/> and am proud of <sic>been</sic> the mother <lb/> of such noble sons   One consolation I have is I know <lb/> both them and their brave <lb/> companions are happy and I hope  
+            <pb n="4" facs="L1916_0853_img_2413_4"/>
+              that what they have <lb/> died for may be <seg type="unclear">cherished</seg><lb/> amongst the friends they <lb/> have left behind and <lb/> that the same spirit <lb/> they had may be kept <lb/> up until <seg type="unclear">our</seg><seg type="unclear">dear</seg><lb/> Country is released <lb/> from <sic>Tyrany</sic> and slavery   Again thanking you <lb/> for invitation  <seg type="closer"> Yours Sincerely  Margaret Pearse </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

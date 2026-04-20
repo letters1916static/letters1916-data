@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3652">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Royal College of Physicians of Ireland, 15 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Royal College of Physicians of Ireland</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from the Royal College of Physicians of Ireland (RCPI) regarding the licentiates admitted into medicine and midwifery in the college. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-13-184</collection>
+                  <idno>https://letters1916.ie/item/3652</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0320">Royal College of Physicians of Ireland</persName>
+              <date>1915-07-15</date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Registrar, Branch Medical Council</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3652_img_3048_1"  type="Letter"  url="84abe904b80c2788cb5cc7108647ee84.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3652_img_3048_1"/>
+             15th JULY 16.   Dear Sir,   I beg to inform you that at a meeting of this College <lb/>held yesterday the following were admitted Licentiates in <lb/>Medicine &amp; Midwifery of the College : <lb/>Hugh Moore Alexander, 9 Seaview, Warrenpoint. <lb/>James Charles Attridge, Clonlucas, Mallow, Co. Cork. <lb/>Denis Boland, 57 Highfield Road, Rathgar. <lb/>Robert d'Alton, Bloomhill, Ballinahown, King's Co. <lb/>Benjamin James Daunt, Derrigra, Ballineen, Co. Cork. <lb/>George Dunne, 37 North Strand, Dublin. <lb/>Robert Green, <seg type="del">52</seg> 54 S.C. Road. <lb/>Marjorie M'Mullen. Milleen, Dalkey. <lb/>William A Malone, <lb/>Thomas Moore, Ballyclare, Co. Antrim. <lb/>Ernest Bertrand Palmer, 17 Ashfield Park, Terenure.   I remain, <lb/>Yours faithfully, 
+         </ab>
+      </body>
+   </text>
+</TEI>

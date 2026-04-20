@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5601">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mary McEvoy to Agnes Sweetman, 14 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mary McEvoy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from Mary McEvoy, a servant on the Drumbaragh Estate in County Meath, to Agnes Sweetman, wife of politician John Sweetman (1844-1936), owner of the estate.
+This letter lets Agnes Sweetman know that Honoria and Alicia are both well.  The writer also hopes that there will be good news soon. This is presumably a reference to John Sweetman&#39;s release from prison. He had been interned in England after the Easter Rising and was eventually released at the end of May 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sweetman Family Papers, Collection List No. 156; Ms. 44,565 /5</collection>
+                  <idno>https://letters1916.ie/item/5601</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0257">Mary McEvoy</persName>
+              <date>1916-05-14</date>
+              <placeName key="#letters1916_place-1116">Drumbaragh, Kells, County Meath, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Agnes Sweetman</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5601_img_695_1"  type="Letter"  url="fae806f04cddeba643b63971de98f269.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5601_img_695_1"/>
+             Drumbaragh   May the 14   Madam   Miss Honoria <lb/>Miss Alcia are <lb/>well I hope you <lb/>will soon have good <lb/>news   Your<sic>Obed</sic> <lb/>Servant   Mary M<hi rend="superscript">c</hi> Evoy 
+         </ab>
+      </body>
+   </text>
+</TEI>

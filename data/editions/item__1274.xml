@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1274">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Rev. J. Bradley, 3 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J. Bradley</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from Rev. J. Bradley PP, County Antrim. Bradley writes to to request a copy of Piaras Béaslaí&#39;s play, &#39;Fear na Miliúin Punt&#39;. Piaras Béaslaí (born Percy Frederick Beazley) was an English born writer, revolutionary, politician, language revivalist, journalist and a member of the IRB. In February of 1916 he published the Fàinne, a publication to organise Gaelic speakers. He soon abandoned it and became involved in politics and would later fight in the Easter Rising. He wrote twenty plays between 1913 and 1939.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Piaras Béaslaí Papers, Collection List No 44, Ms. 33,933 (3)</collection>
+                  <idno>https://letters1916.ie/item/1274</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1320">J. Bradley</persName>
+              <date>1916-01-03</date>
+              <placeName key="#letters1916_place-0010">Ahogill, County Antrim, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Piaras Béaslaí</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1948">18 North Frederick Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1274_img_473_1"  type="Letter"  url="782a88485a7b4167c2c417df09b0288b.jpg"/>
+      <graphic xml:id="L1916_1274_img_473_2"  type="Letter"  url="02afe826bf06791d3b8055ee9def8532.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1274_img_473_1"/>
+                3/1/1916   Dear Sirs,   Please send <lb/> me a copy of <lb/><seg type="foreign">'Fear na MilliÃºn Punt'</seg><lb/> and oblige â   Address â <lb/> Rev J. Bradley PP <lb/> Ahoghill <lb/> Co Antrim   
+            <pb n="2" facs="L1916_1274_img_473_2"/>
+                <seg type="foreign">Na Aisteoiri</seg>  18 North Frederick St  Dublin    
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3692">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Denis Johnston to John Redmond, 19 February 1916 </title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Denis Johnston</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Denis Johnston writes to John Redmond (1856-1918) regarding a cheque sent in 1914. 
+
+John Redmond was an MP and leader of the Irish Parliamentary Party. He was instrumental in securing the promise of Home Rule from Asquith&#39;s liberal government. Upon the outbreak of war, Redmond addressed a group of Irish Volunteers at Woodenbridge, Co. Wicklow, encouraging them to fight with the British Army to ensure the implementation of Home Rule. Redmond&#39;s words split the Irish Volunteers across the country. The Easter Rising shocked Redmond, who condemned it bitterly. Nonetheless he appealed for leniency towards those who had not been involved in planning the Rising. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>John Redmond Papers, Collection List No. 118; MS 15,198/2/23</collection>
+                  <idno>https://letters1916.ie/item/3692</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0318">Denis Johnston</persName>
+              <date>1916-02-19</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1486">John Redmond</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3692_img_3084_1"  type="Letter"  url="6193a2c75539c1ad8fce1967979a9139.jpg"/>
+      <graphic xml:id="L1916_3692_img_3084_2"  type="Enclosure"  url="567d22d58fcddce6e3ff43d7ef926d1a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3692_img_3084_1"/>
+             3 Brighton Terrace, <lb/>Monkstown, <lb/>Co Dublin.   19<hi rend="superscript">th</hi> Feby 1916   My Dear M<hi rend="superscript">r</hi> Redmond,   Enclosed is copy of guarantee <lb/>letter sent you in 1914 &amp; as you <lb/>know I have lodged my claim for <lb/>£30000 - 00. Kindly have lodged <lb/>for me at my Bankers the bal <lb/>due or as much of it as you can <lb/>on or before the 10<hi rend="superscript">th</hi> Mar or send <lb/>the cheque for amount to this <lb/>address.    Yours truly   Denis <hi rend="underline">Johnston</hi>   J.E. Redmond Esq MP 
+            <pb n="2" facs="L1916_3692_img_3084_2"/>
+            
+         </ab>
+      </body>
+   </text>
+</TEI>

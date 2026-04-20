@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0989">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Note to Hanna Sheehy Skeffington, Wednesday, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M.K.C</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The sender writes to Hanna Sheehy Skeffington regarding the form of letters the Irish Women&#39;s Franchise League will send out reminding subscribers to pay dues. Hanna Sheehy Skeffington (1877-1946), suffragette, nationalist, language teacher, was the widow of Francis Sheehy-Skeffington (who was summarily executed on 26 April 1916). She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47;, MS 33,604/15-10</collection>
+                  <idno>https://letters1916.ie/item/989</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1492">M.K.C</persName>
+              <date>1916</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0989_img_2837_1"  type="Letter"  url="95100202909660ba075ca07f74b32939.jpg"/>
+      <graphic xml:id="L1916_0989_img_2837_2"  type="Letter"  url="5fe95b8a76530b7469907443e60b86c4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0989_img_2837_1"/>
+              written sideways    Mrs <hi rend="underline">SheehyâSkeffington</hi>    Wednesday <lb/>1916  Dear Mrs. Skeffington  I have arranged 2 tickets <lb/>in envelopes up to No 240, &amp; the typed letters <lb/>are just in &amp; ready to be enclosed except to <lb/>fill in name &amp; date &amp; sign. I think letters <lb/>ought to posted by Monday or Tuesday latest. <lb/>Some other names may suggest themselves to <lb/>the Committee or to you. Would it be too <lb/>risky to send to Miss Fitzpatricks gentleman <lb/>friend who paid up last time? His address <lb/>is in the  Dance  Book somewhere. <seg type="closer"> MKC </seg> 
+            <pb n="2" facs="L1916_0989_img_2837_2"/>
+                IRISH WOMEN'S FRANCHISE LEAGUE  WESTMORELAND CHAMBERS  WESTMORELAND STREET.    March 1914   Dear   We wish to remind you that you have not paid your subscription <lb/>for the last year and, as our report is about to be printed, we <lb/>trust you will kindly send it in at your earliest convenience <lb/>as we should regret extremely the lapse of your valuable memberâ <lb/>ship if even for one year. <seg type="closer"> Yours sincerely, </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

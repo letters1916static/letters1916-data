@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0729">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to George Hackney, 21 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A card addressed to George Hackney (1889-1977). The card was addressed to George&#39;s battalion in France, but the card has been redirected to the Sheffield hospital in which George was recuperating. The writer inquires after George&#39;s location and well-being, and refers briefly to life at home and to a promised present from George.This letter is from the papers of George Naphthali Hackney, a Lance Corporal from Clifton, Belfast. Before his time in the army, he worked as a book-keeper for a florist. He was the youngest in a Presbyterian family of six, with three older sisters. In 2014, his collection of photographs taken in the trenches were made available to the public in an Ulster Museum exhibition, and his life and photography became the subject of a BBC documentary, &#39;The Man who Shot the Great War&#39;.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Papers of George Hackney, Belfast, D3503/5/1-6-3</collection>
+                  <idno>https://letters1916.ie/item/729</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-09-21</date>
+              <placeName key="#letters1916_place-1288">Parkside, Upper Hale, Farnham, Surrey, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">George Hackney</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1546">31 Ward, 'D' Block, Wharncliffe War Hospital, Sheffield, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0729_img_2235_1"  type="Letter"  url="3ad7b63f7c5fbef17b8ad8c68735ac06.jpg"/>
+      <graphic xml:id="L1916_0729_img_2235_2"  type="Letter"  url="406d24b33c2ab5f4026fd36c9cdbcd01.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0729_img_2235_1"/>
+                at Parkside, Upper Hale, Farnham    21<hi rend="superscript">st Sept. '16</hi>    Your card dated 10<hi rend="superscript">th</hi> inst. <lb/>duly recd. &amp; I have been <lb/> expecting to get your <lb/>present add. ever since <lb/>however I shall risk this <lb/>card to your regt. We had one <lb/>of the Y.C.V's from Belfast (Carson <lb/>by name, here last week, he was <lb/>in a V.A.D: near, got wounded on <lb/>the 14<hi rend="superscript">th.</hi>I think he has got leave <lb/>now. Let me know where you <lb/> are &amp;how you are getting on. <lb/>No word from Tring lately. <lb/>Arthur expects soon to be on the <lb/>way out again. Oh I do wish I <lb/> could have seen our lovely old 'Tanks' <lb/>take the field. <seg type="closer"> Yrs.   <seg type="unclear">J. Jn. C</seg> </seg> 
+            <pb n="2" facs="L1916_0729_img_2235_2"/>
+                31 Ward  A. Block  Wharncliffe War Hosp  <hi rend="underline">Sheffield</hi>      Lce. Corp. George Hackney.  <seg type="del">B boy,</seg>  <hi rend="underline"><seg type="del">Fourteenth</seg></hi><seg type="del">(8) Batt. R.I.Rfles.</seg>  <seg type="del">B.Ex Force,</seg>  <seg type="del">France</seg>    
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4436">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas Abbot, 25 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Courtenay Abbot</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Thomas Abbott Abbot regarding the meeting of the Guardians of Fermoy Union and of the Fermoy Rural District Council. 
+
+Thomas Courtenay Abbott was the rector of Fermoy Church of Ireland in 1916. From 1919 until 1936 he would serve as the Archdeacon of Cloyne.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI/CSO/RP/1916/10802</collection>
+                  <idno>https://letters1916.ie/item/4436</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0827">Thomas Courtenay Abbot</persName>
+              <date>1916-06-25</date>
+              <placeName key="#letters1916_place-0798">Fermoy, Co. Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4436_img_3787_1"  type="Letter"  url="5fd1cf6239d44ec4936f086997dee34c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4436_img_3787_1"/>
+             The Rectory, <lb/>Fermoy, <lb/>Co. Cork.   June 25. 1916   Sir   In reply to your letter, <seg type="unclear">9574</seg> <lb/>of the 8<hi rend="superscript">th</hi> ins<hi rend="superscript">t</hi> I send herewith the <lb/>Consents of the Guardians of Fermoy <lb/>Union and of the Fermoy Rural <lb/>District Council to the removal <lb/>of the remains of M<hi rend="superscript">rs</hi>G Duggan <lb/>for re-interment in Mitchelstown <lb/>Churchyard.   Your <sic>obdt</sic> <sic>Serv<hi rend="superscript">t.</hi></sic> <lb/>T C Abbott   see minutes <lb/>below 
+         </ab>
+      </body>
+   </text>
+</TEI>

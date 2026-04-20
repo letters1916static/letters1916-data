@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0939">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mr Houlihan to the Under Secretary, 10 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Houlihan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Houlihan to the Under Secretary regarding medical certificates and statements from certain members of staff in connection with the Easter Rising.Sir Robert Chalmers was sent to Ireland as replacement under secretary for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-5616-11492, NAI-CSO-RP-1916-5616-11492</collection>
+                  <idno>https://letters1916.ie/item/939</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0311">Houlihan</persName>
+              <date>1916-05-10T00:00:00</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0939_img_2744_1"  type="Letter"  url="11dbfb1a1473c13efe734672433fbfd7.jpg"/>
+      <graphic xml:id="L1916_0939_img_2744_2"  type="Letter"  url="773e1fa01a3c203760e6f353b752bb5f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0939_img_2744_1"/>
+                National Health Insurance Commission,  Dublin.    <hi rend="underline"> 10th May, 1916.</hi>   Sir,   In continuation of their letter of the 6th instant, <lb/>I am directed by the National Health Insurance Commission <lb/>(Ireland) to supplement the observations contained therein <lb/>with the following further particulars regarding certain <lb/>members of the staff:â  A medical certificate is forwarded, herewith, in the <lb/>case of Boy Messenger McGinn; and statements from the folâ <lb/>lowing members of the staff are also enclosed, namely: â   Mr. John Houlihan, Secretary. <lb/>Mr. R. Sheridan, Examiner. <lb/>Mr. M. O'Connor, Second Division Clerk. <lb/>Mr. J. J. Paisley, Do. Do. <lb/>Mr. J. Haughey, Assistant Clerk. <lb/>Mr. T. J. Gibbs, Temporary Clerk. <lb/>Mr. W. MacKevitt, Do. Do. <lb/>Mr. T. Kelly, Do. Do. <lb/>Miss M. Kelliher, Woman Clerk. <lb/>Miss A. Ryan, Card Teller. <lb/>Miss D. Brennan, Typist. <lb/>Miss T. O'Loan, Do. <lb/>Miss A. McCorry, Do. <lb/>Miss G. Smyth, Do. <lb/>Miss A. Shott, Do. <lb/>Miss G. Sheehan, Temporary Female Clerical Staff. <lb/>Miss N, Gannon, Do. Do. <lb/>Miss K. Healy. Do. Do.  In the case of two assistant Clerks, Mr. F. J. Shouldice <lb/>and Mr. T. Cotter, special inquiries have been made, as the <lb/>Commission have some reason for thinking that the two <lb/>officers mentioned may have had some connection with the <lb/>Irish <seg type="del"> </seg> Volunteers. The two special reports on <lb/>those officers made by members of the staff who were <lb/>specially deputed to investigate personally their case are <lb/>attached.  The Under Secretary, <lb/>DUBLIN CASTLE.  
+            <pb n="2" facs="L1916_0939_img_2744_2"/>
+              No further information has been obtainable in the <lb/>caseof Mr. E. Maguire, Temporary Clerk, Mr. P. Moore, Messenger, <lb/>and Mr. T. Croke, Porter, special reports regarding whom <lb/>accompanied Mr. Kent's letter of the 6th instant.  One of the temporary female staff, Miss M.E. Pender, is <lb/>at present resident at 'Kilavalla', Borrisokane, Co. Tipperary, <lb/>and has furnished a medical certificate, dated the 3rd instant, <lb/>recommending sick leave for 10 days. <seg type="closer"> I am, Sir, <lb/>Your most obedient Servant,   <seg type="unclear">LM Houlihan</seg> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

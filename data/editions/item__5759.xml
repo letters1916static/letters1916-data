@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5759">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Patterson to the Home Office, 14 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Patterson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by William Patterson (b.1877), a dentist from Londonderry. The letter is concerned with the alleged death and criminal activities of Patrick Campbell (c.1873-1915), a housing agent from Londonderry.
+The letter alleges that Patrick Campbell was involved in criminal activities in connection with fraud and Derry building societies. Patterson mentions that due to circumstances following Campbell&#39;s death only one person saw his body and he therefore wants proof that Campbell is actually dead.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/4011</collection>
+                  <idno>https://letters1916.ie/item/5759</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1478">William Patterson</persName>
+              <date>1916-02-14</date>
+              <placeName key="#letters1916_place-2064">16 Great James&#39; Street, Londonderry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0034">Home Office</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5759_img_859_1"  type="Letter"  url="0d2e3dd7237b7b149dd453435af6f0fb.jpg"/>
+      <graphic xml:id="L1916_5759_img_859_2"  type="Letter"  url="b093de6f57eedc856b6084730792455c.jpg"/>
+      <graphic xml:id="L1916_5759_img_859_3"  type="Letter"  url="68f6c838a47067ed6c9bba93e0dcb1f7.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5759_img_859_1"/>
+             16, Great James' Street, <lb/>Londenderry,   Feby. 15<hi rend="superscript">th</hi> 1916   W<hi rend="superscript"><hi rend="underline">M</hi></hi> Patterson wishes <lb/>to bring before the <lb/>notice of the Home Office <lb/>a few particulars of <lb/>the alleged death <seg type="del">of</seg> <lb/>and reports in circulation <lb/>concerning <seg type="del">the</seg> a man <lb/>called Patrick Campbell <lb/>House agent Londonderry   This man formed <lb/>several Building Societies <lb/>and with the funds of one
+            <pb n="2" facs="L1916_5759_img_859_2"/>
+            called the New Century <lb/>he misused in some <lb/>way, and from reports <lb/>his position had become <lb/>most critical even under <lb/>threat of Writs it is <lb/>alleged ( I understand there <lb/>is some thousands of pounds <lb/>involved)   Now what is causing <lb/>much private comment <lb/>is the fact that this <lb/>M<hi rend="superscript"><hi rend="underline">r</hi></hi> Campbell very <lb/>suddenly takes ill, is <lb/>nursed, medically attended, <lb/>dies, and is buried <lb/>I believe in something <lb/>like a week   some reports to have it <lb/>that owing to the corpse <lb/>having turned <hi rend="underline">black</hi> no <lb/>one was allowed to see his <lb/>face   Though the man was <lb/>prominent in some ways <lb/>yet it is beyond a doubt <lb/>he has been a rogue <lb/>of the first water <lb/>and nothing should be <lb/>left to doubt that <lb/>there was something more <lb/>than a coffin buried <lb/>Such men must be <lb/>treated as <hi rend="underline">worst</hi> class <lb/>of criminals because
+            <pb n="3" facs="L1916_5759_img_859_3"/>
+            a criminal (in the sense) <lb/>only generally injures one person <lb/>or two, but Criminals of <lb/>this sort injure hundreds <lb/>and generally <hi rend="underline">escape free.</hi>   This is the second building <lb/>society Fraud in Derry <lb/>recently the other man did not <lb/>manage to die, he cleared <lb/>out of the country and the <lb/>law has never tryed to <lb/>bring him to justice   I am interested in the <lb/>New Century society to the <lb/>extent of £200 and would <lb/>be easy in mind to know <lb/>that a second fraud has not been managed. Certificates <lb/>will not satisfy the people .  Why are such men not classed <lb/>as criminals and followed to the ends <lb/>of the earth   WP 
+         </ab>
+      </body>
+   </text>
+</TEI>

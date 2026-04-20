@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4426">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Daniel Gordon to King George, 8 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Daniel Gordon</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Daniel Gordon to His Majesty King George asking for the monarch&#39;s help in freezing yearly hawker&#39;s licence for 2 years due to his blindness and struggle to support his family.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI/CSO/RP/1916/10955/2</collection>
+                  <idno>https://letters1916.ie/item/4426</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0913">Daniel Gordon</persName>
+              <date>1916-04-08</date>
+              <placeName key="#letters1916_place-1523">Flag Lane, Ballymena, co. Antrim, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">King George</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1677">Buckingham Palace, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4426_img_3778_1"  type="Letter"  url="794597eeb105191658aa243b3b48cf8d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4426_img_3778_1"/>
+              To His Imperial Majesty, King George V of Great Britain<lb/>and Ireland, Emperor of India.       Sir,   I must respectfully beg to bring before your notice my case<lb/>and to <sic>humly </sic>ask for the exercise of your royal <sic>prerogative</sic><lb/>and clemency.  Some years ago I lost my eyesight and am now totally<lb/>blind. I was, in consequence, unable to work and as I had a<lb/>family of four depending on me, there seemed to be nothing<lb/>for us but to go into the Workhouse.  Some kind people subscribed and bought a pony and<lb/>trap for me and with the help of my eldest son I have been<lb/>able to earn enough to support my wife and family by<lb/> selling artices delph &amp; through the country districts. To do so,<lb/>I paid five shillings for a peddlar's license, but now the<lb/>Customs and Excise authorities have notified me that I must<lb/>pay £2 yearly for a hawker's license.  This I am totally unable to do, and if I cannot go out<lb/>as heretofore to earn something for my wife and family<lb/>there is nothing for us but the Union Workhouse. I have always<lb/>paid my way fully and honestly, and now that I am blind<lb/>I am earnestly seeking some consideration from the authorities<lb/>in asking that, in the meantime, I may be allowed to follow my<lb/>occupation of hawking and so prevent sin of us becoming a<lb/>burden on the public funds.  In two years time I could pay a license, as then my<lb/>second child would be old enough to go out with me in the<lb/>cart, and thus release the eldest for earning money by work.  The police authorities or the magistrates of this town can<lb/>testify to the truthfulness of the statements I have made here.<lb/>I would, therefore humbly beg for the exercise of your royal<lb/>perogative in obtaining for me at least two years' exemption from<lb/>an impost that I cannot possibly pay.  I have the honour to be, Your Majesty's loyal and obedient subject,   Daniel Gordon , Flag Lane.<lb/>Ballymena, Co. Antrim, Ireland             
+         </ab>
+      </body>
+   </text>
+</TEI>

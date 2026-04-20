@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0945">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Workmen of the Urban Council to the Longford Urban District, 30 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from workmen of the Urban Council to the Longford Urban District requesting an increase of wages for the workmen due to increase of the cost of living.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Longford County Archives Service</repository>
+                  <collection>Longford Urban District Council, LUDC-1-3-1916-4-4</collection>
+                  <idno>https://letters1916.ie/item/945</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-03-30</date>
+              <placeName key="#letters1916_place-0047">Co. Longford, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-2059">Longford Urban District Council, Co. Longford, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0945_img_2760_1"  type="Letter"  url="c9f90434c083602e5d4a1ab39258bf07.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0945_img_2760_1"/>
+                Longford.    30<hi rend="superscript">th</hi><hi rend="underline">March</hi>1916   Gentlemen.   We the undersigned workmen of the <lb/>Urban Council beg to apply to you for an increase <lb/>to our weekly wages â  We need not speak of the increased cost of <lb/>living but as this is our last appeal we <lb/>trust that you will deal generously by us <seg type="closer">  Signed James Toole <lb/>Pat<hi rend="superscript">k</hi> Dunne <lb/>John Shea <lb/>John Hughes <lb/>Fred Dunnigan </seg><seg type="postscript"> It was unanimously agreed to give an <lb/>increase of 2/6 â  This makes the wages ÃÂ£1. per week for for <lb/>Toole, Hughes, Dunne and Dunnigan and <lb/>22/6 for Shea. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

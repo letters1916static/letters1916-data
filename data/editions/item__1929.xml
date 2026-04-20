@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1929">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from W. M. Chambers to J. J. Taylor, 22 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>W M Chambers</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from W. M. Chambers to J. J. Taylor in which the petition of a Ms Julia Conroy is discussed. Chambers explains how Conroy had asked him to write to Taylor and let him know that he knew her and explain her difficulties. Conroy is trying to obtain compensation for an injury that occurred while she was working in an Asylum. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/8753-2</collection>
+                  <idno>https://letters1916.ie/item/1929</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1518">W M Chambers</persName>
+              <date>1916-05-22</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">J. J. Taylor</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1929_img_1379_1"  type="Letter"  url="643d94c1b60d8a05fbdcf985dc557d8a.jpg"/>
+      <graphic xml:id="L1916_1929_img_1379_2"  type="Letter"  url="db9de3ce7098bff6816697caa5a51461.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1929_img_1379_1"/>
+             Mountmellick   May 22<hi rend="superscript"><hi rend="underline">nd</hi></hi> 1916  <lb/>J J Taylor Esqr.  M<hi rend="superscript">rs</hi>. Julia Conroy of <lb/>Garroon has sent in <lb/>a petition and has <lb/>asked me to write <lb/>you to say I know <lb/>her and she is a <lb/>most deserving case and <lb/>had been in the <lb/>county asylum when <lb/>she met with the accident <lb/>and received no compensation <lb/>hoping you will see <lb/>that she is compensated
+            <pb n="2" facs="L1916_1929_img_1379_2"/>
+            as her arm is quite <lb/>useless owing to the <lb/>accident.   Your <sic>obt</sic>Servant    W <hi rend="superscript">M</hi> <hi rend="underline">Chambers</hi>   Pending return of Fo6o <lb/>From I.L. Asylums <lb/>J.H. <lb/>23.V.16 
+         </ab>
+      </body>
+   </text>
+</TEI>

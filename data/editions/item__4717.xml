@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4717">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to Thomas Harloe Phibbs, 20 October 1919</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Thomas Harloe Phibbs ( 1872-1950) was the registrar of Sir Patrick Dun&#39;s Hospital.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-14-105</collection>
+                  <idno>https://letters1916.ie/item/4717</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1919-10-20</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas Harloe Phibbs</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0269">Sir Patrick Dun's Hospital, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4717_img_4053_1"  type="Letter"  url="c6907ef94844c6968beb55e8fea14ddd.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4717_img_4053_1"/>
+             20 October 19.   The Registrar, <lb/>Sir Patrick Dun's Hospital, <lb/>Dublin.   Dear Sir,   I beg to inform you that at the States Annual Meeting <lb/> of the President and Fellows of the Royal College of <lb/>Physicians of Ireland held on St. Luke's Day, 1919, the <lb/> following were elected: <lb/> President : James Craig, M.D., <lb/> 18 Merrion Square <lb/>Vice President V Censor: Alfred R. Parsons, M.D. <lb/> Lr. Fitzwilliam Street. <lb/> Censors : Sir Gordon F.R.C.P.I <lb/> 36 Morehampton road. <lb/> J. Spencer Shoill, F.R.C.P.I. <lb/>31 Up. Pembroke street. <lb/> W. Boxwell M.D., <lb/> <seg type="unclear">8</seg> Up. Hatch street,     Yours faithfully. 
+         </ab>
+      </body>
+   </text>
+</TEI>

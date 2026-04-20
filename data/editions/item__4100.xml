@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4100">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Carey to  John Langford, 30 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Carey</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Patrick Carey to John Langford regarding an offal contract with a local victualler, John Hurley. Enclosed with the letter is a copy of a letter sent to Margaret Hurley regarding a bond for the contract. 
+
+Patrick Carey (1853-1934) was the Union Clerk for the Killarney Poor Law Board of Guardians. Poor law unions and their workhouses were established by the Poor Law (Ireland) Act, 1838, as a response to widespread poverty, and were each governed by a Board of Guardians. This letter comes from the Killarney Poor Law Board of Guardians Minute Book.
+
+John Langford (1863-1930) served as the Killarney Workhouse master from 1899 to 1922. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry Library, Tralee</repository>
+                  <collection>Killarney Poor Law Board of Guardians BG104/B/4</collection>
+                  <idno>https://letters1916.ie/item/4100</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1557">Patrick Carey</persName>
+              <date>1915-11-30</date>
+              <placeName key="#letters1916_place-1721">Killarney, Co. Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John Langford</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1721">Killarney, Co. Kerry, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="death">1934</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4100_img_3478_1"  type="Letter"  url="de0a201dd74b857fbf90d3a8217dfd7f.jpg"/>
+      <graphic xml:id="L1916_4100_img_3478_2"  type="Enclosure"  url="dd32411ef80471ac2e67214d3241eb44.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4100_img_3478_1"/>
+             30th Novr.1915,  Re: Contract for Offal. <lb/><hi rend="underline">Contractor :Timy Hurley, deceased.</hi>  Dear Sir,   I enclose copy letter which I have today <lb/>addressed to Mr John Hurley, Surety for Contractor.   Yours faithfully,   Clerk of Council   J. Langford Esq, <lb/>Master Workhouse, <lb/>Killarney. 
+            <pb n="2" facs="L1916_4100_img_3478_2"/>
+             30th Novr. 1915  <lb/>Contract for Offal to 30th Sept 1915, <lb/>Tender accepted 28th Augt. 1915 <lb/><hi rend="underline">Rate: 6/3 per week.</hi>  Dear Madam,   You have not perfected bond for above <lb/>although repeatedly asked to do so. As this bond <lb/>will be required at the Audit of the Accounts I shall <lb/>thank you if you attend here with your sureties <lb/>tomorrow to sign it,   Yours faithfully,   Clerk of <seg type="del">Council</seg> Union,   Mrs Margt Hurley, <lb/>High St, <lb/>Killarney, 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0537">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from George A. Lyons to the Honorary Secretary of Sinn Féin, 5 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>George A. Lyons</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from George A. Lyons, Honorary Secretary, B. Company, Third Battallion, Irish Volunteers, to the Honorary Secretary of Sinn Féin inquiring about the cost of hiring a room on 29 April for a &#39;smoker&#39; or a recruitment event. George A. Lyons (d. 1950) fought in the Boland&#39;s Mill Garrison during Easter Week. He was imprisoned in Frongoch, Wandsworth and Lincoln. Prior to the rising Lyons had been a founding member of the Irish Republican Brotherhood and was an active participant in the War of Independence.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Allen Library, Br. Allen Collection, IE/AL/1916/7</collection>
+                  <idno>https://letters1916.ie/item/537</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0133">George A. Lyons</persName>
+              <date>1916-04-05</date>
+              <placeName key="#letters1916_place-0729">144 Great Brunswick Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Honorary Secretary, Sinn Féin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0036">Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0537_img_1916_1"  type="Letter"  url="c368167d08fe9f0d8946892ba2ec09c4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0537_img_1916_1"/>
+                B. Coy--- Third Battalion I.V.  144 Gt. Brunswick St.    5 4/16   A Chara,    The above propose holding <lb/> a 'smoker ' on Sat. 29th inst. <lb/> and would like to know for <lb/> what figure they could have the <lb/> use of your room if then vacant <seg type="closer"> Yours Fraternally, <lb/> Geo. A. Lyons <lb/>Hon. Sec.<lb/> The Hon. Sec.<lb/>Sinn Fein.</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

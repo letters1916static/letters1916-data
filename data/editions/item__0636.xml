@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0636">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from W. H. Grattan Flood to Bishop E. T. O'Dwyer, 15 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Henry Grattan Flood</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Dr William Henry Grattan Flood (1859-1928) to Bishop Edward Thomas O’Dwyer (1842-1917). In this letter Flood offers the bishop his congratulations on a reply O’Dwyer delivered to the Limerick Congregation upon receiving the freedom of Limerick city. As an expression of his admiration Flood encloses a copy of his recently published History of the Diocese of Ferns.Bishop Edward Thomas O’Dwyer served as the Bishop of Limerick from 1888 to his death in 1917. Flood was an Irish musician and historian. He was also vice-president of the Irish Folk Song Society and president of the music section of the Celtic Congress. His work as editor of the Armagh Hymnal (1915) received many tributes, including praise from Pope Benedict XV, and he received the cross Pro Ecclesia et Pontifice.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Limerick Diocesan Archive</repository>
+                  <collection>LDA/BI/ET/M/6</collection>
+                  <idno>https://letters1916.ie/item/636</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1401">William Henry Grattan Flood</persName>
+              <date>1916-09-15</date>
+              <placeName key="#letters1916_place-0168">Rosemount, Enniscorthy, County Wexford, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1500">Edward Thomas O&#39;Dwyer</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0556">Limerick, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0636_img_2106_1"  type="Letter"  url="c4d8b28755c7c80741fd904e59de9019.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0636_img_2106_1"/>
+               ROSEMOUNT <lb/> ENNISCORTHY    15 Sept. 1916.    My dear Lord Bishop,   Will you permit me to <lb/> offer you my heartiest congratulations <lb/> on the splendid reply you delivered <lb/> to the Limerick Congregation on <lb/> receiving the freedom of the city. <lb/> It was worthy of an Irish Bishop <lb/> of the olden time - one it completely <lb/> coincides with my own views on the <lb/> present deplorable situation. <lb/> Pray accept accompanying copy <lb/> of my recently published <hi rend="underline">History.<lb/> of the Diocese of Ferns</hi> as a small <lb/> expression of my admiration for <lb/> Your Lordship's outspoken utterances  <seg type="closer"> Yours faithfully  W. H. Grattan Flood <lb/> Mus. D., K. S. G.</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

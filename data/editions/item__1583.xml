@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1583">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Reginald Brabazon (Earl of Meath) to Lord Clonbrock, 19 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Reginal Brabazon (Earl of Meath)</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from Reginald Brabazon, 12th Earl of Meath (1841-1929), to Luke Gerald Dillon, 4th Baron Clonbrock. Meath thanks Clonbrock for his donation of £10 to the Irish Police &amp; Constabulary Recognition Fund.
+The Irish Police &amp; Constabulary Recognition Fund was founded by Meath to recognise the work of the police during the Easter Rising. It presented certificates, war bonds and awards to policemen who were in active service in the Royal Irish Constabulary or Dublin Metropolitan Police during the Rising and compensation to the widows and dependants of those killed or injured.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No 54; Ms. 35,766 (12) </collection>
+                  <idno>https://letters1916.ie/item/1583</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1012">Reginal Brabazon (Earl of Meath)</persName>
+              <date>1916-09-19</date>
+              <placeName key="#letters1916_place-2089">Kilruddery, Bray, County Wicklow</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lord Clonbrock</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1929</item>
+               <item n="tag">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1583_img_105_1"  type="Letter"  url="70303e1d745a5a034c2ddf4eed648799.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1583_img_105_1"/>
+             Kilruddery,<lb/> Bray,<lb/> Ireland   Sept 19. 1916   My dear Clonbrock,   Many thanks for so kindly<lb/> responding to my appeal and<lb/> for sending me a cheque<lb/> for £10: towards the Irish<lb/> Police and Constabulary<lb/> Recognition Fund.   Yours respectfully  Meath
+         </ab>
+      </body>
+   </text>
+</TEI>

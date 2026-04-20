@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0158">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Langan to Sir Matthew Nathan, 6 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Langan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from James Langan (b. 1873), a collector in the Excise Branch of the Customs House, to Sir Matthew Nathan (1862-1939). Langan writes that he will be forwarding the statements of 106 officials from the Dublin Excise Collection as to their whereabouts during the Easter Rising. Langan adds that due to the office remaining closed until Thursday and the restricted postal facilities he is missing ten statements which will be forwarded on later.Sir Matthew Nathan was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/7720/1</collection>
+                  <idno>https://letters1916.ie/item/158</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0840">James Langan</persName>
+              <date>1916-05-06</date>
+              <placeName key="#letters1916_place-0211">Customs House, Dublin, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0158_img_1287_1"  type="Letter"  url="1d4a49c28ad4717c86c3ee7f5494b046.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0158_img_1287_1"/>
+                CUSTOMS AND EXCISE OFFICE,  Excise Branch,  Custom House, Dublin.    6 May, 1916   Sir,   In compliance with your letter dated the 1st. May, I beg to <lb/> forward statements made by 106 officials in Dublin (Excise) <lb/>Collection.  As this office was not reopened until Thursday <lb/> the 4th. instant, I did not receive the above letter until that <lb/> day; and in view of the restricted Postal facilities, the time <lb/> between Thursday and Saturday at noon is scarcely sufficient for <lb/> getting statements from the whole of the officials who are scattered <lb/> all over the Dublin area from Clontarf to Rathmines, and Chapelizod <lb/> to Pembroke. I am consequently unable to send statements from <lb/> ten  officials, but these will be forwarded later on.  So far as I can ascertain I believe the statements now <lb/>forwarded give correct accounts of the movements of the persons <lb/> concerned.  I beg to point out that there are two Collectors of Customs <lb/> and Excise with offices in this building, and I am informed that <lb/>the Collector of the Customs Branch has not been favoured with a <lb/>copy of the letter of the 1st. instant. As this may be due to <lb/> oversight I feel it right to mention the matter. <seg type="closer"> I am, Sir, <lb/>Your obedient servant  J. Langan <lb/>Collector (Excise)   Sir Matthew Nathan  Chief Secretary's Office  Dublin Castle.  </seg> I Send copy of letter of <lb/>1<hi rend="superscript">st</hi> inst. to Collector of C&amp;Ex., <lb/> Customs Branch. <lb/> II Chief Commissioner <lb/> 8/5/16   
+         </ab>
+      </body>
+   </text>
+</TEI>

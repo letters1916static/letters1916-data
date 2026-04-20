@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0122">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Marie Martin to Mary Martin, 27 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Marie Martin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Marie Martin (1892–1975) to her mother Mary Martin. The letter mainly refers to family members, including a brother Tommy who is fighting in the war. She also notes a rumour of the hospital may close for the winter. The letter ends with a request for two photos.Marie Helena Martin later known as &#39;Mother Mary&#39;, was a volunteer nurse during the First World War. She served in field hospitals in Malta, Leeds, and France working for the British army and later went on to become the founder of the Medical Missionaries of Mary (MMM).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Medical Missionaries of Mary</repository>
+                  <collection>Medical Missionaries of Mary, B/F/1/65/09/27</collection>
+                  <idno>https://letters1916.ie/item/122</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0709">Marie Martin</persName>
+              <date>1916-09-27</date>
+              <placeName key="#letters1916_place-0769">France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mary Martin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0361">Greenbank, Monkstown, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0122_img_1206_1"  type="Letter"  url="8850cebbcdf2caa732d1fedcd92de7e2.jpg"/>
+      <graphic xml:id="L1916_0122_img_1206_2"  type="Letter"  url="57ae7266c50467a1e0b0996dd747eefa.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0122_img_1206_1"/>
+              B/F/1/65    <hi rend="underline">27-9-16</hi>   My very dearest Mother,   Just a very short <lb/> note to thank you for your letter. <lb/><sic>Iam</sic> so glad to hear all is going <lb/> well with you all &amp; that Desmond Maries's 9 year old brother <lb/> is getting on alright. Is Ritchie Marie's 13 year old brother <lb/> going back to Downside or are <lb/> you keeping him at home.  <sic>I</sic> will be very nice if Cyril &amp; <lb/> all are in the Army Class with <lb/> Jack but in one way I think <lb/> it would be just as well if they <lb/> were not all <sic>to gether</sic> as I do <lb/> not think any of that lot are <lb/> extra fond of workâ <sic>at</sic> the <lb/> same time it may make more <lb/> competition. <sic>Ihope</sic> Uncle Frank <lb/> is <sic>something</sic> better. I cannot  
+            <pb n="2" facs="L1916_0122_img_1206_2"/>
+              bear to think <sic>ofhim</sic> an <sic>invalide</sic>. <lb/> Oh if we could only get Tommy <lb/>homeâ  I am feeling A1&amp; the weather <lb/> has been gorgeous these last two <lb/> days, I am still spring cleaning <lb/> in empty Tents which is very <lb/> boring. We are living in a <lb/> very <sic>unsettle</sic> state here at present <lb/> one rumour is that this Hospital <lb/> will be <sic>close</sic> for the Winter as <lb/> it would be nearly impossible <lb/> to work in the tents. I wonder <lb/> what will happen I only know <lb/> we are not filling so quickly <lb/> as we expected. If you have <lb/> two of my Photos to spare please <lb/> send me two outâ Now must <lb/> end for to-day with my fondest <lb/> love to every one.  <seg type="closer"> Yours ever.  Marie </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

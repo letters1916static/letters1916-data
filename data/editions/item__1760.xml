@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1760">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward W. Mooney to Augustine Birrell, 4 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward W. Mooney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Reverend Edward W. Mooney (b. 1846), an Irish Catholic priest to Augustine Birrell (1850-1833), the chief secretary of Ireland. The letter is written in the context of the death of the chief crown solicitor Malachy Kelly (1850-1916). The letter acknowledges the vacant position and the application of Charles P. O&#39;Neill (b. 1867), a solicitor based in Dawson Street Dublin and member of the Irish Parliamentary Party for the position. In the letter Mooney recommends O&#39;Neill as his priest, stating he is responsible, respectful and confident. He also notes that O&#39;Neill is a good friend of John Redmond (1856-1918) leader of the Irish Parliamentary Party. Mooney ends asking of a pardon for his intrusion  </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland </repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/5729/9</collection>
+                  <idno>https://letters1916.ie/item/1760</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0266">Edward W. Mooney</persName>
+              <date>1916-04-04</date>
+              <placeName key="#letters1916_place-0051">St. John&#39;s Priory, St. John&#39;s Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0534">Augustine Birrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0350">Chief Secretary's Office, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1917</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1760_img_1216_1"  type="Letter"  url="5f9241fefab39ccb4eb0a15c969d8876.jpg"/>
+      <graphic xml:id="L1916_1760_img_1216_2"  type="NULL"  url="9d73b1fd1b5ae9cc41672e03b661e976.jpg"/>
+      <graphic xml:id="L1916_1760_img_1216_3"  type="NULL"  url="153f1ffdf1040ac2982b2d5b724ab878.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1760_img_1216_1"/>
+             S<hi rend="superscript"><hi rend="underline">t</hi></hi> John's Priory, <lb/>S<hi rend="superscript"><hi rend="underline">t</hi></hi> John Street, W. <lb/>Dublin.   April <hi rend="underline">4<hi rend="superscript">th</hi></hi>. '16   Right <sic>Honorable</sic> and Dear Sir,   I understand that Mr. Charles <lb/>P.O'Neil, Solicitor, Dawson Street, <lb/>is a candidate for the Crown- <lb/>Solicitorship rendered vacant by <lb/>the lamented death of Sir Malachy <lb/>O'Kelly. As you will likely have <lb/>to deal with his application may <lb/>I take the liberty of laying before <lb/>you an appreciation of the Clergy <lb/>of his Church. He has our fullest <lb/>confidence, esteem and respect. 
+            <pb n="2" facs="L1916_1760_img_1216_2"/>
+             We look upon him as an <lb/>honest, <sic>honorable</sic> and highly- <lb/>gifted member of the legal <lb/>Profession. He is a firm upholder <lb/>of Law and Order, a friend of <lb/>John Redmond and the National <lb/>Party and consequently an ardent <lb/>and <seg type="unclear">strenuous</seg> Supporter of the Government.   We firmly believe that if appointed <lb/>to the High Office, now vacant, He will <lb/>discharge its various duties as <lb/>conscientiously and efficiently <lb/>as his predecessor. 
+            <pb n="3" facs="L1916_1760_img_1216_3"/>
+             Hoping you will kindly <lb/>pardon my intrusion   I beg to remain, <lb/>Right <sic>Honrable</sic> Sir, <lb/>Your obedient Servant   (Rev) Edward W. Mooney  <lb/><hi rend="underline">S. Prior</hi>
+         </ab>
+      </body>
+   </text>
+</TEI>

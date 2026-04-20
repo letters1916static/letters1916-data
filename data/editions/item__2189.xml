@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2189">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J. Houlihan to Sir Robert Chalmers, 8 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J. Houlihan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was addressed to the Under-Secretary for Ireland, Sir Robert Chalmers (1858-1938). Chalmers was sent to Ireland as under-secretary, replacing Sir Matthew Nathan who had resigned along with Augustine Birrell , his chief secretary following the Easter Rising in 1916. 
+The letter concerns the prosecution of Mr William Hastings for non-compliance with the provisions of the National Insurance Acts.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/9743</collection>
+                  <idno>https://letters1916.ie/item/2189</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0993">J. Houlihan</persName>
+              <date>1916-06-08</date>
+              <placeName key="#letters1916_place-0593">National Health insurance Commission, Dublin, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0268">Dublin Castle, Dublin, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2189_img_1635_1"  type="Letter"  url="4be2a49c1d714ccaf7e9a4af3e95c6ea.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2189_img_1635_1"/>
+             National Health Insurance Commission, <lb/>Dublin.   <hi rend="underline">8th June</hi> 191<hi rend="underline">6</hi>.  <lb/>No. 46,060/1915.  Sir,   I am directed by the National Health Insurance <lb/>Commission (Ireland) to state, for the information of <lb/>His Excellency the Lord Lieutenant, that a prosecution <lb/>for non-compliance with the provisions of the National <lb/>Insurance Acts has been instituted against Mr.William <lb/>Hastings of Ballinasloe and the case is fixed for <lb/>hearing on the 17th instant. Our local Solicitor is <lb/>of the opinion that it would be desirable, if possible, <lb/>to have a Resident Magistrate in attendance at the <lb/>Ballinasloe Petty Sessions on the day named and he has <lb/>requested this Commission to make representatives to <lb/>that effect to the Lord Lieutenant.   I am, Sir, <lb/>Your obedient Servant,   John Houlihan   The Under Secretary, <lb/>Dublin Castle. 
+         </ab>
+      </body>
+   </text>
+</TEI>

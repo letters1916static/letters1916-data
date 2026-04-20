@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1418">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Captain, Richmond Barracks to Mabel FitzGerald, 14 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Captain, Richmond Barracks</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A Letter from the captain in Richmond Barracks to Mabel FitzGerald (née Washington McConnell) (1884-1958), wife of politician and intellectual Desmond FitzGerald (1888-1947). The captain writes on behalf of the provost marshal to advise Mrs FitzGerald that her husband is detained at Richmond Barracks. He outlines visiting hours and says that every facility is being given to him to order food and write letters.Mabel was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington (1878 -1916) during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1574/1</collection>
+                  <idno>https://letters1916.ie/item/1418</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1465">Captain, Richmond Barracks</persName>
+              <date>1916-05-14</date>
+              <placeName key="#letters1916_place-0863">Richmond Barracks, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0778">22 Loretto Villas, Bray, County Wicklow, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1418_img_829_1"  type="Letter"  url="8a98ca821d5fe8c4be3dfc933efee799.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1418_img_829_1"/>
+                Richmond Barracks,  Dublin.    14<hi rend="superscript">th</hi> May, 1916.   Madam,   Your husband, Mr. Desmond Fitzgerald, is in Detention Rich- <lb/>mond Barracks, Dublin. You can visit him on Mondays, Wednesdays and <lb/> Fridays between the hours of 10 and 11 a.m. Every facility is being <lb/> given to Mr.Fitzgerald to order food and write letters, etc. <seg type="closer"> Yours truly,  MD <lb/>Captain, <lb/>for Provost Marshal. <lb/>Mrs. Fitzgerald, <lb/>Bray.</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

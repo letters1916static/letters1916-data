@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0579">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Chris Ryan to James Ryan, 13 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Chris Ryan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Chris Ryan (1890–1976) to her brother James Ryan (1891-1970) during his imprisonment. In the letter, she notes that as the other sisters are occupied, she is left to do the correspondence and refers mainly to family matters. She assumes that James will not be released in time for her wedding. She is delighted at the release of their sister Kate, who was arrested after the Rising. Their sister Nelly had not yet been released.James Ryan was chief medical officer in the GPO during the Easter Rising. After the Rising he was imprisoned in Stafford and, later, Frongoch, and was released in August 1916. He was later a founder member of Fianna Fáil and a government minister.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>James Ryan Papers, P88/14</collection>
+                  <idno>https://letters1916.ie/item/579</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0934">Chris Ryan</persName>
+              <date>1916-06-13</date>
+              <placeName key="#letters1916_place-1300">19 Ranelagh Road, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0447">James Ryan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0579_img_198_1"  type="Letter"  url="2904ffc1a2f77b0a35cf29c677469de4.jpg"/>
+      <graphic xml:id="L1916_0579_img_198_2"  type="Letter"  url="f711aacc7153b664415637b0ad48bf5e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0579_img_198_1"/>
+                19 Ranelagh Road,    June 13. '16.   My dear Jim,   Min is gone to a meeting. Kit<lb/> is making out papers, Phyllis is studying<lb/> and so I â the unoccupied member of<lb/> the household are doing the correspondence.<lb/> I suppose I needn't tell you why I<lb/> came to Dublin â Michael was up!<lb/> He went back today and we are not<lb/><lb/> to meet again it appears until the<lb/> 8<hi rend="superscript"><hi rend="underline">th</hi></hi> August when I change my name.<lb/> Our wedding is to be very private â<lb/> owing to the recent war! â so I suppose<lb/> you'll hardly be asked unless you<lb/> are back home which indeed I hope you will be.  We are all delighted at Kit's release.<lb/> She looks well and is busy at work<lb/> again. She is the regular heroine in<lb/> Dublin and in the University now.<lb/> Students rejoice to see her and to shake<lb/> her hand. It is splendid her work<lb/> is all right again anyway and her <lb/>salary too. Nell isn't yet released and  
+            <pb n="2" facs="L1916_0579_img_198_2"/>
+              we expect her anytime. It is too bad<lb/> she isn't out with Kit but its just<lb/> some neglect and please God she'll<lb/> be out very soon. Min is going to<lb/> London tomorrow night unless any<lb/>thing else happens. She will then<lb/> go to see you some day very soon and<lb/> tell you all the news and all about<lb/> her new plans. I am sure you will<lb/> be glad to see some one from home<lb/> again. I hope you are quite cheerful<lb/> and making the best out of life.<lb/> You'll get a great welcome when you<lb/> come back. Maybe it's in Galway<lb/> I'll be welcoming you! Agnes and<lb/> I saw Paddy Kehoe in Enniscorthy<lb/> on Thursday. He was the very same<lb/> except that he has shaved off his<lb/> moustache.  Dublin is very lonely for you all.<lb/> The only outlet of enthusiasm approaching<lb/> the <seg type="foreign">Ceilidhs</seg> of old are the requiem<lb/> masses at all the churches these<lb/> days. It is wonderful. There was<lb/> no rising on Whit Monday â a great dis<lb/>appointment to those in readiness. <seg type="closer"> Much love from all   Chris </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

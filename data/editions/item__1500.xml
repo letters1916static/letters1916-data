@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1500">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from Tom Dolan to his father, 11 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Tom Dolan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a postcard sent by Thomas Dolan in Dublin to his father in Derby, England. The postcard was written on 11 May, the day before the final executions of the leaders of the Rising. Tom writes to ensure his father that he is safe and to let him know that he will be staying in Dublin over the summer. The postcard is an image of the destroyed interior of the General Post Office on Sackville (O&#39;Connell) Street. Tom Dolan was enlisted with the British Army at the time of the 1916 Rising. At the time this card was written he was serving in Dublin. Having taken part in the suppression, he would go on to serve in Belgium, where he was killed in action on the opening day of the second battle of Passchendaele, 26 October 1917.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Liam Smith</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/1500</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1295">Tom Dolan</persName>
+              <date>1916-05-11</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mr Dolan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1441">22 Western Road, Derby, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1500_img_958_1"  type="Letter"  url="22721ed2ad9346813e458e067a914a84.jpg"/>
+      <graphic xml:id="L1916_1500_img_958_2"  type="Letter"  url="078e4b11970acec9e0cf4c595774c0b4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1500_img_958_1"/>
+                  Mr Dolan  22 Western Rd  Derby  England        May 11<hi rend="superscript">th</hi> 1916   Dear Dad,   Just a line<lb/> to let you know<lb/> I am alright. It looks<lb/> as if we shall be<lb/> here this summer. <lb/> worse luck. Its such a<lb/> long way from home <seg type="closer"> Your loving son  Tom </seg>  
+            <pb n="2" facs="L1916_1500_img_958_2"/>
+               After the Insurrection â Interior General Post Office, Dublin.   
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0718">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J.Robin, 1 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Robin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A report on the trench periscope that Lieutenant John Robin (d.1918) of the Machine Gun Corp was asked to try. Lt Robin stated he had used the periscopes at Gallipoli where it is &#39;all trench warfare&#39; and found &#39;no fault with them&#39;. They saved lives by preventing head wounds where there was such a prevalence of enemy snipers. His only recommendation was that the dark glass at the bottom of the periscope be replaced with clear as the dark glass made sighting the enemy slower and more difficult. This letter is part of a large correspondence from Captain James Davidson. Davidson, who was Managing Director of the Sirocco Engineering Works in Belfast, served with 13 Royal Irish Rifles and the Machine Gun Corps.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Davidson Family Papers, D3642/D/8</collection>
+                  <idno>https://letters1916.ie/item/718</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1488">John Robin</persName>
+              <date>1915-12-01</date>
+              <placeName key="#letters1916_place-1221">B.M.G.O. 31st Infantry Brigade, X Division, Servia</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0718_img_2221_1"  type="Letter"  url="be5329aa542a7dafd2ae3a25a3a8347e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0718_img_2221_1"/>
+              The undernoted is a copy of letter received from Machine Gun Office<lb/> Lieut J Robin of 31st Infantry Brigade 10th Division as written by<lb/> him from Servia.    Servia    1st December 1915    Extract from letter  <hi rend="underline">B M G O 31st Inf. Brig. X Div.</hi>: 'I had the original periscopes <lb/>in daily use in the trenches in Gallipoli where it was all <lb/>in trench warfare and candidly speaking I have found no fault <lb/>in them, on the other hand I can only praise them. If we <lb/>had not had these attachments I am certain we should have <lb/>had many of our men suffering from head wounds from the many <lb/>snipers bullets flying around. The only thing I might men- <lb/>tion is I do not consider the dark glass in the bottom frame <lb/>is absolutely essential, as a matter of fact when we had to <lb/>open fire quickly on a given position I preferred the clear <lb/>glass as one can sight much quicker and further with the <lb/>clear glass and I do not think the attachment is given away <lb/>in the least. Our original attachments were greatly smashed <lb/>up and I had to patch them up with the clear glass and our <lb/>position was never observed. Many M/G Os of the other units <lb/>have seen the attachment and asked me if they could not get <lb/>them.  In Egypt they are using some other sort of attachment but I <lb/>was speaking to an officer recently returned from there and <lb/>he said these were the best he had seen.' <seg type="closer"> J Robin <lb/>B M G O 31st Inf. Brig. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

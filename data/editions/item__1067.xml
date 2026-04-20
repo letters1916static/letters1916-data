@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1067">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Nannie Beazley (née Hickey) to Piaras Béaslaí, 14 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Nannie Beazley</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Nannie Beazely, who was based in the English midlands, to her son, Piaras Béaslaí (1881–1965). The German navy had carried out a large raid across the English midlands on the night of the 31 of January. People dimmed their lights to avoid destruction from further Zeppelin raids as a response. The conscription mentioned refers to the Military Service Act of 1916 that conscripted men between the ages of 18 and 40, fighting age, into the British Army. Married men were originally exempt but the bill changed in June 1916 to include them. John Castlereagh may be Viscount C S H Castlereagh, originally Captain of the Royal Horse Guards, promoted to Major in the General Staff. He was awarded the 1914 Star. This letter is part of a collection of letters by Piaras’ parents, mostly during Béaslai’s internment. Béaslaí was an English born influential member of the IRB. In February of 1916 he published the Fàinne, a publication to organise Gaelic speakers. He soon abandoned it and became involved in politics and would later fight in the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>, NLI 33,973/5</collection>
+                  <idno>https://letters1916.ie/item/1067</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0676">Nannie Beazley</persName>
+              <date>1916-02-07</date>
+              <placeName key="#letters1916_place-1070">Cheshire</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Piaras Béaslaí</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1067_img_32_1"  type="Letter"  url="0b075ff2fdf36e8074ce9e433ec94b94.jpg"/>
+      <graphic xml:id="L1916_1067_img_32_2"  type="Letter"  url="78d1a83e6e52f1af2ba4e1e2494d4923.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1067_img_32_1"/>
+                'Glengariff.'  Rudgrave Square,  Egremont,  Cheshire.    Feb 14 â 1916   Darling Pierce   Many happy returns <lb/> of the day! I am at a <lb/> loss to know what to send <lb/> you; but I think this <lb/> little gold safety pin, with <lb/> a real ruby, will come <lb/> in handy, &amp; will not get <lb/> lost so easily as the <lb/> ordinary pin. They are <lb/> much worn here.   
+            <pb n="2" facs="L1916_1067_img_32_2"/>
+              We have queer times <lb/>here now. Darkness <lb/> every where for fear of the <lb/><seg type="del">bogie</seg> 'bogie man overhead'. <lb/> Not a gas jet in the <lb/> streets, &amp; the houses all <lb/> blinded up.   Oh dear! What a <lb/> time it is! Conscription <lb/> commences in March <lb/>&amp; all must come in <lb/> married &amp; single of <lb/>fighting age.  <cb/> I predict that John <lb/> Castlereagh is going <lb/>in for a title.   God bless you my <lb/>darling boy, &amp; may every <lb/>blessing &amp; grace be yours.   Take care of your health. <seg type="closer"> Fond love from  Mother </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

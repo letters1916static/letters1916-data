@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6733">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Padraic Colum to John Quinn, August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Padraic Colum</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Padraic Colum (1881–1972) to John Quinn (1870-1924), discussing Quinn’s article in the New York Times, 13 August 1916. Colum was renowned playwright, poet, and novelist from County Longford, who had immigrated to America in 1914. John Quinn was a lawyer in New York, the son of Irish immigrants who maintained close ties with Ireland during his life through his patronage of the arts. In the letter, Colum commends Quinn’s loyalty to the Irish nationalist movement and in return he sends Quinn a couple of verses of a poem describing Casement’s execution.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>New York Public Library Manuscripts and Archives Division</repository>
+                  <collection>John Quinn Memorial Collection, Box 7, f.4</collection>
+                  <idno>https://letters1916.ie/item/6733</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0169">Padraic Colum</persName>
+              <date>1916-08</date>
+              <placeName key="#letters1916_place-1813">107 Waverly Place, New York City, US</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1279">John Quinn</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0945">31 Nassau Street, New York, US</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1972</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6733_img_None_1"  url="phpXZO2bF.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6733_img_0_1"/>
+             Aug 24, 1916   107 Waverley Place,<lb/>City,<lb/>Spring 5490.   2N15   Dear Mr Quinn,   I wanted to write to you for some time past about your article<lb/>on Casement. Believe me that I was very much moved and very much impress-<lb/>ed by it - it is written with the fervour of friendship, and it is good<lb/>to know that Casement could inspire such loyalty. I know your article will<lb/>have the best effect on people who would be disposed to question his<lb/>character and his motives. More than any other article connected with the<lb/>insurrection I am glad that yours was written.  I send you some verses I wrote about his end. I have given them<lb/>to Frank Harris for Pearson's  With all good wishes,   Very sincerely yours<lb/>Padraic Colum  
+         </ab>
+      </body>
+   </text>
+</TEI>

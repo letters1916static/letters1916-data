@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3138">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Celia Duffin to her mother, 15 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Celia</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is part of a rich correspondence between various members of the Duffin family, a large prosperous family living in Strandtown, Belfast. Several family members served in the war, including Major Terence Duffin, who served as a staff officer with 107 Brigade, and later with Royal Irish Rifles; Major Charles G Duffin MC, Royal Field Artillery; and their sisters Emma, Celia and Dorothy who served as Voluntary Aid Detachments (VADS) in Egypt and France, and with the YMCA.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>D2109/9/4/B/21</collection>
+                  <idno>https://letters1916.ie/item/3138</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1014">Celia</persName>
+              <date>1915-11-15</date>
+              <placeName key="#letters1916_place-1020">5 Heathfield Rd, Handsworth SW</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0664">Maria Duffin</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3138_img_2556_1"  type="Letter"  url="2a5293af94a80fe13302fdda0091576e.jpg"/>
+      <graphic xml:id="L1916_3138_img_2556_2"  type="Letter"  url="ec38a3e29d7aa86b1a491b07502f0dd5.jpg"/>
+      <graphic xml:id="L1916_3138_img_2556_3"  type="Letter"  url="34bb2da64f00a7e717855d483f57100f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3138_img_2556_1"/>
+             5 Heathcliff Rd, <lb/>Wandsworth SW   <hi rend="underline">Wednesday</hi> <lb/> 14-15 Nov 1915    Dearest Mamma   Just a line here to tell you I am <lb/> in bed with a stiff neck. They thought <lb/>it was mumps yesterday so I was <lb/>hurried into quarantine here, but <lb/>a funny big red-faced Captain came <lb/>and looked at me yesterday and <lb/>pronounced it merely rheumatic. <lb/>In the meantime I stay in <lb/>bed, very comfortable with a <lb/>fire and Sister <seg type="unclear">Brenden</seg> looks
+            <pb n="2" facs="L1916_3138_img_2556_2"/>
+            after me. It only came yesterday <lb/>and I don’t suppose will last <lb/>long, but I have a bit of a <lb/>chill all through me.   No more now as it makes <lb/>my neck ache to sit up in <lb/>bed, I am well looked after. <lb/>This is great news about D., I <lb/>am glad and hope  he  is very <lb/>nice, she sounds happy <lb/>any way. I am longing to
+            <pb n="3" facs="L1916_3138_img_2556_3"/>
+            see him, and I'm sure <hi rend="underline">you</hi> are.   Ever so many thanks for the <lb/>rug, you are far too good, I <lb/>wish you hadn’t sent me such <lb/>a nice one, it is far too good.   Best love, <lb/>from   Celia  <seg type="del">Woul</seg>
+         </ab>
+      </body>
+   </text>
+</TEI>

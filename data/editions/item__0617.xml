@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0617">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Johnson to the chief secretary, 14 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Johnson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from William Johnson, a Newry based solicitor, and is addressed to the chief-secretary. Augustine Birrell (1850-1933), was the chief secretary for Ireland from 1907 until 1916. He resigned as chief-secretary in the aftermath of the Easter Rising, for which he accepted responsibility.In the letter, Johnson writes on behalf of the Executors of Mrs. Mary Campbell, of Warrenpoint County Down, deceased. Mrs. Campbell was interred in a grave thought to be that of her late husband but her husband’s relatives have objected to her being interred there. Thus the Executors want to have the remains exhumed and re-interred in a different plot and they require the Chief Secretary’s approval.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/6717</collection>
+                  <idno>https://letters1916.ie/item/617</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0757">William Johnson</persName>
+              <date>1916-04-14T00:00:00</date>
+              <placeName key="#letters1916_place-1689">Marcus Square, Newry, County Down, Northern Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0534">Augustine Birrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0617_img_2035_1"  type="Letter"  url="77f06a89d578860afa2f557019c0b7c3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0617_img_2035_1"/>
+                6 Marqus Square  Newry    14th April, 1916   Dear Sir,   Mary Campbell late of <sic>Warrenpointin</sic> the County <lb/>of <hi rend="underline">Down, Widow, deceased.</hi>  The aboveânamed deceased died at Warrenpoint on the 16th Februaâ <lb/>ry 1916 and I act for her Executors â Mr. James Kelly, Newry St. Warrenâ <lb/>point, Master Carter and Mr. John Crawford, The Square, Warrenpoint, Merâ <lb/>chant â to whom the Probate of the Will of deceased has been granted.   Mrs. Mary Campbell was interred in the Roman Catholic Buryingâ <lb/>ground attached to the Burren Roman Catholic Church and situate in the <lb/>Townland of Burren. She was interred in the grave supposed to belong <lb/>to her late Husband, but it appears the grave in which she was interred <lb/>is claimed by some of the relatives of her late Husband and they obâ <lb/>ject to the body remaining there.   The Executors, under the circumstances, do not wish any unpleasantâ <lb/>ness about the matter and they are desirous of lifting the coffin and <lb/>having the coffin with the remains interred in fresh ground in the <lb/>Burren Roman Catholic Graveâyard, which has been allocated to them for <lb/>that purpose.   Will you be good enough to make an Order giving the Executors <lb/>power to take the coffin with the body out of the existing grave and <lb/>put it in a new grave in the same graveâyard.   My authority for making this request is O'Connor's Justice of <lb/>the Peace, last Edition, Page 886 Note 4.  <seg type="closer"> Yours faithfully,  William Johnson   The Chief Secretary,  Lord Lieutenant  Dublin Castle, DUBLIN.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

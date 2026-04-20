@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1524">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mrs E.N. Gilbert to Nancy O'Rahilly, 21 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>E.N. Gilbert</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter of condolence from Mrs. E.N. Gilbert to Nancy O&#39;Rahilly (1875-1961). The writer shares Mrs. O&#39;Rahilly&#39;s grief at the death of her husband and consoles her that she has her sons to live for and the &#39;glorious memory&#39;. She was a member of the Provisional Council of Cumann na mBan at the founding in 1914 and the wife of Michael Joseph O&#39;Rahilly, self-described as &#39;The&#39; O&#39;Rahilly (1875-1916). The O&#39;Rahilly fought in the Easter Rising and was shot in Parnell/Moore Street on 28 April 1916 and died some time later. Nancy was pregnant at the time of her husband&#39;s death – the child was born three months later.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Humphreys Papers, P106/120/32</collection>
+                  <idno>https://letters1916.ie/item/1524</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0530">E.N. Gilbert</persName>
+              <date>1916-05-21</date>
+              <placeName key="#letters1916_place-0226">823 N. 20th Street, Philadelphia, United States of America.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1534">Nancy O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1524_img_985_1"  type="Letter"  url="38f1f8cac3efd5275c67405d23d015bd.jpg"/>
+      <graphic xml:id="L1916_1524_img_985_2"  type="Letter"  url="42d8ace066500037144efdc796ebf314.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1524_img_985_1"/>
+                May 21, 1916    825 N. 20th St  Philadelphia   Dear, dear Nancie,   My heart is break<lb rend="hyphen"/>ing for you. I must send you a <lb/> word. I am thinking of my dear little <lb/>chum in the happy days as Long <lb/>Branch and now what bitter <lb/>bitter matters have engulfed you. <lb/>Not engulfed you tho' thank God <lb/>you have your sons to live for  
+            <pb n="2" facs="L1916_1524_img_985_2"/>
+              and a glorious memory to make <lb/>patience and fortitude and great <lb/>achievement possible for you all, <lb/>I can do nothing for you dear <lb/>but live and grieve with you and <lb/>for you and pray for you always.  <seg type="closer"> With tenderest love, yours always  E.N.G </seg> I just heard from Madeleine yesterday.  
+         </ab>
+      </body>
+   </text>
+</TEI>

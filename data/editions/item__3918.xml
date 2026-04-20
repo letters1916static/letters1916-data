@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3918">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Theobald Kane to Byrne, 8 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Theobald Kane</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Theobald Kane to Byrne, commenting on censorship of American letters and daily life.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47; Ms 33,612/18-10</collection>
+                  <idno>https://letters1916.ie/item/3918</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0956">Theobald Kane</persName>
+              <date>1916-02-08</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Byrne</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3918_img_3295_1"  type="Letter"  url="8a5b3894728593413d86ebc85263ec02.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3918_img_3295_1"/>
+             Dublin   February 8th, 1916.    My Dear Byrne    Your letter of January 22nd reached me on Feb 4th, — marked<lb/>Opened by Censor, as <hi rend="underline">all</hi> American letters now are. I note that<lb/>you had received my first letter two weeks previously; why did you<lb/>not acknowledge it at once as I asked you? I suppose by this time<lb/>you have received my letters of Dec. 31st and Jan. 14th. This is<lb/>my fourth. I enclose a couple of sheets containing the kind of<lb/>news that will <sic>inerest</sic> you and Austin.  You didn't answer the question at the end of my letter of Xmas<lb/>Eve?  All the Christmas toys and books arrived, though much delayed;<lb/>some other things, as I expected, were lost.  I had some further corresponder with A. H., who is continuing<lb/>her plans for an early voyage. But I don't know anything definite<lb/>about it.  Do the weekly papers you used to get still reach you? One of<lb/>them has become monthly,— financial strain,— but that you will<lb/>have seen if you got the last weekly issue—that of Jan. 9th. If<lb/>you would like to get any other papers, let me know.   With best regards to all friends,<lb/>Yours as ever,<lb/>Theobald Kane   Your first letter to the professor never reached him; the<lb/>second did. 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1694">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J.W. Rainey to Major General, Army Veterinary Service, 11 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J.W.Rainey</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from J.W. Rainey to Major General, Army Veterinary Services with a request to inform Patrick Alphonsus Carroll about an interview.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Pat Carroll</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/1694</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1449">J.W.Rainey</persName>
+              <date>1916-01-11</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Major General, Army Veterinary Service</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1694_img_1151_1"  type="Letter"  url="c27ca86fe3006ab66490170530ae73e1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1694_img_1151_1"/>
+             <seg type="del">Assistant</seg>Deputy Director <lb/>of Veterinary Services <lb/>Irish Command   Will you please request Mr. P.H.Carroll, of Reddy's Hotel, <lb/>Carlow, Ireland. <lb/>to attend at your office for a personal interview, with a view to his <lb/>being granted a temporary commission in the Army Veterinary Corps.   The conditions of pay, &amp;&amp;c., are enclosed   If considered suitable, will you please arrange for him to be <lb/>medically examined, and return the forms duly completed to this office, <lb/>together with the medical certificate.   (Sa) JW Rainey Major  <lb/>for Major-General <lb/>Director-General, A. V.S. A.V.D.,<lb/> WAR OFFICE<lb/>  11th January, 1916. 
+         </ab>
+      </body>
+   </text>
+</TEI>

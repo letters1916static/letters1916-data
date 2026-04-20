@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3156">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Peter Mooney to his sister Katie Mooney, 28 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Peter Mooney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Orphaned at age 7, Peter and his sister Katie Mooney were raised by their uncle William and his wife Mary in Caulstown. While there are no surviving enlistment papers for Peter, his War Badge Index Record shows his enlistment date as 18 October 1915. He served with the Royal Artillery and later transferred to the Royal Engineers where he was promoted to the rank of Sergeant. He served in several places at the Western Front, including Ypres, St. Omer and Passchendael. Peter and Kate were avid correspondents. This letter part of a collection of over ninety surviving letters.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Mooney Family Papers</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/3156</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0428">Peter Mooney</persName>
+              <date>1916-10-28</date>
+              <placeName key="#letters1916_place-1346">unknown</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1038">Katie Mooney</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1346">unknown</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3156_img_2578_1"  type="Letter"  url="87c19c1395298b15e1842b172b047752.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3156_img_2578_1"/>
+             Oct 28<hi rend="superscript">th</hi> 1916   Dear Katie,   I hope this letter will find you all <lb/>in the best of health. I feel in the pink &amp; am <lb/>getting along nicely. We have changed our billets <lb/>once more that is the reason I have not written <lb/>lately. The weather is not as bad lately &amp; at <lb/>present we are not so badly off. I did not hear <lb/>from the governor this long time, I hope they are <lb/>all going on well in that quarter. I did not <lb/>write to <seg type="unclear">Charley</seg> yet but i hope to do so in a <lb/>few days. I suppose Billy has found a new <lb/>home by this time. How is the grey horse <lb/>doing he should be a fine strong animal by now. <lb/>I suppose hunting has started by now I hope I <lb/>will be there for the finish of the season I do <lb/>not know how I would feel on horseback <lb/>now as I had not a ride since i got transferred. <lb/>I hope Paddy is getting on better now god only <lb/>knows he ought to be satisfied. I had a box <lb/>of cigarettes from John Bruton last week. I wish <lb/>he sent me a good <seg type="unclear">sized</seg> cake. Something we <lb/>can eat is better than something we can smoke. <lb/>I will write in a few days again. So I say <lb/>Good-Bye for the present.   Peter Mooney. 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0327">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from F. W. Lamb to Sir Edward O'Farrell, 11 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>F.W. Lamb</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Dr F. W. Lamb to Sir Edward O&#39;Farrell (c.1857-1926). Dr Lamb indicates that he has found residence in Ireland would no longer require petrol for England. He writes to inform that he would need fuel for his car in Ireland. He also reports that he is unable to take action during his stay in Ireland as his car needs repairs.Edward O&#39;Farrell was the assistant under-secretary to the Lord Lieutenant of Ireland Sir Ivor Churchill Guest, Lord Wimborne (1973-1939).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/8335/1</collection>
+                  <idno>https://letters1916.ie/item/327</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1266">F.W. Lamb</persName>
+              <date>1916-04-11</date>
+              <placeName key="#letters1916_place-0425">Medical School, Trinity College, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0327_img_1550_1"  type="Letter"  url="200491a384c8fc79a9b55d095973010e.jpg"/>
+      <graphic xml:id="L1916_0327_img_1550_2"  type="Letter"  url="4c7a7c325c242c8c76d39434a5de89f4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0327_img_1550_1"/>
+                Medical School  Trinity College  Dublin    11 April 16   Sir   I have the honor to <lb/>enclose a form sent <lb/>to me from England. I <lb/>have received my <lb/>residence to Ireland <lb/>on 1st January therefore <lb/>do not expect to require <lb/>petrol in England but <lb/>only in Ireland. I am <lb/>unable <seg type="unclear">to take action</seg>  
+            <pb n="2" facs="L1916_0327_img_1550_2"/>
+              for the 3 months I am <seg type="unclear">here</seg><lb/>as my car has been <lb/>undergoing repairs &amp; has <lb/>not been used during some <lb/>months  <seg type="closer"> I am ever <lb/>yours faithfully   F.W. Lamb   To the Office of UnderSecretary  Ireland  Dublin Castle  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

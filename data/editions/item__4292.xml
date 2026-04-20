@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4292">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Harold Tennant to  Edward Carson, 17 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Harold Tennant </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Harold John Tennant  (1865-1935) to Edward Carson (1854-1935). Carson was a prominent Unionist Politician. Originally a practicing solicitor from Dublin, Carson&#39;s opposition to the proposed third Home Rule bill made him the figure head of Unionism throughout the island. He was the centerpiece of the speaking tour that culminated in Ulster Day (28 September 1912), when just under half a million signed Ulster&#39;s solemn league and covenant pledging to use ‘all means which may be found necessary to defeat the present conspiracy to set up a home rule parliament in Dublin’. Carson inaugurated the Larne gunrunning in 1914 which armed the UVF, many of whom Carson would encourage to join the British Army throughout the First World War. Tennant was a Scottish Liberal politician. He served as Under Secretary of State for War from 1912-1916 under his brother in law H.H. Asquith. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Carson Papers, D1507/A/14/9</collection>
+                  <idno>https://letters1916.ie/item/4292</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0742">Harold Tennant </persName>
+              <date>1915-11-17</date>
+              <placeName key="#letters1916_place-0326">War Office, Whitehall, S.W.,  London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0539">Edward Carson</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1935</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4292_img_3655_1"  type="Letter"  url="99649963fd1f50ae2f48aeb24dc78d14.jpg"/>
+      <graphic xml:id="L1916_4292_img_3655_2"  type="NULL"  url="93d6ade4aa394ad0975cf1afbb688495.JPG"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4292_img_3655_1"/>
+             War Office,<lb/>Whitehall,<lb/>S.W.   <hi rend="underline">Nov 17. 1915</hi>   My Dear Carson,   I have received<lb/>your letter of yesterday<lb/>enclosing the cutting from<lb/>Fianna.     It is a monstrous<lb/>statement to have<lb/>published and I am 
+            <pb n="2" facs="L1916_4292_img_3655_2"/>
+            making immediate <lb/>inquiries into the whole <lb/>circumstances of the <lb/>case.   Yours Sincerely,   <hi rend="underline">H.J. Tennant</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

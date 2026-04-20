@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0276">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Matthew Nathan to J. G. Swift Mac Neill, 20 April 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Matthew Nathan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Matthew Nathan to J. G. Swift Mac Neill.The letter regards complaints made about Robert Louis Stevenson&#39;s book &#39;Kidnapped&#39;. Nathan claims the words which exception is being taken are good English words, asking MacNeill to take the matter to the Intermediate Board. There is an enclosure of a memorandum regarding the objections about the book. It states that the book contains Scottish words, incomprehensible to Irish boys and therefore should not be on the syllabus.Sir Matthew Nathan (1862 - 1939) was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising. John Gordon Swift MacNeill (1849 - 1926) was a jurist and politician. He was MP for South Donegal from 1887 until 1918.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>National Archive of Ireland-Chief Secretary&#39;s Office-Registered Papers, NAI/CSO/RP/1916/5611/8225/2</collection>
+                  <idno>https://letters1916.ie/item/276</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date>1916-04-20</date>
+              <placeName key="#letters1916_place-0890">Dublin Castle</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">J G Swift MacNeill</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0285">Board of National Education, Marlborough Street, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0276_img_1476_1"  type="Letter"  url="6fecbe13272f749806e4f1723d0c32f5.jpg"/>
+      <graphic xml:id="L1916_0276_img_1476_2"  type="Letter"  url="e778e32a395196297a8e5e56ab165c72.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0276_img_1476_1"/>
+                CHIEF SECRETARY'S OFFICE,  DUBLIN CASTLE.    20 <hi rend="superscript">th</hi> April, 1916.    Dear Starkie,   There seems to be something in the <lb/> complaint of the people who produce books to meet <lb/> the syllabus of the Intermediate Board, though <lb/> some of the words in 'Kidnapped' to which exception <lb/> is taken are good English words and in one case <lb/> Irish. Will you, if you see no objection, bring <lb/> the matter before the Board for their consideration.  <seg type="closer"> Yours sincerely, <lb/> Matthew Nathan. <lb/> The Right Hon. <lb/> W.J.M. Starkie, M.A., Litt.D.,LL.D., <lb/> Board of National Education, <lb/> Marlborough Street, <lb/> Dublin. </seg> 
+            <pb n="2" facs="L1916_0276_img_1476_2"/>
+             <seg type="head"><hi rend="underline">INTERMEDIATE EDUCATION BOARD FOR IRELAND.</hi></seg><seg type="head"><lb/><hi rend="underline">MEMORANDUM with regard to the objections raised to 'Kidnapped.'</hi></seg>  1.That the book is copyright and that money will therefore <lb/> go from Ireland to England.   The Board deliberately selected a book of which an <lb/> annotated school edition could not be brought out. The Board <lb/> were led to adopt this course because they find that where such <lb/> editions are brought out an immense amount of time and labour <lb/> is expended on learning the notes by heart.    2. That the atmosphere is Scotch and so uncongenial to the <lb/> vast majority of Irish boys. A similar objection might be <lb/> urged against many of Scott's novels which have frequently been <lb/> on the Board's programme, without exception being taken to them. <lb/> There seems nothing in the book to which the least exception <lb/> could be taken by any fair minded person, and the book itself <lb/> should be interesting to young people.    3. That the language is in parts incomprehensible to Irish <lb/> boys.   This is of course true of many of Scott's works also. <lb/> As to the list of words appended several are either good English <lb/> or well known Scotticisms. In other cases the meaning is <lb/> perfectly obvious from the context. One or two are Gaelic.   
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1485">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J.J. Dunne to Nancy O'Rahilly, 3 August 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J.J. Dunne</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter to Nancy O&#39;Rahilly (1875-1961). The writer, J.J., congratulates Mrs.O&#39;Rahilly on the birth of her son and hopes that he is a comfort against the &#39;bitter grief&#39; she must be suffering.Nancy O&#39;Rahilly was a member of the Provisional Council of Cumann na mBan at the founding in 1914 and the wife of Michael Joseph O&#39;Rahilly, self-described as &#39;The&#39; O&#39;Rahilly (1875-1916). The O&#39;Rahilly fought in the Easter Rising and was shot in Parnell/Moore Street on 28 April 1916 and died some time later. Nancy was pregnant at the time of her husband&#39;s death – the child was born three months later.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Humphreys Papers, P106/092/8</collection>
+                  <idno>https://letters1916.ie/item/1485</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0717">J.J. Dunne</persName>
+              <date>1916-08-03</date>
+              <placeName key="#letters1916_place-1706">Buxton, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1534">Nancy O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1485_img_938_1"  type="Letter"  url="c4059f395359702f96fa61618f42cad4.jpg"/>
+      <graphic xml:id="L1916_1485_img_938_2"  type="Letter"  url="51a390fab6f936205a84278e3b0e0ec2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1485_img_938_1"/>
+                Buxton Hydro.    3rd August 1916.   Dear Mrs. O'Rahilly,   I have just heard <lb/>the good news from Fr. <lb/> Farrell &amp; hasted to offer <lb/> you my sincere wishes <lb/>for all God's blessings <lb/> on yourself &amp; your child.   
+            <pb n="2" facs="L1916_1485_img_938_2"/>
+              I have not forgotten to pray <lb/> earnestly for you both. <lb/>Please God the love &amp; care <lb/>of the dear infant will <lb/>assuage the bitter grief <lb/>that must still be yours.  <seg type="closer"> Believe me, dear M <hi rend="superscript">rs</hi>. O'Rahilly <lb/>Very sincerely yours,   J.J. Dunne </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

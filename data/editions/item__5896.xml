@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5896">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Lieut. W.E. Gilliland to Anne MacDonnell, 14 July, 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>W.E. Gilliland</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Lieutentant W.E. Gilliland of the Depot Des Prisonniers de Guerre to Anne MacDonnell, honorary secretary of the Irish Women&#39;s Association (IWA), founded to provide assistant to Irish prisoners of war.
+Lieut. Gilliland requests that the IWA liaise with other committees sending parcels to Prisoners of War. The problem is that some prisoners are getting so many parcels from different quarters that they are in a position to sell their surplus. He also concerned that prisoners were now requesting items such as watches and safety razors.
+A handwritten note at the bottom of this typed letter, addressed to Lady Clonbrock, says that this is a copy received from the IWA and that it will interest her. The note is signed by H.D. Chamier.
+Lady Clonbrock, Augusta Caroline Dillon (née Crofton), (1839-1928), was an active member of the IWA.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No. 54; Ms. 35,796/11/2</collection>
+                  <idno>https://letters1916.ie/item/5896</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0945">W.E. Gilliland</persName>
+              <date>1916-07-14</date>
+              <placeName key="#letters1916_place-1641">Depot des Prisonniers de Guerre, Philipopple, Bulgaria.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1071">Anne MacDonnell</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5896_img_991_1"  type="Letter"  url="50f67ce1d4c133ed8fb7ba521d2406d8.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5896_img_991_1"/>
+             Depot Des Prisonniers de Guerre, <lb/>Philipopple, <lb/>Bulgaria.   14th July, 1916.   Dear Miss MacDonnell,   We are indeed grateful for all your Association is <lb/>doing for the British Prisoners of War here. But, might I ask <lb/>you to get in touch with Regimental and other Committees which are <lb/>sending parcels.   The fact of the matter is in far <seg type="del">tt</seg>too many cases <lb/>tins of provisions and chocolate, and underclothing, are being sold <lb/> right and left. This practice is naturally more general among men <lb/> who receive parcels from many organisations. There is one man who <lb/> gets parcels from ten Societies and I have known him to receive <lb/>as many as eight parcels at a time. He is not generous. I suppose <lb/> he has had seventy to eighty parcels already. He gave me <hi rend="underline">one</hi> to <seg type="del">giv</seg> <lb/>give to some man who had up to then not received any at all.   Another point : I have reason to believe that the men, in <lb/>response to your Association's request to let you know what they <lb/>want, are asking for all sorts of things :- watches, safety razors &amp;c   To save time, I am now going to do a preliminary <seg type="del">censorshi</seg> <lb/>censorship of letters at the request of the Commandant. Will you <lb/> please ignore all demands for luxuries unless I have countersigned <lb/> the letter or card asking for them. It is a bit distressing to put <lb/> it mildly, when you find men selling 4.oz. jars or bottles of meat <lb/>extracts for twopence, large cakes of chocolate for tenpence and <lb/>hand knitted woollen socks for ninepence. There is a ready market <lb/> for most things, and I am sure watches and safety razors would be <lb/> quickly disposed of.   (Sgd) W.E. Gilliland, Lieut.   Dear Lady Clonbrock, <lb/>Above copy of letter sent <lb/> me from I.W.A. will interest you. <lb/> Yours <lb/>HO Channier.  <lb/> Galway   18/9/16.   
+         </ab>
+      </body>
+   </text>
+</TEI>

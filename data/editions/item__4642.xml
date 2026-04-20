@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4642">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Phelps to the Librarian, Hunterian Museum, 12 December 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Phelps</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Robert Gunther Justin Phelps served as the Librarian for the Royal College of Physicians from 1897.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-14-60</collection>
+                  <idno>https://letters1916.ie/item/4642</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1482">Robert Phelps</persName>
+              <date>1918-12-12</date>
+              <placeName key="#letters1916_place-1080">Royal College of Physicians of Ireland, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-1377">Glasgow, Scotland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4642_img_3984_1"  type="Letter"  url="6048b78d649151dc840c8e70e83ac4f4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4642_img_3984_1"/>
+             12th DECEMBER 18.   The Librarian, <lb/>Hunterian Museum, <lb/>Glasgow.   Dear Sir,   I am requested to ask whether you will be so kind <lb/>as to let me have, for the use of this Library, a copy of <lb/>the Catalogue of the Manuscripts in the Hunterian Museum <lb/>which was published in the year 1908. I have been asked <lb/>for this catalogue several times recently and I shall <lb/>feel greatly indebted to you if you can let me have a <lb/>copy. The Registrar of the College (Dr. Kirkpatrick) <lb/>has asked me to forward you a copy of his work on the <lb/>history of the School of Physic in Ireland for the use of <lb/>your Library.   I am, dear Sir, <lb/>Yours faithfully,  <lb/>Librarian, R.C.P.I.
+         </ab>
+      </body>
+   </text>
+</TEI>

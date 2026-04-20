@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6647">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from WB Yeats to WT Horton, 24 December 1917</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>W.B. Yeats</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Harry Ransom Center, The University of Texas at Austin</repository>
+                  <collection>William Butler Yeats Collection. II. Correspondence, 1891-1938 Outgoing. Box 7</collection>
+                  <idno>https://letters1916.ie/item/6647</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1561">W.B. Yeats</persName>
+              <date>1917-12-24</date>
+              <placeName key="#letters1916_place-1092">Ashdown Cottage, Forest Row, Sussex, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">W.T. Horton</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1083">63 Cartright Gardens, W.C. London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1939</item>
+               <item n="topic">Culture and the Arts</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6647_img_None_1"  url="phpL3TSwQ.jpeg"/>
+      <graphic xml:id="L1916_6647_img_None_2"  url="phpQvYDdv.jpeg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6647_img_0_1"/>
+              Ashdown Cottage,<lb/>Forest Row.<lb/>Sussex. <lb/> 24.12.17.   Sunday.<lb/> My dear Horton ,<lb/>Iseult does not go to the British Museum because she is<lb/>working at the school of Oriental languages under Denison Ross.<lb/>She is an assistant librarian and student of Bengali and Sanskrit.<lb/>She is working very hard and has good reports from her teachers and<lb/>will not now I think go to Dublin. I am therefore no longer very<lb/>anxious. She could stay with us to-morrow for a few days.<lb/> Yours, <lb/>W.B. YEATS.              W.T. Horton, Esq.,<lb/> 63 Cartwright Gardens,<lb/>W.C.     
+            <pb n="2" facs="L1916_6647_img_0_2"/>
+             WT Horton Esq   63 Cartwright Gardens    London WC  
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4204">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Samuel Shaw to Martha Shaw, 27 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Samuel Shaw</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Samuel Shaw to his mother, Martha Shaw, upon his return from the trenches. Samuel mentions getting a visit from his brother, William, and the return of E. Boyd from injury. 
+
+Samuel Henry Shaw (1896-1967) was a sergeant with the 10th Battalion, Royal Inniskilling Fusiliers. He volunteered for active service in September 1914. Before enlisting Samuel was a member of the Portstewart Company, Coleraine Battalion, North Derry Regiment, Ulster Volunteer Force. Samuel served in France, and was wounded during the Battle of the Somme in July 1916 and again in early 1917 and in 1918. Before the War he was employed as a ironmonger&#39;s assistant. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Shaw Papers, D1962-26</collection>
+                  <idno>https://letters1916.ie/item/4204</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0493">Samuel Shaw</persName>
+              <date>1916-03-27</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Martha Shaw</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4204_img_3575_1"  type="Letter"  url="baa50ef022aa850e7bc520c46219936a.jpg"/>
+      <graphic xml:id="L1916_4204_img_3575_2"  type="Letter"  url="6bf3d71c85cb2bd933e32a6dd799f3a7.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4204_img_3575_1"/>
+             Same address   27.3.16   My Dear <lb/>Mother   Just a few lines <lb/>to let you know I am well. <lb/>I received your letter and <lb/>parcel alright. We came <lb/>out of the trenches last <lb/>night for a few days rest. <lb/>I got the <seg type="unclear">Paters</seg>letter <lb/>with Willie's enclosed. I <lb/>am glad to see that <lb/>they are well, I have not <lb/>seen Hedley since we went <lb/>into the trenches. I'll have <lb/>to go up and see him to- <lb/>night. I hope the fishing <lb/>is still good. E Boyd <lb/>is out of hospital again
+            <pb n="2" facs="L1916_4204_img_3575_2"/>
+            He came up here this <lb/>morning, he doesn't <lb/>seem to be any the <lb/>worst for the slap he <lb/>got. I think this is <lb/>all at present. With <lb/>love to all.   I remain<lb/>Your Loving Son   <hi rend="underline">Sammie</hi>   P.S.I suppose you saw <lb/>in the papers how our <lb/>chaps stood the big <lb/>bombardment. 
+         </ab>
+      </body>
+   </text>
+</TEI>

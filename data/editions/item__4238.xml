@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4238">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Wilfrid Spender, circa November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Sir Wilfrid Spender (1876 - 1960). Spender was a member of the British Army until 1913 when controversy surrounding his signature of the Ulster Solemn League and Covenant resulted in his resignation. Spender was called up for military service in 1914 and from 1915 served in the 36th (Ulster) Division. Throughout the war, Spender wrote a collection of letters to his wife Lady Lillian Spender. The letters date mainly from 1915 to 1918, when Sir Wilfrid was serving in France. The letters concern politics, the Irish question, personal life, and Wilfrid&#39;s experience of the Great War.&#34;</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Letters from Sir WilfrId Spender to Lady Spender, D1633/1/1/76</collection>
+                  <idno>https://letters1916.ie/item/4238</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0667">Wilfrid Spender</persName>
+              <date>1915-11</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1960</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">Politics</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4238_img_3606_1"  type="Letter"  url="40eb5e6cee6dc218f232dec51498cbd6.jpg"/>
+      <graphic xml:id="L1916_4238_img_3606_2"  type="Letter"  url="3e058bde3b7bb37b40cba8e2d0a6038d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4238_img_3606_1"/>
+             A letter has come in asking <lb/>for someone to be nominated <lb/> as a Lt Colonel, but a <lb/> Staff officer is not eligible <lb/> for the appointment !   I wonder who devised <lb/> this new theory &amp; if I am <lb/> the unwitting cause !   Boylan Smith &amp; I have had <lb/> some amusing correspondence <lb/> apropos of the sanitary arrange- <lb/> ments of the office. He made <lb/> various proposals that the G <lb/> branch ougth with their big <lb/> brains to be able to dial <!-- deal? --> with <lb/> the enemy — b flats — etc etc    I replied that we should be <lb/> glad for his assistance &amp; that he <lb/> should come &amp; sleep in the office
+            <pb n="2" facs="L1916_4238_img_3606_2"/>
+            disguised as a staff officer.   There was further amusing play <lb/> between us ending up in his <lb/> presumed decease whereon we pent <lb/> the following <seg type="del">of</seg> obituary notices:— <lb/>G.) This was my best &amp; I've <lb/> forgotten it ! <lb/> A.) Here lies the body of Boylan Smith <lb/> We have buried him deep <!-- last word in larger writing -->with toil &amp; <lb/> grief. <lb/> <lb/>(ADMS who has rows with him <lb/> about smoking &amp; ventilation). <lb/> A beautiful end and a happy release <lb/> now I can smoke the pipe of peace <lb/> ( The Units whom he used to <lb/> inspect.) <lb/> Tho' tins &amp; creosol we now <lb/> do not lack <lb/> May Heaven preserve him <seg type="del">&amp; let</seg> but not  <lb/> send him back. 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2994">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Pedder to Dr Kathleen Lynn, 2 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Pedder</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter to Dr Kathleen Lynn (1874-1955) from John Pedder, of the Home Office at Whitehall. Dr Kathleen Lynn was a medical practitioner, a suffragist, a nationalist, and a revolutionary. Lynn was Chief Medical Officer of the Irish Citizen Army during Easter 1916, and was a part of the City Hall garrison, of which she took command of the garrison after the death of Seán Connolly on the first day of the Rising. After independence, Lynn dedicated much time and energy towards the improvement of public health, and played a significant role in the eradication of tuberculosis in Ireland.
+
+In this letter, Pedder informs Dr Lynn that she has been released from an undertaking she had given on July 8. The undertaking had required her to leave Ireland for Bath, England, as soon as her ill sister had recovered her health. The envelope of the letter has Dr Lynn&#39;s Rathmines address crossed out and replaced with her Bath address, suggesting that she had already returned to England.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Brother Allen Collection, Kathleen Lynn Collection, IE/AL/KL/1/26</collection>
+                  <idno>https://letters1916.ie/item/2994</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0745">John Pedder</persName>
+              <date>1916-08-02</date>
+              <placeName key="#letters1916_place-0159">Home Office, Whitehall, Westminster, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1086">Kathleen Lynn</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1171">6 Duke Street, Bath, Somerset, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2994_img_2397_1"  type="Letter"  url="e27368514e71b3de8125d66a9ce65101.jpg"/>
+      <graphic xml:id="L1916_2994_img_2397_2"  type="Envelope"  url="85ab5c9a429dd41e8567b615632e59d2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2994_img_2397_1"/>
+             HOME OFFICE, <lb/>WHITEHALL.   August 2nd, 1916   314,915/14   Madam,   I am directed by the Secretary of State to refer to <lb/>previous correspondence with regard to the permission given <lb/>to you to return to Ireland to nurse you sister and to inform <lb/>you that you are released from the undertaking which you gave <lb/>on the 6th July to return to Bath as soon as your sister <lb/>ceased to require your services and that you may remain in <lb/>Ireland.   I am, <lb/>Madam, <lb/>Your obedient Servant,   John <hi rend="underline">Pedder</hi>   Dr. Kathleen Lynn, <lb/>9, Belgrave Road, <lb/>Rathmines, <lb/>Dublin. 
+            <pb n="2" facs="L1916_2994_img_2397_2"/>
+            <hi rend="underline">ON HIS MAJESTY'S SERVICE</hi>  Dr Kathleen Lynn, <lb/>6 Duke Street <lb/><seg type="del">9. Belgrave Road,</seg> <lb/>Bath <lb/><seg type="del">Rathmines</seg> <lb/>Sommerset <seg type="del">Dublin.</seg> <lb/>England   HOME OFFICE. 
+         </ab>
+      </body>
+   </text>
+</TEI>

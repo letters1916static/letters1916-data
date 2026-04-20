@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5808">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Harriet (Harrie) Dillon to Tweetie (Lady Clonbrock), 17 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Harriet (Harrie) Dillon</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter congratulates Augusta Lady Clonbrock and her husband, Luke Gerald Dillon, 4th Baron Clonbrock, on their golden wedding anniversary. Harriet Dillon is a sister-in-law of Lady Clonbrock. She mentions many happy years of marriage under &#39;Victoria&#39;s reign&#39; (Queen Victoria was monarch from 1837 to 1901) and also refers to a planned visit later in the month.
+
+Augusta Caroline Dillon (née Crofton) was the wife of Luke Gerald Dillon (1834-1917), the 4th Baron of Clonbrock, Co. Galway and the daughter of Lord Crofton of Mote Park (Edward Henry Churchill Crofton, 3rd Baron), Co. Roscommon. Aged 75 at the outbreak of war, Lady Clonbrock, worked closely with the Irish Women&#39;s Association to send basic necessities to Irish POWs. Many of her care packages went to members of the Connaught Rangers imprisoned in Limburg near Cologne.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No 54; Ms 35,793 (9)</collection>
+                  <idno>https://letters1916.ie/item/5808</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0967">Harriet (Harrie) Dillon</persName>
+              <date>1916-07-17</date>
+              <placeName key="#letters1916_place-0635">Wootton House, Bedford, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0049">Lady Clonbrock</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5808_img_91_1"  type="Letter"  url="296b1a4228cb4fb435d43b1388f17618.jpg"/>
+      <graphic xml:id="L1916_5808_img_91_2"  type="Letter"  url="7d1c3bd14849adaca99470265e3e4ab9.jpg"/>
+      <graphic xml:id="L1916_5808_img_91_3"  type="Letter"  url="e20e538160b8f9bccf209a3f6c78f75f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5808_img_91_1"/>
+             WOOTTON HOUSE, <lb/> BEDFORD.   <hi rend="underline">July 17</hi>   Dearest Tweety    This is to wish you <lb/>&amp; Gerald all joy on <lb/>your 50<hi rend="superscript">th</hi> Anniversary - <lb/>how splendid &amp; how <lb/>few attain it!   You &amp; I have much
+            <pb n="2" facs="L1916_5808_img_91_2"/>
+            <lb/>to be thankful for - <lb/>so many years of <lb/>happy married life. <lb/>&amp; so many years lived <lb/>in Victoria's peaceful <lb/>reign. Bob &amp; I have <lb/>ordered a little remembrance <lb/>for your "Jubilee", but <lb/>I am very sorry it is <lb/> not ready for the 18<hi rend="superscript">th</hi> <lb/>when you come to us <lb/>we will give it to you. <lb/>We are much hoping <lb/>to see you both here on <lb/>the 24<hi rend="superscript">th</hi> - our cook has <lb/>arranged not to have <lb/>her holiday till the 29<hi rend="superscript">th</hi> <lb/>so we hope you are <lb/>coming that week. <lb/>We are going to see the
+            <pb n="3" facs="L1916_5808_img_91_3"/>
+            sisters tomorrow, a <lb/>tremendous drive in <lb/>the car. it is <sic>abt</sic> 28 <lb/>miles from <hi rend="underline">Northampton</hi>. <lb/>With love &amp; all good <lb/>wishes.    Ever your <sic>affecte</sic>   <hi rend="underline">Harrie Dillon</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3480">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Tadhg Barry to Tomás Mac Curtain, 26 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Tadhg Barry</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Tadhg Barry (1880–1921) to Tomás MacCurtain regarding a plan to try and secure MacCurtain&#39;s early release from prison. MacCurtain&#39;s reply is copied on the back of the letter.
+
+Tomás MacCurtain (1884–1920), republican, was born Thomas Curtin in Ballyknockane, Co. Cork, on 20 March 1884. MacCurtain was a founder member of the Cork executive of the Irish Volunteers, and in the time leading up to the 1916 Rising, he travelled the county organising new Volunteer units. MacCurtain was arrested in Cork in May 1916, and sent to Dublin before being deported to Wakefield prison on 30 May. On 10 June he was moved to Frongoch in north Wales and on 11 July to Reading gaol, where he remained until his release in December 1916. He continued to lead the Cork Volunteers despite being imprisoned on other occasions in 1917. On 30 January 1920 he became the first Sinn Féin lord mayor of Cork. On 20 March 1920,  MacCurtain was shot dead in his bedroom a major escalation in the spiral of violence that marked the last year of the war of independence.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Cork Public Museum</repository>
+                  <collection>T. Mac Curtain Collection, 1971.15L1966.158.2 D9.7</collection>
+                  <idno>https://letters1916.ie/item/3480</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0903">Tadhg Barry</persName>
+              <date>1916-10-26</date>
+              <placeName key="#letters1916_place-0079">54 Blarney Street, Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0338">Tomás Mac Curtain</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1457">Reading Gaol, Berkshire, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1921</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3480_img_2889_1"  type="Letter"  url="c7ca5631fb9224ee4a2e6626aa5be366.jpg"/>
+      <graphic xml:id="L1916_3480_img_2889_2"  type="Letter"  url="1aca74f02d11ec2e283ca1ff75364a57.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3480_img_2889_1"/>
+             JGY   The Blarney St <seg type="unclear"></seg>      26th Oct 1916 <lb/>T. Curtin Esq<lb/> Dear Tom,   I am sure it will rise the cockles<lb/>of your heart and the hearts of all to hear that I<lb/>have heard from F.J. Healy that he is going to<lb/>parliament on your behalf under the A.F.I.<lb/>auspices. It will aid his candidature if<lb/>we can have it from you quickly that you<lb/>agree with this action. There are some wicked<lb/>people here who state he has no right to<lb/>speak for you.  If he <seg type="unclear">tries</seg>  and prove that he is<lb/>ready to swear allegiance to our King<lb/>it will help us in the eyes of England<lb/>and her allies and secure your early<lb/>release. So let us have word by return<lb/>for the sake of conciliation.      In Haste<lb/>T. Barry <lb/>  L 330   
+            <pb n="2" facs="L1916_3480_img_2889_2"/>
+             <hi rend="underline">Copy of reply</hi><lb/><hi rend="underline"> Wed Nov 1 1916 </hi><lb/> Dear Cog.   <lb/><seg type="unclear">You</seg>           I am just as impressed as you must<lb/>have been yourself about Healys <seg type="del">tells</seg>statement<lb/>He didn't write here <seg type="del">at all</seg> for permission<lb/>to act  in this way for us and indeed<lb/>we didn't ask him and as a matter<lb/>of fact wouldn't give him any authority<lb/>whatever to do so if he wants.        salute grandmaster  <lb/> 1/6       
+         </ab>
+      </body>
+   </text>
+</TEI>

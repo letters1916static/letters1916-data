@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0227">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from 'May' to Patrick English, 21 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>May</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from May English, a St Vincent convent resident, to her brother Patrick English (1894-1970). May states that she is glad to learn that Patrick is well and hopes that people are writing to him. She goes on to state that she may go to visit him though he is a long way from Manchester. May then discusses one of the sisters at the convent who thanks Patrick for his prayers and will send Patrick rosary beads if he has none. She also asks if any of the sister of charity visit the prison. Patrick English was part of the F. Company, 4th Battalion, Dublin Brigade who fought in the General Post Office Garrison in Easter 1916. After the Easter Rising of 1916 Patrick English was interned at Stafford Prison before he was later moved to Frongoch internment camp in Wales.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Patrick English</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/227</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0502">May</persName>
+              <date>1916-06-21</date>
+              <placeName key="#letters1916_place-1305">St. Vincents, Ancoats, Manchester</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0178">Patrick English</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1848">Stafford Prison, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0227_img_1385_1"  type="Letter"  url="16cfd4d15859622dea03cd1ba019f4cd.jpg"/>
+      <graphic xml:id="L1916_0227_img_1385_2"  type="Letter"  url="5ea3fa6a9a10b16c5a6318603bf35f7a.jpg"/>
+      <graphic xml:id="L1916_0227_img_1385_3"  type="Letter"  url="07e71f42fb027fd8758b4dd21ffaf69f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0227_img_1385_1"/>
+                St. Vincents  Convent  St Vincent  St Ancoats.    June 21/6/1916   My Dear Patrick   I received <lb/> your kind and welcome <lb/> letter to hand this morning <lb/> very glad to see by it <lb/> you were keeping quite <lb/> well Thank God I am <lb/> very glad you got <lb/> plenty of outings the air <lb/> will do you good I <lb/> will be very glad <lb/> when I get word that <lb/> you will be going <lb/>  
+            <pb n="2" facs="L1916_0227_img_1385_2"/>
+              down by visiting house <lb/> in the mornings. unless <lb/> I caught an early train <lb/> I will see how things <lb/> go on I will let you <lb/> know later on you <lb/> might be going home <lb/> soon Please God <lb/> Dear Patrick Sister <lb/> Thanks you for your <lb/> Prayers and she told <lb/> me to be sure and <lb/> ask you If any of <lb/> the Sisters of Charity <lb/> visit the Prison If <lb/> you were here she <lb/> would visit your <lb/><cb/> Home Please God I hope <lb/> It wont be long I hope <lb/> family and David and <lb/> Frank and the lads write <lb/> to you I thought perhaps <lb/> they were sending you <lb/> a quilt perhaps I may <lb/> come to see you <sic>somt</sic><lb/> next month If you are <lb/> not gone If so you <lb/> must let me know <lb/> you are a good way <lb/> from Manchester <lb/> my Fare would be <lb/> 10 shillings Return <lb/> and I might not get   
+            <pb n="3" facs="L1916_0227_img_1385_3"/>
+              So let me know In your <lb/> next letter Well Patrick <lb/> I think I have told you <lb/> all the news for the <lb/> present Hoping you <lb/> will be sailing home <lb/> soon Sister <sic>sais</sic> If <lb/> you havent Rosary <lb/> beads let her know <lb/> and she will send you <lb/> a pair you will have <lb/> good bit of note paper <lb/> to last for a good while <lb/> and there Is envelopes <lb/> in your box  <seg type="closer"> Good <lb/> Night With Love From   May  x </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

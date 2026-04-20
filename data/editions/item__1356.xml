@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1356">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Anna O'Rahilly to Mabel FitzGerald, 25 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Anna O&#39;Rahilly</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Anna O&#39;Rahilly (d. 1958) to Mabel Fitzgerald (née Washington McConnell) (1884-1958), wife of politician and intellectual Desmond FitzGerald (1888-1947). The letter refers to a bicycle borrowed by FitzGerald to get to the GPO on the first day of the Rising. Anna enquires about its possible whereabouts on behalf of O&#39;Rahilly&#39;s wife. A note dated March 1992 explains what happened to the bicycle.Anna O&#39;Rahilly was a sister of Michael Joseph O&#39;Rahilly (&#39;The O&#39;Rahilly&#39;) (1875–1916). Both O&#39;Rahilly and FitzGerald had been supportive of attempts to stop the Rising taking place but joined in once it has started. O&#39;Rahilly was killed in Moore Lane on Thursday of Easter week. Mabel was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington (1878 -1916) during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1584/1</collection>
+                  <idno>https://letters1916.ie/item/1356</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0639">Anna O&#39;Rahilly</persName>
+              <date>1916-05-25</date>
+              <placeName key="#letters1916_place-0765">84 Northumberland Road, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1356_img_707_1"  type="Letter"  url="33df56d611412f92ee8bbf832f03133f.jpg"/>
+      <graphic xml:id="L1916_1356_img_707_2"  type="Letter"  url="a4efded4662a2401156a474f5eebc60a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1356_img_707_1"/>
+                54 Northumberland Road Dublin.    May 25<hi rend="superscript">th</hi> 1916   Dear Mrs Fitzgerald   My sister in law asked me <lb/> to write to you about the bicycle <lb/> that Mr Fitzgerald took that fatal <lb/> morning to go to the post office <lb/> Perhaps by chance Mr Fitzgerald <lb/> did not bring it to there - you <lb/> said something about meeting <lb/> him &amp; that you walked together <lb/> to the office - Could he possibly <lb/> have left the bicycle in some other <lb/> place where it might be now safe  
+            <pb n="2" facs="L1916_1356_img_707_2"/>
+              Mac lost his cycle since so <lb/> they are badly off for one <lb/> now. <seg type="closer"> With kind regards I am Yours <sic>vy</sic> sincerely  Anna O'Rahilly. </seg> Added in 1992 <seg type="postscript"> The tyre had burst in Mill Town while <lb/> Desmond was on his way to Rathfarnham <lb/> to tell MacNeill that the Rising was <lb/> on and Desmond had abandoned it there. <lb/>Garrett Fitzgerald <lb/>20/3/92 </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

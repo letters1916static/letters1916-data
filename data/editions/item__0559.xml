@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0559">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Henry Arthur Wynne to Philip C. MacDermot, 27 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Henry Arthur Wynne</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Sir Henry Arthur Wynne (1867 – 1945). Wynne was appointed to the vacant position of chief crown solicitor following the death of Sir Malachy Kelly (1851-1916). The letter is addressed to Philip MacDermot (b. 1863), the crown solicitor for Roscommon.The letter refers to a cattle driving case in Ballinsaloe. According to a previous letter twenty-three of those involved have been arrested for their participation. In this letter Wynne informs MacDermot that he should proceed with cases against as many people as have been arrested.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-5620-13077-9, NAI-CSO-RP-1916-5620-13077-9</collection>
+                  <idno>https://letters1916.ie/item/559</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0815">Henry Arthur Wynne</persName>
+              <date>1916-07-27T00:00:00</date>
+              <placeName key="#letters1916_place-0615">Boyle, Country Roscommon, Ireland </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1081">Philip C. MacDermot</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0885">Boyle, County Roscommon, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0559_img_1947_1"  type="Letter"  url="116ceedb6b4fe132279dbb39aa53b2d8.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0559_img_1947_1"/>
+                27th July 1916   Dear Sir,   In reply to your letter of this date you should proceed <lb/>with the cases against as many of the persons charged as have <lb/> been arrested. <seg type="closer"> Yours truly,   Henry Arthur Wynne   P C P MacDermot Esq.,  Crown Solicitor,  Boyle.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

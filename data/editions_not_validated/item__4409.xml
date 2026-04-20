@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4409">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Davey & Co. to the Under-Secretary, 21 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Davey &amp;amp; Co.</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Davey &amp; Co. to the Under-Secretary of Ireland regarding documentation that needs to be sent to the Destroyed Property Committee.
+
+Sir Robert Chalmers was appointed Under-Secretary of Ireland in 1916, replacing Sir Matthew Nathan (1862-1939) in the aftermath of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI/CSO/RP/1916/10617</collection>
+                  <idno>https://letters1916.ie/item/4409</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1273">Davey &amp;amp; Co.</persName>
+              <date>1916-06-21</date>
+              <placeName key="#letters1916_place-1839">88 West India Dock Road, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4409_img_3761_1"  type="Letter"  url="155fed7a72945730a554fc92e08710d9.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4409_img_3761_1"/>
+             TELEGRAMS, ACDAV, LONDON.<lb/>A.B.C. CODE 5th EDITION USED.<lb/><lb/> DAVEY &amp; CO,<lb/>ENCLOSURES.<lb/>LONDON LTD. <lb/><lb/> 88. West India Dock Road,<lb/>London, E 21st June 1916. <lb/><lb/> The Under Secretary.<lb/>Chief Secretary's Office.<lb/>Dublin Castle.    Dear Sir,   We are very much obliged for yours of 20th<lb/>inst., reference 10352 and we are sending particulars<lb/>to the Secretary, Destroyed Property Committee as requested  Yours faithfully,<lb/>Davey &amp; Co. London. Ltd.  <lb/>GB/LB.  <seg type="unclear"></seg><lb/>23. 6. 16 
+         </ab>
+      </body>
+   </text>
+</TEI>

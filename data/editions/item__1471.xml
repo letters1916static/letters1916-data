@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1471">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from R. C. Barton to Mabel FitzGerald, 21 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>R. C. Barton</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Robert Childers Barton (1881–1975), officer in charge of prisoners&#39; effects, Richmond Barracks, to Mabel FitzGerald (née Washington McConnell) (1884-1958), wife of politician and intellectual Desmond Fitzgerald (1888-1947). This letter advises Mrs FitzGerald that a great coat labelled FitzGerald is being forwarded to her.R.C. Barton joined the Irish Volunteers in 1913, acting as secretary to Colonel Maurice Moore (1854-1939). At the outbreak of the Great War, Barton accepted a commission in the British Army, serving in the Royal Dublin Fusiliers. In April 1916, he was dispatched to Dublin, where he could observe at first hand the treatment meted out to the rebels. Barton served for a period as officer in charge of prisoners effects at Richmond Barracks. He soon resigned his commission and joined the revolutionary movement. Mabel Fitzgerald was the wife of Irish Volunteer Desmond Fitzgerald. Mabel was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1597/3</collection>
+                  <idno>https://letters1916.ie/item/1471</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1407">R. C. Barton</persName>
+              <date>1916-05-21</date>
+              <placeName key="#letters1916_place-1418">Richmond Barracks, Dublin, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1746">2 Loretto Villas, Bray, County Wicklow, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1471_img_920_1"  type="Letter"  url="c8366ddb69a9c87e7fe35c796abeb3c3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1471_img_920_1"/>
+                To Mrs.Fitzgerald  Loretto Villas  Bray   from O.i/c. Prisoners Effects.   May 21 1916.   Madam;   <seg type="del">Herewith</seg>A great coat labelled <lb/>as being the property of Mr. Fitzgerald <lb/>is being forwarded to you at <lb/>the above address this day.  <seg type="closer"> R.C.Barton 2 <hi rend="superscript">nd</hi> Lieut  <lb/>10 <hi rend="superscript">th</hi>. R.D.F. <lb/>  O.i/c Effects.  Richmond Bks  Dublin  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

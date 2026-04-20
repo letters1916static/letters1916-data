@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1028">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to Eileen Corrigan from Lucy Gwynn, 11 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Lucy Gwynn</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter to Eileen Corrigan (d.1993) from a friend, Lucy, referring to the events of 1916. Lucy writes of the limited food supply to the University, the bravery of Eileen and the three other women who made it to Trinity on Easter Monday and of the rescheduling of the exams for those who couldn&#39;t make it on account of the military cordon.Eileen Corrigan had arrived in Dublin on 24 April 1916, the first day of the Easter Rising, from Belfast to sit her exams in the Trinity College. Eileen was one of just four female students who sat their exams as rebellion and counter attack swirled about outside Trinity’s walls. They were rewarded with lunch in Provost Mahafy’s house hosted by his wife, Frances Letitia.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Trinity College Dublin</repository>
+                  <collection>TCD MS 3987a, TCD MS 3987a</collection>
+                  <idno>https://letters1916.ie/item/1028</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1280">Lucy Gwynn</persName>
+              <date>1916-05-11</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0901">Eileen Corrigan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1028_img_295_1"  type="Letter"  url="23008aa435298842385b95f05fd853ba.jpg"/>
+      <graphic xml:id="L1916_1028_img_295_2"  type="Letter"  url="1b8b154e5e85cc504a31bafdacab16cd.jpg"/>
+      <graphic xml:id="L1916_1028_img_295_3"  type="Letter"  url="7ff3a236036b8023e037b21864a45eae.jpg"/>
+      <graphic xml:id="L1916_1028_img_295_4"  type="Letter"  url="37e7cefee1500713f77e4c943187cb38.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1028_img_295_1"/>
+                5 TRINITY COLLEGE  DUBLIN.   11 May 1916.  My Dear Eileen,   Thank you so <lb/>much for your letter <lb/> it interested &amp; <lb/> amused me at <lb/> the safe distance <lb/> of a past event <lb/> but I confess I <lb/> was in consternation  
+            <pb n="2" facs="L1916_1028_img_295_2"/>
+              When I heard of the exploit <lb/> at the thought of <lb/> the risk you <seg type="unclear">four</seg><lb/> girls ran in <lb/> coming in, especially <lb/> the 2<hi rend="superscript">nd</hi> day â <lb/> However it will <lb/> be something to <lb/> look back on for <lb/> the rest of your <lb/> life. I am so Text is written along edge of letter. sides and top   
+            <pb n="3" facs="L1916_1028_img_295_3"/>
+              glad you  all  got through. <lb/> Two men failed <lb/> hopelessly and <lb/> several others <lb/> did not come <lb/> the 2 <hi rend="superscript">nd</hi> day. <lb/> The exam is <lb/> repeated next Monday <lb/> for the absentees. <lb/> Miss K Price  
+            <pb n="4" facs="L1916_1028_img_295_4"/>
+              was coming up on <lb/> Monday &amp; got <lb/> stuck at Howth <lb/> for a week much <lb/> to the anxiety of <lb/> her people. <lb/> Miss Sandford <lb/> had her degree <lb/> conferred on the <lb/> Wednesday before Easter <lb/> she befriended me <lb/> the following week <lb/> as I was with Mrs E. <lb/> Gwynn &amp; her 5 children  
+         </ab>
+      </body>
+   </text>
+</TEI>

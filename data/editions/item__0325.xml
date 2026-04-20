@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0325">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Joseph Cormack, 16 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Joseph Cormack</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from John Joseph Cormack (b. 1875), a physician from County Kilkenny. This letter concerns Cormack&#39;s car, which he has permission to use for travel in in north Kilkenny, south Tipperary and and Queen&#39;s County (Laois). In the letter Cormack requests that Thomas Renihan be allowed permission to purchase petrol. Cormack adds that a Sergeant Hannon will be happy to facilitate him in every way.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/8334/1</collection>
+                  <idno>https://letters1916.ie/item/325</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0370">John Joseph Cormack</persName>
+              <date>1916-05-16T00:00:00</date>
+              <placeName key="#letters1916_place-0004">Johnstown, County Kilkenny, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0325_img_1549_1"  type="Letter"  url="ce9d5ad3afd2b2c3cd63a5944e9dc52f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0325_img_1549_1"/>
+                JOHNSTOWN  CO KILKENNY    16âVâ1916   Sir   I have a special permit from Mr Marks D.S. RSC <lb/>Castlecorner to travel by Motor in North Kilkenny <lb/>South Tipperary and Queens County. As I engage <lb/>a car by agreement with Mr Thomas Renihan <lb/>the garage Johnstown Co Kilkenny in my professional <lb/>duties as Medical Certifier to the National Health <lb/>Insurance Commissioners (Ireland) and also in my <lb/>private practice, I respectfully ask permission that <lb/>he  or I  be allowed permission to purchase petrol for <lb/>that purpose. Sergeant Hannon  R.S.C.  Johnstown Co Kilkenny <lb/>will be only too happy to facilitate me in every way. <lb/>Thanking you in anticipation of an early reply. <seg type="closer"> I am Sir <lb/>Your Obedient Servant  John J. Cormack </seg> Ack. &amp;reply that <lb/>permits for the purchase of <lb/>petrol are not issued from this <lb/>Dept. <lb/>I.J.T. 17.V.16.  
+         </ab>
+      </body>
+   </text>
+</TEI>

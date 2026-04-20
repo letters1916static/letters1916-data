@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5912">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Dr Kathleen Lynn, [post-April 1916]</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Kathleen Lynn</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is an undated and unaddressed letter from Dr. Kathleen Lynn (1874-1955), to an unnamed person. In this letter, Dr Lynn states that she has just received a letter from a person in Aylesbury Prison. The Aylesbury prisoner sends her love to all the &#39;rebelly crew&#39;, and asks for entertaining gossip. Lynn suggests that the recipient was happier in Mountjoy Gaol. Lynn notes, however, that the prisoner had a pleasant journey across the Irish Sea.Dr Kathleen Lynn was a medical practitioner, a suffragist, a nationalist, and a revolutionary. Lynn was Chief Medical Officer of the Irish Citizen Army during Easter 1916, and was a part of the City Hall garrison, of which she took command of the garrison after the death of Seán Connolly on the first day of the Rising. After independence, Lynn dedicated much time and energy towards the improvement of public health, and played a significant role in the eradication of tuberculosis in Ireland.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, IE/AL/KL/1/24</collection>
+                  <idno>https://letters1916.ie/item/5912</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1086">Kathleen Lynn</persName>
+              <date>1916</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5912_img_2395_1"  type="Letter"  url="d85ab2b9f1c3cde4ab359b04ba189558.jpg"/>
+      <graphic xml:id="L1916_5912_img_2395_2"  type="Letter"  url="2340e47bd721dafa143bc682bd7f378c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5912_img_2395_1"/>
+              I have just had a<lb/> letter from Aylesbury &amp;<lb/> can write. She sends her<lb/> love to all the 'rebelly crew'<lb/> &amp; wants a lot of gossip to<lb/> amuse her. But of course<lb/> it must be absolutely non-<lb/> political. Do you think any<lb/> of the Transport Union people<lb/> would care to send her<lb/> a message. Could you per-<lb/> haps get someone to go to<lb/> headquarters there &amp; find out.<lb/> I am sure from what she<lb/> said she would love a<lb/> nice friendly message from<lb/> them. If you haven't time<lb/> Miss French Mullen might<lb/> perhaps manage? She finds<lb/> Aylesbury very lonely after <lb/> Mountjoy where there were<lb/> seagulls &amp; pigeons &amp; a black <lb/> spaniel with long sillky ears<lb/> &amp; a nice convict baby &amp; a  
+            <pb n="2" facs="L1916_5912_img_2395_2"/>
+              melodion &amp; a man who<lb/> played Irish airs on a bugle<lb/> behind a wall &amp; nice soft<lb/> Irish voices everywhere.<lb/> But she had a lovely <seg type="del">passage</seg><lb/> journey &amp; looked out at the <lb/> sea through a sunny port-<lb/> hole &amp; saw an air ship. <lb/> And the garden is nice<lb/> at Aylesbury. She made pens<lb/> out of rooks tail feathers at <lb/> Mountjoy, she found in the <lb/> garden much better for black<lb/> &amp; white <seg type="unclear">words</seg> than most pens. <lb/> She says at Aylesbury they<lb/> exercise round &amp; <hi rend="underline">round</hi> in <lb/> a ring, <seg type="unclear">Come</seg> old hunters in <lb/> the summer &amp; pass a splendid<lb/> bed of carrots. The hollyhocks<lb/> are beautiful.  Please collect any gossip or <lb/> mesages you can think of <lb/> &amp; send them to me for her. <seg type="closer"> Haste fi. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

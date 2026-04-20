@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0901">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Peter Mooney to his sister Kate Mooney, December 30th 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Peter Mooney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Peter Mooney (b.1886) to his sister, Katie (b.1884). Peter complains that the puttees and breeches sent by Katie are of the wrong colour - they must be khaki. Peter writes of the loneliness of conducting picket duty, guarding the horses at night but writes of having an unusual companion during his duty in the form of a little dog.Orphaned at age 7, Peter and his sister Katie were raised by their uncle William and his wife Mary in Caulstown. While there are no surviving enlistment papers for Peter, his War Badge Index Record shows his enlistment date as 18 October 1915. He served with the Royal Artillery and later transferred to the Royal Engineers where he was promoted to the rank of Sergeant. He served in several places at the Western Front, including Ypres, St. Omer and Passchendael. Peter and Kate were avid correspondents. This letter part of a collection of over ninety surviving letters.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Mooney Family Papers</repository>
+                  <collection>Mooney Family Papers, Mooney Family Papers</collection>
+                  <idno>https://letters1916.ie/item/901</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0428">Peter Mooney</persName>
+              <date>1915-12-30</date>
+              <placeName key="#letters1916_place-1180">Ballincollig, Co. Cork</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1038">Katie Mooney</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0342">Caulstown, Dunboyne, Co. Meath</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0901_img_2499_1"  type="Letter"  url="06922449b3e910bfcd4d4b7f1b68fd81.jpg"/>
+      <graphic xml:id="L1916_0901_img_2499_2"  type="Letter"  url="2a9bfcc38cada0a1ce2af6704f062482.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0901_img_2499_1"/>
+                Nov 30<hi rend="superscript">th</hi>1915   Dear Katie.   I received the Breeches<lb/> &amp; <seg type="unclear">Puttees</seg> alright this morning.<lb/> Unfortunately they are the wrong<lb/> ones. You know the riding<lb/> Breeches with no strapping<lb/> they are partly a Khaki<lb/> colour. The <seg type="unclear">Puttees</seg> will<lb/> hardly do you can get a<lb/> good thick pair in Dublin<lb/> You can get them where you<lb/> got the Numerals &amp; send them<lb/> on. <sic>It</sic> will send back the<lb/> others when I get them  
+            <pb n="2" facs="L1916_0901_img_2499_2"/>
+              The sort of thing Picquet<lb/> Duty is as follows. We go<lb/> on Duty at 4.30 until 6.06<lb/> next morning. We have to be<lb/> on the watch two hours at<lb/> a time minding the Horses<lb/> The night I was on duty I<lb/> was out from 6.06 until 8.06<lb/> &amp;then back again from 12.06 until 2.06<lb/> We have to see that nothing<lb/> happens the Horses during the<lb/> night. It is a lonesome <lb/> job. I am glad poor old<lb/> Barney is alive still I hope<lb/> he lives until I see him<lb/> again. <cb/> I got a letter from Chris<lb/> Meehan this morning which<lb/> I enclose. He is going on<lb/> well thank God. I have<lb/> found out the name of the<lb/> Col. It is John Harvey<lb/> He must be an Irishman<lb/> by his name. You can<lb/> show Chris Meehans letter<lb/> to his mother. John Meehan<lb/> is in England still. The<lb/> little dog was with me<lb/> the night I was on Piquit<lb/> Duty he is a nice little fellow<lb/> I suppose Paddy goes up<lb/> ofter to you I hope he does   
+         </ab>
+      </body>
+   </text>
+</TEI>

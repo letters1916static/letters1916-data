@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1352">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from T.M. Healy to Mabel FitzGerald, 24 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>T.M. Healy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from MP T.M. Healy (1855-1931) to Mabel FitzGerald (née Washington McConnell) (1884-1958), wife of politician and intellectual Desmond Fitzgerald (1888-1947). Healy writes that attempts had been made to improve conditions and the removal of martial law (imposed after the outbreak of the rebellion) would facilitate this process. He states that he will keep her husband&#39;s case in mind and expresses the hope that a general amnesty for prisoners would come soon.Timothy Michael &#39;Tim&#39; Healy was an Irish journalist, author, barrister and an Irish Parliamentary Party MP. He was one of the few King&#39;s Counsel who represented Irish prisoners detained at Frongoch Internment Camp after the Easter Rising in 1916. Mabel was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington (1878 -1916) during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1581/1</collection>
+                  <idno>https://letters1916.ie/item/1352</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0528">T.M. Healy</persName>
+              <date>1916-05-24</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1352_img_703_1"  type="Letter"  url="19423c996dfd662b81be4fdcdde8ac19.jpg"/>
+      <graphic xml:id="L1916_1352_img_703_2"  type="Letter"  url="da0145f095ce1279cabfa0d978c3b6df.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1352_img_703_1"/>
+                24.5.16   Madam   By public&amp; private <lb/> remonstrances, we have tried to <lb/> obtain better conditions &amp; are <lb/> slowly succeeding. If Martial <lb/> Law were got rid of, it <sic>wd.</sic><lb/> be possible to secure more <lb/> improvement, but when we <lb/>reproached Govt. yesterday with  
+            <pb n="2" facs="L1916_1352_img_703_2"/>
+              <lb/>the Dublin prisons, Mr.John <lb/> O'Conor trotted out the grand <lb/> state of Wakefield Jail! A <lb/> nation which elects such <lb/> a representative, must bear <lb/> the consequences. Until today <lb/> the leading Redmondites remained <lb/> silent. I shall bear <lb/> your husbands case in mind, <lb/> &amp; trust before long an Amnesty <lb/> may clear the Jails. <seg type="closer"> Truly Yours  T.M.Healy </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

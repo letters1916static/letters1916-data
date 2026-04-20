@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0363">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Donald MacMaster to Harold John Tennant, 5 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Donald MacMaster </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Donald MacMaster to Harold John Tennant. The letter refers to a request to the War Office to send a dispatch to Dublin at the author&#39;s expense to find out the whereabouts of a maid who has went missing in Dublin on Easter Monday 1916.MacMaster (1846-1922), was a British lawyer and politician. In 1910 he had been elected to the House of Commons as a Conservative member for the Chertsey division of Surrey. He held this seat until his death in 1922.Tennant (1865-1935) was brother-in-law to the British Prime Minister Herbert Asquith and also acted as his assistant private secretary. Other posts which he occupied were financial secretary to the War Office from 1911-1912, under-secretary of state from 1912-1916 and secretary of Scotland from July 1916 to December 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered papers, CSO RP/1916/8718/1</collection>
+                  <idno>https://letters1916.ie/item/363</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0412">Donald MacMaster </persName>
+              <date>1916-05-05</date>
+              <placeName key="#letters1916_place-1690">8, Old Square, Lincolns Inn, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">H. J. Tennant</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0907">War Office, Whitehall, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0363_img_1601_1"  type="Letter"  url="7d2bb7f1c500c52ae0c67f2f459fad84.jpg"/>
+      <graphic xml:id="L1916_0363_img_1601_2"  type="Letter"  url="2c95f00e511db905d6c4d814ea0d94f6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0363_img_1601_1"/>
+                8, Old Square,  Lincolns Inn  LONDON, W.C.    May 5th 1916.    The Rt. Hon. H. J. Tennant,  or in his absence  Ian Macpherson, Esq., M.P.,  War Office,  WHITEHALL, S.W.   My Dear Sir :   I have a most urgent request from Mr. D.W.Oliver,<lb/> Manager of the Bank of Montreal, 8, Waterloo Place,<lb/> in regard to a message which he has received from his<lb/> sister Mrs. Crofke  a  (the wife of Colonel Crofke) now in<lb/> service at Kingstown.  <hi rend="underline">Mrs.  a  Crofke is living at their home at Birr,</hi> a town<lb/> about sixty miles from Dublin and her great anxiety is<lb/> in regard to her maid, <hi rend="underline">Bessie Harte,</hi> who <hi rend="underline">left Birr</hi> on<lb/> Monday Bank Holiday for Dublin and has not been heard<lb/> of since.  Mrs. Crofke  a  cannot get a telegram through to Dublin<lb/> and urgently requests, through Mr. Oliver, that a<lb/> message may be sent from the War Office to <hi rend="underline">Mrs. Egan Bernard,<lb/> of 65, Lindsay Road, Glasnevin, Dublin,</hi> TO <lb/> enquire if this lady, Mrs. Egan Bernard, knows anything<lb/> of the fate of Bessie Harte.  Will you have the goodness to send a dispatch, at my  
+            <pb n="2" facs="L1916_0363_img_1601_2"/>
+              expense to make this enquiry and as I am leaving for Bath<lb/> this afternoon will you kindly communicate the results of the<lb/> enquiry to my friend Mr. Oliver, the Bank Manager mentioned<lb/> above.  Any service that you can render will be greatly appreciated<lb/> and any expense  incurred  I will be personally responsible for. <seg type="closer"> Yours sincerely,  <hi rend="underline">Donald MacMaster</hi> </seg> <hi rend="underline">By Special Delivery</hi>  
+         </ab>
+      </body>
+   </text>
+</TEI>

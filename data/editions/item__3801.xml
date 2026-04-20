@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3801">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edythe Fitzgerald to Royal College of Physicians of Ireland, July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edythe Fitzgerald</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter rom Edythe FitzGerald to the Royal College of Physicians of Ireland (RCPI) acknowledging and thanking the college for their expression of sympathy in regards to the death of her husband, Dr Charles Edward FitzGerald (1853-1916).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T76</collection>
+                  <idno>https://letters1916.ie/item/3801</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0674">Edythe Fitzgerald</persName>
+              <date>1916-07</date>
+              <placeName key="#letters1916_place-0236">27 Upper Merrion Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0320">Royal College of Physicians of Ireland</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0281">Royal College of Physicians , Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3801_img_3184_1"  type="Letter"  url="4b791118af18bb216c272b87d5bce4d3.jpg"/>
+      <graphic xml:id="L1916_3801_img_3184_2"  type="Letter"  url="67f3ebf91dc9806ff3bdeb7b73ec3d4a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3801_img_3184_1"/>
+             27, Upper Merrion <lb/><hi rend="underline">St</hi>   Dear Sir   I desire to <lb/>acknowledge your <lb/>letter conveying <lb/>the resolution <lb/>from the President, <lb/>and Fellows of the <lb/>Royal College of <lb/>Physicians. on the
+            <pb n="2" facs="L1916_3801_img_3184_2"/>
+            death of my dear <lb/>husband D<hi rend="superscript">r</hi> C. E. <lb/>Fitzgerald &amp; for their <lb/>expressions of sympathy <lb/>for me and the <lb/>other members of his <lb/>family in our great <lb/>sorrow.   Believe me we <lb/>deeply appreciate <lb/>the kind terms in <lb/>which the resolution <lb/>is <seg type="unclear">conceived</seg> and the <lb/>expression of sympathy <lb/>it contains.   Faithfully Yours   <hi rend="underline">Edythe FitzGerald</hi>   Macd. C <lb/>7.VII.16 
+         </ab>
+      </body>
+   </text>
+</TEI>

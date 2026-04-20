@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0064">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Ernest Blythe to George Gavan Duffy, 18 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Ernest Blythe</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Earnest Blythe (1889-1975) to George Gavan Duffy (1882-1951). Blythe requests Gavan Duffy to represent him in court as he is to be prosecuted for failure to report to police in Abingdon, England. Included in the letter is a transcript of the deportation order which was sent by Major-General L.B. Friend to Blythe, 7 April 1916. George Gavan Duffy was an Irish politician, barrister and judge. He unsuccessfully defended Roger Casement at his trial for high treason after the Easter Rising. Ernest Blythe was an organiser for the Irish Volunteers. He had been arrested under the Defence of the Realm Act. He was released from prison in England before the Easter Rising but was rearrested there during Easter week 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, George Gavan Duffy Collection, BMH CD/45/3/11/1</collection>
+                  <idno>https://letters1916.ie/item/64</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1286">Ernest Blythe</persName>
+              <date>1916-04-18</date>
+              <placeName key="#letters1916_place-1811">Oxford Prison, England.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0467">George Gavan Duffy</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Law and Judiciary</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0064_img_1132_1"  type="Letter"  url="9c6bb70852a1967e1b2ec4bf126293e9.jpg"/>
+      <graphic xml:id="L1916_0064_img_1132_2"  type="Letter"  url="67ec7cf65d9fc5df868886896ccb9971.jpg"/>
+      <graphic xml:id="L1916_0064_img_1132_3"  type="Letter"  url="67ec7cf65d9fc5df868886896ccb9971.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0064_img_1132_1"/>
+              In replying to this letter, please write on the envelope :-    Number 635,Name E. Blythe  Oxford Prison    18 April 1916   Dear Sir,   I should be <lb/> obliged if you would <lb/> act for me at Abingdon <lb/> on Thursday next when <lb/> I shall be prosecuted <lb/> for failing to report to <lb/> the police as directed <lb/> in the enclosed order   
+            <pb n="2" facs="L1916_0064_img_1132_2"/>
+              I shall be brought before the court at 12 midday <seg type="closer"> Yours sincerely <lb/> Ernest Blythe </seg> 
+            <pb n="3" facs="L1916_0064_img_1132_3"/>
+              <hi rend="underline">Copy of Order</hi>  Headquarters Irish Command  Parkgate Dublin    7th April 1916   Ernest Blythe,   You have been informed that the <lb/> competent military authorities in England have <lb/> approved of Abingdon in Oxfordshire as your new <lb/> place of residence.   You are provided with a single ticket to <lb/> Crewe &amp; 13/- railway fare to Abingdon and you <lb/> will proceed forth with to Abingdon on arrival <lb/> there you will notify your arrival to the local <lb/> police and your new place of residence to the competent <lb/> Military Authority through the local police. <lb/> You are warned that in the event of your <lb/> returning to Ireland you will be arrested &amp; <lb/> tried in England  <seg type="closer"> E.B. Friend  Major General <lb/> Competent Military etc. <lb/> Authority. <lb/></seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

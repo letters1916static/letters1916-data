@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1476">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mabel FitzGerald to the Governor, Mountjoy Prison, 2 June 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mabel FitzGerald</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Mabel FitzGerald (née Washington McConnell) (1884-1958), wife of politician and intellectual Desmond FitzGerald (1888-1947), to A.T. Munro (1869-1952), the governor of Mountjoy prison. Mabel had written a letter to her husband in Mountjoy but he was transferred to Dartmoor before it arrived. She is concerned that the letter, when forwarded from Mountjoy to Dartmoor, will be counted as her husband&#39;s allowance of one letter on arrival in Dartmoor. She asks the governor to intervene as she fears that, under the rules, she will have to wait four months for further communication.Mabel Fitzgerald was the wife of Irish Volunteer Desmond Fitzgerald. Mabel was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week. Charles Arthur Munro (1869-1952) was the governor of Mountjoy prison in Dublin. He is also the brother of the noted author H.H. Munro, better known through his literary pseudonym, Saki.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1598</collection>
+                  <idno>https://letters1916.ie/item/1476</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date>1916-06-02</date>
+              <placeName key="#letters1916_place-1402">2 Loretto Villas, Bray, County Wicklow, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">The Governor, Mountjoy Prison</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1165">Mountjoy Prison, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1476_img_929_1"  type="Letter"  url="d89e892066efeef1b09f3d71676729bc.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1476_img_929_1"/>
+                2 Loretto Villas, Bray    2<hi rend="superscript">nd</hi> June,1916    The Governor,  Mountjoy Prison,  Dublin   Sir,   I find that my husband Mr Desmond Fitzgerald, left Mount <lb/>joy Prison, on Friday last so that he could not have received my 1 <lb/>letter before his departure. I had been told at the Prison that he <lb/>would be able to write me and to receive one letter within the <lb/>first week. I waited to write him till I should have had his letter <lb/>which came on Friday morning: I posted my reply on Friday after <lb/>noon.  I have just heard from him again from Dartmoor : it <lb/>appears they are permitted to write once and receive a letter <lb/>after arrival there.  I think it very likely that my letter to my husband <lb/>was forwarded on from Mountjoy in which case he fears that it <lb/>may count as the letter he has the right to receive in Dartmoor. <lb/>I shall be very much obliged if you will write the Governor of Dart <lb/>moor explaining matters so that he may be given the letter which <lb/>I am now writing him to Dartmoor. As <seg type="del">the</seg> he will not have another <lb/>letter for four months I am anxious that he should not lose this <lb/>one through a mistake. <seg type="closer"> I am, Yours truly </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

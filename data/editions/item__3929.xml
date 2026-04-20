@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3929">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Hanna Sheehy Skeffington to Owen Sheehy Skeffington, 7 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Hanna Sheehy-Skeffington</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47; Ms 33,609/5-2</collection>
+                  <idno>https://letters1916.ie/item/3929</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0722">Hanna Sheehy-Skeffington</persName>
+              <date>1916-07-07</date>
+              <placeName key="#letters1916_place-1588">South End Kensington Square, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0655">Owen Sheehy Skeffington</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0416">43 Moyne Road, Ranelagh, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="death">1946</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3929_img_3305_1"  type="Letter"  url="0e6f8ba110f89b1787a2c00e4da6a0af.jpg"/>
+      <graphic xml:id="L1916_3929_img_3305_2"  type="Envelope"  url="aff9af397174e4e94d3e4f658ea28473.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3929_img_3305_1"/>
+             19 South End <lb/> Kensington Sqr.  <lb/>Friday  Dear Owen.   I hope you came home all right and that <lb/>you, John and Alice have great games together. I know <lb/>you will be a very good boy while I am away. Sir <lb/>Francis is here. He is going to write to you soon. <lb/>Tell M<hi rend="superscript">rs</hi>Robert and Aunt Katty I´ll not be home <lb/>'till Thursday or Friday. It rains a lot here now. <lb/>Perhaps you will come to meet me to the train, <lb/>like dada used to. Everyone over here is very <lb/>sorry for dada and they are helping me to <lb/>find out all about it. I´ll bring you something <lb/>nice from London. What would you like best?   Mama. 
+            <pb n="2" facs="L1916_3929_img_3305_2"/>
+             Owen Lancelot Sheehy Skeffington 43 Moyne Rd <lb/>Ranelagh <lb/>Dublin 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1802">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Horner to Augustine Birrell, 28 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Horner</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from William Horner (1878-1847), a unionist and solicitor based in Londonderry to Augustine Birrell (1850-1933) the chief secretary of Ireland. Birrell had support from many leading nationalist and unionist leaders as chief secretary, but resigned after the Easter Rising. The letter opens with the acknowledgement of the death of the former chief Crown solicitor, Malachy Kelly (1850-1916), noting the vacancy for the position. Horner states that he wishes to apply, accounting his history as a practicing solicitor. He also notes that his brother is Andrew L. Horner (1886-1916) a recently deceased member of parliament for Tyrone South. Horner also notes that he is known to most of the members of parliament for the North of Ireland, including the attorney general.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/6463/7</collection>
+                  <idno>https://letters1916.ie/item/1802</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1150">William Horner</persName>
+              <date>1916-03-28</date>
+              <placeName key="#letters1916_place-1763">Londonderry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Augusitine Birrell</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1947</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1802_img_1256_1"  type="Letter"  url="ac2ac16049d394638ae08212c03d7450.jpg"/>
+      <graphic xml:id="L1916_1802_img_1256_2"  type="Letter"  url="01e4d35a2db5d8f618863f13f0e63f0b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1802_img_1256_1"/>
+             Londonderrry.   28<hi rend="superscript">th</hi> March 1916.   The Right Honorable A. Birrell K.C M.P. <lb/>Chief Secretary for Ireland, <lb/>The Castle, <lb/><hi rend="underline">Dublin.</hi>    Dear Sir,   Owing to the sudden death of Sir Malachy <lb/>Kelly a vacancy has occurred in the position of <lb/>Chief Crown Solicitor for Ireland.   I beg to apply for the position.   I was admitted a Solicitor 20 years ago <lb/>and have been practising on my own account since <lb/>admitted and have built up a successful practise <lb/>in Londonderry City and in the Counties of <lb/>Donegal and Londonderry and I am fully qualified <lb/>to fill the position.   I am known to most of the Members of
+            <pb n="2" facs="L1916_1802_img_1256_2"/>
+            Parliament for the North of Ireland including <lb/>the Right Honorable the Attorney General and <lb/>I am a brother of the late A. L. Horner, M.P. <lb/>for South Tyrone.   Should you honour me with the appointment <lb/>I shall endeavour to discharge the duties in an <lb/>impartial and satisfactory manner.   I am  <lb/>Your obedient servant   WM Horner 
+         </ab>
+      </body>
+   </text>
+</TEI>

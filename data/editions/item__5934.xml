@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5934">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Minsie Arkwight to Lady Clonbrock, 22 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Minsie Arkwright</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Mary Arkwright to the Lord and Lady Clonbrock to congratulate them on their Golden Wedding. The letter was forwarded from the Clonbrock house in Galway to Cadogan Gardens, London. Mary Arkwright signs the letter as &#39;cousin Minsie Arkwright&#39;. Augusta Caroline Dillon (née Crofton) was the wife of Luke Gerald Dillon (1834 - 1917), the 4th Baron of Clonbrock, Co. Galway and the daughter of Lord Crofton of Mote Park (Edward Henry Churchill Crofton, 3rd Baron), Co. Roscommon. Augusta was a skilled photographer and was responsible for creating much of the collection of 3,000 negatives and prints, now held by the National Photographic Archive of Ireland, which illustrates many aspects of life on the estate over a period of seventy years. She was also very active in promoting home industries at Clonbrock and in organizing voluntary work on behalf of local men serving with the British Army during the First World War, for which she was awarded an OBE in 1920. The Dillon family of Clonbrock was descended from Sir Henry de Leon, an Anglo-Norman nobleman who arrived in Ireland with the Earl of Moreton (later King John of England) in 1185. As a reward for helping Prince John to establish his Lordship of Ireland, de Leon was granted a large tract of land on the Westmeath frontier with Connacht on which he built a castle at Drumrany. This family was among the first of the Anglo-Norman settlers in this part of Ireland and later spread into adjoining counties.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Collection List 54, MS 35,793 (9)</collection>
+                  <idno>https://letters1916.ie/item/5934</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0151">Minsie Arkwright</persName>
+              <date>1916-07-22</date>
+              <placeName key="#letters1916_place-0135">Perthshire, Scotland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0049">Lady Clonbrock</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0552">London, UK</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5934_img_44_1"  type="Letter"  url="718b5732d6985f402fd05b5cc6b27830.jpg"/>
+      <graphic xml:id="L1916_5934_img_44_2"  type="Letter"  url="499cfc98540becfe4b419c647d63ddaf.jpg"/>
+      <graphic xml:id="L1916_5934_img_44_3"  url="917f43fe811db65f1af2dd9d510315a0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5934_img_44_1"/>
+                <hi rend="underline">July 22<hi rend="superscript">nd</hi>.</hi>    Birnam  Perthshire  Scotland   My dearest Tweety.   I have just seen a <lb/> picture of you both <lb/> celebrating your Golden <lb/> Wedding to day, &amp; it <lb/> is <hi rend="underline">our</hi> Wedding day, but<lb/><hi rend="underline">54</hi> years! â  My heartiest congratulations  
+            <pb n="2" facs="L1916_5934_img_44_2"/>
+              to you both from<lb/> your very aff<hi rend="superscript">tc</hi><lb/> cousin <seg type="closer"> <hi rend="underline">Minnie Arkwright.</hi> </seg> 
+            <pb n="3" facs="L1916_5934_img_44_3"/>
+                10 Cadogan Gardens  Chelsea  London  SW  The Lady Clonbrock  <seg type="del">Clonbrock</seg><lb/><seg type="del">Ahascragh</seg><lb/><seg type="del">Galway</seg><lb/><seg type="del">Ireland</seg><lb/> on the left side Mary Arkwright ans'd.  
+         </ab>
+      </body>
+   </text>
+</TEI>

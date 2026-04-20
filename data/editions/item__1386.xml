@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1386">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Chief Crown Solicitor to the Chief Administrative Officer, Royal Hospital Dublin, 16 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Malachy Kelly</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A series of letters between the Administrative Area Officer, Royal Hospital Dublin and the Chief Crown Solicitor, Dublin Castle concerning an injury sustained by Patrick Sheehan while he was working as a casual labourer employed by the Forage Department to handle hay, oats and straw. The series of letters concerns possible compensation as this was an injury sustained at work.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI_CSO_RP_1916_3785_3, NAI_CSO_RP_1916_3785_3</collection>
+                  <idno>https://letters1916.ie/item/1386</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0509">Malachy Kelly</persName>
+              <date>1916-03-16</date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Chief Administrative Officer, Royal Hospital Dublin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0388">Royal Hospital, Kilmainham, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1386_img_758_1"  type="Letter"  url="7b235b7745425da52cc13a5fc63e35bc.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1386_img_758_1"/>
+                16th March 1916   Ref. No. 92 <lb/>Subject - Injury to Patrick Sheehan  Sir,   Referring to your letter of 14th instant the applicant should <lb/>be required in accordance with the Act to submit himself for <lb/>examination free of cost by one of your Medical Officers and if <lb/>the latters report verifies the applicant's total incapacity to <lb/>work he would be entitled to be paid during such incapacity a sum <lb/>not exceeding 50 per cent of his average weekly earnings for any <lb/>period during which he has been employed such weekly payments not <lb/>to exceed Â£1.   If the Applicant is under 21 years of age and his average <lb/>weekly earnings are less than 20s/- he would be entitled to 100 <lb/>per cent but the weekly payment in such case should not exceed <lb/>10s/-. <seg type="del">and</seg> in case the applicant is only partially incapacitated <lb/>the papers should be resubmitted to me with the medical report.  <seg type="closer"> Yours faithfully,  M Kelly <lb/>The Administrative Area Officer. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

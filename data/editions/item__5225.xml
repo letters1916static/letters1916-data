@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5225">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Kate Allman to Charlie Daly, 13 November 1922</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Kate Allman </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry County Archives</repository>
+                  <collection>Charlie Daly Collection, P41/10/1/6</collection>
+                  <idno>https://letters1916.ie/item/5225</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1484">Kate Allman </persName>
+              <date>1922-11-13</date>
+              <placeName key="#letters1916_place-2063">Providence Convent, Wood Green, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0548">Charlie Daly </persName>
+              <date></date>
+              <placeName key="#letters1916_place-1693">Drumboe Castle, Stranorlar, Tirconail, Donegal, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">The Rising Tide (1917-1919)</item>
+               <item n="topic">Civil War (1922-1923)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5225_img_None_1"  url="a5f157fe05bbbf757ce568e8d65f093e.jpg"/>
+      <graphic xml:id="L1916_5225_img_None_2"  url="2bb0f74841c9e851f119f11a6d5e9c5e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5225_img_0_1"/>
+             P41/10/1/6   Providence Convent<lb/>Wood Green<lb/>London    13.11.'22    Charlie a capa Dil   Enclosed you will find<lb/>five books which I hope will help to<lb/>take your mind off your surroundings. I<lb/>haven't read any of them myself so I cant<lb/>pass any criticism on them.  I hope you got the letters I sent<lb/>you on the 6th which was to be re-directed &amp;<lb/>the one I also sent on the 8th.  I shall write you a long letter tomorrow<lb/>as I have only a few more minutes to<lb/>catch the post. I am very busy at present<lb/>imagine only four more days here. I saw<lb/>your arrest in an  Irish  paper in Epsom. Remember<lb/>me to the other Kerry lads that are with<lb/>you. I don't know if I know them.  <seg type="unclear"></seg>    Any chance of being sent to Dublin? 
+            <pb n="2" facs="L1916_5225_img_0_2"/>
+             C. Daly 
+         </ab>
+      </body>
+   </text>
+</TEI>

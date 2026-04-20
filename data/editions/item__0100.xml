@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0100">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">A letter from Thomas W. Delany to Sir Matthew Nathan, 29 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas F. Delaney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Thomas W. Delany (1868-1939) to Sir Matthew Nathan (1862-1939), under-secretary for Ireland. Delany was a Crown solicitor and after the death of Sir Malachy Kelly on 25 March 1916, Delany is putting his name forward for the position of chief Crown solicitor of Ireland.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/6258/3</collection>
+                  <idno>https://letters1916.ie/item/100</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1257">Thomas F. Delaney</persName>
+              <date>1916-03-29</date>
+              <placeName key="#letters1916_place-0610">Longford, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0100_img_1181_1"  type="Letter"  url="2645d82aedef240d30b4826ea2272ed1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0100_img_1181_1"/>
+                Longford,     March 29 1916   <hi rend="underline">Sir</hi>   I beg to offer myself as <lb/>a candidate for the position of <lb/>Chief Crown Solicitor   I have held the position of <lb/>Crown Solicitor for the County <lb/>since Dec. 1907.  <seg type="closer"> I am Sir <lb/>Your obedient Sert.   TWDelany   The Under Secretary  Dublin Castle  Dublin  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

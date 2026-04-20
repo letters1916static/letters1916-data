@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0237">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Telegram from Basil Home Thomson, Assistant Commissioner at New Scotland Yard, to Sir Neville Chamberlain, 9 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Assistant Commisioner</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A telegram from the Assistant Commissioner (Basil Home Thomson) to Inspector General Royal Irish Constabulary, Sir Neville Francis Fitzgerald Chamberlain (1856-1944).The Assistant Commissioner is asking Chamberlain to take the necessary steps to monitor any post sent by Patrick Hastings, an inmate of Killadysert Workhouse. The request comes after Hastings sent several letters, described as &#39;insane&#39; in nature, to the King.Basil Home Thomson (1861-1939) was appointed Assistant Commissioner &#39;C&#39; (Crime) of London&#39;s Metropolitan Police in 1913. He was the head of the Criminal Investigation Department (CID) at New Scotland Yard. When World War I broke out in 1914, the CID found itself acting as the enforcement arm for Britain&#39;s military intelligence apparatus: while the newly formed Secret Service Bureau (later known as MI6, the Secret Intelligence Service), and the intelligence arms of the War Office and the Admiralty, collected intelligence on suspected spies in Britain, they had no arrest powers. As head of CID, Thomson was involved in the arrests in several high-profile espionage cases.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/6322/1</collection>
+                  <idno>https://letters1916.ie/item/237</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0933">Assistant Commisioner</persName>
+              <date>1916-04-09</date>
+              <placeName key="#letters1916_place-0554">London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Neville Chamberlain</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0237_img_1409_1"  type="Letter"  url="232916f157f421ef11cc4da3d58e0974.jpg"/>
+      <graphic xml:id="L1916_0237_img_1409_2"  type="Letter"  url="c3479468f87aa4464222e133d404778c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0237_img_1409_1"/>
+              London R.   To Inspector General, Royal Irish Constabulary,  Dublin Castle.    My telegram April 8th and <lb/> your reply patrick Hastings Inmate <lb/> Killadysert workhouse county Clare continues <lb/> writing insane letters see your <lb/> letter 21045 17 <hi rend="superscript">th</hi> see and <lb/> my letter 7 <hi rend="superscript">th</hi> March 1916  
+            <pb n="2" facs="L1916_0237_img_1409_2"/>
+              requested that you kindly give <lb/> directions to stop annoyance  <seg type="closer"> Assistant Commissioner <lb/> New Scotland Yard    TO (2) I. G. R.I.C.  DUBLIN. Castle  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

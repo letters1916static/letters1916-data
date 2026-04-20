@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5057">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mrs MacFeely to Ellen Daly, 5 April 1923</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mrs MacFeely</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry County Archives</repository>
+                  <collection>Charlie Daly Collection, P41/4/2/1</collection>
+                  <idno>https://letters1916.ie/item/5057</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0653">Mrs MacFeely</persName>
+              <date>1923-04-05</date>
+              <placeName key="#letters1916_place-0219">Daisyhill, Ballybofey, Donegal, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Ellen Daly </persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">The Rising Tide (1917-1919)</item>
+               <item n="topic">Civil War (1922-1923)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5057_img_None_1"  url="3b372f0d91731d5b464c74009a2ddda8.jpg"/>
+      <graphic xml:id="L1916_5057_img_None_2"  url="95526716b8b7d2f9254115a8baaf5e3c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5057_img_0_1"/>
+              Daisyhill<lb/>Ballybofey<lb/>Co Tirconnell    5.4.'23    Dear Mrs Daly   As we are getting<lb/>Memoriam Cards <hi rend="superscript"> printed </hi>of the four<lb/>true patriots executed at<lb/>Brumboe, and would like<lb/>to have their photos, would<lb/>it be possible for you to<lb/>send me one of your dear<lb/>boy, I'll return it when<lb/>we get it copied. We are not<lb/>forgetting them in our prayers, 
+            <pb n="2" facs="L1916_5057_img_0_2"/>
+             although we know they no<lb/>longer require them, having<lb/>gained the reward which<lb/>is the lot of all true<lb/>soldiers of the Republic.<lb/>Trusting you and your<lb/>family are quite resigned<lb/>to God's holy will   Yours most faithfully,<lb/>(Mrs.) Mac Feely  
+         </ab>
+      </body>
+   </text>
+</TEI>

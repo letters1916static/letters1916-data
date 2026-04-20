@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1287">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Susan Fitzgerald to Michael Gorman, 12 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Susan Fitzgerald</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Susan Fitzgerald (d. 1980) to Michael Gorman. The letter refers mainly to arranging one of their secret meetings as Michael will be back from Dublin. She writes that can only meet if the weather is fine. Susan also refers to a dance in Maryborough (now Portaoise) and a letter from a professor in Albert College.Michael Gorman was one of a large Catholic family living at a farm in Ballinalug, County Laois (then Queen&#39;s County). Susan Fitzgerald was one a Church of Ireland family living in Raheenahone House near Stradbally, County Laois, also in the Slieve Bloom mountains. At the time the letter was written they were involved in a courtship but owing to the religious difference the love affair had to be kept secret. Eventually both were in Dublin: he in the Albert Agricultural College in Glasnevin (where he eventually became Professor of Agricultural Botany and Biochemistry) and she as a volunteer nurse in the Royal Hospital in Baggot Street. They eventually went to London to marry.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Michael Gorman</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/1287</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1259">Susan Fitzgerald</persName>
+              <date>1916-10-12</date>
+              <placeName key="#letters1916_place-1800">Raheenahone House, Stradbally, County Laois</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Michael Gorman</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1251">Albert Agricultural College, Glasnevin, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1287_img_495_1"  type="NULL"  url="557f29442634eef09c3cb96f3d5c392f.jpg"/>
+      <graphic xml:id="L1916_1287_img_495_2"  type="NULL"  url="6a8b0d54fc836cb0ffc486e2c9ad574d.jpg"/>
+      <graphic xml:id="L1916_1287_img_495_3"  type="NULL"  url="2cb60f7d8f60a3b3a3085b584543c432.jpg"/>
+      <graphic xml:id="L1916_1287_img_495_4"  type="NULL"  url="518dc0868fd44c40a7377ca5d0e9adba.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1287_img_495_1"/>
+              Note at the top left-hand side of the page written sideways  I wish you could come <lb/>by an earlier train - <lb/>I'll be at home at <lb/>4 p.m. <lb/>Molly sends xx one <lb/>for each cheek    Raheena house  Stradbally    <hi rend="underline">Thursday</hi>   Dearest Mickie   I was very <lb/>pleased to get your <lb/>letter on Tuesday and <lb/>Im so glad you <lb/>are able to come down.  
+            <pb n="2" facs="L1916_1287_img_495_2"/>
+               Note listed on the side  you need never tell me Im a bad cyclist again <lb/>the way you are behaving! <lb/> 
+            <pb n="3" facs="L1916_1287_img_495_3"/>
+              sake <hi rend="underline">dont</hi> give him my address <lb/>in case he <hi rend="underline">might</hi> think of <lb/>writing <hi rend="underline">but</hi> indeed I know he wouldnt <lb/>be bothered &amp; I hope so. <lb/>There was a great concert <lb/>in Maryboro' on Wednesday. I <lb/>was asked to go but I didnt <lb/>Im waiting for the first week <lb/>in January!! I had a long <lb/>letter from Katie Mc<seg type="unclear">Callinan</seg><lb/>&amp; she wanted to know if I <lb/>was going up this month.  I shall look forward with <lb/>the greatest possible pleasure <lb/>to Saturday &amp; I hope it will <lb/>be a nice sun shiny day. <seg type="closer"> With heaps of love for <lb/>always you own little girl  Sue. </seg> 
+            <pb n="4" facs="L1916_1287_img_495_4"/>
+                M.J. Gorman Esq,  Albert College  Glasnevin  <hi rend="underline">Dublin</hi>    
+         </ab>
+      </body>
+   </text>
+</TEI>

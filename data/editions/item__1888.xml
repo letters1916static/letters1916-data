@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1888">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William M. Nolan to Matthew Nathan, 7 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William M. Nolan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from the Town Clerk of Limerick William M. Nolan (1855-1941) to Sir Matthew Nathan (1862-1939) the under-secretary for Ireland. Nathan was under-secretary until the 1916 Rising after which he offered his resignation. The letter deals with the resignation of a Mr Patrick Reidy and particularly the amount of an allowance he will receive. The letter states that the council are considering a sum of £67:3:4 per year, and this is to be confirmed at the next Council meeting.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/6301</collection>
+                  <idno>https://letters1916.ie/item/1888</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1399">William M. Nolan</persName>
+              <date>1916-04-07</date>
+              <placeName key="#letters1916_place-0904">Town Clerk&#39;s Office, Town Hall, Limerick, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1941</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1888_img_1340_1"  type="Letter"  url="0fdabc1c25bb6e304b3c93e3b0bcb5ee.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1888_img_1340_1"/>
+             Town Clerk's Office, <lb/>Town Hall, <lb/>Limerick.   7th April 1916.  <lb/>5711. <lb/><hi rend="underline">"Local Officers Superannuation Act, 1869."</hi>  Sir,   I beg to inform you that your letter of the 3rd instant was <lb/>duly considered by the Gas Committee at a meeting held on the <lb/>6th instant, and the following resolution adopted unanimously :-   "Resolved --- That having read the letter from the Under <lb/>Secretary of the 3rd instant intimating that the retiring <lb/>allowance which the Lord Lieutenant would be prepared to <lb/>sanction in the case of Mr. P. Reidy should be calculated on <lb/>the 31/60ths of his salary and emoluments at the date of his <lb/>retirement : that the resolution of the 29th ult be and is <lb/>hereby rescinded and that we recommend the County Borough <lb/>Council to grant the said Mr Patrick Reidy a <sic>Superranuation</sic> <lb/>Allowance of £67:5:4 a year (being 31/60ths of £2:10:0 <lb/> a week, <seg type="del">I</seg>his salary and emoluments at the date of his <lb/>retirement)." Please see paragraph II on enclosed copy Agenda.   This resolution was unanimously adopted at the Quarterly <lb/>meeting of the Council held last evening, and I was directed to <lb/>ask His Excellency's approval thereof.   It is proposed to confirm the proposal at the monthly meeting <lb/>of the Council on the 4th May next.   As requested I enclose the Medical Certificate required to be <lb/>furnished by the Act.   I am, <lb/>Sir, <lb/>Your obedient Servant   W. M. Nolan  <lb/>Town Clerk.  The Under Secretary, <lb/>Dublin Castle.   Await receipt of <lb/>confirming resolution <lb/>M.N. <lb/>10.4.16 
+         </ab>
+      </body>
+   </text>
+</TEI>

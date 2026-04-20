@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2827">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from M.J. Stevenson to George Hackney, 22 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M.J. Stevenson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This postcard is from Margaret&#39;s Stevenson to George Hackney. She expresses gladness that George is now closer to home as he was recovering from an injury in Wharncliffe War Hospital, Sheffield. She hopes that he is on the way to recovery. The picture on the reverse side depicts the Reading Room of the Presbyterian Women&#39;s Union, Belfast.
+
+This letter is from the papers of George Naphthali Hackney (c. 1889-1977), a  Lance Corporal from Clifton, Belfast. Before his time in the army, he worked as a book-keeper for a florist. He was the youngest in a Presbyterian family of six, with three older sisters. In 2014, his collection of photographs taken in the trenches were made available to the public in an Ulster Museum exhibition, and his life and photography became the subject of a BBC documentary, &#39;The Man who Shot the Great War&#39;. 
+
+M.J. Stevenson (born c. 1881) was a Margaret J. Stevenson, an unmarried, Presbyterian warehouse clerk living on Wheatfield Avenue in Clifton.
+
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Papers of George Hackney, Belfast; D3503/5/1-6-6</collection>
+                  <idno>https://letters1916.ie/item/2827</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0606">M.J. Stevenson</persName>
+              <date>1916-09-22</date>
+              <placeName key="#letters1916_place-1949">Belfast, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">George Hackney</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0446">Ward 31, 'D' Block, Wharncliffe War Hospital, Sheffield, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Faith</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2827_img_2242_1"  type="Letter"  url="a56bbc2570a6314a336ae032f76ec8c3.jpg"/>
+      <graphic xml:id="L1916_2827_img_2242_2"  type="Photograph"  url="67242b79d296c0930bf07352f796603b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2827_img_2242_1"/>
+             FOR CORRESPONDENCE <lb/>INLAND POSTAGE ONLY.   Hope you are <lb/>on the way to <lb/> recovery. Pleased <lb/>to know you are <lb/>coming nearer old <lb/>Belfast   Kindest regards   M.J. Stevenson   22/9/16  <lb/>POSTCARD  Private G. Hackney, <lb/>31. Ward, "D" Block, <lb/>Wharncliffe War Hospital, <lb/>Sheffield, <lb/><hi rend="underline">England</hi> 
+            <pb n="2" facs="L1916_2827_img_2242_2"/>
+            A.R. Hoog,] Presbyterian Women's Union — Reading Room, Assembly Buildings, Belfast. [Photo.
+         </ab>
+      </body>
+   </text>
+</TEI>

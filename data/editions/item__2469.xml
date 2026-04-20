@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2469">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Andrew Philip Magill to Joseph Devlin, 8 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Andrew Philip Magill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Andrew Philip Magill (1871 – 1941), the private secretary to the chief secretary for Ireland on behalf of Henry Edward Duke (1855-1939), chief secretary for Ireland. Magill was a civil servant and held the position of private secretary for successive chief secretaries for Ireland until his transfer to the Northern Irish Civil Service in 1921.
+
+The letter was sent to Joseph Devlin (1871 – 1934), an influential Home Rule MP and grandmaster of the Ancient Order of Hibernians. In the aftermath of the Easter Rising, Devlin supported the proposed temporary partition of Ireland but the scheme collapsed.
+
+The letter concerns the appointment of Michael McConville as Petty Sessions Clerk of Crossmaglen. Magill writes that when called up to examination McConville was ignorant of his duties generally and had taken no trouble to acquaint himself with the work, therefore the chief secretary felt that he could not interfere in the matter of McConville’s resignation.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/5620/13373</collection>
+                  <idno>https://letters1916.ie/item/2469</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0014">Andrew Philip Magill</persName>
+              <date>1916-08-08</date>
+              <placeName key="#letters1916_place-0279">Irish Office, Old Queen St., London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0915">Joseph Devlin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0077">House of Commons, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1941</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2469_img_1905_1"  type="Letter"  url="033b2897702e2acfe2914ccdb45f34e6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2469_img_1905_1"/>
+              8th August, 1916.   Dear Mr. Devlin,      I am desired by Mr. Duke to say that Mr. Samuel <lb/> forwarded to him your letter relative to the case of <lb/> Michael McConville who was elected Petty Sessions Clerk <lb/> of Crossmaglen. Mr Duke has made enquiries into the <lb/> matter and finds Mr McConville was appointed on <lb/> probation for six months and then called up to <lb/> undergo an examination as to his general knowledge of <lb/> his duties as Petty Sessions Clerk. As he complained <lb/> of being nervous at the examination, the Registrar of <lb/> Petty Sessions Clerks had Mr. McConville before him and <lb/> went over each question and answer with him. Mr. McConville <lb/> was very ignorant of his duties generally and, apparently, <lb/> had taken no trouble to acquaint himself with his work as <lb/> a Petty Sessions Clerk. The Registrar of Petty Sessions <lb/> Clerks was unable to recommend that the appointment should <lb/> be finally approved, and Mr. McConville sent in his <lb/> resignation of the post. in these circumstances, Mr. Duke <lb/> does not feel that he can interfere in the matter.   <seg type="closer"> Yours faithfully,    (Sd.) A.P.M.  </seg>  Joseph Devlin, Esq., M.P., <lb/> House of Commons 
+         </ab>
+      </body>
+   </text>
+</TEI>

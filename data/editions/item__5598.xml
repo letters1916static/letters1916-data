@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5598">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Honoria Sweetman to her mother, Agnes Sweetnam, 20 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Honoria Sweetman</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from Honoria Sweetman (b. 1908) to her mother Agnes (b. 1871).
+
+Agnes was the wife of John Sweetman (1884 - 1936), a member of Sinn Féin and patron to Arthur Griffith. In 1915 Sweetman spoke out against conscription and was arrested after the 1916 Rising and interned in England until the end of May 1916.
+
+In this letter Honoria describes the warm weather in Dublin and mentions that she is about to go to pick some flowers for &#34;Holy Mary&#39;s Altar&#34;. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sweetman Family Papers, Collection List No. 156; Ms. 44,565 /5</collection>
+                  <idno>https://letters1916.ie/item/5598</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1184">Honoria Sweetman</persName>
+              <date>1916-05-20</date>
+              <placeName key="#letters1916_place-1116">Drumbaragh, Kells, County Meath, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Agnes Sweetman</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1594">47 Merrion Square, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5598_img_692_1"  type="Letter"  url="f9a38a694a2bdb7f664509ef3fe1d69b.jpg"/>
+      <graphic xml:id="L1916_5598_img_692_2"  type="Letter"  url="27371c7a4e0be6c5525302011552e5e6.jpg"/>
+      <graphic xml:id="L1916_5598_img_692_3"  type="Envelope"  url="2e0d01909247b2d0ab6691b1ec7f4f1b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5598_img_692_1"/>
+             Drumbaragh<lb/> Kells   My dearest Mama   <sic>Thancks</sic> very much<lb/> for your letter.<lb/>This is a very warm<lb/> day. I am <sic>gldd</sic> to
+            <pb n="2" facs="L1916_5598_img_692_2"/>
+            <!-- Written in 2 columns -->  hear that Pappy is<lb/>well. We are going<lb/>out now to pick<lb/>flowers for Holy<lb/>Marys alter. <lb/>  With best love<lb/> Your fond Daughter Honoria Sweetman   May 20<hi rend="superscript">th</hi> 1916. 
+            <pb n="3" facs="L1916_5598_img_692_3"/>
+            M<hi rend="superscript">rs</hi> Sweetman<lb/>  41 Merrion Square<lb/> Dublin 
+         </ab>
+      </body>
+   </text>
+</TEI>

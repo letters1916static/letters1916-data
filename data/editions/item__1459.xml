@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1459">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Jack (J.J.) Heuston to Mr. E. Walsh, 7 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Jack Heuston</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Jack (J. J. / Seán) Heuston, (1891-1916) to Mr. Walsh, a colleague at the Great Southern and Western Railway in Kingsbridge Station, on the day before his execution at Kilmainham Gaol. He writes to thank Walsh and his other colleagues at the railway and notes that before the note reaches Walsh, he will have said farewell to this &#39;Vale of Tears&#39; as he departs for what he hopes is a better place. He also writes that he has no regrets and says that it is &#39;better to be a corpse than a coward&#39;. Finally, he asks that any money owed to him be paid to his mother.Heuston was a leading member of Fianna Éireann, a republican boy scout movement, and a founding member of the Irish Volunteers. During the Easter Rising, Heuston led the garrison of rebels who occupied the Mendicity Institution on Usher&#39;s Island. Under heavy fire and vastly outnumbered, Heuston surrendered in Wednesday, 26 April (the third day of the Rising). He was court-martialled, convicted and sentenced to death. He was executed on 8 May.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>De Valera Papers, P150/492/1</collection>
+                  <idno>https://letters1916.ie/item/1459</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1387">Jack Heuston</persName>
+              <date>1916-05-07</date>
+              <placeName key="#letters1916_place-1681">Kilmainham Gaol, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">E. Walsh</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Last letters before death</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1459_img_907_1"  type="Letter"  url="88308234524d1bacd8d55b1a898b15ef.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1459_img_907_1"/>
+                Kilmainham Prison    Sunday May 7   Dear Mr Walsh,   Before this note reaches you I <lb/> shall have said farewell to this Vale of<lb/> tears, and have departed for what I <lb/> trust will prove a much better world.  I take this opportunity of thanking you<lb/> and all my railway friends for the kind<lb/> ness of the past years. I ask all to forgive<lb/> me for any offences which I may have<lb/> committed against them, and I ask all<lb/> to pray fervently for the repose of my soul  Whatever I have done I have done as<lb/> a soldier of Ireland in what I believed<lb/> to be my country's best interest. I have<lb/> thank God no vain regrets. After all, <lb/> it is better to be a corpse than a coward.  Won't you see that my<seg type="del">my</seg> mother<lb/> gets all the assistance you can give her,<lb/> and refund her the salary due to me,<lb/> and also refund her the money due for<lb/> the Superannuation Fund. She will<lb/> badly need it all -, <seg type="closer"> Gratefully yours  J. J. Heuston </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

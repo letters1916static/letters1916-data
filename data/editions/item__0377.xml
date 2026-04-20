@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0377">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from C.H. Hunter to Sir Robert Chalmers, 6 June 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>C.A. Hunter</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from the regimental paymaster in Dublin to the Under-Secretary for Ireland, Sir Robert Chalmers (1858-1938). This letter refers to the case of Mrs Morgan, the wife of the deceased Private Morgan of the Royal Irish Rifles. Mrs Morgan was charged for obtaining an over payment of separation allowance and was instructed to repay the excess in installments. According to previous letters she has proved reluctant to pay the full installments but the Crown Solicitor for Belfast, John Moorhead (1859-1936), believes it is preferable to wait for payment rather than prosecute her. In this letter the regimental paymaster agrees with Moorhead but is unable to do anything which may prejudice a prosecution. Sir Robert Chalmers was sent to Ireland as replacement under-secretary for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/9593</collection>
+                  <idno>https://letters1916.ie/item/377</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0862">C.A. Hunter</persName>
+              <date>1916-06-06</date>
+              <placeName key="#letters1916_place-0874">Regimental Pay Office, Beggars&#39; Bush Barracks, Dublin, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0268">Dublin Castle, Dublin, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0377_img_1623_1"  type="Letter"  url="ec5fc13e3b0a73517a011a071a6ae8c9.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0377_img_1623_1"/>
+              From Regimental Paymaster, <lb/>Dublin  To The Under Secretary, <lb/>Dublin Castle    Regimental Pay Office,  Beggar's Bush Barracks,  Dublin.    6th. June, 1916   Sir,   I have the honour to state that after having <lb/> read Mr. Moorhead's letter I agree with his conclusion.  As, however. the War Office has decided <lb/> that I am to do not h ing which might prejudice a prosecution <lb/> I would suggest that the matter be referred direct to that <lb/> office for decision. <seg type="closer"> I have the honour to be, <lb/>Sir, <lb/>Your obedient Servant  C.h.Hunter. <lb/>Lieutenant Colonel, <lb/> Regimental Paymaster, Dublin</seg> Hand written in red ink  <seg type="unclear">Sir</seg>.   It would be convenient <lb/>to have a report from the <lb/>Police as to Mrs Morgan's <lb/>means and ability to <lb/>pay the instalments <lb/>in accordance with the <lb/><seg type="unclear">regiment</seg> order.  <lb/><seg type="unclear">EOC</seg><lb/>7.6.16 <lb/>To Comm<hi rend="superscript">ssr</hi> at Belfast <lb/>For report <lb/><seg type="unclear">W</seg> Connell <lb/> 8/6/16 E.O.F.  
+         </ab>
+      </body>
+   </text>
+</TEI>

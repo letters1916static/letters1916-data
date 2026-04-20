@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1711">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Joseph Clancy to Charles P. O'Neill, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Joseph Clancy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>John Joseph Clancy (1847-1928) was a member of Parliament and an Irish nationalist. An active member in the Irish Parliamentary Party, Clancy was seen as the leading party figure upon the death of John Redmond in 1918.
+Clancy is writing to C.P. O&#39;Neill, a candidate for the position of Chief Crown Solicitor which had become available on the death of Malachy J. Kelly. Clancy writes that he has never asked for a paid appointment for himself &#39;or anyone else&#39; and will not do so now. He does, however, comment that O&#39;Neill is suitable for the role.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI/CSO/RP/1916/5729/1</collection>
+                  <idno>https://letters1916.ie/item/1711</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1466">John Joseph Clancy</persName>
+              <date>1916</date>
+              <placeName key="#letters1916_place-1317">House of Commons, Westminster, London</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0246">Charles P. O&#39;Neill</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1928</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1711_img_1168_1"  type="Letter"  url="204f85891e91e0510150e29fb8ada841.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1711_img_1168_1"/>
+             House of Commons,   My deay O'Neill:-   As you know and as every man in <lb/>the Law Library knows, I have never asked any Minister <lb/>for any paid appointment for myself or anyone else. I <lb/>long ago made a public promise that I would not do so, <lb/>and I cannot break it.   In your case I regret very much <lb/>that I cannot act, for, in addition to the fact that you <lb/>are an old friend of mine, you are the very type of man <lb/>who ought to get such an office as that for which you are <lb/>now a candidate. By character, conduct, habits of <lb/>life, manners, education and ability, you are entirely <lb/>fitted for it, and I have no objection to your making it <lb/>known to the Government that such is my opinion.   Yours sincerely,   J.J. Clancy   C.P. O'Neill, Esq., <lb/>Solicitor. 
+         </ab>
+      </body>
+   </text>
+</TEI>

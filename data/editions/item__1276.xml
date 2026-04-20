@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1276">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Denis J. Lynch to Piaras Béaslaí, 6 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Denis J. Lynch</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from Denis J. Lynch to Piaras or Pierce Béaslaí, (1881-1965). The letter refers to a court case against Lynch&#39;s brother. Lynch asks that Béaslaí, as a member of the Journalists&#39; Association of Ireland, to stop the publication of the case in the newspapers. Piaras Béaslaí (born Percy Frederick Beazley) was an English born writer, revolutionary, politician, language revivalist, journalist and a member of the IRB. In February of 1916 he published the Fáinne, a publication to organise Gaelic speakers. He soon abandoned it and became involved in politics and would later fight in the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Piaras Béaslaí Papers, Collection List No 44, Ms. 33,933 (3)</collection>
+                  <idno>https://letters1916.ie/item/1276</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0910">Denis J. Lynch</persName>
+              <date>1916-03-06</date>
+              <placeName key="#letters1916_place-0891">Distillery House, Jones&#39; Road Distillery, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Piaras Béaslaí</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0822">65 Middle Abbey Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1276_img_478_1"  type="Letter"  url="a8fb0e68bbf2e7fdd7b29bc4a2233f48.jpg"/>
+      <graphic xml:id="L1916_1276_img_478_2"  type="Letter"  url="4c603c6bead2d163b24ea3cb89216e22.jpg"/>
+      <graphic xml:id="L1916_1276_img_478_3"  type="Envelope"  url="d0b03741b0fc97bf70a03931e8be86ca.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1276_img_478_1"/>
+                6 <hi rend="superscript">th.</hi><hi rend="underline">March 1916</hi>   Dear Mr. Beasley,   The case (Clerkin <lb/> v Lynch) of which my <lb/> brother was speaking to you <lb/> about a few days ago is <lb/> on the list for <hi rend="underline">Wednesday</hi><lb/><hi rend="underline">next</hi> to be tried in the <lb/><seg type="unclear">Recorders</seg> Court. I hope <lb/>  
+            <pb n="2" facs="L1916_1276_img_478_2"/>
+              it will be convenient for <lb/> you to stop publication of <lb/> it in <hi rend="underline">all the papers.</hi> If <lb/> you are in the Court yourself <lb/> I would be glad to meet you. <lb/> My brother asked me to send <lb/> you a note as soon as I got <lb/> notification of the day the <lb/> case was on.  <seg type="closer"> I am <lb/> Sincerely Yours,   <hi rend="underline">Denis J. Lynch</hi><hi rend="underline">Pierce Beasley Esq.</hi> </seg> 
+            <pb n="3" facs="L1916_1276_img_478_3"/>
+              <hi rend="underline">Urgent.</hi>    Pierce Beasley. Esq.  Irish Journalists Association  65 Mid. Abbey Street, <hi rend="underline">Dublin</hi>    
+         </ab>
+      </body>
+   </text>
+</TEI>

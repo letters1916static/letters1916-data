@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6683">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas Sturge Moore to WB Yeats, 20 August 1922</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Sturge Moore</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Harry Ransom Center, The University of Texas at Austin</repository>
+                  <collection>William Butler Yeats Collection; II. Correspondence, 1891-1938, Outgoing. Box 8. Folder: Letters 2: Correspondence with Moore, Thomas Sturge. Moore to Yeats (1 of 2)</collection>
+                  <idno>https://letters1916.ie/item/6683</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0794">Thomas Sturge Moore</persName>
+              <date>1922-08-20</date>
+              <placeName key="#letters1916_place-1640">Steep, Petersfield, Hampshire, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1561">W.B. Yeats</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1944</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6683_img_None_1"  url="phpjNF9JT.jpeg"/>
+      <graphic xml:id="L1916_6683_img_None_2"  url="phpmNrqoG.jpeg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6683_img_0_1"/>
+              Hillcroft<lb/>Steep<lb/>Petersfield Hants    20/8/22    My dear Yeats.  I was very glad to get your<lb/>letter as I have often thought of you<lb/>anxiously though consoling myself<lb/>that if anything serious happened to you<lb/>it would doubtless find its way into the<lb/>papers. I shall be very pleased to look<lb/>through your proofs for you should that<lb/>prove to be necessarry but I think we<lb/>may hope that things will soon begin<lb/>to be better and communications be<lb/>re established it seems <sic>likly</sic> that the<lb/>De Valera party are on their last legs<lb/>and can hardly hold out another week<lb/>so by then the worst will be passed, though<lb/>it will take long to get everything into<lb/>working order once more. We are just<lb/>off to Paris for a month my address<lb/>will be c/o Mme G Appna 9 rue Val de Grace<lb/>Paris.<seg type="unclear">France</seg> The proofs would be sent on to<lb/>me or you could let Werner Laurie have<lb/><seg type="del">it when yo</seg> my address when you next write 
+            <pb n="2" facs="L1916_6683_img_0_2"/>
+             I will drop them a card in case you<lb/>should not be able to do this.  Hoping that Ireland's troubles are<lb/>nearly over and that they will not be<lb/>followed by similar ones here or in<lb/>France.   Yours ever<lb/>T.S. Moore   I hope Mrs Yeats and the little <lb/>ones are well &amp; happy in spite of<lb/>explosions etc. 
+         </ab>
+      </body>
+   </text>
+</TEI>

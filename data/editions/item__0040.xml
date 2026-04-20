@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0040">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Pearse to Seamus Doyle, 17 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Henry Pearse</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a typed copy of a letter from Patrick Pearse (1879-1916) to Seamus Doyle, a member of the Irish Volunteers in Enniscorthy, County Wexford. This letter refers to the use of Pearse&#39;s image on the cover of a publication. He writes that an image of Robert Emmet would be more suitable and &#39;After I am hanged my portrait will be interesting, but not before.&#39; He also writes about travel arrangements for a trip to Wexford.Patrick Pearse was a writer, a teacher and one of the leaders of the Easter Rising, 1916. He was a key member of the IRB military council, a signatory of the proclamation of the Irish Republic (which he read outside the GPO). As president of the provisional government, it was Pearse who called the surrender. He along with 15 others, was executed shortly after surrender. Doyle was lieutenant in the Enniscorthy battalion of the Irish Volunteers and one of the men active in Enniscorthy during the Easter Rising, one of the few places outside Dublin to see any military action.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Seamus Doyle Collection, BMH CD/127/3/2</collection>
+                  <idno>https://letters1916.ie/item/40</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0291">Patrick Henry Pearse</persName>
+              <date>1916-02-17</date>
+              <placeName key="#letters1916_place-0438">St Enda&#39;s College, Rathfarnham, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0651">Seamus Doyle</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1907">Enniscorthy, County Wexford, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Culture and the Arts</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0040_img_1071_1"  type="Letter"  url="50c2408ccac44cf6354cba91cf54e3e7.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0040_img_1071_1"/>
+               'Lt. Doyle, Enniscorthy' written in manuscript on original.    ST. ENDA'S COLLEGE,  RATHFARNHAM.  <seg type="foreign">SCOIL ÃANNA</seg>,  <seg type="foreign">RÃTH FEARNÃIN</seg>    17th Feb. 1916.   <seg type="foreign">A Chara,</seg>   On the whole I should prefer not to have<lb/> my photograph on the cover. The souvenir is a <lb/> very good idea, but I think a portrait of Emmet<lb/> would be better (as well as handsomer) on the<lb/> cover. After I am hanged my portrait will be<lb/> interesting, but not before.  I presume that the 4.30 train (arriving<lb/> 7.39) will take me down in good time? I shall<lb/> have to return early on Thursday morning,<lb/> as I have to be in Belfast on the night of the<lb/> 2nd. <seg type="closer"> Sincerely yours,  (Sgd.)  P. H. Pearse </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

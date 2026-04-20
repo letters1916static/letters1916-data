@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1339">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Count Georg von Wedel to Roger Casement, 27 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Georg von Wedel</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter is from Count Georg von Wedel (1862-1943) of the German Foreign Officer to Roger Casement (1865-1916). Wedel is returning a letter from Robert Monteith (1880-1956) &#39;Having taken the necessary steps at the Ministry of War&#39;. Monteith was the commander of the Irish Brigade, appointed by Casement. This letter is from a collection of letters, poems, articles and other documents of Roger Casement and his family covering his career in the British Diplomatic Service and his activities in the Irish Revolutionary movement, 1889-1945. Sir Roger Casement was a humanitarian and Irish Nationalist. Casement believed that an Irish insurrection would be crushed unless it received substantial assistance from Germany. He spent eighteen months in Germany, arriving first as an envoy of Irish-American leaders, attempting to encourage Germany to support Irish separatist aspirations by providing arms. Casement succeeded in securing limited German support but his attempt to form a brigade of Irish soldiers in German prisoner of war camps to fight against Britain was largely unsuccessful. When it became clear that adequate help would not be forthcoming he travelled to Ireland by submarine. Casement landed and was arrested at Banna Strand, County Kerry on Good Friday 1916. He was tried in the Old Bailey for treason and subsequently executed by hanging at Pentonville Prison on 3 August 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sir Roger Casement Papers, Collection List No. A15, Ms. 13,085/24</collection>
+                  <idno>https://letters1916.ie/item/1339</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0300">Georg von Wedel</persName>
+              <date>1915-11-27</date>
+              <placeName key="#letters1916_place-0840">Berlin, Germany</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1253">Roger Casement</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1339_img_674_1"  type="Letter"  url="f2a642d8aba19e042372937632f397ee.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1339_img_674_1"/>
+                Auswartiges Amt.  Berlin,   den   27.November 1915  . <lb/>1 <seg type="foreign">Anlage</seg>.  Dear Sir Roger,   Having taken the necessary steps at the Ministry <lb/> of War, I beg to return Mr.Monteith's letter <lb/> to you. <seg type="closer"> Sincerely yours  G.Wedel </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

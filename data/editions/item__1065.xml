@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1065">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Alice Park to Hanna Sheehy Skeffington, 3 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Alice Park</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from leading Californian suffragette Alice Park (1861-1962) to Hanna Sheehy Skeffington (1877-1946) forwarding money for the &#39;Irish Citizen&#39;. Park also names several places she will be lecturing on her way home and wishes Hanna well before signing off.Hanna Sheehy Skeffington (1877-1946), suffragette, nationalist, language teacher, was the founder of the Irish Womenâ€™s Franchise League and a founding member of the Irish Women Workersâ€™ Union. She was the widow of Francis Sheehy-Skeffington who was summarily executed on 26 April 1916. She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papaers, Collection List No. 47;, Ms 33,608/3-1</collection>
+                  <idno>https://letters1916.ie/item/1065</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0752">Alice Park</persName>
+              <date>1916-05-03</date>
+              <placeName key="#letters1916_place-0032">Palo Alto, California, America</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1065_img_3162_1"  type="Letter"  url="680f2dc5a723b8f0132ea86d524244bf.jpg"/>
+      <graphic xml:id="L1916_1065_img_3162_2"  type="Letter"  url="2a6df9fd9ed8c7b9a5d887d63fa38401.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1065_img_3162_1"/>
+                S.S. Permanent â  â Palo Alto, Calif.   My dear Mrs. Skeffington -   It is <lb/>now May 3 - You see how <lb/>slow I am about sending <lb/>the dollar for Irish Citizen â <lb/>I read the news with <lb/>great concern â  Am lecturing along the <lb/>way home. Have been in <lb/>New York and New England <lb/>ever since arrival March 5. <lb/>Am now starting west -  I sent you a lot of <lb/>memoranda at Falmouth - <lb/>from the steamers - I hope <lb/>you received it.  Always be sure of <lb/>my love and earnest <lb/>wishes for you and yours. <lb/>I hope to see you in Cailf. <lb/>over  
+            <pb n="2" facs="L1916_1065_img_3162_2"/>
+              <seg type="closer"> With love always  Alice Park </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

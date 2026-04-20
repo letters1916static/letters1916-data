@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0842">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Childers Barton to Dr Kathleen Lynn, 11 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Childers Barton</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Robert Childers Barton (1881-1975) to Dr Kathleen Lynn (1874-1955). In this letter, Barton, acting in his capacity as officer in charge of prisoners&#39; effects at Richmond Barracks, assures Dr Lynn that her claim to property lost in Liberty Hall during Easter Week has not been lost sight of, and that he will communicate further with her on the matter as soon as he receives proper authority to do so.Barton, heir to a large estate at Glendalough in Co. Wicklow, was born into a Protestant and staunchly Unionist family. Barton joined the Irish Volunteers in 1913, acting as secretary to Colonel Maurice Moore (1854-1939). At the outbreak of war, Barton accepted a commission in the British Army, serving in the Royal Dublin Fusiliers. In April 1916, he was dispatched to Dublin, where he could observe at first hand the treatment meted out to the rebels. Barton served for a period as officer in charge of prisoners&#39; effects at Richmond Barracks. He soon resigned his commission, joined the revolutionary movement, was elected Sinn Féin MP for Wicklow West in December 1918, acted as Minister for Agriculture and later Economic Affairs, and acted as a delegate to the treaty negotiations in 1921. Barton sided with the irregulars during the Civil War,. He later became particularly active in the promotion of the turf industry.Dr Kathleen Lynn was a medical practitioner, a suffragist, a nationalist, and a revolutionary. Lynn was Chief Medical Officer of the Irish Citizen Army during Easter 1916, and was a part of the City Hall garrison, of which she took command of the garrison after the death of Seán Connolly on the first day of the Rising. After independence, Lynn dedicated much time and energy towards the improvement of public health, and played a significant role in the eradication of tuberculosis in Ireland.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, IE/AL/KL/1/25</collection>
+                  <idno>https://letters1916.ie/item/842</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1506">Robert Childers Barton</persName>
+              <date>1916-07-11</date>
+              <placeName key="#letters1916_place-1571">Richmond Barracks, Inchicore, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1086">Kathleen Lynn</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1471">Coleford House, Bath, Somerset, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0842_img_2396_1"  type="Letter"  url="3bdd9e711bdfafe0d6baac3cc44d9ea3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0842_img_2396_1"/>
+                From/  O.I/C Prisoners Effects,  Richmond Barracks,  Dublin,  11th July '16 .    To/  Dr. Katherine Lynn, F.R.C.S.I.,  Coleford House, near Bath.   Madam,   In reply to your letter 4.7.16., I beg to state that it <lb/> has not yet been decided what action will be taken in connect<seg type="del">i</seg><lb/> ion with claims, of property lost in Liberty Hall, during<lb/> the recent rebellion. In the meantime, your claim has not<lb/> been lost sight of, and as soon as I have the necessary <lb/> authority, I will communicate with you on the matter. <seg type="closer"> RC Barton  2nd Lieut.<lb/> Pro. O.I/C Prisoners Effects,<lb/> Richmond Barracks.</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2266">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Jerome J. Ronayne to Margaret O'Brien, 14 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Jerome J. Ronayne</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Jerome J. Ronayne, town clerk, Urban District of Midleton, County Cork, Ireland, to Margaret O&#39;Brien.
+
+Mrs. O&#39;Brien has applied for permission to move her deceased husband&#39;s remains from one grave to another within the Protestant church graveyard.
+As sanitation authority for the area, the Midleton Urban District Council approves the move, provided she gets the consent of the church authorities.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/10140/1</collection>
+                  <idno>https://letters1916.ie/item/2266</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0911">Jerome J. Ronayne</persName>
+              <date>1916-06-14</date>
+              <placeName key="#letters1916_place-2120">Midleton, County Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Margaret O&#39;Brien</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2066">The Green, Midleton, County Cork, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2266_img_1709_1"  type="Letter"  url="391bdef1525f0eab8d06dae040ad4643.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2266_img_1709_1"/>
+             JEROME J. RONAYNE <lb/>TOWN CLERK   Urban District of Midleton, <lb/>CO. CORK,   14th. day of June 1916   Mrs. Margaret O'Brien, <lb/>The Green, <lb/>MIDLETON   Dear Madam/   With reference to your application for <lb/>permission to remove the remains of your husband <lb/>from one grave to another in the burial ground <lb/>attached to the Protestant Church, I am directed <lb/>by the Midleton Urban District Council to inform <lb/>you that they, as Sanitary Authority for the <lb/>District, express their consent to this course, <lb/>on the understanding that you are able to obtain the <lb/>consent of the church Authorities.   Yours faithfully   <hi rend="underline">Jerome J. Roynane</hi>   I. Instruct police not to interfere <lb/>with Mrs. O'Brien or her agents <lb/>when engaged in the transfer <lb/>of the remains   II. Inform Mrs. OBrien.   III. —   <lb/>EOF <lb/>16:6:16 <lb/>I.II done 07/6
+         </ab>
+      </body>
+   </text>
+</TEI>

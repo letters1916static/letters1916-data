@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1084">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sister Albeus Fogarty to Royal College of Physicians of Ireland, 2 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Sister M. Albeus Fogarty</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Sister M. Albeus Fogarty to the Royal College of Physicians of Ireland (RCPI) informing the college that the hospital&#39;s treasurer will be unable to attend the conference regarding the establishment of an Irish college of nursing. Sister Fogarty adds that herself and her fellow nursing staff are in complete support of state registration for fully trained nurses and are now, more than ever, convinced of its necessity.Sister Albeus Fogarty (1868-1952) was a member of the Matrons&#39; Council of Great Britain and Ireland and of the Executive Committee of the Irish Nurses&#39; Association. She encouraged participation across all religious and lay sectors of nurses in order to create a truly national league of Irish nurses.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-3-15-14, RCPI-2-3-3-15-14</collection>
+                  <idno>https://letters1916.ie/item/1084</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0762">Sister M. Albeus Fogarty</persName>
+              <date>1916-04-02</date>
+              <placeName key="#letters1916_place-2128">South Charitable Infirmary and County Hospital, Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1084_img_3231_1"  type="Letter"  url="aa0c3ee6b883def8186f997781d63789.jpg"/>
+      <graphic xml:id="L1916_1084_img_3231_2"  type="Letter"  url="311f18c4f9b972a22d73710e878ab2de.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1084_img_3231_1"/>
+                South Charitable Infirmary and County Hospital  CORK,    April 2 <hi rend="superscript">nd</hi> 1916    Dear Sir,   Our Honorary <lb/>Treasurer is reluctantly <lb/>compelled to forego <lb/>pleasure of being <lb/>present at the Conference <lb/>on the 4 <hi rend="superscript">th</hi> inst.   Permit me to add <lb/>the Nursing Staff &amp; I <lb/>have always been  
+            <pb n="2" facs="L1916_1084_img_3231_2"/>
+              in favor of State <lb/>Registration &amp; are <lb/>now, more than ever, <lb/>convinced of its <lb/>necessity. The time <lb/>has certainly come <lb/>when <hi rend="underline">fully trained</hi><lb/><hi rend="underline">Nurses</hi> should be <lb/>protected by the <lb/>State.  <seg type="closer"> I am, Dear Sir, <lb/>yours respectfully,   Rs. M. A. Fogarty <lb/>Matron.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

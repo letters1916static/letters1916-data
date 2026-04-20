@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1321">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from O/C A Squad to the Adjutant, 2/1st Lothians and Border Horse, 13 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Arthur Smith Warling</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter to the Adjutant of the 2/1st Lothian and Border Horse from Captain Arthur Smith Warling concerning Private Robert Atwell&#39;s desire for a commission and a course of training in the officer training corps. The letter recommends Atwell for the Commission as he is a good soldier with the exception of his horsemanship. This letter was part of the papers of Sir Henry Christopher Grattan Bellew (1860-1942), the third baronet of Mount Bellew in County Galway. He held the rank of Lieutenant-Colonel, 4th Battalion Connaught Rangers. His son, sir Charles Christopher (1887-1948) held the rank of Lieutenant-Colonel, King&#39;s Royal Rifle Corps. He was decorated with the award of the Military Cross (M.C.) in 1918</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Bellew of Mount Bellew Papers, Collection List No. 33, Ms. 27,290</collection>
+                  <idno>https://letters1916.ie/item/1321</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0071">Arthur Smith Warling</persName>
+              <date>1916-03-13</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Adjutant of 2/1st Lothian and Border horse</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1321_img_615_1"  type="Letter"  url="c70511e4e3996a35f551ef44e5be3acd.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1321_img_615_1"/>
+             <seg type="head">From <seg type="del">Reserve Regiment</seg> O/C A Squadron <lb/>2/1st Lothians and Border Horse <lb/>To The Adjutant <lb/>2/1st L&amp;B Horse.</seg>   7 Wemyss Place,  Edinburgh,    13 March 1916.     Re: Pte.Atwell has spoken <lb/> to me regarding his application <lb/> for a recommendation for a course <lb/> of training in an Officers <lb/> Training Corps.  Pte.Atwell is a <lb/>most hard working &amp; willing <lb/>man &amp; I would now, if I had <lb/>not done so before, <seg type="del">ask</seg>recommend <lb/>him for promotion except for the <lb/>fact that he is not a good <lb/>horseman.  Would the Commanding <lb/>Officer seeing Pte. <lb/>Atwell himself so that he <lb/>may form his own impression <lb/>of him personally!  Pte.Atwell informs <lb/> me that he joined the Regiment <lb/> because he wished to serve <lb/> in the <seg type="unclear">trenches</seg> but that he has <lb/> all along aimed for getting a <lb/> Commission in an Infantry Regt. <seg type="closer"> Arthur Smith Warling  capt</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

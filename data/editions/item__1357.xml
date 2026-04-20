@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1357">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Brosnan to Mabel FitzGerald, 25 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Brosnan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from John Brosnan to Mabel FitzGerald (née Washington McConnell) (1884-1958), wife of politician and intellectual Desmond FitzGerald (1888-1947). Mabel was particularly active in attempting to secure the release of her husband, who had not taken an active part in the actual fighting. Brosnan expresses sympathy for Mabel and her husband and describes conditions in the prisons as related to him by others.Mabel was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington (1878 -1916) during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Desmond FitzGerald Papers, P80/1585/1</collection>
+                  <idno>https://letters1916.ie/item/1357</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1276">John Brosnan</persName>
+              <date>1916-05-25</date>
+              <placeName key="#letters1916_place-2105">Beachwood Ave, Ranelagh, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1357_img_708_1"  type="Letter"  url="2a6bf2a1db739913d0cd44c6a12e519d.jpg"/>
+      <graphic xml:id="L1916_1357_img_708_2"  type="Letter"  url="d7121f11b88f17ce883c3a581a9b4171.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1357_img_708_1"/>
+                Castlegregory    25/5/16   Dear Madam,   Your letter to <lb/> hand; Thanking you again <lb/> for your kindness we had <lb/> the pleasure of seeing your <lb/> dear husband's photo last <lb/> night in the independent <lb/> it is really too sad to think <lb/> he is under the prison lock. <lb/> how in the world are you <lb/> able to take courage; such <lb/> as you express in my letter; <lb/> we had a letter from my <lb/> son this morning also; he <lb/> says their gaol treatment is <lb/> just the same as their week <lb/> in Tralee, and that is bad  
+            <pb n="2" facs="L1916_1357_img_708_2"/>
+              <lb/>enough; the acquitted prisoners <lb/> tell us just the same it is <lb/> well; they can have mass &amp; <lb/> the sacraments; I am writing <lb/> by next mail; to a friend <lb/> in Dublin whom my son <lb/> is acquainted with and  if  he <lb/> is not too late; it would <lb/> be a blessing to have a <lb/> visit from him, his name <lb/>&amp; address is William McEarly <lb/> c/o Thos McCarthy<lb/> 23 Upper Beechwood Ave<lb/> Renelagh<lb/> Dublin<lb/> Thanking you again <seg type="closer"> I remain<lb/> yours very sincerely  John Brosnan   Mrs Desmond Fitzgerald  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

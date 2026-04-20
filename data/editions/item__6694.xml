@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6694">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Bishop Bernard Coyne to Fr. Michael O'Flanagan, 11 September 1917</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Bishop Bernard Coyne</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Fr Michael O&#39;Flanagan (1876-1926) was a Catholic priest and republican activist. The Bishop writes to forbid Fr. O&#39;Flanagan from saying mass, unless he went on retreat to Roscrea or &#39;other suitable place&#39;. The Bishop might then reconsider.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>O&#39;Flanagan Private Collection</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/6694</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0228">Bishop Bernard Coyne</persName>
+              <date>1917-09-11</date>
+              <placeName key="#letters1916_place-1385">St. Mary&#39;s, Co. Sligo</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0313">Fr Michael O&#39;Flanagan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1926</item>
+               <item n="topic">Faith</item>
+               <item n="topic">The Rising Tide (1917-1919)</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6694_img_None_1"  url="phpjl7bl4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6694_img_0_1"/>
+              ST. Mary's,   SLIGO<lb/> 11th. Sept., 1917    Dear Fr. O'Flanagan,   I regret to find that you still persist in disregarding and<lb/>openly flouting the grave instructions and solemn admonitions which I have<lb/>deemed it necessary to address to you from time to time - <seg type="unclear">most</seg> especially<lb/>in my communications of the 14th. January, 1916, the 26th January, 1917,<lb/>and the 12th. March, 1917. Consequently I now find it my painful duty to<lb/>withdraw from you,- as I do hereby- all diocesan faculties which you have<lb/>at any time received, including the permission to say Mass.  If, after a retreat in Roscrea or some other suitable place, you<lb/>give promise of amendment, I shall be prepared to reconsider your case,<lb/>but not otherwise.  <lb/> I am,<lb/>Yours faithfully,<lb/>(Signed) BERNARD COYNE <lb/>--------------------------------------------------------------------------------------------- 
+         </ab>
+      </body>
+   </text>
+</TEI>

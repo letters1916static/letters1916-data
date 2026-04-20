@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0606">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward O’Farrell to V.J. McAllister, 22 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward O&#39;Farrell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Sir. Edward O’Farrell (c.1857-1926). O&#39;Farrell was the assistant under-secretary to the Lord Lieutenant of Ireland Sir Ivor Churchill Guest, Lord Wimborne (1973-1939). McAllister was employed in the Pathology Department of Dr. Steevens’ Hospital. In the letter, O’Farrell states that he requires McAllister to give details of all experiments carried out on live animals during the previous year. He also requires details of any publications in which the details of such experiments were reported. O&#39;Farrell concludes his letter by reminding McAllister that his licence is due to expire and invites him to reapply.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/2654</collection>
+                  <idno>https://letters1916.ie/item/606</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date>1916-02-22T00:00:00</date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None"> V.J. McAllister</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1548">Pathology Department, Dr. Steevens’ Hospital, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0606_img_2018_1"  type="Letter"  url="3ee2f3546ed569b167d7f472e6796caf.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0606_img_2018_1"/>
+              2654 <lb/><hi rend="underline">IMMEDIATE</hi>  DUBLIN CASTLE,    22 <hi rend="superscript">nd</hi> February 1916    SIR,   I am directed by the Chief Secretary to request that you will state on <lb/>the enclosed form:â   (1) The number of experiments on living animals performed by you in <lb/>the year ended 31st December last under licence granted to you <lb/> under the Act 39 and 40 Vic., cap. 77, or any special certificate <lb/>you may have held during the year;   (2) The general purpose of the experiments; and  (3) The number of those experiments in which there was reason to <lb/>believe that any appreciable pain was inflicted, specifying the <lb/>kind of animal used and stating in general terms the nature of <lb/>the experiment that occasioned pain.   All experiments under Certificate C must be performed with anaesthetics, <lb/>and it should be stated in your Return that the animals used were killed before <lb/>recovery from anaesthesia.   I have also to request that you will furnish in Table 4 of the form <lb/>enclosed a complete list of any writings based upon experimental work which <lb/>you may have published during the past year, giving the full title of each <lb/>paper with an exact reference to any periodical in which it may have appeared, <lb/>and the name of any Society to which it may have been communicated, and <lb/>that if you have not already done so, you will forward copies of such papers <lb/>for the information of the Chief Secretary.   As it is desirable that the preparation of the Parliamentary Return <lb/>relating to Experiments on Living Animals should be undertaken at once, your <lb/>Return should be furnished within one week.   Your licence under the Act will expire on the 2 <seg type="del">8</seg> 7 th instant. If you desire <lb/>its renewal an application to that effect should be made stating the grounds. <lb/>The licence should at the same time be forwarded.  <seg type="closer"> I am, <lb/>Sir, <lb/>Your obedient Servant   E O' Farrell   V J M <hi rend="superscript">c</hi>Allister Esq M.B.   Pathological Laboratory  Dr Steevens Hospital,  Dublin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

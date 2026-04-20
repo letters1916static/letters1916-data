@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1374">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Garret Sheehan, 14 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Garret Sheehan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Garret Sheehan (b. 1841) regarding his prosecution for having possession of a firearm. Sheehan maintains that he is innocent of the charge and would not have been accused if he was a farmer or merchant&#39;s son. Sheehan believes that the charge was a concoction between Daniel Murphy and the sergeant.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3747/3</collection>
+                  <idno>https://letters1916.ie/item/1374</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0010">Garret Sheehan</persName>
+              <date>1916-02-14</date>
+              <placeName key="#letters1916_place-1630">Cloughane, Knocknagoshel, County Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Law and Judiciary</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1374_img_728_1"  type="Letter"  url="363fbdb4d1402dc4d2be78cd45ef8f06.jpg"/>
+      <graphic xml:id="L1916_1374_img_728_2"  type="Letter"  url="ff9e2092601a06e4f6b14807d8f0dd72.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1374_img_728_1"/>
+                14/2/1916    Cloughane  Knocknagoshel  Co Kerry   Dear Sir   I beg to draw your attention <lb/> to a false case of which I have been <lb/> a victim. On the 11th day of Decr - <lb/> 1915, on proceeding to a place called <lb/> Gortroe, Knocknagoshel North, to <lb/> hear about a friend, and Niece of mine <lb/> who was shot at the Battle of Mons <lb/> when I was pursued by 2 police, and <lb/> charged with having a gun, of which <lb/> I had been, purely innocent, were <lb/> I a farmers son, or a merchants <lb/> son, they would not have charged me with having a gun of which <lb/> I had not in my possession on that day. <lb/> I would wish to know whether it is the <lb/> farmers sons,or the labouring men <lb/> have done the most, to help keep out <lb/> the Common enemy of Ireland, and <lb/> the British Empire, I can assure you <lb/> that its only all a concocted matter <lb/> between, a man named Daniel Murphy <lb/> Knocknagoshel who seems to dislike <lb/> me, and the present Rel Co Sergeant <lb/> Linehan, who both owns a Greyhound for <lb/> hunting Game hares They think that I, <lb/> a man with licence, will shoot them <lb/> all, I mean the hares. There is 15 years <lb/> years, since I got first elevation licence <lb/> from District Inspector Woods Castle <lb/> -island, Co Kerry, and was not <lb/> limited, and if you desire, a charac <lb/> -ter of me who is <hi rend="underline">75 years of age</hi>, you <lb/> may write Sergeant Foland or Sergeant <lb/> Connell  
+            <pb n="2" facs="L1916_1374_img_728_2"/>
+              and though it's not the farmers sons. <lb/> If I was a youth of 18 or 19 years so I <lb/> would have been opposing the Germans <lb/> In France or Flanders Long ago, and <lb/> if my Services, are any value to you <lb/> they are at your disposal. I would <lb/> be very pleased if I had a reply <lb/> from your Excellency for the 4th <lb/> of February, being the day of trial.  <seg type="closer"> I Remain Dear Sir <lb/> yours truly  <lb/> Garret Sheahan . </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

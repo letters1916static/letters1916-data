@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0153">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from W. H. M. Cobbe to Lord Wimborne, 29 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>W. H. M. Cobbe</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from W. H. M. Cobbe (b. 1871), the County Recruiting Committee in Queen&#39;s County (Laois), to the Lord Lieutenant, Ivor Guest, Lord Wimborne (1873-1939). The letter refers to the raising of a force of fifty men designed for local defence purposes in the wake of the the outbreak of the Rising on 24 April 1916. Ivor Churchill Guest, 1st Viscount Wimborne was appointed the Lord Lieutenant of Ireland in 1915. Guest worked closely alongside Sir Matthew Nathan (1862-1939) in the administration of Ireland. Following the suppression of the Rising, Guest, under pressure, was forced to resign as Lord Lieutenant. A later inquiry into the Rising exonerated Guest and held Augustine Birrell (1850-1933) chiefly responsible for the events that occurred. Guest would continue to serve as Lord Lieutenant until 1918. W. H. M. Cobbe (b. 1871) was born in Ballycullane, about three miles from Portarlington. Son of an auctioneer and farmer, he carried on the family business on the death of his father in 1906. Cobbe was essential to the setting up of a golf club on the Warburton estate, when the game was sweeping Ireland.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/7680/1</collection>
+                  <idno>https://letters1916.ie/item/153</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1372">W. H. M. Cobbe</persName>
+              <date>1916-04-29</date>
+              <placeName key="#letters1916_place-2029">Ballycullane, Portarlington, County Laois, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1374">Ivor Churchill Guest</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0153_img_1279_1"  type="Letter"  url="8987384744c6ae68394489a1f74bbfab.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0153_img_1279_1"/>
+                Ballycullane  Portarlington    April 29th 1916   To His Excellency <lb/>The Lord Lieutenant of Ireland    May it please your Excellency <lb/>Having regard to the present trouble in this Country; <lb/>Should your Excellency deem it necessary I am prepared to raise <lb/>a <seg type="del">local</seg> force of at least FIFTY men for local defence purposes <lb/>which would be willing to serve under military orders to keep the peace <lb/>in Mountmellick &amp; Portarlington &amp; surrounding Districts. I will <lb/>guarantee the fidelity of the men, who would esteem it a privilege to <lb/>help in putting an end to the lamentable state of affairs. <seg type="closer"> I remain Your Excellency's <lb/>Obedient Servant   W. H. M. Cobbe I.P. <lb/>Committee <lb/>Hon Sec County recruiting</seg> Assist. UnderSecretary <lb/>Am ack. with thanks <lb/>for his offer will suffice <lb/>WMC 8/5  I.J. Do you want any special constables in this <lb/>district E O'F 8 v. 16  
+         </ab>
+      </body>
+   </text>
+</TEI>

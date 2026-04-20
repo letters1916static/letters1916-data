@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0033">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Pearse to Éamonn Bulfin, 21 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Pearse</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a mobilisation order sent by William Pearse (1881-1916) to Éamonn Bulfin (1892-1968) on 21 April 1916.. The order was for the planned manoeuvres on Easter Sunday, 23 April. Unbeknownst to the rank and file, these manouevres were to be used as a cover for the beginning of the Easter Rising but were countermanded by Eoin MacNeill, chief of staff of the Irish Volunteers, when he became aware of the plans. The Rising then went ahead on 24 April with significantly reduced numbers. William Pearse was a sculptor and brother of Patrick Pearse, one of the leaders of the Easter Rising. William held the rank of captain on the headquarters staff of the Dublin Brigade of the Irish Volunteers.William Pearse was executed for his part in the Rising on 4 April and Éamonn Bulfin was imprisoned in Stafford and Frongach.Eamon Bulfin (1892-1968) was an Argentinian born member of the Rathfarnham company and had been one of the first pupil&#39;s in Patrick Pearse&#39;s bilingual school for boys, St Enda&#39;s. During the Easter Rising, Bulfin helped improvise explosives before he served in the GPO garrison. Bulfin was imprisoned in Stafford and Frongach before being deported to Argentina.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Éamonn Bulfin Collection, BMH CD/99/1</collection>
+                  <idno>https://letters1916.ie/item/33</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0853">William Pearse</persName>
+              <date>1916-04-21</date>
+              <placeName key="#letters1916_place-1994">2 Dawson Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Éamonn Bulfin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0713">St. Enda's College, Rathfarnham, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0033_img_1064_1"  type="Letter"  url="a0e18d4046f7064b3944623b2a41b13f.jpg"/>
+      <graphic xml:id="L1916_0033_img_1064_2"  type="Enclosure"  url="054991f4454224c0fc42abc257b5fd3a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0033_img_1064_1"/>
+              Staff No. 9 <hi rend="underline">IRISH VOLUNTEERS</hi> <seg type="head"><hi rend="underline">DUBLIN BRIGADE: EASTER MANOEUVRES. 1916</hi></seg>   Headquarters:â  2, Dawson Street,  Dublin.    21st April, 1916.    Lieut. E Bulfin  St Enda's College  Sent at 5pm    You will report yourself to me at temporary Head- <lb/> quarters, Beresford Place at the hour of 4 p.m. on <lb/> Sunday next, 23rd inst. (Easter Sunday) and hold yourself <lb/> in readiness to act on the Staff of Commandant P.H. Pearse <lb/> Acting G.O.C Dublin brigade, during the Easter Manoeuvres.   You will provide yourself with a bicycle, a Street <lb/> map of Dublin City, a road map of the Dublin District and <lb/> a field message book. you will carry full arms and <lb/> ammunition, full service equipment (including overcoat) <lb/> and rations for eight hours.   You will acknowledge receipt of this order by <lb/> returning, by hand, to meet me at St.Enda's College, Rathâ <lb/> farnham, the annexed form duly filled in and signed.  <seg type="closer"> William Pearse <lb/> Capt <lb/> Acting Chief of Staff. </seg> First Mobilisation Order for Easter Sunday, April 23, 1916, received<lb/> by Lieut. Eamonn Bulfin when a student at St. Enda's. The Rising<lb/> was originally planned for Easter Sunday.<lb/> Lent by &amp;#201;amonn Bulfin. E.W. 48 (Loan)  
+            <pb n="2" facs="L1916_0033_img_1064_2"/>
+            
+         </ab>
+      </body>
+   </text>
+</TEI>

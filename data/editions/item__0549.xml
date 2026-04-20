@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0549">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J. Geoff Green to Sir Robert Chalmers, 28 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J. Geoffrey Green</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by J. Geoff Green to Sir Robert Chalmers (1858 - 1938), under-secretary for Ireland. Chalmers was sent to Ireland as under-secretary to replace Sir Matthew Nathan who had resigned along with Augustine Birrell, his chief secretary, in the aftermath of the Easter Rising in 1916. This letter concerns the application for a gratuity under Section 4 of the Superannuation Act of 1887 on behalf of Joshua Allen, a sixty-six year old clerk. Green states that Allen is no longer able to perform his duties efficiently and asks that the case be &#39;favourably considered&#39;.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-5620-10994, NAI-CSO-RP-1916-5620-10994</collection>
+                  <idno>https://letters1916.ie/item/549</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0103">J. Geoffrey Green</persName>
+              <date>1916-06-28T00:00:00</date>
+              <placeName key="#letters1916_place-0718">24 Upper Merrion Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0549_img_1930_1"  type="Letter"  url="62b5c7faf064c583a750cb84bb66af5e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0549_img_1930_1"/>
+              A. 1916   24, Upper Merrion Street,   Dublin,    28th June, 1916   Sir,   I am directed by the Irish Land Commissioners to transmit <lb/>herewith for the consideration of the Lords Commissioners of <lb/>His Majesty's Treasury the accompanying application for a <lb/>gratuity under Section 4 of the Superannuation Act of 1887, on <lb/>behalf of Mr Joshua Allen, a Clerk in the employment of the <lb/>Solicitor, and now almost 67 years of age, who is no longer <lb/>able to perform his duties efficiently, and to request that <lb/>same may be favourably considered.  <seg type="closer"> I am, <lb/>Sir, <lb/>Your Obedient Servant,   <hi rend="underline">J Geoff Green</hi>   The Under Secretary,  Dublin Castle.  <lb/>Send copy of this letter &amp; <lb/>enclosed form ( in original ) <lb/>to Treasury <lb/>I.J.T. <lb/>29.6.16 <lb/>done 29 June <lb/>despd 30 June receipt stamp <lb/>REGISTERED <lb/>30 JUN 1916 </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

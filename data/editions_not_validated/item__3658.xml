@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3658">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fellow & Registrar, Royal College of Physicians of Ireland to John Thompson, 19 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Fellow and Registrar, Royal College of Physicians of Ireland</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from the Royal College of Physicians of Ireland (RCPI) to John Thompson (1867-1939) regarding use of the college hall for a lecture series being hosted by the Classical Association of Ireland. 
+
+Aside from being secretary of the Classical Association Thompson was the headmaster if Dublin High School and one of the founding members of the Dublin French Society. He was also a member of the Royal Irish Academy.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-13-189</collection>
+                  <idno>https://letters1916.ie/item/3658</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0845">Fellow and Registrar, Royal College of Physicians of Ireland</persName>
+              <date>1916-10-19</date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0083">John Thompson</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1021">40 Harcourt Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3658_img_3053_1"  type="Letter"  url="f64231e6d9847000b73c364f912294c4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3658_img_3053_1"/>
+             19th OCTOBER 16.   J. Thompson, Esq., M.A., <lb/>Secretary of the Classical Association of Ireland, <lb/>40 Harcourt street, Dublin.   Dear Sir,   In reply to your letter of the 10th inst., I am <lb/>requested by the President and Fellows of this College <lb/>to inform you that they have granted your Association <lb/>the use of the College Hall for a course of four lectures <lb/>provided that suitable dates can be arranged which will <lb/>not interfere with College business.   I am, <lb/>Yours faithfully,  <lb/>Fellow &amp; Registrar.
+         </ab>
+      </body>
+   </text>
+</TEI>

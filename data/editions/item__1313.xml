@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1313">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Éamonn Ceannt to Áine Ceannt, 5 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Éamonn Ceannt</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Éamonn Ceannt (1881-1916) to his wife Áine Ceannt (née Ní Bhraonáin) (1880-1954). The letter was written from Richmond Barracks after Ceannt&#39;s trial and after the death sentence passed. A number of executions had already been carried out and Ceannt writes that his only regret is that he can no longer show his what he thinks of her. He will &#39;die like a man for Ireland&#39;s sake&#39;.Éamonn Ceannt was one of the leaders of the Easter Rising and a signatory of the Proclamation of the Irish Republic. During the Rising he commanded the garrison in the South Dublin Union. Following the surrender he was tried by court-martial and sentenced to death. He was executed on 8 May 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Eamonn Ceannt Papers, Collection List No. 97, Ms. 13,069/8</collection>
+                  <idno>https://letters1916.ie/item/1313</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0397">Éamonn Ceannt</persName>
+              <date>1916-05-05</date>
+              <placeName key="#letters1916_place-1681">Kilmainham Gaol, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Áine Ceannt</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Last letters before death</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1313_img_607_1"  type="NULL"  url="384ba07337bec5fbaa4eae5341bf6a27.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1313_img_607_1"/>
+                No.2 Date 5/5/1916 <time>Time 4 p.m.</time>   Place <seg type="del">Richmond Barracks</seg>Kilmainham     To Ãine (my wife)    Trial closed. I expect <lb/> the death sentence <lb/> which better men have already <lb/> suffered. I only regret <lb/> that I have now no longer <lb/> an opportunity of showing <lb/> how I think of you now <lb/> that the chance of seeing <lb/> you again is so remote. <lb/> I shall die like a man for <lb/> Ireland's sake.  <seg type="closer"> From   Ãamonn Ceannt </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

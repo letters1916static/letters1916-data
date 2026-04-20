@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2286">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Bishop Patrick McKenna to John Francis Hogan, 11 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick McKenna</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was addressed to Rev Dr John Francis Hogan (1858–1918), a priest, author, and president of St Patrick&#39;s College, Maynooth.The letter was sent by Roman Catholic Bishop, Patrick McKenna (1868-1942).
+In this letter Mckenna is informing Hogan of the holidays he is granting to &#39;P.C.&#39; who is suffering from erythema, a skin condition. He must stay indoors while his illness lasts and thus must be granted a holiday.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>St Patrick&#39;s College, Maynooth</repository>
+                  <collection>John F. Hogan papers, 21/5/11a</collection>
+                  <idno>https://letters1916.ie/item/2286</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0826">Patrick McKenna</persName>
+              <date>1916-01-11</date>
+              <placeName key="#letters1916_place-0661">Bishops House, County Monaghan, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John Francis Hogan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1942</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2286_img_1733_1"  type="Letter"  url="c096b4b7a42e56439822c4030fe55b78.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2286_img_1733_1"/>
+             5/11  <!-- Embossed Bishop\'s Seal --><!-- Embossed Bishop\'s Address: --> BISHOPS HOUSE,<lb/>MONAGHAN     11th Jan 1916.   My Dear Mons. Hogan.  I beg to inform you<lb/>that I have granted an extension<lb/>of holidays to Mgr. P. C. <seg type="unclear">Dynan</seg><lb/>as he is suffering from Erythema<lb/>of the face and has been ordered<lb/>by the Doctor to keep within doors<lb/>while the swelling lasts.  I have extended his holidays to Thursday<lb/>20th &amp; if he is not fit to travel<lb/>then, I am directing him to apply<lb/>again.    Kindest regards,<lb/>I am, my dear Mons. Hogan,<lb/>Faithfully yous, <lb/>+ Patrick McKenna 
+         </ab>
+      </body>
+   </text>
+</TEI>

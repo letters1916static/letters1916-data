@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1535">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mrs. Arthur Goff to Lady Clonbrock, 12 August 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mrs. Arthur Goff</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Mrs. Arthur Goff, honorary secretary of the Dundrum Prisoners of War Organisation, to Augusta Caroline Dillon (née Crofton), Lady Clonbrock (1839-1928). Mrs. Goff had a similar role to Lady Clonbrock in the Irish Women&#39;s Association, formed in London in the Spring of 1915 for the purpose of providing food and comforts for prisoners of war belonging to Irish Regiments. 
+Mrs. Goff has been asked to look after a named POW by his former employer. She normally looks after Royal Dublin Fusiliers and here she is asking lady Clonbrock what is being done for him - presumably she is writing to Lady Clonbrock because the prisoner is a Connaught Ranger. She is trying to avoid overlap between the two organisations.
+In a note on the back of the letter, Lady Clonbrock writes that she told Mrs. Goff to check with the IWA.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No. 54; Ms. 35,796/11/11</collection>
+                  <idno>https://letters1916.ie/item/1535</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1236">Mrs. Arthur Goff</persName>
+              <date>1916-08-12</date>
+              <placeName key="#letters1916_place-0673">Belfort House, Dundrum, Co. Dublin, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0483">Augusta Caroline Dillon</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1535_img_1003_1"  type="Letter"  url="12f543c13b1b3efa1085b9a8d556e21a.jpg"/>
+      <graphic xml:id="L1916_1535_img_1003_2"  type="Letter"  url="791498caf3ee290331543d1faf0c537f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1535_img_1003_1"/>
+             Aug 12<hi rend="superscript">th.</hi>1916   Dundrum <lb/>Co.Dublin.   Dear Lady Clonbrock   I am so sorry to trouble you again, but I <lb/> have been asked to look after <lb/>8105 Pte James Gaffney by his former <lb/>employer. As I want if possible not to overlap <lb/>can you tell me what is being done for him   I have been asked particularly to find out whether <lb/>he is getting bread.   Sincerely yours   <seg type="unclear">Elle Mari</seg> Goff. 
+            <pb n="2" facs="L1916_1535_img_1003_2"/>
+             From Mrs Goff<lb/>Att. James Gaffney<lb/>tell her that she<lb/>must write to G.W.A.<lb/>&amp; give more<lb/>information. 
+         </ab>
+      </body>
+   </text>
+</TEI>

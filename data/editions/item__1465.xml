@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1465">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Caitlín Ní Shéaghda to Mabel FitzGerald, 30 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Caitlín Ní Shéaghda </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Caitlín Ní Shéaghda to Mabel FitzGerald (née Washington McConnell) (1884-1958), wife of politician and intellectual Desmond FitzGerald (1888-1947). The writer sympathises with Mrs FitzGerald on the severity of her husband&#39;s sentence. She enquires as to how the prisoners are treated and she asks for news of Blythe (Ernest Blythe, 1889-1975). She has heard that Mrs.O&#39;Rahilly, widow of The O&#39;Rahilly (1875-1916) who was killed in the fighting on 29 April 1916, gave birth to a son recently and wants confirmation.Mabel was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Desmond FitzGerald Papers, P80/1593/1</collection>
+                  <idno>https://letters1916.ie/item/1465</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0531">Caitlín Ní Shéaghda </persName>
+              <date>1916-05-30</date>
+              <placeName key="#letters1916_place-1539">Bridge Street, Dingle, County Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1465_img_915_1"  type="Letter"  url="cb6b9721e47a661f33c0feeac5d51d3a.jpg"/>
+      <graphic xml:id="L1916_1465_img_915_2"  type="Letter"  url="572f346e44b82e466b7a0e0cca6c0df7.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1465_img_915_1"/>
+                Bridge Street,  Dingle    May 30 <hi rend="superscript">th</hi> 1916    Dear Mrs.Fitzgerald   Please excuse me <lb/> for not writing sooner.   I was very sorry for the long <lb/> sentence Desmond got but <lb/> things could be worse for you <lb/> though they are bad enough. <lb/> How must you feel at all? <lb/> You poor creature you must <lb/> feel terrible and ye were so <lb/> devoted to each other.   But what of poor Desmonds <lb/> feelings they must be terrible  
+            <pb n="2" facs="L1916_1465_img_915_2"/>
+              Can you hear from him? <lb/> or are they well treated? <lb/> What became of Blythe? <lb/> Has Mrs.O'Rahilly a <lb/> young son born to her <lb/> lately? I heard so at <lb/> all events.   How are the children? <lb/> Well I hope. Have you <lb/> any notion of moving <lb/> from Bray now?   Hoping to hear from <lb/>you soon again.  <seg type="closer"> Yours Very Sincerely  CaitlÃ­n NÃ­ ShÃ©aghda </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

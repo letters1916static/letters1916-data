@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6728">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Oscar Underwood to John Quinn, 14 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Oscar Underwood</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Oscar Underwood (1862-1929) to John Quinn (1870–1924), discussing Quinn’s article in the New York Times from the day previous. The article was about the execution of Sir Roger Casement in London. Underwood began his career as a lawyer, quickly moving into politics representing the state of Alabama in the United States Senate. He also sought the presidential nomination at the 1912 Democratic National Convention, but lost out to Woodrow Wilson. At the time of writing the letter Underwood was the chairmen of the Senate Committee on Cuban Relations. John Quinn was a lawyer in New York, the son of Irish immigrants who maintained close ties with Ireland during his life through his patronage of the arts. Quinn also campaigned for Underwood’s presidential nomination in 1912. In the letter, Underwood offers his sympathy to the Irish republican movement following the failed uprising. Underwood also condemned the policies of the British Government, referring to their actions as ‘crimes’.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>New York Public Library Manuscripts and Archives Division</repository>
+                  <collection>John Quinn Memorial Collection, Box 7, f.4</collection>
+                  <idno>https://letters1916.ie/item/6728</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0889">Oscar Underwood</persName>
+              <date>1916-08-14</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1279">John Quinn</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0945">31 Nassau Street, New York, US</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1929</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6728_img_None_1"  url="phpPhqzEu.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6728_img_0_1"/>
+              United States Senate,<lb/>Committee on Cuban Relations    August 14, 1916.    L.N.G    Mr. John Quinn,<lb/>31 Nassau St.,<lb/>New York City.    My dear John:   I write just a word to tell you that yesterday<lb/>I read with great interest your article in the New York<lb/>Times, in reference to the murder of Casement. It is a<lb/>splendid article, forecfully and clearly expressed, painting<lb/>a word picture that once conceived, will never be forgotten.<lb/>You gave me new light on the whole situation. I am glad you<lb/>have written the article for when this war is over and pre-<lb/>judice has died away, your paper will live to tell the truth<lb/>as to one of the great blunders of the British Government.<lb/>I say blunder to be charitable, crime would possibly be a<lb/>better word.   Sincerely your friend,<lb/>OW Underwood     
+         </ab>
+      </body>
+   </text>
+</TEI>

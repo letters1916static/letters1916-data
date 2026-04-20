@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0252">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Walter Edgeworth-Johnstone to Sir Mathew Nathan, 22 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Walter Edgeworth-Johnson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Walter Edgeworth-Johnstone (1863–1937), the chief commissioner of the Dublin Metropolitan Police Force, to Sir Matthew Nathan (1862-1939). The letter answers a series of questions posed by Robert Anderson in a previous letter concerning how many men would be required for each post, the length of time their service would be required, whether the men would be sworn in as special constables, if they would be provided with sticks and whistles, if they must wear a uniform and who the men would be answering to. The letter concerns details relating to the Irish Association of Volunteer Training Corps (IAVTC). The IAVTC were a corps consisting of men who were over age or engaged in important occupations and therefore could not enlist for wartime service when war broke out in 1914. This was a volunteering training militia that came to be known by the nickname &#39;Gorgeous Wrecks&#39; due to the G.R. armbands they wore symbolizing Georgius Rex. In May 1916 Johnstone gave evidence to the royal commission of inquiry into the causes of the rebellion. The commission praised the conduct of the unarmed Dublin Metropolitan Police and noted that Johnstone had given the government several warnings on which they could have acted before the Rising. Matthew Nathan was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP 1916/7964/2</collection>
+                  <idno>https://letters1916.ie/item/252</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0426">Walter Edgeworth-Johnson</persName>
+              <date>1916-04-21</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0252_img_1432_1"  type="Letter"  url="ef037a72636391b6165267bbbbc9e578.jpg"/>
+      <graphic xml:id="L1916_0252_img_1432_2"  type="Letter"  url="976554c36078269245a19dc424c50fe7.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0252_img_1432_1"/>
+              Memorandum.   22.4.16   Dear Sir Matthew-   The answers to the <lb/>queries in M<hi rend="superscript">r.</hi> Anderson's letter <lb/>are as follows â <lb/>1. one man upon each post in 4 <lb/>reliefsâ <lb/>(a) museum 4 men <lb/>(b) Arbour H. Bks. 4 ' <lb/>(c) Royal Hosp<hi rend="superscript">l</hi> 4 <lb/>(d) G.P.O. 8 <lb/>(e) Telephone Ex<hi rend="superscript">ge</hi> 4 <lb/>(f) N.Wall Ships 16 <lb/> Tot. 40 <lb/>(2) Day Tour 6am to 9am &amp; 3pm to 7.pm. <lb/>one day, next day 9.am to 3.pm &amp; so <lb/>on alternately.  
+            <pb n="2" facs="L1916_0252_img_1432_2"/>
+              Night Tour 7.pm to 1.am &amp; <lb/> 1.am to 6.am on alternate nights. <lb/>3. Yes. <lb/>4. The whistle can be provided <lb/> &amp; they can provide themselves <lb/> with sticks. <lb/>5. Volunteer Uniform &amp; <lb/> G.R. armlet. <lb/>6. These men when sworn in <lb/> as S.Constables will come under <lb/>Police Control. I have no objection <lb/>to their inspection by one of their <lb/>own Orderly Officers, but I think he <lb/> shd. <hi rend="underline">be sworn in also.</hi> <seg type="closer"> Yrs. Sincerely  W.E.Johnstone </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

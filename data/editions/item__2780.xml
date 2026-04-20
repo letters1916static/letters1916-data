@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2780">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from Anna Murphy to her sister, 11 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Anna Murphy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Postcard from Anna Murphy to her sister sent from Des Moines, Iowa, USA. Anna is asking how everyone is and mentions a letter from aunt Rose. Postcard from the Kieran Costello private collection. The recipient stayed at Asylum, Enniscorthy, Co. Wexford. Part of a collection of postcards collected by B.Murphy from around the world, c.1910-1923.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kieran Costello</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/2780</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1054">Anna Murphy</persName>
+              <date>1916-02-11</date>
+              <placeName key="#letters1916_place-1890">Des Moines, Iowa, USA</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Murphy</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0832">Asylum, Enniscorthy, Co. Wexford, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2780_img_2197_1"  type="Letter"  url="b5f8fdb940175c7b0fb18ad03ecd0b60.jpg"/>
+      <graphic xml:id="L1916_2780_img_2197_2"  type="Letter"  url="ad540014ea0407f9faa240919915092d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2780_img_2197_1"/>
+            
+            <pb n="2" facs="L1916_2780_img_2197_2"/>
+             Des Moines, Ia   Feb. 11. 1916.   Dear Sister.   Will send <lb/>you a card. How is every <lb/>one over there? <sic>Rec'd</sic> a <lb/>letter from Aunt Rose <lb/>Sinnott she got a letter <lb/>from Jim and he sent <lb/>a picture of himself and <lb/>baby and she sent the <lb/>picture to us. I dont think <lb/>it look much like him.   From your sister   Anna Murphy  <lb/>This is our address,  Mr Thomas Murphy <lb/>3002-4 St. <lb/>Des <lb/>Moines <lb/>Iowa <lb/>Highland <lb/>Park 
+         </ab>
+      </body>
+   </text>
+</TEI>

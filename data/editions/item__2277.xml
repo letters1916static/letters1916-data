@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2277">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Sweetman to Herbert Pim, 15 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Sweetman</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by John Sweetman (1844-1936). Sweetman was a member of Sinn Féin and patron to Arthur Griffith. In 1915 he spoke out against conscription and was arrested in the aftermath of the 1916 Rising.
+The letter was addressed to Herbert Moore Pim (1883-1950). Pim published a pamphlet series entitled &#39;Tracts of our times&#39;, including writings by Patrick Pearse, and in early 1916 founded the literary and political monthly, &#39;The Irishman&#39;. He joined the Volunteer muster in Coalisland at Easter 1916, and was arrested after the rising and deported to Reading gaol. He was released in September 1916.
+In this letter Sweetman writes that he would like to meet Pim to discuss the future but states that he is too old to take any active part in the volunteer movement. Sweetman also mentions that himself and Pim were both prisoners at Richmond barracks.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sweetman Family Papers, Collection List No. 156; Ms.47,589/12/2</collection>
+                  <idno>https://letters1916.ie/item/2277</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0883">John Sweetman</persName>
+              <date>1916-09-15</date>
+              <placeName key="#letters1916_place-1443">Drumbaragh, Kells, Co. Meath, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Herbert Moore Pim</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0204">65 University Road, Belfast, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1936</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2277_img_1719_1"  type="Letter"  url="4c3b32f829c284a9df936d044839a0bf.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2277_img_1719_1"/>
+            <hi rend="underline">Copy</hi>  Drumbaragh, Kells<lb/>Co. Meath <lb/> Sept 15th, 1916 <lb/> Herbert Pim Esq.<lb/>65 University Road, Belfast. <lb/><lb/> Dear Sir:-    If you are ever in Dublin<lb/>I should like to have an opportunity<lb/>of meeting you to have a talk about<lb/>the future, although I am too old<lb/>to take any active part in any<lb/>movement.  I subscribed £1- to the Anti-<lb/>Partition League which has grown<lb/>into the Irish Nation League. I enclose<lb/>copies of my letters to the latter and<lb/>also a letter of mine which appeared<lb/>in New Ireland of June 24<hi rend="superscript">th</hi> although<lb/>it was written before the rising in<lb/>Easter week.  My having been a fellow prisoner<lb/>with you in Richmond Barracks,<lb/>although in a different room,<lb/>must be my excuse for writing.   Yours truly<lb/>John Sweetman  
+         </ab>
+      </body>
+   </text>
+</TEI>

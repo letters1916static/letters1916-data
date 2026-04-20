@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5354">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Captain C. Ua Cuinneagain [O'Cunningham] to Mrs Ellen. Daly, 10 August 1923</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>C. Ua Cuinneagain</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry Library, Tralee</repository>
+                  <collection>Charlie Daly Collection, P41/18/2</collection>
+                  <idno>https://letters1916.ie/item/5354</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0423">C. Ua Cuinneagain</persName>
+              <date>1923-08-10</date>
+              <placeName key="#letters1916_place-1341">Drumboe Castle, Stranorlar, Co Donegal, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1168">Ellen Daly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0056">Knockancoulteen, Co Kerry, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Civil War (1922-1923)</item>
+               <item n="topic">Civil War (1922-1923)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5354_img_4635_1"  type="Letter"  url="fa45dadf0426c51ec2ff443ccce22ac0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5354_img_4635_1"/>
+             P41/18/2  <lb/><hi rend="\'underline\'">3RD. INFANTRY BATTALION.</hi><lb/><hi rend="\'underline\'">DONEGAL COMMAND.</hi>   HEADQUARTERS,<lb/>DRUMBOW CASTLE,<lb/>STRANORLORA,    10TH. AUGUST 1923.   TO:-  MRS. E. DALY,<lb/>KNOCKANCOULTEEN,<lb/>FARRANFORE,<lb/>CO. KERRY    A Chara,   I have made enquiries regarding the property<lb/>of your son, Charlie Daly, (R.I.P) and am to inform<lb/>you that I am forwarding by to-day's post a coat,<lb/>the only the only article of his which was left here.  I understand that nearly all his belongings were handed<lb/>over to Fr. McMullin, C.C. Ballybofey, to be forwarded<lb/>to you.  One of the prisoners here informed me that Jim Lane,<lb/>one of his comrades, who had been transferred from<lb/>here some time ago, is in possession of your son's <seg type="del">coat.</seg>   (Trench coat)    Mise, C.Ua Cuinneagain  CAPTAIN. <lb/>Adjt. 3rd. Infantry Battalion.      P/S<lb/>I am forwarding your communication<lb/>to Command Headquarters, least any<lb/>of his property has been taken there.<lb/>C. Ua. C . 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1081">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Margaret Huxley to Thomas Kirkpatrick, March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Margaret Huxley</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Margaret Huxley to Thomas Percy Kirkpatrick relating to the proposed College of Nursing. While she believes that some points need alteration Huxley believes the scheme will help the nursing profession. Additionally, Huxley expresses concern at the nomination of Miss Hill of the Adelaide Hospital and also hopes that the Joint Committee will help nurses gain state registration.In 1915 Margaret Huxley (1856-1940) took over the position as matron of the Dublin University Womenâ€™s Voluntary Aid Detachmentâ€™s Hospital. The VAD was a section of the Red Cross used to train civilian nurses to provide medical assistance during the war. The following year Huxley was tending to casualties of the Easter Rising as she opened her own private nursing home, on Lower Mount Street.From 1910 until 1954 Thomas Kirkpatrick (1869-1954) served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-3-15-10, RCPI-2-3-3-15-10</collection>
+                  <idno>https://letters1916.ie/item/1081</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0581">Margaret Huxley</persName>
+              <date>1916-03</date>
+              <placeName key="#letters1916_place-0152">Grand Hotel, Malahide, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0544">Thomas Percy Kirkpatrick</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1081_img_3226_1"  type="Letter"  url="447f0eebd2c8ac056f4574f0107f6b81.jpg"/>
+      <graphic xml:id="L1916_1081_img_3226_2"  type="Letter"  url="d48f1c341cc0b441e4b12415ba0f1190.jpg"/>
+      <graphic xml:id="L1916_1081_img_3226_3"  type="Letter"  url="30f742ce16e8a34fb5dc5d09768fb34d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1081_img_3226_1"/>
+                Saturday    Grand Hotel  Malahide   Dear D <hi rend="superscript">r</hi> Kirkpatrick    Thanks so much for <lb/>letting me see your letter <lb/>to Mr Stanley, I return <lb/>it as requested, &amp; at the <lb/>same time send you <lb/>a paper I received from <lb/>Miss Haughton yesterday, <lb/>it gives one a better  
+            <pb n="2" facs="L1916_1081_img_3226_2"/>
+              idea as to the proposed <lb/>Nursing College that is to <lb/>be, with you I begin to <lb/>think that they really <lb/>mean to work for the <lb/>betterment of nurses &amp; <lb/> nursing â there remains <lb/>some points for alteration.   I hear that Miss <lb/>Hill of the Adelaide Hospt. <lb/>has been nominated on <lb/>the first Council, of <lb/><lb/>all the Dublin Matrons <lb/>she probably knows less <lb/>than any one of them <lb/>the difficulties &amp;needs <lb/>that <seg type="unclear">obtain</seg> over here. <lb/>Would you kindly keep <lb/>Miss Haughton's paper <lb/>until my return.   Thanking you for all <lb/>the trouble you are <lb/>taking on our behalf  
+            <pb n="3" facs="L1916_1081_img_3226_3"/>
+              &amp; hoping you will still <lb/>aim for State Registration. <lb/>We need it badly.  <seg type="closer"> Believe me, <lb/>Y <hi rend="superscript">r</hi> sincerely,   Mgt. Huxley </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

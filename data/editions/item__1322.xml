@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1322">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Atwell to James R. Fair, 24 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Atwell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Robert Atwell to James R. Fair thanking him for his letter of 21 January. He thanks Fair for offering to have his brother help with the matter of his commission as an officer in the army. He writes that he has had about a year of training and bears &#39;a good character in the Regiment&#39;. This correspondence is in relation to Atwell seeking a commission in the 4th Connaught Rangers, Sir Henry&#39;s Batallion. It is from a collection of miscellaneous letters, relating to the Bellew family. Sir Henry Christopher Grattan-Bellew, 3rd Baronet (1860-1942) was the third baronet of Mount Bellew in County Galway. He held the rank of Lieutenant-Colonel, 4th Battalion Connaught Rangers. His son, sir Charles Christopher (1887-1948) held the rank of Lieutenant-Colonel, King&#39;s Royal Rifle Corps. He was decorated with the award of the Military Cross (M.C.) in 1918</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Bellew of Mount Bellew Papers, Collection List No. 33, Ms. 27,290</collection>
+                  <idno>https://letters1916.ie/item/1322</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0234">Robert Atwell</persName>
+              <date>1916-01-24</date>
+              <placeName key="#letters1916_place-0304">Haddington</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0153">James R. Fair</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0110">Athlone, County Westmeath</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1322_img_618_1"  type="Letter"  url="10ea800600684214971d6ac704fc5bdf.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1322_img_618_1"/>
+                Amisfield,  Haddington    24/1/16.   Dear M<hi rend="superscript">r</hi> Fair,   I am in receipt of your letter <lb/> of 21<hi rend="superscript">st</hi> inst. for which I thank you.  If your brother can do anything <lb/> for me I shall be greatly obliged.  There is no doubt that the Army <lb/> at the present time must require a great number <lb/> of trained men to take Commissions. I have <lb/> now had almost a years training and bear a <lb/> good character in the Regiment so that there <lb/> should be no bar to my obtaining a Commission <lb/>if nominated by an O.C. of some other line. <seg type="closer"> Yours faithfully,  Robt.T.Atwell   C.E.Fair G.L.T.D.  <hi rend="underline">Athlone</hi>  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

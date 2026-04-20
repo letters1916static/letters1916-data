@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3105">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Peter Mooney to his sister Katie Mooney, 8 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Peter Mooney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Peter Mooney was born 5 February 1886 in Folistown, Dunboyne, Co Meath. Orphaned at age 7, he and his sister Katie (b. 1884) were raised by their uncle William and his wife Mary in Caulstown. While there are no surviving enlistment papers for Peter, his War Badge Index Record shows his enlistment date as 18 October 1915. 
+
+He served with the Royal Artillery and later transferred to the Royal Engineers where he was promoted to the rank of Sergeant. He served in several places at the Western Front, including Ypres, St. Omer and Passchendael. Peter and Kate were avid correspondents. This  letter is from a collection of over ninety surviving letters.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Mooney Family Papers</repository>
+                  <collection>Mooney Family Papers</collection>
+                  <idno>https://letters1916.ie/item/3105</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0428">Peter Mooney</persName>
+              <date>1916-10-08</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Kate Mooney</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1524">Caulstown, Dunboyne, Co. Meath, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1970</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3105_img_2512_1"  type="Letter"  url="fbbc4588c8ba0da022d9d7ca59d4cf5e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3105_img_2512_1"/>
+             Oct 8<hi rend="superscript">th</hi> 1916   Dear Katie,   I received the two parcels quite safely <lb/>on Friday also your letter. I am glad to hear that all is so well. I would have wrote before now but <lb/>we were on the march &amp; not settled down. At <lb/>present we are away from the firing line &amp; will be <lb/>for some little time. The weather is bad at present <lb/>it rains every day which makes things very uncom- <lb/>fortable. It was very good of Mr Moore to send <lb/>his reafer and binder to cut the oats without being <lb/>asked I will write to him in a few days. The <lb/>crop of oats appears to be very good. I am greatly <lb/>pleased with Hickey he seems to mind everything <lb/>very well. Everything in the parcel were alright <lb/>I have got plenty for a while now. Jims brother <lb/>must have got it very rough I hope he will be <lb/>alright soon. I hope you will keep on improving <lb/>in health above all do not worry yourself <lb/>bright days are coming for us all the damned Hun <lb/>cannot last much longer now. Remember me to all <lb/>the neighbours around the place. I hope all are well. <lb/>In your next parcel send me on a Tobbaco pouch. <lb/>I will write you a longer letter when I get settled down <lb/>again. I now say Good Bye &amp; may God Bless &amp; keep you <lb/>all.    Peter Mooney 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2279">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter From Bishop Joseph Hoare to Rev. John F. Hogan, 15 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Joseph Hoare</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Bishop Joseph Hoare (1851-1927), bishop of Ardagh and Clonmacnoise, to Rev Dr John Francis Hogan (1858-1918), priest, author and president of St. Patrick&#39;s College, Maynooth from 1912-1918.
+In the letter Hoare approves the ordination of a Mr. Dooner, as Dooner had given a guarantee that if he grew ill following his acceptance into the priesthood he would not put his diocese to any expense.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>St Patrick&#39;s College, Maynooth</repository>
+                  <collection>21-2-14</collection>
+                  <idno>https://letters1916.ie/item/2279</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0107">Joseph Hoare</persName>
+              <date>1916-06-15</date>
+              <placeName key="#letters1916_place-1054">Bishop&#39;s House, St. Michael&#39;s, Longford, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John F. Hogan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1272">St. Patrick's College, Maynooth, County Kildare, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1927</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2279_img_1722_1"  type="Letter"  url="28d54c5b1e9731ef86d4c113720abd4c.jpg"/>
+      <graphic xml:id="L1916_2279_img_1722_2"  type="Letter"  url="ab9c51aff39f0e8ce7ddec60150fd346.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2279_img_1722_1"/>
+             2/14  <!-- Embossed Bishop\'s Address: --><lb/> Bishops House,<lb/>St. Michael's,<lb/>Longford.    My dear Monsignor.  <lb/><lb/>I<lb/>wrote to Mr. Dooner<lb/>that he should give<lb/>me a guarantee<lb/>that if he got ill,<lb/>after becoming a<lb/>Priest, he would<lb/>not put this Diocese<lb/>to any expense. He<lb/>says in a telegram<lb/>to day that he will<lb/>do so. I, therefore, 
+            <pb n="2" facs="L1916_2279_img_1722_2"/>
+             put no stay<lb/>on his ordination<lb/>and you have all<lb/>faculties I can<lb/>give for his<lb/>ordination.  <lb/> I am yours sincerely <lb/>+ J. Hoare<lb/><lb/> June 15.1916.  
+         </ab>
+      </body>
+   </text>
+</TEI>

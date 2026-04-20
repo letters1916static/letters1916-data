@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1145">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Malachy Kelly, Chief Crown Solicitor, to Lewis J. Watters, 23 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Malachy Kelly</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from the Chief Crown Solicitor, Malachy Kelly (1851-1916), to Lewis J. Watters, Crown Solicitor for Kilkenny. If refers to a claim from Watters for a fee due to him for his work on a case relating to the maintenance of children in Kilkenny and Limerick Industrial Schools. Kenny writes that instructions had been issued by the Chief Secretary (Augustine Birrell) and the matter was not in his hands.Sir Malachy Kelly was the Chief Crown Solicitor for Ireland. He was appointed Crown Solicitor for Mayo in 1884 and was involved in a number of high profile cases. In 1905, he was appointed Chief Crown Solicitor for Ireland and moved to Dublin.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>, CSO RP/5596/1916/503/3</collection>
+                  <idno>https://letters1916.ie/item/1145</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0509">Malachy Kelly</persName>
+              <date>1915-12-23</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1369">Lewis J. Watters</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0207">Kilkenny</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1145_img_379_1"  type="Letter"  url="8249037db8f42e65b24a20b6629d7080.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1145_img_379_1"/>
+                23rd December 1915.   re/ Anastatia Devlin &amp; ors<lb/> Workmen's Compensation Claim.  Dear Sir,   Referring to your letter of 21st inst if as I think<lb/> is the case it relates to an application for contribution<lb/> towards the maintenance of children inmates in Kilkenny and<lb/> Limerick Industrial Schools the instructions were sent to you<lb/> by the Under Secretary and the matter is not in my hands. <seg type="closer"> Yours truly,  M. Kelly<lb/>  L J Watters Esq.,L.L.B.  Crown Solicitor  Kilkenny.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2834">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John R. Moorhead to Sir Robert Chalmers, 29 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John R. Moorhead</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter written by John R. Moorhead(1859-1936), crown solicitor for Belfast. The letter is addressed to the under-secretary for Ireland, Sir Robert Chalmers (1858-1938). Chalmers was sent to Ireland as under-secretary, replacing Sir Matthew Nathan who had resigned, along with chief secretary Augustine Birrell, in the aftermath of the Easter Rising in 1916. 
+
+The letter concerns compensation payment for travel expenses incurred by a witness to a case heard at the previous Spring Assizes. The accused had been a captain in the army and a representative of Cox &amp; Co, the military bankers, was required to attend as a witness for three days. Believing the expenses claim to be excessive, Moorhead writes seeking the direction of the under secretary as to the correct course of action. 
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered papers, CSO-RP-1916-5615-11091-1</collection>
+                  <idno>https://letters1916.ie/item/2834</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1437">John R. Moorhead</persName>
+              <date>1916-06-29</date>
+              <placeName key="#letters1916_place-1495">30 Rosemary Street, Belfast, Antrim, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir. Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1936</item>
+               <item n="tag">Law and Judiciary</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2834_img_2249_1"  type="Letter"  url="cc98354edf4d0ba405601a704a5e37dd.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2834_img_2249_1"/>
+             Counties of Antrim &amp; Belfast Crown Solicitors Office. <lb/>30 Rosemary Street, <lb/>Belfast   29th. June 1916   MOORHEAD &amp; WOOD. <lb/><hi rend="underline">Solicitors</hi> <lb/>JOHN R.MOORHEAD, <lb/><hi rend="underline">Crown Solicitor.</hi> <lb/><hi rend="underline">Telephone N<hi rend="superscript">o</hi>605</hi>  <HEAD>THE UNDER SECRETARY/</HEAD>  SIR/  <hi rend="underline">The King v Wheeler</hi>  This case was heard at the last spring Assizes when the <lb/>accused pleaded guilty to passing a worthless cheque on Mr. Fred <lb/>W. Henry of this City. The accused was a Captain in the Army <lb/>at the time and by direction of Senior Crown Counsel I caused a <lb/>Crown Office Writ of Summons to issue for the attendance of a <lb/>representative from Messrs Cox &amp; Co. the Military Bankers, to pro— <lb/>duce a certified copy of accused's Banking A/c. Mr. Henry H. <lb/>Billetter. Bank Clerk, attended and he was in attendance at the <lb/>Assizes 3 days and 2 nights. At the Assizes he furnished me with <lb/>an A/c. amounting at £3. 13. 0., for travelling expenses, but I <lb/>did not certify anything for him. I informed him that he should <lb/><sic>sent</sic> me a detailed statement of his expenses with a view to <lb/>getting your directions as to payment.   He has now furnished <lb/>this statement which I think is excessive, and I should be glad to <lb/>have your directions as to what amount, if any, should be allowed him. <lb/> He <sic>travelled</sic> to the Head Office, Charing Cross,London.   I am, Sir, <lb/>Your obedt. servant   John R <hi rend="underline">Moorhead</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

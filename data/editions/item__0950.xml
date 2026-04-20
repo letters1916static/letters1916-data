@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0950">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Alexander Barlas to the Urban District Council Longford, 10 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Alexander Barlas</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Alexander Richard Barlas, secretary for the Local Board of Government of Ireland, to the Longford Urban District Council regarding a payment due under the Housing of the Working Classes (Ireland) Act, 1908.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Longford County Archives Service</repository>
+                  <collection>LUDC-1-3-1916-5-2, LUDC-1-3-1916-5-2</collection>
+                  <idno>https://letters1916.ie/item/950</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1045">Alexander Barlas</persName>
+              <date>1916-04-10T00:00:00</date>
+              <placeName key="#letters1916_place-1620">Local Government Board, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Nicholas Lamb</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0870">Urban District Council, Longford</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0950_img_2765_1"  type="Letter"  url="c49b2dd46ceaeba3dce8b4e4fea03191.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0950_img_2765_1"/>
+              64745 : 1915. <hi rend="underline">Miscellaneous</hi>.    LOCAL GOVERNMENT BOARD, DUBLIN    10th April, 1916   Sir,   I am directed by the Local Government Board for Ireland to forward <lb/>for the information of the Longford Urban <lb/>District Council the accompanying seals copy of a certificate made by <lb/>the Board in pursuance of the provisions of sub-sections (2) and (3) <lb/>of Section 5 of the Housing of the Working Classes (Ireland) Act, 1908, <lb/>that the council was liable to pay or to set apart a sum of Â£ 343:15:3 <lb/>in the financial year ended the 31st ultimo, in respect of an amount of <lb/>Â£6,400:0:0 borrowed by the council after the passing of the <lb/>Act, for the purposes of the Housing of the Working Classes (Ireland) <lb/>Acts, 1890 o 1908. <seg type="closer"> I am, <lb/>Sir, <lb/>Your obedient Servant,  A. R. Barlas  Secretary <lb/>To   The Clerk,  Urban District council,  Longford.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

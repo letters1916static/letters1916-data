@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1801">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Andrew Philip Magill to Thomas Francis Smyth, 29 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Andrew Philip Magill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Andrew Philip Magill (1871-1941), the private secretary of the Chief Secretary of Ireland, Augustine Birrell (1850-1933). Magill was writing to Thomas Francis Smyth (1875-1937), MP for South Leitrim. In the letter Magill was writing on behalf of Birrell stating that, Birrell had received Farrell&#39;s letter of recommendation and had taken it on board. Smyth had sent Birrell a letter asking him to consider Mr Thomas W. Delany (1868-1939) for the position of chief crown solicitor of Ireland. A vacancy had arose when Sir Malachy Kelly (1851-1916) died suddenly. Delany was the crown solicitor for Longford.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/6258/9</collection>
+                  <idno>https://letters1916.ie/item/1801</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0014">Andrew Philip Magill</persName>
+              <date>1916-03-29</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0240">Thomas Francis Smyth</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1974">Mohill, County Leitrim, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1941</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1801_img_1255_1"  type="Letter"  url="0d4f42fe1f7d3fd57840e3a8ca4f3064.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1801_img_1255_1"/>
+             <hi rend="underline">Copy</hi>   29th March, 1916.   Dear Mr. Smyth,   I am desired by Mr. Birrell to acknowledge the <lb/>receipt of your letter of 27th instant, and to <lb/>say that he has taken note of your recommendation <lb/>of Mr.Delaney for appointment as Chief Crown Solicitor, <lb/>Ireland.   Yours faithfully,   (sd) APM   <lb/>Under Secy. <lb/>A.P.M. <lb/>29/3/16  Thomas F. Smyth, Esq., M.P., <lb/>Mohill, <lb/>Co.Leitrim. 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5910">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Henry T. Gallagher to Augustine Birrell, the Chief Secretary for Ireland, 29 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Henry T. Gallagher</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter was written by Henry Thomas Gallagher (1880-1975). Gallagher was a businessman and a solicitor.The letter was sent to Augustine Birrell (1850-1933). Birrell was the Chief Secretary for Ireland from 1907 until his retirement in 1916 following the aftermath of the Easter Rising, for which Birrell accepted responsibility. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registerede Papers, CSORP/1916/5554/1</collection>
+                  <idno>https://letters1916.ie/item/5910</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0430">Henry T. Gallagher</persName>
+              <date>1916-03-29</date>
+              <placeName key="#letters1916_place-2003">Strabane, County Tyrone, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0534">Augustine Birrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5910_img_1175_1"  type="Letter"  url="16e1afdf2f766bffbb031778ece5890c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5910_img_1175_1"/>
+                Strabane.    29th, March 1916   SIR   I beg to apply for the position of Chief Crown <lb/>Solicitor, rendered vacant by the death of Sir Malachi Kelly.  <seg type="closer"> I am, Sir, <lb/>Your <sic>Obed.</sic> Servant,   Henry T. Gallagher   The Under Secretary  To the Lord Lieutenant,  DUBLIN CASTLE.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

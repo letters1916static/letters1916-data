@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0011">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Caitlín Burgess to Mabel FitzGerald, 1 June 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Caitlín Burgess (Brugha)</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Caitlín Burgess (Brugha) (1879-1959) to Mabel FitzGerald (née Washington McConnell) (1884-1958). Caitlín Brugha apologises for missing Mrs. FitzGerald when she called to her house and indicates when she will be available for a further visit - she is likely to be out visiting (her husband) in hospital at certain times. She sympathises with Mrs. FitzGerald over what has happened her husband and says her own trouble was like a bad dream and she is not surprised that her baby daughter arrived earlier than expected. She also writes that her husband had had an operation and was in great pain, unable to sleep.Caitlín Burgess was the wife of Cathal Brugha (Burgess) (née Kingston (1874-1922), second-in-command at the South Dublin Union during the Easter Rising 1916. He was badly woulded in action but survived. Desmond Fitzgerald was imprisoned for his part in the Rising. Mabel Fitzgerald was the wife of politician and intellectual Desmond FitzGerald (1888-1947).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1609/1</collection>
+                  <idno>https://letters1916.ie/item/11</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1457">Caitlín Burgess (Brugha)</persName>
+              <date>1916-06-01</date>
+              <placeName key="#letters1916_place-0145">Rosnarígh, Ardán Mhic Liam, Ráth Ó Máine</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0011_img_1037_1"  type="Letter"  url="183501662583137e104022574cc6578a.jpg"/>
+      <graphic xml:id="L1916_0011_img_1037_2"  type="Letter"  url="6f964d1d5fb9c1949a18212dc85ac823.jpg"/>
+      <graphic xml:id="L1916_0011_img_1037_3"  type="Letter"  url="cf5e9d9947044b0cac1d5bac93756c07.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0011_img_1037_1"/>
+                RosnarÃ­gh,  ArdÃ¡n Mhic Liam,  RÃ¡th Ã MÃ¡ine.    Meitheamh 1 <hi rend="superscript">ad</hi> '16    May 1 1916  <seg type="foreign">A chara</seg>   I was so sorry to <lb/>have missed seeing you <lb/>when you so kindly called <lb/> last week.   Unfortunately <lb/>the nurse was out, also <lb/> Eibhlin with the children <lb/> there was no one but myself <lb/> &amp; Baby in the house.   
+            <pb n="2" facs="L1916_0011_img_1037_2"/>
+              I hope you will soon have <lb/>time to call again, the <lb/> only evenings I am most <lb/> likely to be out are Tuesdays <lb/> &amp; Saturdays visiting days at <lb/> the Hospital.   I need not <lb/>tell you how much we <lb/> sympathise with <hi rend="superscript">you</hi> in the present <lb/> trouble. We have been through <lb/> so much ourselves that it <lb/>all seems like a bad dream. <lb/>It is not surprising that Baby <lb/>Brenda came most immediately  
+            <pb n="3" facs="L1916_0011_img_1037_3"/>
+              Cathal was operated on <lb/> last Saturday, he is still <lb/>suffering a great deal, so <lb/> great that he cannot sleep. <lb/>Hoping to have the pleasure <lb/>of seeing you soon.  <seg type="closer"> <seg type="foreign">Le meas mÃ³r</seg>  CaitlÃ­n Burgess </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2442">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to John Murphy, 22 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter to John Murphy stating that his request of the 21 March can only be dealt with by the Lord Lieutenant of Ireland, Sir Ivor Churchill Guest, Lord Wimborne (1873-1939).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI: &#39;Chief Secretary’s Office Registered Papers; CSORP/1916/7495/8</collection>
+                  <idno>https://letters1916.ie/item/2442</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-03-22</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John Murphy</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1297">High Street, Killarney, County Kerry, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2442_img_1880_1"  type="Letter"  url="fd61661c774bb97df55150b0a808fe48.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2442_img_1880_1"/>
+             22 March 16  <lb/>1526/16   Sir   Your letter of the 21st inst-<lb/>recd.  I would inform you that<lb/>I have not stated I possess any<lb/>power as to the appointment of<lb/><seg type="unclear">Mr</seg>   R.S.   I have called attention<lb/>to the fact that the <seg type="unclear">statute</seg>, and<lb/>order of the Lord Lieutenant<lb/>do <seg type="del">oct</seg> not permit certain persons<lb/>to act.  The matter of request<lb/>of <seg type="unclear">actn</seg>R.G. <seg type="unclear">Clerks</seg> is in the discretion<lb/>of the Lord Lieutenant.   I am<lb/>LC<lb/>HC    John Murphy Esq JP<lb/>High St<lb/>Killarney  
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1204">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fr William Keary to Fr Provincial Thomas V. Nolan, 6 October 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>W. Keary</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Fr William Keary (1881-1958) to Fr Provincial Thomas V Nolan (1867-1941) regarding the news Fr John Fitzgibbon&#39;s death. Fr. Thomas V Nolan was the Provincial of the Irish Province of the Society of Jesus (1912-1922) and was a member of the Distribution Committee which looked after the welfare and distribution of the Belgian refugees who arrived in Ireland as a consequence of the First World War.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IJA/CHPI/21/30, IJA/CHPI/21/30</collection>
+                  <idno>https://letters1916.ie/item/1204</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0303">W. Keary</persName>
+              <date>1918-10-06</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas V Nolan </persName>
+              <date></date>
+              <placeName key="#letters1916_place-1717">Dublin, Ireland </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1204_img_3888_1"  type="Letter"  url="eaf38a68d2092411f2402647b4433f32.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1204_img_3888_1"/>
+                Sunday 6-10-18    Dear Fr. Provinical P.C. <lb/>Many thanks for your kind letter. <lb/>I was on leave when Fr. Fitzgibbon was killed, and <lb/>when I returned I found that his effects had <lb/>all been sent to his <hi rend="underline">home</hi> address (to his father). <lb/>He was so much loved and respected that great <lb/>care was taken that <hi rend="underline">all</hi> (clothes, altar-kit, etc.) was sent. <lb/>It must indeed be a great loss to your Reverence; <lb/>for I cannot tell you what a loss he is to me. <lb/>Apart from out intimate friendship, he was such a <lb/>splendid organiser, had so tactful a <hi rend="underline">way</hi>, and was so <lb/>zealous and hardworking; and yet was so kindly and <lb/>encouraging to us younger Chaplains that I feel quite <lb/>'at sea' without him. May he rest in peace.I have <lb/>said 4 <seg type="unclear">Masses</seg> for his soul, and hope to say another soon. <lb/>Mass is a sore treat in the rough and tumble life <lb/>we are leading during the present advance. <seg type="closer"> Yours very respectfully in Christ,  W. Keary S.J.   16 Field Ambulance,  B.E.F.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0709">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fr Nicholas J Tomkin SJ to Fr Thomas V Nolan SJ, 7 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Nicholas J Tomkin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Fr Nicholas Tomkin to Fr Thomas Nolan in which he describes the rumours by some French Jesuits from Milltown Park to the French Consul, M. de Longchamp, that the Irish Jesuits were &#39;Sein Feinners - pro German - anti French&#39;. Refers also to &#39;the O&#39; Rahilly&#39; and whether he was a past pupil of Clongowes Wood College.Fr Nicholas J Tomkin SJ (1877-1942) was the Rector of Clongowes Wood College, a Jesuit-run boarding school in Co. Kildare. Fr. Thomas V Nolan (1867-1941) was the Provincial of the Irish Province of the Society of Jesus (1912-1922) and was a member of the Distribution Committee which looked after the welfare and distribution of the the Belgian refugees who arrived in Ireland as a consequence of the First World War. Michael Joseph O&#39;Rahilly, self-described as &#39;The&#39; O&#39;Rahilly, fought in the G.P.O. during the Rising and was shot in Parnell/Moore Street on 28 April 1916 and died some time later.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IE IJA/SC/CLON/115, IE IJA/SC/CLON/115</collection>
+                  <idno>https://letters1916.ie/item/709</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1514">Nicholas J Tomkin</persName>
+              <date>1916-06-07</date>
+              <placeName key="#letters1916_place-0526">Clongowes Wood College, Sallins, Kildare</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas V Nolan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1897">St Francis Xavier's, Upper Gardiner Street, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0709_img_2204_1"  type="Letter"  url="3a908d4b803fb2efe05faa2ec80bc5b5.jpg"/>
+      <graphic xml:id="L1916_0709_img_2204_2"  type="Letter"  url="9be5244191064400a6da77073ba9906b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0709_img_2204_1"/>
+              Telegrams<lb/> 'College<lb/> Clongoweswood'<lb/>    Clongowes Wood College  Sallins    7 - 6 - 16   Very Rev &amp; dear Fr Provincial P C   I have heard the following on<lb/> excellent authority &amp; I think it well<lb/> your Reverence should know it.  Some French S J S from Milltown Park<lb/> visit frequently Mr De Longchamps French<lb/> Consul &amp; have reported  to him  that the Irish<lb/> Jesuits were Sinn Feiners â pro German â anti<lb/> French. â Little disputes   that turn up<lb/> in recreation in Milltown Park are<lb/> reported to him. Mr De Longchamps believes<lb/> all these &amp; at a recent visit here<lb/> showed him to have the idea that we<lb/> Irish Jesuits are anti French &amp; Sein Feiners  
+            <pb n="2" facs="L1916_0709_img_2204_2"/>
+              At a visit that a French boy C <seg type="unclear">Arnold</seg><lb/> paid to the Consul he was asked what<lb/> views were held by the Community &amp;<lb/> boys in Clongowes. Arnold said<lb/> we were Sein Feiners. I am afraid the<lb/> Milltown Park people may do harm<lb/> I don't think the Consul would place much<lb/> reliance on Arnold's statement.  Fr Corr said their report had it that the O'Rahilly<lb/> was a Clongownian. I told him not to take any<lb/> notice or to try to verify it. If it is the<lb/> case ought we to mention this death in<lb/> the Clongownian? <seg type="closer"> Yours obediently in <seg type="unclear">tr</seg>  N J Tomkin S J </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

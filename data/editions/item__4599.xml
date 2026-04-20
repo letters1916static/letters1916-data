@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4599">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas Kirkpatrick to Mrs R. Saundby, 7 October 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Kirkpatrick</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>From 1910 until 1954 Thomas Percy Kirkpatrick (1869-1954) served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.
+
+Mrs R. Saundby was the wife of English Physician Dr. Robert Saundby.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-14-43</collection>
+                  <idno>https://letters1916.ie/item/4599</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1453">Thomas Kirkpatrick</persName>
+              <date>1918-10-07</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mrs R. Saundby</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1581">Birmingham, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1954</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4599_img_3940_1"  type="Letter"  url="9167a85afb0339ba1eeed2dd737c56d1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4599_img_3940_1"/>
+               fbclid=IwAR2U6fcHYHqH0febIzOXYWhhOSA1esVHz71oVXGWww2KNhICPiYsWIA-spQ RCPI/2/3/2/14/43    7th October 1918    Mrs. R. Saundby,    Gt.Charles St.,    Birmingham.    Madam,   I am requested by the President and Fellows of the Royal  College of Physicians of Ireland to forward you a copy of the  following resolution which was carried in solemn silence at a  meeting of the College held on Friday last the 4th instant:  Resolved: that the President and Fellows of the Royal College  of Physicians of Ireland have heard with profound regret of the  death on the 28th of July last of their distinguished colleague Dr.  Robert Saundby, an Honorary Fellow of the College, and they hereby  desire, at this the first meeting of the College since the sad  event, to convey to Mrs Saundby and the members of her family an  expression of sincere sympathy with them in their bereavement.  I am, Madam,   Yours faithfully,   <seg type="unclear">Fellow Registrar</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

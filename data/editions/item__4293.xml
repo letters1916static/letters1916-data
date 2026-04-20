@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4293">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Major Lennon to Father Aloysius 2 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Major Lennon</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Refers to the execution of P.H. Pearse. Major Lennon grants Fr Aloysius permission to visit. Fr. Aloysius was a Capuchin priest. Includes Fr. Aloysius&#39;s response. Includes detail that Thomas MacDonagh also required his services (the last rites). Executions took place at 3.30 am on 3rd May 1916. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Jackie Clarke Collection</repository>
+                  <collection>1-1</collection>
+                  <idno>https://letters1916.ie/item/4293</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0785">Major Lennon</persName>
+              <date>1916-05-02</date>
+              <placeName key="#letters1916_place-0486">Kilmainham Detention Barracks</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Fr Aloysius</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1745">Capuchin Friary Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Faith</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4293_img_3656_1"  type="Letter"  url="ba6650ae5fb4bfb965c210459d293a26.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4293_img_3656_1"/>
+             Kilmainham Detention Barracks   2-5-16    Sir   The prisoner <sic>H.T.</sic> Pearse desires to see you &amp;<lb/>you have permission to visit him. <seg type="del">He</seg> Failing<lb/>you he would be glad to see any of the<lb/><sic>Capucinis</sic>.   I am Sir,<lb/>Your obedient servant<lb/>W.S. Lennon.<lb/>Major<lb/>Commandant.<lb/>Rev. F Aloysius. <lb/> This was the summons to attend the late<lb/>P.H. Pearse. I received the notice about<lb/>10 pm on 2<hi rend="superscript">nd</hi> May. On arrival at Kilmainham<lb/>I was notified that Thomas MacDonagh<lb/>also desired my services. The executions<lb/>took place about 3.30 a.m. on 3rd May.<lb/>Rev. Fr Aloysius O.S.F.C. 
+         </ab>
+      </body>
+   </text>
+</TEI>

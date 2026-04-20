@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3682">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Isabella Harvey and Anne Harvey Shackleton to Hanna Sheehy Skeffington, 12 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Isabella Harvey and Anne Harvey Shackleton</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Isabella and Anne Harvey Shackleton to Hanna Sheehy Skeffington (1877-1946) offering their condolences and sympathy regarding the murder of Hanna&#39;s husband, Francis Sheehy-
+Skeffington (1878-1916), during Easter Week.
+
+Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the founder of the Irish Women’s Franchise League and a founding member of the Irish Women Workers’ Union. She was the widow of Francis Sheehy-Skeffington who was summarily executed on 26 April 1916. She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy-Skeffington Papers, Collection List No.47; MS 33,605/2-10</collection>
+                  <idno>https://letters1916.ie/item/3682</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0969">Isabella Harvey and Anne Harvey Shackleton</persName>
+              <date>1916-05-12</date>
+              <placeName key="#letters1916_place-2097">Clongarry, Cashio Lane, Letchworth, Hertsfordshire, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3682_img_3075_1"  type="Letter"  url="0acfe2cc6461a78e2cf298ca71855705.jpg"/>
+      <graphic xml:id="L1916_3682_img_3075_2"  type="Letter"  url="cfbb8e622c22142e886b8d1d2e4582cd.jpg"/>
+      <graphic xml:id="L1916_3682_img_3075_3"  type="Letter"  url="ba9ce451e73228e2be01d59490fbe387.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3682_img_3075_1"/>
+              Clougarry,<lb/>Gashislaue,<lb/>Letchworth,<lb/>Herto <lb/><lb/> May 12th '16 <lb/><lb/> Dear Miss Sheehy Skeffington,   Pray we ask you<lb/>to accept the deep<lb/>sympathy which we<lb/>feel for you in the<lb/><seg type="del">in the </seg>irreperable. 
+            <pb n="2" facs="L1916_3682_img_3075_2"/>
+             loss which has befallen <lb/>you, -- and Ireland. <lb/>we are unspeakably <lb/>shocked and grieved, <lb/>and most indignant <lb/>at this last lawless <lb/> and aimless tragedy <lb/>and at the inhuman <lb/>way in which you your- <lb/>self have been treated; <lb/>and feel more than <lb/>we can put into words, <lb/>for you and your little boy. 
+            <pb n="3" facs="L1916_3682_img_3075_3"/>
+             Very sincerely yours,  Anne Harvey Shackleton,<lb/>(Mrs Abraham Shackleton)<lb/>Isabella Harvey<lb/>Irishwomen. 
+         </ab>
+      </body>
+   </text>
+</TEI>

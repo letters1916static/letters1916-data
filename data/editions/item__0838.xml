@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0838">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to Dr Kathleen Lynn from the Assistant Provost Marshal, 28 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter to Dr. Kathleen Lynn (1874-1955) from the Assistant Provost Marshal at Dublin Castle. In this letter, the official states that property confiscated from Dr Lynn in Shop Street Barracks is in his possession, and will be returned to her when authorisation is granted to do so. He notes that as some prisoners have had property confiscated with a value of up to £80, he is obliged to ascertain whether prisoners&#39; effects should be returned to them while they are still detained. The official suggests that Dr Lynn&#39;s effects at Liberty Hall have been destroyed during the bombardment, but allows that he has no personal knowledge of this.Dr Kathleen Lynn was a medical practitioner, a suffragist, a nationalist, and a revolutionary. Lynn was Chief Medical Officer of the Irish Citizen Army during Easter 1916, and was a part of the City Hall garrison, of which she took command of the garrison after the death of Seán Connolly on the first day of the Rising. After independence, Lynn played a major role in improving public health, and played a significant role in the eradication of tuberculosis in Ireland.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, IE/AL/KL/1/19</collection>
+                  <idno>https://letters1916.ie/item/838</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-05-28</date>
+              <placeName key="#letters1916_place-1882">Tower Castle Yard, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1086">Kathleen Lynn</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1681">Kilmainham Gaol, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0838_img_2392_1"  type="NULL"  url="0b116344c3ad169296d7c22b22bf3db2.jpg"/>
+      <graphic xml:id="L1916_0838_img_2392_2"  type="NULL"  url="82b27dde5f05d2e41a08d409263c79f3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0838_img_2392_1"/>
+                Lower Castle Yard  Dublin   28/5/16 <name>Miss K. Lynn</name> Dear Madam   Your letter of the 26.5.16 <lb/> has been passed to me.  The property taken from you in Ship <lb/> Street Barracks is in my possession &amp; <lb/> will be handed over when I am <lb/> authorised to do so. As some of <lb/> the prisoners effects amount to as <lb/> much as Â£80 I have had to ask <lb/> the question as to whether such monies <lb/> are to be handed over whilst the <lb/> owner is in detention.   I presume your effects at Liberty <lb/> Hall were destroyed when the place <lb/> was bombarded, but of this I have <lb/> no personal knowledge.  
+            <pb n="2" facs="L1916_0838_img_2392_2"/>
+              <seg type="closer"> Yours faithfully   <seg type="unclear">Emmanuel May</seg> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

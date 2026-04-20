@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3984">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Count George Noble Plunkett to Arthur Patrick O'Brien, 29 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>George Noble Plunkett</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from George Noble Plunkett to Mr O&#39;Brien to apologise for missing an appointment.  He further notes that he will be changing address shortly.
+
+Count Plunkett was a nationalist and a papal count. He had been sworn in to the IRB by his son, Joseph Mary Plunkett (1887-1916), before the Rising and arrested afterwards. Count Plunkett was elected as an MP in 1918 and was a member of the first Dáil. 
+
+In the wake of the 1916 Rising, Arthur Patrick O&#39;Brien founded the Irish National Relief Fund in London to
+provide assistance to the families of Irish rebels.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>MS 8434:18-3a MS 8434:18-3a</collection>
+                  <idno>https://letters1916.ie/item/3984</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0116">George Noble Plunkett</persName>
+              <date>1916-09-29</date>
+              <placeName key="#letters1916_place-0839">21 Wellington Square, Oxford, United Kingdom</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Arthur Patrick O&#39;Brien</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1948</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3984_img_3371_1"  type="Letter"  url="d1e5fece62a058b80804934f957eedfe.jpg"/>
+      <graphic xml:id="L1916_3984_img_3371_2"  type="Letter"  url="1c7afe143f37f6f4c6aa43ea580b5dab.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3984_img_3371_1"/>
+             <lb/> 8/10/16    21, Wellington Square<lb/>Oxford,    29th September 1916    Dear Mr. O'Brien,   I got a hurried<lb/>call on Tuesday, and went<lb/>to London, but the pressure<lb/>of business gave me no<lb/>chance to call at the address<lb/>you gave me. I hope to<lb/>be able to see you before<lb/>long, and have a good talk<lb/>with you. —We are very glad<lb/>to hear that Mr. J.J.O'Kelly is<lb/>coming to us on Saturday:<lb/>Kindly ask him to come<lb/>to lunch with us if he 
+            <pb n="2" facs="L1916_3984_img_3371_2"/>
+             can.  In another week we expect<lb/>to be in a little house that<lb/>I have taken — No.8 St. John's<lb/>Road, off Woodstock Road, The<lb/>Home Office seems determined to<lb/>keep us here as long as possible,<lb/>refusing us leave to see to our<lb/>business at home, even for a<lb/>few days.  With our Kindest Regards   Yours very Sincerely <lb/>G. Mount Plunkett   I hope you were not waiting<lb/>for a chance call from me,<lb/>during the week.  
+         </ab>
+      </body>
+   </text>
+</TEI>

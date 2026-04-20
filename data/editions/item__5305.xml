@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5305">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Earls 28 February, 28 February 1919</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Earls</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter informs the unknown recipient of the death of Captain Francis C. Ford.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Belfast College of Technology, BCT/8/2/43</collection>
+                  <idno>https://letters1916.ie/item/5305</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0494">John Earls</persName>
+              <date>1919-02-28</date>
+              <placeName key="#letters1916_place-1803">Munciple Technical Institute, Belfast, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1934</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5305_img_None_1"  url="02ac73ca5fbc7e02c7bbc912cc0c9c56.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5305_img_0_1"/>
+              Municipal Technical Institute, Belfast.    28th February, 1919.    Dear Sir,   I have been asked by Alderman Mercier, Chairman<lb/>of the Library and Technical Instruction Committee, to<lb/>convey to you the sad news that Captain Forth passed<lb/>away this evening.  Alderman Mercier has also requested me to say that<lb/>he will be glad if you will attend a Special Meeting of<lb/>the Committee at the City Hall to-morrow (Saturday) at<lb/>11.30 a.m. for the purpose of passing a resolution of<lb/>sympathy with Mrs. Forth and family.   Yours faithfully,   J. Earls    
+         </ab>
+      </body>
+   </text>
+</TEI>

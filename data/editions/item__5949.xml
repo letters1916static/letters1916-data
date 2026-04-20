@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5949">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from A. G. de Corcrane, née Hackett, to the Irish Command Pay Office, 30 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>A. G. de Corcrane</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from A. G. de Corcrane to the Irish Command Pay Office, Dublin, enquiring on behalf of her brother, William Hackett, who has just returned from Australia. The query involves some money that was due to be divided between Hackett family members, which hasn&#39;t been paid. The issue dates back to 1906 and was subject of a court case. De Corcrane refers to an enclosed letter from Mr. Mitchell to the late Sir Frederick Richard Falkiner (1831 – 1908), an Irish lawyer and judge.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5620/13551</collection>
+                  <idno>https://letters1916.ie/item/5949</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1324">A. G. de Corcrane</persName>
+              <date>1916-07-30T00:00:00</date>
+              <placeName key="#letters1916_place-1714">Yew Tree, Shillelagh, County Wicklow, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-1943">Irish Command Pay Office, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5949_img_1969_1"  type="Letter"  url="45dd9883ee936f1eb3920fde86f778b5.jpg"/>
+      <graphic xml:id="L1916_5949_img_1969_2"  type="Envelope"  url="7e4e28392ed2361121943e4c5956f7f9.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5949_img_1969_1"/>
+                Yew Tree Shillelagh  Co Wicklow    30 July 1916   Dear Sir   I am in receipt of a <lb/>letter from Mr Mitchell to the <lb/>late Sir Fred Falkner ( the copy <lb/>of which I am enclosing)   I would be so much obliged <lb/>if you could kindly find out <lb/>for me is the draft still unpaid? <lb/>as the party to who it was <lb/>payable has not received it. <lb/>Mr Hackett has just returned <lb/>from Australia and asked <lb/>me to look it up for him. <lb/>It was in <hi rend="underline">Aug â 1906</hi><seg type="unclear">said</seg><lb/>that the money was divided <lb/>between the Hackett family <lb/>and the case tried in the courts.   I am enclosing a stamp for <lb/>your reply.  <seg type="closer"> Yours truly  A G de Corcrane <lb/>nee Hackett  </seg> 
+            <pb n="2" facs="L1916_5949_img_1969_2"/>
+                Enquiry Pay Office  The Castle  Dublin    
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0908">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from C.W.F. to Mr. Farrant, 29 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>C.W.F.</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This correspondence, comprising three letters, concerns a request from Count Demetrius Salazar, son of the Italian Consul in Ireland for naturalisation in order that he may qualify for an Army Commission. Representations were made by the Count to the Lord Lieutenant, Lord Wimborne (Ivor Guest) (1873-1938), whose Private Secretary (Sir Basil Blackwood) begins the correspondence on 22 May. The writer of the letter to Mr. Ferrant is seeking to have the matter brought to the appropriate official and to expedite the matter as much as possible. Ivor Churchill Guest, 1st Viscount Wimborne was appointed the Lord Lieutenant of Ireland in 1915. Guest worked closely alongside Sir Matthew Nathan (1862-1939) in the administration of Ireland. Following the suppression of the Rising, Guest, under pressure, was forced to resign as Lord Lieutenant. A later inquiry into the Rising exonerated Guest and held Augustine Birrell (1850-1933) chiefly responsible for the events that occurred. Guest would continue to serve as Lord Lieutenant until 1918.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5618/9629/2</collection>
+                  <idno>https://letters1916.ie/item/908</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0297">C.W.F.</persName>
+              <date>1916-05-29</date>
+              <placeName key="#letters1916_place-0528">Chief Secretary&#39;s Office, Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mr. Farrant</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0908_img_2523_1"  type="Letter"  url="9c576e4b6da721016a8d279374d7e332.jpg"/>
+      <graphic xml:id="L1916_0908_img_2523_2"  type="Letter"  url="e912d255b9b3c41bacf110add775015e.jpg"/>
+      <graphic xml:id="L1916_0908_img_2523_3"  type="Letter"  url="263bcaf8e0beb157386fccbd6b9f62c4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0908_img_2523_1"/>
+                29th May, 1916.   Dear Mr. Farrant,   Thanks for your letter as to the Criminal<lb/> Statistics. We shall at once consider the desirability<lb/> of following your good example.  Count Demet ei us Salazar, son of the Italian<lb/> Consul in Ireland, wishes to become naturalised with a view<lb/> to getting a commission in the Army, and Lord Wimborne has<lb/> asked that we should endeavour to have Certificate<lb/> issued as soon as possible. I do not know to whom I should<lb/> write in the Home Office, but I shall be greatly obliged if<lb/> you will communicate this information in the proper quarter.  The application was sent to the Home Office<lb/> on the 23rd instant, but up to the present we have not been<lb/> asked to report. <seg type="closer"> Yours very truly,  E.O.F </seg> 
+            <pb n="2" facs="L1916_0908_img_2523_2"/>
+                23rd May, 1916.   Dear Lord Basil Blackwood,   When Count Salazar's son has<lb/> sent in his papers to the Home Office we shall be asked<lb/> to report on his application for naturalisation and I shall<lb/> see that no delay occurs in sending in the report and shall<lb/> write semi-officially to the Home Office saying that<lb/> His Excellency would like the issue of the Certificate<lb/> expedited as much as possible. <seg type="closer"> Yours sincerely  E.O.F. </seg> 
+            <pb n="3" facs="L1916_0908_img_2523_3"/>
+                VICE REGAL LODGE,  DUBLIN    22nd May, 1916.   Dear Mr Martin Jones,   His Excellency had a<lb/> conversation with Count Salazar the other day in the<lb/> course of which he promised to do what he could to<lb/> assist his son to obtain papers of naturalisation.<lb/> Are there any means of expediting matters. I told<lb/> His Excellency I would write and ascertain from you. <seg type="closer"> Yours,  Basil Blackwood </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

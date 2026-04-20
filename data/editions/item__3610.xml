@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3610">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter and Christmas card from Seán Mac Diarmada to Máirín Cregan, 23 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Seán Mac Diarmada</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Seán Mac Diarmada (1883-1916) was one of the key organisers of the Easter Rising. He signed the Proclamation of the Irish Republic and was executed in May 1916.
+The letter wishes Máirín a happy christmas season and apologises for being unable to meet her. Máirín is probably Mairín Cregan, a prolific Irish children&#39;s writer who married James Ryan in 1919: the letter survives in Ryan&#39;s personal papers.
+The letter is sent from the office of the newspaper &#39;Nationality&#39;, an organ of the Irish Republican Brotherhood. Mac Diarmada was the manager and registered owner of the newspaper.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Dr James Ryan Papers, P 88/54(1)</collection>
+                  <idno>https://letters1916.ie/item/3610</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1090">Seán Mac Diarmada</persName>
+              <date>1915-12-23</date>
+              <placeName key="#letters1916_place-1748">12 D&#39;Olier Street, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mairín [Cregan]</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1916</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3610_img_301_1"  type="Letter"  url="727b96f33c73e0eb5fed85de030f1a6e.jpg"/>
+      <graphic xml:id="L1916_3610_img_301_2"  type="Enclosure"  url="185934234297ee37be70d2dd2718d087.jpg"/>
+      <graphic xml:id="L1916_3610_img_301_3"  type="Enclosure"  url="47e9df91b29e303d020caf135b058f97.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3610_img_301_1"/>
+             "Nationality" <seg type="foreign">Ár dtír féin</seg>   Offices :— <lb/>12 D'OLIER STREET, <lb/>Dublin,   23.12 1915   Dear Mairín,   I'm enclosing a card to remind you of the <lb/>happy season and to say that I wish you all the <lb/>joys that life can give - the very best there is to be <lb/> found — let me say how sorry I am that I could not <lb/>have seen you on Monday evening. I then hoped to <lb/>see you on Monday night and explain but alas, <lb/>I was again disappointed. I console myself with <lb/>the firm belief that you understand I could not go.   Life in Dublin, in that sense, is somewhat <lb/>miserable for the past few days. All the <hi rend="underline">set</hi> are <lb/>gone. I have not seen any of them since Sunday <lb/>night. Oh yes I saw Miss Davin but at a <lb/>distance I was in a train &amp; she was going <lb/>down Abbey St - not even within hailing distance.   I hope you are having a very enjoyable <lb/>holiday   Yours very sincerely   Seán MacDiarmuida 
+            <pb n="2" facs="L1916_3610_img_301_2"/>
+            
+            <pb n="3" facs="L1916_3610_img_301_3"/>
+             <seg type="foreign">NODLAIG AOIBHINN SHEUNMHAR SHUGHACH, <lb/>GO SEOLTAR CHUGHAT A CHARA CHAOMH, <lb/>FÉ BHEANNACHTGO RAIBH DO DHÚN, <lb/>FÉ MHEIDHIR DO BHUIDHEAN BHUIDH, 'S TÚ FÉIN.  </seg> <lb/>Ó  SEÁN MAC DIARMADA,   Dublin   Nodlaig, 1915 
+         </ab>
+      </body>
+   </text>
+</TEI>

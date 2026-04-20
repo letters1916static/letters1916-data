@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0543">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to Ag, c. May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>An incomplete letter from an Irish Volunteer of the Kimmage Garrison, to &#39;Ag&#39; giving a dramatic account of events during the first two days (Monday and Tuesday) of the 1916 Easter Rising. The letter seems to be written soon after the event. The Volunteer describes the failed attack by British lancers of the 6th Cavalry, a shoot out on O&#39;Connell bridge, the looting of Sackville Street and the live and let live attitude between the Volunteers and members of the RIC.The Kimmage Garrison was set up by Joseph Mary Plunkett and George Oliver Plunkett, at Larkfield House, Kimmage. The property was used by the Volunteers as a weapons store, explosives factory, training base, and quarters for enlistees returning from overseas.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Allen Library, Br. Allen Collection, IE/AL/1916/60</collection>
+                  <idno>https://letters1916.ie/item/543</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Ag</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0543_img_1922_1"  type="Letter"  url="ee77795fc3aef1ed1727de5b6477366c.jpg"/>
+      <graphic xml:id="L1916_0543_img_1922_2"  type="Letter"  url="aed8be8cbe962f17ee1248ce1b7cec6f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0543_img_1922_1"/>
+               Dear ag,   I am sending my <lb/> report on the recent fight.<lb/> On Easter Monday about 10 a.m.<lb/> we broke camp and marched <lb/> to Liberty Hall. ( We are the Kimmage <lb/> Garrison remember about 80 men ) <lb/> We joined the Citizen Army under <lb/> Commandant Connolly at Liberty <lb/> Hall and marched to O'Connell <lb/> St where we took possession of <lb/> G.P.O. and surrounding buildings. <lb/> Meanwhile the Irish Volunteers <lb/> ( Dublin Brigade ) took up <lb/> comanding positions. Jacobs Factory, <lb/> Bolands Mills, Four Courts and <lb/> many other places. About 1 p.m. <lb/> an attack was made on GPO <lb/> by a large troop of Lancers  
+            <pb n="2" facs="L1916_0543_img_1922_2"/>
+              but with rifle fire and bombs <lb/> they were easily repulsed <lb/> retreating in panicky disorder <lb/> and suffering many casualties. <lb/> This was my baptism of fire <lb/> Alf was at the other end of <sic>unusually-spelled text</sic>strat <lb/> near O'Connell Bridge, he told me <lb/> after. Looting began about this <lb/> time which we made ineffectual <lb/> efforts to suppress. About four <lb/> p.m. I was sent scouting with <lb/> about 1-10 Volunteers. We met <lb/> about 20 D. M. P but took no <lb/> notice of them. They were armed <lb/> with revolvers but as they did <lb/> not attack we let them go. <lb/> From Monday evening till Tuesday <lb/> night 40 of us held a bridge<lb/> at Fairview against an English <lb/> regiment 600 strong. On Tuesday <lb/> night we retreated quietly and    
+         </ab>
+      </body>
+   </text>
+</TEI>

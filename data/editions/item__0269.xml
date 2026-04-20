@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0269">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Father Edward F. Murnane to Margaret Gavan Duffy, 26 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Father Edward F. Murnane</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Father Edward F. Murnane to Margaret Gavan Duffy (1876-1967). Murnane hopes that either George Gavan Duffy (1882-1951) or Margaret herself will suggest to Sir Roger Casement (1864-1916) that he has himself entered as a Catholic on the Creed Register. Murnane also asks to be allowed to see Casement alone on purely spiritual matters. George Gavan Duffy was acting as solicitor to Casement during his trial for treason. Casement had been arrested in Kerry in April 1916 during a failed landing of German arms for use in the Easter Rising. He was hanged in August 1916. Gavan Duffy was later one of the Irish signatories of the Anglo-Irish Treaty in 1921.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>George Gavan Duffy Papers, P 152/2</collection>
+                  <idno>https://letters1916.ie/item/269</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1061">Father Edward F. Murnane</persName>
+              <date>1916-06-26</date>
+              <placeName key="#letters1916_place-0969">The Presbytery, Dockhead, Bermondsey, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Margaret Gavan Duffy</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0269_img_146_1"  type="Letter"  url="348f20ace346e50a5c5cfdcb36985e6c.jpg"/>
+      <graphic xml:id="L1916_0269_img_146_2"  type="Letter"  url="1a07654e3b412ededbc8d0ce7cbf0991.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0269_img_146_1"/>
+                THE PRESBYTERY,  DOCKHEAD,  BERMONDSEY, S.E.    June 26.1916   Dear. Mrs.Gavan Duffy   I don't wish at such<lb/> a moment to trouble Gavan<lb/> with any fresh anxiety, indeed<lb/> I have a <seg type="unclear">semple</seg> in bothering<lb/> you, but the need is very<lb/> pressing â I promised Sir Roger<lb/> to be at Brixton each Evg this<lb/> week when he returned â and<lb/> I am wondering now, if when<lb/> he comes back, he may not<lb/> be so worn out, it would<lb/> worry him to think he ought<lb/> to see me. If only you or<lb/> Gavan could suggest to him<lb/> to ask to have himself entered<lb/> as a Catholic on the Creed<lb/> Register and also to ask  
+            <pb n="2" facs="L1916_0269_img_146_2"/>
+              that I might be allowed<lb/> to see him alone on<lb/> purely spiritual matters<lb/> all would be well. And<lb/> I am sure as you are that<lb/> nothing can help him to<lb/> bear the strain of this<lb/> terrible time, except the grace<lb/> &amp; peace that will come from<lb/> being reconciled to the<lb/> Church. I am writing to<lb/> Mr. Wall, to ask him to<lb/> support the application<lb/> when it is <hi rend="underline">sent</hi> in. It<lb/> was a <hi rend="underline">great joy</hi> to see you<lb/> &amp; Gavan yesterday â and I<lb/> am praying &amp; all our people<lb/> &amp; children are praying for<lb/> a successful issue.  <seg type="closer"> With a blessing<lb/> Next section written sideways across edge of page to you &amp; Gavan &amp; the children       E.F.Murnane </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1292">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Henry W. Nevinson to Gertrude Bannister, 10 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Henry W. Nevinson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from writer, war correspondent and crusading journalist Henry W. Nevinson (1846-1951) to Gertrude Bannister (later Parry), a cousin of Sir Roger Casement (1864-1916). The letter was written while Casement was imprisoned in London after he had been arrested while landing on the coast of Kerry in a submarine on the eve of the Easter Rising. He writes that he has forwarded appeals for support for Casement to a number of individuals, including poet W.B. Yeats (1865-1939). The appeals were written by playwright George Bernard Shaw (1856-1960) and a Lieutenant Davin. The recipients were encouraged to write to the British Prime Minister Herbert Henry Asquith (1852-1928) in support of Casement. Nevinson also mentions including his own name on one of the petitions.Bannister was heavily involved in raising public support for Casement during his trial for treason. In the 1900s Nevinson had worked closely with Casement in raising awareness of slavery in western Africa, and he worked extensively for the campaign to save Casement. Casement was hanged on 3 August 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casement Papers, Collection List No A15, Ms. 13,075 /1</collection>
+                  <idno>https://letters1916.ie/item/1292</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1361">Henry W. Nevinson</persName>
+              <date>1916-07-10</date>
+              <placeName key="#letters1916_place-1840">4 Downside Cresent, Hampshire, England, UK</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1365">Gertrude Bannister</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1292_img_504_1"  type="Letter"  url="07f420158e262d0e3f7fdfb18dd2e973.jpg"/>
+      <graphic xml:id="L1916_1292_img_504_2"  type="Letter"  url="ab2933b5789de178d73ecf655d2168e3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1292_img_504_1"/>
+                From Henry W. Nevinson,  4, Downside Crescent,  Hampstead, N.W.    July 10/16   Dear Mrs Bannister,   I have today sent out <lb/>as follows : <list rend="bulleted"><item>John Mansfield - Shaw's appeal</item><item>W.B. Yeats - ' '</item><item>Prof. Edw Browne - ' '</item><item>Lady Barlow - Lt. Davies's '</item><item>Diarmid McCarthy - Shaw's '</item><item>Galsworthy - Lt. Davies's '</item><item>Edw. <seg type="del">Carpente</seg> Carpenter - Lt Davies's '</item><item>Wilfrid S. Blunt - ' '</item><item>Zangwill - Shaw's '</item><item>C.P. Scott - Lt Davies's '<lb/>(Manchester Guardian)</item><item>11) Canon Scott Holland - ' '</item></list><lb/>In each case I have urged <lb/> them to write personally to <lb/> Asquith.  
+            <pb n="2" facs="L1916_1292_img_504_2"/>
+              If you want my name, it <lb/> had better go in the Native <lb/><seg type="unclear">Race</seg> petition, and in <lb/><sic>brackits</sic> you might add <lb/> ['Investigator of the Angola <lb/> &amp; San ThomÃ© slavery']   Please let me hear as <lb/> soon as possible how you get <lb/> on &amp; what more there is to <lb/> try.  I don't think overlapping <lb/> matters now. Everything depends <lb/> on immediate actions. <seg type="closer"> Yours most truly  HWN </seg> I called on the Bishop of Oxford <lb/> yesterday. He was out, but I wrote <lb/> a letter there - M Cuddesdon.  
+         </ab>
+      </body>
+   </text>
+</TEI>

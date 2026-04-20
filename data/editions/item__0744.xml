@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0744">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward McHugh to Sir Robert Chalmers, 3 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward McHugh</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter to Robert Chalmers from Edward McHugh concerns the welfare of Elizabeth Traynor who resided at 20 Synnott Place Dublin. The letter refers to the helplessness of Elizabeth Traynor and her eight children in the aftermath of her husband&#39;s arrest and deportation without trial. The letter requests that the income tax authorities be asked to stop threatening to take her furniture. Sir Robert Chalmers (1858-1938), Under-Secretary for Ireland. After the Easter Rising of 1916 Chalmers was sent to Ireland as under-secretary, replacing Sir Matthew Nathan (1862-1939), who had resigned along with Augustine Birrell (1850-1933), his chief secretary. Edward McHugh was a Dublin solicitor and Elizabeth Traynor&#39;s husband, Thomas Traynor (1881-1921), was subsequently executed on 25 April 1921 during the Irish War of Independence.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered papers, CSO-RP-1916-5615-11322</collection>
+                  <idno>https://letters1916.ie/item/744</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1560">Edward McHugh</persName>
+              <date>1916-07-03</date>
+              <placeName key="#letters1916_place-0271">Rutland Square, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0744_img_2257_1"  type="Letter"  url="9c4b6dcf884e8ae097bf44d8050495f4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0744_img_2257_1"/>
+                Edward McHugh,  Solicitor  Offices-43 Rutland Square,   Dublin, 3 July 1916   Dear Sir,   Re Eliabeth Traynor <hi rend="underline">20 Synnott Place</hi>  The husband of Mrs. Traynor  (8 children)  was<lb/> arrested and deported without trial. <lb/> She and the children are helpless except for<lb/> charity from the fund publicly subscribed.<lb/> The income tax authorities threaten to<lb/> take her furniture for 24/- 'income' tax.<lb/> Will you kindly have this stopped.  Please reply. <seg type="closer"> Yours faithfully,  E. McHugh   The Under Secretary  Dublin Castle  </seg> Reply that he should communicate<lb/> with the Board of Inland Revenue<lb/> Somerset House, London<lb/>  
+         </ab>
+      </body>
+   </text>
+</TEI>

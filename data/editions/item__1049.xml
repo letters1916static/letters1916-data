@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1049">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from James Davidson to Clara Davidson, 25 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Davidson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Field Service Postcard from James Davidson (1877-1916) to his mother, Clara Mary (b.1852). The postcard, a standard template used by British forces, states that James is doing well. This postcard is part of a large correspondence from Captain James Davidson to his parents. Davidson, who was Managing Director of the Sirocco Engineering Works in Belfast, served with 13 Royal Irish Rifles and the Machine Gun Corps. His letters describe his experiences while training in England and serving in France. He was killed on 1 July 1916, the first day of the Battle of the Somme.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>PRONI-D3642-B-8-58, PRONI-D3642-B-8-58</collection>
+                  <idno>https://letters1916.ie/item/1049</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1196">James Davidson</persName>
+              <date>1916-06-25</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Clara Mary Davidson</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1115">Seacourt, Bangor, Co. Down, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1049_img_3139_1"  type="Letter"  url="82bf951734715feecd1c1dccfc3bc9d9.jpg"/>
+      <graphic xml:id="L1916_1049_img_3139_2"  type="Envelope"  url="6a990cc58ca7f9c40952d65c4da33180.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1049_img_3139_1"/>
+               NOTHING is to be written on this side except the <lb/>date and signature of the sender. Sentences not <lb/>required may be erased. <hi rend="underline"> If anything else is added <lb/>the post card will be destroyed. </hi><lb/>I am quite well. <lb/><seg type="del">I have been admitted into the hospital</seg><lb/><seg type="del">sick and am going on well</seg><lb/><seg type="del"> wounded and hope to be discharged soon. </seg><lb/><seg type="del"> I am being sent down to the base. </seg><lb/><seg type="del">letter dated ______________</seg><lb/><seg type="del">I have received your telegram ' _______</seg><lb/><seg type="del">parcel ' _________</seg><lb/><seg type="del">Letter follows at first opportunity.</seg><lb/><seg type="del">I have received no letter from you</seg><lb/><seg type="del">lately.</seg><lb/><seg type="del">for a long time.</seg> <seg type="closer"> Signature <lb/>Only  James  Date  25/6/16  </seg> [Postage must be prepaid on any letter or post card <lb/>addressed to the sender of this card.]   
+            <pb n="2" facs="L1916_1049_img_3139_2"/>
+                 Mrs. S C Davidson  Seacourt  Bamgor  Co. Down  Ireland     J Davidson    
+         </ab>
+      </body>
+   </text>
+</TEI>

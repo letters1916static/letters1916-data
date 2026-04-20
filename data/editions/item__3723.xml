@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3723">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from K.M.E. to Hanna Sheehy Skeffington, 2 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>K.M.E.</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>In this letter from K.M.E. to Hanna Sheehy Skeffington (1877-1946), K.M.E. writes that they are sorry to hear that Hanna has some down with some kind of illness and that they hope for her recovery. They apologize for not being able to write about a recent dance for the Irish Citizen, the newspaper Hanna edits. K.M.E. then writes that they are not looking forward to the meeting that night if Hanna will not be there, as when she is absent the meetings do not go as well.
+
+Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the founder of the Irish Women’s Franchise League and a founding member of the Irish Women Workers’ Union. She was the widow of Francis Sheehy-Skeffington who was summarily executed on 26 April 1916. She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy-Skeffington Papers, Collection List No.47; MS 33,604/13-12</collection>
+                  <idno>https://letters1916.ie/item/3723</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0774">K.M.E.</persName>
+              <date>1915</date>
+              <placeName key="#letters1916_place-0013">60 Dawson Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Politics</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3723_img_3112_1"  type="Letter"  url="684de882b2d5e29a8099f03615fbe2a2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3723_img_3112_1"/>
+             60 Dawson Street   2nd Nov.1915   Dear Mrs Skeffington,   I got your note this morning and am very sorry indeed to <lb/>hear you are laid up: I hope it is nothing serious and that you <lb/>will very soon be all right again.   I wonder if anyone has written up the dance for you, in any <lb/>case I enclose a short note but found myself quite unable to write <lb/>of it at any length. I shall try and let you have something for <lb/>the Citizen as soon as possible, but unfortunately since our slack <lb/>season set in my manager has simply lived in the office, and I <lb/>have not had an opportunity of doing anything for weeks past.   Trusting you will soon be quite well. I dont at <lb/>all look forward to the meeting tonight, when you are absent the <lb/>whole thing seems to lack cohesion, and the discussion either <lb/>fizzles weakly out or goes entirely off the rails.   With best wishes Very sincerely yours   K.M.E 
+         </ab>
+      </body>
+   </text>
+</TEI>

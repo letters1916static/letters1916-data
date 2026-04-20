@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3600">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from E.M. Hanon to Eileen Corrigan, 10 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>E.M. Hanon</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter informing Eileen Corrigan that the results of her exams were out and she had passed her exams.
+
+Eileen Corrigan (d. 1993) had arrived in Dublin on 24 April 1916, the first day of the Easter Rising, from Belfast to sit her exams in the Trinity College. Eileen was one of just four female students who sat their exams as rebellion and counter attack swirled about outside Trinity’s walls. They were rewarded with lunch in Provost Mahafy’s house hosted by his wife, Frances Letitia.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Trinity College Dublin</repository>
+                  <collection>TCD MS 39781/2</collection>
+                  <idno>https://letters1916.ie/item/3600</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1525">E.M. Hanon</persName>
+              <date>1916-05-10</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0901">Eileen Corrigan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3600_img_300_1"  type="Letter"  url="f33812357cef73e83de828038fb899d8.jpg"/>
+      <graphic xml:id="L1916_3600_img_300_2"  type="Letter"  url="c5ffaa47ed0eef1347b93add1af58a0b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3600_img_300_1"/>
+             5 T.C.D.   10/5/16   Results of J S exams <lb/> just out. You have <lb/> passed all right, &amp; <lb/>so have the other three. <lb/> Marks not yet available. <lb/> we shall send them <lb/> later.   E.M. Hanon 
+            <pb n="2" facs="L1916_3600_img_300_2"/>
+             Miss Corrigan <lb/>The Manse <lb/>Green Road <lb/>Knock <lb/>Belfast 
+         </ab>
+      </body>
+   </text>
+</TEI>

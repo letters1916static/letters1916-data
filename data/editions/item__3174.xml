@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3174">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Michael Tobin to his mother Mrs Bessie Tobin, 30 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Michael Tobin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Michael Tobin was at work in the GPO when the rebels arrived on Monday 24th April 1916. He writes on the following Sunday to his mother in Enniskerry, saying that he is back at work but is not allowed to tell her where he is. He will tell her later how he escaped from the post office. All the staff were searched and his bicycle was taken. He lives in Drumcondra and can hear the booming of the guns. He describes the destruction of O&#39;Connell Street and says there is not a house standing from Nelson&#39;s Pillar to O&#39;Connell Bridge.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Family Collection</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/3174</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0951">Michael Tobin</persName>
+              <date>1916-04-30</date>
+              <placeName key="#letters1916_place-1216">Dublln, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mrs Bessie Tobin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2118">Enniskerry, Co. Wicklow, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1928</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3174_img_2597_1"  type="Letter"  url="4fae8063941675fbc9cc171f81a26919.jpg"/>
+      <graphic xml:id="L1916_3174_img_2597_2"  type="Letter"  url="09168d8264d9ca1d0027ff9647ef8511.jpg"/>
+      <graphic xml:id="L1916_3174_img_2597_3"  type="Photograph"  url="237215e64a4431a0be6eea94b5cd0e71.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3174_img_2597_1"/>
+             Sunday   Dear Mother   I hope you <sic>recd</sic> my <sic>pcard</sic> <lb/> <sic>allright</sic> I sent it the first possible <lb/> opportunity I had when I got into the <lb/> City which was on Tuesday last. We are <lb/> still cut off from the south side only <lb/> allowed on duty &amp; home again. Thank God <lb/> ours was the most peaceful side of <lb/> the City only a few stray bullets came <lb/> down the Avenue &amp; only the noise of <lb/> rifle fire &amp; the booming of the guns <lb/> disturbed us. I will tell you later how <lb/> we escaped from the office (which is <lb/> now burned down). My bicycle is also 
+            <pb n="2" facs="L1916_3174_img_2597_2"/>
+             <!-- the following line is already transcribed on the previous page --> now burned down). My bicycle is also<lb/> burned I expect. I was not allowed to<lb/> take it with me. We were all searched<lb/> &amp; Pencils &amp; papers taken from us. I am<lb/> back at work since Tuesday. I was in<lb/> an office in the City first two days &amp; am<lb/> in another since Thursday at the north<lb/> side of the City which at present I am not<lb/> permitted to tell where it is. I suppose<lb/> you could hear the guns all the time.<lb/> It was awful. There is not a house<lb/> standing from Nelson Pillar to O\'Connell<lb/> Bridge. About 180 houses burned down. I did<lb/> not get any money since Holy Thursday. I<lb/> will send some when I get paid during<lb/> the week and when the new office opens I<lb/> will let you know. Hoping all at home<lb/> are quite well under the circumstances.<lb/>   Love to all, <sic>Yr</sic> loving son<lb/> Mike 
+            <pb n="3" facs="L1916_3174_img_2597_3"/>
+            <!-- picture of Michael Tobin, the writer of this letter? -->
+         </ab>
+      </body>
+   </text>
+</TEI>

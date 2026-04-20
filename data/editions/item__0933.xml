@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0933">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from S.M.P to F. Ormsby Cooke, 23 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>S.M.P.</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from S.M.P. to Ormsby Cooke regarding the arrest of Daniel McCarthy and his transfer to Knutsford.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-10497-1, NAI-CSO-RP-1916-10497-1</collection>
+                  <idno>https://letters1916.ie/item/933</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0764">S.M.P.</persName>
+              <date>1916-06-23T00:00:00</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">F. Ormsby Cooke</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0590">Hill Publishing Company, 6-8 Bouverie Street, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0933_img_2712_1"  type="Letter"  url="d7cc250da2e1c1a29acb2827a98053fb.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0933_img_2712_1"/>
+                23rd June, 1916   Dear Sir,   With reference to your letters of the 14th and <lb/>22nd instant, I beg to inform you that from enquiries which <lb/>I have made, I find that Daniel McCarthy was arrested under <lb/>martial law at Dunmanway on the 13th <sic>ultimo</sic>. He was sent <lb/>on to Cork, thence to Dublin and after a few days to <lb/>Knutsford, England, where he has been up to the present.  His family have been in communication with him <lb/>all the time and were never at a loss to know his address. <seg type="closer"> Yours truly,  <hi rend="underline"> (S<hi rend="superscript">d</hi>) S.M.P</hi>   F. Ormsby Cooke, Esq.,  Hill Publishing Company, Ltd.,  6 â 8 Bouverie Street, K. C.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0271">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Edward O'Farrell to the Director of Prisoners of War Information Bureau, 15 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward O&#39;Farrell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Sir Edward O&#39;Farrell (1857-1926), on behalf of the Lord Lieutenant Wimborne (1873-1939), to the Director of Prisoners of War Information Bureau. O&#39;Farrell writes that he is forwarding a copy of a police report which has been compiled on the matter of Alfred Tonnishoff, an internee of Knockaloe Prisoner of War camp. Tonnishoff requests his leaving certificate which was seized when he was arrested on 16 August 1914, 12 days after Great Britain declared war on Germany.Edward O&#39;Farrell served as the assistant undersecretary of Ireland after the Easter Rising. Ivor Churchill Guest, 1st Viscount Wimborne was appointed the Lord Lieutenant of Ireland in 1915. Guest worked closely alongside Sir Matthew Nathan (1862-1939) in the administration of Ireland. Following the suppression of the Rising, Guest, under pressure, was forced to resign as Lord Lieutenant. A later inquiry into the Rising exonerated Guest and held Augustine Birrell (1850-1933) chiefly responsible for the events that occurred. Guest would continue to serve as Lord Lieutenant until 1918.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI, CSORP/1916/8118/2</collection>
+                  <idno>https://letters1916.ie/item/271</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date>1916-05-15</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Director of Prisoners of War Information Bureau</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0468">Wellington Street, London, England.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0271_img_1467_1"  type="Letter"  url="68ecd93aa54699009c10abc4e4506a4d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0271_img_1467_1"/>
+                15th May, 1916.   No. 8118.  Sir,   With reference to your letter of the 26th ultimo, <lb/>No. P.W. 6917, enclosing copy of a letter from Prisoners' <lb/>Aid Society at the Prisoners' of War Camp. Knockaloe, re- <lb/>garding the cse of Alfred Tonnishoff, I am directed by <lb/>the Lord Lieutenant to transmit the accompanying copy of <lb/>a report which has been received from the police in the <lb/>matter. <seg type="closer"> I am, <lb/> Sir, <lb/>Your Obedient Servant,  Edward O'Farrell   The Director,  Prisoners of War Information bureau,  Wellington Street, London.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

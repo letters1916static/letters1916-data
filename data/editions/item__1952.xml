@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1952">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Lawler to Robert Chalmers, 26 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Lawler</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from James Lawler, the clerk for the Navan Urban District Council to Sir Robert Chalmers (1858–1938). After the Easter rising of 1916 Chalmers was sent to Ireland as under-secretary, replacing Sir Matthew Nathan (1862-1939) who had resigned along with Augustine Birrell (1850-1933), his chief secretary. In the letter Lawler writes on behalf of the Council to request permission to end the appointment of the Office of Shop Inspector, which he says costs the Council an unnecessary £10 a year.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/8988/1</collection>
+                  <idno>https://letters1916.ie/item/1952</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0139">James Lawler</persName>
+              <date>1916-05-26</date>
+              <placeName key="#letters1916_place-0382">Navan, County Meath, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1952_img_1401_1"  type="Letter"  url="16bd9ed9f0e98e2fa9b329c500c70f08.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1952_img_1401_1"/>
+             Navan Urban District Council <lb/>Navan ,  26 May 1916   Sir   I am directed by my Council <lb/>to ask if they may dispense with <lb/>the office of Shop Inspectors.   The appointment was made in <lb/>the ordinary Course of a few years <lb/>ago and still continues but <lb/>it is considered unnecessary and <lb/>the Council would like to save <lb/>the £10 per year paid in connection <lb/>therewith.   The Local Government Board <lb/>having been written on the Subject <lb/>referred the Council to His Excellency <lb/>The Lord Lieutenant.   I am Sir <lb/>Your Ob Servant   James Lawler  <lb/>Clerk  The Under Secretary <lb/>The Castle <lb/>Dublin    Reply the council <lb/>to see 13(1) of <lb/>the act which <lb/>requires that <lb/>an inspector <lb/>shall be <lb/>appointed to <lb/>enforce the <lb/>permissions of <lb/>the act <lb/><hi rend="underline">EOF</hi> <lb/>27-5-16   Done LH 30/5 <lb/>A 30/5 
+         </ab>
+      </body>
+   </text>
+</TEI>

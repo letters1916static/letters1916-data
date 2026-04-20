@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1363">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert John Lynn to Sir John Maxwell, 2 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert John Lynn</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter is from journalist and unionist Robert John Lynn (1873-1945) to Sir John Maxwell (1859-1929). Lynn writes to Maxwell about a rumour that the arms of the Ulster Volunteer Force (UVF), established to defend Ulster from the imposition of Home Rule, would be seized. In April 1914 the UVF had landed about twenty-five thousand rifles and between three and five million rounds of ammunition at Larne and Lynn argues that to seize these arms would be &#39;frought with grave danger to the public peace&#39;. He notes that unionists had behaved &#39;splendidly&#39; during the period of the Rising and as the &#39;flower&#39; of the UVF had signed up to fight in World War I any seizure of arms would be &#39;looked upon as an act of treachery&#39;. In July 1916 the 36th Ulster Division, made up of UVF recruits, suffered massive casualties and gained a reputation for bravery during the opening days of the Battle of the Somme.A staunch unionist and later MP for Belfast West and Antrim North, Lynn served as editor and assistant editor of the &#39;Northern Whig&#39; newspaper. Sir John Henry Grenfell Maxwell was appointed commander in chief of the British forces in Ireland after the outbreak of the Easter Rising. Before 1916, Maxwell briefly held command of British troops in Egypt, where he successfully organised defences against a Turkish attack in February 1915 and presided over the huge expansion of his command as Egypt became a major British imperial military base. In March 1916, having been superseded as general officer commanding in Egypt, he was recalled home when the Easter Rising broke out.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>De Valera papers, P150/512</collection>
+                  <idno>https://letters1916.ie/item/1363</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0484">Robert John Lynn</persName>
+              <date>1916-05-02</date>
+              <placeName key="#letters1916_place-0681">The Northern Whig Office, Belfast, County Antrim</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0174">John Grenfell Maxwell</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1363_img_715_1"  type="Letter"  url="0ec0f81de301fa3c1470407b9f2e96c7.jpg"/>
+      <graphic xml:id="L1916_1363_img_715_2"  type="Letter"  url="aaaa132c52f15077ae0de18dd0abac04.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1363_img_715_1"/>
+                The Northern Whig Office,   Belfast,     May 2  1916  <hi rend="underline">Very confidential</hi> Dear Sir John Maxwell   As I had the pleasure of <lb/> meeting you with our mutual <lb/> friend <seg type="unclear">Mr P. Ken Smiley</seg> I am <lb/> taking the liberty of writing you <lb/> on a matter grave importance <lb/>. A rumour has reached me <lb/> that the Guards intends to seize <lb/> the arms of the Ulster Volunteer <lb/> Force. In my humble viewpoint <lb/> such an act at this time would <lb/> be fraught with grave danger <lb/> to the public peace. Our people <lb/> have behaved splendidly during  
+            <pb n="2" facs="L1916_1363_img_715_2"/>
+              <lb/>the past critical week and it <lb/> would be a grave pity if <lb/> anything was done now that <lb/> would influence public opinion <lb/>. The flower of the U V F has <lb/> been in the army since the <lb/> outbreak of the war and the <lb/> seizure of the arms in their <lb/> absence would be looked upon <lb/> as an act of treachery. It is <lb/> because I want to avoid <lb/> any further trouble that I am <lb/> sending you this note. If you <lb/> wish I will go to Dublin and <lb/> explain the situation. <seg type="closer"> Yours sincerely  RJ Lynn <lb/><seg type="unclear">Editor</seg> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

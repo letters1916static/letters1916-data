@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4049">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from A M Howell to The Secretary, H M Irish Office, 26 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>A M Howell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Handwritten note on a printed memorandum card from A M Howell (Mrs Conrad Howell) of Crowborough, Sussex requesting information / permission for Mrs Howell&#39;s cook, Annie Moriarty to visit her home in Co. Cork.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers 1916, NAI-CSO-RP-1916-5623-15016b</collection>
+                  <idno>https://letters1916.ie/item/4049</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0469">A M Howell</persName>
+              <date>1916-08-26</date>
+              <placeName key="#letters1916_place-0846">The White House, Crowborough, Sussex, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">The Secretary, H M Irish Office</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4049_img_3430_1"  type="Letter"  url="e38092c4511dd50b19ecbf5a0a2bcad0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4049_img_3430_1"/>
+             FROM MRS CONRAD HOWELL <lb/>THE WHITE HOUSE, <lb/>CROWBOROUGH.   26. Aug 1916.   TO The Secretary. <lb/>H. M. Irish Office.   My cook desires permission to visit her <lb/>house in Ireland for some weeks — <lb/>returning here. I shall be much <lb/>obliged if <hi rend="underline">all</hi>necessary instructions may <lb/>be sent to me, in the event of any <lb/>restrictions &amp; formalities being in force. <lb/>Her name &amp;  home  address Annia Moriarty <lb/>Convent View <lb/>Coleraine Co Cork.   Yours faithfully   A. M. Howell 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5922">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Joseph E. Devlin, Assistant Secretary of the Local Government Board, to Matthew Nathan, 25 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Joseph E. Devlin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from the assistant secretary of the Local Government Board to Matthew Nathan, under-secretary for Ireland, sending the returns of local taxation in Ireland from 1914-1915. Part of the Chief Secretary Office Registered Papers.Sir Matthew Nathan (1862-1939) was the under-secretary to the Chief Crown Secretary of Ireland Augustine Birrell (1850-1933). Nathan was under-secretary until the 1916 Rising after which he offered his resignation.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI CSO RP/1916/3578/1, NAI CSO RP/1916/3578/1</collection>
+                  <idno>https://letters1916.ie/item/5922</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0998">Joseph E. Devlin</persName>
+              <date>1916-02-25</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Matthew Nathan, Under-Secretary for Ireland</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5922_img_285_1"  type="Letter"  url="b0ccf8aa2d4ff575c1156a03176ebda9.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5922_img_285_1"/>
+                Local Government Board, Dublin.    25th February, 1916.   Sir,   I am directed by the Local Government <lb/>Board for Ireland to forward, to be submitted <lb/>to His Excellency the Lord Lieutenant, the <lb/>accompanying Returns of Local Taxation in <lb/>Ireland for the year 1914-15, and to state <lb/>that the Board will be glad to have the <lb/>expression of His Excellency's approval <lb/>at your earliest convenience.  <seg type="closer"> I am, <lb/>Sir, <lb/>Your obedient servant,   J.E. Devlin <lb/>Assistant Secretary.    The Under Secretary,  Dublin Castle.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5898">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Private M. Foland to Lady Clonbrock, 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M. Foland</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letters is from Private Foland of the Connaught Rangers, a prisoner of war in Bulgaria, to Lady Clonbrock, Augusta Caroline Dillon (née Crofton), (1839-1928), wife of Luke Gerald Dillon, 4th Baron Clonbrock, (1834-1917).
+Lady Clonbrock was one of a number of ladies who were members of the Irish Women&#39;s Association. Formed in London in the Spring of 1915, the IWA&#39;s purpose was to provide food and comforts for prisoners of War belonging to Irish Regiments. 
+The writer is responding to a postcard he has received from Lady Clonbrock. He says that he hasn&#39;t received any clothing and, although he doesn&#39;t belong to her organisation, he felt that as he belonged to an Irish Regiment &#39;it was no harm&#39; to ask.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No. 54; Ms, 35,796/11/4</collection>
+                  <idno>https://letters1916.ie/item/5898</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0992">M. Foland</persName>
+              <date>1916</date>
+              <placeName key="#letters1916_place-1556">British Prisoners of War, Philipopolis, Bulgaria.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0049">Lady Clonbrock</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5898_img_993_1"  type="Letter"  url="1c01b80af071e2be26538fa02f1fe590.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5898_img_993_1"/>
+             No. 3875 Pte W. Foland <lb/>6th Connaught Rangers <lb/><sic>Brittish</sic>Prisoner War <lb/>Philipopolis <lb/>Bulgaria   Dear Madam   In answer <lb/>to your post card of 24/8/16 <lb/>I beg to <sic>appologise</sic> for <lb/>troubling you as I do <lb/>not belong to your <lb/>association. But as I <lb/>have not received any clothing I thought <lb/>it would be no harm <lb/> to write to you. <lb/>I thought as I belong to <lb/>an Irish Regiment it <lb/>was no harm.  <lb/>I conclude  Yours Sincerely   W. Foland 
+         </ab>
+      </body>
+   </text>
+</TEI>

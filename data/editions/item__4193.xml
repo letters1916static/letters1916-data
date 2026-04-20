@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4193">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Shaw to Martha Shaw, c. 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Shaw</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from William Shaw to his mother, Martha Shaw, updating her on his latest news. William writes about his brother injured Samuel, who is serving with the Royal Inniskilling Fusiliers in France. William also writes about the latest draft to arrive in Portsmouth and a Belfast native who had recently visited Portstewart. In a postscript William writes about his stolen purse and says that he will be on the rocks for a fortnight as a result.
+
+William Shaw (1893-1934) was a gunner in the Royal Naval Reserve. He volunteered for active service in 1915 and served on ships such as the H.M.S. Excellent and H.M.S. Albemarle, a battle cruiser. Before the War he was a fisherman.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Shaw Papers, D1962-14</collection>
+                  <idno>https://letters1916.ie/item/4193</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1233">William Shaw</persName>
+              <date>1916</date>
+              <placeName key="#letters1916_place-0161">H.M.S. Excellent, Portsmouth, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Martha Shaw</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1934</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4193_img_3565_1"  type="Letter"  url="5ec91564d5c5a8858586f0e4f8a68f56.jpg"/>
+      <graphic xml:id="L1916_4193_img_3565_2"  type="Letter"  url="8af2b92e9c9e571dbb6b05520d696877.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4193_img_3565_1"/>
+             H.M.S. Excellent <lb/>Portsmouth   Dear Mother   Just a line to let you know that <lb/>I <sic>recived</sic> your letter alright I had no word <lb/>from Sam since last week I see Dan Spence <lb/>is home. He can work the game alright I <lb/>am sorry to hear about Sammie not being <lb/>too well looking I expect he has been wounded <lb/>worse than he let on. You might send me <lb/>Jean's address I did <seg type="del">o</seg> not get a <sic>scrape</sic> from <lb/>her this long time. There is not much doing <lb/>here only a big draft came in last night from <lb/><sic>Chatam</sic> and there was a Belfast fellow among <lb/>them that <sic>stoped</sic> in Portstewart this summer <lb/>he has joined up and he says he does not <lb/>like it he <seg type="unclear">spoted</seg> in John Frizzell house his <lb/>name is Martin I expect you will know them <lb/>I hope the fishing will keep up till the weather <lb/>improves we have a South East breeze blowing <lb/>hard today. I am getting along alright I got <lb/>a V.G for big gun drill. Tell Jessie I was ask— <lb/>ing for her.  your loving son    Willie 
+            <pb n="2" facs="L1916_4193_img_3565_2"/>
+             P/S  I was going up this morning <lb/>to post this letter and when I <lb/>went into the office I discovered <lb/>that I had no purse as I changed <lb/>my <sic>close</sic> I thought it may be in my <lb/>other trousers but when I looked <lb/>for it I found it was gone there <lb/>was 18s in it so I am on the rocks <lb/>for a fortnight  <lb/>Willie 
+         </ab>
+      </body>
+   </text>
+</TEI>

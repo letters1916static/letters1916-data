@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5326">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letters from J. H. Reynolds to John Earls, 20 March 1919</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J. H. Reynolds</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Discusses memorial pieces written about Captain Francis Forth in the Manchester City News.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Belfast College of Technology, BCT/8/2/43</collection>
+                  <idno>https://letters1916.ie/item/5326</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0847">J. H. Reynolds</persName>
+              <date>1919-03-20</date>
+              <placeName key="#letters1916_place-2080">Glyn Malden, 38, Woodfield Road, Cheadle Hulme, Cheshire, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0494">John Earls</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1851">Municipal Technical Institute, Belfast, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5326_img_None_1"  url="07af7aaafab772ea8f2aa8a9b334f951.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5326_img_0_1"/>
+              38 Woodfield Rd<lb/>Cheadle Hulme    20.III.19    Prof. J Earle BA<lb/>Belfast    Dear Sir <lb/>You will have received<lb/>a copy of the Mch. City News in which<lb/>appears a notice of M. Forth. I have<lb/>also written there several notices<lb/>for Eduction &amp; Nature which<lb/>appears this week. I have written<lb/>also one fo the Times Educt.<lb/>supplement They are all more or<lb/>less different in their wording,   I am<lb/>faithfully<lb/>yours<lb/>J H Reynolds     
+         </ab>
+      </body>
+   </text>
+</TEI>

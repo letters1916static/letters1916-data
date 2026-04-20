@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5330">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Miss L. A. Geale to John Earls 2 March, 1919</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>L. A. Geale</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Expresses regret that they will be unable to attend the meeting called to discuss the motion to express sympathy with Captain Forth&#39;s family.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Belfast College of Technology, BCT/8/2/43</collection>
+                  <idno>https://letters1916.ie/item/5330</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0490">L. A. Geale</persName>
+              <date>1919-03-02</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0494">John Earls</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1851">Municipal Technical Institute, Belfast, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5330_img_None_1"  url="56cdcb24e50dfbec4296e282f712e961.jpg"/>
+      <graphic xml:id="L1916_5330_img_None_2"  url="2bf20d57e4bfa099327d8e0b2533d137.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5330_img_0_1"/>
+             <seg type="unclear"></seg><lb/><lb/> March 2nd 1919, <lb/>From Miss Geale,   Dear Professor Earls,   I am very sorry<lb/>that the severe cold I have<lb/>had will prevent me from<lb/>being present at the<lb/>meeting summoned for<lb/>6.30 on Monday evening.  Had it not 
+            <pb n="2" facs="L1916_5330_img_0_2"/>
+             been for the Doctor's<lb/>restrictions, I should have<lb/>been present to grin<lb/>with the institute staff<lb/>in their resolution of<lb/>sympathy with Miss<lb/>Forth and her family.   I am<lb/>yours<lb/>faithfully.    L. A. Geale  
+         </ab>
+      </body>
+   </text>
+</TEI>

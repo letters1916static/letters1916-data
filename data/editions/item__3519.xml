@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3519">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Fellow and Registrar, Royal College of Physicians of Ireland, to the Registrar, Pharmaceutical Society of Ireland, 5 February 1916 </title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Fellow and Registrar, Royal College of Physicians of Ireland</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Typescript letter to the Registrar of The Pharmaceutical Society of Ireland about the sale of Carbolic Acid in Ireland, expressing the view of RCPI that the drug should be brought under the same regulations held in England.  (See letter RCPI/2/3/2/13/143 and RCPI/2/3/1/58/T56)</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-13-144</collection>
+                  <idno>https://letters1916.ie/item/3519</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0845">Fellow and Registrar, Royal College of Physicians of Ireland</persName>
+              <date>1916-02-05</date>
+              <placeName key="#letters1916_place-0943">Royal College of Physicians of Ireland, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Registrar, Pharmaceutical Society of Ireland</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1355">Pharmaceutical Society of Ireland, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3519_img_2924_1"  type="Letter"  url="632d3c568fe1d98c30d2fc2a11f4eb8b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3519_img_2924_1"/>
+              RCP1/2/3/2/13/144    5th FEB. 16.    The Registrar,<lb/>The Pharmaceutical Society of Ireland,<lb/>Dublin.    Dear Sir,   I am obliged for your letter of the 3rd inst., <hi rend="underline">re</hi><lb/>the sale of Carbolic Acid preparations for Agricultural<lb/>and Horticultural purposes. The President and Fellows of<lb/>the College carefully considered the matter yesterday<lb/>and came to the conclusion that is was advisable that<lb/>the sale of this drug for these purposes should be brought<lb/>under regulations similar to those which obtain in England.   I remain, dear Sir,<lb/>Yours faithfully,<lb/>Fellow &amp; Registrar.  
+         </ab>
+      </body>
+   </text>
+</TEI>

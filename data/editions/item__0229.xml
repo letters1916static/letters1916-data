@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0229">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Kate English in Finglas to Patrick English, c. June/July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Kate English</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Kate English to her son Patrick. In the letter Kate discusses the fact that Patrick has yet to arrive home, stating that the men he was in prison with, including Michael Cosgrave, have returned home and that she expects Patrick home by next Saturday. The letter states that Patrick&#39;s sisters Katie and Nellie send their love. She also writes that Annie Fenlon received a letter from Joe Mahony who is safe.This letter was written by Kate (b. 1855) to Patrick English (1894-1970) while he was interned. Patrick had been stationed in the G.P.O for the Rising. Following the surrender he was sent to Stafford Prison before being moved to Frongoch internment camp in Wales.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Patrick English</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/229</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0077">Kate English</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2021">Finglas, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0178">Patrick English</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1722">Frongoch, Wales</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0229_img_1391_1"  type="Letter"  url="15880adf2cf758f43c7f7009dd86f14e.jpg"/>
+      <graphic xml:id="L1916_0229_img_1391_2"  type="Letter"  url="abd0fca463a328ed848514f15a66db01.jpg"/>
+      <graphic xml:id="L1916_0229_img_1391_3"  type="Letter"  url="965ab9b164606396e2a40e05a9842ca0.jpg"/>
+      <graphic xml:id="L1916_0229_img_1391_4"  type="Letter"  url="52b4c1987d02a540a906b9a8bbe0e7a2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0229_img_1391_1"/>
+                Baru lodge  Cappagh  Finglas  Co.Dublin.   My dear Patrick   I have just <lb/> received your letter but I <lb/> thought yourself would be here <lb/> first I cant understand <lb/> why you are not home with <lb/> the rest they all look <lb/> in the pink we had black  
+            <pb n="2" facs="L1916_0229_img_1391_2"/>
+              Cosgrave up to see me he <lb/> told me all particulars <lb/> also Paddy Mooney &amp; Duffey <lb/> they all look the finest <lb/> they told me you would <lb/> Surely be here by Saturday <lb/> next and I will die with <lb/> grief if you are not here <lb/> by then I will be expecting <lb/> you to surely come <lb/> I am glad that place <lb/> is not like where where you <lb/> left It will do you  
+            <pb n="3" facs="L1916_0229_img_1391_3"/>
+              I suppose we wont know <lb/> you when you come home <lb/> you have gone that fat <lb/> I am feeling all right <lb/> Mick Cosgrave says I got <lb/> younger &amp; fat Katie &amp; Nellie <lb/> sends their best love <lb/> also all the rest <lb/> aunt Anne had a letter <lb/> from Mickey he is safe <lb/> yet thank god Annie Fenlon <lb/> had a letter from Joe Mahoney <lb/> he is safe still he was  
+            <pb n="4" facs="L1916_0229_img_1391_4"/>
+              that big battle when it <lb/> was over he missed all <lb/> the familar faces <lb/> godhelp them all sides <lb/> I wont say any more <lb/> as I will reserve all <lb/> the news until I <lb/> see yourself  <seg type="closer"> From your fond <lb/> Mother  <lb/> K English </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0293">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Robert O'Brien to Sir Robert Chalmers, 15 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Robert O&#39;Brien</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by John Robert O&#39;Brien (b. 1856) to Sir Robert Chalmers (1858-1938). In the letter O&#39;Brien inquires whether the government intends to open any depot from which petrol supplies could be obtained by public departments for the use of their offices while travelling on business. Due to the war it was increasingly difficult to obtain petrol supplies but O&#39;Brien requests that the board be allowed to stock a small supply of petrol for issue to their offices as required.O&#39;Brien served as the secretary for the Congested District Board. The CDB was established in 1891 in order to alleviate poverty and congested living conditions in the west and north-western parts of Ireland. Sir Robert Chalmers was sent to Ireland as under-secretary, replacing Sir Matthew Nathan who had resigned along with Augustine Birrell , his chief secretary following the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/8260/1</collection>
+                  <idno>https://letters1916.ie/item/293</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1083">John Robert O&#39;Brien</persName>
+              <date>1916-05-15</date>
+              <placeName key="#letters1916_place-0669">23 Rutland Square, Dublin, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0268">Dublin Castle, Dublin, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0293_img_1500_1"  type="Letter"  url="10d7409beb312f7819487fab395af422.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0293_img_1500_1"/>
+                CONGESTED DISTRICTS BOARD FOR IRELAND,  23 RUTLAND SQUARE DUBLIN,    15th May, 1916.   Sir,   With reference to previous correspondence regarding the <lb/> supply of petrol in Ireland, I am directed by the Congested <lb/> Districts Board for Ireland to state that they would be obliged <lb/> if you would be good enough to inform them whether it is <lb/> the intention of the Government to open any Depot from which supplies <lb/> of petrol could be obtained by Public Departments for use by <lb/> A  their Officers when travelling on business, or whether there is <lb/> any Firm with which the Government has any arrangement as to <lb/> issue of supplies for use on their service.    Having regard to the increased difficulty in obtaining <lb/> supplies, the Board propose, if there is no objection, to stock <lb/> a small supply of petrol for issue to their Officers as required; <lb/> but before doing so, they desire to be informed whether it is the <lb/> intention of the Irish Government to open any such Depot for <lb/> supplies for Public Offices.  <seg type="closer"> I am, Sir, Your obedient Servant,  J. R. O'Brien <lb/>  The Under Secretary,  DUBLIN CASTLE.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

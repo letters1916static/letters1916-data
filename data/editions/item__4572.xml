@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4572">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the President and Fellows of the Royal College of Physicians to Sir John French, 7 June 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Kirkpatrick</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>From 1910 until 1954 Thomas Percy Kirkpatrick (1869-1954) served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.
+
+Sir John Denton Pinkstone French, first Earl of Ypres, was a British officer. Upon the outbreak of war, French was appointed Field Marshal of the British Expeditionary Force (BEF). Although popular with his men, the failure of his offensives, Neuve-Chapelle and Loos, to break the German lines and his criticism of the home government led to his replacement as Field Marshal by sir Douglas Haig (1861-1928) in late 1915. French was appointed Commander in Chief of the Home forces in January 1916. In 1918 he was appointed the Lord Lieutenant of Ireland. He served in this position until his resignation in 1921.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-3-14-9</collection>
+                  <idno>https://letters1916.ie/item/4572</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1453">Thomas Kirkpatrick</persName>
+              <date>1918-06-07</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0529">John French</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1954</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4572_img_3914_1"  type="Enclosure"  url="3283ae875765361f762373f28a2c1a10.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4572_img_3914_1"/>
+             To HIS EXCELLENCY Field Marshal Sir JOHN DENTON PINKSTONE FRENCH, <lb/>Viscount of YPRES and HIGH LAKE, LORD LIEUTENANT GENERAL and <lb/> GENERAL GOVERNOR OF IRELAND,   May it please Your Excellency   We, the President and Fellows of the Royal College of Physicians <lb/>of Ireland, desire to approach Your Excellency upon your arrival <lb/>in this country as Representative of His Most Gracious Majesty the <lb/>King, which a cordial welcome and an expression of our devoted <lb/>attachment to the Throne and Empire.   At this moment when the forces of our King, drawn from all parts <lb/>of his Empire, are engaged in a deadly struggle with our common <lb/>foe for the defence of our homes and our liberty, we welcome the <lb/>opportunity of expressing to you our unwavering attachment to the <lb/>Empire and our confidence in the ultimate triumph of the cause <lb/>for which our people and our allies are fighting.   In this great cause the Fellows, Members and Licentiates of this <lb/>College are willingly taking their part both at home and abroad, <lb/>endeavouring as far as in them lies, to bring health and healing <lb/>to those, who have suffered, and to ward off those attacks of <lb/>  which have so often proved the most dangerous enemies of <lb/>  in the field. A considerable number of the Fellows and <lb/>Members of the College are serving with His Majesty's forces, and <lb/>of those who have obtained the License of the College since the <lb/>outbreak of the war some ninety per cent., have entered either the <lb/>Naval or Military service.    In lending   this common danger the President <lb/>and Fellows   are merely carrying on the great tradi- <lb/>tion of their College handed down to them by their predecessors <lb/>since its foundation by King Charles the second.    We dessine to assure Your Excellency of our readiness to afford to <lb/>His Majesty and to His Government our hearty assistance in this <lb/>time of the Empire's peril, and to express again our loyalty to <lb/>His Throne. 
+         </ab>
+      </body>
+   </text>
+</TEI>

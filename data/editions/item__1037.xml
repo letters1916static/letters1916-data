@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1037">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Margaret Huxley to Thomas Kirkpatrick, 3 February 1916 </title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Margaret Huxley</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Margaret Huxley (1856-1940) to Thomas Percy Kirkpatrick (1869-1954) requesting use of the facilities of the Royal College of Physicians of Ireland (RCPI) for exam purposes. According to Huxley the rooms at the Dublin Metropolitan Technical School for nurses are overcrowded and inconvenient for students. In 1915 Margaret Huxley took over the position as matron of the Dublin University Women&#39;s Voluntary Aid Detachment&#39;s Hospital. The VAD was a section of the Red Cross used to train civilian nurses to provide medical assistance during the war. The following year Huxley was tending to casualties of the Easter Rising as she opened her own private nursing home on Lower Mount Street.From 1910 until 1954 Thomas Kirkpatrick served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T57, RCPI-2-3-1-58-T57</collection>
+                  <idno>https://letters1916.ie/item/1037</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0581">Margaret Huxley</persName>
+              <date>1916-02-03</date>
+              <placeName key="#letters1916_place-1158">Elpis, Lower Mount Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0544">Thomas Percy Kirkpatrick</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1037_img_3099_1"  type="Letter"  url="e9a260a5c501b587b443c7c78b40b65b.jpg"/>
+      <graphic xml:id="L1916_1037_img_3099_2"  type="Letter"  url="92e76cf2b6fb2c44390e11e3f6eb32e7.jpg"/>
+      <graphic xml:id="L1916_1037_img_3099_3"  type="Letter"  url="84adcd38b75a541bddebf8e02c47bf88.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1037_img_3099_1"/>
+                ELPIS,  L.<hi rend="superscript">R</hi> MOUNT S.<hi rend="superscript">T</hi>,  DUBLIN.    Feb. 3<hi rend="superscript">rd</hi> 1916   Dear D<hi rend="superscript">r</hi> Kirkpatrick   At the examinations <lb/>held by the Dublin <lb/>Metropolitan Technical <lb/>School for Nurses the <lb/>Pupils are overcrowded <lb/>&amp; greatly inconvenienced <lb/>for want of space in <lb/>the Nurses' Hostel. <lb/> The College of Physicians  
+            <pb n="2" facs="L1916_1037_img_3099_2"/>
+              have splendid rooms. <lb/>I wonder whether <lb/>the Authorities would <lb/>lend them to us <lb/>for two consecutive <lb/>evenings in March <lb/>when our next exam <lb/>takes place.  If you would <lb/>kindly make known <lb/>our need perhaps the <lb/>College would consider <lb/>the matter favourably <lb/>for us. On former <lb/>occasions they have <lb/>been so very kind <lb/>to nurses that I ven <lb/>âture to ask their <lb/>help again.  Thanking you  
+            <pb n="3" facs="L1916_1037_img_3099_3"/>
+              in anticipation. <seg type="closer"> I am <lb/>Y<hi rend="superscript">rs</hi> truly.  M. Huxley <lb/>Hon. Sec. D.M.J.S for <lb/>Nurses </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

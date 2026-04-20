@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3528">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Fellow and Registrar, Royal College of Physicians of Ireland to the Registrar of Sir Patrick Dun's Hospital, 20 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Fellow and Registrar, Royal College of Physicians of Ireland</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Typescript letter stating that at RCPI has re-elected Dr. WH Thompson as King&#39;s Professor of Institute of Medicine in the School of Physics, and that &#39;the existing arrangements with regard to his deputy at St Patrick&#39;s Dun&#39;s Hospital will stand, and passing on regrets that the notice of Dr. Thompson&#39;s re-election was not sent before.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-13-152</collection>
+                  <idno>https://letters1916.ie/item/3528</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0845">Fellow and Registrar, Royal College of Physicians of Ireland</persName>
+              <date>1915</date>
+              <placeName key="#letters1916_place-0272">Royal College of Physicians of Ireland, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">The Registrar of Sir Patrick Dun&#39;s Hospital</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1147">The Registrar of Sir Patrick Dun's Hospital, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3528_img_2932_1"  type="Letter"  url="72b2158a38f9d6cef032a6d6efeddf09.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3528_img_2932_1"/>
+             RCPI/2/3/2/13/152   20th MARCH 16   The Registrar,<lb/> Sir Patrick Dun's Hospital, Dublin.    Dear Sir,   I beg to inform you that at a special meeting of the<lb/>President and Fellows of the Royal College of Physicians of<lb/>Ireland held on Monday the 10th January,1916, Dr.W.H.Thompson<lb/>was re-elected King's Professor of Institutes of Medicine in<lb/>the School of Physic and presumably the existing arrangements<lb/>with regard to his deputy at Sir Patrick Dun's Hospital will<lb/>stand. I regret that owing to an oversight this formal notice<lb/>of Dr.Thompson's re-election was not conveyed to you before.   I remain, dear Sir,<lb/>Yours faithfully,     Fellow &amp; Registrar.  
+         </ab>
+      </body>
+   </text>
+</TEI>

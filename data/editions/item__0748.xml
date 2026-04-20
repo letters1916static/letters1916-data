@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0748">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from Fr. B. Moore to Miss Ryan, 27 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Fr. B. Moore</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The postcard is from a Roman Catholic priest in Stafford, England, to a sister of James Ryan who was imprisoned there. It informs her that James will be transferred to Frongoch Detention Camp in Wales. James Ryan (1891-1970) studied medicine in UCD. He was appointed chief medical officer in the GPO during the Easter Rising. After the Rising he was imprisoned in Stafford and, later, Frongoch and was released in August 1916. Ryan was later a founder member of Fianna Fáil and a government minister.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Dr James Ryan Papers, P88/33</collection>
+                  <idno>https://letters1916.ie/item/748</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1171">Fr. B. Moore</persName>
+              <date>1916-06-27</date>
+              <placeName key="#letters1916_place-1936">St Austen&#39;s, Stafford, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Miss Ryan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1300">19 Ranelagh Road, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0748_img_227_1"  type="Letter"  url="a3b4150b0759418ca06c6d06eab1d0b4.jpg"/>
+      <graphic xml:id="L1916_0748_img_227_2"  type="Letter"  url="67f5eaa1e3b686551e8834137a8c6af8.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0748_img_227_1"/>
+                 St. Austin's  Stafford.    27<hi rend="superscript">th</hi> June '16    James Ryan leaves here tomorrow<lb/> Wednesday June 28<hi rend="superscript">th</hi>. His future<lb/> address 'The Internment Camp,<lb/> Frongoch, near Bala, Wales. <seg type="closer"> B Moore<lb/>RC Priest </seg>  
+            <pb n="2" facs="L1916_0748_img_227_2"/>
+                 Miss Ryan  19 Ranelagh Rd  Dublin     
+         </ab>
+      </body>
+   </text>
+</TEI>

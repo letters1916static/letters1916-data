@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1389">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Brown to Sir Henry Arthur Wynne, 5 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Brown </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This a letter from solicitor James Brown to Dr. Henry Arthur Wynne (1867-1943), Chief Crown Solictor (1916-1922), explaining how the brother of the deceased (Elizabeth Hogg) sent power of attorney from America. Therefore the application on behalf of his client John Duff is at an end.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3888/3</collection>
+                  <idno>https://letters1916.ie/item/1389</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0032">James Brown </persName>
+              <date>1916-07-05</date>
+              <placeName key="#letters1916_place-0805">Broad Street, Magherafelt, Derry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0815">Henry Arthur Wynne</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1389_img_768_1"  type="Letter"  url="7f30a080966cc49f22e2d3c92dd3d582.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1389_img_768_1"/>
+                BROAD STREET,  MAGHERAFLET    5th July 1916   Dear Sir,   Elizabeth Hogg late of Ballymully <lb/><hi rend="underline">County Londonderry deceased</hi>  I think it my duty to inform you that <lb/>a brother of deceased called Andrew Hogg <lb/>has sent a Power of Attorney from America <lb/>to Mr John Malone Solicitor Cookstown who <lb/>has applied for Administration so that my <lb/>application on behalf of John Duff for whom <lb/>I applied for Grant of Administration may <lb/>be treated now as at an end. I wrote <lb/>you previously on this matter.  <seg type="closer"> Yours faithfully  James Brown   Dr Wynne  Chief Crown Solicitor for Ireland  The Castle  Dublin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

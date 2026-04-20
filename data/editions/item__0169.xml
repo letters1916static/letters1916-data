@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0169">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Eileen Murray to the Government Compensations Claim Office, 16 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Eileen Murray</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Eileen Murray (b. 1882), Dublin resident, to the Government Compensations Claim Office. The letter is written over two weeks after the Easter Rising and concerns items Mrs Murray loaned to the British military during the Rising. She requests 10 shillings in compensation for a list of items. Mrs Murray goes on to note that the only item that has been returned had been destroyed and broken by the military.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5612/8989/1</collection>
+                  <idno>https://letters1916.ie/item/169</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1400">Eileen Murray</persName>
+              <date>1916-05-16</date>
+              <placeName key="#letters1916_place-1591">Everton Terrace, Off Cabera Road Old, Co Dublin.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-0890">Dublin Castle</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0169_img_1304_1"  type="Letter"  url="759d2f89eedf3bbd78b8161d35458045.jpg"/>
+      <graphic xml:id="L1916_0169_img_1304_2"  type="Letter"  url="7cb0700dab25e90b1a0be2729a926d62.jpg"/>
+      <graphic xml:id="L1916_0169_img_1304_3"  type="Letter"  url="53f66274d88942a13bc2395ab8e28307.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0169_img_1304_1"/>
+              <seg type="unclear">Ack</seg>. &amp; <seg type="del">see</seg>suggest that she <lb/>should place herself in communication with <lb/>the Major General in charge of Administration, <lb/> Parkgate <seg type="unclear">J&amp;T</seg><seg type="unclear">29.v.16</seg>    9 Everton Terrace  Off Nth. Cir. Road  Dublin    16th May 1916    To the Government  Compensation Claim Office    I beg to apply for <lb/>Compensation for <lb/> the amount of 10/ Shillings <lb/> for goods lent to the <lb/> Military 'for <sic>baracade</sic>' <lb/>during the revolt <lb/>in Dublin, <lb/>  
+            <pb n="2" facs="L1916_0169_img_1304_2"/>
+              one large kitchen <lb/>table, two large boxes <lb/>and one small one. <lb/>Got back table only <lb/>this morning which <lb/> is completely <sic>distroyed</sic><lb/>and broken, only fit <lb/>for firewood but got <lb/>no boxes and there is <lb/> no trace of them  <seg type="closer"> Yours faithfully <lb/> (Mrs) Eileen Murray </seg> 
+            <pb n="3" facs="L1916_0169_img_1304_3"/>
+              <seg type="postscript"> P.S. <lb/>Have table in Case <lb/>you require to see it <lb/>EM.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1625">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from F.A. French to Robert Brennan, 30th April 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>F.A. French</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Lieutenant-Colonel F.A. French, a retired British Army officer who received orders from the British War Office to take command of the British forces in Wexford in 1916, to Captain Robert Brennan, acting commandant,  Wexford Brigade, Irish Volunteers, 1916.
+Captain Seamus Doyle was one of the Irish Volunteer leaders in Enniscorthy, County Wexford, one of the few places outside Dublin to see action during the 1916 Rising.
+Captain John R.(Seán) Etchingham was a recruiting officer for the Irish Volunteers in Wexford, 1916.
+Due mainly to communication difficulties, the Easter Rising in Enniscorthy, County Wexford didn&#39;t take place until Thursday 27 April, 1916, the Dublin Rising having started on Easter Monday 24 April.
+Patrick Pearse had agreed to an unconditional surrender on Saturday 29th but the Volunteer leaders in Wexford refused to believe this.
+Colonel French arranged for an army car to bring Captain Seamus Doyle and Captain Seán Etchingham to see Pearse at Arbour Hill Barracks. There, Pearse signed a written order to the Wexford Volunteers confirming the surrender.
+In this letter Colonel French outlines the arrangements for the safe passage of the men to Dublin and back. 
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Dorothy McArdle Collection; BMH CD/9/2/5</collection>
+                  <idno>https://letters1916.ie/item/1625</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0415">F.A. French</persName>
+              <date>1916-04-30</date>
+              <placeName key="#letters1916_place-0373">R.I.C. Barracks, Wexford, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Brennan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1625_img_1088_1"  type="Letter"  url="ca03b49de5470af7387898de8bad06aa.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1625_img_1088_1"/>
+              R.I.C. Barracks Wexford.   30th, April, 1916.     Sir,  <lb/>I am in receipt of <seg type="del">yuor</seg> your  communication dated, April, 28<hi rend="superscript">th</hi>, 1916, <lb/> and the same has been Submitted to Superior Authority. <lb/>I am desired to inform you that if <sic>Caption</sic>Seamus Doyle and <lb/>Captain John R. Etchingham report <seg type="del">ed</seg>themselves to me at the R.IC <lb/> Barracks Georges Street Wexford I will send them up to Dublin <lb/> under Military Escort with a view to their communicating with <lb/> Commandant Pearse direct. They will proceed by Motor Car from <lb/> Wexford to Dublin. <seg type="del">They two</seg> The two gentleman  will be met at Ferrycarrig Bridge by <lb/> Military Escort, and conducted to my temporary Head-Quarters. <lb/>I herewith enclose a pass for the Motor Car in which these gentle <lb/>men travel to Ferrycarrig through my Picquet lines.    I have tie Honour to be <lb/>Your Obedient Servant <lb/>F.A. French Colonel <seg type="del"> </seg>Commanding Troops Wexford. <lb/> Capt. Robert Brennan.   
+         </ab>
+      </body>
+   </text>
+</TEI>

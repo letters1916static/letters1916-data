@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2188">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from George M. Marshall to Sir Robert Chalmers, 8 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>George Marshall</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by George M. Marshall (1878-1936) a chemist from Strabane. The letter was addressed to the under-Secretary for Ireland, Sir Robert Chalmers (1858-1938). Chalmers was sent to Ireland as under-secretary, replacing Sir Matthew Nathan who had resigned along with Augustine Birrell, his chief secretary following the Easter Rising in 1916. 
+In this letter Marshall refers to a cheque he received two days ago for being a crown witness. Marshall is not satisfied with the amount paid as he had no assistant to take his place during his  absence and had to pay somebody to come in. He is thus out of pocket and asks Chalmers to rectify the situation.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/9736</collection>
+                  <idno>https://letters1916.ie/item/2188</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1180">George Marshall</persName>
+              <date>1916-06-08</date>
+              <placeName key="#letters1916_place-1105">The Medical Hall, Strabane, Co. Tyrone, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0268">Dublin Castle, Dublin, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1936</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2188_img_1634_1"  type="Letter"  url="d6fff25b19ad7123528a8d0a9e465ae1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2188_img_1634_1"/>
+             Memo from GEO. M. MARSHALL, <lb/>THE MEDICAL HALL, <lb/>STRABANE,   June, 8<hi rend="superscript">th</hi>1916   To The. Under.. Secretary The. Castle Dublin   Dear Sir,   I enclose you herewith Cheque. 14/8. <lb/>I got for two days as Crown. Witness <lb/>With this I am not satisfied. As I <lb/>have no assistant to leave in my. <lb/>place. The R. M in Derry. told me <lb/>my. expenses would be all right <lb/>But this is not so. Would you <lb/>please send me. what you consider <lb/>correct.   Yours. Truly.   <hi rend="underline">Geo. M. Marshall</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

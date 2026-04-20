@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1021">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Anthony Carroll to Robert Chalmers, 13 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Anthony Carrol</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Anthony Carroll (b.1866), a solicitor from Cork, to Robert Chalmers (1858-1938) under-secretary for Ireland. The letter is an application made by Carroll for the position of Crown Solicitor for Cork. The vacancy is due to that appointment of Henry Arthur Wynne (1867-1943), former Cork Crown Solicitor, to the position of Chief Crown Solicitor following the death of Malachy Kelly (1850-1916), the previous Chief Crown Solicitor. Carroll states that he is competent and has the time to devote himself to the work.Chalmers became under-secretary for a brief period following the resignation of Matthew Nathan (1862-1939), who relinquished his position following his political failure during the 1916 Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI/CSO/RP/1916/5611/8166/1, NAI/CSO/RP/1916/5611/8166/1</collection>
+                  <idno>https://letters1916.ie/item/1021</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1487">Anthony Carrol</persName>
+              <date>1916-05-13</date>
+              <placeName key="#letters1916_place-1741">Fermoy, Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1021_img_2911_1"  type="Letter"  url="f1e744489a4b9ab141f50187733657f7.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1021_img_2911_1"/>
+                Fermoy    13 day of May 1916   Sir,   I beg to apply for the position of Crown Solicitor for <lb/>the City of Cork and for the West Riding of the County of <lb/>Cork rendered vacant by the appointment of Dr Wynne to the <lb/>Chief Crown Solicitorship. I hold the position of <lb/>Crown Solicitor for the East Riding of Cork and as the <lb/>duties of my Office in no way clash with the position now <lb/>vacant I trust you will see your way to recommend me for <lb/>the appointment. I confidently refer to the manner in <lb/>which I have performed the duties entrusted to me by the <lb/>Crown for the last twelve years as proof of my competency. <lb/>to discharge the duties of the position which I now seek. <lb/>As the practice of a County Solicitor is now very limited <lb/>owing to the Land Owners in the District having sold <lb/>their property I have ample time and am free to devote <lb/>my energies mainly to the Crown work. <seg type="closer"> Your obedient servant,  <hi rend="underline">Anthony Carroll</hi>   The Under Secretary,  Dublin Castle.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

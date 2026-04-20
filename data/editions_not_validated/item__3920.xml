@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3920">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Helen Sophia Chenevix to Hanna Sheehy-Skeffington, 10 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Helen Sophia Chenevix </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Helen Sophia Chenevix (1890–1963) was an Irish campaigner for women&#39;s suffrage and a trade unionist. Hanna Sheehy-Skeffington was also a suffragette and concerned about social reform. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47; Ms 33,612/14-1</collection>
+                  <idno>https://letters1916.ie/item/3920</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0571">Helen Sophia Chenevix </persName>
+              <date>1915-12-10</date>
+              <placeName key="#letters1916_place-1624">29 South Anne Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0722">Hanna Sheehy-Skeffington</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0720">11 Grosvenor Place, Rathmines, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="death">1963</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3920_img_3297_1"  type="Letter"  url="a3550d22438a3512b2ab34e70e1bec30.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3920_img_3297_1"/>
+             Office—29 South Anne Street. <lb/>Dublin.   10<hi rend="superscript">th</hi> Dec 1916   Dear M<hi rend="superscript">rs</hi> Skeffington,   Many thanks for you p.c. We discussed the question <lb/>of sending a representative to your meeting about the <lb/>government Registration Bill at new Committee yesterday, <l/b>and felt that in the whol. it was not quite the <lb/>moment for such a meeting, in view of the fact that the <lb/>bill seems likely to be withdrawn, or so watered down <lb/>that the franchise will not be attend in any way.   Yours sincerely,   Ms. Flaherty. 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0339">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Arthur John Eagleston to the Lord Justices, 23 May 1916. </title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Arthur John Eagleston</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Arthur John Eagleston (1870-1944), assistant secretary in the Home Office in London, to the Lords Justices at Dublin Castle confirming that they have been sworn in as Lord Justices for the Government in Ireland during the absence of the lord ieutenant. The lord lieutenant, Ivor Churchill Guest, Lord Wimborne (1873-1939), had reluctantly offered his resignation in the aftermath of the Easter Rising but was later exonerated by the commission of enquiry into the Rising and resumed the role, which he held until 1918.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered Papers, CSO RP/1916/8816/1</collection>
+                  <idno>https://letters1916.ie/item/339</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0023">Arthur John Eagleston</persName>
+              <date>1916-05-23</date>
+              <placeName key="#letters1916_place-0397">Whitehall, London, United Kingdom</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lords Justices, Dublin Castle</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0339_img_1574_1"  type="Letter"  url="679bb29648bdb7fcbd1bcec505e490f8.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0339_img_1574_1"/>
+                Whitehall    23rd May, 1916.   My Lords,   I have the honour, by direction <lb/> of the secretary of the State, to acknowledge the <lb/> receipt of your Excellencies' letter of the <lb/> 20<hi rend="superscript">th</hi> instant, notifying that you have been <lb/> sworn as Lords Justices for the government <lb/> of Ireland during the absence of the <lb/> Lord Lieutenant. <seg type="closer"> I have the honour to be, <lb/> My Lords, <lb/> Your Excellencies' obedient Servant,  A. J. Eagleston <lb/>  Their Excellencies  The Lords Justices,  &amp;c. &amp;c. &amp;c.  Dublin Castle.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3931">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William O'Brien to Hanna Sheehy Skeffington, 9 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William O&#39;Brien</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47; Ms 33,612/13-39</collection>
+                  <idno>https://letters1916.ie/item/3931</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1436">William O&#39;Brien</persName>
+              <date>1915-11-09</date>
+              <placeName key="#letters1916_place-1639">Capel Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1928</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3931_img_3307_1"  type="Letter"  url="f2519eb363ea83c4ad4105bc0bba10d3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3931_img_3307_1"/>
+             9/11/15   Dear Mrs Skeffington,   Mrs Larkin is leaving for the<lb/>states on a visit on Saturday<lb/><seg type="unclear">next</seg>, and it occurred to me that<lb/>possibly you might want to send<lb/>a message in papers. I am<lb/>told papers are stopped in post<lb/>unless sent from office of<lb/>publication. I understand<lb/>Mrs L. will leave Dublin for<lb/>Liverpool on Thursday.   Faithfully yrs,   W—<hi rend="superscript">m</hi> O'Brien.  
+         </ab>
+      </body>
+   </text>
+</TEI>

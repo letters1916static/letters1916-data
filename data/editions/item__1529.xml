@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1529">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James MacDonagh to Muriel MacDonagh, 4 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James MacDonagh</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from James (Jim) MacDonagh to Muriel MacDonagh expressing condolences on the death of her husband, Thomas MacDonagh. Jim MacDonagh (1881-1931) was a younger brother of Thomas and became an accomplished musician with the British Symphony Orchestra. In the letter he offers his condolences on Thomas&#39;s death and asks for news, mentioning that &#39;Eva&#39; was unable to write as she was &#39;so fond of Tom&#39;. He also asks for the address of his brother &#39;Jack&#39; (John, 1880-1961). Muriel Gifford (1884-1917) married Thomas MacDonagh in 1912 and they had one son. She tragically drowned on a family holiday in 1917. Thomas MacDonagh (1878-1916) was a poet and teacher. A leading member of the Dublin Brigade of the Irish Volunteers, he was one of the principle organisers of the Easter Rising and one of the seven signatories of the Proclamation of the Irish Republic. He was executed on 3 May 1916 in Kilmainham Gaol (the letter is dated 4.3.1916 but should probably read 4 May 1916).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Thomas MacDonagh Family Papers, Collection List No 131, Ms. 10,854/7</collection>
+                  <idno>https://letters1916.ie/item/1529</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0939">James MacDonagh</persName>
+              <date>1916-05-04</date>
+              <placeName key="#letters1916_place-0299">96 Arthur Road, Wimbledon Park, London SW</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0031">Muriel MacDonagh</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1529_img_99_1"  type="Letter"  url="422d4a6f162ca27913f29c5b9f31c91a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1529_img_99_1"/>
+                96 Arthurs Rd  Wimbledon Park  London S.W.    4.3.1916   Dear Muriel   I don't really know how to write &amp;<lb/>express our deep sympathy in your<lb/>great sorrow, indeed yours is a heavy cross<lb/>to bear. Poor Tom! Always the most kind<lb/>&amp; gentle of men. When you can will you<lb/>please write &amp; give me some news<lb/>also ask Jack to write I have not his<lb/>address. Eva feels she is unable to write<lb/>as she would like she was so fond of Tom.<lb/>Again accept our heart felt sympathy: Love<lb/>to the children <seg type="closer"> Your fond brother  <hi rend="underline">Jim</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

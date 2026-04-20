@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6703">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Joseph O'Byrne to Frank P. Walsh, 1 December 1919</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Joseph O&#39;Byrne</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Joseph O’Byrne was born in 1875 in Queens County (Laois). By 1911 he was living in Fairview Avenue in Dublin. According to records from the Bureau of Military History he took part in the 1916 Easter Rising. During the period that the letters were written, O’Byrne lived on 24th Street, New York.  He can be found on the 1930 census showing his residence as Manhattan. O’Byrne although in America held a keen interest in Irish politics.  Francis (Frank) Patrick Walsh (1864-1939), was an American lawyer and political reformer. He was one of the chief architects of the legislative struggle against industrial exploitation of children and an advocate of Irish and anti-imperialist causes. He also fought for civil liberties and was a labour partisan and staunch New Dealer.  Walsh was a member of the Irish-American delegation (along with Michael J. Ryan and Edward F. Dunne) who were appointed to represent Ireland at the Paris Peace Conference in 1919. On 10 April 1919 the delegation arrived in Paris. The men returned to America in July 1919 where Walsh began working with the Dail External Loan (Bond Drive).
+This letter references a letter sent on 19 November 1919, and asks for a reply to same. O&#39;Byrne informs Walsh that a bond rally will be held at Halagon Hall. Walsh is asked for ‘official sanction’ on committees organised to collect money at church gates and other such community areas. O&#39;Byrne also requests literature and states that no deductions will be taken from the money collected by the committees mentioned earlier in the letter.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>New York Public Library Manuscripts and Archives Division</repository>
+                  <collection>William Burke Cockran Papers, Box 13, Folder 2</collection>
+                  <idno>https://letters1916.ie/item/6703</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0388">Joseph O&#39;Byrne</persName>
+              <date>1919-12-01</date>
+              <placeName key="#letters1916_place-1646">New York</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0925">Frank P. Walsh</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1646">New York</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6703_img_None_1"  url="phpvXqTTn.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6703_img_0_1"/>
+             AMERICAN COMMISSION ON IRISH INDEPENDANCE<lb/>FRANK P, WALSH, CHAIRMAN<lb/>411 FIFTH AVENUE<lb/>NEW YORK<lb/><lb/> December 1st, 1919   <hi rend="underline">COPY</hi>  Hon. Frank P. Walsh.<lb/>New York City.  Dear Sir:-  Our Society is holding a Bond Rally<lb/>Tuesday night at Halagon Hall. I will thank you<lb/>for a reply to my letter of November 19th.  We have Committees formed to collect at<lb/>Churches, Theatres, etc., and desire your official<lb/>sanction and co-operation in this direction.  Mr. Burke informs me he has referred my<lb/>letter to your department. We need literature. All<lb/>monies collected will be handed in without making any<lb/>deduction whatever.  Please reply to Joseph O'Byrne.<lb/>265 West 24th St.,<lb/>New York City.  per/EMW    
+         </ab>
+      </body>
+   </text>
+</TEI>

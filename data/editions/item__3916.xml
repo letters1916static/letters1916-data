@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3916">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from E. Sylvia Pankhurst, 16 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Sylvia Pankhurst</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Ms 33,604 /14-13</collection>
+                  <idno>https://letters1916.ie/item/3916</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1039">Sylvia Pankhurst</persName>
+              <date>1915-12-16</date>
+              <placeName key="#letters1916_place-0410">400, Old Ford Road, Bow, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="death">1960</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3916_img_3293_1"  type="Letter"  url="9f476c31a52c7ba4564707a6df63259a.jpg"/>
+      <graphic xml:id="L1916_3916_img_3293_2"  type="Letter"  url="60067db43c1bcf93c1778017463e7e63.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3916_img_3293_1"/>
+             December 16th, 1915   400, Old Ford Road, <lb/>BOW, E.   <hi rend="underline">PRIVATE AND CONFIDENTIAL.</hi>   The Secretary. <lb/>Dear Madam,   I send you herewith an abstract of the proceedings at <lb/>the Conference of Suffrage societies called at the International <lb/>Suffrage Shop on December 9th, 1915, at which it was decided to <lb/>hold a larger Conference of Suffrage societies on Friday January <lb/>21st, 1916, and to arrange which a Management Committee was elected.   I enclose herewith the preliminary Agenda for the Conference <lb/>and hope that your organisation will consider the points raised, <lb/>and send in any additional resolutions and amendments, to reach us <lb/>by first post on January 8th at latest.   It was decided that each society should be asked to send not <lb/>more than 6 delegates to the Conference in January, and that the <lb/>delegate's fee should be 2/6d for each delegate; also that visitors' <lb/>tickets to the Conference should be issued to Suffrage societies <lb/>for the use of their members, and that these tickets should be sold <lb/>to their members by the Suffrage societies, each society deciding <lb/>the price that it should charge; the proceeds of the sale of tickets <lb/>by each society should be retained by that society. As there will <lb/>be only a limited number of seats for visitors, each society is <lb/>asked to apply to the Management Committee for visitors' tickets <lb/>before January 8th; the number of tickets for each society will
+            <pb n="2" facs="L1916_3916_img_3293_2"/>
+            then be allocated by the Management Committee, with regard to the <lb/>number of applications that are sent in and the seating accommodation <lb/>for visitors. The societies are asked to remember that the tickets <lb/>can only be issued to the members of their organisations.   If you know of any local societies in your district that have <lb/>no national headquarters, we shall be glad to have their names and <lb/>addresses.   Faithfully yours,    E. Sylvia Pankhurst.  <lb/>Secretary of the Management Committee.
+         </ab>
+      </body>
+   </text>
+</TEI>

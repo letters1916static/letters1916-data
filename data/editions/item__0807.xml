@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0807">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from E.G. Hamilton to Lady Clonbrock, 1 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Major E.G. Hamilton</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter of thanks from Major E.G Hamilton of the Connaught Rangers to the secretary of the Irish Women&#39;s Association, Lady Clonbrock (1839-1928), for the comforts sent to the soldiers in Mesopotamia during the war.Augusta Caroline Dillon (née Crofton) was the wife of Luke Gerald Dillon (1834-1917), the 4th Baron of Clonbrock, Co. Galway and the daughter of Lord Crofton of Mote Park (Edward Henry Churchill Crofton, 3rd Baron), Co. Roscommon. Aged 75 at the outbreak of war, Lady Clonbrock, worked closely with the Irish Women&#39;s Association to send basic necessities to Irish POWs. Many of her care packages went to members of the Connaught Rangers imprisoned in Limburg near Cologne.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Mss 35,787-97, Mss 35,787-97</collection>
+                  <idno>https://letters1916.ie/item/807</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1242">Major E.G. Hamilton</persName>
+              <date>1916-08-01</date>
+              <placeName key="#letters1916_place-0646">Mesopotamia (Iraq)</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0049">Lady Clonbrock</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0807_img_235_1"  type="Letter"  url="dccb0b4c60dd8e77da0ce96c49eef519.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0807_img_235_1"/>
+             <seg type="head"><hi rend="underline">Copy of letter received from the Connaught <lb/>Rangers in Mesopotamia. </hi></seg>   1.8.16  <lb/>The Secretary <lb/>Irish Women's Association   I enclose some lists of comforts which your Association has <lb/>so kindly sent this regiment, and which have arrived and <lb/>have been distributed.   I assure you that the comforts are very welcome, and <lb/>that the men are very grateful to you for your generosity <lb/>and kindness.  <seg type="closer"> (Signed)  E.G. HAMILTON, <lb/>Major <lb/>O.C. The Connaught Rangers. <lb/>I.E.F. 'D'. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

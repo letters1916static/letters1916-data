@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1432">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Telegram from Superintendent of Police, Kingstown to Mabel FitzGerald, 10 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Superintendent of Police, Kingstown</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Telegram from police superintendent, Kingstown to Mabel FitzGerald, born Mabel Washington McConnell (1884–1958), wife of Irish revolutionary Desmond FitzGerald (1888-1947). In the telegram, Mabel is informed that her husband is being held at Kingstown Police Station where she may visit him and bring refreshments.Mabel was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington (1878-1916) during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1569/1</collection>
+                  <idno>https://letters1916.ie/item/1432</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0685">Superintendent of Police, Kingstown</persName>
+              <date>1916-05-10</date>
+              <placeName key="#letters1916_place-0911">Kingstown (Dun Laoghaire), Co. Dublin, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0935">Bray, Co. Wicklow, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1432_img_851_1"  type="Letter"  url="0332b809922e4df480a6571add70d511.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1432_img_851_1"/>
+              POST OFFICE TELEGRAPHS <lb/> Office of Origin and Service Instructions<lb/> HMS Kingstown  Handed in at 8.55 Received here at 9.45  TO Mrs FitzGerald, 2 Loretto Villas, Bray  Husband at Kingstown Police station <lb/> can be seen send refreshment <seg type="closer"> Supt of Police Kingstown </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

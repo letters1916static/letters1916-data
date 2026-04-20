@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0273">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Michael Citroen to Herbert Samuel, 12 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Michael Citroen</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Michael Citroen (b.1892), a British seed and plant merchant, to Herbert Samuel (1870-1963), the Home Secretary for England. The letter is an application for compensation by Michael Citroen. In the letter he states that he went to Dublin to attend the Spring Show, sending his last £50 to get there in hope of receiving a profit, however due to the Easter Rising he could not attend and lost his money. He goes on to state that this has effectively ruined him. Citroen goes on to ask for a government position if he cannot be compensated.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>National Archive of Ireland-Chief Secretary&#39;s Office-Registered Papers, NAI/CSO/RP/1916/5611/8203/1</collection>
+                  <idno>https://letters1916.ie/item/273</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1269">Michael Citroen</persName>
+              <date>1916-05-12</date>
+              <placeName key="#letters1916_place-1314">54 Chiswick Lane, London</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Herbert Samuel </persName>
+              <date></date>
+              <placeName key="#letters1916_place-0658">Whitehall, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0273_img_1470_1"  type="Letter"  url="c425b2becec0bc81ddfafa45c78cc6e6.jpg"/>
+      <graphic xml:id="L1916_0273_img_1470_2"  type="Enclosure"  url="ed57810692fb6a30e0614e1bda5ada97.jpg"/>
+      <graphic xml:id="L1916_0273_img_1470_3"  type="Letter"  url="b3f9a663d9ee0d99d1ea0397ee6944d9.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0273_img_1470_1"/>
+              Phone 1613 Chiswick MICHAEL RAINS, Ltd., (Patronised by Royalty,) BULB GROWERS, Seed and Plant Merchants, Horticultural Sundriesmen. _____________________ Established 1856. _____________________ Telegraphic Address - <seg type="del">deleted text</seg>    54 Chiswick Lane,  London, W.    May 12th 1916.    The Home Secretary  Whitehall, S.W.   Dear Sir,   I am given to understand that some<lb/> compensation will be given to sufferers of the Irish<lb/> rebellion. I beg to inform you that I went to the Dublin<lb/> Spring Show with three assistants, but on account of the<lb/> unfortunate circumstances, we could not reach the Show.<lb/> This affair cost me nearly Â£50. I would not mind this<lb/> loss so much, but that it was the last few pounds<lb/> I had in the world. I have been attending this show<lb/> for some years &amp; always made a considerable profit.<lb/> I might mention that through prevailing circumstances<lb/> my business as above has been practically ruined, I suffered<lb/> considerable loss the first &amp; second year, &amp; now I am left with<lb/> nothing.  If nothing can be done for me in this matter, <lb/> may I ask you, if something could be found for me<lb/> in some Government office. I am above the Military<lb/> age, &amp; have had considerable experience.<lb/> Trusting to receive an early &amp; favourable reply. <seg type="closer"> I am,<lb/> Your obedient Servant <lb/> Michael Citroen </seg> Ackn.2 &amp; say<lb/> that no measures are in<lb/> contemplation wh. wd. meet the<lb/> case he adduces RC 16/5/16  
+            <pb n="2" facs="L1916_0273_img_1470_2"/>
+              The Home Secretary's Compliment Slip  With The Private Secretary's compliments  
+            <pb n="3" facs="L1916_0273_img_1470_3"/>
+              Envelope Postmarked CHISWICK W 3 PM 12 MAY 16  Private &amp; Personal    The Home Secretary   Whitehall S.W.    Irish Office  
+         </ab>
+      </body>
+   </text>
+</TEI>

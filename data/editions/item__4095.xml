@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4095">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Mayor of Coudrekerques-Branche to the British Consul, 19 August 1916 </title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mayor of Coudrekerques-Branche</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-5623-15059-3</collection>
+                  <idno>https://letters1916.ie/item/4095</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">French</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0057">Mayor of Coudrekerques-Branche</persName>
+              <date>1916-08-19</date>
+              <placeName key="#letters1916_place-0985">Coudekerque-Branche, Paris, France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">The British Consul</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1793">2, Rue Gaspard Malo, Dunkerque, France</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4095_img_3472_1"  type="Letter"  url="d0d3e2dcae102270098820f2b4e3df6a.jpg"/>
+      <graphic xml:id="L1916_4095_img_3472_2"  type="Letter"  url="d89570b34f48117ca740a66345306f0b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4095_img_3472_1"/>
+             Copy.  <seg type="foreign">    du Nord<lb/>Arrondissement de Dunkerque<lb/>Mairie de Coudekerque-Branche  </seg>  République Francaise.<lb/>Coudekerque-Branche,  <seg type="foreign"> le 19 Aout 1916 </seg>  <seg type="foreign"> Monsieur le Consul, </seg>  Vous avez recu dernièrement la visite de Madame Veuve<lb/>ROOSE, née DUFFY Marie Anne, qui venait solliciter un<lb/>secours et que vous avez priée de vouloir bien vous fournir<lb/>des ressignements sur son séjour en France.  Conformément au désir que vous avez exprimé, j'ai l'<lb/>honneur de vous informer que Madame Veuve ROOSE, nee DUFFY<lb/>Marie Anne, le cinq Janvier mil huit-cent-quarante-huit,<lb/>à Dublin (<sic>Irlance</sic>), de Duffy Jean et de O'Connel Rosalie,<lb/>s'est mariée le 16 Novembre 1868, à Seclin, avec Roose Fran-<lb/>çois Joseph, de nationalité belge, étant né à Bruges<lb/>(Belgique), le 27 Mars 1839, de Roose Joseph et de Clauwert<lb/>Amélie.  De cette union sont nés plusieurs enfants qui sont<lb/>décédes en bas-âge. Il y a plus de vingt ans que Madame<lb/>Veuve ROOSE habite Coudekerque-Branche.  Son mari est décédé le 23 Février 1909.  Depuis, cette vieille personne travaille pour assurer<lb/>son existence, et depuis également, le Bureau de Bienfaisance<lb/>lui alloue deux kilogs de pain par semaine, mais aucune loi<lb/>française ne permet de lui allouer des secours en argent.  Et bientôt son grand âge ne lui permettra plus de<lb/>travailler, car déjà c'est au prix de dures fatigues qu'elle<lb/>parvient à s'en acquitter.  Je me <sic>per8ets</sic> donc, M. le Consul, de vous prier d'examiner<lb/>sa demande de secours avec tout l'intérêt qu'elle comporte<lb/>pour cette malheureuse.  Elle   Monieur le Consul d'Angleterre,<lb/>2, Rue Gaspard Malo,<lb/>DUNKERQUE.      
+            <pb n="2" facs="L1916_4095_img_3472_2"/>
+            <seg type="foreign"> Elle vous serait bien reconaissante aussi si, par votre <lb/>intervention, elle pouvait obtenir des nouvelles de sa <lb/>famille, qui a dû rester vraisemblablement à Dublin.   Comptant sur votre haute bienveillance, je vous pris <lb/>d'agréer, Monsieur le Consul, avec mes remercisments par <lb/>avance, l'assurance de ma considération la plus distinguée.   Le Maire, <lb/>(signé) </seg>
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3059">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Dr. Thomas Addis Emmet, M.D. to P.A. Philbin, 30 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Dr. Thomas Addis Emmet</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Dr. Thomas Addis Emmet (1828-1919) thanking Mr. Philbin for the use of his scrapbooks. Emmet mentions sketches and portraits of the United Irishmen and his ancestors, Robert and Thomas Addis Emmet.
+
+Thomas Addis Emmet was the grand nephew of Robert Emmet, a medical doctor of much renown and a leader of Irish opinion in America.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>American Irish Historical Society</repository>
+                  <collection>The P.A. Philbin Collection</collection>
+                  <idno>https://letters1916.ie/item/3059</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0772">Dr. Thomas Addis Emmet</persName>
+              <date>1916-09-30</date>
+              <placeName key="#letters1916_place-1228">89 Madison Avenue, New York, New York, United States</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">P.A. Philbin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0343">Archebald, Pennsylvania, United States</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1919</item>
+               <item n="tag">Culture and the Arts</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3059_img_2458_1"  type="Letter"  url="530eafba62512eb908993012a0a8720b.jpg"/>
+      <graphic xml:id="L1916_3059_img_2458_2"  type="Letter"  url="754eb76db184a4d69da5e36a8ce6b25e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3059_img_2458_1"/>
+             89 Madison Avenue   Sept. 30<hi rend="superscript">th</hi>1916   Hon: P. A. Philbin   Dear Sir   I feel under the greatest <lb/>obligation to you for letting me <lb/> see the Scrap Book —   The portrait is simply a copy <lb/>of Petsie's sketch of Robert Emmet <lb/> on the back of a letter which I <lb/>have &amp; if he found in the <seg type="unclear">Memorium</seg> <lb/>of Robert Emmet. The full length <lb/>figure is copied from a large wood <lb/> cut  gotten up in New York on the 30<hi rend="superscript">th</hi> <lb/>and has no special value.    I found by good luck the <lb/><sic>sketchs</sic> of the United Irishmen <lb/>published in the Weekly Freeman <lb/>which I have been trying to get <lb/>hold of for years, <seg type="unclear">as</seg>especially <lb/>as the author had access
+            <pb n="2" facs="L1916_3059_img_2458_2"/>
+            <lb/>to a copy of the proceeding <lb/>of the United Irishmen from 1791 <lb/>to 1794, which belonged to T. A. Emmet <lb/>my grandfather and fully <lb/>annotated by him during a <lb/>period of which I could not <lb/>obtain a trace of his work. <lb/>To me this will prove of so <lb/>great a value as to call <lb/>for a second edition of my <lb/>work at some future day, <lb/>which I will get ready <lb/>when called for after my <lb/>death — I have also <seg type="unclear">scanned</seg> <lb/>the second Scrap book but I  have  had <lb/>only time to glance through it.   I shall take the greatest care <lb/>of the books, but, as I have trouble <lb/>with my eyes and can only work for <lb/>a limited time I must ask the favor I <lb/>may keep them for some weeks <seg type="del">I</seg>until <lb/>I return to town.   Very Truly Yours   <hi rend="underline"><sic>Tho</sic> Addis Emmet</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

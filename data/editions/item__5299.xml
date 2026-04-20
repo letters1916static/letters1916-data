@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5299">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Tyrrell Jr. to William Tyrrell Sr., 23 December 1917</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Tyrrell Jr.</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>William jr. is busy arranging Christmas for the men at the front. He received a number of Christmas letters from friends at home.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>OPW-Maynooth University Archive &amp; Research Centre at Castletown</repository>
+                  <collection>Ballindoolin Archive, Folder 4</collection>
+                  <idno>https://letters1916.ie/item/5299</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0431">William Tyrrell Jr.</persName>
+              <date>1917-12-23</date>
+              <placeName key="#letters1916_place-0769">France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">William Tyrrell Sr.</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1321">Ballindoolin House, Ballindoolin, Edenderry, Kings Co., Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1979</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5299_img_None_1"  url="00d11a87c060f62f1fcedc8e28f691e8.jpg"/>
+      <graphic xml:id="L1916_5299_img_None_2"  url="21d9b8c6150367447404bb870f4272f6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5299_img_0_1"/>
+              23<hi rend="superscript">rd</hi> Dec<hi rend="superscript">r</hi> 1917    My dear Daddy,   I was so delighted to get<lb/>long Xmas letters from you and<lb/>Mamy yesterday - The handkerchiefs<lb/>are splendid and a thousand<lb/>thanks for them.  The weather continues just the<lb/>same. We are used to it now but<lb/>it is very hard to keep one's feet<lb/>on the roads.  I got a Xmas card from Col McCammond<lb/>+ a nice letter from Mrs McCammond.<lb/>Also <seg type="del">a</seg> long letters from Fannie<lb/>+ Sissie which I must answer<lb/>soon. <seg type="unclear">Meta</seg> Miller also sent me<lb/>a card. Everyone seems to have<lb/>remembered me. I will have dozens of letters to write now but must try to get through with them. There is no news. Our chief 
+            <pb n="2" facs="L1916_5299_img_0_2"/>
+             occupation is arranging Xmas for<lb/>the men. I think everything will<lb/>be successful.  We are a very merry party in our<lb/>company mess. We have the nicest<lb/>officers in the battalion + I know<lb/>we are the happiest of all.  No more news now and<lb/>I may not be able to post a<lb/>letter till the 26<hi rend="superscript">th</hi> so do not<lb/>expect me. I will then write a<lb/>good one and tell you all about it   With very best love to all<lb/>Your most affec Son<lb/>Willie  
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5932">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Kate English to Patrick English, 17 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Kate English</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Kate English to her son Patrick. In the letter Kate observes that Patrick has not been released while many of his comrades have. She also discusses attending mass with her daughter Nellie and prays that when he returns home they will attend together. She also inquires as to whether he received a letter sent by Robert Driscoll.This letter was written by Kate (b. 1855) to Patrick English (1894-1970) while he was interned. Patrick had been stationed in the G.P.O for the Rising. Following the surrender he was sent to Stafford Prison before being moved to Frongoch internment camp in Wales.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Patrick English</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/5932</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0077">Kate English</persName>
+              <date>1916-08-17</date>
+              <placeName key="#letters1916_place-0146">Blackhorse Lane, Phoenix Park, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0178">Patrick English</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1722">Frongoch, Wales</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5932_img_1413_1"  type="Letter"  url="3afc132d9490c5860aa7bf4cc74b1c87.jpg"/>
+      <graphic xml:id="L1916_5932_img_1413_2"  type="Letter"  url="ab016b8c53cc120b17bb62fef37bc84c.jpg"/>
+      <graphic xml:id="L1916_5932_img_1413_3"  type="Letter"  url="876edfb466801139d61f199992533fea.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5932_img_1413_1"/>
+                2 Ashtown Villas  Blackhorse Road  Phoenix Park    17/8/16   My Dear Patrick   I received your <lb/> letter this morning and I cannot <lb/> understand why you are the only <lb/> one that is kept and all your <lb/> crowd home it is sickening <lb/> to think of it and 'you' the only <lb/> support. of your old widowed <lb/> mother I hope you got my second <lb/> letter. alright and P'O I a now <lb/> sending you on the third send <lb/> me word if you are in need <lb/> of anything I keeping <lb/> wonderful going to seven  
+            <pb n="2" facs="L1916_5932_img_1413_2"/>
+              o'clock Mass every morning since <lb/> I came to live with Nellie and <lb/> I am delighted to hear that you are <lb/> doing the same it will give <lb/> you strength and go to Holy <lb/> Communion as often as you can.<lb/> You are not to worry about me <lb/> as you know to well that Nellie <lb/> will mind me and mind yourself <lb/> and come home blooming <lb/> for Please God you will be soon <lb/> home to your old friends did you <lb/> get a letter from Bob Driskel <lb/> as he got your last address from <lb/> me. I hope you heard from <lb/> May by this time as I don't <lb/> think any thing is wrong  
+            <pb n="3" facs="L1916_5932_img_1413_3"/>
+              with her. Write as soon as you<lb/> can as it is the only thing that <lb/> cheers me up all joins in <lb/> sending their love and hopes <lb/> to hear good news soon so<lb/> good bye with best love  <seg type="closer"> I remain <lb/> Your loving <lb/> Mother <lb/> K English </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

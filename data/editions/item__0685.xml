@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0685">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Davidson to his mother, Clara Mary Davidson, 31 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Davidson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from James Davidson (1877-1916) to his mother, Clara Mary. In this letter to his mother, Davison reflects on the news of his family&#39;s Christmas. He writes that the 36th Division is being relocated back to their previous location. He is despondent about the continuous moves (c 10 times within three months of their arriving in France). He comments that the 36th Division is sent in &#39;to clean up a district&#39;, hence their being referred to as &#39;Carsons Travelling Menagerie&#39;. He closes the letter in anticipation of receiving khaki mufflers and mittens so they can be distributed to some of the men. He wishes his grandmother and the rest of the family a happy new year.This letter is part of a large correspondence from Captain James Davidson to his parents. Davidson, who was Managing Director of the Sirocco Engineering Works in Belfast, served with 13 Royal Irish Rifles and the Machine Gun Corps. His letters describe his experiences while training in England and serving in France. He was killed on 1 July 1916, the first day of the Battle of the Somme.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Davidson Family Papers, D3642/B/8/21</collection>
+                  <idno>https://letters1916.ie/item/685</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1196">James Davidson</persName>
+              <date>1915-12-31</date>
+              <placeName key="#letters1916_place-0171">In the Field</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Clara Mary Davidson</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1506">Seacourt, Bangor, Co. Down</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0685_img_2177_1"  type="Letter"  url="b7e891dd8d8d6be7cfb2f76bc6a3c830.jpg"/>
+      <graphic xml:id="L1916_0685_img_2177_2"  type="Letter"  url="7f16729e7508035f1e396dcac684fc04.jpg"/>
+      <graphic xml:id="L1916_0685_img_2177_3"  type="Envelope"  url="1032b51bc4c0d8d0e23557b2252d6e00.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0685_img_2177_1"/>
+                31/12/15   My dearest Mother   â It will soon be <lb/>1916 but I am very tired this evening &amp; <lb/> don't intend to sit up &amp; see the New <lb/> Year in.   Your letter of 28<hi rend="underline"><hi rend="superscript">th</hi></hi> arrived <lb/> today â it was a quiet Xmas for you <lb/>all this year but I am glad Mr &amp; Mrs <lb/> Vard were able to be with you. We <lb/>all thought we would be remaining <lb/> here for some little time to come but <lb/>orders have just come that we are to <lb/>move back to our previous area next <lb/>week â probably Thurs. or Friday. Isn't <lb/> it sickening! We had just got things <lb/> nicely fixed up here &amp; now have to return <lb/> to uncomfortable village quarters. I <lb/> think this must be about our 10<hi rend="underline"><hi rend="superscript">th</hi></hi> move <lb/>since we arrived in France 3 months <lb/>ago. When any district requires to be <lb/> cleaned up the 36<hi rend="underline"><hi rend="superscript">th</hi></hi> Div. always seems  
+            <pb n="2" facs="L1916_0685_img_2177_2"/>
+              <lb/>to be selected to do the dirty work. No <lb/> wonder we are known as Carsons travelling <lb/>menagerie.   With love &amp; <lb/>every good wish for the coming year to you<lb/>dear mother &amp; all at home. <seg type="closer"> Your loving son  James </seg> 
+            <pb n="3" facs="L1916_0685_img_2177_3"/>
+              <lb/>On Active Service <lb/>Rcd 4<hi rend="superscript">th</hi> Jany/16   Mrs. S.C.Davidson,  Seacourt,  Bangor,  Co Down,  Ireland  <lb/>J Davidson   
+         </ab>
+      </body>
+   </text>
+</TEI>

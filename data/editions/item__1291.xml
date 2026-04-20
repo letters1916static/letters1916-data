@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1291">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Telegram from Brixton Prison to Gertrude Bannister, 20 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A telegram from Brixton Prison, London, to Gertrude Bannister (later Parry, d. 1950), a cousin of Sir Roger Casement (1864-1916). The telegram informs her that she can visit Casement that day between 11 and 12.30am. It was sent while Casement was imprisoned in Brixton after he had been arrested while landing on the coast of Kerry in a submarine on the eve of the Easter Rising. Bannister was heavily involved in raising public support for Casement during his trial for treason.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casement Papers, Collection List No A15, Ms. 13,075 /1</collection>
+                  <idno>https://letters1916.ie/item/1291</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-05-20</date>
+              <placeName key="#letters1916_place-1123">98 Brixton Road, London, UK</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1365">Gertrude Bannister</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0029">11 Gakley Street, Chelsea, London, UK</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1291_img_502_1"  type="Letter"  url="ca599575fe847faacbe52667ca8e9da0.jpg"/>
+      <graphic xml:id="L1916_1291_img_502_2"  type="Letter"  url="5f3d7173b7d379c3fb9e6070e441677e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1291_img_502_1"/>
+              <hi rend="underline">POST OFFICE TELEGRAPHS</hi><lb/>(Office of Origin and Service Instructions) 98 Brixton Road GHMS <lb/>1044 Centl <lb/>(Handed in at) <seg type="unclear">10.19</seg> (Received here at) <seg type="unclear">10.35</seg>  (TO) Bannister Cheyne Club,  11 Oakley St Chelsea    Your sister and yourself may <lb/>visit your cousin today between <lb/> 11 and 12.30 this morning <lb/>ring 132 Brixton whether coming <lb/>Prison Brixton  
+            <pb n="2" facs="L1916_1291_img_502_2"/>
+               Prison Telegrams  
+         </ab>
+      </body>
+   </text>
+</TEI>

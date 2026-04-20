@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0907">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William J. Thompson to the Under Secretary, 31 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William J. Thompson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Sir William John Thompson (1861 - 1929) M.D., concerning the alleged false registration of the death of Mrs. Mary (Gordon) Meehan in 1898; apparently the death was correctly registered in 1909. The reply from the Under Secretary’s office, to the effect that the matter is in the hands of the police, is also available here.Sir William John Thompson, physician, served as Registrar General for Ireland from 1909 to 1926. He was knighted for his contribution to medicine in 1907.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5618/5713/1</collection>
+                  <idno>https://letters1916.ie/item/907</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1423">William J. Thompson</persName>
+              <date>1916-03-31T00:00:00</date>
+              <placeName key="#letters1916_place-1044">Charlemont House, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0907_img_2522_1"  type="Letter"  url="7a1932fb0c47e6231305a74cb1a1ee30.jpg"/>
+      <graphic xml:id="L1916_0907_img_2522_2"  type="Letter"  url="1f41eb5f8a3040717aa9fcfcda98a54d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0907_img_2522_1"/>
+                General Register Office,  CHARLEMONT HOUSE,  DUBLIN,    31st March, 1916.   Sir,   With reference to my letter of the 24th January last, with <lb/> enclosures relative to the alleged false registration of the <lb/> death of Mrs. Mary (Gordon) Meehan in the year 1898, may I re-<lb/> quest you will be so good as to say whether any action has been <lb/> taken in the matter.  The death in question was  apparently  correctly registered in 1908, <lb/> and the information is required so that the entries in the <lb/> Death Register of Luranboy District may be dealt with in <lb/> accordance with the decision arrived at. <seg type="closer"> I am, Sir,<lb/> Your obedient Servant,  William J Thompson <lb/>Registrar General.   The Under Secretary,  &amp;c., &amp;c.  Dublin Castle.  </seg> Reply that the papers are <lb/> in the hands of the Police <lb/> for inquiring and report as <lb/>  the <seg type="unclear">evidence</seg> available to <lb/> sustain a prosecution.<lb/> 1.4.16  Done<lb/> P.F 3/4.    3/4     
+            <pb n="2" facs="L1916_0907_img_2522_2"/>
+              No. 5713.    3rd April, 1916.   Sir,   In reply to your letter of the 31st ultimo <lb/> regarding the alleged false registration of the death <lb/> of Mrs. May (Gordon) Meehan in the year 1898, I <lb/> am directed by the Lords Justices to inform you that <lb/> the papers are in the hands of the Police for <lb/> inquiry and report as to the evidence available to <lb/> sustain a prosecution. <seg type="closer"> I am, <lb/> Sir,<lb/> Your obedient Servant,<lb/> WPJ <seg type="unclear">Connolly</seg> This is signed.   Located on the bottom left of the document.   The Registrar General,  Charlemont House,   Dublin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

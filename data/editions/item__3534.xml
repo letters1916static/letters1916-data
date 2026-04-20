@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3534">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from R. Renn to Hanna Sheehy Skeffington, circa 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>R. Renn writes to Hanna Sheehy Skeeffington (1877-1946) in 1916. Renn writes on the back of an old flyer regarding buying and selling tickets for the concert.  
+
+Hanna Sheehy Skeffington (1877-1946)  suffragette, nationalist, language teacher, was the founder of the Irish Women’s Franchise League and a founding member of the Irish Women Workers’ Union. She was the widow of Francis Sheehy-Skeffington who was summarily executed on 26 April 1916. She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy-Skeffington Papers, Collection List No. 47; ms 33,604/17-13</collection>
+                  <idno>https://letters1916.ie/item/3534</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3534_img_2938_1"  type="Letter"  url="6975b1a869ac7f43a558b5c93f033d34.jpg"/>
+      <graphic xml:id="L1916_3534_img_2938_2"  type="Letter"  url="c8e7f59ac9c192b2c8f76b63a7f5eead.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3534_img_2938_1"/>
+             1916   Dear Mrs. S.   Have taken 24 <lb/>tickets for Miss Moran <lb/>others ready for post. <lb/>I find there are no stamps <lb/>&amp; its too late to get any. <lb/>However they are time <lb/>enough. dont know <lb/>Ms Burns address <lb/>we can sell tickets at <lb/>next Tuesdays meeting <lb/>we didn't decide about <lb/><seg type="unclear">Gents</seg> first prize. I <lb/>think its better to ask Mrs O'S <lb/>as she's looking after <seg type="unclear">wine</seg> <lb/>Wont forget about room for <lb/>next Friday Enc. for teachers.   <sic>Yrs</sic> always   R. Renn 
+            <pb n="2" facs="L1916_3534_img_2938_2"/>
+             <hi rend="underline">Irishwomen's Reform League</hi>   Mrs. SWANWICK <lb/>will speak on <lb/>"The Women People" <lb/>. . at the . . <lb/>SACKVILLE HALL <lb/>UPPER SACKVILLE STREET, DUBLIN <lb/>. . on . . <lb/>Thursday, 7th Oct., 1915 <lb/><hi rend="underline">At 4.30 p.m.</hi>  <lb/>ADMISSION - - SIXPENCE <lb/>Front Seats—ONE SHILLING <lb/>Tickets can be obtained at 29 South Anne Street, Dublin <lb/>CORRIGAN &amp; WILSON, Sackville Place, Dublin.
+         </ab>
+      </body>
+   </text>
+</TEI>

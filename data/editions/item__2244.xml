@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2244">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Hugh de Fellenberg Montgomery to James Stronge, 3 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Hugh de Fellenberg Montgomery</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Hugh de Felllenberg Montgomery (1844-1924). He was a landowner and politician. Originally a Liberal and a strong supporter of Gladstone, Montgomery was also a firm Unionist, but by 1916 he believed that Ulster Unionists had no choice but to accept Lloyd George&#39;s proposal for a six-county Northern Ireland.
+The letter was addressed to Sir James Henry Stronge (1849-1928), a barrister and prominent Unionist politician. 
+Montgomery is writing to Stronge about a letter which he wrote previously and has been advised to send into the &#39;Times&#39;. Montgomery has decided to keep the letter private but considers it a good starting point for discussion. Montgomery also mentions travel arrangement for the coming week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Montgomery of Blessingborn Papers; D/627/429/23</collection>
+                  <idno>https://letters1916.ie/item/2244</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1402">Hugh de Fellenberg Montgomery</persName>
+              <date>1916-06-03</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">James Henry Stronge</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1924</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2244_img_1688_1"  type="Letter"  url="6b12c564f7afcb16ff64bcf1de9de4ea.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2244_img_1688_1"/>
+            <lb/>Copy  3rd June, 1916.   My dear Stronge,   I enclose you a copy of a letter I wrote about <lb/> ten days ago, and which some people were very anxious I <lb/> should send to the "Times," but which in accordance with <lb/> what I consider the best advice I have kept for private <lb/> circulation. Perhaps you may think it's a good starting <lb/>point for any discussion we may have on Tuesday. You <lb/> may very likely be having preparatory conversations on <lb/> Monday.   I have not yet made up my mind whether I shall <lb/> go to Belfast on Monday night or start from here at <lb/> 5.55 a.m. (4.55 old time) on Tuesday morning. I am going <lb/> down to Kinlough near Bundoran for Sunday, but have to be <lb/> at Aughnacloy for a meeting at 12 on Monday.   Yours very truly, 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2245">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Hugh de Fellenberg Montgomery to John Edward Fowler Sclater, 3 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Hugh de Fellenberg Montgomery</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Hugh de Fellenberg Montgomery (1844-1924). Montgomery was a lawyer and politician. Originally a Liberal and a strong supporter of Gladstone, Montgomery was also a firm Unionist, but by 1916 he believed that Ulster Unionists had no choice but to accept Lloyd George&#39;s proposal for a six-county Northern Ireland.
+The letter is addressed to John Edward Fowler Sclater (1862-1918), a land agent in County Down. 
+The letter concerns a letter, previously written by Montgomery, that Montgomery&#39;s associates have urged him to send into the &#39;Times&#39;. Montgomery has decided to keep the letter private but advises anyone likely to be involved in the &#39;Lloyd George conversations&#39; (talks to reach a settlement on the Irish question) to read it. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Montgomery of Blessingborn Papers; D/627/429/24</collection>
+                  <idno>https://letters1916.ie/item/2245</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1402">Hugh de Fellenberg Montgomery</persName>
+              <date>1916-06-03</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John Edward Fowler Sclater</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1924</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2245_img_1689_1"  type="Letter"  url="937412ba38454d9b8164f32f50b354f4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2245_img_1689_1"/>
+            <lb/>Copy  3rd June,1916.   My dear Sclater ,  I wrote the enclosed letter about ten days ago <lb/>more to blow off steam than anything else. One or two <lb/> leading Unionists in Dublin were very anxious I should get <lb/> it into the "Times". I came to the conclusion, however, <lb/> that as the game now stands it would not be good tactics <lb/>to publish it. I was, however, strongly advised to press <lb/> the contents upon anyone likely to be engaged in the Lloyd <lb/> George conversations. I have sent, copies to Carson and <lb/> Long and one or two to Bates. The letter may perhaps <lb/>serve as a starting point for any discussions we may have <lb/> on Tuesday.   Yours very truly 
+         </ab>
+      </body>
+   </text>
+</TEI>

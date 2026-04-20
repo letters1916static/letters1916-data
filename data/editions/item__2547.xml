@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2547">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Adair “Rosebud” to the Chief Secretary’s Office, 8 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Adair &#39;Rosebud&#39;</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The writer complains that the supplier of piping cannot produce copper piping due to the war but is charging the same price for iron piping. He requests the government intervene. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/5620/13655</collection>
+                  <idno>https://letters1916.ie/item/2547</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1256">William Adair &#39;Rosebud&#39;</persName>
+              <date>1916-08-08</date>
+              <placeName key="#letters1916_place-0999">Portavogie, County Down, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Chief Secretary&#39;s Office</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2547_img_1977_1"  type="Letter"  url="53a544be4384f51a1477b0dbf6a7a8ae.jpg"/>
+      <graphic xml:id="L1916_2547_img_1977_2"  type="Envelope"  url="6f45d50dd62560f3c1257bc9b481cfa3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2547_img_1977_1"/>
+              New Rd<lb/>Portavogie   August 8th 1916    Dear Sir <lb/><lb/>I enclose letter which<lb/>I received from the Kelvin firms<lb/>&amp; I wonder how it is the can't<lb/>produce the copper pipes after<lb/>the war it isn't right that<lb/>the should take the same<lb/>money for the iron pipng so<lb/>I would like you to see<lb/>about it.   Yours respectfully<lb/>Wm Adair. Rosebud  
+            <pb n="2" facs="L1916_2547_img_1977_2"/>
+             To. <lb/>Dublin Castle. <lb/>Co. Dublin 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3711">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Maurice O'Sullivan to The Registrar, Royal College of Physicians of Ireland, 26 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Maurice O&#39;Sullivan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Maurice O&#39;Sullivan asking if RCPI could change his name from Maurice Hennigan O&#39;Sullivan to Maurice Sullivan Smith on the College&#39;s roll. The letter granting approval was initialed by Ephraim MacDowel Cosgrave, RCPI President, and dated 4 February 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T58-1</collection>
+                  <idno>https://letters1916.ie/item/3711</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0719">Maurice O&#39;Sullivan</persName>
+              <date>1916-01-26</date>
+              <placeName key="#letters1916_place-1068">Main Street, Bantry, Co, Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">The Registrar, Royal College of Physicians of Ireland</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0922">Kildare Street, Dublin, Ireland </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3711_img_3101_1"  type="Letter"  url="4dfea4be12f7089ebaabd899728f4788.jpg"/>
+      <graphic xml:id="L1916_3711_img_3101_2"  type="Letter"  url="afe8cb5e27f2b5610e8497b5a65b1e0c.jpg"/>
+      <graphic xml:id="L1916_3711_img_3101_3"  type="Letter"  url="e730f24478ba5e6a7e1dc0bc732ed1bf.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3711_img_3101_1"/>
+             Main St. <lb/>Bantry. <lb/>Co. Cork. <lb/>Ireland.   26/1/16.   Register. <lb/>Royal College of Physicians (Conjoint Board).   Dear Sir,   I wrote to Mr. Roe. 35 Dawson St. <lb/>Dublin, as I want my name on the <lb/>Medical Register altered from <lb/>Maurice Hennigan O'Sullivan of
+            <pb n="2" facs="L1916_3711_img_3101_2"/>
+             P.S. <seg type="del">You have my cheque for 6/2 fee. <lb/>last time I wrote I would like my name <lb/>changed to Maurice Sullivan Fisher. <lb/>I am writing to the Registers of the <lb/>R.C.S.P.I &amp; sending on £2:2:0 fees.</seg> <lb/>I am enclosing a cheque for £1:1:0 fee <lb/>I am writing by the same post to the <lb/>Register of the General Medical Council, <lb/>Dublin. also to the Register of the <lb/>R. College of Surgeons, Dublin.   Hotel Gevalia. <lb/>Upper Woburn Place. <lb/>London. W. C.   1/3/16.   The Register. <lb/>R. College of Physicians Dublin.   Dear Sir,   I would feel grateful if you <lb/>would alter my registered name &amp; address <lb/>from Maurice Hennigan O'Sullivan of <lb/>13 Colebrooke Row, Isington, V. to <lb/>Maurice Sullivan, Hotel Gevalia <lb/>Upper Woburn Place, London. W.C.   I remain, yours faithfully   M. Sullivan.   P.S. over. 
+            <pb n="3" facs="L1916_3711_img_3101_3"/>
+             13 Colebrooke Row. Islington. N. to <lb/>Maurice Sullivan Smith of 53 Bernard <lb/>St. Russell Sq. W.C.   I would feel very grateful if you <lb/>would be good enough to send him <lb/>on a letter saying <seg type="del">the</seg> the name on the <lb/>register has been altered as I desire. <lb/>I am writing by the same post to the <lb/>Register of the Royal College of Surgeons <lb/>also to Mr. Roe.   Thanking you at your very earliest <lb/>convenience.   I remain, <lb/>Yours faithfully,   MM Sullivan. (1907)   Macd.C <lb/>4.II.16 
+         </ab>
+      </body>
+   </text>
+</TEI>

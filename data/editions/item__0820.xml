@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0820">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from Lieutenant Kenneth Power to Mr Cyril Power SJ, 9 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Kenneth Power</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Postcard from Lieutenant Kenneth Power, Prisoner of War at Gütersloh prison camp, Germany to his brother Mr Cyril Power SJ (1890-1980), who was a Jesuit scholastic studying philosophy at Stonyhurst, Lancashire, England. The Gütersloh prison camp postcard displays German censor marks. There is a faint boxed &#39;Eingang 9.5.16&#39; cachet, which means the card entered the German censors&#39; office on 9th May 1916 (where it would stay for a period of ten days ‑ to render useless any secret information sent by the prisoner). The second mark, a boxed &#39;F.a.&#39; stands for &#39;Fristgemass abgefertigt&#39;, which means &#39;Dispatched within stipulated time&#39;. The ringed cachet is the official &#39;Gutersloh Prison Camp&#39; hand-stamp. The postmark (at top right) shows the card entered the postal system on 19th May 1916, which was exactly ten days after it was handed into the camp censors&#39; office. On the reverse, there is a faint &#39;LONDON PAID&#39; receiving mark in red - dated 30th May 1916. Lieutenant Kenneth Power R.F.A. was taken prisoner by the Germans near Hulluch when he was acting as a observing officer with the infantry while stationed in a quarry. Kenneth and Cyril Power were born in Dublin.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IE IJA/J26/12, IE IJA/J26/12</collection>
+                  <idno>https://letters1916.ie/item/820</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1008">Kenneth Power</persName>
+              <date>1916-05-09</date>
+              <placeName key="#letters1916_place-2025">Gütersloh, Germany</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Cyril Power</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0660">Stonyhurst College SJ, Lancashire, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0820_img_2362_1"  type="Enclosure"  url="fec9cc5f69cde86b53a42824f56aca7c.jpg"/>
+      <graphic xml:id="L1916_0820_img_2362_2"  type="Letter"  url="9fa4326d6dac13a8878820f87eefb121.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0820_img_2362_1"/>
+                 <seg type="foreign">Allemagne.</seg>  <seg type="foreign">Offizier-Kriegsgefangenenlager GÃ¼tersloh.</seg>  Germany   My Dear Cyril   Many thanks for all your letters. I find <lb/>it very hard to write as I have only 4 <lb/>postcards a month &amp; have to thank <lb/> people for parcels. I suppose you like <lb/> Ston<seg type="del">e</seg>yhurst, it seems to me you will <lb/>not go to Cambridge for 3 years yet. <lb/>The time here of course goes <sic>slowley</sic><lb/>but all the same passes which is the <lb/>great thing. <seg type="closer"> Love   Ken </seg>  
+            <pb n="2" facs="L1916_0820_img_2362_2"/>
+               GÃ¼tersloh, 9 May 1916  <seg type="foreign">Nom de l'expediteur:</seg>    Lt Ken Power  Haus B, 55  <seg type="foreign"><hi rend="underline">Kriegsgefangenensendung</hi></seg>   Rev C J Power SJ,  Ston<seg type="del">e</seg>yhurst College, SJ Stonyhurst Lancs England    <seg type="foreign">Lieu de destination:</seg><lb/><seg type="foreign">Arrondissement:</seg><lb/><seg type="foreign">Departement (France):</seg><lb/><seg type="foreign">Province(Belgique)</seg>: <lb/><seg type="foreign">Pays:</seg>   
+         </ab>
+      </body>
+   </text>
+</TEI>

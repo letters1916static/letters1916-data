@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0126">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Andrew Philip Magill to Alfred Byrne, 1 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Andrew Philip Magill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Andrew Philip Magill (1871â€“1941) an Irish civil servant, to Alfred Bryne (1882-1956) a member of parliament for the Irish Parliamentary Party in the Dublin harbor. Andrew Philip Magill acted as private secretary to Augustine Birrell (1850-1933), the chief secretary for Ireland. Magill assumed the role in 1913 and continued after the resignation of Birrell in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5729/7</collection>
+                  <idno>https://letters1916.ie/item/126</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0014">Andrew Philip Magill</persName>
+              <date>1916-04-01</date>
+              <placeName key="#letters1916_place-0350">Chief Secretary&#39;s Office, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1405">Alfred Byrne</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0117">63 North Strand Road, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0126_img_1211_1"  type="Letter"  url="326af1964de1fb873b37e47aa1fbf958.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0126_img_1211_1"/>
+              <hi rend="underline">Copy</hi>    1st April, 1916.   Dear Mr. Byrne,   I am desired by Mr. Birrell to acknowledge the <lb/>receipt of your letter of 30th ultimo, and to <lb/>say that he has taken note of your recommendation <lb/>of Mr C. P. O'Neill for appointment as Chief Crown <lb/>Solicitor for Ireland.  <seg type="closer"> Yours faithfully,  (Sd.) A.P.M. <lb/>Under Secy. <lb/>A.P.M. <lb/>1/4/16   Alfred Byrne, Esq., M. P.,  63, North Strand Road,  DUBLIN.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

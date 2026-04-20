@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2282">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Browne to John F. Hogan, 22 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Browne</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Robert Browne (1844–1935), bishop of Cloyne and a former president of St Patrick&#39;s College, Maynooth. The letter is addressed to John Francis Hogan (1858–1918), priest, author, and president of St Patrick&#39;s College. 
+This letter concerns a proposed subscription of the Whitehead memorial grave and Hogan&#39;s paying for the upkeep of the chapel in Maynooth from his own funds.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>St Patrick&#39;s College, Maynooth </repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/2282</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0282">Robert Browne</persName>
+              <date>1916-01-22</date>
+              <placeName key="#letters1916_place-2067">Bishop&#39;s House, Queenstown (Cobh), County Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John F. Hogan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1935</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2282_img_1729_1"  type="Letter"  url="a1fd1719f060c24e1c0c97e9c31f4285.jpg"/>
+      <graphic xml:id="L1916_2282_img_1729_2"  type="Letter"  url="595cf2828ae995c2e8f64f9be30fb2b7.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2282_img_1729_1"/>
+             7/10   Bishop's House,<lb/>Queenstown.    22nd Jan 1916    My Dear President   You say the subscription for<lb/>the Whitehead Memorial grave-<lb/>stone need not be large -<lb/>in fact - that it be small.<lb/>Put me down for what will<lb/>meet your idea of a not large<lb/>subscription and I will pay.  It is very generous, I<lb/><seg type="unclear"></seg>, entirely too generous,<lb/>of you to pay out of your<lb/>own pocket so large a<lb/>sum for repairing defective<lb/>walls <seg type="unclear"></seg> of the College Chapel 
+            <pb n="2" facs="L1916_2282_img_1729_2"/>
+             This ought not to be.  The structures of the college<lb/>must be kept in good<lb/>repair by College funds.  It was a different thing<lb/>when we were building<lb/>up the structure &amp;<lb/>furnishing it.  Delighted to hear that<lb/>all goes well - you need<lb/>patience in your office,<lb/>and patience will bear away<lb/>the victory ultimately -  Yours faithfully<lb/>Robert Browne<lb/>Bp. <hi rend="underline">of Clyne</hi>  <!-- Writing on the left hand side of the letter. --> Right Rev<lb/><hi rend="underline">Mgr.</hi> Hogan     
+         </ab>
+      </body>
+   </text>
+</TEI>

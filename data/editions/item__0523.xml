@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0523">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from W.S. Lennon to Sarah Mallin, 7 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>W.S. Lennon</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Major W.S. Lennon, commandant at the Kilmainham Detention Barracks, to Sarah Mallin (c. 1854 - 1928) on the eve of her son&#39;s execution. Lennon advises Sarah that her son wishes to see her and that he is sending a motor car for her conveyance. Sarah Mallin (née Dowling) was the mother of Michael Mallin (1874 - 1916). Michael led the Citizen Army force that occupied St Stephen&#39;s Green on Monday 24 April, digging trenches in the park and erecting barricades on the surrounding roads. Mallin was tried by court martial in Richmond barracks on 5 May and sentenced to death. He was shot by firing squad in Kilmainham jail on 8 May 1916 and buried at Arbour Hill.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Museum of Ireland</repository>
+                  <collection>HE, EW.1234</collection>
+                  <idno>https://letters1916.ie/item/523</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0710">W.S. Lennon</persName>
+              <date>1916-05-07</date>
+              <placeName key="#letters1916_place-0376">Detention Barracks, Kilmainham, Dublin, Irealnd</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Agnes Mallin née Hickey</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1680">20 High Road, Kilmainham, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0523_img_1895_1"  type="Letter"  url="15e2c74ee81adcc23ca09ed8c5dcdfc3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0523_img_1895_1"/>
+                7 May 1916    Mrs Mallon 20 High Rd Kilmainham   Madam   Your son Michael Mallon desires to <lb/> see you. I am sending a motor car <lb/> for your conveyance <seg type="closer"> I am Madam Your obedient servant <lb/> W.S. Lennon <lb/> Major<lb/> Com<hi rend="superscript">dt.</hi></seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

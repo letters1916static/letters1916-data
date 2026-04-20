@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3842">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Arthur Stanley to Thomas Kirkpatrick, 28 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Arthur Stanley</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Sir Arthur Stanley (1869-1947) to Thomas Percy Kirkpatrick (1869-1954) regarding the establishment of a college of nursing. Stanley writes that several associations have agreed to support the college and encloses a list of those who have consented to join the council.
+
+
+Sir Arthur Stanley was a philanthropist. In 1916 Stanley founded the College of Nursing with Dame Sarah Swift and became the first chairman of the college council. Additionally, Stanley served as chairman of the British Red Cross Society&#39;s committee from 1915 and was actively involved with the Star and Garter Home for Disabled Sailors and Soldiers.
+
+From 1910 until 1954 Thomas Kirkpatrick served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-3-15-6</collection>
+                  <idno>https://letters1916.ie/item/3842</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1166">Arthur Stanley</persName>
+              <date>1916-03-28</date>
+              <placeName key="#letters1916_place-1511">83 Pall Mall, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0544">Thomas Percy Kirkpatrick</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1947</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3842_img_3222_1"  type="Letter"  url="9ce656b9cc76bb1a18269aba2d37b955.jpg"/>
+      <graphic xml:id="L1916_3842_img_3222_2"  type="Enclosure"  url="c4ca299521908acf4fa81353e25403d5.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3842_img_3222_1"/>
+              Dear Sir,   I sent you the Memorandum and Articles of<lb/>Association as requested in your letter dated the 26th<lb/>instant.  We had a satisfactory Meeting of various<lb/>Associations on Friday last and I am glad to say that<lb/>several Associations have agreed to support the College<lb/>among others being the Royal British Nursing Association<lb/>and the Societies representing the Scottish Nurses.<lb/>With the exception of one small group I think we shall<lb/>get practical unanmity. I also enclose a list of<lb/>those who have consented to join the council. We<lb/>have still some places to fill up and I hope that we may<lb/>have a representative of Ireland.   <hi rend="underline">Yours faithfully</hi>,<sic></sic>   Arthur Stanley  T. Percy FitzPatrick Esq., R.C.P.I.    
+            <pb n="2" facs="L1916_3842_img_3222_2"/>
+             LIST OF PROPOSED COUNCIL OF   THE COLLEGE OF NURSING  Miss Gill. Edinburgh Royal Infirmary.  Miss Haughton. Guy's Hospital.  Miss Lloyd Still. St. Thomas's   Miss McIntosh. St. Bart's   Miss Montgomery. Middlesex   Miss Nowat. Whitechaptel Infirmary.  Miss Paget. Direct representative C.M.B.  Miss Ray. King's College Hospital.  Miss Sparshott. Manchester Royal Infirmacy.  Miss Swift. Matron-in-Chief. Joint War Committee B.R.C.S. &amp; O.S. J.J.  Miss Vincent. Leicester Royal Infirmary.  Miss Seymour Yapp. Poor Law Hosp. Ashton-under-Lyne  Comyns Berkeley Esq., M.D., M.C., F.R.C.P.  Sir Cooper Perry, M.D., F.R.C.P.  The Hon.A.Stanley, M.P., M.V.O.,  Dr. Turney.  Dr. Jane Walker. 
+         </ab>
+      </body>
+   </text>
+</TEI>

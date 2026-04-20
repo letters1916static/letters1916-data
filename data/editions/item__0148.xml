@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0148">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Andrew Philip Magill to Sir Edward, 5 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Andrew Philip Magill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter for Andrew Philip Magill (1871–1941), an Irish civil servant, to Sir Edward. The letter concerns the state of the Jacob&#39;s Biscuit Factory after the 1916 Easter Rising. Magill inquires whether Jacob&#39;s will resume business as a friend of his has cargo for the factory but if the factory will not resume business he will sell the items elsewhere as they are perishable. During Easter Week Jacob&#39;s Biscuit Factory served as one of the occupied sites for the 2nd Battalion under Commandant Thomas MacDonagh. Jacob’s was by-passed by the main action as General Lowe decided to concentrate on the GPO and the Four Courts which he considered the more strategically important of the positions held by the insurgents. News of the surrender did not reach Jacob’s until Sunday. MacDonagh and the garrison surrendered reluctantly. The three most senior officers, MacDonagh, MacBride and O’Hanrahan, were executed.In 1916 Andrew Philip Magill (1871 - 1941) was working as a civil servant and held the position of private secretary for successive chief secretaries of Ireland until his transfer to the Northern Irish Civil Service in 1921.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/7645/2</collection>
+                  <idno>https://letters1916.ie/item/148</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0014">Andrew Philip Magill</persName>
+              <date>1916-05-05</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Edward</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0558">Bishop Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0148_img_1270_1"  type="Letter"  url="e247a404a060e9f0c1feb32f649e58b3.jpg"/>
+      <graphic xml:id="L1916_0148_img_1270_2"  type="Letter"  url="9392727a58f531777d5ea8c3a248ddc5.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0148_img_1270_1"/>
+                5/5   Dear Sir Edward   Keating in P.<lb/> is very anxious to<lb/> know whether Jacobs<lb/> is still standing &amp; if so<lb/> whether they propose to<lb/> resume business<lb/> at once. A friend of his<lb/> has a cargo of<lb/> stuff for Jacobs &amp; if  
+            <pb n="2" facs="L1916_0148_img_1270_2"/>
+              they can't use it he<lb/> proposes to sell it<lb/> elsewhere as it is<lb/> perishable. Can you<lb/> wire me any <lb/> information tomorrow. <seg type="closer"> Yours in haste <lb/> A. P. Magill </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0121">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Rundle to Mr Campbell, 4 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William John Rundle</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from William John Rundle (b.1865) to Mr. Campbell. The letter contains the details of Rundle&#39;s whereabouts from Saturday 22 April to 1 May, the weekend prior to, and the week in which, the Easter Rising took place. Rundle states he spent most of his time at his private address or on patrol. Rundle&#39;s record of patrol was given to his local Officer Training Corp unit. The corp, nicknamed the &#39;Gorgeous Wrecks&#39; owing to the &#39;Georgious Rex&#39; badges they wore and their advanced age, were a voluntary training militia.The Georgeous Rex volunteers suffered several casualties, including the death of IRFU president Francis Browning (1868-1916), during the fighting at Mount Street Bridge. Irish Volunteers stationed at 25 Northumberland Road fired upon them as they returned from training exercises in the Wicklow mountains.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/04051916/1</collection>
+                  <idno>https://letters1916.ie/item/121</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0741">William John Rundle</persName>
+              <date>1916-05-04</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mr Campbell</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0121_img_1205_1"  type="Letter"  url="8741807a890a043004ddd11b9bd08ada.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0121_img_1205_1"/>
+                <hi rend="underline">R.H. Office</hi>   Mr Campbell,   From Saturday April 22<hi rend="superscript">nd</hi> until <lb/>noon Monday May 1st I was in Bray. <seg type="del">Some</seg> Most <lb/> of the time was spent at my private address <lb/>3 Brennan's Terrace, but each night I went <lb/> on patrol duty for a limited time <seg type="unclear">minding</seg><lb/> the Royal Irish Constabulary. For this please <lb/> refer to the District Inspector, Mr H. Molony. <seg type="closer"> W. J. Rundle,   4th May 1916.  </seg><seg type="postscript"> P.S. My services on patrol were given as a member <lb/>of the local GR corps. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3670">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from A. J. Cockington, 25 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>A. J. Cockington</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from A.J. Cockington on behalf of the General Council of Medical Education &amp; Registration for the United Kingdom concerning a list of names that were erased from the medical register at the session which was held on 24th November 1915.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T47-3</collection>
+                  <idno>https://letters1916.ie/item/3670</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0269">A. J. Cockington</persName>
+              <date>1915-11-25</date>
+              <placeName key="#letters1916_place-0329">299 Oxford Street, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0320">Royal College of Physicians of Ireland</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3670_img_3064_1"  type="Letter"  url="7c4d63f299f1d78e5455d1b5e383b01b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3670_img_3064_1"/>
+             <hi rend="underline">CONFIDENTIAL.</hi>  General Medical Council Office,<lb/>299, Oxford Street,<lb/>LONDON, W.   November 25, 1915.   <hi rend="underline">ERASURES FROM THE MEDICAL AND DENTISTS REGISTERS.</hi>  In continuation of my previous circular letters on the<lb/>subject, I send you a list of names which were erased from and restored<lb/>to, the Medical Register by order of the General Medical Council at<lb/>the Session held on November 2-4, 1915.  The attention of the Licensing Bodies is called to the<lb/>General Medical Council's Standing Orders, as set forth hereunder, in<lb/>regard to Erasures from the Medical Register and the Dentists Register:—  The Council recommends that no person whose name has been<lb/>once removed from, and has not been restored to, the Medical Register<lb/>shall, without previous reference to the General Medical Council, be<lb/>admitted to Examination for any new Qualification,  The Council recommends that no person whose name has been<lb/>once removed from, and has not been restored to, the Dentists Register<lb/>shall, without previous reference to the General Medical Council, be<lb/>admitted to Examination for any new Qualification—  Alterations since the issue of the last printed List<lb/>dated June 4, 1915.  <hi rend="underline">Additions to List of Erasures, Medical Register.</hi>  RAI, Dhanpat ex M.R.C.S. Eng. 1901; ex L.R.C.P. Lond. 1901.<lb/>BURKE, Ulick Joseph L., L.M. 1896, R.C.P. Irel.; L., L.M. 1896, R.C.S. Irel.<lb/>HAYNES, Edmund Lyall L.S.A. Lond. 1888; M.R.C.S. Eng. 1888;<lb/>L.R.C.P. Lond. 1888.  <hi rend="underline">Names removed from the List of Erasures from the</hi><lb/><hi rend="underline">Medical Register on account of Restoration thereto.</hi>  ORR, James Morrison M.D. R.U. Irel. 1882.<lb/>ROCHE, Thomas Francis L.F.P.S. Glasg. 1892.  <hi rend="underline">Dentists Register.</hi><lb/>No change.   A.J. COCKINGTON<lb/>Acting Registrar.  
+         </ab>
+      </body>
+   </text>
+</TEI>

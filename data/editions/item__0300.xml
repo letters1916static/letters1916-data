@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0300">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Maeve Cavanagh to Herbert Henry Asquith, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Maeve Cavanagh</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Maeve Cavanagh (d. 1960) was proclaimed the &#39;poetess of the revolution&#39; by James Connolly and sister of cartoonist Ernest Cavanagh who was shot dead on steps of Liberty Hall, a civilian casualty during the Easter Rising. This letter, sent to British Prime Minister Herbert Henry Asquith (1852-1928), accompanies a petition requesting a reprieve of the death sentence of Sir Roger Casement (1864-1916) in which she points out the wide variety of respectable people who have signed it and mentions many more who are to follow. Casement had been arrested on Banna Strand, County Kerry, on the eve of the Easter Rising and sentenced to death for treason. He was hanged on 3 August 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casement Papers, Collection List No. A15, Ms. 13,088/9</collection>
+                  <idno>https://letters1916.ie/item/300</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0394">Maeve Cavanagh</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0582">Herbert Henry Asquith</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0503">No.10, Westminster, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0300_img_1518_1"  type="Letter"  url="b13495f2a1ed9f278ef9a3eb0fad9997.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0300_img_1518_1"/>
+              Copy  Petition with 900 names    To the Prime Minister,    I have come over from Dublin with the enclosed <lb/> signatures to be added to the petition asking for reprieve <lb/> of the death sentence on Sir Roger Casement.  May I draw your attention to the significant fact <lb/> that amongst these are -<lb/> 25 members Dublin Corporation<lb/> Citizens of Dublin. Clerks, shop assistants &amp; Labourers.<lb/> Also retired Judge of Supreme Court S. Africa.<lb/> Teachers from 35 towns.<lb/> Chairman and 9 members of the Carlow Urban District <lb/> Council.<lb/> Members of the A.O.H.<lb/> Chairman of the Town Tenants League, Carlow.<lb/> Priests and people of Tullamore, including J.P's and <lb/> County Councillors and the President of the Trade and<lb/> Labour <seg type="del">A</seg> Society.<lb/> 50 members of the Irish women Workers Union.<lb/> There are many more names to follow as I have<lb/> been besieged with requests for forms at the last<lb/> moment. People in Ireland have only just begun<lb/> to realise the hideous possibility of the carrying out of<lb/> the death sentence on one of the most beloved and    
+         </ab>
+      </body>
+   </text>
+</TEI>

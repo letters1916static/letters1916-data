@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0087">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Major E. A. Andrews to Military Authorities, May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>E.A. Andrewes</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a pass issued by the military to Edward Walsh (d. 1935), an employee of the Great Southern and Western Railway at Kingsbridge Station (now Heuston Station), to allow him to travel in Dublin in the aftermath of the Easter Rising. Walsh was living on North Circular Road and was also a colleague of Seán Heuston (1891-1916) who was executed for his part in the Rising. Heuston addressed one of his last letters to Walsh. Also pasted above is another similar pass issued to Walsh around the same time.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Seán T. O&#39;Kelly Collection, BMH CD/95/2/8</collection>
+                  <idno>https://letters1916.ie/item/87</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0569">E.A. Andrewes</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0600">Headquarters, 59th Division, North Circular Road, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0087_img_1161_1"  type="Letter"  url="90ff7b87d5157945282f838852da1238.jpg"/>
+      <graphic xml:id="L1916_0087_img_1161_2"  type="Letter"  url="90ff7b87d5157945282f838852da1238.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0087_img_1161_1"/>
+             <seg type="head"><hi rend="underline">20</hi> TO MILITARY AUTHORITIES CONCERNED.- </seg> Mr E. Walsh 62 N.C.Rd. The bearer <lb/> is an employee of G.S.W.R. and is authorised to enter and leave the <lb/> Kingsbridge station in the execution of his duties. <seg type="closer">Specimen of Signature E Walsh <lb/>L Crasre Lt.Cel. <lb/> for O.C. Troops Kingsbridge </seg> 
+            <pb n="2" facs="L1916_0087_img_1161_2"/>
+                Headquarters  59th Division,  North Circular Road,Dublin    Please pass bearer Mr. E. Walsh(62 Nth. Circular Rd.) <lb/>daily anywhere in Dublin City and County. <seg type="closer"> E. A. Andrewes <lb/>Major.<lb/> for G.O.C. Troops in Dublin.</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

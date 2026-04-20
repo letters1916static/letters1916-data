@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5741">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Hannah Murphy, 21 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Hannah Murphy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Hannah Murphy to an unknown recipient. Hannah starts off the letter saying that a policeman is asking her for money for her child that is in a home of some kind and she explains how she has no money. In the letter Murphy pleads with the recipient to get her children back, as she has no company when her husband is off fighting, although it is not fully clear where the children are one can assume that that had been put in a home because the family had little money. Murphy describes how she wished to have them back now and that she would pay for them in the home if she could afford it but does not earn enough. She asks for the recipients help in the matter.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3922</collection>
+                  <idno>https://letters1916.ie/item/5741</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1222">Hannah Murphy</persName>
+              <date>1916-01-21</date>
+              <placeName key="#letters1916_place-1107">14 Francis Street, Tralee, County Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5741_img_841_1"  type="Letter"  url="f1ac0024652ff3c29e35b6c08248abd8.jpg"/>
+      <graphic xml:id="L1916_5741_img_841_2"  type="Letter"  url="b2eb4b2a44b50ab56523e79d964e582f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5741_img_841_1"/>
+             Tralee,   Feb 21, 1916   Dear Sir   I am <lb/> writing you this note to <lb/> let you <sic>now </sic> that Mrs <lb/> <seg type="unclear">Neayer</seg> the policeman is <lb/> <sic>comming</sic> to me for money <lb/> for my child Francis that <lb/> is in the Limerick home <lb/> as I <sic>cant</sic> afford to pay <lb/> for her the <sic>sepertation</sic> I am <lb/> getting at present is only 9 shillings a week it <sic>dont</sic> <lb/> nearly pay my board <lb/> or way I cant get any thing <lb/> for my self out of it <lb/> so Dear Sir I would be <lb/> very thankful to you if <lb/> you would send me
+            <pb n="2" facs="L1916_5741_img_841_2"/>
+            a note to show it to Mr <lb/> <seg type="unclear">Neayer</seg> that I cant afford <lb/> to pay for the child. if <lb/> I was able I would sir. <lb/> Dear sir if the chief would <lb/>let out the little girl or <lb/> the boy that is here in Tralee <lb/> as I have no one in the <lb/> world as company with <lb/> me I would get <lb/> <sic>seperation</sic> for them one of them would <lb/> be great company with <lb/> me hoping he will <sic>answere</sic> <lb/> this note may God send <lb/> him good <seg type="del">luck</seg> luck.   yours Faithfully  hannah <lb/> Murphy    address <lb/> Mrs hannah Murphy <lb/> 14 Francis Street <lb/> Tralee Co, Kerry   3922/4 
+         </ab>
+      </body>
+   </text>
+</TEI>

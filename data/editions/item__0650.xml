@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0650">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J.F. William to Sir Neville Francis Fitzgerald Chamberlain, the Inspector General of the RIC May 26, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J.F. William</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from J.F. William to Neville Francis Fitzgerald Chamberlain regarding Louis Herman&#39;s application for citizenship of the United Kingdom. Sir Neville Francis Fitzgerald Chamberlain (1856-1944) army officer and inventor of snooker. In 1900 Chamberlain was appointed inspector-general of the Royal Irish Constabulary in an attempt to revitalize the senior ranks of the force. He was made a KCB in 1903 and KCVO in 1911.Unimpressed by the value of the intelligence gathered by the Royal Irish Constabulary, Major-General Sir Arthur Paget, general officer commanding Ireland, requested the appointment of a replacement for Chamberlain, whom he described as ‘a man lacking in character and initiative’, in the event of martial law being imposed (Paget to J. E. B. Seely, 23 March 1914, Beckett, 336). There were further moves to replace him early in 1916 as the situation in Ireland deteriorated, but he remained to lead the force at the time of the Easter rising. The Hardinge commission of inquiry commended Chamberlain&#39;s handling of the rising, but criticisms of the constabulary&#39;s intelligence failures continued, and he was replaced in July 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered papers, CSO-RP-1916-5615-9035</collection>
+                  <idno>https://letters1916.ie/item/650</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0751">J.F. William</persName>
+              <date>1916-05-26T00:00:00</date>
+              <placeName key="#letters1916_place-1017">The Home Office, Whitehall, London, England.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None"> Sir Neville Francis Fitzgerald Chamberlain</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0650_img_2125_1"  type="Letter"  url="83483d70a4216d75e73a02f630f06770.jpg"/>
+      <graphic xml:id="L1916_0650_img_2125_2"  type="Letter"  url="7a46de99605409ed5cfb671d13bfa70e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0650_img_2125_1"/>
+                HOME OFFICE,  WHITEHALL,    May 26th, 1916.   Sir,   I am directed by the Secretary of State of refer to <lb/>your report of the 23rd June 1915, on the application of <lb/>Louis Herman for a Certificate of Naturalization and to <lb/>enquire whether it still holds good and whether you are <lb/>aware of any obligation to the grant of a Certificate in <lb/>this case.  <seg type="closer"> I am, <lb/>Sir, <lb/>Your obedient Servant,   J.F. William <lb/>Inspector General, <lb/>R. I. C. <lb/>For report as to 'A' above   The Under Secretary,  Dublin Castle  </seg> 
+            <pb n="2" facs="L1916_0650_img_2125_2"/>
+                Cork,31.5.1916    Please prefix your <lb/>report <lb/>C. Walsh <lb/> <lb/>D.I. <lb/>Cork South   
+         </ab>
+      </body>
+   </text>
+</TEI>

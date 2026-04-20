@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0941">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Nevin to the Longford Urban District Council [December 1915]</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Nevin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from John Nevin to the Longford Urban District Council concerning the collection of rent in Longford.John Nevin (b. 1866) was Town Sergeant from Longford. The Longford Urban District Council was the towns local authority and was renamed the Longford Town Council in 2002.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Longford County Archives Service</repository>
+                  <collection>Longford Urban District Council,, LUDC-1-3-1915-12-7</collection>
+                  <idno>https://letters1916.ie/item/941</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0806">John Nevin</persName>
+              <date>1915-12</date>
+              <placeName key="#letters1916_place-1493">Longford, Co, Longford, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-2059">Longford Urban District Council, Co. Longford, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0941_img_2747_1"  type="Letter"  url="10868cda011d923d681ea1f627617138.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0941_img_2747_1"/>
+               Mr Chairman &amp; Gentlemen   I beg to report that I have collected rent <lb/>for the past month, to the amount of Â£35.1.10 <lb/>which I lodged to credit of Council as follows:- <lb/>Rent Â£29.9.2 and rates Â£5.13.8.  The lamps were lighted from the 1<hi rend="superscript">st</hi> to the 7<hi rend="superscript">th</hi><lb/>and from the 27<hi rend="superscript">th</hi> to the 30<hi rend="superscript">th</hi>, on the 12<hi rend="superscript">th</hi> there <lb/>were 54 lamps out wing to the storm. <seg type="closer"> Your obdt. Servant  John Nevin </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

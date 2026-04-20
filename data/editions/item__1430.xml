@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1430">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Corporal W. Bowes to Lady Clonbrock, 18 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Corporal W. Bowes</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from prisoner of war, Corporal W. Bowes, Connaught Rangers, to Lady Clonbrock (1839-1928). Bowes thanks Lady Clonbrock for the bread she had sent him and assures her that he is in &#39;good order.&#39;Augusta Caroline Dillon (née Crofton) was the wife of Luke Gerald Dillon (1834-1917), the 4th Baron of Clonbrock, Co. Galway and the daughter of Lord Crofton of Mote Park (Edward Henry Churchill Crofton, 3rd Baron), Co. Roscommon. Aged 75 at the outbreak of war, Lady Clonbrock, worked closely with the Irish Women&#39;s Association to send basic necessities to Irish POWs. Many of her care packages went to members of the Connaught Rangers imprisoned in Limburg near Cologne.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Collection List No 54, Ms 35796/14</collection>
+                  <idno>https://letters1916.ie/item/1430</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1093">Corporal W. Bowes</persName>
+              <date>1916-10-18</date>
+              <placeName key="#letters1916_place-0160">Germany</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0049">Lady Clonbrock</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1043">Ahascragh, Galway</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1430_img_85_1"  type="Letter"  url="1dab155b672c0069c1ba80a7d49234de.jpg"/>
+      <graphic xml:id="L1916_1430_img_85_2"  type="Letter"  url="c9afb9e72dc5da0a4abc5d4823015c70.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1430_img_85_1"/>
+               With Compliments   <seg type="foreign">Bureau de secours</seg>  <seg type="foreign">aux </seg>  <seg type="foreign">prisonniers de guerre</seg>  <seg type="foreign">SECTION ANGLAISE</seg>  BERNE   The Bureau has not <lb/>replied to Prisoner, <lb/>G Mh, Room 9.    I am very pleased <lb/>to Acknowledge that I <lb/>received one Parcel of Bread <lb/>in very Good Order on <lb/>October 16th 1916 â <hi rend="underline">I feel <lb/>very thankful to the Sender </hi> <seg type="closer"> Yours Respectfully <lb/> 29 SEPT 1916 </seg> Please always give your Regiment and <lb/>regimental No. and notify us at once any <lb/>change in your address.   
+            <pb n="2" facs="L1916_1430_img_85_2"/>
+              <lb/>October <seg type="unclear">18 <hi rend="superscript">th</hi></seg>1916   8828 Cpl W Bowes   Connaught Rangers,   <seg type="foreign">Gustrow In Mecklinburg,</seg> Germany    Right side   The  Lady Clonbrock,  Clonbrock,   Ahascragh,   Ireland.   <seg type="foreign">(Irlande)</seg>    
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2966">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Wilfrid Spender to his wife Lady Lillian Spender, 15 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Wilfrid Spender to his wife Lillian that the 16th (Irish) Division will not be placed in the same corps as the Ulster Division, contrary to previous reports he had heard, and much to his relief. He also expresses anticipation of a coming opportunity to take his leave and visit home.
+
+This letter is part of a series of correspondence from Captain Sir Wilfrid Bliss Spender to his wife Lady Lillian Spender née Dean, (1880-1968). The letters date mainly from 1915 to 1918, when Sir Wilfrid was serving in France. The letters concern politics, the Irish question, personal life, and Wilfrid&#39;s experience of the Great War.
+
+Sir Wilfrid Spender (1876 - 1960) was a member of the British Army until 1913 when controversy surrounding his signature of the Ulster Solemn League and Covenant resulted in his resignation. Spender was called up for military service in 1914, and served as an officer of the Ulster Division until 1916. Throughout the war, Spender remained in contact with the Ulster Unionist leadership, and consistently opposed Home Rule and the six-county solution. Lady Lillian was an organiser of the Ulster Division Comforts Fund during the war, and a member of the Ulster Volunteer Nursing Corps.
+
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Lady Spender&#39;s Correspondence, D1633/1/1/104</collection>
+                  <idno>https://letters1916.ie/item/2966</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0667">Wilfrid Spender</persName>
+              <date>1915-12-15</date>
+              <placeName key="#letters1916_place-0769">France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lillian Spender</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1960</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">Politics</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2966_img_2371_1"  type="Letter"  url="04c54d39fcda1c6babba26db6d404ee3.jpg"/>
+      <graphic xml:id="L1916_2966_img_2371_2"  type="Letter"  url="1eac668cbc83db498b240dda67f4244d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2966_img_2371_1"/>
+             15 Dec   Latest report is that <lb/> the 16th will not be joined <lb/> with us thanks be.   Please let SW E or Lady C know.   I shall be careful of <lb/> those reports in future; <lb/> but it is just as well <lb/>that he should get the <lb/> earliest information possible <lb/> so as to take action in time. <lb/> A good many "mishaps" have <lb/>been prevented by skotching the
+            <pb n="2" facs="L1916_2966_img_2371_2"/>
+            thought before it hatched <lb/> into a deed (eg Haldram <lb/>at the War Office!)   I know Genl intends <lb/> going on <seg type="unclear">leave</seg>  1st Jan<hi rend="superscript">y </hi>   This is very exciting!   Gricy may go next week <lb/>&amp; either Rus <lb/>or Ri too perhaps?   What an excited <lb/> pr! old BW rather <lb/>bored at the prospect of <lb/> a sea voyage ahead, but there <lb/>may be compensations e.g <lb/> fish &amp; poultry, I think rabbits are <lb/> included in poultry, tho’ rather <lb/> not find out of course!   WB Spender   The BW. 
+         </ab>
+      </body>
+   </text>
+</TEI>

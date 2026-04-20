@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1280">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Dora Shorter to Gertrude Bannister, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Dora Shorter</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Dora Shorter (née Sigerson) to Gertrude Parry (née Bannister), a cousin of Sir Roger Casement (1864-1916). The letter refers to arrangements for a meeting between the two. It was written while Casement was imprisoned in Pentonville Prison. Casement had been had been arrested after landing at Banna Strand, County Kerry, on the eve of the Easter Rising.Bannister was heavily involved in raising public support for Casement during his trial for treason. Dora, wife of literary critic Clement Shorter, was a friend of Casement.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casement Papers, Collection List A15, Ms. 10,075/1</collection>
+                  <idno>https://letters1916.ie/item/1280</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1393">Dora Shorter</persName>
+              <date>1916</date>
+              <placeName key="#letters1916_place-0643">Knockmaroon, Great Missenden, Buckinghamshire, UK</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1365">Gertrude Bannister</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1280_img_483_1"  type="Letter"  url="286bf3f2afc13752c7902adfdc3f1d33.jpg"/>
+      <graphic xml:id="L1916_1280_img_483_2"  type="Letter"  url="52d197ef5fb5d9a984cb986ec5fb5186.jpg"/>
+      <graphic xml:id="L1916_1280_img_483_3"  type="Letter"  url="f9e299a4a399244632ab1b72d5a07d2b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1280_img_483_1"/>
+                Telephone No. P.O.9.  Cnoch mo RÃºin  Knockmaroon, Great Missinden, Buckinghamshire    Tuesday.   Dear Miss Bannister   I shall be in town <lb/> on Friday, and shall be glad <lb/> to call upon you about 4.30. <lb/> I shall be in your direction so do <lb/> not bother writing if you have <lb/> an engagement. I know you are  
+            <pb n="2" facs="L1916_1280_img_483_2"/>
+              very busy and will chance <lb/> finding you in. <seg type="closer"> Yours sincerely  <hi rend="underline">Dora Shorter</hi> </seg> 
+            <pb n="3" facs="L1916_1280_img_483_3"/>
+              Letter from <lb/> Dora Shorter  
+         </ab>
+      </body>
+   </text>
+</TEI>

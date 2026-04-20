@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0912">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Albert Augustus Wynne to Mr Oliver, c. May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Albert Augustus Wynne</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Alice Katherine Wynne (1833-1928), written on behalf of her husband, to a Mr Oliver. The letter describes Albert Augustus Wynne&#39;s confidence in the garden facilities and the gardener that will be made available to rent by Mr Oliver. Alice Katherine Wynne was born to Reverend John George Wynne and Emily Goold. She was married to Albert Augustus Wynne and was the mother of five children, among them Charles Wyndham Wynne. Charles served as a captain in the Royal Garrison Artillery in the First World War. He was killed in action in June 1917.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Trinity College Dublin</repository>
+                  <collection>, TCD MS 10247/1/670</collection>
+                  <idno>https://letters1916.ie/item/912</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0838">Albert Augustus Wynne</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0385">Tignney House, Avoca, Co Wicklow, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mr Oliver</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0912_img_256_1"  type="Letter"  url="cdcaa6b2fc5b84fafacc6c644649ab76.jpg"/>
+      <graphic xml:id="L1916_0912_img_256_2"  type="Letter"  url="30fe609520774164e0ad133cc169f392.jpg"/>
+      <graphic xml:id="L1916_0912_img_256_3"  type="Envelope"  url="ddb8d217d6e03f045d078b28c5d93ef3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0912_img_256_1"/>
+               Dear Mr. Oliver,   I write for my husband <lb/> who is still laid up in bed. <lb/> He is ready to let the house on <lb/> the condition you mention in your <lb/> letter previous to that of the 13 <hi rend="superscript">th</hi>. <lb/> He is willing to abandon the stip- <lb/> ulation of 3 months 'eviction' <lb/> provided the 'evicted' months <lb/> shall be Aug. Sept. instead of <lb/> July Aug <hi rend="superscript">st</hi>. &amp;and thinks that this <lb/> can in no case to be disadvanta- <lb/> geous to you â-   He sees many difficulties as to <lb/> the cow &amp; hopes that you will <lb/> settle not to bring her. <seg type="unclear">Doulu</seg> etc <lb/> About the garden he will <lb/> give the gardener orders that <lb/> you are to be supplied first <lb/> with what you require for <lb/> yr family, but after you are <lb/> fully supplied, the gardener  
+            <pb n="2" facs="L1916_0912_img_256_2"/>
+              may deal with the rest according <lb/> to Mr W's orders.   Mr Wynne is anxious to meet <lb/> your wishes as far as possible <lb/> but you will understand <lb/> that as it seems quite likely <lb/> that yr tenancy will only be <lb/> for two months, it wl be <lb/> unreasonable to expect the <lb/> farm &amp; garden routine to <lb/> be upset for the short time <lb/> I do not think that you will <lb/> have any difficulties with <lb/> our gardener â- he has been in <lb/> charge during many tenancies <lb/> &amp; our tenants have always <lb/> found him most obliging <lb/> I may mention that I enâ <lb/> quired from Dr Wylie about <lb/> the price of milk â Mr <seg type="unclear">Hiver</seg><lb/> must have been mistaken <lb/> for he says he always pays <lb/> 3 <hi rend="superscript">d</hi> per quartâ   
+            <pb n="3" facs="L1916_0912_img_256_3"/>
+               If undelivered return to :- <lb/> DAILY MAIL <lb/> DEANSGATE MANCHESTER     A. A. WYNNE, ESQ  TIGNNEY HOUSE,  AVOCA,   CO WICKLOW.    
+         </ab>
+      </body>
+   </text>
+</TEI>

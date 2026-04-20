@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2003">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Telegram from Hay Clonbrock to Lord and Lady Clonbrock, 18 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Hay Clonbrock</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Telegram addressed to Augusta Caroline Dillon (née Crofton), Lady Clonbrock (1840-1928), and her husband, Luke Gerald Dillon, 4th Baron Clonbrock (1834-1917), on the occasion of their golden wedding anniversary in July 1916. Lady Clonbrock was also a prominent member of the Irish Women&#39;s Association, founded to provide aid and assistance to Irish soldiers and prisoners of war
+
+The telegram was sent by &#39;Hay&#39; Dillon, possibly Harriet Dillon a sister of the 4th Baron and a correspondent of Lady Clonbrock.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No 54; Ms. 35,793 (9)</collection>
+                  <idno>https://letters1916.ie/item/2003</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1144">Hay Clonbrock</persName>
+              <date>1916-07-18</date>
+              <placeName key="#letters1916_place-1669">Woodlawn, Galway</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lord and Lady Clonbrock (Augusta Caroline Dillon (née Crofton) and Luke Gerald Dillon, 4 th Baron Clonbrock)</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1502">10 Cadogan Gardens, London</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2003_img_145_1"  type="Letter"  url="f67b6bd6aa36de5515066c542d145ef4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2003_img_145_1"/>
+             Woodlawn Galway  <lb/>Handed in at 12.15pm Received here at 2.10pm  To Lord and Lady Clonbrock <lb/>10 Cadogan Gdns Chelsea <lb/><sic>Ldn</sic> SW   Heartiest congratulations,   Hay Clonbrock 
+         </ab>
+      </body>
+   </text>
+</TEI>

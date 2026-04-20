@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1641">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Company Mobilisation Order from P.H. Pearse to F. Sheridan, 20 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Henry Pearse</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a mobilisation order for the 4th Battalion of the  Irish Volunteers, Dublin Brigade, assembling at Rathfarnham Chapel on Easter Sunday, 1916, at 2.45pm. It specifies the equipment, arms, and rations to be carried and advises that anybody who has a bicycle or motor cycle should bring it.
+
+Patrick Pearse (1879-1916), was a writer, a teacher and one of the leaders of the Easter Rising, 1916. He was a key member of the IRB military council, a signatory of the proclamation of the Irish Republic (which he read outside the GPO). As president of the provisional government, it was Pearse who called the surrender. He along with 15 others, was executed shortly after surrender.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Brother Allen Collection BMH CD/75/1</collection>
+                  <idno>https://letters1916.ie/item/1641</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0291">Patrick Henry Pearse</persName>
+              <date>1916-04-20</date>
+              <placeName key="#letters1916_place-1590">Irish Volunteers Dublin Brigade, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">F. Sheridan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0353">Rathfarnham, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1916</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1641_img_1102_1"  type="Letter"  url="4d23006adbe8d8abf65bb7dc024c73c7.jpg"/>
+      <graphic xml:id="L1916_1641_img_1102_2"  type="Envelope"  url="539e0df786601bf95feeff98174d65db.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1641_img_1102_1"/>
+             <lb/>IRISH VOLUNTEERS. COMPANY MOBILISATION ORDER.<lb/>DUBLIN BRIGADE.  The E. Coy., 4th Batt., will mobilise <seg type="del">today</seg>  Easter Sunday  at the hour<lb/>of 2.45 p.m.<lb/>Point of Mobilisation Rathfarnham Chapel<lb/>Full Service Equipment to be worn, including overcoat, haversack, water-<lb/>bottle, cantee, full arms &amp; ammunition.<lb/>Rations for eight hours to be carried.<lb/>Cycle Scouts to be mounted, and ALL men having cycles or motor cycles to<lb/>bring them.  P.H. Pearse  <lb/>Captain or Officer Commanding<lb/>Dated this  20th day of April, 1916  
+            <pb n="2" facs="L1916_1641_img_1102_2"/>
+             F. Sheridan <lb/>Rathfarnham. 
+         </ab>
+      </body>
+   </text>
+</TEI>

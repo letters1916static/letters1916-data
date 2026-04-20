@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3619">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Lillian Metge to Hanna Sheehy Skeffington, 10 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Lillian Metge</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Lillian Metge (1871-1954) to Hanna Sheehy Skeffington (1877-1946), expressing her grief over the murder of Hanna&#39;s husband, Francis. . 
+
+Lillian M. Metge was a militant suffragist, a member of the Women&#39;s Social and Political Union, and a contributor to the &#34;Irish Citizen.&#34;
+
+Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the founder of the Irish Women’s Franchise League and a founding member of the Irish Women Workers’ Union. She was the widow of Francis Sheehy-Skeffington who was summarily executed on 26 April 1916. She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy-Skeffington Papers, Collection List No.47; MS 33,605/3-18</collection>
+                  <idno>https://letters1916.ie/item/3619</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0067">Lillian Metge</persName>
+              <date>1916-05-10</date>
+              <placeName key="#letters1916_place-1129">21 Brook Street, Shrewsbery, Shropshire, UK</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="death">1954</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3619_img_3018_1"  type="Letter"  url="e3b905654a04cb1365e31eaa7dba19b6.jpg"/>
+      <graphic xml:id="L1916_3619_img_3018_2"  type="Envelope"  url="500305ecae24dd5028fad01d7029bf66.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3619_img_3018_1"/>
+             10 May 1916   21 Brook St<lb/>Shrewsbury   Am desolate in your desolation.<lb/>Every day since Monday week<lb/>have tried to wire you &amp;<lb/>been refused — Courage!<lb/>Comrade on the Quest Divine<lb/>all the sustaining sympathy<lb/><sic>your</sic> <sic>capapable</sic> of is with<lb/>you — All our friends here<lb/>greet you &amp; will do our bit.  We will guarantee £10 if you<lb/>can come over &amp; see MPs —<lb/>What is J.F.L. doing? Please tell<lb/>them to write me.   <hi rend="underline"><seg type="unclear">Lln</seg> Metge</hi> </p
+            <pb n="2" facs="L1916_3619_img_3018_2"/>
+             Mrs Sheehy Skeffington<lb/>11 Grosvenor Place<lb/>Rathmines<lb/>Dublin 
+         </ab>
+      </body>
+   </text>
+</TEI>

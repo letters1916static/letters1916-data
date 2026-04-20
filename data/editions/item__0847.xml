@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0847">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Unsigned note, 28 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is an unsigned, handwritten note request from the Royal College of Surgeons, which read &#39;Please arrange for meal for 23 men here today at 3 p.m.&#39; The Royal College of Surgeons Citizen Army garrison during Easter Week was led by Commandant Michael Mallin (1874-1916) and his deputy, Countess Constance Markievicz (1868-1927).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, Green Autograph Book 1, IE/AL/GAB1/107</collection>
+                  <idno>https://letters1916.ie/item/847</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-04-28</date>
+              <placeName key="#letters1916_place-1491">Royal College of Surgeons, St. Stephen&#39;s Green, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0847_img_2406_1"  type="Letter"  url="cf00510b1bfc81898e730d4f0659abc8.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0847_img_2406_1"/>
+                NO. DATE  <hi rend="underline">28 Apr</hi>  TIME <time><hi rend="underline">11.15 AM</hi></time>   PLACE <hi rend="underline">Turkish Baths</hi>  TO <hi rend="underline">C/o of Commissariat</hi>    PLACE <hi rend="underline">College of Surgeons</hi>    Please arrange for meals for <lb/> 23 men here today at 3PM.   
+         </ab>
+      </body>
+   </text>
+</TEI>

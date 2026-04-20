@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5464">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Susan Fitzgerald to Michael Gorman, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Susan Fitzgerald</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Michael Gorman was one a large Catholic family living at a farm in Ballinalug, County Laois (then Queen’s County). Susan Fitzgerald (d. 1980) was one a Church of Ireland family living in Raheenahone House near Stradbally, County Laois, also in the Slieve Bloom mountains. At the time the letter was written they were involved in a courtship but owing to the religious difference the love affair had to be kept secret. Eventually both were in Dublin: he in the Albert Agricultural College in Glasnevin (where he eventually became Professor of Agricultural Botany and Biochemistry) and she as a volunteer nurse in the Royal Hospital in Baggot Street. They eventually went to London to marry.
+The letter was written after Susan had arrived in Dublin as part of the Voluntary Aid Detachment, a voluntary group established to provide nursing to wounded British army soldiers. She refers to Michael as a &#39;horrid cod&#39; for not coming to see her and asks that he visit tomorrow.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Michael Gorman</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/5464</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1259">Susan Fitzgerald</persName>
+              <date>1916</date>
+              <placeName key="#letters1916_place-0451">27 Lower Mount Street, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Michael Gorman</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1251">Albert Agricultural College, Glasnevin, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="death">1980</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5464_img_496_1"  type="Letter"  url="7c5668924ebbe0383bcba9f9301ed62a.jpg"/>
+      <graphic xml:id="L1916_5464_img_496_2"  type="Envelope"  url="442c52531137557069ef2ec5c2414738.jpg"/>
+      <graphic xml:id="L1916_5464_img_496_3"  type="Letter"  url="71be81b1476e30ed8e2dcb4c13870357.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5464_img_496_1"/>
+             <hi rend="underline">27 Lr. Mount Street</hi>   Dearest Mickie   You are a horrid <lb/>cod not to have come <lb/>down on Thursday &amp; <lb/>I intended going on <lb/>Friday &amp; spend the <lb/>day looking out <lb/>for you   <lb/>come down tomorrow <lb/>no matter how wet <lb/>Im drenched at <lb/>present   Love   Sue  <lb/>Come to Mount Street
+            <pb n="2" facs="L1916_5464_img_496_2"/>
+             M.J. Gorman Esq <lb/>Albert College <lb/>Glasnevin <lb/>Dublin 
+            <pb n="3" facs="L1916_5464_img_496_3"/>
+             IF USED FOR TRANSMISSION TO ANY PLACE ABROAD TO WHICH THE 1d. RATE <lb/>OF LETTER POSTAGE DOES NOT APPLY, THE ADDITIONAL POSTAGE REQUIRED <lb/>SHOULD BE PREPAID BY MEANS OF ADHESIVE POSTAGE STAMPS. 
+         </ab>
+      </body>
+   </text>
+</TEI>

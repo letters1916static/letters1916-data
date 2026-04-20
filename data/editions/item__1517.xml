@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1517">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Annie Curran to Nancy O'Rahilly, 10 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Annie Curran</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>his is a letter of condolence from Annie Curran to Nancy O&#39;Rahilly (1875-1961). The writer expresses her sympathy and that of her family and the people of Ventry for Mrs. O&#39;Rahilly on the death of her husband.Nancy O&#39;Rahilly was a member of the Provisional Council of Cumann na mBan at the founding in 1914 and the wife of Michael Joseph O&#39;Rahilly, self-described as &#39;The&#39; O&#39;Rahilly (1875-1916). The O&#39;Rahilly fought in the Easter Rising and was shot in Parnell/Moore Street on 28 April 1916 and died some time later. Nancy was pregnant at the time of her husband&#39;s death – the child was born three months later.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Humphreys Papers, P106/120/18</collection>
+                  <idno>https://letters1916.ie/item/1517</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0550">Annie Curran</persName>
+              <date>1916-05-10</date>
+              <placeName key="#letters1916_place-0991">Ventry, Co. Kerry, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1534">Nancy O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1517_img_977_1"  type="Letter"  url="bf6ed3bd794dd45e57cc0104ba22b94c.jpg"/>
+      <graphic xml:id="L1916_1517_img_977_2"  type="Letter"  url="21968d7e79f0728d3f95599b190d8f4a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1517_img_977_1"/>
+                Ventry.    May 10th 1916   Dear Mrs. O'Rahilly,   It is with feelings of <lb/> deepest regret we learned of <lb/> the death of your dear noble <lb/> husband.   May God &amp; His Blessed <lb/> Mother comfort you &amp; those dear <lb/>to you in this you bitter hour <lb/> of trial.   My father, mother, brothers  
+            <pb n="2" facs="L1916_1517_img_977_2"/>
+              &amp; sisters join with me in sending <lb/> this sincerest sympathy.  <seg type="closer"> Yours in deepest sympathy  Annie Curran </seg> P.S. the people of Ventry express <lb/> their sorrow for your trouble.   
+         </ab>
+      </body>
+   </text>
+</TEI>

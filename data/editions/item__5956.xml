@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5956">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert A. Johnson, Royal Mint, to Edward Carter Preston, 30 January 1923</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert A. Johnson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Liverpool Record Office</repository>
+                  <collection>Edward Carter Preston Collection, 730 PRE 4/7/8</collection>
+                  <idno>https://letters1916.ie/item/5956</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0328">Robert A. Johnson</persName>
+              <date>1923-01-30</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Edward Carter Preston</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5956_img_None_1"  url="php7jxdDj.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5956_img_0_1"/>
+             730 PRE 4/7/3   30th January, 1923.    Dear Carter Preston,   Many thanks for yours of the 27th. I am so<lb/>glad that you are prepared to have a go at the Great Seal.<lb/>By all means make models if you prefer, and, as I said<lb/>before, a Great Seal is not a thing which should be<lb/>hurried, and if it takes you to the end of April to<lb/>complete, we must be prepared for that.  As regards the size of the models, <seg type="del">we suggest</seg><lb/><seg type="del">that </seg>although the Seal itself is ultimately to be 5 in<lb/>diameter, we would suggest that the models should be<lb/>7 or 8.  Believe me,   Yours sincerely,    Robert A. Johnson     E. Carter Preston Esq.    
+         </ab>
+      </body>
+   </text>
+</TEI>

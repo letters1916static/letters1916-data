@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0346">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Copy of letter from Patrick Pearse to his mother Margaret Pearse, 3 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Henry Pearse</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a copy of the last letter Pearse wrote to his mother before his execution. In the letter he says goodbye to his mother and siblings and refers to financial affairs and some poems he has written. He also writes that he has received Holy Communion, that he is prepared to die and claims that &#39;people will say hard things of us now but later on they will praise us.&#39;Patrick Henry Pearse (1879-1916) was a writer and school headmaster. A key member of the military council of the IRB who planned the Easter Rising, Pearse was one of the signatories of the proclamation of the Irish republic (largely his own writing), which he read outside the GPO after the outbreak of the Rising. As president of the provisional government Pearse called the surrendered and was executed on 3 May 1916. Pearse&#39;s mother, Margaret Pearse (1857-1932) kept Pearse&#39;s school, St Enda&#39;s, open after his death and was later elected as a TD.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Simon Donnelly Collection, BMH CD/64/3/1</collection>
+                  <idno>https://letters1916.ie/item/346</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0291">Patrick Henry Pearse</persName>
+              <date>1916-05-03</date>
+              <placeName key="#letters1916_place-1076">Kilmainham Gaol, Inchicore, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1330">Margaret Pearse</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Last letters before death</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0346_img_1580_1"  type="Letter"  url="1aa8537f8b82e84af62f2f5fe3890847.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0346_img_1580_1"/>
+                Kilmainham,    3rd May, 1916   Dearest Mother,   I have been hoping that it would be possible to see you<lb/> again but it does not seem possible. 'Good-bye' dear dear mother<lb/> Through you I say good-bye to wow-wow, M.B Willie and Miss Byrne<lb/> and everyone at St. Endas. I hope and believe that Willie and the<lb/> St. Enda boys are safe.  I have written two papers about financial affairs and one<lb/> about my book which I want you to get. With them are a few poems<lb/> which I want added to the poems in MSS in the large bookcase. You<lb/> asked me to write a little poem which would seem to be said about<lb/> me by you. I have written it and one copy is in Arbour Hill<lb/> Barracks with <sic>ither</sic> and Fr. Aloysis is taking charge of <lb/> another copy.  I have just received Holy Communion. I am happy except<lb/> for the great grief of parting with you. This is the death I should<lb/> have asked for if God had given me the choice of all deaths to die a <lb/> soldiers death for Ireland and for God. We have done right. People<lb/> will say hard things of us now but later on they will praise us. Do<lb/> not grieve for all this but think of it as a sacrifice which Dad has<lb/> asked of you and us. Good-bye again dear Mother and may God bless <lb/> your great love of me and for your great faith and may he remember <lb/> all you have suffered so bravely. I hope soon to see Papa and in a <lb/> little while we shall all be together again.  Wow, Wow, Willie, Brigid and Mother good-bye I have not<lb/> words to tell you of my love for you or how my heart yearns for you<lb/> all. I will call you in my heart at the last moment. <seg type="closer"> Your son  PAT. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

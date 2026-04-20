@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0611">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from T.H. Milroy to the under-secretary, 8 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>T.H. Milroy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Thomas Hugh Milroy (1869-1950), Professor of Physiology at Queen&#39;s University Belfast to Sir Matthew Nathan (1862-1939), Under-Secretary for Ireland. In May 1916 Nathan resigned as Under-Secretary, along with his Chief-Secretary Augustine Birrell, as a consequence of the outbreak of the Easter Rising.Milroy&#39;s letter is a response to correspondence arising from his submission of his annual Return of Experiments. In the letter he writes that he had omitted to mention that the animals used in the experiments were killed before recovery from anaesthesia.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/4381</collection>
+                  <idno>https://letters1916.ie/item/611</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0258">T.H. Milroy</persName>
+              <date>1916-03-08T00:00:00</date>
+              <placeName key="#letters1916_place-0948">Physiology Department, Queen’s University, Belfast, Northern Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0611_img_2028_1"  type="Letter"  url="dfe51514b8e6ca2a2ab1bba1d1a69d31.jpg"/>
+      <graphic xml:id="L1916_0611_img_2028_2"  type="Letter"  url="db2d1366a100b6a8fe078f60c89f9799.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0611_img_2028_1"/>
+                Physiology Dep <hi rend="superscript">mt</hi>  Queen's University   Belfast     8 <hi rend="superscript">th</hi> March 1916      The Under Secretary   Dublin Castle  <lb/>Reply to communication N <hi rend="superscript">o</hi> 3445   Sir     I regret that, through <lb/>inadvertence I omitted to <lb/>state on my 'Return of <lb/>Experiments' that the animals <lb/>(rabbits) operated on during <lb/>anaesthesia and under Certificate <lb/>C were killed before recovery <lb/>from the anaesthesia. I have <lb/>now stated this on my 'Return'.   
+            <pb n="2" facs="L1916_0611_img_2028_2"/>
+              <seg type="closer"> I am <lb/>Yours faithfully    T. H. Milroy </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

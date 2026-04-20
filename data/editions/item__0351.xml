@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0351">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Bertram Cubitt to Matthew Nathan, 23 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Bertram Cubitt</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Bertram Cubitt (1862-1942) of the British War Office to Matthew Nathan (1862-1939), under-secretary for Ireland. The letter requests permission for army funds to be used in order to pay a secretary&#39;s wages.Sir Matthew Nathan was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered papers, CSO RP/1916/8860/1</collection>
+                  <idno>https://letters1916.ie/item/351</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1354">Bertram Cubitt</persName>
+              <date>1916-05-23</date>
+              <placeName key="#letters1916_place-0405">War Office, London, United Kingdom</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0107">Dublin Castle, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0351_img_1586_1"  type="Letter"  url="f2ca60399bc9f6d0a017839ff0a6108a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0351_img_1586_1"/>
+              Any further communication on this <lb/> subject should be addressed to â <lb/> The Secretary, <lb/> War Office, <lb/> London, S.W., <lb/> and the following number quoted. <lb/> B.M. 5920 (F.2)     War Office,  London, S.W.     23rd May 1916.   Sir,   I am commanded by the Army Council to acquaint <lb/> you that, in connection with the loan of the services of <lb/> Mr. G.P. Kurten <hi rend="underline">of your Department</hi> to the Department of <lb/> Recruiting for Ireland under the Lord Lieutenant, it has been <lb/> represented that this gentleman was in receipt of an <lb/> allowance of Â£100 a year as private secretary to the Under <lb/> Secretary, and that his services were lent to the Department <lb/> for two months, his allowance being paid by the Under <lb/> Secretary. Mr Kurten was then seconded by the Under <lb/> Secretary for one month (January 1916), and for that month <lb/> the Lord Lieutenant agreed that the allowance at the rate of <lb/> Â£100 per annum should be borne by the Department of Recruiting <lb/> for Ireland.  As the expenses of the Department, including the <lb/> above allowance, are being charged against Army funds, the <lb/> Council would be glad to be informed, before proceeding to <lb/>obtain Treasury authority for payment of the allowance, of the <lb/> exact status and pay of this gentleman, and whether the Chief <lb/> Secretary concurs in the arrangment. <seg type="closer"> I am, <lb/>Sir, <lb/>Your obedient Servant,  BB Cubitt   The Under Secretary,  Chief Secretary's Office,  Dublin Castle.  </seg> Mr. Holland <lb/> On what date <lb/> did Mr. Kurten <lb/> cease to draw the <lb/> allowance of Â£100 <lb/> as P. Secy.? <lb/> J.L.T. <lb/> 25. <hi rend="underline">V. 16.</hi><lb/> Mr. Taylor, <lb/> 31 Dec. 1915. <lb/><seg type="unclear">P.u.d</seg>. <lb/> 25/5/16  
+         </ab>
+      </body>
+   </text>
+</TEI>

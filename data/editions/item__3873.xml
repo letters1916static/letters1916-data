@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3873">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Father Willie Doyle S.J. to Fr Provincial Thomas V. Nolan, 25 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Willie Doyle</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Irish Jesuit Chaplain, Fr Willie Doyle SJ (1873-1917) to Father Provincial Thomas V. Nolan SJ (1867-1941) informing Nolan of his safe arrival in France. 
+
+Fr Willie Doyle served as a military chaplain with the 8th Battalion of the Royal Irish Fusiliers, 16th Irish Division. In April 1916 he was recommended for the Military Cross (MC) for helping to dig wounded men out of a collapsed shelter under fire. He moved to the 8th Battalion, Royal Dublin Fusiliers around Christmas, 1916. He was killed during the third battle of Ypres while going to the aid of a wounded man near Frezenberg and his body was never recovered. His name is commemorated on the Tyne Cot memorial, Zonnebeke, Belgium.
+
+Fr. Thomas V Nolan was the Provincial of the Irish Province of the Society of Jesus (1912-1922) and was a member of the Distribution Committee which looked after the welfare and distribution of the the Belgian refugees who arrived in Ireland as a consequence of the First World War. During the Easter Rising Nolan was based at St Francis Xavier’s, Upper Gardiner Street and, alongside Rector Fr John Fahy SJ, risked his life in aiding the wounded and supplying local areas with food and milk.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IE-IJA-CHP1-14-4</collection>
+                  <idno>https://letters1916.ie/item/3873</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1272">Willie Doyle</persName>
+              <date>1916-02-25</date>
+              <placeName key="#letters1916_place-1867">8th Royal Dublin Fusiliers, British Expeditionary Force, France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas V. Nolan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0036">Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1917</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">Faith</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3873_img_3253_1"  type="Letter"  url="bb468ad8256abba6a3a59cda5dee3b84.jpg"/>
+      <graphic xml:id="L1916_3873_img_3253_2"  type="Letter"  url="fe9e8d37d7e41e7a1d8377faf1ac09e3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3873_img_3253_1"/>
+             CHPI/14 (4)   B.E.Force<lb/>8<hi rend="superscript">th </hi>R.I.Fusiliers    25/2/'16    Dear Fr Provincial<lb/>P.C.   A line to let<lb/>you know of my safe<lb/>arrival in France. After<lb/>an uneventful crossing followed<lb/>by a 23 hour journey in the<lb/>train we reached our destination<lb/>at eleven at night, only to find<lb/>that we had a twelve mile<lb/>march before we reached our<lb/>billlets. On the road, one of<lb/>the officers suggested that I<lb/>should get off on one of the  
+            <pb n="2" facs="L1916_3873_img_3253_2"/>
+             4 (4)  very comfortable quarters in a<lb/>small convent, the good Sisters<lb/>being kindness itself. Unfortunately<lb/>we leave tomorrow as it is snowing<lb/>heavily and it is intensely cold.  I heard yesterday that Fr Wrater<lb/>has just met with a nasty accident.<lb/>His horse backed into a river,<lb/>reared up and fell on him,<lb/>cutting his head rather badly,<lb/>though nothing serious, but he<lb/>might very easily have been<lb/>drowned.  I am very glad to be out,<lb/>though our experience so far has<lb/>been very trying &amp; we are evidently<lb/>in for a hard time and, as far<lb/>as I can judge, I shall have<lb/>abundance of work  <lb/>Asking a remembrance in your<lb/>Reverence's holy sacrifice<lb/> Believe me<lb/>Yours obediently in xT<lb/>W.Doyle S.J.  
+         </ab>
+      </body>
+   </text>
+</TEI>

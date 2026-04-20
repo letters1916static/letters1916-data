@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0077">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Ernest Blythe, Brixton Prison, to George Gavan Duffy, 29 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Ernest Blythe</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Earnest Blythe (1889-1975) to George Gavin Duffy (1882-1951) stating that he has heard nothing since he made his representations about his case a fortnight before. He asks if there is anything else he can do. Gavan Duffy had been acting for Ernest Blythe, organiser for the Irish Volunteers. Blythe had been arrested under the Defence of the Realm Act. He was released from prison in England before the Easter Rising but was rearrested there during Easter week 1916. Only the first page of this letter has survived.George Gavan Duffy was an Irish politician, barrister and judge. He unsuccessfully defended Roger Casement at his trial for high treason after the Easter Rising. Earnest Blythe was an organiser for the Irish Volunteers. He had been arrested under the Defence of the Realm Act. He was released from prison in England before the Easter Rising but was rearrested there during Easter week 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, George Gavan Duffy Collection, BMH CD/45/3/11</collection>
+                  <idno>https://letters1916.ie/item/77</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1286">Ernest Blythe</persName>
+              <date>1916-05-29</date>
+              <placeName key="#letters1916_place-0091">Brixton Prison, England.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0467">George Gavan Duffy</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0077_img_1146_1"  type="Letter"  url="98e941d66a1257b47a471baac29b7387.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0077_img_1146_1"/>
+              In replying to this letter, please write on the envelope: -    Number <hi rend="underline">3134</hi> Name <hi rend="underline">E. Blythe</hi>  Brixton Prson    29 May 1916   Dear Mr. Gavan-Duffy,   I have <lb/>not yet heard anything <lb/> of my representations to <lb/> the Home Secretary although <lb/> nearly a fortnight has <lb/>elapsed. Can any further <lb/>steps be taken or must <lb/>I simply wait? Perhaps   
+         </ab>
+      </body>
+   </text>
+</TEI>

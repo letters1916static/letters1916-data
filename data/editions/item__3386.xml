@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3386">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from T. Greany to Mr Hanstock, 20 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>T. Greany</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from T. Greany to Mr Hanstock refarding pension of John Murhill. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>UCC Library Special Collections and Archives</repository>
+                  <collection>The Bantry Estate Collection BL/EP/B/1931/11</collection>
+                  <idno>https://letters1916.ie/item/3386</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1427">T. Greany</persName>
+              <date>1916-07-20</date>
+              <placeName key="#letters1916_place-1046">Muckross, Killarney, Co. Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mr Hanstock</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3386_img_2799_1"  type="Letter"  url="3d84dc13dbe1126f2e394556f7e41bb1.jpg"/>
+      <graphic xml:id="L1916_3386_img_2799_2"  type="Letter"  url="019b98c478b4aa1163f72a077497aee4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3386_img_2799_1"/>
+             ESTATE OFFICE, <lb/>MUCKROSS, <lb/>KILLARNEY.   20<hi rend="superscript">th</hi> July 1916   Dear Mr Hanstock,   Many thanks for your <lb/>letter of 5<hi rend="superscript">th</hi> inst, enclosing <lb/>cheq. value £3.18.0 in discharge <lb/>of Pension for Old John Murhill <lb/>from Lady Ardilaum for Quarter <lb/>ending 24<hi rend="superscript">th</hi> June 1916. Please find <lb/>receipt enclosed.   Mrs Williams, (Mrs Ross's second <lb/>daughter) is managing the Muckross <lb/>Hotel, for her brother Jack, who <lb/>is "somewhere in France", the <lb/>Management is, unfortunately, <lb/>very light work, as there is scarcely <lb/>a Tourist coming here this season.   Many thanks for your kind <lb/>inquiries about my health. I am, <lb/>thank God, keeping well.   With kind regards &amp; hoping
+            <pb n="2" facs="L1916_3386_img_2799_2"/>
+            you &amp; yours are in the enjoyment <lb/>of the best of good health.   I am <lb/>Yours very <seg type="unclear">truly</seg>    TM.Greany 
+         </ab>
+      </body>
+   </text>
+</TEI>

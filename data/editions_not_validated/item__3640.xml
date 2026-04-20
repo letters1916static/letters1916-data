@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3640">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fellow & Registrar, Royal College of Physicians of Ireland to Charles Benson, 3 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Fellow and Registrar, Royal College of Physicians of Ireland</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from the Royal College of Physicians of Ireland (RCPI) to Charles Molyneux Benson (1877-1919) regarding the damage done to the Royal College of Surgeons during Easter Week. The RCPI offer the use of their buildings if necessary.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-13-171</collection>
+                  <idno>https://letters1916.ie/item/3640</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0845">Fellow and Registrar, Royal College of Physicians of Ireland</persName>
+              <date>1916-06-03</date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1084">Charles Molyneux Benson</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1965">Royal College of Surgeons of Ireland, Stephen's Green, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3640_img_3037_1"  type="Letter"  url="584a74129b775c82d273d27f7fb1cc30.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3640_img_3037_1"/>
+             3rd JUNE 16.   C.M.Benson, Esq., M.D., <lb/>Secretary to Council, R.C.S.I.   Dear Sir,   I am directed by the President and Fellows of the <lb/>Royal College of Physicians of Ireland to forward you a <lb/>copy of the following resolution passed at a meeting of <lb/>the College held yesterday : <lb/>Resolved : "That the President and Fellows of the Royal <lb/>College of Physicians of Ireland have heard with regret <lb/>of the damage done to the Royal College of Surgeons during <lb/>the recent rebellion. The President and Fellows trust <lb/>that if necessary the President and Council of the Royal <lb/>College of Surgeons will avail themselves of the hospitality <lb/>of this College."   I remain, <lb/>yours faithfully,  <lb/>Fellow &amp; Registrar.
+         </ab>
+      </body>
+   </text>
+</TEI>

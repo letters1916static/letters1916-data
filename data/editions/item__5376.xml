@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5376">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Rose O'Donnell to Ellen Daly [1923]</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Rose O&#39;Donnell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry Library Archives</repository>
+                  <collection>Charlie Daly Collection, P41/24/7</collection>
+                  <idno>https://letters1916.ie/item/5376</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1562">Rose O&#39;Donnell</persName>
+              <date>1923</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1168">Ellen Daly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1124">McNally, Main Street, Ballybofey, Co Donegal, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Civil War (1922-1923)</item>
+               <item n="topic">Faith</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Civil War (1922-1923)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5376_img_4661_1"  type="Letter"  url="726e1e576c0b403f61ac19d4a56e977f.jpg"/>
+      <graphic xml:id="L1916_5376_img_4661_2"  type="Letter"  url="7193f447743919a22552f3dd070d07b7.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5376_img_4661_1"/>
+             <lb/>  Mc Nallys<lb/>Main St<lb/>Ballybofey    Dear Mrs Daly      It is hard to have to<lb/>address you on such a sad sad occasion<lb/>as this. And I am sure you will wonder<lb/>why I did write sooner but I really could<lb/>not settle <sic>my self</sic> atall. I never believed<lb/>they would execute them <seg type="del">atall</seg> but one must<lb/>be prepared for the worst and hope for the<lb/>best nowadays. I cannot <sic>realize</sic> that<lb/>C is really gone but all we can do now<lb/>is pray for him and all the other poor<lb/>fellows. He sent me out these papers of<lb/>their trial for to send on to you. He said<lb/>he would like to have them to look at when<lb/>he would be free again but alas he will never 
+            <pb n="2" facs="L1916_5376_img_4661_2"/>
+             <lb/>Look at them now. "God's will be done" and>lb/> now Mrs Daly as I am<seg type="del">so</seg>, so sorry, I cannot <lb/> explain my grief. in fact all the people <lb/> around here are in an awful state about it <lb/> I will conclude <seg type="del">wishing</seg> hoping you will not <lb/>worry yourself too much. Please accept my <lb/> deepest <sic>emypathy.</sic>    I remain your sincerely <lb/>Rose ODonnell 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0605">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas Ennion to the county inspector, Howth, 7 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Ennion</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Thomas Ennion to the County Inspector in Howth, Co. Dublin. Ennion writes to inform the County Inspector that a German national, with addresses in Killiney and Kingston in County Dublin, who is a shareholder in Lever Brothers, has written to that company seeking monies due to him. The German national had also indicated that it was his intention to return to Germany the following week. Thomas Ennion (b. 1872) was a police superintendent with the Cheshire Constabulary in England. He stayed with the police force into the 1930s.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/2204</collection>
+                  <idno>https://letters1916.ie/item/605</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1550">Thomas Ennion</persName>
+              <date>1916-06-07</date>
+              <placeName key="#letters1916_place-0583">Berkinhead, Cheshire, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">County Inspector</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0647">Howth, County Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0605_img_2017_1"  type="Letter"  url="947f7e1c441bc62a05932a262a70418d.jpg"/>
+      <graphic xml:id="L1916_0605_img_2017_2"  type="Letter"  url="4e6cd42e0b9137857b643f7e5576f510.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0605_img_2017_1"/>
+              No. 2204    Cheshire Constabulary  Birkenhead Station    17<hi rend="superscript">th</hi> June 1916   Sir   Messrs Lever Bro<hi rend="superscript">s</hi> Portsunlight<lb/> Cheshire have received a letter from<lb/> a shareholder Herman Wilhelm Otto<lb/> Marhgraf whose address is shown<lb/> as Ballinclea Killiney Co Dublin<lb/> and   Northumberland Avenue<lb/> Kingstown Co Dublin requesting <lb/> payment of certain amounts due to <lb/> him  The writer states he is leaving<lb/> on Monday next for Germany  I send this for your information <seg type="closer"> I am <lb/> Sir<lb/> Your obedient Servant <lb/> <hi rend="underline">T Ennion</hi> <lb/>Superintendent<lb/> The County Inspector<lb/> Howth</seg> 
+            <pb n="2" facs="L1916_0605_img_2017_2"/>
+              Howth <seg type="unclear">8<hi rend="superscript">6</hi>76</seg>  I think it wiser to send this to you than to<lb/> the D I at Dundrum. Time<lb/> is so short.  A.S.G.  <lb/> C <seg type="unclear">Commission</seg>  <hi rend="underline">D.M.P</hi>  
+         </ab>
+      </body>
+   </text>
+</TEI>

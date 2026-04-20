@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3596">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Royal College of Physicians of Ireland to Aimai Cooper, 1 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from the Royal College of Physicians of Ireland (RCPI) to Dr Aimai Maneckji Cooper informing her that the name &#39;Grace&#39; will be removed from her title on the college roll as per her request. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-13-164</collection>
+                  <idno>https://letters1916.ie/item/3596</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-06-01</date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1219">Aimai Maneckji Cooper</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0111">Ilford, Essex, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3596_img_2996_1"  type="Letter"  url="27a6a2c81413fa650f41a3ad2d87eff7.jpg"/>
+      <graphic xml:id="L1916_3596_img_2996_2"  type="Letter"  url="c6232ff483fd7eae869ee3dd7365d2d0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3596_img_2996_1"/>
+             1st JUNE 16.   Miss Aimai M.Cooper,L.R.C.P.&amp; S.I., <lb/>Ilford, Essex.   Dear Madam,   I am directed by the President and Fellows of the Royal <lb/>College of Physicians of Ireland to inform you that in com- <lb/>pliance with your request conveyed through your solicitor Mr. <lb/>M.F.Cahill, they have instructed me to erase the name "Grace" <lb/>in the roll of Licentiates of the College and accordingly your <lb/>name will read "Aimai Maneckji Cooper" on the College Roll. <lb/>I shall advise the General Medical Council and alter and return <lb/>your diplomas as soon as I hear from you.   I am, <lb/>Dear Madam, <lb/>Yours faithfully,  <lb/>Fellow &amp; Registrar.
+            <pb n="2" facs="L1916_3596_img_2996_2"/>
+            Midwives Bill Pro
+         </ab>
+      </body>
+   </text>
+</TEI>

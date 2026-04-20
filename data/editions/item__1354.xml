@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1354">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Dillon to Mabel FitzGerald, 24 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Dillon </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Irish Parliamentary Party leader and MP John Dillon (1851-1927) to to Mabel FitzGerald (née Washington McConnell) (1884-1958), wife of politician and intellectual Desmond FitzGerald (1888-1947). Dillon writes that he is unable to do anything for prisoners sentenced to penal servitude but may be able to get the sentence reduced in the future.John Dillon was an Irish Party M.P. in the House of Commons. Dillon issued a speech in the House on 11 May 1916 where he strongly condemned the British handling of the Rising which had been put down “with so much blood and so much savagery”, and called for an immediate end to executions. Dillon would succeed John Redmond (1856-1918) as leader of the Home Rule party in 1918. Mabel Fitzgerald was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington (1878 -1916) during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1583/1</collection>
+                  <idno>https://letters1916.ie/item/1354</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0557">John Dillon </persName>
+              <date>1916-05-24</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1354_img_705_1"  type="Letter"  url="4ffb2a3253639a92146932ccb62ac877.jpg"/>
+      <graphic xml:id="L1916_1354_img_705_2"  type="Letter"  url="f9702fcef44bd4a0c4d5ac5aa7099160.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1354_img_705_1"/>
+                24 May 1916   My dear Madam   I have your letter <lb/> of 23 May.  I feel at present I <lb/> fear it may not be <lb/> possible to do anything <lb/> for the prisoners who have  
+            <pb n="2" facs="L1916_1354_img_705_2"/>
+              <lb/>been sentenced to Penal <lb/> Servitude - But I shall <lb/> keep in mind the case <lb/> of your husband - And <lb/> after the lapse of some <lb/> little time - I might be <lb/> able to get some <lb/> remission of his sentence <seg type="closer"> Yours sincerely  John Dillon </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

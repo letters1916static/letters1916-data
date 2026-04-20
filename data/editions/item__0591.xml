@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0591">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Captain T. C. R. Moore to Alderman Thomas Kelly, 15 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>T. C. R. Moore</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter from Captain T. C. R. Moore to Alderman Thomas Kelly (1868-1942) following up on a previous letter from 13 June in which Moore , responding to a letter of 6 June from Kelly, writes that the items that Kelly seeks, including &#39;a number of water colours&#39; cannot be traced. There is an implication in Moore&#39;s response that Kelly has accused the Military of taking these items. Thomas Kelly was an influential member of the Dublin City Council in the early decades of the 20th century. His achievements included replacing slums with social housing; developing a public library service; and the foundation of the Municipal Gallery of Modern Art. Although not involved in fighting during the rising, he was arrested afterwards but was released after a short time. He was arrested again in 1919 and was unable to take his position as Lord Mayor of Dublin due to health complications that had arisen from his imprisonment.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, IE/AL/TK/27</collection>
+                  <idno>https://letters1916.ie/item/591</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0080">T. C. R. Moore</persName>
+              <date>1916-07-15</date>
+              <placeName key="#letters1916_place-1039">Irish Command Headquarters, Parkgate, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas Kelly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1705">23 Longwood Avenue, South Circular Road, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0591_img_2000_1"  type="Letter"  url="badd2f380dee6c740eab9046f1b95ad9.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0591_img_2000_1"/>
+                Alderman T. Kelly,  23.Longwood Avenue,  S.C. Road,  Dublin   Sir,   In reply to your letter of 14th inst, although<lb/> full enquiry has been made, I regret to say the missing papers<lb/> and sketches cannot be traced.   Should any trace of them appear at a later date,<lb/> you will be informed <seg type="closer"> Yours faithfully,  T.C.R Moore  Capt<lb/> Colonel,A.D.S.T.,<lb/> for Major-General i/c Administrator,<lb/> Irish Command.<lb/>  Headquarters,  Parkgate,  Dublin    15/7/1916.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

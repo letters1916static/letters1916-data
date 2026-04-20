@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2116">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Henry Arthur Wynne to Thomas Maguire, 23 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Henry Arthur Wynne</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Henry Arthur Wynne (1867-1943), the chief crown solicitor for Ireland, to Thomas Maguire (b.1863), solicitor. The letter regards a previous letter Maguire sent, enquiring about the estate of Helena Doyle (d. 1916), a woman who died in January. Wynne states that the attorney general has no intention to interfere in the matter. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/5611/8622/1</collection>
+                  <idno>https://letters1916.ie/item/2116</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0815">Henry Arthur Wynne</persName>
+              <date>1916-05-23</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas Maguire</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1802">Donegall (Donegal) Place, Belfast, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1943</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2116_img_1568_1"  type="Letter"  url="8713b2e28be3087922dda75f9a395821.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2116_img_1568_1"/>
+             23rd May 1916  <lb/>re Miss Helena Doyle decd.  Dear Sir,   Referring to your letter of 19th instant which has <lb/>been under consideration of the Attorney General I have to <lb/>inform you that he has intimated that he will not interfere in <lb/>the matter.   Yours truly,   Henry Arthur Wynne   Thomas Maguire Esq. , <lb/>Solicitor, <lb/>Donegall Place, <lb/>Belfast. 
+         </ab>
+      </body>
+   </text>
+</TEI>

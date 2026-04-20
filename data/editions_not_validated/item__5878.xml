@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5878">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Gerald Dease to Maurice Moore, 30 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Gerald Dease</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter congratulates Maurice Moore on his piece in the Freeman&#39;s Journal, &#39;Reflections on English and Irish relations&#39;. 
+Colonel Maurice George Moore (10 August 1854 – 8 September 1939) was an Irish author, soldier and politician. Born in County Mayo, he was the younger brother of the writer George Moore. He reached the rank of colonel in 1902 but resigned his commission in 1906 over matters of principle during the Boer War. 
+A member of the provisional committee of the Irish Volunteers in 1913, he was made the organisation&#39;s Inspector General, spending much of 1914 organising the troops in Ireland. In 1916 he collected a petition with Agnes O&#39;Farrelly asking for a reprieve of the death sentence against Roger Casement (1864-1916), who was hanged in August 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Col. Maurice Moore Papers, Ms. 10,561/6/5</collection>
+                  <idno>https://letters1916.ie/item/5878</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1442">Gerald Dease</persName>
+              <date>1916-05-30</date>
+              <placeName key="#letters1916_place-1788">Turbotston, Coole, County Westmeath, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0505">Maurice Moore</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5878_img_974_1"  type="Letter"  url="7a351f44cd84d0f2bb6ee8c4e894019b.jpg"/>
+      <graphic xml:id="L1916_5878_img_974_2"  type="Letter"  url="a8fd711de3ab653dde037ad738137945.jpg"/>
+      <graphic xml:id="L1916_5878_img_974_3"  type="Letter"  url="6738ede9981dbe7416a4893bdd530d0c.jpg"/>
+      <graphic xml:id="L1916_5878_img_974_4"  type="Letter"  url="e16ce391d27bd42a07ed5bcaca42f8db.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5878_img_974_1"/>
+             TURBOTSTON, <lb/>COOLE, <lb/>WESTMEATH.   30/5/16   My dear Maurice   Many congratu <lb/>-lations on your <lb/>statement <sic>w<hi rend="superscript">h</hi></sic> I <lb/>have just read <lb/>in today's Freeman.   I sincerely hope <lb/>you will get it <lb/>published in
+            <pb n="2" facs="L1916_5878_img_974_2"/>
+            pamphlet form <lb/>&amp; that it may be <lb/>widely read in <lb/>England in spite <lb/>of suppression!   It is admirable <lb/>&amp; convincing, even <lb/>as reported in the <lb/>newspaper.  
+            <pb n="3" facs="L1916_5878_img_974_3"/>
+            Those cursed English <lb/>officials seem bent <lb/>on driving the whole <lb/>of Nationalist Ireland <lb/>into a rebellion once <lb/>more, though I <lb/>should think that <lb/>even the cauliflower <lb/>they flatter with <lb/>the name of brains <lb/>  are the only <lb/> substitute for that
+            <pb n="4" facs="L1916_5878_img_974_4"/>
+            organ that most of <lb/>them possess, would <lb/>realise the danger <lb/>of that course under <lb/>present conditions. <lb/><seg type="foreign">"Quos Deus vult <lb/>perdere"</seg> - but it is <lb/>hard on our un- <lb/>fortunate country <lb/>that it should be <lb/>the first victim!   Ever <sic>yrs sincly<sic>   Gerald Dease 
+         </ab>
+      </body>
+   </text>
+</TEI>

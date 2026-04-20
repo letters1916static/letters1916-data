@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1333">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Finn to May Fay, 6 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Finn</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from James Finn (1877-1922) to May Fay (1897-1976) about his journey back to Dublin. James asks after Christy and hopes to send on a present to May in the coming week.James Finn was a civil servant, working in the National Health Service Commission on Mount Street. While neither James nor May were politically active their letters provide a very unique insight into the affairs of Easter Week and its aftermath. James died in 1922 as a result of the flu epidemic, May was pregnant with their fourth child at the time.May Fay became engaged to James Finn in January 1916. Despite the twenty year age gap their letters show a very personal and private insight into courting in early 20th century Ireland. She held on to his letters as her reminder of him. May never remarried and focused her attention instead on her businesses in order to provide for their children.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Finn Family Collection</repository>
+                  <collection>NULL, NULL</collection>
+                  <idno>https://letters1916.ie/item/1333</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0500">James Finn</persName>
+              <date>1916-03-06</date>
+              <placeName key="#letters1916_place-1661">National Health Insurance Commission, Pembroke House, Upper Mount Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0367">May Fay</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1114">Togherstown, Ballinea, Westmeath, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1333_img_657_1"  type="Letter"  url="d5be6acb7d7951d408dabc107df60d8a.jpg"/>
+      <graphic xml:id="L1916_1333_img_657_2"  type="Letter"  url="f6249fce9388895cf2f6e03874cd0b1a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1333_img_657_1"/>
+                NATIONAL HEALTH INSURANCE COMMISSION (IRELAND),  PEMBROKE HOUSE,  UPPER MOUNT STREET,  DUBLIN.    6th March, 1916.   My darling,   I have my time to write a line to <lb/>let you know I got back alright. I haven't had <lb/>time yet to get lonesome because I have been very <lb/>much rushed and so have not been able to think. <lb/>I hope however that I won't be so very lonely because <lb/>after all I have had the divil's luck even to get you <lb/>and so I ought to be contented. I haven't seen any one <lb/>at home yet so I can't tell what has happened since <lb/>I left. I didn't see any sign of a bridal party at <lb/>Broadstone when I got out so I don't know how the rice <lb/>got into the train. Hope you got through your <seg type="unclear">answers</seg><lb/>alright and that you weren't too lonely when I left.  
+            <pb n="2" facs="L1916_1333_img_657_2"/>
+              Iâm sure youâre too good and too sensible to worry over <lb/>such âsillyâ matters. You know you often told me not to <lb/>be âsillyâ so I must try and be very sensible for the <lb/>next couple of months. When youâre writing let me know <lb/>how Christy is going on. He seems to be worrying a bit himself <lb/>over his mysterious ailment. I shall probably drop into <lb/>Hopkins tomorrow to see after <sic>wristlet</sic> watch and <lb/>you will probably have it before the end of <lb/>the week. With my warmest and most devoted love <lb/>to my dear girl. <seg type="closer"> <hi rend="underline">James</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

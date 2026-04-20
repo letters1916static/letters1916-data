@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5058">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mrs MacFeely to Ellen Daly, 23 April 1923</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mrs MacFeely</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry County Archives</repository>
+                  <collection>Charlie Daly Collection, P41/4/2/2</collection>
+                  <idno>https://letters1916.ie/item/5058</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0653">Mrs MacFeely</persName>
+              <date>1923-04-23</date>
+              <placeName key="#letters1916_place-0219">Daisyhill, Ballybofey, Donegal, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Ellen Daly </persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">The Rising Tide (1917-1919)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5058_img_None_1"  url="93ec6519a5db219f116e9704317c7c7b.jpg"/>
+      <graphic xml:id="L1916_5058_img_None_2"  url="ffe9f769868542cc4f76ee83fa1bb120.jpg"/>
+      <graphic xml:id="L1916_5058_img_None_3"  url="0638086c587b6b9c4399a44f13aeb136.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5058_img_0_1"/>
+              Daisyhill<lb/>Ballybofey<lb/>Co Donegal   23.4.'23   Dear Mrs Daly   Every so many<lb/>thanks for your letter.<lb/>We all know too well that<lb/>your dear son died a noble<lb/>death as he was such a great<lb/>favourite with everybody. I<lb/>was told that his guardsmen<lb/>in Drumboe shed tears when<lb/>poor young Daly was been<lb/>led out. As he was spoken<lb/>of as a true Patriot of Ireland<lb/>Poor boy he is gone to enjoy<lb/>the reward of a well spent life 
+            <pb n="2" facs="L1916_5058_img_0_2"/>
+             It is the dear mother, father,<lb/>brothers and sisters tha he<lb/>has left behind to mourn<lb/>but trust you will be resigned<lb/>go God's Holy Will + you will all<lb/>be united in Heaven where<lb/><seg type="del">so</seg> sorrow will be no more. I<lb/>would be so thankful for<lb/>his photo + his last letter<lb/>that we may ever treasure<lb/>We have had masses said<lb/>for the four brave boys +<lb/>we never orget them in<lb/>our prayers although they do<lb/>not want them.  When my daughter was at<lb/>home from Dublin for Easter<lb/>she told me your dear daughter<lb/>was ill + she had not heard 
+            <pb n="3" facs="L1916_5058_img_0_3"/>
+             the sad news. She felt so much<lb/>for her. Miss O'Donnell + Miss Blake<lb/>are in Buncrana still + my<lb/>niece M O'Flaherty is home<lb/>from <hi rend="superscript"> Mountjoy </hi>although she is not able<lb/>to stop at home as they live<lb/>on the border.  As soon as you find it<lb/>convenient we will be waiting<lb/>on our dear friend's photo<lb/>for Memoriam Cards. And again<lb/>accepting our sincerest sympathy   Yours very sincerely,<lb/>Mrs. MacFeely  
+         </ab>
+      </body>
+   </text>
+</TEI>

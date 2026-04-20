@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1783">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Jonathan Pim to Augustine Birrell, 29 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Jonathan Pim</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Jonathan Ernest Pim (1858–1949). Pim was attorney general for Ireland (1914-1915). Following this he was nominated to serve on the Sankey Committee which adjudicated on internment in the aftermath of the 1916 Rising. 
+The letter was addressed to Augustine Birrell (1850-1933),  the chief secretary for Ireland. Birrell was appointed chief secretary in January 1907. In 1916 he resigned as he willingly accepted the political responsibility for the outbreak of the Rising in 1916. 
+In the letter Pim mentions that John Robert O&#39;Connell (1868-1943) served as his solicitor while Pim was attorney general for Ireland and recommends him for the vacant position of chief crown solicitor.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/7153/11</collection>
+                  <idno>https://letters1916.ie/item/1783</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1346">Jonathan Pim</persName>
+              <date>1916-03-29</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0534">Augustine Birrell</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1949</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1783_img_1238_1"  type="Letter"  url="6d43d84b6d4e2e52e87dc4352f3d8cd3.jpg"/>
+      <graphic xml:id="L1916_1783_img_1238_2"  type="Letter"  url="a7cdb77abe598c8ddb9bba1f0dc101b4.jpg"/>
+      <graphic xml:id="L1916_1783_img_1238_3"  type="Letter"  url="b01310464f9652aaf1f265f2e6fd1dec.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1783_img_1238_1"/>
+             29.3.16   Dear Mr. Birrell.    Sir John. R. O'Connell <lb/>informs me that he has <lb/>applied for the vacant post <lb/>of Chief Crown Solicitor for <lb/>Ireland.   He was my Solicitor while <lb/>I was Attorney General, &amp; <lb/>I therefore have had <seg type="unclear">help with</seg>
+            <pb n="2" facs="L1916_1783_img_1238_2"/>
+            both of his work, &amp; of himself.   He is a man of very considerable <lb/>ability <seg type="del">&amp; would</seg> the work of <lb/>the office (if it were given to <lb/>him) would not only be <lb/>safe in his hands, but also <lb/>Excellently done.   I am <lb/> Yours Sincerely   Jonathan Pim 
+            <pb n="3" facs="L1916_1783_img_1238_3"/>
+             Put with papers <lb/> <!-- signature -->  7/4  
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2158">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Sweetman to Herbert Pim, 21 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Sweetman</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from John Sweetman (1884-1936) to Herbert Pim (1883-1950). Pim published a pamphlet series entitled &#39;Tracts of our times&#39;, including writings by Patrick Pearse, and in early 1916 founded the literary and political monthly, &#39;The Irishman&#39;. He joined the Volunteer muster in Coalisland at Easter 1916, and was arrested after the Rising and deported to Reading gaol. He was released in September 1916. Sweetman was a member of Sinn Féin and patron to Arthur Griffith. In 1915 he spoke out against conscription and  was arrested after the 1916 Rising and interned in England until the end of May 1916. The Letter from Sweetman thanks Pim for sending him early copies of the newspaper the Irishman. The letter references a branch of Sinn Fein who wanted him to forward £600 to them. Sweetman also makes the point that he had some confidence in Eoin MacNeill (1867-1945), chief of staff of the Irish Volunteers who had tried to prevent the Easter Rising, but none in Patrick Pearse (1879-1916), one of the leaders of the Rising, or Sir Roger Casement (1864-1916), who was hanged for treason having been arrested on the eve of the Rising. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sweetman Family Papers/ Collection List No 156; Ms.47589/12/5</collection>
+                  <idno>https://letters1916.ie/item/2158</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0883">John Sweetman</persName>
+              <date>1916-09-21</date>
+              <placeName key="#letters1916_place-1594">47 Merrion Square, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1003">Herbert Pim</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1936</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2158_img_1607_1"  type="Letter"  url="83f2ec19dc3902061152b5edf2efac16.jpg"/>
+      <graphic xml:id="L1916_2158_img_1607_2"  type="Letter"  url="53b47c4311220413fdb066a1c7abbaa0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2158_img_1607_1"/>
+             47 Merrion Square<lb/>Dublin   Sept 21<hi rend="superscript">st</hi> 1916    Dear Mr Pim   Thank you for yours of the 19<hi rend="superscript">th</hi><lb/>and the early copy of the Irishman.<lb/>It seems to me you are the man<lb/>we want now in Ireland.  You suggest my consulting<lb/>my friends. I have no political<lb/>friends now, and I feel too old<lb/>to go into any works now.<lb/>There is one point it may be<lb/>well for me to speak plainly.<lb/>A letter I received from the<lb/>Sinn Fein Co-operative People's<lb/>Bank asking me to advance<lb/>them £600 - makes me think<lb/>it wise. The war taxes makes<lb/>it hard for one, perhaps impossible<lb/>to make ends meet. For some<lb/>years I was able to subscribe<lb/>largely to the Sinn Fein movement<lb/>at its inception, but that is<lb/> 
+            <pb n="2" facs="L1916_2158_img_1607_2"/>
+            impossible for one at present.<lb/>From the Irishman of this<lb/>week I think we agree very<lb/>largely. I had great belief<lb/>in Eoin McNeil, but little<lb/>in Pierse and Casement.<lb/>However what I thought<lb/>madness, God may make<lb/>use of.<lb/><lb/><lb/>     I send you addresses of mine<lb/>at the Central Branch of the<lb/>National Council on Nationality<lb/>Liberty, and the County Councils.  I also send you extracts from<lb/>the Constitution of Sinn Fein<lb/>which I thinks might be<lb/>applicable to the present time.   Yours truly<lb/>John Sweetman 
+         </ab>
+      </body>
+   </text>
+</TEI>

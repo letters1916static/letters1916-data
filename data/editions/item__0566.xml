@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0566">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from M. Bonham Carter to Lord Wimborne, 19 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Maurice Bonham Carter</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter form Maurice Bonham Carter (1880-1960) to Ivor Churchill Guest (1873-1939), the Lord Wimborne. Carter writes on the behalf of King George V (1865-1936), accepting the resignation of Anthony Ashley-Cooper (1869-1961) as Lord Lieutenant of County Antrim. Ivor Churchill Guest, 1st Viscount Wimborne was appointed the Lord Lieutenant of Ireland in 1915. Guest worked closely alongside Sir Matthew Nathan (1862-1939) in the administration of Ireland. Following the suppression of the Rising, Guest, under pressure, was forced to resign as Lord Lieutenant. A later inquiry into the Rising exonerated Guest and held Augustine Birrell (1850-1933) chiefly responsible for the events that occurred. Guest would continue to serve as Lord Lieutenant until 1918. Maurice Bonham Carter served as private secretary to British Prime Minister Herbert Asquith (1852-1928) and was a leading figure in the liberal government.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-5620-3425, NAI-CSO-RP-1916-5620-3425</collection>
+                  <idno>https://letters1916.ie/item/566</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0316">Maurice Bonham Carter</persName>
+              <date>1916-02-19T00:00:00</date>
+              <placeName key="#letters1916_place-1048">10 Downing Street, Whitehall, London S.W., England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1374">Ivor Churchill Guest</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0566_img_1958_1"  type="Letter"  url="3d7520ea808a9105ba8e7de82bde9a0d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0566_img_1958_1"/>
+                10 Downing Street,  Whitehall S.W.    19th February, 1916   My Lord   The King having been pleased to accept the resignation <lb/>of the Earl of Shaftesbury from the Lieutenancy of the County <lb/>of Antrim, I have to request that the necessary steps may be <lb/>taken to give effect to His Majesty's commands. <seg type="closer"> I have the honour to be, <lb/>Your Lordship's obedient Servant,  M Bonham Carter   His Excellency  the Lord Lieutenant of Ireland.  </seg> <hi rend="underline">Rep.</hi><lb/>Please annex papers <lb/>as to the appointment of Lord <lb/>Shaftesbury as H.M.L Co. Antrim &amp; let the Sec <lb/>papers as to his resignation of the <lb/>Lieutenancy of the <lb/>City of Belfast <lb/>E. Aof. <lb/>24âIIâ16  
+         </ab>
+      </body>
+   </text>
+</TEI>

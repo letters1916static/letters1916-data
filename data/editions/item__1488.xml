@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1488">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from M.B. McDonough to Mabel FitzGerald, 16 June 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M. B. McDonough</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from M.B. MacDonough to Mabel FitzGerald (née Washington McConnell) (1884-1958), wife of politician and intellectual Desmond FitzGerald (1888-1947). The writer&#39;s husband is being transferred from Wandsworth Prison to Wales and she acknowledges a letter from her husband which Mrs. FitzGerald had relayed to her. She sympathises with Mrs FitzGerald on her husband&#39;s 10 year sentence and hopes for a free Ireland soon when all can be reunited with their loved ones.Mabel Fitzgerald was the wife of Irish Volunteer Desmond Fitzgerald. Mabel was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1603/1</collection>
+                  <idno>https://letters1916.ie/item/1488</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0842">M. B. McDonough</persName>
+              <date>1916-06-16</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1746">2 Loretto Villas, Bray, County Wicklow, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1488_img_941_1"  type="Letter"  url="ddbce46c94276584a05c9a5bc386e03d.jpg"/>
+      <graphic xml:id="L1916_1488_img_941_2"  type="Letter"  url="52117f1f91dc34c5919a819a5073b37c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1488_img_941_1"/>
+                High St <seg type="unclear">Bray</seg>    June 16 1916   Dear Mrs. Fitzgerald   I wish to return <lb/>you very many thanks <lb/>for your kindness in <lb/>sending me my Husband's <lb/>letter of <sic>whome</sic> I have <lb/>not seen since he was <lb/>sent to Wansworth &amp; is <lb/>now sent to Wales not knowing <lb/>when he may come home <lb/>I suppose they will keep <lb/>him as long as they like. <lb/>I expect that he may be <lb/>home soon. I also wish  
+            <pb n="2" facs="L1916_1488_img_941_2"/>
+              to sympathise with you <lb/>or yours getting ten years <lb/>imprisonment an awful <lb/>sentence for a brave &amp; beautiful cause.  Cheer up as Mr. Fitzgerald <lb/>may not be ten moments <lb/>away <sic>untill</sic> Ireland is <lb/>a free Nation. Hoping it <lb/>will be &amp; then we will have our dear <sic>uns</sic> again. <seg type="closer"> Thanking you most <lb/>sincerely Yours  M B McDonough </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

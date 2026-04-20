@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5879">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Monteith to 'Segt Major', 5 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Monteith</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Robert Monteith (1880-1956) to &#39;Segt, Major&#39;, possibly Michael Patrick Keogh, a prominent member of the Irish Brigade.  Monteith was the commandant of the ultimately unsuccessful Irish Brigade, recruited by Sir Roger Casement (1864-1916) from Irish prisoners of war in German camps.
+Keogh asks the recipient to pass on an enclosed letter from Sergeant Michael O&#39;Toole to allow Monteith&#39;s whereabouts to be know. The enclosed letter has not survived in the collection.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Mrs Erskine Childers Collection; CD 6/2/5</collection>
+                  <idno>https://letters1916.ie/item/5879</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0377">Robert Monteith</persName>
+              <date>1915-11-05</date>
+              <placeName key="#letters1916_place-0035">Limberg, Germany</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">&#39;Segt Major&#39;</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1956</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5879_img_975_1"  type="Letter"  url="e162682849612a3d2aee2f0b9d0b6389.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5879_img_975_1"/>
+             Limburg   5.XI.15.   Dear Sergt. Major,   I understand you look through all <lb/>letters from the camp — Kindly pass the <lb/>accompanying letters from Sergt O'Toole as it <lb/>is my wish that the news of my where- <lb/>abouts should reach the person with <lb/>whom he is communicating —   R <hi rend="underline">Monteith</hi>  <lb/>Comd<hi rend="superscript">t.</hi> I.B.
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5371">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Róise Ní Dómnaill to Charlie Daly [January 1923]</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Róise Ní Dómnaill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry Library Archives</repository>
+                  <collection>Charlie Daly Collection, P41/24/2</collection>
+                  <idno>https://letters1916.ie/item/5371</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0272">Róise Ní Dómnaill</persName>
+              <date>1923-01</date>
+              <placeName key="#letters1916_place-1541">Ballybofey, Co Donegal, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1307">Charlie Daly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1341">Drumboe Castle, Stranorlar, Co Donegal, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Civil War (1922-1923)</item>
+               <item n="topic">Civil War (1922-1923)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5371_img_4656_1"  type="Letter"  url="28b4684d372a9a76bdbc16f423dbf8b4.jpg"/>
+      <graphic xml:id="L1916_5371_img_4656_2"  type="Letter"  url="03656a8845a93f49dffe258b42682de5.jpg"/>
+      <graphic xml:id="L1916_5371_img_4656_3"  type="Envelope"  url="ae2e06576f03adc8e69d9a8a1ea8d16e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5371_img_4656_1"/>
+             P41/24/2   Ballybofey,   Thursday   A cara   Thanks for your letter<lb/>which I rec’d when on hols. I got<lb/>back here about a week ago or<lb/>more. I didn’t enjoy my holiday<lb/>by any means . Xmas passed very<lb/>quietly. If it weren’t for the bad<lb/>weather we couldn’t realize it<lb/>was that important time of<lb/>the year at all.  Do you know <seg type="unclear"></seg> <lb/>Rogers? I think you do. She<lb/>wishes to be remembered to yourself<lb/>and Ginger. She was home<lb/>for a few weeks there hearing a<lb/>brother in law of hers dead.  
+            <pb n="2" facs="L1916_5371_img_4656_2"/>
+             How are you off for cigs? I would<lb/>send over some but I’m only writing<lb/>this on chance as I don’t know<lb/>whether you have been removed<lb/>or not: I heard most of the<lb/>boys were taken to <seg type="unclear">7 wier</seg>  yesterday<lb/>I hope you get the daily paper all<lb/>right.   All around Dungloe<lb/> are well and many of them send<lb/>their kindest regards. Remember me<lb/>to all the boys.   Do cara<lb/>Roise Ni Domhnaill     
+            <pb n="3" facs="L1916_5371_img_4656_3"/>
+              Chars. Daly Esq.,<lb/>Drumboe Castle,<lb/>Stranorlar.  
+         </ab>
+      </body>
+   </text>
+</TEI>

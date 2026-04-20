@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1511">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Corporal W. Bowes to Lady Clonbrock, 13 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Corporal W. Bowes</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from a prisoner of war, Corporal W. Bowes, Connaught Rangers, to Lady Clonbrock (1839-1928). Bowes was incarcerated in a camp in Osterrade, Germany at the time. In the letter, Bowes thanks Lady Clonbrock for parcels she had been sending him, writing that &#39;My kind lady could not be much better or sweeter to me.&#39; He also offers to find out the whereabouts of another prisoner as he had changed camps.Augusta Caroline Dillon (née Crofton) was the wife of Luke Gerald Dillon (1834-1917), the 4th Baron of Clonbrock, Co. Galway and the daughter of Lord Crofton of Mote Park (Edward Henry Churchill Crofton, 3rd Baron), Co. Roscommon. Aged 75 at the outbreak of war, Lady Clonbrock, worked closely with the Irish Women&#39;s Association to send basic necessities to Irish POWs. Many of her care packages went to members of the Connaught Rangers imprisoned in Limburg near Cologne.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No 54, Ms. 35,796 (14)</collection>
+                  <idno>https://letters1916.ie/item/1511</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1093">Corporal W. Bowes</persName>
+              <date>1916-08-13</date>
+              <placeName key="#letters1916_place-1426">Osterrade, Germany</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0049">Lady Clonbrock</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1511_img_97_1"  type="Letter"  url="999c1da396c90f467aa8b58ee6681dd8.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1511_img_97_1"/>
+                August.13<hi rend="underline">th</hi> 1916   â Cpl. W. Bowes Comm. Rangers  My Dear Kind Lady,   I am very pleased to acknowledge that <lb/>last week I received one parcel containing <lb/>boots, socks, slippers, shirt and drawers which <lb/>I feel very pleased and thankful to get <lb/>the contents of the parcels sent by you from <lb/>the Irish Women's Association. My kind lady <lb/>could not be much better or sweeter to me. <lb/>I do not know where 75.5.5. Flanigan is but I <lb/>will do my best to find out. My address <lb/>has been changed again, to the address on <lb/>the envelope. I am very pleased to know <lb/>that the weather is keeping so fine at home. <lb/>We are  having  very hot <sic>wether</sic> here lately. <lb/>Well I will close this time my kind lady <lb/>and feel very thankful to you.  <seg type="closer"> Yours respectfully. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

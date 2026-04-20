@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2285">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Bishop Patrick McKenna to John Francis Hogan, 20 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick McKenna</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is addressed to Rev Dr John Francis Hogan (1858-1918). Hogan was a priest, author, and president of St Patrick&#39;s College, Maynooth. During the Easter Rising  a group of Volunteers from the town of Maynooth entered the college to seek a blessing before setting off for Dublin. Hogan reputedly refused to give his blessing to their ‘foolish and most ill-advised expedition’ and urged them to return home. They in turn refused and Hogan blessed them, while remaining totally opposed to their activities. He subsequently addressed the students on the need to show proper respect for authority.
+This letter was written by Bishop Patrick McKenna (1868-1942). Mckenna was ordained  as the Bishop  of Clogher in 1909.
+In this letter McKenna is writing to Hogan about the result of the students from  his  diocese and states that overall he considers the results to be satisfactory.  McKenna states that he will grant the students permission to be ordained  and discusses their entrance into holy orders. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>St Patrick&#39;s College, Maynooth</repository>
+                  <collection>John F. Hogan Papers, 21/5/10a</collection>
+                  <idno>https://letters1916.ie/item/2285</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0826">Patrick McKenna</persName>
+              <date>1916-05-20</date>
+              <placeName key="#letters1916_place-1075">Bishop&#39;s Houses, Monaghan, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John Francis Hogan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1942</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2285_img_1732_1"  type="Letter"  url="4ed9885a8163db38ca1b688d467c690c.jpg"/>
+      <graphic xml:id="L1916_2285_img_1732_2"  type="Letter"  url="8fd9546f814bfbedcd498d1e65fb77a3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2285_img_1732_1"/>
+             21/5/10a  <!-- Embossed Bishop\'s Seal --><!-- Embossed Bishop\'s Address: --> Bishops House <lb/> Monaghan    20th May 1916 <lb/> My Dear Mons. Hogan   I beg to thank<lb/>you for the report on the conduct<lb/>and studies of the students from<lb/>this diocese, and I am happy to<lb/>say that on the whole it is<lb/>satisfactory.  I hereby grant the usual faculties<lb/>for ordination, that is to say<lb/>I grant permission to all the<lb/>students from this diocese to<lb/>be promoted to the order to<lb/>which they will be called<lb/>by the College authorities, by his<lb/>Grace, the Archbishop of Dublin,<lb/>on other Bishop who, with<lb/>the permission of his Grace 
+            <pb n="2" facs="L1916_2285_img_1732_2"/>
+             will confer the Orders, and in<lb/>so far as may be necessary.  I dispense 'the individual' from<lb/>this Diocese in Interstices, though<lb/>I think this is not necessary.  <lb/> With kind regards<lb/>I am, my dear Mons Hogan,<lb/>Faithfully yours<lb/><hi rend="superscript">+</hi> Patrick McKenna 
+         </ab>
+      </body>
+   </text>
+</TEI>

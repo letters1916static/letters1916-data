@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1240">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from Private Joseph Connolly to J. M. Dane Esq. [on behalf of Lady Clonbrock's aid organisation], 24 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Joseph Connolly</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A postcard from Joseph Connolly to J M Dane Esq. Connolly writes the postcard from Sennelager, near Padernborn, in Germany. The hand-written information suggests that he was kept in a &#34;Zivilgefangenenlager&#34; (camp for civilians) while the blue stamp reads &#34;Kriegsgefangenensendung&#34; (dispatch from prisoner of war). According to the British military records, Joseph Connolly occupied the rank of Private in 1914, his service number being &#34;10760&#34; in the Connacht Rangers: https://www.forces-war-records.co.uk/records/13458396/private-j-connolly-british-army-connaught-rangers/. In his postcard, Connolly thanks a &#34;Madam&#34; (supposedly Lady Clonbrock) for two loaves of bread that he has received. This postcard is found in the Clonbrock Archive; as such, Dane was possibly a member of Lady Clonbrock aid organisation or a friend of hers, and thus received the postcard on her behalf in Switzerland. Augusta Caroline Dillon (née Crofton) was the wife of Luke Gerald Dillon (1834-1917), the 4th Baron of Clonbrock, Co. Galway and the daughter of Lord Crofton of Mote Park (Edward Henry Churchill Crofton, 3rd Baron), Co. Roscommon. Aged 75 at the outbreak of war, Lady Clonbrock, worked closely with the Irish Women&#39;s Association to send basic necessities to Irish POWs. Many of her care packages went to members of the Connaught Rangers imprisoned in Limburg near Cologne.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Collection List No 54, Ms 35796-14</collection>
+                  <idno>https://letters1916.ie/item/1240</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0348">Joseph Connolly</persName>
+              <date>1916-01-24</date>
+              <placeName key="#letters1916_place-0448">Zivilgefangenenlager, Sennelager, near Paderborn, Germany</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">J.M. Dane Esq.</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1612">Berne, Switzerland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1240_img_43_1"  type="Letter"  url="76fb4913a586a552259ebbec6ab2dc22.jpg"/>
+      <graphic xml:id="L1916_1240_img_43_2"  type="Letter"  url="b9f3dee3f6f08e325c56354ab6ef0ee8.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1240_img_43_1"/>
+                Bureau de secours   aux   prisonniers de guerre   SECTION ANGLAISE   BERNE      Sennelager    24/1/1916   Madam,    I am today in<lb/>receipt of two breads<lb/>sent by you for which<lb/>I desire to thank you. <seg type="closer"> Yours  Joseph Connolly  10760 Connaught Rangers.</seg> <lb/><hi rend="underline">Please always give your Regiment and<lb/>Regimental No.</hi> 70760   
+            <pb n="2" facs="L1916_1240_img_43_2"/>
+              Zivilgefangenenlager<lb/>Joseph Connolly<lb/>14th Company<lb/>Sennelager<lb/>b. <seg type="unclear">Paderborn</seg>  <lb/><lb/>Geprüft<lb/>Kriegsgefangenensendung.<lb/><lb/>   Bureau de Secours   aux Prisonniers de Guerre   Section Anglaise  Thunstrasse 50  <hi rend="underline"> Berne </hi>  (Suisse)        29. Feb. 1916 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0448">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Adams to his mother Mary Adams, 7 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Adams</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from John Adams to his mother, Mary. John writes form the Royal Alexandra Hospital, describing his convalescence. John writes of orange lilies blooming in the hospital gardens, of a Sunday drive around Glasgow and a newspaper attachment naming his fellow patients. John Adams (Army No. 13971) fought with the 9th (Service) Battalion, Royal Irish Fusiliers in the Great War. He was wounded in France in May 1916, and was treated at the Royal Alexandra Hospital in Paisley.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Adams Family Collection</repository>
+                  <collection>NULL, NULL</collection>
+                  <idno>https://letters1916.ie/item/448</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0271">John Adams</persName>
+              <date>1916-07-07</date>
+              <placeName key="#letters1916_place-1542">Royal Alexandra Hospital, Paisley, Scotland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mary Adams</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1981">Lisadian, Co. Armagh</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0448_img_1792_1"  type="Letter"  url="3cf290ca8f0e34c69b008dfba78af263.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0448_img_1792_1"/>
+                The Royal Alexandra Infirmary  Paisley Scotland    7-7-16   My Dear Mother,   Just a line to say that I received your <lb/>letter this morning. And am glad to know that your self and all at <lb/>home are in your Usual Good Health. As for myself I am getting <lb/>on alright ,and may be able to go home in the end of the month. <lb/>But we do not leave here to go home. We have to go up to Glasgow <lb/>and may be kept there for some time. Thanks very much for the <lb/>stamps which you sent. I am sending you a cutting of a newspaper <lb/>with all the names of the men admitted to the place the night we <lb/>came over. I had 2 letters from Jennie and she seems to be in <lb/>Good Health. We were out for a drive on last Tuesday to a place <lb/>about 11 miles from here. It was a lovely drive we went on Brakes and <lb/>it took us four Hours to get to it. We got our tea before we left it. <lb/>and the weather was very good. But it is raining today I do <lb/>hope it soon clears up. As I do not want any rain when I go home <lb/>I suppose your flowers look well have you many this year. And did <lb/>the Orange lilies come out. I saw a lovely garden of orange <lb/>lilies at this place on Tuesday. they were very nice.   Well I think I must draw to a close Hoping to hear from you soon <lb/>again. <seg type="closer"> I remain <lb/>Your loving Son  John Adams </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

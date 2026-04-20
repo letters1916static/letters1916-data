@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0514">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from C. J. Hanrette to E. A. Aston, 14 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>C. J. Hanrette</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from C. J. Hanrette, to E. A. Aston, inspector for the Local Government Board (LGB), in response to Aston&#39;s letter of 11 March 1916, giving details of the fixed minimum wage for men and women working in various trades in Ireland. Trades mentioned include tailoring, cardboard box-making, shirt-making and sugar confectionery.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI, CSORP/1916/7443/13</collection>
+                  <idno>https://letters1916.ie/item/514</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1341">C. J. Hanrette</persName>
+              <date>1916-03-14</date>
+              <placeName key="#letters1916_place-0215">Labour Exchanges and Unemployment Insurance, Divisional Office for Ireland, Lord Edward Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">E. A. Aston</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1501">Local Government Board, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0514_img_1886_1"  type="Letter"  url="5e8459f5254c0425457064ccd97c5b9e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0514_img_1886_1"/>
+              ALL COMMUNICATIONS SHOULD BE<lb/> ADDRESSED TO THE<lb/> DIVISIONAL OFFICES,<lb/> AND THE FOLLOWING NUMBER QUOTED :&amp;#x2014;<lb/> D.0.9167  TELEPHONE NO. 3700<lb/> TELEGRAMS :&amp;#x2014;<lb/> DIVEX, DUBLIN    LABOUR EXCHANGES AND  UNEMPLOYMENT INSURANCE,  DIVISIONAL OFFICE FOR IRELAND,  LORD EDWARD STREET,  DUBLIN.    14th March, 1916.   Dear Mr. Aston,   In reply to your letter of the 11th March, I beg to <lb/> state that the following trades in Ireland have had a minimum <lb/> wage fixed : - <lb/><hi rend="underline">Minimum Time Rate per hour</hi>. <lb/><hi rend="underline">Men</hi>. <hi rend="underline">Women</hi>. <lb/> 1. Ready Made &amp; Wholesale <lb/> Bespoke Tailoring ... 6d. 3 1/4d. <lb/> 2. Cardboard box-making ... 6d. 2 3/4d. * <lb/> 3. Shirt-making. ... No record of 3 1/4d. <lb/> rate for men <lb/> having been <lb/> fixed <lb/> 4. Sugar Confectionery ... 5 1/4d. 2 1/2d. <lb/> *It is proposed to vary this rate to 3d. per hour.  <seg type="closer"> Yours sincerely,  C. Hanrette   E. A. Aston, Esq..  Local Government Inspector,  Local Government Board,  DUBLIN.  </seg> D.H.D.  C.J.H.  
+         </ab>
+      </body>
+   </text>
+</TEI>

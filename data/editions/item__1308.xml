@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1308">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from T Furey to Lady Clonbrock, 17 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>T Furey</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A Letter from a prisoner of war to Lady Clonbrock (1839-1928). The prison writes concerning some books that he had requested in a previous postcard, books that had not arrived at the prisoner of war camp. Augusta Caroline Dillon (née Crofton) was the wife of Luke Gerald Dillon (1834-1917), the 4th Baron of Clonbrock, Co. Galway and the daughter of Lord Crofton of Mote Park (Edward Henry Churchill Crofton, 3rd Baron), Co. Roscommon. Aged 75 at the outbreak of war, Lady Clonbrock, worked closely with the Irish Women&#39;s Association to send basic necessities to Irish POWs. Many of her care packages went to members of the Connaught Rangers imprisoned in Limburg near Cologne.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No 54, Ms. 35,796(3)</collection>
+                  <idno>https://letters1916.ie/item/1308</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0512">T Furey</persName>
+              <date>1916-02-17</date>
+              <placeName key="#letters1916_place-0964">Limburg (Lahn), Germany</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0049">Lady Clonbrock</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1431">Ahascragh, Ballinasloe, County Galway</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1308_img_54_1"  type="Letter"  url="4700013208171543f4be9571990682b8.jpg"/>
+      <graphic xml:id="L1916_1308_img_54_2"  type="Envelope"  url="042cf1d0addea627231c0fa7da624a5a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1308_img_54_1"/>
+                <seg type="foreign">Kriegsgefangenenlager,</seg>  Limburg,    17..Feb 1916-   To Lady Clonbrock,   I wish to <lb/> let you know that I answered your <lb/> postcard which you asked me if I <lb/> required any books but have <lb/> not received the books as yet trusting <lb/> you may not receive my P.C. The <lb/> parcels sent through your request <lb/> from the Irish <sic>womans</sic> I receive them regular  <seg type="closer"> I beg to Remain yours Respectfully  T <seg type="unclear">Furey</seg> </seg> 
+            <pb n="2" facs="L1916_1308_img_54_2"/>
+                <seg type="foreign">Gefangenenlager</seg>  Limburg (Lahn).  <lb/>This is my address:   <seg type="foreign">Kriegsgefangenen-Sendung</seg>  Mr. 10556 Pte T Furey,  11. Bat 6 Comp No. <seg type="unclear">816,</seg>  Limburg (Lahn) Germany  <lb/>(Answer on Post-Card or by open letter, please). Right side <lb/><seg type="foreign">Feldpostbrief. <lb/>Kriegsgefangenen-Sendung: </seg><lb/>Address:   To Lady Clonbrock,  Ahascragh,   Ballinasloe,   <hi rend="underline">Co. Galway</hi>  Ireland.  Ireland    
+         </ab>
+      </body>
+   </text>
+</TEI>

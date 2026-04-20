@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5700">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Major John Johnstone (Commandant Prisoners of War) to Sir Matthew Nathan, 1 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Johnstone</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Major John Johnston to Sir Matthew Nathan,  Under Secretary for Ireland. Nathan (1862-1939) was the Under-Secretary for Ireland from 1914 until 1916. In 1916 he faced criticism for failing to be aware of and to prevent the outbreak of the Easter Rising on 24 April. He resigned shortly afterwards. 
+The letter contains an attachment from the Bishop of Meath relating to the case of Gustav Adolf Etter, a prisoner of war.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3906</collection>
+                  <idno>https://letters1916.ie/item/5700</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0551">John Johnstone</persName>
+              <date>1916-03-01</date>
+              <placeName key="#letters1916_place-0128">Old Castle</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0476">Dublin Castle, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5700_img_803_1"  type="Letter"  url="db0e20c803002778feece1758b3fa05c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5700_img_803_1"/>
+              Commandant Prisoners of War<lb/>Old Castle<lb/>1 MAR 1916    Chief Secretary's Office<lb/>3906 - 2 MAR 1916    The Under Secretary<lb/>Dublin Castle    Sir   In connection with the application<lb/>for   release of No 646 Adolf Etter    <lb/>forwarded on the 30th January I<lb/>beg to attach a further letter from<lb/>the Bishop of Meath which he<lb/>desired I should forward      I have the honour<lb/>to remain<lb/>yr obed servt    <lb/> John Johnston <lb/>Major<lb/>Comdt<lb/><lb/> Old Castle <lb/> 1.3.16   Under Secretary<lb/>Submitted the attached<lb/>letter from the Bishop of Meath<lb/>may be forwarded to H.O.<lb/>in continuation of papers sent<lb/>over on the 8th inst.<lb/><seg type="unclear">WML 1/3</seg>  M.N. 2/3  done JLD 4/3<lb/>despd JLD 4/3<lb/>  
+         </ab>
+      </body>
+   </text>
+</TEI>

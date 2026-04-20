@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2290">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Joseph MacRory to John Francis Hogan, 29 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Joseph MacRory</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter addressed to Rev Dr John Francis Hogan (1858-1918) from Bishop Joseph MacRory (1861-1945) of Down and Connor. John Francis Hogan was born in Clare and and was an author, priest and President of St Patrick&#39;s College Maynooth. Joseph MacRory was born in County Tyrone and became Bishop of Down and Connor in 1915 and held this post until his death in 1928.
+MacRory is writing to Hogan to inform him of the address of the Fitzpatrick brothers, who built the Whitehead memorial, and the price of that memorial. A similar memorial was later built at Maynooth.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>St Patrick&#39;s College, Maynooth</repository>
+                  <collection>John F. Hogan Papers, 21/10/39</collection>
+                  <idno>https://letters1916.ie/item/2290</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1304">Joseph MacRory</persName>
+              <date>1916-01-29</date>
+              <placeName key="#letters1916_place-1011">Chichester Park, Belfast, County Antrim, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John Francis Hogan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1260">St Patrick's College Maynooth, County KIldare, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1945</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Faith</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2290_img_1737_1"  type="Letter"  url="0d68bfe87e079864ced7a16897b9a0cc.jpg"/>
+      <graphic xml:id="L1916_2290_img_1737_2"  type="Letter"  url="0ec9a082b8a887762d5be1c775397c1a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2290_img_1737_1"/>
+              10/39   <!-- Embossed Address: --> Chichester Park,<lb/>Belfast.    Jan. 29, 16    My Dear Monsignor   The Callan memorial was<lb/>erected by Fitzpatrick Bros.<lb/>Glasnevin— their address is<lb/>192 Clonliffe Road, Dublin. 
+            <pb n="2" facs="L1916_2290_img_1737_2"/>
+             The cost was £80, but I doubt<lb/>if they had much out of it.  I doubt if the Thorn will<lb/> be extracted at present.   Yours most sincerely  + Joseph Mac Rory
+         </ab>
+      </body>
+   </text>
+</TEI>

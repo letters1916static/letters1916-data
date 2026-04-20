@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3804">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Frazer to Thomas Kirkpatrick, 13 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Frazer</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Dr Robert Frazer to Thomas Percy Kirkpatrick (1869-1954) thanking the Royal College of Physicians of Ireland (RCPI) for admitting him as member of the college and requests that his diploma to be sent to him.  
+
+From 1910 until 1954 Thomas Kirkpatrick served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T78-7</collection>
+                  <idno>https://letters1916.ie/item/3804</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0209">Robert Frazer</persName>
+              <date>1916-07-13</date>
+              <placeName key="#letters1916_place-0132">36 Foxbourne Road, Upper Tooting, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1453">Thomas Kirkpatrick</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3804_img_3187_1"  type="Letter"  url="c0b595c57532703dbf6b159947b2f593.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3804_img_3187_1"/>
+             36, FOXBOURNE ROAD, <lb/>UPPER TOOTING, <lb/>S.W.   13<hi rend="superscript">th</hi> July 1916   Dear Sir,   I beg to thank you <lb/>very much for your kind <lb/>letter of 8<hi rend="superscript">th</hi> instant, informing <lb/>me that I have been elected <lb/>a member of the Royal College <lb/>of Physicians of Ireland.   I would be glad to have the <lb/>parchment Diploma and <lb/>enclose a P.O. order for 21/- <lb/>cost of same.   Yours faithfully   R.F. Frazer   T. Percy C. Kirkpatrick <lb/>F.R.C.P.   Maer C. <lb/>14.VII.16 
+         </ab>
+      </body>
+   </text>
+</TEI>

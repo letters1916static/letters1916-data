@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0400">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to the Chief Secretary's Office, 2 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter to the Chief Secretary&#39;s Office from an unspecified sender. The letter concerns public houses in Finglas, Dublin, stating that they are disruptive, naming specifically J. J. Flood, owned by James Joseph Flood (b. 1872). The author states that when they return from Sunday service they are met with locals falling about with drunkenness. The letter goes on to state that men are seen with barrels of porter and that there is fighting from morning to night. The letter ends with a call for restrictions on public houses.At the time this letter was written there is no official chief secretary for Ireland following the resignation of Augustine Birrell (1850-1933) on 3 May 1916. Birrell&#39;s resignation was a consequence of the 1916 Rising for which he accepted responsibility. His successor, Henry Edward Duke (1855-1939), was not officially appointed until 31 July 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5613/9369/1</collection>
+                  <idno>https://letters1916.ie/item/400</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-06-02</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-0528">Chief Secretary's Office, Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0400_img_1662_1"  type="Letter"  url="a85cdca3add312b6bb97892b34fc7d2b.jpg"/>
+      <graphic xml:id="L1916_0400_img_1662_2"  type="Letter"  url="06ab2b80b9e4b98ab6ff1b12052486af.jpg"/>
+      <graphic xml:id="L1916_0400_img_1662_3"  type="Letter"  url="6fc02775dc42bc79c8c151d11d3ec02c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0400_img_1662_1"/>
+                Dublin    2 . 6. 16.   Dear Sir   I wish to draw <lb/> your attention to some <lb/> of the Public Houses in <lb/> Finglas J.J Flood <lb/> in particular it is something <lb/><sic>Rediculous</sic> on Sundays when <lb/> are coming from Divine <lb/> Service to see the local  
+            <pb n="2" facs="L1916_0400_img_1662_2"/>
+              men falling about <lb/> Drunk &amp; the Police Men <lb/> seem to be asleep here <lb/> on Sundays as the are <lb/> not to be seen on Duty <lb/> see those men <sic>carring</sic><lb/> Buckets of Porter from <lb/> this Public House into <lb/> a yard <seg type="unclear">convenient</seg> to <lb/> my place there they are <lb/> Drinking &amp; Fighting from <lb/> morning till Night men falling about <lb/>Drunk &amp; the Police Men <lb/> seem to be asleep here <lb/> on Sunday as they are <lb/> not to be seen on duty <lb/> or see these men carrying <lb/> Buckets of Porter from <lb/> this Public House into <lb/> a yard connected to <lb/> my place. There they are <lb/> scrapping &amp; fighting from <lb/> Morning till Night  
+            <pb n="3" facs="L1916_0400_img_1662_3"/>
+              this is going on Sunday <lb/> after Sunday and I think <lb/> in a Troublesome time like <lb/> this there should be some <lb/><seg type="unclear">Reactions</seg> Put on this <lb/> Public House to keep <lb/> down this conduct   <seg type="unclear">Hoping</seg> Gentlemen <lb/> you will see to this  <seg type="closer"> Yours  <lb/>A Loyal <lb/>Subject  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

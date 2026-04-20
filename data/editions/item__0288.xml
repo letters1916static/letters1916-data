@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0288">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Stephens to John MacDonagh, 24 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Stephens</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from James Stephens to John MacDonagh (1880-1961). Stephens refers to the posthumous publication of some of the poems of John&#39;s brother, Thomas MacDonagh (1878-1916), one of the signatories of the Proclamation of the Irish Republic, executed for his part in the Easter Rising. Stephens writes that John that all the poems he sent can be published. He notes that he did not &#39;care for&#39; some of the poems and others were &#39;carelessly written&#39; and would have been reworked by MacDonagh if he had lived, but that they should be preserved nonetheless. He also suggests a later, &#39;representative&#39; edition of MacDonagh&#39;s work. The collection was edited by Stephens and published later in the year under the title &#39;The Poetical Works of Thomas MacDonagh&#39;.James Stephens (1880?-1950) was a writer who witnessed the events of the Easter Rising and published a famous account, &#39;The Insurrection in Dublin&#39;. John MacDonagh was an actor, playwright and theatre manager who fought under Thomas during the Rising and later worked for RTE.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Thomas MacDonagh Family Papers, Collection List No. 131, Ms. 20,648/2</collection>
+                  <idno>https://letters1916.ie/item/288</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0136">James Stephens</persName>
+              <date>1916-08-24</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0163">John MacDonagh</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0288_img_149_1"  type="Letter"  url="700f51988406f6e7e20de7a658e7c7c0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0288_img_149_1"/>
+               Dear Mr MacDonagh   I have read through the <lb/> poems you left with me <lb/> &amp; think that they might be <lb/> all printed. A few of them <lb/> I do not care for, &amp; some are <lb/> very carelessly written â Tommy <lb/> would have settled them if he <lb/> had lived. But in this edition <lb/> it is better to preserve all that <lb/> can be preserved, and, later on, <lb/> a selection might be made from <lb/> his verse which would be representative <lb/> of our poor friend at his best. I hope the <lb/> publishers will let me have a proof <lb/> of the few lines I wrote as preface.  <seg type="closer"> Yours very truly <lb/> James <hi rend="underline">Stephens</hi> <lb/>  Augt. 24 <hi rend="superscript">th</hi><hi rend="underline">1916</hi>  </seg> Written sideways down the right hand side of the page  By the way, the bulk of them of them were written three or four years <lb/> ago for I remember him repeating them to me   
+         </ab>
+      </body>
+   </text>
+</TEI>

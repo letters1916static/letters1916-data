@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0059">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Cathal Brugha to Éamonn Ceannt, 24 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Caitlín Burgess (Brugha)</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Cathal Brugha (1874-1922), revolutionary, to Éamonn Ceannt (1881), cultural nationalist and revolutionary. Brugha writes on the morning of the Easter Rising from his mobilisation point and asks when he should leave. Eoin MacNeill&#39;s countermanding order and the decision to postpone the Rising until Easter Monday led to much confusion and a far reduced number of men turned out.Cathal Brugha (born Charles Burgess) was an active nationalist, member of the Gaelic League and adjutant of the 4th Dublin battalion of the Irish Volunteers. During the Easter Rising Brugha was severely wounded serving as adjutant to Eamonn Ceannt but survived, while Ceannt was executed on 8 May 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Áine Ceannt Collection, BMH CD/94/4/2</collection>
+                  <idno>https://letters1916.ie/item/59</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1457">Caitlín Burgess (Brugha)</persName>
+              <date>1916-04-24</date>
+              <placeName key="#letters1916_place-0714">Emerald Square, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0397">Éamonn Ceannt</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0059_img_1120_1"  type="Letter"  url="46362dc447dcce67db79f5698cd9bd93.jpg"/>
+      <graphic xml:id="L1916_0059_img_1120_2"  type="Letter"  url="429d3bcdbaf5c30d5e208d788f552f5a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0059_img_1120_1"/>
+                To Comdt. Kent  Emerald <hi rend="underline">Square</hi>    Only 4 more has turned up in <lb/>addition to the messenger? What time shall <lb/> I leave? Hope you got my message <lb/> re not being able to procure <seg type="unclear">tagh</seg> <seg type="closer"> Cathal Brugha </seg> 10:22 Am <lb/>24.4.16 <lb/>For Cyclist  
+            <pb n="2" facs="L1916_0059_img_1120_2"/>
+              Note sent to Com. Ceannt by Cathal Brugha on Easter Mon. 1916. Emerald Square was the place of mobilization for 4th Batt.  
+         </ab>
+      </body>
+   </text>
+</TEI>

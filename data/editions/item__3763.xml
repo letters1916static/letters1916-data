@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3763">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Davidson to Clara Davidson, 6 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Davidson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from James Davidson (1877-1916) to his mother, Clara Mary (b.1852). Davidson writes that he and his company came safely through &#39;last night&#39;s performance.&#39; Davidson describes it as the worst experience that he or his men had experienced so far.
+
+This letter is part of a large correspondence from Captain James Davidson to his parents. Davidson, who was Managing Director of the Sirocco Engineering Works in Belfast, served with 13 Royal Irish Rifles and the Machine Gun Corps. His letters describe his experiences while training in England and serving in France. He was killed on 1 July 1916, the first day of the Battle of the Somme.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>PRONI-D3642-B-8-52</collection>
+                  <idno>https://letters1916.ie/item/3763</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1196">James Davidson</persName>
+              <date>1916-06-06</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Clara Mary Davidson</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1115">Seacourt, Bangor, Co. Down, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1916</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3763_img_3149_1"  type="Letter"  url="5c701c34d833ef95f2e8d419380f5dad.jpg"/>
+      <graphic xml:id="L1916_3763_img_3149_2"  type="Envelope"  url="6b7a0a780a22ff2d4e4321a29e98c6e6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3763_img_3149_1"/>
+             6/6/16   My dearest Mother   Just a line <lb/>to let you know that I + <lb/>my   came safely through <lb/>last <sic>nights</sic> performances. <lb/>Dermot Mill + I were <lb/>in a very bad spot + <lb/>Tommy Patterson was one of <lb/>the team. It was quite <lb/>the worst experience any <lb/>of us have had so far <lb/>but we had the most marvellous luck + <lb/>not one of us got a <lb/>scratch. Must now be off to the trenches to see <lb/>how things are.   With fondest <lb/>love You loving son   Jim 
+            <pb n="2" facs="L1916_3763_img_3149_2"/>
+             On Active Service   Written 6<hi rend="superscript">th</hi> <seg type="del">May</seg>  June  We<hi rend="underline">d</hi> 1916   Mrs S.C. Davidson <lb/>Seacourt <lb/>Bangor <lb/>Co Down <lb/>  6/6/16  Ireland 
+         </ab>
+      </body>
+   </text>
+</TEI>

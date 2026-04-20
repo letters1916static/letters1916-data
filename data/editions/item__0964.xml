@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0964">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J.E. Devlin to the Under Secretary of Ireland, 23 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J.E. Devlin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from J.E. Devlin to the under secretary of Ireland concerning the return of the expenses of prosecutors and witnesses in King&#39;s County.At the time this letter was written Sir Robert Chalmers (1858 - 1938) was serving as the under secretary of Ireland. Chalmers was sent to Ireland as a replacement for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, NAI-CSO-RP-1916-10678</collection>
+                  <idno>https://letters1916.ie/item/964</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0143">J.E. Devlin</persName>
+              <date>1916-06-23</date>
+              <placeName key="#letters1916_place-1501">Local Government Board, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0964_img_2788_1"  type="Letter"  url="165404b6e97a73f7dff4a5c96a3beead.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0964_img_2788_1"/>
+             <seg type="head"><hi rend="underline">CERTIFIED PROSECUTORS' AND WITNESSES' EXPENSES</hi></seg>   LOCAL GOVERMENT BOARD,  DUBLIN,    23<hi rend="superscript">rd</hi> June 1916   SIR,   I am directed by the Local Government Board for Ireland to send <lb/>back herewith, duly certified by the Auditor, Mr J.A. Baker, <lb/>the return of the Expenses of Prosecutors and Witnesses in <seg type="del">the County <lb/>of</seg> King's County for the halfâyear ended the 31st. <lb/>of March, 1916.  The documents which accompanied the Return are also enclosed. <seg type="closer"> I am, SIR, <lb/>Your obedient Servant,  J.E. Devlin  Assistant Secretary   to  The Under Secretary,  &amp;c, &amp;c, &amp;c  Dublin Castle.  </seg> I Order payment <lb/>II Send N.R. to County <lb/>Council. Return vouchers. <lb/>A/c fr V. Box. <lb/>IoF <lb/>24â6â16  
+         </ab>
+      </body>
+   </text>
+</TEI>

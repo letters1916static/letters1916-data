@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5950">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Arthur John Eagleston to the Under-Secretary, Dublin Castle, 4 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Arthur John Eagleston</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from A. J. Eagleston (1870-1944) to Sir Matthew Nathan (1862-1939), the Under-Secretary, Dublin Castle, confirming that the Petition of Right of John and Agnes Scott, John McCullough and Mary Shearer has been laid before the Lord Lieutenant of Ireland, with a copy of a letter from the War Office.Arthur John Eagleston was a civil servant who served as assistant secretary of the British Home Office from 1913-1932. Sir Matthew Nathan was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI, CSORP/1916/7280/3</collection>
+                  <idno>https://letters1916.ie/item/5950</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0023">Arthur John Eagleston</persName>
+              <date>1916-04-04</date>
+              <placeName key="#letters1916_place-0856">Home Office, Whitehall, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Under-Secretary, Dublin Castle</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5950_img_1800_1"  type="Letter"  url="cd2ff7449db612ac5f1f576315b6419e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5950_img_1800_1"/>
+                HOME OFFICE,  WHITEHALL    4th April, 1916.   Sir,   I am directed by the Secretary of State to transmit <lb/>to you, to be laid before His Excellency the Lord Lieutenant <lb/>of Ireland, the accompanying Petition of Right of John and <lb/>Agnes Scott, John McCulloch, and Mary Shearer, together with <lb/>a copy of a letter from the War Office with reference thereto; <lb/> and I am to request that the Petition may be referred to His <lb/>Majesty's Attorney-General for Ireland for the favour of his <lb/>report whether there is any objection to the document being <lb/>endorsed in the usual manner 'Let Right be done'. <seg type="closer">  I am, <lb/>Sir, <lb/>Your obedient Servant,  A.G.Eagleston   The Under Secretary,  Dublin Castle.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

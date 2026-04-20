@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3081">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from W.G. Lyons to Daniel Corkery, 1 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>W.G.Lyons</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Daniel Corkery (Dónal Ó Corcora) was a Cork-born politician, writer and academic. He was a leader in the Irish Language revival movement and co-founder of the Cork Dramatic Society in 1908.  This letter probably refers to Corkery&#39;s The Threshold of Quiet which was published in 1917 by The Talbot Press, 
+
+This letter is from the Daniel Corkery collection which is held in the Boole Library of University College Cork.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>UCC Library Special Collections and Archives</repository>
+                  <collection>Papers of Daniel Corkery  UC_DC_593</collection>
+                  <idno>https://letters1916.ie/item/3081</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1470">W.G.Lyons</persName>
+              <date>1916-01-01</date>
+              <placeName key="#letters1916_place-0857">89 Talbot Street, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Daniel Corkery</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0841">1 Auburn Villas, Ashburton, Cork</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Culture and the Arts</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3081_img_2484_1"  type="Letter"  url="81deabd1cce50e49b75e53a90e9b8708.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3081_img_2484_1"/>
+             <hi rend="underline">All Communications should be addressed to the Company.</hi>     THE EDUCATIONAL COMPANY<lb/>OF IRELAND, LIMITED   Factory<lb/>Established<lb/><hi rend="underline">1877.</hi>   <hi rend="underline">89 TALBOT STREET,</hi><lb/><hi rend="underline">DUBLIN,</hi>   1st January 1916 .  Telegraphic Address<lb/>Publish. Dublin <hi rend="underline">Telephone N<hi rend="superscript">os</hi> 2582 &amp; 2583.</hi>   M/MED<lb/>Daniel Corkery, Esq.,<lb/>1 Auburn Villas,<lb/>Ashburton,<lb/>CORK.   Dear Mr. Corkery,   If you have made any modifications in<lb/>the Novel you might let me have it again and I<lb/>will get another opinion regarding it.     I hope that you will give us an opportunity<lb/>of reading the other manuscripts which you mention —<lb/>the Poems, the Essays, and Hidden Island.   Yours faithfully,   W G Lyons  
+         </ab>
+      </body>
+   </text>
+</TEI>

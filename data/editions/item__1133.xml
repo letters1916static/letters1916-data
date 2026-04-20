@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1133">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Arthur John Eagleston to the Lord Lieutenant of Ireland, 7 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Arthur John Eagleston</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Arthur John Eagleston (1870-1944) on behalf of Sir Edward Troup, the under-secretary of state for the Home Office, to Sir Ivor Churchill Guest, 1st Viscount Wimborne (1873-1939). The letter encloses a copy of a letter sent from the Home Office to Professor B.J. Collingwood regarding an application he had made to be allowed to transfer a license giving him permission to conduct experiments on living animals in Ireland. The enclosed letter informs Collingwood that his license cannot be transferred and that he should procure fresh certificates from the Irish Government and return his old licenses to be cancelled.Arthur John Eagleston was a civil servant who served as assistant secretary of the British Home Office from 1913-1932. Ivor Churchill Guest, 1st Viscount Wimborne was appointed the Lord Lieutenant of Ireland in 1915. Guest worked closely alongside Sir Matthew Nathan (1862-1939) in the administration of Ireland. Following the suppression of the Rising, Guest, under pressure, was forced to resign as Lord Lieutenant. A later inquiry into the Rising exonerated Guest and held Augustine Birrell (1850-1933) chiefly responsible for the events that occurred. Guest would continue to serve as Lord Lieutenant until 1918.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>, CSO RP/5596/1916/671/3</collection>
+                  <idno>https://letters1916.ie/item/1133</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0023">Arthur John Eagleston</persName>
+              <date>1916-01-07</date>
+              <placeName key="#letters1916_place-0856">Home Office, Whitehall, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lord Wimborne</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1133_img_368_1"  type="Letter"  url="9e112f915d755fade1c02d43f68a87bc.jpg"/>
+      <graphic xml:id="L1916_1133_img_368_2"  type="Enclosure"  url="e1165a2660d4d37b7d06a29a55cc4c98.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1133_img_368_1"/>
+                HOME OFFICE,  WHITEHALL    7th January, 1916.   Sir,   I am directed by the Secretary of State to forward <lb/> herewith, for the information of His Excellency the Lord <lb/> Lieutenant, a copy of a letter which has been addressed to<lb/> Professor B.J. Collingwood on the subject of the transfer<lb/> to Ireland of his licence and certificates to perform<lb/> experiments on living animals. <seg type="closer"> I am,<lb/> Sir,<lb/> Your obedient servant,  A.J. Eagleston <lb/>  The Under Secretary,  Dublin Castle  </seg> 
+            <pb n="2" facs="L1916_1133_img_368_2"/>
+                7th January 1916   Sir,   In reply to your letter of the 30th ultimo, I am<lb/> directed by the Secretary of State to inform you that<lb/> your licence granted by him under the Act 39 &amp; 40 Vic.<lb/> cap.77 is not available for experiments in Ireland, and<lb/> that you should apply to the Irish Government for the grant<lb/> of the necessary certificates if you desire to perform<lb/> experiments there under the licence granted by the Chief<lb/> Secretary for Ireland.  Your present licence is accordingly revoked and <lb/> certificates A1 and E1 disallowed as from the 31st ultimo.<lb/> This will obviate the necessity of your name appearing in<lb/> the Annual Return for 1916, and will save you the inconvenience<lb/> of being called upon to furnish any further Return<lb/> of experiments.  I am to request that your licence may be returned to<lb/> this office in order that it may be cancelled. <seg type="closer"> I am,<lb/> Sir,<lb/> Your obedient Servant,   Professor B.J. Collingwood, M.D.,  Adelaide House,  Earlsfort Terrace,  Dublin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

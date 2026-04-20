@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0607">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Foreman of Works to Charles Arthur Munro, 13 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>R. Gourlay</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from the Foreman of Works to Charles Arthur Munro (1869-1952), Governor of Mountjoy Prison. In this letter, the foreman reports that a large portion of a wall, which acts as the boundary between the prison and the property of the North Circular Laundry, fell during a storm on the previous night. The Foreman of works goes on to describe the dimensions of the wall and estimates that it is ten feet in height and two feet in width. The writer goes on to state that the wall has ‘the appearance of being badly built and very old&#39;.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/2789</collection>
+                  <idno>https://letters1916.ie/item/607</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0775">R. Gourlay</persName>
+              <date>1915-11-13T00:00:00</date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">C. Munro</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1627">Mountjoy Prison, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0607_img_2019_1"  type="Letter"  url="3956ab922eaa99e63b95380cd0e06b87.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0607_img_2019_1"/>
+                Mountjoy Prison    13.11.15    I beg to report that during <lb/>the storm last night a portion <lb/>of the wall forming the boundary <lb/>between the grounds attached <lb/> to the Medical Officers quarters <lb/>and those of the North Circular <lb/>Road Laundry Company was <lb/>entirely blown down for a <lb/>length of 24 yards. no further <lb/>damage was caused. The wall <lb/>is 15 feet in height from the ground <lb/>and is built of rough rouble <lb/>stone and lime mortar, it is <lb/>2 feet thick and presents the <lb/>appearance of being badly <lb/>built and very old.  <seg type="closer"> R. Gourlay  Foreman of Works </seg> I interviewed Mr. Abraham <lb/>re the matter. He tells <lb/>me the wall is clearly <lb/>the property of the Laundry Coy. <lb/>and that the city could <lb/>have been in a way responsible <lb/>for the injury to the wall <lb/>by the recent storm. <lb/><hi rend="underline">JN</hi><lb/>2.12.15   The Governor <lb/> Submitted for the Board's <lb/>information.   Estimate of repair of this wall <lb/>will be submitted as Vote responsible   CAMunro <lb/>Governor   
+         </ab>
+      </body>
+   </text>
+</TEI>

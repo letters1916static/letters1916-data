@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0291">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John J. Farrell et al. to Robert Chalmers, 18 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John J. Farrell et al.</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from John J. Farrell (1876-1959) et al. to Robert Chalmers. The letter concerns the tax on the theatre, music halls and cinemas of Dublin 8. In the letter, Farrell claims that he and the signatories represent the District&#39;s theatres etc. and have asked Herbert Henry Asquith (1852-1928), the prime minister, to receive a deputation on the matter, who informed them to contact Chalmers. The men who signed the letter are John J Farrell (1876-1959), former lord mayor of Dublin, Lorcan G Sherlock (1874-1945), former lord mayor of Dublin, David Frame (1877-1946) and T. I. Bradlaugh. Sir Robert Chalmers (1858 - 1938) was sent to Ireland as replacement under-secretary for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>National Archive of Ireland-Chief Secretary&#39;s Office-Registered Papers, NAI/CSO/RP/1916/5611/8356/3</collection>
+                  <idno>https://letters1916.ie/item/291</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0623">John J. Farrell et al.</persName>
+              <date>1916-05-18</date>
+              <placeName key="#letters1916_place-1380">Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Culture and the Arts</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0291_img_1494_1"  type="Letter"  url="0ffc2e7d994c46c4be663fabe338985a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0291_img_1494_1"/>
+              <hi rend="underline">Managing Director Alderman J.J. Farrell. 'Phone â 4679<lb/><sic>Gen.</sic> Manager &amp; <sic>Sec.</sic> M<hi rend="superscript">r</hi> R. O'Russ. 'Phone â 4710<lb/> Bankers â THE BELFAST BANK L<hi rend="superscript">TD</hi> â TALBOT STREET</hi>  Reg<hi rend="superscript">d</hi>. Office <seg type="del">12 MARY STREET</seg> 62 Upper Sackville St.   Dublin    18 may 1916    Sir Robert Chalmers  Dublin Castle.   Sir,   We, representing the theatres, music<lb/> hall &amp; <sic>Kinemas</sic> in Dublin &amp; District asked the R<hi rend="superscript">t</hi>. Hon. the Prime Minister to receive a deputation<lb/> on the question of the theatre tax having regard to the <lb/>lamentable state of affairs here  The Prime minister was unable to receive<lb/> deputations but has written suggesting that ' we <sic>shd</sic><lb/> ' in the first instance refer the matter to you either by an interview<lb/> ' or by letter'  We therefore respectfully ask you to receive us &amp; have the<lb/> honour to be <seg type="closer"> Yours faithfully   John J.Farrell <lb/> Lorcan G Sherlock  Ex Lord Mayors<lb/> David Frame  Chairman<lb/> T. J. Bradlaugh  Vice Chairman</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

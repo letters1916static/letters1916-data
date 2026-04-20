@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2633">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">letter from Anna Duffin to Celia Duffin, 3 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Anna Duffin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/2633</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1206">Anna Duffin</persName>
+              <date>1915-12-03</date>
+              <placeName key="#letters1916_place-1376">Ulster Club, Belfast, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1155">Celia Duffin</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2633_img_2059_1"  type="Letter"  url="076245325d8b2e7e62e40c85f49e67d0.jpg"/>
+      <graphic xml:id="L1916_2633_img_2059_2"  type="Letter"  url="4eacdd5510fb0186bde3db051faca761.jpg"/>
+      <graphic xml:id="L1916_2633_img_2059_3"  type="Letter"  url="1ff8b169014bc60c7ccccb6354eb89d0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2633_img_2059_1"/>
+             D2109/9/4/C   Ulster Club<lb/>Belfast.   <lb/> Saturday<lb/>3rd Dec.1915    Dearest Celia   I send you a small<lb/>assortment of sweets, just to<lb/>remind you of home &amp; that<lb/>you are not quite forgotten  All goes well here, except<lb/>the mysterious disappearance<lb/>of some money. <seg type="unclear">questionable reading</seg> 
+            <pb n="2" facs="L1916_2633_img_2059_2"/>
+             Malies wh. is reading and<lb/><seg type="unclear"></seg>is nearly<lb/>unaccountable! I doubt<lb/>if we shall ever find out who<lb/>is the culprit.  <seg type="unclear">Salufactory</seg> letter from<lb/>Terry a&amp; Charley which will<lb/>doubtless be passed on to you.<lb/>I hope your weather is<lb/>better than ours. It is in-<lb/>conceivably nasty here. Sleet<lb/>on the hills &amp; rain &amp; mud<lb/>in the streets. 
+            <pb n="3" facs="L1916_2633_img_2059_3"/>
+             Minnie Ewing is getting better.<lb/>We were greatly afraid that<lb/>he would go off again he<lb/>was in such a nervous upset<lb/>but I think he will be all<lb/>right now.  Do you know that I shall<lb/>be 74 on Monday! I can<lb/>hardly believe it.   Best Love<lb/>from dearest<lb/>Anna Duffin.  
+         </ab>
+      </body>
+   </text>
+</TEI>

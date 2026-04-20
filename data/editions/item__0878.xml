@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0878">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Pass from Seamus Doyle to Thomas Kelly, 27 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Seamus Doyle</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A pass allowing Dr Thomas Kelly&#39;s, a local doctor, to use his motorcar in the aftermath of the Rising. The pass was issued by Seamus Doyle, a Captain with the Irish Volunteers in Enniscorthy, Co Wexford. Seamus Doyle was lieutenant in the Enniscorthy battalion of the Irish Volunteers and one of the men active in Enniscorthy during the Easter Rising, one of the few places outside Dublin to see any military action.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Wexford County Archive</repository>
+                  <collection>WXCA/1916/GEN/261, WXCA/1916/GEN/261</collection>
+                  <idno>https://letters1916.ie/item/878</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0651">Seamus Doyle</persName>
+              <date>1916-04-27</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas Kelly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0878_img_2447_1"  type="Letter"  url="a2116d0b8dc153ea531336b653f150c6.jpg"/>
+      <graphic xml:id="L1916_0878_img_2447_2"  type="Letter"  url="6b5929d08c044af31601131911a9ddc2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0878_img_2447_1"/>
+              Pass Dr Thos J Kelly with <lb/>motor car <seg type="unclear">RI 1572</seg>.  This Pass is permanent &amp; is <lb/>to be kept by bearer <seg type="closer"> Seamus Doyle   27/4/16  </seg> 
+            <pb n="2" facs="L1916_0878_img_2447_2"/>
+               
+         </ab>
+      </body>
+   </text>
+</TEI>

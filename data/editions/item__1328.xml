@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1328">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Finn to May Fay, 27 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Finn</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from a series of correspondence between James Finn and his fiancée Mary (May) Fay. The letter refers to May&#39;s impending visit and also to a wedding of a person known to the both of them.James Finn and Mary Fay became engaged in January 1916 and married in June. They were not to be married long as in 1919 he fell ill with the great flu epidemic, it led to heart damage and he died in 1922 as she was expecting their fourth child. She held on to his letters as her reminder of him. James Finn (1877 - 1922) was a civil servant, working in the National Health Service Commission on Mount Street. Family history says that he was advising on the restructuring of the civil service as part of setting up the new government in 1922 and that eminent figures in that project were visiting him in his sick bed so that they could consult with him. Neither May nor James were politically active, although like many in the Civil Service, learned Irish. One can sense their shifting sympathies in the letters.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Finn Family Collection</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/1328</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0500">James Finn</persName>
+              <date>1916-01-27</date>
+              <placeName key="#letters1916_place-1063">Rathmines, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0367">May Fay</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0075">Togherstown, Westmeath, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1328_img_636_1"  type="Letter"  url="4550eefd6f8dec1454311f4955060c24.jpg"/>
+      <graphic xml:id="L1916_1328_img_636_2"  type="Envelope"  url="49acc036fd451a0e731a6978ea140dfe.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1328_img_636_1"/>
+                27 Jan, 1916.   My darling girl,   This is going to be a very short <lb/> note indeed. Glad to see from your letter today <lb/> that mumps are better and that we may <lb/> really hope to see you both on Saturday. If <lb/> you are coming by first train <hi rend="underline">let me know</hi><lb/> as I should like to meet you at station <lb/> shall be on tenderhooks until then. By the <lb/> way wasn't a bit hurt over Miss Gertie Kelly's <lb/> remarks about the dancers. I suppose you'll <lb/> see the marriage in Dublin next week if you <lb/> care to turn up at Church. Where is it to be <lb/> and is Father McNamee going to pull the bolt. <lb/> If they're looking for a cheap job they ought to go <lb/> to the Registry Office as John threatened he would. <lb/> Remember me to your mother and Mrs S.  <seg type="closer"> Your loving little man <lb/> James </seg> 
+            <pb n="2" facs="L1916_1328_img_636_2"/>
+              If USED FOR TRANSMISSION TO ANY PLACE ABROAD TO WHICH THE 1d. RATE <lb/> OF LETTER POSTAGE DOES NOT APPLY, THE ADDITIONAL POSTAGE REQUIRED <lb/> SHOULD BE PREPARED BY MEANS OF ADHESIVE POSTAGE STAMPS.    Upsidedown on image   Miss Fay  Togherstown  Ballina  <hi rend="underline">Mullingar</hi>    
+         </ab>
+      </body>
+   </text>
+</TEI>

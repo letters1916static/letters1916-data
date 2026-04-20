@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6716">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Bishop Bernard Coyne to Fr. Michael O'Flanagan, 5 June 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Bishop Bernard Coyne</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Fr Michael O&#39;Flanagan (1876–1942) was a Catholic priest and well-known nationalist. He was elected vice president of Sinn Féin in 1917. O&#39;Flanagan&#39;s Bishop has written to him to complain that he has had reports of him attending public meetings regarding the East Cavan by campaign at Cootehill, Ballyjamesduff, and Bailieboro.  Ballyjamesduff is the location of what became known as Fr O&#39;Flanagans &#39;Suppressed Speech&#39; as it was completely censored.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>O&#39;Flanagan Private Collection</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/6716</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0228">Bishop Bernard Coyne</persName>
+              <date>1918-06-05</date>
+              <placeName key="#letters1916_place-1190">Bishop&#39;s House, Culliss, Co. Cavan</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0313">Fr Michael O&#39;Flanagan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1079">Sligo</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1926</item>
+               <item n="topic">The Rising Tide (1917-1919)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6716_img_None_1"  url="phpmtY226.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6716_img_0_1"/>
+              St. Mary's<lb/>Sligo    5th June, 1918    Dear Fr. O'Flanagan   I have been informed, on unquestionable<lb/>authority, that you attended a public meeting at Cootehill on the<lb/>19th May, a public meeting at Ballyjamesduff on the 26th May, and<lb/>a public meeting at Bailieboro' on the 2nd June, without having<lb/>obtained in any instance the permission of the parish priest of<lb/>the place. This, as you know, was a direct violation of the<lb/>Maynooth Statute (page 121, No. 397), and meant in your case an<lb/>ipso facto suspension, as you have already been informed in my<lb/>letters of 25th January 1917 abd 24th October 1917. Lest,<lb/>however, there should be any further doubt about the matter, I hereby<lb/>withdraw from you the ordinary facilities of the diocese, including<lb/>the permission to say Mass.  This grave, deliberate, and public violation of<lb/>ecclesiastical discipline is serious enough in itself. But it<lb/>becomes much more serious when considered in connection with what<lb/>appears to be your studied contempt and disregard of my repeated<lb/>warnings and repremands. As you seem to have assumed throughout<lb/>an attitude of defiance and conumacity, I have no hope that you<lb/>will show any signs or give any proofs of amandement which would<lb/>justify the restoration of any diocesan facilities in the future.   I am,<lb/>Yours faithfully,  
+         </ab>
+      </body>
+   </text>
+</TEI>

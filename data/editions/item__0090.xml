@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0090">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Herbert Hale to Mr Campbell, 4 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Herbert Hale</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Herbert Hale (b. 1872) a civil servant in the Royal Irish Constabulary Office to a Mr. Campbell. The letter was written on the the 4 May 1916 and contains details of Hale&#39;s whereabouts from the 22 April to 24 April, the days preceding the Easter Rising 1916. In the aftermath of the Rising civil servants were requested to provide information about their whereabouts during the Rising to prove that they had not been involved with the rebels.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI, CSO RP/1916/</collection>
+                  <idno>https://letters1916.ie/item/90</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0280">Herbert Hale</persName>
+              <date>1916-05-04</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0054">Campbell</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0090_img_1165_1"  type="Letter"  url="18b254089a747bbccad85b8ebcadce8b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0090_img_1165_1"/>
+              a.m 1    R.I.Constabulary Office,    4th May, 1916.   Mr. Campbell,   In reply to inquiry, I have to state that on the<lb/> afternoon of Saturday, 22nd April, I was at Rathfarnham Castle Golf Club, on Sunday, 23rd April, I was at Delgany <lb/> Golf Club, on Monday, 24th April, I was at Rathfarnham Castle <lb/> Golf Club, and on the remaining days up to 1st May, I was<lb/> either at my place of residence, 3 Seaview Terrace, Donny-<lb/> brook, or in the immediate vicinity. I slept each <lb/> night during the period 22nd April to 1st May at the above <lb/> address - 3 Seaview Terrace, Donnybrook. <seg type="closer"> Herbert Hale </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

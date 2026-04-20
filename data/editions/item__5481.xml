@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5481">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Herbert Henry Asquith, 2 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Herbert Henry Asquith</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter was written by Herbert Henry Asquith (1852-1928), then Liberal Prime Minister of Great Britain. The letter is a response to an appeal for clemency for Sir Roger Casement (1864-1916) who was under a sentence of death. He writes that the British Cabinet had decided that they could not offer a reprieve. Casement had been imprisoned in London after he had been arrested while landing on the coast of Kerry in a submarine on the eve of the Easter Rising. A campaign was launched featuring many prominent figures such as W.B. Yeats and George Bernard Shaw to secure a reprieve for Casement but he was hanged on 3 August 1916, the day after this letter was written.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casement Papers, Collection List No A15; Ms. 13,078 /7</collection>
+                  <idno>https://letters1916.ie/item/5481</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0582">Herbert Henry Asquith</persName>
+              <date>1916-08-02</date>
+              <placeName key="#letters1916_place-0737">10 Downing Street, Whitehall, London, UK</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1928</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5481_img_514_1"  type="Letter"  url="7bb99f8184f571e6c24e03745dca8ec0.jpg"/>
+      <graphic xml:id="L1916_5481_img_514_2"  type="Letter"  url="78d60322f560f706a585e7ec9c4bc85e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5481_img_514_1"/>
+             10, Downing Street, <lb/>Whitehall S.W.   <hi rend="underline">Private</hi>   2 Aug 1916   Dear Madam,   It is with <lb/>sincere pain (&amp; only <lb/>in compliance with your <lb/> request) that I inform <lb/>you that, after my <lb/>full consideration, the <lb/>Cabinet today came
+            <pb n="2" facs="L1916_5481_img_514_2"/>
+            to the conclusion that <lb/>there were no sufficient <lb/>grounds for a reprieve.   I need not assure you <lb/>that I wish it had <lb/>been possible for them <lb/>to arrive at a different <lb/>decision.   Yours very faithfully   H.H.Asquith   This is a <hi rend="underline">secret</hi> communication.   I am returning the <lb/> documents. 
+         </ab>
+      </body>
+   </text>
+</TEI>

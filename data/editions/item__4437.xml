@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4437">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Bell to William Johnson, 1 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Robert Bell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from William Bell to solicitor William Johnson regarding previous correspondence about the removal of the remains of Mrs Campbell from one grave to another in the Burren burial ground.
+
+William Robert Bell (1873-1930) was a clerk for Newry District Urban Council for Co. Down.
+
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI/CSO/RP/1916/10801/2</collection>
+                  <idno>https://letters1916.ie/item/4437</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1422">William Robert Bell</persName>
+              <date>1916-06-01</date>
+              <placeName key="#letters1916_place-1485">Newry, Co. Down, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0757">William Johnson</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1485">Newry, Co. Down, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1930</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4437_img_3788_1"  type="Letter"  url="ae17f29e3112f7b74d253bae933318b9.jpg"/>
+      <graphic xml:id="L1916_4437_img_3788_2"  type="Enclosure"  url="9ca95ff1bd29b8b0a7358d4b7af66d99.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4437_img_3788_1"/>
+             NEWRY No. 1 RURAL DISTRICT COUNCIL. <lb/>COUNTY OF DOWN. <lb/>Rural District Council Offices, <lb/>Workhouse, Newry.   1st. June 1916.  <lb/><hi rend="underline">Re Mrs Mary Campbell, Warrenpoint, Dead</hi>  Dear Sir,  <lb/>With reference to my letter of the 16th ult. and further <lb/>correspondence, I now send you a copy of a resolution adopted by the <lb/> Sanitary Authority, consenting to the removal of the remains of Mrs <lb/>Campbell from one grace to another in the Burren burial ground.  Yours faithfully,   William Bell  <lb/>Clerk of Council. <lb/>"That the Newry No. 1. Rural District Council, being the Sanitary <lb/>Authority for the district in which the Burren grave-yard is situated, <lb/>hereby consent to the removal of the body of Mrs Campbell from the grave <lb/>in which it is interred to another grave in the same burial ground."  Wm. Johnson. Esq., <lb/>Solicitor, <lb/>Newry. 
+            <pb n="2" facs="L1916_4437_img_3788_2"/>
+             WE, the Undersigned, Most Reverend Edward Mulhern <lb/>Bishop of Dromore and The Reverend Felix Magennis Parish <lb/>Priest of Warrenpoint and Clonallon being the Authority in <lb/>whom the Burren Roman Catholic Burying-ground County Down <lb/>is vested do hereby consent to the removal of the remains <lb/>of the late Mrs. Mary Campbell who died at Warrenpoint on <lb/>the 16th February 1916 being removed from the grave in <lb/>which it is interred in the said Burren Roman Catholic <lb/>Burying-ground and to the said remains being re-interred <lb/>in her Husband's grave in said graveyard.   Edward Mulhern   Felix Magennis   To the Under Secretary, <lb/>Dublin Castle, Dublin and <lb/>Messrs. James Kelly and John <lb/>Crawford Executors of Mary Campbell <lb/>deceased and all others whom it may concern.  
+         </ab>
+      </body>
+   </text>
+</TEI>

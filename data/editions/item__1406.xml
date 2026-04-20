@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1406">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward O'Farrell to Sir Charles Edward Troup, 4 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward O&#39;Farrell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Sir Edward O&#39;Farrell (c.1857-1926), the Assistant Under Secretary to the Lord Lieutenant of Ireland, Sir Ivor Guest Churchill, Lord Wimborne. The letter was addressed to Sir Charles Edward Troup (1857-1941). Troup was a civil servant, becoming permanent under-secretary of state at the Home Office from 1908 until 1922. He took special interest in police and criminal work while employed in the Home office.The letter states the O&#39;Farrell is sending Troup a letter from the Bishop of Meath supporting the application of Gustav Adolf Etter, a prisoner of war, for release from internment.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3906</collection>
+                  <idno>https://letters1916.ie/item/1406</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date>1916-03-04</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">(Charles) Edward Troup</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2116">Home Office, Whitehall, London S.W., United Kingdom</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1406_img_804_1"  type="Letter"  url="2cdab4525a85df6665386a5555b5b1f3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1406_img_804_1"/>
+                4th March,1916.   No.3906  Sir,   In continuation of my letter of the 8th <lb/>ultimo, No. 2265, I am directed by the Lords <lb/>Justices to transmit, to be laid before the <lb/>Secretary of State, the attached further letter <lb/>from the Bishop of Meath in support of the <lb/>application of Gustav Adolf Etter for release <lb/>from internment.  <seg type="closer"> I am, <lb/>Sir, <lb/>Your obedient Servant,   E O Farrell   The Under Secretary,Secretary of State,  Home Office,  London. S.W.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

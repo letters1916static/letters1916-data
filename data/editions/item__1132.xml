@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1132">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to Monsieur Loiseleur des Longchamps-Deville, 22 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Neville Francis Fitzgerald Chamberlain</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter to Monsieur Jean des Longchamps-Deville (1872-1969) regarding the status of two men who are willing to serve in the French Army. In the letter, the writer requests a refund for the two men&#39;s travel expenses in the event that the they are unwilling to pay their own fares.Monsieur Jean Louis Amable Loiseleur des Longchamps-Deville served as the French Consul in Ireland from 1913.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI CSO/RP/1916/442/9/5, NAI CSO/RP/1916/442/9/5</collection>
+                  <idno>https://letters1916.ie/item/1132</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0205">Neville Francis Fitzgerald Chamberlain</persName>
+              <date>1915-12-22</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Jean Louis Amable Loiseleur des Longchamps-Deville</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0931">8 Leinster Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1132_img_367_1"  type="Letter"  url="81675766136ac84a3107a68ad976c639.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1132_img_367_1"/>
+                ROYAL IRISH CONSTABULARY OFFICE.  DUBLIN CASTLE,    22nd December, 1915.  <lb/>92127 C.  Dear Sir,   Referring to your letter of 18th instant <lb/> relative to Louis Herr and Romain Willmann who are willing <lb/> to serve in the French Army, I regret that I have no funds <lb/> out of which I could pay the travelling expenses of these <lb/> men to Dublin. It is probable that they will be willing <lb/> to pay their own fares, but in case they do not do so may <lb/> I rely on you for a refund of the amount which will be <lb/> Â£1.2.4 in all viz: â 13/6 from Londonderry, and 8/10 <lb/> from Roscommon (third class) ?   On hearing from you I will gladly issue <lb/> directions to the Police to give these men all facilities <lb/> for travelling.  <seg type="closer"> Yours faithfully,  <hi rend="underline">WC</hi> </seg>   Monsieur Loiseleur des Longchamps,  French Consul,  8 Leinster Street,  DUBLIN.    
+         </ab>
+      </body>
+   </text>
+</TEI>

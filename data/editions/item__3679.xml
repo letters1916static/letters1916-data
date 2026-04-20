@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3679">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Alfred Miller to the Registrar, Royal College of Physicians of Ireland, 22 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Alfred Miller</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter enclosing a cheque and the statement of accounts. 
+
+The letter was signed by Alfred Miller (1884-1949). Miller served as both the registrar of the Royal College of Surgeons (1910-1938) and as secretary to the Conjoint Board of the College of Physicians and College of Surgeons. At the outbreak of the Rising Miller instructed James Duncan, the college porter, to lock the college doors in order to deter Michael Mallin&#39;s occupying rebel force in St. Stephen&#39;s Green. 
+
+The letter has been initialled by Ephraim MacDowel Cosgrave (1853-1925). Cosgrave served as president of the Royal College of Physicians of Ireland in 1914 and held the position until 1916. Aside from his dedication to medicine Cosgrave was also a member of the Royal Society of Antiquities of Ireland, treasurer of the Royal Zoological Society of Ireland and a founder and secretary of the Georgian Society of Dublin.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T52</collection>
+                  <idno>https://letters1916.ie/item/3679</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0696">Alfred Miller</persName>
+              <date>1915-12-22</date>
+              <placeName key="#letters1916_place-1277">Royal College of Surgeons, Stephen&#39;s Green. Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1499">Ephraim MacDowel Cosgrave</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="death">1942</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3679_img_3072_1"  type="Letter"  url="098a44cbccc1b269ec5feb2ca92eda1a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3679_img_3072_1"/>
+             CONJOINT BOARD IN IRELAND <lb/>OF THE <lb/>Royal College of Physicians and the Royal College <lb/>of Surgeons.  <lb/>OFFICES OF COMMITTEE OF MANAGEMENT, <lb/>ROYAL COLLEGE OF SURGEONS, <lb/>STEPHEN'S GREEN, <lb/>DUBLIN,    22/12/1915   ALFRED MILLER, <lb/>Secretary.   Dear Sir,   I am directed to send you the enclosed cheque value £193-15-9 <lb/>together with Statement of Accounts which I trust you will find in <lb/>order.   I am, <lb/>Yours faithfully,   Alfred Miller.  <lb/>Secretary.,  The Registrar, <lb/>Royal College of Physicians <lb/>Kildare St. Dublin   MacDC <lb/>7.I.16 
+         </ab>
+      </body>
+   </text>
+</TEI>

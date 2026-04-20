@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0139">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Lieutenant Colonel R. L. Owens to Anna O'Rahilly, 29 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>R. L. Owens</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Lieutenant Colonel R.L. Owens to Anna O&#39;Rahilly. In this letter Owens informs Miss O&#39;Rahilly that he has been in communication with the commanding officer at Moore Street and that he has no information regarding the missing articles which Miss O&#39;Rahilly is searching for. He states that the company of his battalion was relieved at 5:30 pm Saturday 29 April by a company of the 26th Notts and Derby Regiment. This letter is part of a series of correspondence in which Miss O&#39;Rahilly is attempting to locate a watch belonging to Michael O&#39;Rahilly which was not returned to the family after his death. Owens was a Lieutenant Colonel at Richmond Barracks and served over the 3rd Battalion of the Royal Irish Regiment. This was one of the regiments involved in helping to defeat the Rising in 1916. Anna O&#39;Rahilly was the sister of Michael O&#39;Rahilly. Michael Joseph &#39;The&#39; O&#39;Rahilly (1875–1916) was a nationalist and a journalist. In 1916 he aligned himself with Eoin MacNeill and Bulmer Hobson who opposed a preemptive rising. Although O&#39;Rahilly played a large role in delivering MacNeill&#39;s countermanding order he felt obligated to stand with the men he recruited and trained. O&#39;Rahilly was fatally wounded on the Thursday 27 April when the GPO was being evacuated.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Sighle Humphreys Papers, P106/124/3</collection>
+                  <idno>https://letters1916.ie/item/139</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0601">R. L. Owens</persName>
+              <date>1916-05-29</date>
+              <placeName key="#letters1916_place-0863">Richmond Barracks, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0639">Anna O&#39;Rahilly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1708">54 Northumberland Road, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0139_img_1259_1"  type="Letter"  url="57b82cce206329b8acb17f54fecdb03a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0139_img_1259_1"/>
+                RICHMOND BARRACKS,  DUBLIN.    29th May 1916.   Dear Madam,   In continuation of my letter of the <lb/> 28th instant. I beg to inform you that I have been<lb/> in communication with the Officer Commanding the<lb/> Company of my Battalion on duty at Moore Street during<lb/> the Rebellion, and regret I can give you no information<lb/> regarding the missing articles.  The Company of my Battalion was relieved<lb/> at 5.30 p.m. on Saturday 29th April by a Company of the<lb/> 2/6th Notts &amp; Derby Regiment, and up to that time our <lb/> men remained at their post at the Barricade North of <lb/> Moore Street. <seg type="closer"> Yours Truly, <lb/> R.L. Owens <lb/> Lieut. Colonel.<lb/> Commanding 3rd Battalion The Royal Irish Regt.<lb/>  To,  Mrs. Anna O'Rahilly  54, Northumberland Road,  DUBLIN.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4294">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Henry Mulholland to Pembroke Wicks, circa November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Henry Mulholland </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Henry Lyle Mulholland, 2nd Baron Dunleath (1854-1931) to Pembroke Wicks, the private secretary of Edward Carson (1854-1935). Carson was a prominent Unionist Politician. Originally a practicing solicitor from Dublin, Carson&#39;s opposition to the proposed third Home Rule bill made him the figure head of Unionism throughout the island. He was the centerpiece of the speaking tour that culminated in Ulster Day (28 September 1912), when just under half a million signed Ulster&#39;s solemn league and covenant pledging to use ‘all means which may be found necessary to defeat the present conspiracy to set up a home rule parliament in Dublin’. Carson inaugurated the Larne gunrunning in 1914 which armed the UVF, many of whom Carson would encourage to join the British Army throughout the First World War. Mulholland, Conservative Member of Parliament, was the Sheriff of County Down. His eldest son, Andrew,  was killed in the Great War.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Carson Papers, D1507/A/14/10</collection>
+                  <idno>https://letters1916.ie/item/4294</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1095">Henry Mulholland </persName>
+              <date>1915-11</date>
+              <placeName key="#letters1916_place-0848">Pinmore House, Ayrshire, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0539">Edward Carson</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1931</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4294_img_3657_1"  type="Letter"  url="e8eafc4e89addcba8f87edae82cf976b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4294_img_3657_1"/>
+             Pinmore House <lb/>Daljarrock <lb/>Ayrshire <lb/>N.B.   Dear Sir   When writing to Sir Edward Carson <lb/>two to three weeks ago, I enclosed a letter <lb/>from Sir James <seg type="unclear">Strange</seg> &amp; some other papers — <lb/>If you have kept them, I shall feel much <lb/>obliged if you will return them to me <lb/>to the above address   I remain dear Sir <lb/>Yours very truly   <seg type="unclear">Dunleath</seg>   <hi rend="underline">To</hi> The Private Secretary <lb/>to The Rt. Honourable Sir Edward Carson <lb/>M.P.P.K.C.<seg type="unclear">R</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

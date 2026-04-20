@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4198">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J. des Longchamps to Sir Matthew Nathan, 6 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J. des Longchamps</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter to the Under Secretary regarding Romain Willman&#39;s willingness to serve in the French army, provided his sister is allowed to come to Londonderry to help his wife in their business during his absence.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI CSO/RP/1916/442/1/1</collection>
+                  <idno>https://letters1916.ie/item/4198</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1075">J. des Longchamps</persName>
+              <date>1916-01-06</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4198_img_357_1"  type="Letter"  url="7d1e247470fc3103db4ca11d7017d5fe.jpg"/>
+      <graphic xml:id="L1916_4198_img_357_2"  type="Letter"  url="056f0a9d8c5105f4a465679dd45652b3.jpg"/>
+      <graphic xml:id="L1916_4198_img_357_3"  type="Letter"  url="d8f156c1226c2bbe0ca9dee1bbb4ec0e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4198_img_357_1"/>
+             Londonderry has declared his<lb/>willingness to serve in the French<lb/>Army, provided his sister<lb/>now residing in France, be<lb/>allowed by the Home Office,<lb/>to come to Londonderry and<lb/>help his wife in his trade<lb/>during his absence. The<lb/>matter is actually under<lb/>consideration by the Home<lb/>Office Under Secretary of State.  <hi rend="underline">Louis Herr of Londonderry<lb/>interned at Roscommon,<lb/>having declared his readiness<lb/>to serve in the French Army<lb/>has been sent to France by<lb/>my care on the 29th December<lb/>last.</hi><hi rend="underline"><lb/><lb/>Joseph Cheray</hi>, of 45 Rutland<lb/>Square Dublin has declared<lb/>to me that he was unwilling<lb/>to serve in the French Army 
+            <pb n="2" facs="L1916_4198_img_357_2"/>
+             <seg type="foreign">CONSULAT DE FRANCE<lb/>EN IRELANDE.</seg>   Dublin  le  6th January 1916 <lb/><hi rend="underline">Confidential</hi>   Sir,   Alsatians in Ireland  With reference to your<lb/>letter of the 4th January 1916 No. 29<lb/>I have the honour to forward to you<lb/>the following particulars regarding<lb/>the Alsatians Louis Herr, Romain<lb/>Willmann and Joseph Cheray.  <hi rend="underline">Romain Cheray</hi> of   To the Under Secretary<lb/>The Castle<lb/><hi rend="underline">Dublin</hi>    The cases of these 3 men are<lb/>dealt with in separate<lb/>files.<lb/>    
+            <pb n="3" facs="L1916_4198_img_357_3"/>
+             and that he did not mind if<lb/>he was considered as a German<lb/>by the British Authorities. I<lb/>have reported his answers to the<lb/>Home Office.  I am,<lb/>Sir,<lb/>Your obedient Servant  <lb/><seg type="foreign">Le Consul de France</seg><lb/> J des Longchamps  
+         </ab>
+      </body>
+   </text>
+</TEI>

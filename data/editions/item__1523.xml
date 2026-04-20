@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1523">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mary to Mrs. O'Rahilly, 19 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mary</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter of condolence from Mary to Nancy O&#39;Rahilly (1875-1961). The writer expresses sincere sympathy on the death of O&#39;Rahilly and assures Mrs. O&#39;Rahilly of the prayers of her whole family. She asks after the children and Sara.She was a member of the Provisional Council of Cumann na mBan at the founding in 1914 and the wife of Michael Joseph O&#39;Rahilly, self-described as &#39;The&#39; O&#39;Rahilly (1875-1916). The O&#39;Rahilly fought in the Easter Rising and was shot in Parnell/Moore Street on 28 April 1916 and died some time later. Nancy was pregnant at the time of her husband&#39;s death – the child was born three months later.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Humphreys Papers, P106/120/31</collection>
+                  <idno>https://letters1916.ie/item/1523</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0227">Mary</persName>
+              <date>1916-05-19</date>
+              <placeName key="#letters1916_place-0908">Bavin, Kilcar, Co. Donegal, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1534">Nancy O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1523_img_984_1"  type="Letter"  url="7ddf71672134c0941581e2cdcc66e5fd.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1523_img_984_1"/>
+                Bavin  Kilcar  Co. Donegal    May 19th 1916.   Dear Mrs O'Rahilly,   Please accept my <lb/>most sincere sympathy in your sad <lb/> bereavement.   It was with feelings of <lb/>deep regret I learned the news of the <lb/> dear Master's sad end. (R.I.P.)   Words cannot express how <lb/>sorry I feel at his death, and for yourself &amp; <lb/>the children, who only too well realize his <lb/>loss. I will never forget to pray for the <lb/> repose of his soul, which is the only thing <lb/> I can do. Indeed many a fervent prayer <lb/>has been offered up by all the members of <lb/>the family.   How is little Myles.? He is a big <lb/> boy now I'm sure. Give my love to the <lb/> children all, and may God give you <lb/>strength to bear your cross.  <seg type="closer"> I remain <lb/>Your faithful N______   Mary. </seg><seg type="postscript"> P.S. I hope Sara is with you always. If so <lb/>remember me to her. <lb/>M. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

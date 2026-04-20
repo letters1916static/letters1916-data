@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1844">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from S. M. O'Meara to Anna O'Rahilly</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>S. M. O&#39;Meara</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from S. M. O&#39;Meara to Anna O&#39;Rahilly, the sister of Michael Joseph O&#39;Rahilly (1875-1916), an Irish volunteer who was killed on Moore Street during the 1916 Easter Rising while trying to find a way out of the General Post Office. The letter concerns money which the author states Anna will soon receive. The letter goes on to discuss the distribution of the money through a maintenance committee.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Sighle Humphreys Papers; P106/183/1/1</collection>
+                  <idno>https://letters1916.ie/item/1844</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0994">S. M. O&#39;Meara</persName>
+              <date>1916</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0639">Anna O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1844_img_1299_1"  type="Letter"  url="5a578386c1cd895d27a3ec70df6f9d51.jpg"/>
+      <graphic xml:id="L1916_1844_img_1299_2"  type="Letter"  url="8472800007d01dd341da27a585ddd5a2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1844_img_1299_1"/>
+             Shelbourne Hotel<lb/> Dublin  Tel 4291 3 lines<lb/>  My dear Miss O’Rahilly   You will soon receive<lb/> a few thousand pounds from <seg type="unclear">Limerick</seg><lb/> Send receipt  in duplicate  to me<lb/> to Browns Hotel Dover<lb/> St London.   The amount would<lb/> be considerably larger<lb/> had you acted in regard <lb/> to distribution of<lb/> other sums in a less
+            <pb n="2" facs="L1916_1844_img_1299_2"/>
+            parochial spirit.   I am now retaining<lb/> sufficient for <seg type="unclear">Limerick</seg><lb/> needs for about three<lb/> months. I regret that<lb/> this course has been forced<lb/> upon me as no fund can really be<lb/> fairly distributed except<lb/> through a national<lb/> committee. I expect in<lb/> a few months to receive other sums which I hope<lb/> to be able to hand over<lb/> to you as it is not my<lb/> intention to divert your<lb/>  revenues unless you force<lb/> me to do so by again<lb/> refusing to advance a penny to relieve distress<lb/> in  such places as  Limerick whilst you<lb/> are distributing £750 per<lb/> week in Dublin.   Mise le meas  S. M. Ó Meára
+         </ab>
+      </body>
+   </text>
+</TEI>

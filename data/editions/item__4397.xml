@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4397">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Dorothy Duffin to Maria Duffin, 28 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Dorothy Duffin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is part of a rich correspondence between various members of the Duffin family, a large prosperous family living in  Strandtown, Belfast. Several family members served in the war, including Major Terence Duffin, who served as a staff officer with 107 Brigade, and later with Royal Irish Rifles; Major Charles G Duffin MC, Royal Field Artillery; and their sisters Emma, Celia and Dorothy who served as Voluntary Aid Detachments (VADS) in Egypt and France, and with the YMCA.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Duffin Family Papers; D2109/9/4/B</collection>
+                  <idno>https://letters1916.ie/item/4397</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1065">Dorothy Duffin</persName>
+              <date>1915-11-28</date>
+              <placeName key="#letters1916_place-2016">16 General Hospital, Le Tréport, France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0664">Maria Duffin</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4397_img_3750_1"  type="Letter"  url="3f2d49db2c29c4dbf49596e813c1b40c.jpg"/>
+      <graphic xml:id="L1916_4397_img_3750_2"  type="Letter"  url="f3330bb00f0c1927c9b311945165dd35.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4397_img_3750_1"/>
+             Sunday Nov 28<hi rend="superscript">th</hi> 1915   No. 16 General <lb/>Hospital <lb/>S.P.O. V13  <lb/>Dear Mamma  I was glad to see <lb/>your letter this morning. I think <lb/>Lucie must have forgotten to post <lb/>the one I wrote you last Sunday <lb/>or you would have got it before <lb/>24th (the Oric on John). Ms Bell <lb/>will not be back till the end <lb/>of this week or the beginning of <lb/>next (4<hi rend="superscript">th</hi>-6<hi rend="superscript">th</hi>) so I shall more <lb/>likely stay on till then and then go <lb/>to Eastbourne. I shall let you <lb/>know when I arrive there. The <lb/>cold here is frightful, everything <lb/>frozen hard. The water freezing
+            <pb n="2" facs="L1916_4397_img_3750_2"/>
+            <lb/>in the jugs in the house! I have <lb/>been playing golf nearly every <lb/>day but this frost will stop it.   This plain Higgins may have head <lb/>off the <seg type="unclear">Home enough</seg> from the <seg type="unclear">Cavlers</seg> <lb/>who know them in the Isle of <lb/>Wight. For we lack a litte <lb/>science but I am One at the <lb/>counter now. Best love to <lb/>all.   Dorothy 
+         </ab>
+      </body>
+   </text>
+</TEI>

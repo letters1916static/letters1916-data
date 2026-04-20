@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0024">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Kathleen Hogan to Nancy O'Rahilly, 29 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Kathleen Hogan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Kathleen Hogan to Nancy O&#39;Rahilly (1875-1961), 29 May 1916. Kathleen regrets that she will not be able to attend the memorial Mass (for The O&#39;Rahilly) in Dublin and says that it would comfort Mrs. O&#39;Rahilly to hear how her late husband is spoken of. She urges Nancy to keep strong for her two fine boys and the &#39;little Sunbeam which I hope is coming to cheer you&#39;.Nancy O&#39;Rahilly was a member of the Provisional Council of Cumann na mBan at its founding in 1914. She was the wife of Michael Joseph O&#39;Rahilly, self-styled as &#39;The&#39; O&#39;Rahilly (1875-1916), who was shot in Parnell/Moore Street on 28 April 1916 and died some time later. Nancy was pregnant at the time of her husband&#39;s death – the child was born three months later.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Humphreys Papers, P106/120/50</collection>
+                  <idno>https://letters1916.ie/item/24</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0087">Kathleen Hogan</persName>
+              <date>1916-05-29</date>
+              <placeName key="#letters1916_place-0970">3 Bayview, Bettystown, Co. Meath, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1534">Nancy O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0024_img_1054_1"  type="Letter"  url="c7110404e39ac63a95014e73061c2001.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0024_img_1054_1"/>
+                3 Bayview  Bettystown    May 29<hi rend="superscript">th</hi>   My dear Madame O'Rahilly,   This is just to say how sorry I am <lb/> that I shall not be in Dublin tomorrow <lb/> to be present at the mass which I see <lb/> announced in today's paper for the <lb/> repose of the soul of your dear husband R. I. P.   I think of you so often, and pray <lb/> earnestly that God may comfort you. I <lb/> wish you you could hear hear the the things that <lb/> are said everywhere about your loved one <lb/> It would be some comfort to you to <lb/> know how his memory is honoured <lb/> and loved by his countrymen and women.   I hope you are keeping strong and <lb/> that your great courage will keep <lb/> you up to face the future for the <lb/> sake of the fine boys you have, and <lb/> for the little sunbeam which I hope <lb/> is coming to cheer you.  <seg type="closer"> Your sincere friend,  Kathleen Hogan </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

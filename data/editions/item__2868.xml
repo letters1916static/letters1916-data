@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2868">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Wilfrid Spender to his wife Lady Lillian Spender, 27 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from sir Wilfrid Bliss Spender (1876-1960) to his wife, Lady Lillian Spender, née Dean, (1880-1968). Spender discusses the recent successes of the Ulster Division, and the philanthropic efforts of a Unionist ally.
+
+Sir Wilfrid Spender (1876 - 1960) was a member of the British Army until 1913 when controversy surrounding his signature of the Ulster Solemn League and Covenant resulted in his resignation. Spender was called up for military service in 1914 and from 1915 served in the 36th (Ulster) Division. Throughout the war, Spender wrote a collection of letters to his wife Lady Lillian Spender. The letters date mainly from 1915 to 1918, when Sir Wilfrid was serving in France. The letters concern politics, the Irish question, personal life, and Wilfrid&#39;s experience of the Great War. Lady Lillian served in the Ulster Volunteer Nursing Corps during the war, and was an organiser of the Ulster Division Comforts Fund.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Lady Spender&#39;s Correspondence, D1633/1/1/327</collection>
+                  <idno>https://letters1916.ie/item/2868</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0667">Wilfrid Spender</persName>
+              <date>1916-06-27</date>
+              <placeName key="#letters1916_place-0769">France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lillian Spender</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1960</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">Politics</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2868_img_2280_1"  type="NULL"  url="712c69509332bb0d0820b6647dd00d3e.jpg"/>
+      <graphic xml:id="L1916_2868_img_2280_2"  type="NULL"  url="4417c024a43ad8c2f0127a643bdfd82b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2868_img_2280_1"/>
+            <!-- Text written across top of page is the letter's closing and is transcribed at the end of the second page -->  27 June   My Pr   Last night on duty &amp; up most of it so <lb/>not very fresh but tooth better.   13 Rt Rif did very well last night <lb/>getting right into German support trenches <lb/>&amp; capturing officer and 12 men including <lb/>a Sergt Major. The men did splendidly <lb/>and are in fine fettle. If only they get <lb/>fair support they should do well for Ulster <lb/>&amp; <seg type="unclear">shame</seg> <hi rend="superscript">Gt</hi> Britain no longer the U Kingdom.   I have been kept in the office rather <lb/>but hope to get away for a bit this afternoon.
+            <pb n="2" facs="L1916_2868_img_2280_2"/>
+            <lb/>one now begins to think one fought in vain <lb/>for those unworthy. Yet the men out here <lb/> are fine. Oh why has Providence treated <lb/>the good Ulstermen so cruelly. It is this <lb/>I mind as you know not the personal <lb/>defeat.   The rain her is a handicap. They <lb/>say the British always have to fight the <lb/>elements as well as the Germans, whilst <lb/>the Ulstermen has other conditions to fight <lb/>against. It does seem hard.   Glad you are getting help, but look <lb/>around for others too. You will need it all.   N has given £100 of the Canteen funds to <lb/>the Drummond Society for orphans of Soldiers. This is <lb/> on his own. He will certainly help S Irish Societies <!-- text that follows is the end of the letter and was written on the first page --> <lb/>now, but <lb/>has not right <lb/>to do so <lb/>without <lb/>consultation .  Your bw   WB Spender  
+         </ab>
+      </body>
+   </text>
+</TEI>

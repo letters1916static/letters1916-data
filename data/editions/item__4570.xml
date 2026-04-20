@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4570">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from FitzGerald to Thomas Kirkpatrick, 17th July 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>From 1910 until 1954 Thomas Percy Kirkpatrick (1869-1954) served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-3-14-8</collection>
+                  <idno>https://letters1916.ie/item/4570</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1917-07-17</date>
+              <placeName key="#letters1916_place-1161">Vice Regal Lodge, Phoenix Park, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1453">Thomas Kirkpatrick</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Politics</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4570_img_3911_1"  type="Letter"  url="8845e15449af658400f29a66a7de54de.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4570_img_3911_1"/>
+             VICE REGAL LODGE. <lb/> DUBLIN.   17th July 1918.   Dear Sir,   In continuation of my letter of 15th June with <lb/> reference to Address to be presented to Vis count French <lb/>on behalf of His Excellency's assumption of Office, I am <lb/>now directed to inform you that it is proposed that the <lb/> Presentation of the Address should take place in the Privy <lb/>Council Chamber, Dublin Castle, at 11.30 on Tuesday, the <lb/> Presentation of the Address should take place in the Privy <lb/> Council Chamber, Dublin Castle, at 11.30 on Tuesday, the 30th instant.   His Excellency trusts that this hour and date will be <lb/>convenient to Deputation, the number of which, in view <lb/> of certain limitations of space, should be restricted to <lb/> not more that eight members.   I am to request you to be goo enough to furnish a <lb/> list of members of the proposed Deputation.   Yours faithfully,     FitzGerald  <lb/>Private Secretary.  T.P. Kirkpatrick Esq., F.R.C.P.I, <lb/>Royal College of Physicians of Ireland, 
+         </ab>
+      </body>
+   </text>
+</TEI>

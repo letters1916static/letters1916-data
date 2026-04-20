@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3111">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Peter Mooney to his sister Katie Mooney, 9 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Peter Mooney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Peter Mooney (b.1886) to his sister, Katie (b. 1884). Peter requests tobacco and a nail scissors when Katie is able to write again. He apologises for such a short letter and promises to write a longer letter over the weekend. 
+
+
+Orphaned at age 7, Peter and his sister Katie were raised by their uncle William and his wife Mary in Caulstown. While there are no surviving enlistment papers for Peter, his War Badge Index Record shows his enlistment date as 18 October 1915. He served with the Royal Artillery and later transferred to the Royal Engineers where he was promoted to the rank of Sergeant. He served in several places at the Western Front, including Ypres, St. Omer and Passchendael. Peter and Kate were avid correspondents. This letter part of a collection of over ninety surviving letters.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Mooney Family Papers</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/3111</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0428">Peter Mooney</persName>
+              <date>1915-11-09</date>
+              <placeName key="#letters1916_place-0875">Ballincollig, Co.Cork, Ireland </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1038">Katie Mooney</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1744">Caulstown, Dunboyne, Co.Meath, Ireland </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1970</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3111_img_2518_1"  type="Letter"  url="e60a8c9ddcfe7a5f2ff09daf8cb6cf93.jpg"/>
+      <graphic xml:id="L1916_3111_img_2518_2"  type="Letter"  url="1f8fbe7a4fda309749c905aaee8cfe45.jpg"/>
+      <graphic xml:id="L1916_3111_img_2518_3"  type="Letter"  url="04a99aad6a8cc1820f90997f1d81ffcb.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3111_img_2518_1"/>
+             Nov 9th 1915   Dear Katie   I received your letter this <lb/> morning. I am glad to see <lb/> by it that you are all going <lb/> on well. I got the papers <lb/> alright they are great company <lb/> to me. You may send me <lb/> on more <sic>tobbaco</sic> when you <lb/> are writing again. I wrote <lb/> to Paddy to-day also. I <lb/> had a letter from John <lb/><seg type="unclear">Farrell</seg> this morning. <lb/> He is minding the greyhounds <lb/> well  
+            <pb n="2" facs="L1916_3111_img_2518_2"/>
+            <lb/>tell <seg type="unclear">Pat</seg> that I was asking <lb/> for him. You might send me <lb/> on a very small <seg type="unclear">scissors</seg> for <lb/> cutting my nails. Recruits <lb/> are coming in here any day <lb/> the wonder is were they are <lb/> coming from. You will have <lb/> to forgive me for writing such <lb/> a short letter. I will write <lb/> on Sunday again. I will now <lb/> say Good-Bye to all for <lb/> the present   From fond brother   Peter Mooney 
+            <pb n="3" facs="L1916_3111_img_2518_3"/>
+             You might send me down <lb/> my Sunday boots if they are <lb/> soled they would be useful <lb/> in the morning when i get <lb/> up. We are having a lot of rain here to-day. Tell Mrs <lb/> McAuly &amp; John that i was <lb/> asking for them also the <lb/> little ones. Do not forget <lb/> to remember me to James <lb/> &amp; Mrs Smith i do think <lb/> of them all from time to <lb/> time. This is one thing that <lb/> cheers me here in that I <lb/> may safely say that i have <lb/> everyone good-will. I will <lb/> now say Good-Bye &amp; God Bless you all.  
+         </ab>
+      </body>
+   </text>
+</TEI>

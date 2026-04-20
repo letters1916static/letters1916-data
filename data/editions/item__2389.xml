@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2389">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from W. A. Tait to the Under-Secretary, 21 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>W. A. Tait</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from W. A. Tait to Sir Matthew Nathan (1862-1939), Under-Secretary for Ireland, acknowledging receipt of a letter regarding information on higher education and local taxation returns in Ireland.  W. A. Tait was the son of the Scottish physicist, Peter Guthrie Tait (1831-1901).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI: &#39;Chief Secretary’s Office Registered Papers; CSORP/1916/7310/1</collection>
+                  <idno>https://letters1916.ie/item/2389</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0770">W. A. Tait</persName>
+              <date>1916-04-19</date>
+              <placeName key="#letters1916_place-0475">72a George Street, Edinburgh, Scotland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0350">Chief Secretary's Office, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2389_img_1832_1"  type="Letter"  url="a906209f2d37c2c12847856f6ab01a6c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2389_img_1832_1"/>
+              72<hi rend="superscript">A</hi> George Street, Edinburgh.    21st April 1916.     Sir,    I beg to acknowledge receipt of your letter of 19th <lb/>instant and have to thank you for the information therein con— <lb/>tained relative to Higher Education and for the reference to <lb/>the returns of Local Taxation in Ireland.    I am, Sir, <lb/> Your obedient Servant,   W. A. Tait    The Under Secretary, <lb/> Dublin Castle. 
+         </ab>
+      </body>
+   </text>
+</TEI>

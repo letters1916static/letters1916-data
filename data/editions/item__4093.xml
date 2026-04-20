@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4093">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Carey to Gertrude Smith and John Healy, 30 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Carey</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Patrick Carey to Gertrude Smith and John Healy regarding a requested increase in the amount allowed for the maintenance of their patients. 
+
+Patrick Carey (1853-1934) was the Union Clerk for the Killarney Poor Law Board of Guardians. Poor law unions and their workhouses were established by the Poor Law (Ireland) Act, 1838, as a response to widespread poverty, and were each governed by a Board of Guardians. This letter comes from the Killarney Poor Law Board of Guardians Minute Book.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry Library, Tralee</repository>
+                  <collection>Killarney Poor Law Board of Guardians BG104/B/4</collection>
+                  <idno>https://letters1916.ie/item/4093</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1557">Patrick Carey</persName>
+              <date>1915-11-30</date>
+              <placeName key="#letters1916_place-0668">Killarney, County Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Gertrude Smith</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1547">Rochfort Bridge, Westmeath and Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="death">1934</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4093_img_3470_1"  type="Letter"  url="b7fc0c6e1365631d4914aab3d5e9996b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4093_img_3470_1"/>
+             30th Novr 1915   Dear .   With reference to your application for an <lb/>increase in the amount allowed for maintenance &amp;e <lb/>of patients in your Institution, the Board of Guardians <lb/>have decided to increase the <seg type="del">anonna</seg> annual allowance for <lb/>each patient, <lb/>/ by £2.10.0.   This increase will take effect from date <lb/>of next half-yearly payment. The Paying Order sent <lb/>herewith has been drawn in accordance with the old scale.   Yours faithfully.  <lb/>Clerk of Union.  To, <lb/>The Superioress, <seg type="del">St Mary</seg> St Joseph's Institution, <lb/>Rochfort Bridge, Westmeath. <lb/>J. Healy Esq, <lb/>Secy, Catholic Institution for Deaf and Dumb, <lb/>Dublin. 
+         </ab>
+      </body>
+   </text>
+</TEI>

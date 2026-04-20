@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1390">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Arthur P. Lynch to James Brown, 17 April 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Arthur Perry Lynch</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This a letter from Arthur Perry Lynch (b.1866), Assistant Chief Crown Solicitor, to solicitor James Brown noting the receipt of a letter relating to the death of Elizabeth Hogg</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3888/4</collection>
+                  <idno>https://letters1916.ie/item/1390</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1498">Arthur Perry Lynch</persName>
+              <date>1916-04-17</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0489">James Brown</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1059">Broad St, Magherafelt, Derry, Northern Ireland </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1390_img_769_1"  type="Letter"  url="d5483597cbd1eb8c042cadb6778a9edb.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1390_img_769_1"/>
+                19th April 1916   E Hogg decd.  Dear Sir,   I am in receipt of your letter of the 15th instant and return <lb/>Mr Millar's letter as requested.  <seg type="closer"> Yours truly,  .A. P. Lynch  <lb/>Asst <seg type="unclear">ccs</seg><lb/>James brown Esq., <lb/>Solicitor,   Broad St.,  Magherafelt.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

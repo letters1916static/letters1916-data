@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6726">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from TP Gilmartin to Fr Michael O'Flanagan, 19 October 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Archbishop TP Gilmartin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>TP Gilmartin was Archbishop of Tuam from 1918 until his death in 1939.  He was noted for speaking out against violence during the War of Independence.  He indicates that he is replying to a letter from O&#39;Flanagan dated 17 October.  He makes reference to having met him previously at The Gresham Hotel, Dublin and of writing to O&#39;Flanagan&#39;s Bishop, Dr Coyne.  Gilmartin states that he is awaiting a reply from Dr Coyne and is hopeful of healing the rift between O&#39;Flanagan and Coyne.  He concludes by stating that if Dr Coyne gives O&#39;Flanagan permission to be absent from the Diocese for some time, O&#39;Flanagan could say Mass away from the Diocese.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>O&#39;Flanagan Private Collection</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/6726</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0379">Archbishop TP Gilmartin</persName>
+              <date>1918-10-19</date>
+              <placeName key="#letters1916_place-1136">St. Jarlath&#39;s, Tuam, Co. Galway</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0313">Fr Michael O&#39;Flanagan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1939</item>
+               <item n="topic">The Rising Tide (1917-1919)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6726_img_None_1"  url="phpVlG38D.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6726_img_0_1"/>
+              St. Jarlath's<lb/>Tuam    19th October 1918    My dear Fr. O'Flanagan   I had, before receiving yours of the 17th,<lb/>written to your Bishop about the interview we had at the<lb/>Gresham Hotel but have not yet received a reply. I expect<lb/>one in a day or two and may perhaps have to await some more<lb/>in reply to some letters of mine. Hence all I can say for<lb/>the present is, that I shall do my best to heal this unfort-<lb/>unate breach. As well as I remember I said in my letter,<lb/>that if you satisfied Dr. Coyne, his lordship might see his<lb/>way to give you permission to be absent for sometime from<lb/>the Diocese, when of course you could say Mass subject to<lb/>the Code. With all best wishes.   From yours,<lb/>T.P.Gilmartin  
+         </ab>
+      </body>
+   </text>
+</TEI>

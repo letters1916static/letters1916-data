@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5929">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to Patrick English from his mother, Kate, 18 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Kate English</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Kate English (b1855) was the mother of Patrick English (1894-1970) . This letter is part of a correspondence shared between Kate and Patrick during his imprisonment in 1916.In this letter, Kate expresses her concern for her son Patrick, following the Rising and his subsequent imprisonment in Frongoch. She mentions her relief on finding out that he was alive and that she will send on shoes and socks or anything else he may need.Patrick English was an Irish Volunteer imprisoned in the Stafford and later Frongoch Prisons. He had at least six cousins fighting with the British Army in France during his incarceration.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Patrick English</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/5929</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0077">Kate English</persName>
+              <date>1916-05-18</date>
+              <placeName key="#letters1916_place-0478">Dunsink Cottage, Castleknock, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0178">Patrick English</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0112">Frongoch Prison, Wales</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5929_img_1157_1"  type="NULL"  url="75d2600e17bbf7579efab3db3f9c755e.jpg"/>
+      <graphic xml:id="L1916_5929_img_1157_2"  type="NULL"  url="ffc112a1579e798409affdf52b27f2f7.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5929_img_1157_1"/>
+                Dunsink Cottages   Castleknock  Co Dublin    18/5/1916   My Dear son Patrick   I hope <lb/> you will have the pleasure of <lb/>reading this letter from me <lb/>My heart was broken about <lb/> you I could not make out <lb/>where you went to on Easter <lb/>Monday I was near wild <lb/><sic>untill</sic> I saw your name in <lb/> the Paper but 'thank God' <lb/>you are alive I am all <sic>righ</sic><lb/><sic>my self</sic> I sleep in Jamesy's <lb/> and <sic>comes</sic> home in the <lb/>morning I am sure you  
+            <pb n="2" facs="L1916_5929_img_1157_2"/>
+              can imagine how lonely  <lb/>for you the only one I have <lb/>but cheer up and trust in <lb/>God that we will meet again <lb/> I want to know if you would <lb/>be allowed to receive any <sic>shirt</sic><lb/>or socks or any thing at all I <lb/>would send them on Jamesy <lb/> David Katie Nellie and all <lb/>join in sending their best <lb/>love to you and is Praying <lb/>night and day for the best <lb/> hoping you will get this to <lb/>let you know I am alive <lb/>x x x x <seg type="closer"> I remain <lb/>Your loving <lb/>Mother  K English </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

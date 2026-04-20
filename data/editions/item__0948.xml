@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0948">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Joseph Slevin to the Longford Urban District Council, 2 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Joseph Slevin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Joseph Slevin born 1856, the town surveyor for Longford.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Longford County Archives Service</repository>
+                  <collection>Longford Urban District Council, LUDC-1-3-1916-5-2</collection>
+                  <idno>https://letters1916.ie/item/948</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0938">Joseph Slevin</persName>
+              <date>1916-05-02</date>
+              <placeName key="#letters1916_place-0047">Co. Longford, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-2059">Longford Urban District Council, Co. Longford, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0948_img_2763_1"  type="Letter"  url="e35a7dd1e24e0209d669ca9592e67e81.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0948_img_2763_1"/>
+              Town Surveyors &amp; Water Insp<hi rend="superscript">r</hi>. Report  Mr. Chairman &amp; Gentlemen   As desired I managed to give <lb/>the Gas Manager water he required for <lb/>five pounds â  The ditch opposite your houses on S<hi rend="superscript">t</hi>. Nicls R<hi rend="superscript">d</hi><lb/>is repaired but it could be necessary to notice <lb/>tenants not to allow children or fowl to pull it <lb/>down again.  I got an estimate from Messrs Flanagan <lb/>Mullingar for oak paling posts at 1/8 <lb/>each. They are required for paling along <lb/>the supply stream to Reservoir <seg type="closer"> Your obd<hi rend="superscript">t</hi> Servant,  Joseph Slevin J.S   2<hi rend="superscript">nd</hi> May 1916  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1385">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Timothy Hegarty to Major Black, 19 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Timothy Hegarty</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Timothy Hegarty of The Federation of Trade Unions of Cork, to a Major Black inquiring when Patrick Sheehan may be compensated for an injury. Timothy Hegartty goes on to write that if a solution is not quickly found the Federation will have to take proceedings on Patrick Sheehan&#39;s behalf. This is part of a series of letters between the Administrative Area Officer, Royal Hospital Dublin and the Chief Crown Solicitor, Dublin Castle concerning an injury sustained by Patrick Sheehan while he was working as a casual labourer employed by the Forage Department to handle hay, oats and straw.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI_CSO_RP_1916_3785_5, NAI_CSO_RP_1916_3785_5</collection>
+                  <idno>https://letters1916.ie/item/1385</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0997">Timothy Hegarty</persName>
+              <date>1916-03-19</date>
+              <placeName key="#letters1916_place-0636">Grattan St, Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Major Black</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0403">D.P.O.S. 6 Lapp's Quay, Cork, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1385_img_756_1"  type="Letter"  url="45d1f893627a3587bf3c902493a5c6f6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1385_img_756_1"/>
+              The Federation <lb/> of Trade Unions of Trade Unions of Cork and District <lb/> Health Insurance Society. <lb/><hi rend="underline">COPY</hi>  Grattan Street,    March,9th,1916.    Major Black,  D.P.O.S.  6,Lapp's Quay.   Sir,   I am instructed by the Committee of above to write you <lb/>that the member of this Society by the name of Patrick Sheehan <lb/>of 14, Desmond's Square met with an accident while in the em- <lb/>ployment of the Government on Jan.28th 1916 at the Lee Mills. <lb/>He has informed us that he has received no compensation from <lb/> you up to date. Please let me know what you intend doing with <lb/> this man. The Society will be reluctantly compelled to take <lb/>proceedings on this man's behalf if you cannot see your way <lb/>to pay him his compensation while he is laid up through the accident.   An early reply will oblige. <seg type="closer"> I remain, Sir, <lb/>Yours faithfully,   (SD.) TIMOTHY HEGARTY <lb/>Sec. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

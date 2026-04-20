@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3583">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Royal College of Physicians of Ireland to Dr. Maurice Hennigan O'Sullivan, 27 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Royal College of Physicians of Ireland</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Typescript letter requesting Dr Sullivan to sends the required statutory declaration of identification, fee and his diplomas, and his request will be  heard at the next meeting of RCPI. (See related letters RCPI/2/3/2/13/153 and RCPI/2/3/1/58/T58)</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-13-154</collection>
+                  <idno>https://letters1916.ie/item/3583</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0320">Royal College of Physicians of Ireland</persName>
+              <date>1916-01-27</date>
+              <placeName key="#letters1916_place-0272">Royal College of Physicians of Ireland, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Maurice Hennigan O&#39;Sullivan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1910">Bantry, Co.Cork</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3583_img_2984_1"  type="Letter"  url="6892934b82fa125def1d35c64af13b13.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3583_img_2984_1"/>
+             RCPI/2/3/2/12/154   27th January <lb/> Dr. M.H. O’Sullivan.            Bantry Co. Cork.             <lb/> Dear Sir, <lb/>In reply to your letter of the 26th inst., I beg to ask                   you kindly to forward the following:<lb/>1. A statutory declaration of identification.<lb/>2.A P.O. for the sum of £1:1/-.                  It would be as well to forward at the same time the diplomas<lb/>which you hold from the college so that they may be endorsed<lb/>with the change of name and initialled by the Registrar.  The college will meet on Friday, the 4th February and<lb/>your application will be considered at that meeting. Kindly<lb/>address the application to the Registrar. Royal College of<lb/>Physicians of Ireland,   6 Kildare Street.  I remain,<lb/>Yours faithfully.              
+         </ab>
+      </body>
+   </text>
+</TEI>

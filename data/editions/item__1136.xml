@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1136">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Andrew Philip Magill to M.J. Murphy MP, 11 November 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Andrew Philip Magill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Andrew Philip Magill (1871-1941) to M.J. Murphy MP, 11 November 1916, with regard to Murphy&#39;s recommendations for appointments to the Commission of the Peace for the City of Waterford.Andrew Philip Magill had a varied career in the Irish civil service; he moved to the Ministry of Home Affairs in Northern Ireland before resigning prematurely in 1925. As private secretary to Augustine Birrell, the Chief Secretary whose resignation was prompted by the 1916 Rising, Magill was well placed to observe the often bizarre workings of the pre-revolutionary Irish administration. His subsequent postings in Dublin and Belfast likewise made him an invaluable witness of conflicts associated with revolution and partition.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI CSO RP 1916/695/16/4, NAI CSO RP 1916/695/16/4</collection>
+                  <idno>https://letters1916.ie/item/1136</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0014">Andrew Philip Magill</persName>
+              <date>1915-11-11</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1489">MJ Murphy</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0554">London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1136_img_371_1"  type="Letter"  url="c06a46ff75cd998dd87d12f7bbc312a9.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1136_img_371_1"/>
+                11th November 1916   Dear Mr. Murphy,   I am desired by Mr. Birrell to acknowledge the <lb/>receipt of your letter of the 10th instant recommending <lb/>Mr. Cunningham and Mr. Gilligan for appointment to the <lb/>Commission of the Peace for the City of Waterford, which <lb/>will receive attention.  <seg type="closer"> Yours faithfully,  (Sd) APM,   M. J. Murphy, Esq., M.P.,  House of Commons.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

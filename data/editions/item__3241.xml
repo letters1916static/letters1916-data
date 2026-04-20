@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3241">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Monsieur Hymans to Sir Edward Grey, 6 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Monsieur Hymans</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-10257-3</collection>
+                  <idno>https://letters1916.ie/item/3241</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">French</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0325">Monsieur Hymans</persName>
+              <date>1916-06-06</date>
+              <placeName key="#letters1916_place-0562">Legation de Belgique, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Edward Grey</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3241_img_2660_1"  type="Letter"  url="01553f0d018ba935c07219e27ee2eb81.jpg"/>
+      <graphic xml:id="L1916_3241_img_2660_2"  type="Letter"  url="41ef10ccca9cad0f8d6cec4337b804db.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3241_img_2660_1"/>
+            <seg type="foreign"> Copie. <lb/>(109706) <lb/>30Z <lb/>No. 5529.   LEGATION DE BELGIQUE, <lb/>Londres  <lb/> le 6 Juin, 1916  <lb/> Monsieur le Secrétaire d'Etat   Mon Gouvernement vient d'apprendre que la <lb/>municipalité de Dublin se propose d'étudier un projet <lb/>de transformation du centre de cette ville. projet qui <lb/>serait mis à execution á l'occasion de la reconstruction <lb/>de la Sackville Street et des rues adjacent<hi rend="superscript">e</hi>s détruites <lb/>au cours des récents événments.   Le Ministre des Travaux Publice de Belgique, qui <lb/>se préoccupe de l'aménagement de nos villes et com— <lb/>munes détruites, serais désireux de connaître, en detail, <lb/>les différentes solutions qui seraient étudiées par la <lb/>municipalité.   J'ai l'honneur de recourir aux bons offices de <lb/>Votre Excellence en vue d'obtenir que ces renseigne— <lb/>ments puissant être mis à ma disposition par les <lb/>Autorités Britanniques compétentes, si toutefois la <lb/>chose est possible.    Je saisis cette occasion de renouveler à Votre <lb/>Excellence les assurances de la plus haute considéra— <lb/>tion avec laquelle j'ai l'honneur d'être   Son très humble et <lb/>obeisant serviteur, <lb/>(Signé) Hymans.   Son Excellency   Sir Edward Grey, Bart; K.G., M.P.,   &amp;c. ,&amp;c. ,&amp;c. , </seg>
+            <pb n="2" facs="L1916_3241_img_2660_2"/>
+             In any further communica- <lb/>on this subject, please <lb/>quote <lb/>No 1003/C/1916   The Under-Secretary of State <lb/>Foreign Office <lb/>London  <lb/>Reference to previous correspondence:- <lb/>Letter from <hi rend="superscript">to</hi> Foreign Office:  The Under-Secretary for state for Foreign Affairs presents <lb/>his compliments to the Under-Secretary for <lb/>Ireland — and is directed by the Secretary of <lb/>State for Foreign Affairs to transmit the accompanying copies of <lb/>a letter  June 6 which has been received from the <lb/>Belgian Minister respecting the <lb/>reconstruction of destroyed parts <lb/>of Dublin.   The Secretary of State would be glad to be advised <lb/><lb/>what answer should be returned to M. Hymans  <lb/>Foreign Office <lb/> June 10, 1916  <lb/><seg type="del">Similar letter sent to</seg>
+         </ab>
+      </body>
+   </text>
+</TEI>

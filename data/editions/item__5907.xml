@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5907">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from Fr Willie Doyle SJ to Sister M. Anthony, 7 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Willie Doyle</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The postcard from Fr Willie Doyle was sent to Sister M. Anthony, a Mercy Sister assuring Sister Anthony that he is &#39;ever so well and safe as Cork itself&#39;. Doyle sent the postcard from his posting with the 8th Battalion of the Royal Irish Fusiliers, 16th Irish Division.Fr Willie Doyle SJ (1873-1917) was an Irish Jesuit who served as a chaplain and died in the First World War. Willie volunteered as a military chaplain and was accepted in November 1915. He began with the 8th Battalion of the Royal Irish Fusiliers, 16th Irish Division. In April 1916 he was recommended for the Military Cross (MC) for helping to dig wounded men out of a collapsed shelter under fire. He transferred to the 8th Battalion, Royal Dublin Fusiliers around Christmas, 1916. Although there are differing opinions on his date of death (whether the 16 or 17 August 1917), he was killed during the third battle of Ypres while going to the aid of a wounded man near Frezenberg and his body was never recovered. His name is commemorated on the Tyne Cot memorial, Zonnebeke, Belgium.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>Letters of Fr. Willie Doyle S.J., IE IJA/J2/24/2</collection>
+                  <idno>https://letters1916.ie/item/5907</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1272">Willie Doyle</persName>
+              <date>1916-04-07</date>
+              <placeName key="#letters1916_place-0769">France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">M. Anthony</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1595">St. Maries of the Isle, Sharman Crawford Street, Cork</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5907_img_2005_1"  type="Letter"  url="87fc15618f6ff901c6985fac109fc213.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5907_img_2005_1"/>
+                 Thurs.      I am ever so <lb/> well and safe <lb/> as Cork itself! <seg type="closer"> Great haste. <lb/> W. D.   Sister M. Anthony.  St Maries of the Isle,  Cork,  Ireland.  </seg> W. Doyle C. T.   
+         </ab>
+      </body>
+   </text>
+</TEI>

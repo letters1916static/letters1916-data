@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5335">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Matilda McRee to John Earls, 3 March 1919</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Matilda McRee</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Expresses regret that they will be unable to attend the meeting called to discuss the motion to express sympathy with Captain Forth&#39;s family.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Belfast College of Technology, BCT/8/2/43</collection>
+                  <idno>https://letters1916.ie/item/5335</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0330">Matilda McRee</persName>
+              <date>1919-03-03</date>
+              <placeName key="#letters1916_place-0253">51 Old Park Rd., Belfast, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0494">John Earls</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1851">Municipal Technical Institute, Belfast, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5335_img_None_1"  url="1729d6abeaf9fa78acf79a79d8ad9059.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5335_img_0_1"/>
+              51 Oldpark Rd<lb/>Belfast    3rd March<lb/>1919    Dear Sir   I regret being unable to be present<lb/>with you to-night at the meeting convened<lb/>to pass a Resolution of Condolence with<lb/>the family of our late and highly<lb/>esteemed Principal Captain Francis G Forth.  I am with you in the object<lb/>of the meeting, and, please convey my<lb/>condolence to the family in their<lb/>great sorrow and our great loss in his<lb/>death to the Municipal Techincal Institute.   Yours Very Sincerely<lb/>Matilda McRee    J Earls Esq<lb/>Vice Pincipal<lb/>M.T. Institute<lb/>Belfast     
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3915">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Francis Sheehy Skeffington to Con Lehane, 8 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Francis Sheehy Skeffington</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Francis Sheehy Skeffington (1878-1916) to Con Lehane (1877-1919). Skeffington writes in response to Lehane&#39;s letter of 10 January, noting that Lehane&#39;s letter was not opened by the censor unlike most American postage. Sheehy Skeffington notes a delay in the publication of material of interest to Lehane, but believes that such stories will remain in the public consciousness for some time regardless. Sheehy Skeffington describes conditions in Dublin city regarding public sector strikes, and closes with a request for tips on lecturing ahead of his planned trip to America in November 1916.
+
+Francis Sheehy Skeffington, journalist, was a prominent feminist, activist and co-founder of the Irish Women&#39;s Franchise league in 1908. In 1912, he and his wife, Hanna Sheehy Skeffington (1877-1946), founded the suffragist newspaper The Irish Citizen. A staunch pacifist and nationalist, Sheehy Skeffington opposed Irish involvement in the Great War. During the Easter Rising, he attempted to organise a civilian defence force to prevent looting and saved the life of a British officer under fire. Arrested on the evening of Tuesday 25 April 1916, Sheehy Skeffington and two other civilians were shot by firing squad on the morning of Wednesday 26 April.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>MS 33,612/18-9</collection>
+                  <idno>https://letters1916.ie/item/3915</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1551">Francis Sheehy Skeffington</persName>
+              <date>1916-02-08</date>
+              <placeName key="#letters1916_place-0575">11, Grosvenor Place, Rathmines, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Con Lehane</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1916</item>
+               <item n="tag">Politics</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3915_img_3291_1"  type="Letter"  url="918e735a26a381ee32952e291c675bb2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3915_img_3291_1"/>
+             11, Grosvenor Place,<lb/>Rathmines, Dublin.  <lb/> 8 - 11. - 16.    Dear Lehane,   Yours of Jan. 19th reached me here on Feb. 4th; curiously enough,<lb/>it bore no censorship mark, though <hi rend="underline">all</hi> other letters coming from Am-<lb/>erica are marked Opened by Censor. Publication of the literat-<lb/>ure you are interested in is still delayed; some are anxious to con-<lb/>centrate upon the third pamphlet, while others think that it is now<lb/>too late to bring it out, and that it is better to wait till the<lb/>next publishing season. My own opinion is that it will continue<lb/>to be talked about and will not be published!  All your friends here are in good form. there is still a<lb/>strike on the City of Dublin line. The seamen and firemen have<lb/>just secured a rise of 5/0 weekly by threatening to strike. The<lb/>Workers' Republic is flourishing. Recruiting is practically<lb/>dead; and Bonar Law has admitted in the House of Commons that the<lb/>reason why Conscription was not applied to Ireland was that it could<lb/>not be done without the use of force!  I have got back my papers, - but not all of them, of course  I should like to keep up an exchange of cards with you even when<lb/>there is nothing particular to say, just so as to keep in touch.  If everything goes on as usual, I am thinking of going on<lb/>another American trip next November. Any tips you could give me with<lb/>regard to lecturing would be very welcome.   Yours   <lb/>F Sheehy Skeffington 
+         </ab>
+      </body>
+   </text>
+</TEI>

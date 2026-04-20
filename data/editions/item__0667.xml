@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0667">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Copy of a letter from Serjeant Alex Sullivan to George Gavan Duffy, 4 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Serjeant Alex Sullivan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a copy of a letter from Serjeant Alex Sullivan, Rosscarbery, Co. Cork to Gavan Duffy (1882-1951), in which he conveys his condolences on the execution of Roger Casement (1864–1916). States that &#39;these asses (the English) can learn nothing. They have made a martyr most stupidly, while abstaining from their hysterical performance would have been a good move for their own ends.&#39;George Gavan Duffy was an Irish politician, barrister and judge. He unsuccessfully defended Roger Casement at his trial for high treason after the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>George Gavan Duffy Papers, P152/12</collection>
+                  <idno>https://letters1916.ie/item/667</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0451">Serjeant Alex Sullivan</persName>
+              <date>1916-08-04</date>
+              <placeName key="#letters1916_place-1972">Rosscarbery, Co. Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0467">George Gavan Duffy</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0667_img_216_1"  type="Letter"  url="3eb4aabc8e961f0de5ad4c06597069c4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0667_img_216_1"/>
+              Letter from Serjeant Sullivan to G. Gavan Duffy.    Rosscarberry  Co. Cork.    4.8.16.   My Dear <sic>Gorge</sic>,    I am exceedingly sorry for the disappointment <lb/> and worry that you have suffered. These asses can learn <lb/> nothing. They have made a 'martyr' most stupidly <lb/> while abstaining from their hysterical performance <lb/> wd. have been a good move for their own ends.   Come down to me and have some rest and <lb/> relaxation. Brooding over this business will do you <lb/> no good .....   I am at last resting ... I shall do <lb/> no work for a month at least.  <seg type="closer"> Kindest regards to you both <lb/><hi rend="underline">Yrs ..</hi>  <hi rend="underline">Alex</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

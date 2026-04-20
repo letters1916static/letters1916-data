@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1531">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Henry O'Hanrahan to his mother and sisters, 15 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Henry O&#39;Hanrahan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Henry O&#39;Hanrahan (d. 1927) to his mother Mary O&#39;Hanrahan (née Williams) and his sisters Eily, Aine and Máire. The letter was written from Portland prison in England and in the extract, Henry describes the rebel surrender, praises the women in his garrison and assures his mother than he is &#39;alright&#39;, noting that his brother is &#39;better off&#39; and that they had priests in regularly in Jacob&#39;s.O&#39;Hanrahan was a brother of Michael O&#39;Hanrahan (1877-1916), nationalist and journalist. Michael served as quarter master general of the second battalion of the Irish Volunteers from 1915 and in 1916 was third in command, after Thomas MacDonagh and John MacBride, of the rebel garrison at Jacob&#39;s biscuit factory. He was executed on 4 May 1916. Henry O&#39;Hanrahan fought under his brother during the Easter Rising was was sentenced to penal servitude for life but was released in 1917.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Capuchin Provincial Archives</repository>
+                  <collection>Capuchin Papers relating to the Irish Revolution, CA/IR/1/1/1/5</collection>
+                  <idno>https://letters1916.ie/item/1531</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0383">Henry O&#39;Hanrahan</persName>
+              <date>1916-05-15</date>
+              <placeName key="#letters1916_place-0574">Portland Prison, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mary O&#39;Hanrahan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1531_img_999_1"  type="Letter"  url="484d25b798b2cdaae47dd87f01d9f202.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1531_img_999_1"/>
+                Portland Prison,    May 15th 1916    Extract from letter of Harry O'Hanrahan to his mother &amp; sisters  'The Sunday Esq in which we surrendered, we <lb/> marched to Richmond Barracks &amp; the... &amp; ourselves <lb/> were trying to keep in a bunch, this we did <lb/> until the detectives came about 2.00 &amp; <lb/> picked out about 14 including the 2 Cosgraves, <lb/> T Mac Donagh, Kent ourselves &amp; you know <lb/> the results since we were picked out on <lb/> Monday'  We had 7 or 8 girls at Jacobs including <lb/> MÃ¡ire Walker, they were <seg type="unclear">brides</seg> - - they were <lb/> very good to poor MiceÃ¡l &amp; myself' <lb/>'Now in other <seg type="unclear">area</seg> ... ask you not to fret about <lb/> me. I am &amp; will be alright. I have God &amp; as far <lb/>from MiceÃ¡l is he not better off. When we started <lb/>we were all prepared to go under &amp; had confession <lb/> in Jacob's on the Tuesday &amp; Wednesday <seg type="unclear">wqs</seg> that were <lb/> there. We had the Priests very often.   We had only one casualty there.   
+         </ab>
+      </body>
+   </text>
+</TEI>

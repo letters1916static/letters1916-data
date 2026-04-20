@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6631">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Séamus Breathnach, Secretary, Kinsale (Thomas Kent) Sinn Féin Club, to Gregory Ashe, 6 October 1917</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Séamus Breathnach</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter expresses sympathy on the death of Gregory&#39;s son, Thomas. Thomas Ashe from Co. Kerry (* 1885) was a member of the Gaelic League, the Irish Republican Brotherhood (IRB) and co-founder of the Irish Volunteers.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry Library, Tralee</repository>
+                  <collection>Thomas Ashe Collection</collection>
+                  <idno>https://letters1916.ie/item/6631</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0864">Séamus Breathnach</persName>
+              <date>1917-10-06</date>
+              <placeName key="#letters1916_place-1789">Kinsale, (Thomas Kent) Sinn Féin Club, Co. Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Gregory Ashe</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">The Rising Tide (1917-1919)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6631_img_None_1"  url="phpzqMFRH.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6631_img_0_1"/>
+              Kinsale (Thomas Kent)<lb/>Sinn Fein Club    6.10.'17        A Dhuine Uasal        It affords<lb/>me melancholy pleasure to be<lb/>the medium of conveying to<lb/>you on behalf of the members<lb/>of above club an expression<lb/>of profound sympathy on the<lb/>death of your noble son.  Go dtugadh Dia agus a<lb/>Mhuire Máthair maighdeana<lb/>sólás duit  Mise do chara   Séamus Breathnach    Rúnaidhe   <seg type="unclear"></seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

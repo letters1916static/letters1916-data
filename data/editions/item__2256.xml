@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2256">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Douglas Hyde to Jane Coffey, 1 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Douglas Hyde</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from Douglas Hyde to Jane Coffey and refers to the death of Hyde&#39;s daughter Nuala following heart failure (she had tuberculosis). &#39;Lucy&#39; is Lucy Cometina Kurtz, Hyde&#39;s wife.
+Hyde (1860-1949) was a member of the Gaelic League and later became first president of Ireland.
+Jane Coffey (née l&#39;Estrange) (1857-1921) was born into a Protestant family but married Catholic George Coffey and became a member of the National Literary Society.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Coffey &amp; Chenevix Trench Papers, Collection List No 153; Ms. 46,302/3</collection>
+                  <idno>https://letters1916.ie/item/2256</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1389">Douglas Hyde</persName>
+              <date>1916-10-01</date>
+              <placeName key="#letters1916_place-1776">Ratha, Frenchpark, County Roscommon</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0106">Jane Coffey</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1949</item>
+               <item n="tag">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2256_img_170_1"  type="Letter"  url="cf704b66bfed8999af7ddad47070cd53.jpg"/>
+      <graphic xml:id="L1916_2256_img_170_2"  type="Letter"  url="6dd6c1a9b169b7d12e2218aa2865218c.jpg"/>
+      <graphic xml:id="L1916_2256_img_170_3"  type="Letter"  url="b32541095f604f4bfdfd0f79e6b788f4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2256_img_170_1"/>
+             Ratra, <lb/>Frenchpark   Oct 1 1916   My dear Mrs Coffey   You will be <lb/>sorry to hear that <lb/>dear Nuala died <lb/>yesterday. Heart <lb/>failure was the
+            <pb n="2" facs="L1916_2256_img_170_2"/>
+            immediate cause, but <lb/>it was brought on by <lb/>the difficulty in <lb/>breathing. She <lb/>had two dreadful <lb/>days fighting for <lb/>breath but the <lb/>end came quite <lb/>peacefully. She <lb/>was wonderfully brave <lb/>and patient. Poor <lb/>Lucy is quite broken <lb/>down. She died just <lb/>25 days from the <lb/>time she got hemorrhage.   Hoping that you <lb/>and Dermot are keeping <lb/>well and with kindest <lb/>regards from us
+            <pb n="3" facs="L1916_2256_img_170_3"/>
+            all   Yours very sincerely   <hi rend="underline">Douglas Hyde</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0609">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward F. Stephenson to the Local Government Board for Ireland, 19 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward F. Stephenson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Edward F. Stephenson, Medical Inspector, to the Local Government Board of Ireland. In the letter, Stephenson states that he has visited the Physiological and Pathological Laboratories in Queen’s University and found that the requirements of the Cruelty to Animals Act 1876 have been complied with. He found that the animals that are held there for experimentation purposes were in good condition and well housed.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3716</collection>
+                  <idno>https://letters1916.ie/item/609</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1384">Edward F. Stephenson</persName>
+              <date>1916-01-19T00:00:00</date>
+              <placeName key="#letters1916_place-1781">Belfast, Northern Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0609_img_2025_1"  type="Letter"  url="df8e52b023e767983dc8774ed0e2dd6f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0609_img_2025_1"/>
+              <lb/>Copy <lb/>No. 3716   Belfast    19th January, 1916.  <lb/>To the Local Government Board for <lb/>Ireland.  Gentlemen,   I have the honour to report that I visited <lb/>the Physiological and Pathological Laboratories <lb/>attached to the Queen's University, Belfast, under <lb/>the provisions of Section 10 of the Cruelty to <lb/>Animals Act, 1876, and found that the requirements <lb/>of the Act were complied with.   The animals (rabbits and guinea pigs) kept for <lb/>experimental purposes, were in a clean and healthy <lb/>condition, and were well housed.  <seg type="closer"> I have the honour to be <lb/>Gentlemen, <lb/>Your obedient Servant,   Edward F. Stephenson </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

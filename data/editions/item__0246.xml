@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0246">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from E. F. Batty to the Under-Secretary for Ireland, 4 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>E. F. Batty</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by E. F. Batty to the under-secretary for Ireland. In this letter Batty writes concerning the provision of aeroplanes in areas of Ireland which contain enough troops to make it worthwhile. Batty thinks this would help to deter rebels.The letter is addressed to the under-secretary, which at this time is Sir Robert Chalmers (1858-1938). Chalmers was sent to Ireland as under-secretary, replacing Sir Matthew Nathan who had resigned along with Augustine Birrell, his chief secretary following the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/7425/1</collection>
+                  <idno>https://letters1916.ie/item/246</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0533">E. F. Batty</persName>
+              <date>1916-05-04</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">The Under-Secretary</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0246_img_1426_1"  type="Letter"  url="62d35e0848d0ee3080e554c730f08a96.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0246_img_1426_1"/>
+                May 4<hi rend="superscript">th</hi> 1916    2 Isabella Place  Combe Down,  Bath    Private  To the Under Secretary in  Ireland   Sir   Pardon the <seg type="unclear">suggestion</seg><lb/> that aeroplanes at every<lb/> place in Ireland where there<lb/> were enough troops to make<lb/> it worth while would be a<lb/> good thing â <seg type="unclear">more</seg> than one<lb/> where there were many troops<lb/> If the telephone had been cut<lb/> the want of an aeroplane if<lb/> we had more would have been<lb/>much help â <cb/> Probably the sight of them<lb/> coming and going <seg type="unclear">from</seg>trips <lb/> would help to extend their<lb/> influence â It would be<lb/> also a little excitement<lb/> of a harmless nature and <lb/> and besides tending to deter<lb/> rebels âmight tend to<lb/> restore the confidence of<lb/> the loyal population<lb/> They might have been asked<lb/> for all I know âbut they<lb/> were not mentioned in the<lb/> news papers âIn locating <lb/> rebels in large <seg type="unclear">bodies</seg> in<lb/> city or county they might be<lb/> most useful âif there were <lb/> further need it might have<lb/> been during the outbreak <seg type="closer"> Your obed servant <lb/> E F Batty </seg><seg type="postscript"> PS It would be<lb/> undesirable to <seg type="unclear">have</seg><lb/> them where they could<lb/> be captured </seg><seg type="postscript"> PPS If the first accounts had not been too tolerable<lb/> I might have thought of this before in France<lb/> to be of use. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

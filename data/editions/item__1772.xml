@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1772">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Robert O'Connell to Sir Matthew Nathan, 10 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Robert O&#39;Connell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Sir John Robert O&#39;Connell (1868-1943), a solicitor, to Sir Matthew Nathan (1862-1939). Nathan was the under-secretary for Ireland from 1914 until 1916. In 1916 he faced criticism for failing to be aware of and to prevent the outbreak of the Easter Rising on 24 April. He resigned shortly afterwards.
+The letter notes that O&#39;Connell will be sending Nathan a copy of communication between O&#39;Connell and the Archbishop of Tuam,  John Healy (1841-1918), in which Healy supports the appointment of O&#39;Connell to the position of chief crown solicitor for Ireland.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP//1916/7153/5</collection>
+                  <idno>https://letters1916.ie/item/1772</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0595">John Robert O&#39;Connell</persName>
+              <date>1916-04-10</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1943</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1772_img_1228_1"  type="Letter"  url="240bbea43dbf9dc9dec6fe008f0cf289.jpg"/>
+      <graphic xml:id="L1916_1772_img_1228_2"  type="Letter"  url="d9e355efde5edbce693730dc3afc3289.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1772_img_1228_1"/>
+             34, Kildare Street, <lb/>Dublin.   10<hi rend="superscript">th</hi> April 1916   Dear Sir Mathew Nathan   I send you <lb/>herewith copy of a <lb/>letter of recommendation <lb/>for His Grace   Rev<hi rend="superscript">d</hi> <lb/>D<hi rend="superscript">r</hi> Healy D.D. Archbishop of <lb/>of Tuam in support of <lb/>my application for the <lb/>position of Chief Crown <lb/>Solicitor for Ireland to
+            <pb n="2" facs="L1916_1772_img_1228_2"/>
+            which I would call your <lb/>attention. If you would <lb/>wish to have the original <lb/>letter I shall be happy to <lb/>forward it to you.   Believe me <lb/>Yours Sincerely   <hi rend="underline">John Robert O'Connell</hi>   The Rt Honourable <lb/>Sir Matthew Nathan P.C. <lb/>G.C.M.G. KCKG. <lb/>The Castle Dublin 
+         </ab>
+      </body>
+   </text>
+</TEI>

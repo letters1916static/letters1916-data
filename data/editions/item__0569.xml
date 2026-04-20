@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0569">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Telegrams from Andrew Philip Magill to Henry, 4 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Andrew Philip Magill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Two telegrams from Andrew Philip Magill (1871–1941), private secretary to Henry Edward Duke (1855–1939), Chief Secretary for Ireland, to a Henry, perhaps Henry Duke. In the earlier telegram Magill asks for the date of an article which was published in the Irish Independent before the execution of James Connolly (1868-1916). The article urged the leaders of the Rising should not be shown any clemency. Magill’s telegram later the same day indicates that he has got the information he required.James Connolly , was one of the leaders of the Easter Rising in 1916. He was badly wounded during the fighting at the G.P.O. and he was executed by firing squad in Kilmainham Gaol on 12 May 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5620/13486</collection>
+                  <idno>https://letters1916.ie/item/569</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0014">Andrew Philip Magill</persName>
+              <date>1916-08-04</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Henry</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0569_img_1963_1"  type="Letter"  url="ecd408e8ceae063a53cec87abf2bc5db.jpg"/>
+      <graphic xml:id="L1916_0569_img_1963_2"  type="Letter"  url="a907fa95d044ab9ca0fc08337cafc63f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0569_img_1963_1"/>
+                From  Magill    To  Henry    My wire I have now got Independent of <lb/>May 10<hi rend="superscript">th</hi> I think leading article in that <lb/>copy is the one referred to so don't trouble further  <seg type="closer"> A /P M   5/8/16  </seg> 
+            <pb n="2" facs="L1916_0569_img_1963_2"/>
+                From  Magill    To  Henry    Can you give me date of Article in Independent <lb/>issued before execution of Connolly in which it was <lb/>urged that the leaders in rebellion should not be <lb/>shown any clemency  I reply:- <lb/>Henry &amp; Librarian gone. Will <seg type="del">get</seg> wire <lb/><seg type="del">for</seg>date tomorrow. <seg type="closer">Registrar <lb/> II Mrs Henry</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

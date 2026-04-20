@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2280">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Joseph MacRory to John F. Hogan, 26 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Joseph MacRory</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Joseph MacRory (1861-1945), bishop of Down and Connor, to John F. Hogan (1858-1918), a priest, author and president of St Patrick&#39;s College, Maynooth.
+In this letter MacRory grants the canonical faculties for the students from Down and Connor to be ordained into their religious orders. MacRory also states that he has returned from a confirmation campaign.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>St Patrick&#39;s College, Maynooth</repository>
+                  <collection>John F. Hogan Papers, 31/10/39a</collection>
+                  <idno>https://letters1916.ie/item/2280</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1304">Joseph MacRory</persName>
+              <date>1916-05-26</date>
+              <placeName key="#letters1916_place-1011">Chichester Park, Belfast, County Antrim, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John F. Hogan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1945</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2280_img_1726_1"  type="Letter"  url="d32b8fb79cf9dfe06e82339305062c19.jpg"/>
+      <graphic xml:id="L1916_2280_img_1726_2"  type="Letter"  url="497bf83c7a4557e89da254cd05b8fa77.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2280_img_1726_1"/>
+             21/10/39a  <!-- Embossed Bishop\'s Seal --><!-- Embossed Bishop\'s Address: --> <lb/>Chichester Park,<lb/>Belfast    May, 1916    My dear Monsignor,   I hereby grant all the<lb/>faculties necessary in order that<lb/>any or all of the Down &amp; Connor<lb/>students may receive the Orders<lb/>to which they are called.  Moreover, in the case of Messrs<lb/>O Hare and Bradley, Fourth<lb/>Divines, I grant faculties<lb/>for Priesthood, and in the case<lb/>of the Parson and Mr Crossan, 
+            <pb n="2" facs="L1916_2280_img_1726_2"/>
+             faculties for Deaconship and <lb/>Priesthood. I trust the Coun.<lb/>cil will see its way to allow <lb/>these four to be ordained Priests<lb/> at the general ordination, <lb/>as I shall need them.   I have just returned here<lb/> from a Confirmation campaign <lb/>far up in Antrim.   With best wishes to you and <lb/>all the members of the Cabinet,   Yours most sincerely  <lb/>+ Joseph MacRory.
+         </ab>
+      </body>
+   </text>
+</TEI>

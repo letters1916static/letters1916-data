@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1261">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Peter McBrien to Geraldine Plunkett Dillon, 15 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Peter McBrien</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Peter McBrien to Geraldine Plunkett Dillon (1891-1986). The letter refers to a collection of Joseph&#39;s poetry which was posthumously published under the title &#39;The poems of Joseph Mary Plunkett&#39; and edited by Geraldine, who also provided a preface. McBrien praises both the preface and the book.Geraldine was a sister of Joseph Mary Plunkett, one of the signatories of the proclamation of the Irish republic who was executed for his part in the Easter Rising. Geraldine married her fiancé, Tommy Dillon (1884-1971), on Easter Sunday 1916. Tommy, an Irish Volunteer, was ordered to manufacture explosives in the Imperial Hotel opposite the GPO where they spent their wedding night. Geraldine and Tommy managed to escape Dublin during Easter week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Geraldine Plunkett Dillon Collection, BMH CD/5/8/19</collection>
+                  <idno>https://letters1916.ie/item/1261</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0409">Peter McBrien</persName>
+              <date>1916-10-15</date>
+              <placeName key="#letters1916_place-0937">56 Fitzroy Avenue, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Geraldine Plunkett Dillon</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Culture and the Arts</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1261_img_450_1"  type="Letter"  url="60aae83a9d2586e91d955ef3de059f2d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1261_img_450_1"/>
+                56 Fitzroy Av.,  Dublin    15th. Oct., 1916   Dear Mrs. Dillon,   I am sorry to be adding to your work and worry at <lb/> such a time as this. Your preface I liked very much; what struck me <lb/> most about it was its homeliness, sincerity, and its sense of the  difficulty of  reaching <lb/> to the mastery of his instrument your brother showed. On the <lb/> whole I agree with your criticism of his work, too. The whole <lb/> book is very fine and will live.  <seg type="closer"> I am, dear Mrs. Dillon, <lb/> Very gratefully yours,   Peter McBrien </seg><seg type="postscript"> P.S. : I shall be at Larkfield about 8.15, p.m., next Tuesday, 17 <hi rend="superscript">th</hi>. : your sister <lb/> must be blessing me. <hi rend="underline">PMcB.</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

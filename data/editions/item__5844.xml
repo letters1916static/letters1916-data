@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5844">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mabel FitzGerald to the Governor, Dartmoor Prison, 22 June 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mabel FitzGerald</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is Mabel FitzGerald (née Washington McConnell) (1884-1958), wife of politician and intellectual Desmond FitzGerald (1888-1947), to the governor of Dartmoor prison, Major E. Reade.
+Desmond FitzGerald had served in the GPO during the Easter Rising, being placed in charge of the garrison&#39;s food supply. He initially escaped arrest after the Rising but was soon rounded up and imprisoned in Mountjoy, Dartmoor, Maidstone, Lewes and Portland.
+Mrs FitzGerald is replying to the Governor&#39;s letter regarding Michael Joseph O&#39;Rahilly&#39;s missing bicycle and advises that the family has already located it. The O&#39;Rahilly (1875-1916) was killed on Parnell/Moore Street during the evacuation of the GPO during the Easter Rising. Both Fitzgerald and O&#39;Rahilly had tried to prevent the Rising but joined once it began. FitzGerald had borrowed the bicycle before the Rising.
+She asks the Reade to tell her husband that their elder son has had a successful adenoid operation and it fully recovered. The operation was performed by Oliver Gogarty (1878-1957).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1604/2</collection>
+                  <idno>https://letters1916.ie/item/5844</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date>1916-06-22</date>
+              <placeName key="#letters1916_place-1746">2 Loretto Villas, Bray, County Wicklow, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0369">The Governor, Dartmoor Prison</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1395">Dartmoor, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="death">1957</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5844_img_943_1"  type="Letter"  url="6a751b8d93e79a224c150c0e1b05a09e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5844_img_943_1"/>
+             2 Loretto Villas, <lb/>Bray <lb/>Co Wicklow, <lb/>Ireland.   Copy   22nd June, 1916   The Governor, <lb/>The Prison, <lb/>Dartmoor   Sir,   I must thank you for your communication of a message <lb/> from my husband telling me the whereabouts of The O'Rahillys <sic>bicy</sic> <lb/> : please let him know that the family recovered it some little t <lb/> time ago by chance.   I should be glad if you would tell my husband that <lb/> owing to sudden and growing deafness our older boy had to have an <lb/> operation for Adenoids last week and that is was performed very <lb/> <sic>skilfully</sic> by a Dublin Specialist, Dr Oliver Gogarty and was a com <lb/>plete success; the child  has  recover<seg type="del">ing</seg> ed  his hearing <seg type="del">s</seg>and is now in exc ellent  <lb/>ent he a lth.   Yours truly   Mabel Fitzgerald 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0387">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Brown to Robert Chalmers, 26 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Brown</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Robert Brown, the assistant manager at the National Margarine Company Ltd., to Sir Robert Chalmers (1858-1938). In the letter Brown attempts to acquire compensation for a attending the trail of Henry McCambley (b.1871). Brown was required to attend the hearing as a witness in Belfast. The letter discusses the money Brown lost stating that despite what he is being told, he has yet to receive the full compensation and requests the remittance to be paid.Sir Robert Chalmers was sent to Ireland as replacement under-secretary for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5613/9069</collection>
+                  <idno>https://letters1916.ie/item/387</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1431">Robert Brown</persName>
+              <date>1916-05-26</date>
+              <placeName key="#letters1916_place-0749">Leith</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0387_img_1649_1"  type="Letter"  url="bfff87e153ebdb5a0d98f2a1cdac7351.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0387_img_1649_1"/>
+              Ack. and state that <lb/> T. E has nothing to <lb/> add to the replies sent <lb/> to his previous letters on <lb/> the subject. <lb/> I St <lb/> 29 - 5 - '16     THE NATIONAL MARGARINE COMPANY  LIMITED  10 QUALITY STREET  LEITH    26th May 1916   Dear Sir.   I duly received your favour of 23rd. inst. I am glad <lb/> that it is now clear to you that I received only Â£2/13/4 in <lb/> respect of travelling and subsistence expences. I gave you this <lb/> information in a perfectly plain manner in my letter of 15th. <lb/> April and repeated the statement to you per my letter of 22nd. <lb/> April   I shall be glad if you will now give instructions for the <lb/> sum of Â£1/1/0 to be remitted to me, with respect to loss of time <lb/> and loss of earnings when serving the police, being absent from <lb/> home from 8th. Oct. to 10th. Oct. performing the journey to Belfast <lb/> and back in accordance with the desire of the Police Authorities.   I was informed before I set out on the journey that my <lb/> expenses would be paid, and only, viz:- Â£2/13/4 has been paid.   I wish payment of the difference, and trust you will now give <lb/> the necessary instructions to save further trouble.  <seg type="closer"> Yours truly,  Rot. Brown </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

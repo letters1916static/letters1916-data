@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0214">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward O'Farrell to Bertram Cubitt, 10 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward O&#39;Farrell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is letter from Edward O&#39;Farrell (1857-1926), the assistant under-secretary for Ireland, to the secretary of the War Office, Bertram Cubitt (1862-1942). The letter regard the importation of masonic swords into Ireland by George Kenning and Son, a masonic clothing and item distributor based in London. Sir Edward O&#39;Farrell (c.1857-1926) served as the Assistant Under Secretary to the Lord Lieutenant of Ireland, Sir Ivor Guest Churchill, Lord Wimborne.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5612/9542/1</collection>
+                  <idno>https://letters1916.ie/item/214</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date>1916-06-10</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1354">Bertram Cubitt</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0554">London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0214_img_1361_1"  type="Letter"  url="e079439301dc74a42e905811697cff11.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0214_img_1361_1"/>
+                10th June 1916.   9542.  Sir,   Referring to your letter of the 3rd instant <lb/>(Contracts.Firms.K/1739: A.G.3.) enquiring whether <lb/>there is any objection to Masonic Swords being <lb/>supplied by Messrs George Kenning &amp; Son of 1, 2, &amp; <lb/>3 Little Britain Street, London, E.C., to various <lb/>parts of Ireland, I am directed by the Lords Justices <lb/>to acquaint you, for the information of the Secretary <lb/>of State, that the General Officer Commanding-in-Chief <lb/>the Forces in Ireland, to whom the matter was re- <lb/>ferred, states that he has no objection to the <lb/>importation of a few swords fit for ceremonial <lb/>purposes only but that the permission of the Military <lb/>Authorities must first be obtained.   Messrs Kenning &amp; Son should therefore apply to <lb/>the Head Quarters, Irish Command, Park Gate, Dublin, <lb/>stating the number of swords and names of consignees, <lb/>when enquiries will be made, and if the Military <lb/>Authorities are satisfied as to the good character <lb/>and loyalty of the consignees, Permits will be issued.  <seg type="closer"> I am, <lb/>Sir, <lb/>Your obedient Servant  ,   E. O F.   The Secretary,  War Office,  London, S.W.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

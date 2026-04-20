@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4632">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Librarian, R.C.P.I. to T. Cowley Stephen, 13 November 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Librarian, R.C.P.I.</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>From 1910 until 1954 Thomas Percy Kirkpatrick (1869-1954) served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-14-56</collection>
+                  <idno>https://letters1916.ie/item/4632</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0384">Librarian, R.C.P.I.</persName>
+              <date>1918-11-13</date>
+              <placeName key="#letters1916_place-1334">Royal College of Physicians of Ireland, 6 Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">T. Cowley Stephen</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0722">Manchester, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4632_img_3972_1"  type="Letter"  url="d6033a88e9c9e9ba390b63f54058a1dc.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4632_img_3972_1"/>
+             6 KILDARE Street,   13th November 18   Dr. T. Cowley Stephen, <lb/>Withington, <lb/>Manchester.   Dear Sir,   In reply to you letter of the 10th inst., I send you <lb/>herewith a copy of the Regulations and forms of application. <lb/>In case of urgency the President might grant you special <lb/>examination during the first week in December but for such <lb/>examination you should forward to the Registrar you application <lb/>and papers required by the By-Laws early next week. I <lb/>have forwarded the Regulations &amp;c., to you brother at the <lb/>address you give and trust that they will reach him safely.   I <sic>inclose</sic> the stamps you sent for the telegram.   Yours faithfully,  <lb/>Librarian, R.C.P.I.
+         </ab>
+      </body>
+   </text>
+</TEI>

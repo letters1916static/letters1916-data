@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6021">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Wilfrid Spender to Henry Wilson, 28 March 1922</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Wilfrid Spender to Henry Wilson discussing a meeting for later that day</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Correspondence and papers re Field Marshall Sir Henry Wilson, PRONI/CAB-6-89-103</collection>
+                  <idno>https://letters1916.ie/item/6021</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0667">Wilfrid Spender</persName>
+              <date>1922-03-28</date>
+              <placeName key="#letters1916_place-1409">Cabin Hill, Knock, Belfast, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1294">Henry Wilson</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1071">36 Eaton Place, London, S.W.1, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1960</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6021_img_None_1"  url="0357df2c2fe4464831f1afc91d01cf1c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6021_img_0_1"/>
+              Cabin Hill,<lb/>Knock, Belfast    28th March, 122    My dear Field Marshal,   I will bring over with me the<lb/>present position in regard to the R.I.C. and hope that<lb/>I may be able to see you when we are over.<lb/>Sir James Craig is leaving for London to-night, and<lb/>will be stopping at Londonderry House.   Yours sincerely    W.B. Spener    Field Marshal Sir Henry Wilson, Bart. GCB<lb/>36 Eaton Place, S.W.1  
+         </ab>
+      </body>
+   </text>
+</TEI>

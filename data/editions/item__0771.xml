@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0771">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Wilfrid Spender to Lady Lillian Spender, 21 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Bliss Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Sir Wilfrid Bliss Spender (1876-1960) to his wife, Lady Lillian Spender, née Dean, (1880-1968). In this note, Spender tells Lillian that his brother Rex has arrived at the 12th Royal Irish Rifles, and gives her his address. He suggests that she and his mother send Rex a weekly parcel.Sir Wilfrid Spender was a member of the British Army until 1913 when controversy surrounding his signature of the Ulster Solemn League and Covenant resulted in his resignation. Spender was called up for military service in 1914 and from 1915 served in the 36th (Ulster) Division. Throughout the war, Spender wrote a collection of letters to his wife Lady Lillian Spender. The letters date mainly from 1915 to 1918, when Sir Wilfrid was serving in France. The letters concern politics, the Irish question, personal life, and Wilfrid&#39;s experience of the Great War. Lady Lillian served in the Ulster Volunteer Nursing Corps during the war, and was an organiser of the Ulster Division Comforts Fund.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Lady Spender&#39;s Correspondence, D1633/1/1/355</collection>
+                  <idno>https://letters1916.ie/item/771</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0931">Wilfrid Bliss Spender</persName>
+              <date>1916-07-21</date>
+              <placeName key="#letters1916_place-0769">France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lillian Spender</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0771_img_2304_1"  type="NULL"  url="f64cc4282ef099d8d93eba446ae692e5.jpg"/>
+      <graphic xml:id="L1916_0771_img_2304_2"  type="NULL"  url="52306f4a2eec54ddddf7297f1fb5d8a4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0771_img_2304_1"/>
+                July 21    Bruce tells me that <lb/>Rex has arrived &amp; has <lb/>been posted to <lb/>12 R IRISH RIFLES <lb/>108 BDE <lb/> I am suggesting to <lb/> mater that you &amp; <lb/>she shall send a <lb/>weekly parcel to him. <lb/>He will be in the line <lb/> at once &amp; parcels would <lb/>be appreciated cake <lb/> chocolates potted meat  
+            <pb n="2" facs="L1916_0771_img_2304_2"/>
+              biscuits. If you can <lb/> send him one at once <lb/>and arrange with mater <lb/>whether she will send <lb/>at the beginning of the week <lb/>or at the end &amp; do the <lb/> opposite. I am taking <seg type="unclear">over</seg><lb/> my rubber mattress if <lb/>I can get a car just to <lb/>see what I can do for him.  &amp; will get you to order another if so .  This bit of the line <lb/> is supposed to be fairly <lb/>quiet but I wish he could <lb/> have settled down first.  
+         </ab>
+      </body>
+   </text>
+</TEI>

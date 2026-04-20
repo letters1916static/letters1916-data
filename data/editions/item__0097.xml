@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0097">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Lavery to Sir Matthew Nathan, 31 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Lavery</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Patrick Lavery ( b.1852), a solicitor, to Sir Matthew Nathan (1862-1939). Sir Matthew Nathan (1862-1939) served as the under secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registerede Papers, CSORP/1916/5670/1</collection>
+                  <idno>https://letters1916.ie/item/97</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0114">Patrick Lavery</persName>
+              <date>1916-03-31</date>
+              <placeName key="#letters1916_place-0314">Armagh, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0097_img_1179_1"  type="Letter"  url="d074be3512033289bcc2663547367458.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0097_img_1179_1"/>
+                City Hall,  Armagh    31 <hi rend="superscript">st</hi> March 1916    Sir   I beg to offer myself as a candidate <lb/>for the position of Chief Crown Solicitor <lb/>now vacant through the death of Sir <lb/>Malachi Kelly. I have been a <lb/>practising Solicitor in Armagh since <lb/>November 1883 and during all that <lb/>period I have had a very large <lb/>criminal practice. I am 54 years <lb/>of age. If any references as to my <lb/>fitness for the position are required <lb/>I will be able to obtain same from <lb/>Judges of the High Court and <lb/>County Court.  <seg type="closer"> Your obedient servant  Patrick Lavery <lb/>Right Honorable Sir Matthew Nathan   Under Secretary   Dublin Castle  </seg> I Ack. <lb/>II Put with papers. <lb/>MN 31.3   
+         </ab>
+      </body>
+   </text>
+</TEI>

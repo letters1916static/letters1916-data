@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0806">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fr James Brennan SJ to Fr Thomas V Nolan SJ, 21 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Brennan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Fr James Brennan SJ (1854-1941), Rector of Rathfarnham Castle to his Father Provincial Thomas V Nolan SJ (1867-1941), 21 August 1916. The letter from Fr James Brennan SJ to his provincial concerns the travel plans for Juniors who had completed their academic studies and were to apply for permits to travel to Jersey, to start their philosophical studies. Brennan was worried about their travel plans and commented that ‘eight fine young fellows of military age, travelling together would attract attention in these anxious days…some of the Roehampton Juniors (British Jesuits) were presented with white feathers in London’. During the First World War, in order to shame men into enlisting in the British Army, women presented men not wearing military uniform with a white feather to signify cowardice. As a consequence, the Juniors travelled to Jersey in two groups.Rathfarnham Castle was bought by the Irish Jesuits in 1913 and used a house of studies for those Jesuits attending university. This decision was made following the change of regulations to the National University requiring students to attend lectures whereas previously they could be prepared for examinations elsewhere. The Jesuit Juniors as they were known would live at the Castle and cycle to lectures at University College Dublin, then located at Earlsfort Terrace in the centre of Dublin.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IE IJA/FM/RATH/40, IE IJA/FM/RATH/40</collection>
+                  <idno>https://letters1916.ie/item/806</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0657">James Brennan</persName>
+              <date>1916-08-21</date>
+              <placeName key="#letters1916_place-1759">Rathfarnham Castle, Rathfarnham, county Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas V Nolan </persName>
+              <date></date>
+              <placeName key="#letters1916_place-1897">St Francis Xavier's, Upper Gardiner Street, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0806_img_2348_1"  type="Letter"  url="0969248997ba45b81a3ef2c747964892.jpg"/>
+      <graphic xml:id="L1916_0806_img_2348_2"  type="Letter"  url="163f490c85e0e51ac89b0f8c4c1d1416.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0806_img_2348_1"/>
+                Rathfarnham Castle  Rathfarnham  Co Dublin    21 .8.16   My dear Fr. Provincial P.C.   In your first letter to me <lb/>about the departures for Jersey you said <lb/>the Juniors were to go in two batches. Does <lb/>this arrangement still hold good? It seems <lb/>to me to be the best. Eight fine young fellows, <lb/>of military age, travelling together would attract <lb/>attention in these anxious days. Some of the  
+            <pb n="2" facs="L1916_0806_img_2348_2"/>
+              <lb/>Roehampton Juniors were presented with white feathers <lb/>in London. Then again, it would be difficult <lb/>for the Fathers in Farm St. to accommodate so many. <lb/>M<hi rend="superscript">r</hi> Neary <seg type="del">was better</seg> told me that they will <lb/>require permits to travel, and that he has <lb/>got his own already. I shall see about <lb/>this at once. If you think well of sending <lb/>them in two different sets, the first could start <lb/>on the 29<hi rend="superscript">th</hi>, as you have arranged, &amp; the <lb/>second on the following Saturday. M<hi rend="superscript">r</hi><seg type="unclear">Grech</seg><lb/>is at Stonyhurst. He found a letter from the Rector <lb/>of Stonyhurst waiting for him at Liverpool, saying that <lb/>he could not receive him 'till the 24<hi rend="superscript">th</hi> But the Rector of Liverpool <lb/>told him not to mind, &amp; sent him on. Pardon me for troubling you <lb/>during your retreat. <seg type="closer"> Very sincerely yours in Xto  J Brennan S. J. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0028">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Brennan to his wife Vera, 4 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Brennan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from JJ (also known as Jim, James, or Seamus) Brennan to his wife Vera, written in Kilmainham Gaol on 4th May 1916. In this letter, James writes to inform Vera of his impending trial. He believes that he is to be executed. The Tom referred to in the letter was his cousin who died during the fighting. He had been married the previous year (23 Aug) and his wife was expecting their first child. Lily, Annie and Jennie were my grandmother’s sisters while the second Annie mentioned was his own sister. “Church Street people” refers to the Capuchin Friary in Church Street, where he was a member of the ‘Third Order’.He was 25 years of age when he fought under Sean Heuston in the Mendicity Institution in 1916. Brennan was tried at Richmond Barracks and sentenced to death. The sentence was commuted to penal servitude and he was released in June 1917. His first born son was then 1 year old, having been born on 17 June 1916. The couple, who went on to have five further children (one of whom was my mother) had a long and happy life. He was one of the founder members of the Kilmainham Gaol Restoration Society and served as its secretary for many years. He died in 1975.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Private Collection</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/28</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0657">James Brennan</persName>
+              <date>1916-05-04</date>
+              <placeName key="#letters1916_place-1687">Kilmainham Gaol, Dublin, County Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Vera Brennan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1731">Dublin, County Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Last letters before death</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0028_img_1059_1"  type="Letter"  url="98a7801a9c3d05c21b9cd57e63d55602.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0028_img_1059_1"/>
+                Thurs 4th May 1916   Dearest Wife   We are going to be tried today. I am afraid <lb/> it is all up with me. Oh Vera won't you pray for <lb/> me. I love you. I am breaking my heart. <lb/> I hope poor Tom is alive. I heard he was <lb/> shot. I know it will be hard on you <lb/> but bear it bravely for the Love of God. <lb/> I can't write any more.   Remember me to Dear Lily Annie Jennie <lb/> and your poor mother also Anne and <seg type="unclear">mammy</seg>. <lb/> It is a hard life <lb/> But this is not our home  <seg type="closer"> Goodbye and God Bless you <lb/> Your devoted husband <lb/> till death   <hi rend="underline">Jim</hi> </seg><seg type="postscript"> Pray for me <lb/> and get all the <lb/> Church St people <lb/> to pray for me  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0511">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Alexander McDowell to E. A. Aston, 17 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Alexander McDowell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Alexander McDowell (d. 1918), Ministry of Munitions, to E. A. Aston, inspector for the Local Government Board (LGB), Dublin, in reply to Aston&#39;s letter on 11 March 1916. McDowell states he is not aware of any distress in the Belfast area regarding female workers from the local linen industry. McDowell also states that only one Belfast firm employs women on munitions work and believes the company&#39;s recruitment process to be fair and equal.Alexander McDowell, Esq., was the joint director of Ireland for the Ministry of Munitions.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI, CSORP/1916/7443/10</collection>
+                  <idno>https://letters1916.ie/item/511</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0654">Alexander McDowell</persName>
+              <date>1916-03-17</date>
+              <placeName key="#letters1916_place-0730">Ministry of Munitions, Coates Buildings, Castle Street, Belfast, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">E. A. Aston</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1501">Local Government Board, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0511_img_1883_1"  type="Letter"  url="5a5c0280a3d369e20b455dc4722e8806.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0511_img_1883_1"/>
+              Telephone:Belfast No. 578.<lb/> Telegrams:'Munarea, Belfast.'<lb/><hi rend="underline">MINISTRY OF MUNITIONS</hi><lb/> All Communications to be addressed to<lb/> The Secretary,<lb/> and quote reference<lb/><hi rend="underline">A D</hi><lb/>   Coates Buildings  Castle Street  Belfast    17 <hi rend="superscript">th</hi>March 1916.     E.A. Aston Esq.  Local Govt Board Inspector.  Dublin.   Dear Sir   Captain Kelly has sent me your letter of the 11th and has <lb/> asked me to reply to it.   I, personally, was not aware that there was any distress here <lb/> such as one would gather from your letter had been represented: but I <lb/> thought it best to speak to the President of the Flax Spinners' Association <lb/> as well as the Chairman of the Power Loom Weavers' Association. <lb/> These two Associations represent practically the great bulk of our textile <lb/> manufacturers, and they both tell me that while there may be some indiviual <lb/> cases of hardship â as in a large community it is impossible at all <lb/> times to avoid â they are not aware of any general state of hardship such <lb/> as is suggested.   There is only one firm here, so far, employing women on <lb/> munition work. The firm chose the women on their merits from a long list <lb/> of applicants and the question of birth or position had I believe nothing <lb/> to do with the selection. Several at least of those selected had been <lb/> taking lessons elsewhere on how to use the machinery. I fear the account <lb/> which has been given you is an exaggerated one.   I have not seen any advertisement for women for munitions in <lb/> this part of the country, and I have not heard of anyone who has seen such <lb/> an advertisement.  <seg type="closer"> Yours truly  Alex McDowell </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

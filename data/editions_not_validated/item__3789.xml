@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3789">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Michael Cahill to the Registrar, Royal College of Physicians of Ireland, 28 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Michael Frederick Cahill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from solicitor Michael Frederick Cahill to the registrar of the Royal College of Physicians of Ireland (RCPI) concerning  the change of name of Dr Aimai Maneckji Cooper. According to Cahill Dr Cooper would like the name &#39;Grace&#39; to be henceforth omitted in all medical registers.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T68-1</collection>
+                  <idno>https://letters1916.ie/item/3789</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1000">Michael Frederick Cahill</persName>
+              <date>1916-03-28</date>
+              <placeName key="#letters1916_place-1478">16 Cleveland Road, Ilford, Essex, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0320">Royal College of Physicians of Ireland</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3789_img_3173_1"  type="Letter"  url="db15286adc917c013a5bf6c701dfc0bf.jpg"/>
+      <graphic xml:id="L1916_3789_img_3173_2"  type="Letter"  url="8814394c95bf743c8261233e961e0023.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3789_img_3173_1"/>
+             M.F. CAHILL, <lb/>Solicitor.   16, CLEVELAND ROAD, <lb/>ILFORD, ESSEX.   28.3.16   The Registrar <lb/>Royal College of Physicians <lb/>Dublin.</addrees>  Dear Sir,   My client Miss Aimai Grace Mancekji Cooper desires to <lb/>change her name by omitting the name 'Grace', and <lb/>that she shall accordingly be described in all medical <lb/>Registers and directories as "Aimai Mancekji Cooper."   Will you kindly have the necessary change made <lb/>in your books and then write me that you have <lb/>done so, and I shall then be able to get a <lb/>corresponding alteration made in the Medical Register <lb/>here. If any fee is payable, no doubt you will <lb/>let me know.   Yours faithfully   M. J. Cahill   Macd.C <lb/>7.IV.16 
+            <pb n="2" facs="L1916_3789_img_3173_2"/>
+             qwertyuiop, lkjhgfdsazxcvbnm. 1234567890 1/2 1/2 £"?@— &amp; 3/4.—;' :/) ( QWERTYUIOP, LKJH <lb/>HGFDSAZXCVBNM. 
+         </ab>
+      </body>
+   </text>
+</TEI>

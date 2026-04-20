@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3800">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Wallace Beatty to Thomas Kirkpatrick, 17 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wallace Beatty</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Dr Wallace Beatty (1863-1923) to Thomas Percy Kirkpatrick (1869-1954) conveying thanks and gratitude in response to the college&#39;s expression of sympathy in regards to the death of Beatty&#39;s son.
+
+From 1910 until 1954 Thomas Kirkpatrick served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T75</collection>
+                  <idno>https://letters1916.ie/item/3800</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1555">Wallace Beatty</persName>
+              <date>1916-06-17</date>
+              <placeName key="#letters1916_place-1560">38 Merrion Square, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0544">Thomas Percy Kirkpatrick</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1923</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3800_img_3183_1"  type="Letter"  url="b872a4bf20ba7bdc5e310d3a29a7cd50.jpg"/>
+      <graphic xml:id="L1916_3800_img_3183_2"  type="Letter"  url="e204811716a8c5df1137d3b4dd429528.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3800_img_3183_1"/>
+             38, MERRION SQUARE, <lb/>DUBLIN.   June 17.1916   Dear D<hi rend="superscript">r</hi> Kirkpatrick   I am deeply touched <lb/>by the great kindness &amp; regard <lb/>of my Colleagues, The President <lb/>&amp; Fellows of the Royal College <lb/>of Physicians of Ireland, in <lb/>passing &amp; sending me through <lb/>you the Resolution expressing <lb/>their sympathy with me <lb/>on the death of my son.
+            <pb n="2" facs="L1916_3800_img_3183_2"/>
+            Will you kindly convey to them <lb/>&amp; accept of myself, dear D<hi rend="superscript">r</hi> <lb/>Kirkpatrick, my heartfelt <lb/>gratitude   Believe me <lb/>Yours faithfully   <hi rend="underline">Wallace Beatty</hi>   Macd.C <lb/>7.VII.16 
+         </ab>
+      </body>
+   </text>
+</TEI>

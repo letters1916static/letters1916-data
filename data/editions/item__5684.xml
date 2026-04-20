@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5684">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Gerald Horan to Jeremiah Lane, 16 March 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Gerald Horan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Gerald Horan (1880-1949) of the Lord Chancellor&#39;s Secretary&#39;s Office to Jeremiah Lane, a justice of the peace in Cork, explaining how Lane has now been removed from commission. Lane had made comments at a meeting of the Cork Corporation that were considered inappropriate. His explanation that the comments were taken out of context was, according to the letter, not deemed acceptable. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3890/1</collection>
+                  <idno>https://letters1916.ie/item/5684</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0761">Gerald Horan</persName>
+              <date>1916-03-16</date>
+              <placeName key="#letters1916_place-0776">Lord Chancellor&#39;s Secretary&#39;s Office, The Four Courts, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0624">Jeremiah Lane</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0692">9 South Main Street, Cork, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5684_img_787_1"  type="Letter"  url="098f3d058277f30d797db72930ba5aaf.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5684_img_787_1"/>
+             LORD CHANCELLOR'S SECRETARY'S OFFICE, <lb/>Four Courts, Dublin, <lb/>16th day of March 1916  Sir,   I have placed your letter of the 14th inst. before the <lb/> Lord Chancellor, who directs me to say that he has not over- <lb/> looked any context in which the words mentioned in my letter <lb/> of the 13 inst. were used by you.   He considers that no context can justify the use of those <lb/> words by a gentleman holding His Majesty's Commission of the <lb/> Peace and which were publicly adopted by you when sitting in <lb/> Court.   The Lord Chancellor is sorry that you in no way regret <lb/> the matter and he has no course except to remove your name <lb/> from the Commission of the Peace.   Accordingly I transmit herewith the Writ of Supersedeas <lb/> to discharge you from further acting as a Justice of Peace.   I am, Sir, <lb/> Your obedient Servant,   G H.  <lb/>Jeremiah Lane, Esq.  9 South Main St, <lb/> Cork. 
+         </ab>
+      </body>
+   </text>
+</TEI>

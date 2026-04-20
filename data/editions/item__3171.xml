@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3171">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fanny Doyle to her mother Kate Doyle, 5 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Fanny Doyle</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter describing the state of Dublin city in the aftermath of 1916, sent by a daughter living in Dalkey to her mother living in Foulkesmills, Co. Wexford.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Private Collection</repository>
+                  <collection>1</collection>
+                  <idno>https://letters1916.ie/item/3171</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1239">Fanny Doyle</persName>
+              <date>1916-05-05</date>
+              <placeName key="#letters1916_place-0683">Sorrentoville, Dalkey, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Kate Doyle</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1555">Raheenduff, Foulkesmill, Co. Wexford, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="death">1953</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3171_img_2591_1"  type="Letter"  url="e938ecf8c1492ebef15247d9e687f45e.jpg"/>
+      <graphic xml:id="L1916_3171_img_2591_2"  type="Letter"  url="f085fec787b281e02390c05a2a11b06d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3171_img_2591_1"/>
+             Sorrentoville<lb/>Dalkey   5/5/16    My Dear Mother   Just a few lines. I am eager<lb/>to know how you all are. I am not sure<lb/>if this letter go directly but as there is a<lb/>train running Wexford   I am chancing<lb/>it. Of course you have heard of the dreadful<lb/>times up here. all tat has been<lb/>killed &amp; wounded on both sides.<lb/>It was awful you could hear the<lb/>big guns firing from here &amp; to<lb/>see Dublin ablaze at night &amp; every<lb/>step you went you met Military with<lb/>fixed bayonets doing sentry. You would<lb/>have to get a pass to go any distance<lb/>even down to Kingstown. I was in Dublin<lb/>yesterday, rode in, Oh to see Sackville<lb/>St. All in complete ruin. the G.P.O.<lb/>gutted to the ground, the Imperial &amp;<lb/>Metropole Hotels grand buildings also<lb/>the Hibernian Bank &amp; the Munster &amp; Leinster,<lb/>Clerys big drapery business along with  
+            <pb n="2" facs="L1916_3171_img_2591_2"/>
+             a whole lot more fine places., but those<lb/>are the chief. Also the DBC Restaurant<lb/>a grand place, then Jacobs Factory is<lb/>gone &amp; a lot more buildings on other<lb/>streets. Then there are shops looted inside<lb/>a <seg type="unclear">ruck</seg>  but not burnt . On the whole<lb/>Dublin is a ruined city. Also Liberty Hall<lb/>is gone. It was bombarded by a gun<lb/>ship the to see the <sic>baricades</sic> they made<lb/>Anything they <seg type="del">got</seg>  could  get beds &amp; bedding<lb/>Tables Chairs bicycles Motor cars Taxi<lb/>cars, bags of flour &amp; sugar.<lb/>  Westland Row &amp; then to see the<lb/>trenches they made in Stephens Green &amp;<lb/>the barricading they <seg type="unclear">done</seg> around. They<lb/>of course took all the stations. It was<lb/>real Flanders at home. How are you<lb/>all I am pretty <sic>fare</sic> considering the<lb/>times we nearly had a famine also.<lb/>No bread or anything. The Military are<lb/>now keeping a sharp look out for all<lb/>Sinn <sic>Feinirs</sic> or <sic>Sympatisers</sic> with them.<lb/>Any one in their favour now will be dealt<lb/>with &amp; then Martial law it is rather hard<lb/>to be in doors these evening at 7.30   
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0294">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward O'Farrell to Sir Ernley Blackwell, 10 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward O&#39;Farrell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from sir Edward O&#39;Farrell (c.1857-1926), on behalf of Lord Wimborne (1973-1939), lord lieutenant of Ireland, to Sir Ernley Blackwell (1868-1941), The letter refers to the application of Joseph Severin for exemption from internment. The General Command for Ireland believe that no action should be taken.Edward O&#39;Farrell served as the assistant undersecretary of Ireland after the Easter Rising. Sir Ernley Robertson Hay Blackwell, lawyer and civil servant, was the chief legal advisor to the Cabinet. Blackwell authorised the circulation of Roger Casement&#39;s (1864-1916) black diaries during his prosecution.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/8275/1</collection>
+                  <idno>https://letters1916.ie/item/294</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date>1916-06-10</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Ernley Blackwell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1832">Home Office, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0294_img_1503_1"  type="Letter"  url="1bf7feb912361f6e1c82fc8e4c30a521.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0294_img_1503_1"/>
+                10th June 1916.  <lb/>8275.  Sir,   Referring to your letter of the 12th April<lb/> last (P.W. 304361) regarding the application of<lb/> JOSEPH SEVERIN for exemption from internment,<lb/> I am directed by the Lords Justices to transmit<lb/> the attached papers in the case and to call your<lb/> attention to my letter of the 8th July, 1915, and<lb/> previous correspondence in reference to this man.  I am to add that the General Officer<lb/> Commanding-in-Chief the Forces in Ireland is of<lb/> opinion that no action is necessary, and in this<lb/> opinion Their Excellencies concur. <seg type="closer"> I am,<lb/> Sir,<lb/> Your obedient Servant,  E.O'F.   The Under Secretary of State  Home Office  London, S.W.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

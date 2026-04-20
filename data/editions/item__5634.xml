@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5634">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Andrew Philip Magill to William O'Brien, 28 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Andrew Philip Magill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Andrew Philip Magill  to William O&#39;Brien , the president of the Dublin trades council. Magill (1871 - 1941) was a civil servant and held the position of private secretary for successive chief secretaries of Ireland until his transfer to the Northern Irish Civil Service in 1921.
+
+O&#39;Brien (1881 - 1968) was an active labour leader and trade union official. Although O&#39;Brien did not take part in the Easter Rising of 1916 he was closely involved in its planning. and was interned in Frongoch for a month after its outbreak. Later in his career he became a Labour Party TD for Tipperary. 
+
+In this letter Magill acknowledges the receipt of a letter previously sent by O&#39;Brien in which he enclosed a resolution concerning the control of shipping.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3733/3</collection>
+                  <idno>https://letters1916.ie/item/5634</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0014">Andrew Philip Magill</persName>
+              <date>1916-02-28</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1436">William O&#39;Brien</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1960">Trade Hall, Capel Street, Dublin, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1941</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5634_img_727_1"  type="Letter"  url="c1bb7924716870050e380d85e461c70b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5634_img_727_1"/>
+             28th February, 1916.   Dear Sir,   I am desired by Mr. Birrell to acknowledge the <lb/>receipt of your letter of the 26th instant forwarding <lb/>copy of a resolution adopted by the Dublin United <lb/>Trades Council and Labour League relative to the control <lb/>of shipping   Yours faithfully,   (Sd.) A.P.M.   The Acting Secretary, <lb/>Dublin United Trades Council And Labour League, <lb/>Trades Hall, <lb/>Capel Street, <lb/>DUBLIN. 
+         </ab>
+      </body>
+   </text>
+</TEI>

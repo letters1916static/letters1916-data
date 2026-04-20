@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0257">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Anderson to Sir Matthew Nathan, 18 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Anderson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Robert Anderson (b.1860), the honorary secretary of the Irish Association of Volunteer Training Corps, to Sir Matthew Nathan (1862-1939). In the letter Anderson acknowledges receiving a letter from Lord Lieutenant, Lord Wimborne (1873-1939), in which he showed appreciation of the motives which have impelled the members of the Irish Association of Volunteer Training Corps to put forward their plea for further recognition and extended duties. Sir Matthew Nathan was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.The IAVTC were a corps consisting of men who were over age or engaged in important occupations and therefore could not enlist for wartime service when war broke out in 1914. This was a volunteering training militia that came to be known by the nickname &#39;Gorgeous Wrecks&#39; due to the G.R. armbands they wore symbolising Georgius Rex.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/7964/6</collection>
+                  <idno>https://letters1916.ie/item/257</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0902">Robert Anderson</persName>
+              <date>1916-04-18</date>
+              <placeName key="#letters1916_place-0481">18 South Frederick Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0257_img_1441_1"  type="Letter"  url="0440ee8d60451ff4a0095162cfb3b6c3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0257_img_1441_1"/>
+                18 SOUTH FREDERICK STREET,  DUBLIN.    18th April, 1916.   Sir,   I beg to acknowledge the receipt of your letter of the <lb/>17th instant, embodying an expression of his Excellency's apprec- <lb/>iation of the motives which have impelled the members of the <lb/>Associated Corps to put forward their plea for further recognition <lb/>and extend duties. I will bring your letter before the <lb/> Executive Committee at its next meeting. <seg type="closer"> I have the honour to be <lb/>Sir, <lb/>Your Obedient Servant,  R Anderson <lb/>Hon. Secretary.   Lt. Colonel,  The right Honourable Sir Matthew Nathan, G.C.M.G.,  Under Secretary for Ireland  Chief Secretary's Office,  DUBLIN CASTLE.  </seg> Put with papers. <lb/>M.N. <lb/>1914  
+         </ab>
+      </body>
+   </text>
+</TEI>

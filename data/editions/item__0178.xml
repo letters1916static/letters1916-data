@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0178">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Matthew Nathan to John Gordon, 30 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Matthew Nathan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Sir Matthew Nathan (1862-1939) to John Gordon (1849-1922) the attorney general for Ireland. In the letter Nathan is letting Gordon know that he wishes to reply to Professor William Edward Thrift (1870-1942) soon on the subject of libelous comments made in a newspaper about members of the Protestant congregation. Mathew Nathan had become under-secretary in 1914 under Augustine Birrell (1850-1933). After the Easter Rising 1916, Nathan resigned as under-secretary due to his misjudgement and failure to stop the Rising. John Gordon was acting Attorney General for Ireland from 1915 until April of 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5561/2</collection>
+                  <idno>https://letters1916.ie/item/178</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date>1916-03-30</date>
+              <placeName key="#letters1916_place-0071">Phoenix Park, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John Gordon</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0178_img_1314_1"  type="Letter"  url="7c13cddca6ee7be548d01f3d07e81d0d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0178_img_1314_1"/>
+                UNDER-SECRETARY'S LODGE  PHOENIX PARK,  DUBLIN.    30th March, 1916.   Dear Attorney General,   I should like to send some reply <lb/> to the annexed letter from Professor thrift in the course <lb/> of the day.  <seg type="closer"> Yours sincerely,   Matthew Nathan </seg> See minutes on 5561 which <lb/> are with a letter <seg type="unclear">posted</seg> from the <seg type="unclear">Section</seg><lb/> Solicitor, <lb/> J.G. <lb/> 31/3/16   
+         </ab>
+      </body>
+   </text>
+</TEI>

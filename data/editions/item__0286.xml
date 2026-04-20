@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0286">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from M. Mattei to Colonel O'Grady, 5 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M. Mattei</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter form M. Mattei to the Chief Secretary&#39;s Office in Dublin Castle. The letter is written during the period of martial law in Ireland following the Easter Rising which resulted in strict regulations on movement in and out of Ireland. The letter requests a permit for Mattein to go to Ireland and visit her mother in Law.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>National Archive of Ireland-Chief Secretary&#39;s Office-Registered Papers, NAI/CSO/RP/1916/5611/8242/3</collection>
+                  <idno>https://letters1916.ie/item/286</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0254">M. Mattei</persName>
+              <date>1916-05-05</date>
+              <placeName key="#letters1916_place-1255">Croydon, London</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lord Wimborne</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1844">Chief Secretary's Office, Dublin Castle</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0286_img_1488_1"  type="Letter"  url="dade05be9fbb3173fe111325ffd8a366.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0286_img_1488_1"/>
+                Montague House  3 Lansdowne Rd.  E. Croydon    May 5th 1916   Dear Sir   I want to go to<lb/> Ireland, and I<lb/> find I must get a<lb/> permit. Will you<lb/> please let me know<lb/> where I have to<lb/> apply for one.<lb/> The place I want<lb/> to go is my mother<cb/> in laws, <seg type="closer">  Colonel O'Grady's  Kilballyowen  Kilmallock  Co Limerick   Yrs truly <lb/> (Mrs.) M Mattei </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

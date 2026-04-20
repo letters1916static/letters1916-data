@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5906">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Christmas card from Lawrence Brown, Christmas 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Lawrence Brown</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Typed Christmas card from Lawrence Brown (1896-1916) on board the HMS Defence in 1915. Enclosed the card is a photograph of the HMS Defence.Lawrence was a gunner in the Royal Marine Artillery. On 31 May 1916 the HMS Defence was sunk during the Battle of Jutland, the largest naval battle of the Great War, and Lawrence was killed. His body was never recovered.The Brown family lived in the gate lodge of the Vice Regal Lodge, official residence of the lord lieutenant of Ireland (Lord Wimborne in 1915 and 1916).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Lawrence Scott</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/5906</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1210">Lawrence Brown</persName>
+              <date>1915-12-01</date>
+              <placeName key="#letters1916_place-0560">H.M.S. Defence</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5906_img_1051_1"  type="Letter"  url="adf3223a99bbf9e71b2738a3a0c103df.jpg"/>
+      <graphic xml:id="L1916_5906_img_1051_2"  type="Letter"  url="3820614f0cfe16dcc70da65824eb8d99.jpg"/>
+      <graphic xml:id="L1916_5906_img_1051_3"  type="Photograph"  url="cb431443d7f2f897f9ab866be790a516.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5906_img_1051_1"/>
+                 Christmas, 1915.    Now comes the season, <lb/>Of remembrance dear to all, <lb/>When recollection's voices, <lb/>Will the Old Lang Syne recall.  With Heartiest Greetings <lb/>and Good Wishes for a Happy Christmas <lb/>and the Brightest of New Years. <seg type="closer"> From  Lawrence Brown. </seg><seg type="postscript"> H. M. S. 'Defence' </seg>  
+            <pb n="2" facs="L1916_5906_img_1051_2"/>
+               
+            <pb n="3" facs="L1916_5906_img_1051_3"/>
+               
+         </ab>
+      </body>
+   </text>
+</TEI>

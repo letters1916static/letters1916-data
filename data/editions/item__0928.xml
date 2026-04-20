@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0928">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mairín Ní Ribhógh to James Ryan, 2 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mairín Ní Ribhógh</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Mairín Ní Ribhógh to James Ryan (1891-1970). Mairín writes to welcome Ryan back to Ireland after his release from Frongach and enquires about some of his colleagues who had also been imprisoned. Mairín also asks about Ryan&#39;s sister Phyllis who had recently taken an exam and fills him in on some other personal events.James Ryan studied medicine in UCD. He was appointed chief medical officer in the GPO during the Easter Rising. After the Rising he was imprisoned in Stafford and, later, Frongoch and was released in August 1916. Ryan was later a founder member of Fianna Fáil and a government minister.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Dr James Ryan Papers, P 88/44</collection>
+                  <idno>https://letters1916.ie/item/928</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0603">Mairín Ní Ribhógh</persName>
+              <date>1916-08-02</date>
+              <placeName key="#letters1916_place-0644">&#39;Seaview&#39;, Bundoran, County Donegal</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0447">James Ryan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0036">Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0928_img_269_1"  type="Letter"  url="d699ad661573fbba4131c69811e50919.jpg"/>
+      <graphic xml:id="L1916_0928_img_269_2"  type="Letter"  url="331552d0f22a1e7caa79d725fc941e8f.jpg"/>
+      <graphic xml:id="L1916_0928_img_269_3"  type="Letter"  url="3f485349a75467a2a477dcc4e6b7cd89.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0928_img_269_1"/>
+                'Seafield'  Bundoran.    <hi rend="underline">2<hi rend="superscript">nd</hi> August 1916</hi>   Dear Jim   Cead Mile Failte back <lb/> to Ireland! Believe me <lb/> I was delighted to see <lb/> by Doc's letter this morning <lb/> that you are coming home! <lb/> How glad your mother &amp; <lb/> father and all the rest <lb/> will be to have you back! <lb/> Have Des Ryan &amp; Dore &amp; <lb/> all the other college folk <lb/> who were along with <lb/> you, been equally lucky? <lb/> Is there any chance of Liam  
+            <pb n="2" facs="L1916_0928_img_269_2"/>
+              <lb/>O'Brien being released <lb/> soon? I wish you'd send <lb/> me his address, I want to <lb/> write to him but don't know <lb/> for certain where he is.  How did Phyllis get on at <lb/> her exam? I did not <lb/> see the results and forgot <lb/> to ask Doc about it, but <lb/> I hope and believe that <lb/> she was successful.   Doc &amp; Eily McGrane paid <lb/> me a flying visit as soon <lb/> as they had finished <lb/> a pilgrimage to Lough <lb/> Derg. We motored to Sligo <lb/> one day, while they were <lb/> here and besieged Godfrey, <lb/> he is just as fat &amp; jolly as <lb/> ever!  
+            <pb n="3" facs="L1916_0928_img_269_3"/>
+              Now I must say <lb/> good evening <lb/> with love to Phyllis Miss <lb/> Ryan Agnes &amp; yourself <lb/> &amp; kindest regards to <lb/> Father Regan. <seg type="closer"> I remain <lb/>Your sincere friend  MairÃ­n Ni RibhÃ³gh<lb/><seg type="unclear"><hi rend="underline">E.de M</hi></seg> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

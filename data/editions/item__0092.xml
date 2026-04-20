@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0092">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Brown to Matthew Nathan, 1 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Brown</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from solicitor James Brown to Sir Matthew Nathan (1862-1964), under-secretary for Ireland, applying for the position of Chief Crown Solicitor, following the death of Sir Malachy Kelly.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5810/2</collection>
+                  <idno>https://letters1916.ie/item/92</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0489">James Brown</persName>
+              <date>1916-04-01</date>
+              <placeName key="#letters1916_place-2047">Broad Street, Magherafelt, County Derry</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0092_img_1171_1"  type="Letter"  url="2c152b0771acd858854e44b2ed91e4ee.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0092_img_1171_1"/>
+                Offices:  Broad Street,  Magherafelt    1 April 1916   Dear <hi rend="underline">Sir</hi>   I understand the position <lb/>of Chief Crown Solicitor for Ireland <lb/>is now vacant and I beg to <lb/>apply to you for the position and <lb/>I would like to know what is <lb/>salary attached to the position <lb/>and if appointed could I carry <lb/>on my practice in County Kerry. <lb/>As regards my qualifications <lb/>for the position the only gentle- <lb/>man who knows my capacity <lb/>as a criminal lawyer is the <lb/>present attorney General for <lb/>Ireland (M Gordan). Hoping <lb/>you will give my application <lb/>your best consideration. I remain  <seg type="closer"> <seg type="unclear">Yours</seg>  James Brown <lb/><hi rend="underline">To</hi>  The <sic>Unders</sic>Sec'y   for Ireland.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

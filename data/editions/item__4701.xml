@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4701">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas Kirkpatrick to James Little, January 1917</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Kirkpatrick</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>From 1910 until 1954 Thomas Percy Kirkpatrick (1869-1954) served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.
+
+Dr James Little (1837-1916) was a leading Irish physician. Dr Little was  a founding member of the Leinster branch of the British Medical Association and served as the crown representative for Ireland on the General Medical Council (1897–1916). Appointed as the honorary physician to three successive sovereigns in Ireland Little declined the honour of knighthood. He was not only consulting physician to four Dublin hospitals, but developed a country-wide private practice that was possibly the largest in Ireland.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-13-204</collection>
+                  <idno>https://letters1916.ie/item/4701</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1453">Thomas Kirkpatrick</persName>
+              <date>1917-01</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">James Little</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1954</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4701_img_4039_1"  type="Letter"  url="2fb60fccb08a890d28f25581cc820d9d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4701_img_4039_1"/>
+             th January 17.   Jame Little, Esq., M. A. B. L.   Dear Sir,   I am requested by the President and Fellows of the <lb/>Royal College of Physicians of Ireland to forward you a <lb/>copy of the following resolution which was carried in solemn <lb/>silence at a meeting of the College held on the 5th instant: <lb/><hi rend="underline">Resolved</hi>: "that we, the President and Fellows of the Royal <lb/>College of Physicians of Ireland, in College Hall assembled, <lb/>have heard with profound sorrow of the death of our beloved <lb/>colleague and friend, Dr. James Little, Past-President of the <lb/>College, Hon.Physician to H.M.The King in Ireland, and, for <lb/>some years Senior Fellow of the College, and we desire to <lb/>express our sense of the loss we have sustained by the death <lb/>of one who, to the last day of his life, showed a keen interest <lb/>in the welfare of the College of which he was so courtly and <lb/>distinguished an ornament."   Believe me to be, <lb/>Yours faithfully 
+         </ab>
+      </body>
+   </text>
+</TEI>

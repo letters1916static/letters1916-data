@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4206">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Samuel Shaw to Martha Shaw, 26 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Samuel Shaw</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Samuel Shaw to his mother, Martha Shaw, describing the entertainments provided for the soldiers upon their return from the winter trenches. 
+
+Samuel Henry Shaw (1896-1967) was a sergeant with the 10th Battalion, Royal Inniskilling Fusiliers. He volunteered for active service in September 1914. Before enlisting Samuel was a member of the Portstewart Company, Coleraine Battalion, North Derry Regiment, Ulster Volunteer Force. Samuel served in France, and was wounded during the Battle of the Somme in July 1916 and again in early 1917 and in 1918. Before the War he was employed as a ironmonger&#39;s assistant. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Shaw Papers, D1962-29</collection>
+                  <idno>https://letters1916.ie/item/4206</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0493">Samuel Shaw</persName>
+              <date>1916-05-26</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Martha Shaw</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1027">Shorncliffe, Portstewart, Co. Derry, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1967</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4206_img_3577_1"  type="Letter"  url="55747525bc84dcfdddc4da9f5092d639.jpg"/>
+      <graphic xml:id="L1916_4206_img_3577_2"  type="Letter"  url="18afa0c05de6f07158bdec265dcc475e.jpg"/>
+      <graphic xml:id="L1916_4206_img_3577_3"  type="Envelope"  url="7e27116bc73a01f2217b0fa567f4dfa6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4206_img_3577_1"/>
+             BEF   26.5.16   My Dear <lb/>Mother   Just a few lines <lb/>to let you know I am well. <lb/>I received your letters, parcel <lb/>&amp; paper <sic>allright</sic>. we are <lb/>having lovely weather here <lb/>now. It's champion to get <lb/>back for a rest after spend— <lb/>ing the winter in the trenches. <lb/>We have football matches &amp; <lb/>sports here &amp; some evenings <lb/>concert parties &amp; pictures. I <lb/>hope this finds you all in <lb/>the best of health. I sup— <lb/>pose Jessie is quite a big <lb/>girl now. I am glad to see <lb/>that the boys in blue are <lb/>still on the maps. I am
+            <pb n="2" facs="L1916_4206_img_3577_2"/>
+            glad to see that the fish— <lb/>ing is good. I suppose <lb/>the Port will be getting <lb/>quite busy now. Tell every— <lb/>body I was asking for <lb/>them especially Mr <seg type="unclear">N. Auley</seg> <lb/>&amp; Annie. All at present <lb/>With love to all.   I remain <lb/>Your Loving Son   <hi rend="underline">Sammie</hi> 
+            <pb n="3" facs="L1916_4206_img_3577_3"/>
+             Mrs <seg type="unclear">Jas</seg> Shaw <lb/>Shorncliffe <lb/>Portstewart <lb/><seg type="unclear">Co. Derry</seg> <lb/>Ireland 
+         </ab>
+      </body>
+   </text>
+</TEI>

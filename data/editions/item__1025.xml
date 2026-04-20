@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1025">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Major C. Harold Heathcote to James Ryan, 13 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Major C. Harold Heathcote</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Major C. Harold Heathcote to James Ryan (1891-1970). Heathcote was the officer in charge of prisoners&#39; effects and Ryan had requested the return of property taken from him when he was arrested after the Rising. Heathcote invited Ryan to visit Richmond Barracks, where prisoners were initially held after the Rising, to discuss the matter.James Ryan studied medicine in UCD. He was appointed chief medical officer in the GPO during the Easter Rising. After the Rising he was imprisoned in Stafford and, later, Frongoch and was released in August 1916. Ryan was later a founder member of Fianna Fáil and a government minister.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Dr James Ryan Papers, P 88/51</collection>
+                  <idno>https://letters1916.ie/item/1025</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1098">Major C. Harold Heathcote</persName>
+              <date>1916-09-13</date>
+              <placeName key="#letters1916_place-2117">Richmond Barracks, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0447">James Ryan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1300">19 Ranelagh Road, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1025_img_294_1"  type="Letter"  url="31130afcaf5e994ad6c306e0f270aa2e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1025_img_294_1"/>
+              <lb/><hi rend="underline">Prisoners' Effects.</hi><lb/><hi rend="underline">James Ryan,</hi><lb/><hi rend="underline">Claim No. 90.</hi>    James Ryan,  19 Ranelagh Road,  Dublin.    I shall be very much obliged if you can call at my <lb/> office in these Barracks to discuss your claim for <lb/> return of property stated to have been taken from <lb/> you in Richmond Barracks last April.  Office hours 10 â 4.30 o'clock (1 â 2 excepted) <lb/> every day except Saturday and Sunday. <seg type="closer"> <hi rend="underline">C Harold Heathcote</hi><lb/> Major <lb/> 0.i/c Prisoners' Effects   Richmond Barracks,  Dublin.    13/9/16.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

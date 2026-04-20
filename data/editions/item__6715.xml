@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6715">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Finegan to Fr Michael O'Flanagan, 29 April 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Bishop Patrick Finegan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Fr Michael O&#39;Flanagan (1876–1942) was a Catholic priest and well-known republican activist. He was elected vice president of Sinn Féin in 1917. He became vice president of Sinn Féin In October 1917 along with Arthur Griffith who was at the date of the letter interred in Gloucester prison. O&#39;Flanagan has been asked to canvas for Griffith in recently announced by election in East Cavan. Bishop Patrick Finegan is not the Bishop to whom O&#39;Flanagan reports directly - as O&#39;Flanagan is a known and prominent speaker and activist, he has received this letter from Bishop Finegan who has responsibility for nearby towns where election speeches will be known to be made in the coming months during the election campaign.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>O&#39;Flanagan Private Collection</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/6715</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1334">Bishop Patrick Finegan</persName>
+              <date>1918-04-29</date>
+              <placeName key="#letters1916_place-1119">Cavan, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0313">Fr Michael O&#39;Flanagan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1329">Sligo, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1937</item>
+               <item n="topic">The Rising Tide (1917-1919)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6715_img_None_1"  url="phpvIklEo.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6715_img_0_1"/>
+              Bishop's House<lb/>Cullies<lb/>GAVAN    29: 4: 19    Rev. Dear Sir   In view of a contested election taking place in East Gavan, in<lb/>consequence of the present parliamentary vacancy there, and of the fact<lb/>that our Catholic people will take opposing sides, and be sharply or<lb/>even bitterly divided: in the interest of religion and of their sacred<lb/>ministry, it is strictly prohibited to the clergy of the diocese of<lb/>Kilmore, and to you after receipt of this letter, to take any part<lb/>whatever on any side in this election, beyond that of quietly, and<lb/>without any contention, recording your vote, should you think it well<lb/>to give it.   Faithfully yours,<lb/>(Signed) - Patrick Finegan<lb/>Bishop of Kilmore  
+         </ab>
+      </body>
+   </text>
+</TEI>

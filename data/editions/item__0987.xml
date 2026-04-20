@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0987">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Máire Nic Shiubhlaigh to Hanna Sheehy Skeffington, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Máire Nic Shiubhlaigh</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Máire Nic Shiubhlaigh (1883-1958) to Hanna Sheehy Skeffington (1877-1946). Máire responds to Hanna&#39;s request to recite at her upcoming concert, though Nic Shiubhlaigh apologizes that she is not well and very busy and would not be able to make the rehearsals. She suggests her sister, Mrs. Stanley (Eileen O&#39;Doherty) should Skeffington prefer her to recite instead. Máire Nic Shiubhlaigh was an Irish actress and republican activist. She performed for many years at the Abbey Theatre. At the time of the Rising, Nc Shiubhlaigh cycled into the city and commanded the women&#39;s of the Jacob&#39;s Biscuit Factory garrison, which was wholly under the command of Thomas MacDonagh. She and the other women stayed until the surrender.Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the widow of Francis Sheehy-Skeffington (who was summarily executed on 26 April 1916). She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47;, MS 33,604/15-6</collection>
+                  <idno>https://letters1916.ie/item/987</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1454">Máire Nic Shiubhlaigh</persName>
+              <date>1916</date>
+              <placeName key="#letters1916_place-1628"> 101 Lower Mount Street,Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0987_img_2834_1"  type="Letter"  url="fb11ff2384e354614e070952489a5b08.jpg"/>
+      <graphic xml:id="L1916_0987_img_2834_2"  type="Letter"  url="c9043d10c307d40620ba81f2a5f0e8ce.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0987_img_2834_1"/>
+              1916    101 Lower Mount St.  Dublin   Dear M<hi rend="superscript">rs</hi> Skeffington   Please excuse my delay <lb/>in answering your note. I have <lb/>been laid up this week. I <lb/>will certainly recite at your <lb/>concert but you will have to <lb/>for me if cannot play <lb/>in play it comes at a very <lb/>awkward time for me, I <lb/>will be very busy and <lb/>could not attend rehearsals <lb/>I am very sorry because I <lb/>liked the little play very <lb/>much and enjoyed playing <lb/>in it, but it would be better <lb/>not to undertake it when I <lb/>could not do it but if you  
+            <pb n="2" facs="L1916_0987_img_2834_2"/>
+              want someone else to play it, I <lb/>am sure my sister M<hi rend="superscript">rs</hi> Stanley <lb/>(Eileen ODoherty) would play it. <lb/>She has more time at her <lb/>disposal at the present time <lb/>than I have. If you like I <lb/>shall ask her â but please <lb/>don't think I am disagree <lb/>able â I would play it, <lb/>if it were later on <seg type="closer"> Yours v sincerely  MÃ¡ire Nic Shiubhlaigh </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0424">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Waters to John Francis Hogan, 2 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Waters</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from John Waters to John Francis Hogan (1858–1918). In this letter Rev Waters (b. 1871) is asking Hogan for information about the programme of examination for a bachelor of arts degree in Theology at Maynooth so his students can prepare themselves properly. John Francis Hogan was a priest, author, and president of St Patrick&#39;s College, Maynooth. During the Easter Rising a group of Volunteers from the town of Maynooth entered the college to seek a blessing before setting off for Dublin. Hogan reputedly refused to give his blessing to their ‘foolish and most ill-advised expedition’ and urged them to return home. They in turn refused; responding to their spiritual needs, he blessed them, while remaining totally opposed to their activities. He subsequently addressed the students on the need to show proper respect for authority.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>St Patrick&#39;s College, Maynooth</repository>
+                  <collection>John F. Hogan Papers, 21/12/35</collection>
+                  <idno>https://letters1916.ie/item/424</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1228">John Waters</persName>
+              <date>1916-07-02</date>
+              <placeName key="#letters1916_place-0927">Holy Cross College, Clonliffe, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John Francis Hogan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0424_img_1738_1"  type="Letter"  url="a60aeecb74ce993ace9096ae445b8179.jpg"/>
+      <graphic xml:id="L1916_0424_img_1738_2"  type="Letter"  url="07f44d1db5f348c8c1f832cc05763cdc.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0424_img_1738_1"/>
+              12/35    Holy Cross College,  Clonliffe,  Dublin   July <hi rend="underline">2 <hi rend="superscript">nd</hi> 16 </hi> My Dear Monsignor Hogan,   Some of our students <lb/>who are going down to Maynooth <lb/>next year would naturally join <lb/>your <hi rend="underline">Ba class 2</hi>nd year, as <lb/>they have already done the Ba <lb/>course 1st year (corresponding to the <lb/>old 2 <hi rend="superscript">nd</hi> Arts) at University College.   There is no programme publish- <lb/>ed of Subjects for Examination <lb/>for <lb/>this class in Maynooth â as far  
+            <pb n="2" facs="L1916_0424_img_1738_2"/>
+              I know. In the ' <seg type="foreign">Ordo</seg>,' there is the <lb/>programme of Examination for <lb/>admission into Ba degree class <lb/><hi rend="underline">First</hi> year, and into <hi rend="underline">First years <lb/>Theology </hi>, but none for admission <lb/>into the class between these two, i.e., <lb/>into <hi rend="underline">Ba degree class second year.</hi><lb/>There is no <seg type="unclear">bad</seg> to candidates <lb/>coming to Maynooth for this class.   I should feel very grateful if you <lb/>would send me information about <lb/>the programme, as our students <lb/>would like to prepare themselves <lb/>for the Examination. If you kindly send <lb/>me the details I will communicate <lb/>these to students.  <seg type="closer">  Kindest Regards <lb/>Yours Sincerely  <lb/> <hi rend="underline">John Waters</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

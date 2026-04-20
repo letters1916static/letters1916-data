@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0884">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from M.C. Macinerney to the Under Secretary of Ireland, 30 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M.C. Macinerney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from M.C. Macinerny to the under secretary of Ireland concerning extended leave as Macinerney is still too ill to return to work. Macinereney requests that R.J. Kelly.At the time this letter was written Sir Robert Chalmers (1858 - 1938) was serving as the under secretary of Ireland. Chalmers was sent to Ireland as a replacement for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, NAI-CSO-RP-1916-5618-11185</collection>
+                  <idno>https://letters1916.ie/item/884</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1301">M.C. Macinerney</persName>
+              <date>1916-06-30T00:00:00</date>
+              <placeName key="#letters1916_place-1383">Bella Vista, Kingstown, Co. Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0887">The Under Secretary's Office, Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0884_img_2453_1"  type="Letter"  url="f6ed2247c2c7c401874b8cdbe7f8a66f.jpg"/>
+      <graphic xml:id="L1916_0884_img_2453_2"  type="Enclosure"  url="7ce0e2f0fc76d9eca65f1f97cdb633fb.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0884_img_2453_1"/>
+                Bella Vista,  Kingstown,    30th June 1916  .  Sir,   I am advised by my doctor that a further week must elapse <lb/>before I shall be fit to resume my duties as Divisional Justice <lb/>and I beg to request that Mr R.J.Kelly K.C. who is now acting <lb/>as my deputy and whose term will expire on tomorrow, should be <lb/>authorized to continue to sit as a Divisional Justice up to and <lb/>including Saturday, July 8th 1916.  I enclose a medical certificate as to my illness. <seg type="closer"> I am,Sir, <lb/>Your obedient servant  M.C. Macinerney   The Under Secrectary,  Dublin Castle  </seg> Asst Under Secretary <lb/>Please see letter of 27th <lb/> ult. to Treasury. I think <lb/>it will be better to defer <lb/>further application to the Treasury <lb/>in this matter until it is known <lb/>whether Mr Macinerney <lb/>returns duty on <lb/>Monday next  I Write as in letter of 26 <hi rend="superscript">th ult.</hi><lb/>II Inform Chief Magistrate <lb/>III ' M<hi rend="superscript">r</hi> R.J. Kwlly K.C. <lb/>IV Note <lb/>V F.D  Re-submit on monday  
+            <pb n="2" facs="L1916_0884_img_2453_2"/>
+                MOUNT CLARENCE HOUSE.  KINGSTOWN.    M. MacInerney Esq K C who <lb/>is suffering from Bronchial <lb/>Catarrh with intermittent fever <lb/>of an <sic>influenzal</sic> type is better <lb/>but will be unable to resume <lb/>duty for a week at least. <seg type="closer"> <seg type="unclear">P.M. MacDermott</seg>  FRESI DPHT   June 39<hi rend="superscript">th</hi> 1916  </seg> June 30<hi rend="superscript">th</hi> 1916  
+         </ab>
+      </body>
+   </text>
+</TEI>

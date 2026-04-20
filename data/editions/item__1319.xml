@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1319">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James R. Fair to Sir Henry Grattan Bellew, 29 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James R. Fair</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from James R. Fair, A.S.B. Offices, Bere Island, to Sir Henry Grattan Bellew (1860-1942), requesting that Sir Henry find a place in his Battalion, the 4th Connaught Rangers, for Robert Atwell. Fair is not acquainted with the son, but knows the boy&#39;s father. Sir Henry Christopher Grattan Bellew was the third baronet of Mount Bellew in County Galway. He held the rank of Lieutenant-Colonel, 4th Battalion Connaught Rangers. His son, sir Charles Christopher (1887-1948) held the rank of Lieutenant-Colonel, King&#39;s Royal Rifle Corps. He was decorated with the award of the Military Cross (M.C.) in 1918.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Bellew of Mount Bellew Papers, Collection List No. 33, Ms. 27,290</collection>
+                  <idno>https://letters1916.ie/item/1319</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0153">James R. Fair</persName>
+              <date>1916-01-29</date>
+              <placeName key="#letters1916_place-0626">Bere Island, Cork</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Henry Grattan Bellew</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1319_img_613_1"  type="Letter"  url="17ba30d03d546d1f5e532d528b4a6b81.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1319_img_613_1"/>
+                A.S.C.Offices,  Bere Island    29:1:16    Dear Colonel Bellew,    I am enclosing a letter which <lb/>my brother has passed on to me. I would be so <lb/>much obliged if you could find a place in you <lb/>Bn: for Atwell. I met his father a few times â <lb/>a fine old man and a thorough gentleman but I <lb/>am not personally acquainted with the son. My <lb/>brother tells me that the father writes him that his <lb/>boy is 6 feet in his socks.  Trusting you will consider this favourably <seg type="closer"> I am <lb/>Sir <lb/>Very Truly Yours  James R.Fair </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

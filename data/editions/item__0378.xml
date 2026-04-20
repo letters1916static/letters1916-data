@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0378">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Dunlop to Robert Brown, 11 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Dunlop</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Robert Dunlop (b. 1869), a district inspector in the Royal Irish Constabulary, to Robert Brown, assistant manager at the National Marginal Company in Leith, Scotland. Dunlop is writing to inform Brown that he is not in charge of the expenses of civilian witnesses attending assizes. Brown had made several complaints about the failure to pay his expenses for attending a trial for fraud.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/1205/3</collection>
+                  <idno>https://letters1916.ie/item/378</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0211">Robert Dunlop</persName>
+              <date>1916-01-11</date>
+              <placeName key="#letters1916_place-1916">Commissioners Office, Royal Irish Constabulary, Belfast</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1431">Robert Brown</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1991">10 Quality Street, Leith, Edinburgh, Scotland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Law and Judiciary</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0378_img_1625_1"  type="Letter"  url="2d8119dab86094201a730b6df34867ab.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0378_img_1625_1"/>
+                COMMISSIONER'S OFFICE  ROYAL IRISH CONSTABULARY  BELFAST    11th January 1916   Sir,   I beg to acknowledge receipt of your letter of <lb/> 8th inst and to inform you that I have nothing <lb/>to do with the expenses of civilian witnesses <lb/>attending Assizes   I <sic>underatand</sic> the Crown Solicitor has already <lb/> written to you about this matter  <seg type="closer"> Your obedient servant  Robert Dunlop  <lb/> D.I for <lb/> Commissioner <lb/> R.I.C.   R.Brown Esq;  10.Quality st  LEITH.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

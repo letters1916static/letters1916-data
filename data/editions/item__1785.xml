@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1785">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Moore to William Howell Davies 3 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Moore</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter to Sir William Howell Davies (1851-1932) a British politician. Davis held a seat in Westminster for the South Bristol district. The letter is written in the context of the death of the Chief Crown Solicitor Malachy Kelly (1850-1916). The letter begins by asking Davies for his influence to help the author&#39;s friend, who is applying for the vacant position of chief crown solicitor. The letter names the man as William Horner (b. 1878), a solicitor in London-Derry who is supported by the Attorney General John Gordon (1849-1922), the Unionist Party and would be acceptable to Nationalists also. The letter ends with the request to pass on the matter to Augustine Birrell (1850-1833), the chief secretary of Ireland, stating that Birrell would learn the status of Mr Horner through the attorney general.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland </repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/6463/3</collection>
+                  <idno>https://letters1916.ie/item/1785</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0056">Moore</persName>
+              <date>1916-04-03</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">William Howell Davies </persName>
+              <date></date>
+              <placeName key="#letters1916_place-0864">3 White Hall Court, London S.W., England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1785_img_1240_1"  type="Letter"  url="908ba40eba88b53ebf680c00b0772774.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1785_img_1240_1"/>
+            <seg type="unclear">Bristol</seg>  April <hi rend="underline">3/16</hi>  <lb/>Sir W<hi rend="superscript">m</hi>. Howell Davies M.P.  3 Whitehall Court, <lb/>London SW.,    Dear Sir William   I am writing to ask you to give your kind influence <lb/>to a friend of mine who is applying for the Office of <lb/>Chief Crown Solicitor of Ireland.    My friends name is M<hi rend="superscript">r</hi> W<hi rend="superscript"><hi rend="underline">m</hi></hi>. Horner, a solicitor in <lb/> <lb/>Londonderry, and I understand he would have the <lb/>support of the Attorney General of Ireland, and the <lb/>Unionist party, and would also be acceptable to <lb/>the Nationalist party.   Would you be so good as to mention the matter to <lb/>M<hi rend="superscript">r.</hi> Birrell, who no doubt, if you asked him, would, <lb/>enquire from the Attorney General M<hi rend="superscript">r</hi> Horner's status, <lb/>in the profession etc.   Yours Very Faithfully   <seg type="unclear">questionable reading</seg> Moore 
+         </ab>
+      </body>
+   </text>
+</TEI>

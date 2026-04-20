@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0789">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Gourlay to Charles Arthur Munro, 22 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Gourlay</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Robert Gourlay, foreman of works at Mountjoy Prison, to the prison Governor, Charles Arthur Munro (1869 - 1952) concerning a collapsed wall. This letter is part of a series of correspondence regarding the collapse of a shared wall between the neighbouring laundry and prison. According to the foreman the clay used to construct the wall was of poor quality and the prison&#39;s ivy had little to do with it&#39;s collapse.Charles Arthur Munro was the governor of Mountjoy prison in Dublin. He is also the brother of the noted author H.H. Munro, better known through his literary pseudonym, Saki.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/2892/3</collection>
+                  <idno>https://letters1916.ie/item/789</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0541">Robert Gourlay</persName>
+              <date>1915-11-22T00:00:00</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0487">Charles Arthur Munro</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0789_img_2330_1"  type="Letter"  url="16c8fc3596ee2c20dedb201935eed452.jpg"/>
+      <graphic xml:id="L1916_0789_img_2330_2"  type="Letter"  url="e01c0047afaaa9bb9824bfef7ee4f782.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0789_img_2330_1"/>
+                Mountjoy Prison    22.11.15    With reference to a <lb/>communication dated 18<hi rend="superscript">th</hi> inst. <lb/>received from the N.C. Laundry <lb/>re wall blown down <lb/>I beg to report that I made <lb/>a thorough examination <lb/>of the site and noticed a <lb/>considerable quantity of <lb/>clay and rubbish on the <lb/>Laundry side where it had <lb/>evidently been dumped <lb/>and lain there for a long <lb/>time. I particularly <lb/>noticed that the mortar <lb/>used for building the wall <lb/>was of a very poor quality <lb/>and that there was no <lb/>thorough bond, the wall <lb/>is 2 feet thick and was <lb/>built one stone each side <lb/>and filled in the centre <lb/>with small stone chippings <lb/>and mortar. I pointed <lb/>all this out to the Laundry <lb/>Manager. That portion of <lb/>the wall which fell was <lb/>the most exposed, the remainder <lb/>being sheltered by the Laundry <lb/>Buildings. A part of the <lb/>wall is still standing against <lb/>which the greater bulk of <lb/>the  
+            <pb n="2" facs="L1916_0789_img_2330_2"/>
+              (2) <lb/>the ivy is growing a fact <lb/>which tends to show that <lb/>the ivy was not responsible for <lb/>the fall of the wall taking <lb/>all these conditions into <lb/>account I am strongly <lb/>of opinion that the exceptionally <lb/>heavy rains of late falling <lb/>on the bank of earth against <lb/>the wall which fell all of a <lb/>piece at that spot and the <lb/>terrific storm on the night <lb/>of the 12<hi rend="superscript">th</hi> inst following as it <lb/>did in repeated gusts from the <lb/>Laundry side was too much <lb/>for a badly built old wall <lb/>to stand against. <seg type="closer"> R. Gourlay <lb/>Foreman of Works</seg> The Governor  
+         </ab>
+      </body>
+   </text>
+</TEI>

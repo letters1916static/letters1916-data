@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4145">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Finn to May Fay, 26th May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Finn</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>James writes to his future wife to apologise for not sending her a copy of Pearse&#39;s letter which he received recently. He explains that he only has one copy and wished to show it to others beforehand. He stresses that he didn&#39;t wish to insult her by implying that she would not understand it and stresses that he felt she would understand the &#39;human document&#39; much better than he would.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Finn Family Collection</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/4145</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0500">James Finn</persName>
+              <date>1916-05-26</date>
+              <placeName key="#letters1916_place-2126">National Health Insurance Commission, Pembroke House, Upper Mount Street, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0367">May Fay</persName>
+              <date></date>
+              <placeName >None</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1922</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4145_img_352_1"  type="NULL"  url="f165677083fd1219bf7354e660063a77.jpg"/>
+      <graphic xml:id="L1916_4145_img_352_2"  type="NULL"  url="0a81e9d02733473d4d5db16f1dc71f5a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4145_img_352_1"/>
+             NATIONAL HEALTH INSURANCE COMMISSION (IRELAND), <lb/>PEMBORKE HOUSE, <lb/>UPPER MOUNT STREET, <lb/>DUBLIN   26th May 1916.   My dearest May,   Thank you very much for your letter of this <lb/>morning. I received the copy of Pearse’s letter quite safely and am <lb/>glad you were not so foolish as to think I didn’t send it <lb/>because I thought you incapable of understanding it. I sent it <lb/>to you as a human document and not as a political one and I know <lb/>very well that in anything where genuine sentiment and capacity <lb/>for self sacrifice are concerned you are a much better and more <lb/>appreciative judge than I am. Apart from that I am quite aware <lb/>that you have at least your share of brains (to say the least <lb/>of it) and I am not such a supercilious “high — brow” as to <lb/>imagine that in that respect I am at all superior to you. <lb/>The real reason why I didn’t send the letter sooner is <lb/>that I had only the one copy, I was too lazy to copy it <lb/>and I wanted to show it to one or two people before
+            <pb n="2" facs="L1916_4145_img_352_2"/>
+            parting with it. So there’s the whole of the story and I hope <lb/>you are satisfied with my explanation. I am surprised <lb/>Johnnie hasn’t heard anything yet but I suppose a week or <lb/>so will settle it. Thanks very much for your offer to order <lb/>motor for me. I expect Pat Moran tomorrow and if <lb/>he doesn’t turn up I shall avail of your services. It’s <lb/>very nice to have a little wife willing to do jobs for one. <lb/>I have no news at all so will close with warmest love and <lb/>kisses   Your ever loving   <hi rend="underline">James</hi>   And just this moment see an Army Zeppelin cruising <lb/>over our heads here in Merrion Square. It’s not a German one <lb/>though so you needn’t be alarmed. 
+         </ab>
+      </body>
+   </text>
+</TEI>

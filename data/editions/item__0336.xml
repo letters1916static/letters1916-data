@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0336">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Richard Thomas Pomeroy to Robert Chalmers, 18 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Richard Thomas Pomeroy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Richard Thomas Pomeroy (1858-1937), member of the Petty Sessions Office on Mill Street District Cork, to Robert Chalmers (1858-1938), the under-secretary to Ireland. Robert Chalmers assumed the role in 1916 for a brief period following the resignation of Matthew Nathan (1862-1939), after accepting political failure during the 1916 Easter Rising. The letter claims to transmit a resolution made by the magistrates of the Mill Street petty session district on 17 May 1916. The resolution regards the events of the Easter Rising, stating that the board has resolved to suggest to the government that the Peace Preservation Act should be enforced, along with more policing. Pomeroy names man who attended the meeting, including James J. Hickey (b.1876) and Joseph Alexander Harty (b.1862).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5611/8495/1</collection>
+                  <idno>https://letters1916.ie/item/336</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1005">Richard Thomas Pomeroy</persName>
+              <date>1916-05-18</date>
+              <placeName key="#letters1916_place-0938">Petty Sessions Office, Millstreet, Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers </persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0336_img_1565_1"  type="Letter"  url="0ab0567db5d8b69304694f9c9537fe94.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0336_img_1565_1"/>
+                Petty Sessions Office  Millstreet Co. Cork    18th May 1916   Sir   I have been directed to transmit to you<lb/> the following copy of a Resolution Passed<lb/> at a specially convened meeting of the<lb/> Magistrates of the Millstreet Petty Sessions<lb/> District held at the Courthouse here on 17 May 1916  The following Magistrates were present<lb/> Messrs R.R. Leader (in the Chair) C O. <lb/> Callaghan J P Hegarty M. Howard G.D.<lb/> O'Sullivan D Tangney J.J Hickey and<lb/> J.A. Hardy.  It was resolved on the Proposition of<lb/> Mr. O. Callaghan that a Request be sent<lb/> to Government to put the Peace Preservation<lb/> Act in force immediately and increase the<lb/> Police Establishment here by the addition <lb/> of at least six Constables.  This was seconded by Mr M Howard <lb/> and Passed unanimously. <seg type="closer"> I have the honour to remain<lb/> Sir<lb/> your obedient Servant <lb/> R. T. Pomeroy <lb/> C.P.J.</seg> I Ack. II Under Secretary, <lb/> To see  I done 23/5  I despd 29/5  The Under Secretary  
+         </ab>
+      </body>
+   </text>
+</TEI>

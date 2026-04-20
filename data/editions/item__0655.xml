@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0655">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Resident Medical Superintendent of Kilkenny to William Richard Dawson, 21 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from the Resident Medical Superintendent of Kilkenny to William Richard Dawson (1864-1950), the Inspector of Lunatics. William Richard Dawson was appointed HM inspector of lunatics in Ireland in 1911. During the Great War he served in the Royal Ambulance Medical Corps, gaining the rank of lieutenant-colonel, as a specialist in ‘nerve disease’ or shell shock to the troops in Ireland.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered papers, CSO-RP-1916-5615-1119-2</collection>
+                  <idno>https://letters1916.ie/item/655</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1915-11-29T00:00:00</date>
+              <placeName key="#letters1916_place-1320">District Asylum, Kilkenny, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">William Richard Dawson, Inspector of Lunatics</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0890">Dublin Castle</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0655_img_2132_1"  type="Letter"  url="eb3e98bf99c5475fae51158f0730c512.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0655_img_2132_1"/>
+              277   District Asylum, Kilkenny   29 November, 1915    21 <hi rend="superscript">st</hi> <seg type="del">20t</seg> day of January 1916    Gentlemen,   I beg to inform you at their meeting <lb/>on the 18 <hi rend="superscript">th</hi> inst. the Committee adopted a set <lb/>of Rules for the management of the Asylum <lb/>which when they are properly revised will be <lb/>sent on to you in a few days for your <lb/>consideration and for their sanction is deemed <lb/>suitable.  <seg type="closer"> I am <lb/>Gentlemen, <lb/>Your obedient Servant,   <seg type="unclear">Locus Rn GGI</seg> <lb/>The Inspector of Lunatics <lb/>Dublin Castle </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

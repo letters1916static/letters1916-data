@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0209">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Joseph Brady to Edward O'Farrell, 3 June 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Joseph Brady </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Patrick Joseph Brady (1868–1943) an Irish solicitor and politician, to Edward O&#39;Farrell (1857-1926), assistant under-secretary for Ireland. The letter refers to the detention of Otto Krautwurst (b.1878), a German professor who is being held in Oldcastle POW camp for being and illegal alien. It states that he is in poor health and that this should be grounds for his release.Patrick Joseph Brady represented the Stephen’s Green division for the Irish Parliamentary Party in Westminster from 1910-1918. Professor Krautwurst was under surveillance since April 1910 by the DMP. He had committed no crime but had purchased “a substantial dwelling facing the sea,&#39; a house in Sandymount at 17 Strand Road.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>National Archive of Ireland-Chief Secretary&#39;s Office-Registered Papers, NAI/CSO/RP/1916/5612/9487/1</collection>
+                  <idno>https://letters1916.ie/item/209</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1348">Patrick Joseph Brady </persName>
+              <date>1916-06-03</date>
+              <placeName key="#letters1916_place-1625">Glena, Booterstown, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Law and Judiciary</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0209_img_1357_1"  type="Letter"  url="5c8f3f1ae47f025411d4cb37150c7a56.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0209_img_1357_1"/>
+              'PHONE 82, BLACKROCK.    GLENA,  BOOTERSTOWN,  Co. DUBLIN    3rd June 1916.  <hi rend="underline"> Office </hi>  Sir Edward O'Farrell,  Chief Secretary's Office,  Dublin Castle.   Dear Sir Edward O'Farrell,   Mr Stephenson, of the firm of Messrs <lb/>O'Keeffe &amp; Lynch, writes to me urging the release of Mr Kranhourst <lb/>at present interned in <seg type="unclear">Old castle</seg> as an alien. It appears that <lb/>he is in a precarious state of health and has been so for some <lb/>time. I hope it will be possible to santion his release. <seg type="closer"> Yours faithfully, <lb/> Patrick J. Brady. </seg> Assistant Secretary <lb/>please see letter to the <lb/>Home office on the 11 <hi rend="superscript">th</hi> April <lb/>and Police report of the 7<hi rend="superscript">th</hi><lb/><seg type="unclear">Inst.</seg>My speculation is that <lb/>the question of health was<seg type="unclear">fully <lb/>dealt with</seg> on papers sent <lb/>to <seg type="unclear">HD.</seg>W M L 8/6  Inform M Brady <lb/>firm mssrs O'Keefe &amp; Lynch <lb/>make any representation <lb/>in the forward, health <lb/>will be considered <seg type="unclear">but</seg><lb/> there is no present <lb/><seg type="unclear">intention</seg> of <seg type="unclear">releasing</seg><lb/> this man <lb/>EOF 8.6.16  Other signatures at the bottom  <seg type="unclear">Don E H </seg> 9/6 <lb/><seg type="unclear">denoy</seg> 9/6   
+         </ab>
+      </body>
+   </text>
+</TEI>

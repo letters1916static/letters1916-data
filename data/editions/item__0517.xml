@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0517">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from a War Employments Inspector to Cecil Pim, 20 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>War Employments Inspector</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from a War Employments Inspector at the Local Government Board (LGB) to Cecil Pim, thanking Pim for the information supplied in a previous letter, dated 15 March, concerning the conditions and prospects for Belfast&#39;s spinning and weaving factories. The writer concludes that &#39;it is wonderful how difficulties can be overcome if they are foreseen,&#39; implying that Pim will have to make do should the worst come pass regarding the coal situation.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>, NAI-CSORP-1916-7443-17</collection>
+                  <idno>https://letters1916.ie/item/517</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0459">War Employments Inspector</persName>
+              <date>1916-03-20</date>
+              <placeName key="#letters1916_place-0536">War Employments Branch, Local Government Board, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1170">Cecil Pim</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1772">Greenmount Factory, Harold's Cross, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0517_img_1889_1"  type="Letter"  url="841bcbb8ca3e9e15bc868c55f16523eb.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0517_img_1889_1"/>
+              Copy    LOCAL GOVERNMENT BOARD,  ( War Employments Branch )  DUBLIN    20th March, 1916.   Dear Mr Pim,    It is very good of you indeed to have taken <lb/> the trouble to write me so fully as to conditions and <lb/> prospects in Belfast.    I hope the coal difficulty will not prove serious. <lb/> It is wonderful how difficulties can be overcome if <lb/> they are foreseen.  <seg type="closer"> With kind regards and many thanks, <lb/> Yours truly,    War Employments Inspector.    Cecil Pim, Esq  Greenmount Factory  Harold's Cross,  Dublin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

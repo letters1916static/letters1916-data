@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5855">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Anne MacDonald to Lady Clonbrock, 3 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Anne MacDonnell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Anne MacDonnell, honorary secretary of the Irish Women&#39;s Association, to Augusta Caroline Dillon (née Crofton). The Irish Women&#39;s Association was set up to provide aid and assistance to Irish regiments and to Irish members of the British army who were being held in prisoner of war camps.
+McDonnell writes with a list of items sent to members of the Connaught Rangers</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No 54; Ms. 35,796</collection>
+                  <idno>https://letters1916.ie/item/5855</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1071">Anne MacDonnell</persName>
+              <date>1916-02-03</date>
+              <placeName key="#letters1916_place-1880">65 Victoria Street, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0049">Lady Clonbrock</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5855_img_953_1"  type="Letter"  url="835162e6ec9c517dd4be0412fd7e65c8.jpg"/>
+      <graphic xml:id="L1916_5855_img_953_2"  type="Letter"  url="de6aff8d02f3014ed23560aa616873c4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5855_img_953_1"/>
+             The Irish Women's Association <lb/>(to aid Irish Regiments and Prisoners of War), <lb/>65, Victoria Street <lb/>London S.W.   The clothing which we send by order to <lb/> Prisoners of War consists of four parcels to <lb/>each man, the contents being: <lb/>Thick Greatcoat. <lb/>Coat and trousers (very warm) <lb/>Thick cardigan. <lb/>2 flannel shirts. <lb/>2 warm vests. <lb/>2 warm pants. <lb/>2 pairs of socks. <lb/>Cap. <lb/>Gloves. <lb/>1 pr. Boots. <lb/>1 pr. Canvas Shoes. <lb/>The Connaught Rangers are almost all provided <lb/>with this complete outfit. Those who are not  yet   <lb/>provided for, will be by the end of this week. 
+            <pb n="2" facs="L1916_5855_img_953_2"/>
+             1916 - Feb. 3   <hi rend="underline">Lady McDonnell</hi>   List of clothes sent. 
+         </ab>
+      </body>
+   </text>
+</TEI>

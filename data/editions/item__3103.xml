@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3103">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Peter Mooney to his sister Katie Mooney, 29 November 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Peter Mooney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Peter Mooney was born 5 February 1886 in Folistown, Dunboyne, Co Meath. Orphaned at age 7, he and his sister Katie (b. 1884) were raised by their uncle William and his wife Mary in Caulstown. While there are no surviving enlistment papers for Peter, his War Badge Index Record shows his enlistment date as 18 October 1915. 
+
+He served with the Royal Artillery and later transferred to the Royal Engineers where he was promoted to the rank of Sergeant. He served in several places at the Western Front, including Ypres, St. Omer and Passchendael. Peter and Kate were avid correspondents. This  letter is from a collection of over ninety surviving letters.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Mooney Family Papers</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/3103</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0428">Peter Mooney</persName>
+              <date>1916-11-29</date>
+              <placeName key="#letters1916_place-1889">Ballincollig, Co. Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Kate Mooney</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0162">Caulstown, Dunboye, Co. Meath, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1970</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3103_img_2510_1"  type="Letter"  url="0de84586962252e12eb5df4cd2b2a141.jpg"/>
+      <graphic xml:id="L1916_3103_img_2510_2"  type="Letter"  url="2e1180337249fa97f2f908bd4efe8785.jpg"/>
+      <graphic xml:id="L1916_3103_img_2510_3"  type="Envelope"  url="412d2b38232504e4ea691c073b30b0d4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3103_img_2510_1"/>
+             Nov 29<hi rend="superscript">th</hi>1915   Dear Katie.   Will you kindly <lb/>send me on my <sic>Kakhi</sic> <lb/>Riding Breeches also my <lb/><sic>Kakhi</sic> Puties. You know <lb/>the Breeches that I got <lb/>from the Hemy at Warehouse <lb/>The Putees are the ones <lb/>I used to wear in the <lb/>Lieut uniform I got the <lb/>Parcel alright with many <lb/>thanks.   Yours Truly   Peter Mooney 
+            <pb n="2" facs="L1916_3103_img_2510_2"/>
+             I hope you will excuse <lb/>this short note. I will <lb/>write to all in turn when <lb/>I get more time. 
+            <pb n="3" facs="L1916_3103_img_2510_3"/>
+             Miss K Mooney <lb/>Caulstown <lb/>Dunboyne <lb/>Co. Meath 
+         </ab>
+      </body>
+   </text>
+</TEI>

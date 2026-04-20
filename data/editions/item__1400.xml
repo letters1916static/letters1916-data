@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1400">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Brown to Sir Malachy Kelly, 29 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Brown</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from James Brown to Sir. Malachy J. Kelly referring to the deceased Elizabeth Hogg. He states that she was attended, fed and kept by John Duff during her lifetime. Brown hopes that the chief crown solicitor will give the matter of Hogg&#39;s Donatio Mortis to Duff his &#39;best and earnest consideration&#39;.James Brown was a solicitor from Londonderry. Sir Malachy J. Kelly (1851-1916) was the Chief Crown Solicitor for Ireland. He was appointed Crown Solicitor for Mayo in 1884 and was involved in a number of high profile cases. In 1905, he was appointed Chief Crown Solicitor for Ireland and moved to Dublin.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3888</collection>
+                  <idno>https://letters1916.ie/item/1400</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0489">James Brown</persName>
+              <date>1916-02-29</date>
+              <placeName key="#letters1916_place-1750">Broad Street, Magherafelt, Co. Derry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0509">Malachy Kelly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1400_img_792_1"  type="Letter"  url="32c1d362a9f58ecf46787570d552d7f4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1400_img_792_1"/>
+                Offices:-  Broad Street,  Magherafelt    29th February 1916   Dear Sir,   <lb/>Elizabeth Hogg late of Ballymurphy <lb/>in the <hi rend="underline">County of Londonderry</hi> Spinster deceased  I enclose you copy affidavit of John Duff used on Motion before <lb/>Probate Court Judge yesterday on which Judge made Order subject to our <lb/>writing you advising you of the death and that there are no next of kin <lb/>known to us. The affidavit sets out the facts fully and should satisfy <lb/>you that the Applicant is entitled to the money on Deposit <sic>Redeipt</sic>. It <lb/>is necessary for me to lodge your reply with the Registrar of Probate <lb/>Court setting out that the Crown had no claim on the Estate and then <lb/>Order will be given out to my Client. The deceased was attended fed <lb/>and kept by John Duff and in her lifetime she indorsed the Deposit Receipt <lb/>to him in presence of Doctor M'Ivor as a <seg type="foreign">donatio mortis causa</seg> knowing <lb/>she was going to die. I need not go into details as they are all set <lb/>out in affidavit sent. Would you kindly give this matter your best <lb/>and earnest consideration and oblige. <seg type="closer"> Yours faithfully  James Brown <lb/>Sir Malachy J Kelly   Chief Crown Solicitor for Ireland   The Castle  Dublin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

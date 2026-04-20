@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3516">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Fellow and Registrar, Royal College of Physicians of Ireland, to Dr Burke, 11 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Fellow and Registrar, Royal College of Physicians of Ireland</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Typescript letter to Dr. Burke congratulating him on receiving a reward from His Majesty for his &#39;gallant conduct&#39; on 8 November 1915, and also offering &#39;my personal congratulations on having preformed what we all look on as a very gallant deed&#39;</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-13-141</collection>
+                  <idno>https://letters1916.ie/item/3516</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0845">Fellow and Registrar, Royal College of Physicians of Ireland</persName>
+              <date>1916-01-11</date>
+              <placeName key="#letters1916_place-0272">Royal College of Physicians of Ireland, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Burke</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3516_img_2921_1"  type="Letter"  url="21fc346c0c778083773907770679e8ce.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3516_img_2921_1"/>
+              RCP1/2/3/2/13/14    11th JANUARY 15.   <!-- The date on the letter is clearly 15, but based on the content it must be 1916, since it references activity in the past --> Dear Dr.Burke,   I had great pleasure in reading to-day to<lb/>the College the record of your gallant conduct on the<lb/>8th November,1915, and of the reward conferred on you<lb/>in consequence by His Majesty.  The President and Fellows desire me to<lb/>convey to you their warmest congratulations on the<lb/>honour you have received. May I at the same time<lb/>offer you my personal congratulations on having<lb/>performed what we all look on as a very gallant deed.   Believe me to be,<lb/>Yours very truly,<lb/><lb/>Fellow &amp; Registrar.  
+         </ab>
+      </body>
+   </text>
+</TEI>

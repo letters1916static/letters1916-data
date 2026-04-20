@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2119">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Herbert Pim To John Sweetman, 16 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Herbert Pim</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is addressed to John Sweetman (1844-1936). Sweetman was a member of Sinn Féin and patron to Arthur Griffith. In 1915 he spoke out against conscription and was arrested in the aftermath of the 1916 Rising.
+The letter was written by Herbert Moore Pim (1883-1950). Pim published a pamphlet series entitled &#39;Tracts of our times&#39;, including writings by Patrick Pearse, and in early 1916 founded the literary and political monthly, &#39;The Irishman&#39;. He joined the Volunteer muster in Coalisland at Easter 1916, and was arrested after the Rising and deported to Reading gaol. He was released in September 1916.
+In this letter Pim writes that he wanted to visit Sweetman but that he was informed by Mrs O&#39;Neill that Sweetman was in the country. Pim mentions that he attended a conference in Dublin as an element of the movement was anxious to combine the forces known as Sinn Féin. The majority considered a formation of such an association imperative. Pim believes that Sinn Féin proper should adapt itself to the new conditions and embrace everyone who is roughly called a Sinn Féiner.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sweetman Family Papers, Collection List No. 156; Ms.47,589/12/3</collection>
+                  <idno>https://letters1916.ie/item/2119</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1003">Herbert Pim</persName>
+              <date>1916-09-16</date>
+              <placeName key="#letters1916_place-0204">65 University Road, Belfast, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0883">John Sweetman</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1950</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2119_img_1570_1"  type="Letter"  url="99607fad07897f78d2dba89e3b25e49e.jpg"/>
+      <graphic xml:id="L1916_2119_img_1570_2"  type="Letter"  url="f088ae2efadf30c6b6838bde23c91f5c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2119_img_1570_1"/>
+             16<hi rend="superscript">th Sept. 1916.</hi>   Dear Mr. Sweetman,   I am very grateful for <lb/>your letter. It is remarkable that when <lb/>recently in Dublin I tried to arrange <lb/> with Mrs McNeill to ask you <lb/>to meet me at her house, as I did <lb/>not know your address. But she <lb/>said you were in the country. I <lb/>shall certainly give myself the <lb/> pleasure of calling on you when <lb/>I'm south again.   I had a conference with a number <lb/>of representations people in Dublin, <lb/> because the northern element was <lb/>anxious for some associations <lb/> or League which would combine
+            <pb n="2" facs="L1916_2119_img_1570_2"/>
+            the various forces know a <lb/> Sinn Fein. I support the opinion <lb/> of the majority &amp; see that the foundation of an <lb/> association was imperative; but, <lb/> if possible, that what ahead <lb/><seg type="unclear">just</seg> should be used, rather <lb/> than that a new League shd. be <lb/> found. Personally I am <lb/> inclined to suggest that Sinn <lb/>Fein proper should adopt itself <lb/> to the new conditions, &amp; embrace <lb/> everyone who is roughly called <lb/> a Sinn Feiner. That would mean <lb/> an adjustment of finances; because <lb/> a sub. of 5/- is out of the question in <lb/> most cases. Let branches be <lb/> found everywhere, &amp; an entrance <lb/> fee of 5/- be paid,  &amp; of  this the submitted <lb/> is Headquarters, is simply of the kind.     I enclose my newly adjusted <lb/> paper. Please send me your opinion of <lb/> what I have outlined.    <seg type="foreign">Slan agus beannacht</seg> ,  Herbert <hi rend="underline"> M Pim</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

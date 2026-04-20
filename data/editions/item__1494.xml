@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1494">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Eiblín Ní Sheaghda to Nancy O'Rahilly, c. May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Eiblín Ní Sheaghda</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Eiblín Ní Sheaghda to Nancy O&#39;Rahilly (1875-1961). Ní Sheaghda expresses her sympathy and that of the people of Dingle on the death of the O&#39;Rahilly (1875-1916) and says that prayers are being offered for &#39;those noble heroes&#39;.Nancy O&#39;Rahilly was a member of the Provisional Council of Cumann na mBan at the founding in 1914 and the wife of Michael Joseph O&#39;Rahilly, self-described as &#39;The&#39; O&#39;Rahilly. The O&#39;Rahilly fought in the Easter Rising and was shot in Parnell/Moore Street on 28 April 1916 and died some time later. Nancy was pregnant at the time of her husband&#39;s death – the child was born three months later.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Humphreys Papers, P106/120/3</collection>
+                  <idno>https://letters1916.ie/item/1494</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0516">Eiblín Ní Sheaghda</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1539">Bridge Street, Dingle, County Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1534">Nancy O&#39;Rahilly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1494_img_948_1"  type="Letter"  url="ae88829715a8725df1457eb2c1fd1b2a.jpg"/>
+      <graphic xml:id="L1916_1494_img_948_2"  type="Letter"  url="a2b1dd5fd62f0d18d7866232da6d5274.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1494_img_948_1"/>
+                Bridge St  Dingle    Sunday   Dear Mrs O'Rahilly   Words <lb/>fail me to express my <lb/>sympathy for you on <lb/> the death of your dear <lb/> husband we were all <lb/> very sorry when we heard <lb/> it, indeed so were all the <lb/> Dingle people without <lb/> exception it was only  
+            <pb n="2" facs="L1916_1494_img_948_2"/>
+              for the past week that <lb/> his esteem was plainly <lb/>evident amongst the <lb/> people here.  We pray for those noble <lb/> heroes every night after <lb/> the rosary I hope their souls <lb/> are in heaven may God <lb/> grant that they are.  How are the boys?<lb/><lb/>I hope you are well yourself. <seg type="closer"> Very sincerely <lb/>Yours  Eibhlin NÃ­ Sheaghda </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

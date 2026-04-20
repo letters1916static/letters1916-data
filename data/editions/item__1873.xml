@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1873">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward O'Farrell to Alexander Black, 30 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Alexander Black</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Edward O&#39;Farrell (1857-1926), the assistant under-secretary for Ireland, to Alexander Black (b.1877). The letter regard an application made by Alexander Black for old age pension. The letter states that the lord justices cannot intervene in the matter.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/5612/9095/1</collection>
+                  <idno>https://letters1916.ie/item/1873</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0380">Alexander Black</persName>
+              <date>1916-05-30</date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0464">Castleblayney, County Monaghan, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1926</item>
+               <item n="tag">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1873_img_1325_1"  type="Letter"  url="409b3f898a1b062e805995c66dbb7f02.jpg"/>
+      <graphic xml:id="L1916_1873_img_1325_2"  type="Envelope"  url="064e11f646565d8234de91c60e8a7e98.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1873_img_1325_1"/>
+            <lb/>9095  CHIEF SECRETARY'S OFFICE,<lb/> <lb/>DUBLIN CASTLE,   30th May,1916.  <lb/>9095.  Sir,   I am directed by the Lords Justices to <lb/>acknowledge the receipt of your letter on the <lb/>subject of your claim for an old Age Pension, <lb/>and to state that Their Excellencies regret to <lb/>be unable to intervene in this matter.   I am , Sir, <lb/>Your obedient Servant,   E O'Farrell  <lb/>Mr. Alexander Black,  Castleblayney, <lb/>Co. Monaghan. 
+            <pb n="2" facs="L1916_1873_img_1325_2"/>
+            <lb/> Not Known at <seg type="unclear">Altnainachin</seg>  <lb/><hi rend="underline">On His Majesty's Service.</hi>  Not Known <lb/>in <seg type="unclear">Cl'Blayney</seg> <lb/><hi rend="underline">P Mc D</hi>   Mr. Alexander Black, <lb/>Castleblayney, <lb/>Co. Monaghan. 
+         </ab>
+      </body>
+   </text>
+</TEI>

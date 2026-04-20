@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1664">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Andrew Philip Magill to Thomas O'Donnell, 17 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Andrew Philip Magill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Andrew Philip Magill (1871–1941) an Irish civil servant to Thomas O&#39;Donnell (1871-1943) an Irish Nationalist MP. Andrew Philip Magill acted as private secretary to Augustine Birrell (1850-1933) the Chief Secretary for Ireland. Magill assumed the role in 1913 and continued after the resignation of Birrell in 1916. O&#39;Donnell held a seat for the British Parliament in West Kerry from 1900-1918. The letter concerns the situation of the Killorglin town of Kerry, which is situated in the Ventry Estate for which the Congested Districts Board attempted to purchase. It goes on to state that many holdings in the area are in the hands of middle men, which would make it difficult to purchase due to intervening interests which should be redeemed or excluded from sale. The inability to purchase such holdings means the estate would not be agricultural and therefor purchasable by the board.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI_CSO_1916_6893_1_1</collection>
+                  <idno>https://letters1916.ie/item/1664</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0014">Andrew Philip Magill</persName>
+              <date>1916-04-17</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0636">Thomas O&#39;Donnell</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1664_img_1123_1"  type="Letter"  url="fd9221f7cc3dcb51b9b9f1afb150d7ca.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1664_img_1123_1"/>
+             Copy <hi rend="underline">486</hi>   17th April, 1916.   Dear Mr. O'Donnell,   With reference to your recent letter relative to the <lb/>Killorglin Town Tenants, I am desired by Mr. Birrell to <lb/>say that he has made enquiries into the matter, and he finds <lb/>the facts are as follows :-   The town of Killorglin was included in the Ventry Estate <lb/>which the Congested Districts Board offered to purchase. <lb/>A number of houses in Killorglin are in the hands of <lb/>middlemen and when the matter came before the Judicial <lb/>Commissioner he ruled that any holdings not in the direct occupation <lb/>of the direct tenants would be regarded as intervening <lb/>interests which should be either redeemed or excluded from sale. <lb/>Under this ruling 35 holdings in the town of Killorglin held at <lb/>rents amounting to £107:10:6 were excluded by the Land <lb/>Commission from the Vesting Order, and the sum of £2,582, <lb/>being the purchase price of these intervening interests, was <lb/>deducted from the original offer of the estate.   The Board are advised that, the estate of Lord Ventry <lb/>having been vested in the Board without these holdings, it <lb/>is not possible for the Board now to purchase them under the <lb/>Land Purchase Acts, as they are non-agricultural holdings, <lb/>and, as these holdings cannot be acquired by the Congested <lb/>Districts Board under the Land Purchase Acts, Mr. Birrell <lb/>does not consider that anything would be gained by his <lb/>receiving a deputation on the subject.   Yours faithfully,   (Sd.) APM   Under Secretary <lb/>A.P.M. <lb/>17/4/16.   Thomas O'Donnell, Esq., M.P., <lb/>House of Commons. 
+         </ab>
+      </body>
+   </text>
+</TEI>

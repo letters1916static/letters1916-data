@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1369">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Éamon de Valera to Sinéad de Valera, c. April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Éamon de Valera</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is an undated letter from Éamon de Valera (1882-1975) to his wife, Sinéad de Valera (1882-1975), written most probably from Boland&#39;s Mills. Éamon de Valera had joined the Irish Volunteers in 1913 and was adjutant to Thomas MacDonagh (1878-1916), Dublin Brigade commandant. He went on to command forces at Bolands Mill during the Rising and was the most senior participant to escape execution. De Valera would go on to become one of the most influential figures in Ireland&#39;s 20th century. Sinéad de Valera (née O&#39;Flanagan) was pregnant and without an income while her husband was in prison, and was forced to return to the family home in Phibsboro to care for her invalid sister and mother. Throughout much of the ensuing political upheaval she saw little of her husband, who was either imprisoned or on the run.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>De Valera Papers, P/150/31</collection>
+                  <idno>https://letters1916.ie/item/1369</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0274">Éamon de Valera</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1202">Sinéad de Valera</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1369_img_720_1"  type="Letter"  url="938d4489cd530abc77c74cf2cf671282.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1369_img_720_1"/>
+               To my Darling wife:   If I die - pray for me. <lb/> Kiss our children for me <lb/> Tell them their father died <lb/> doing his duty.  Had MacNeill let things go <lb/> the day before  Sunday  we'd hold <lb/> this position for months <lb/> My force here <sic>wd</sic> have <lb/> been <hi rend="underline">exactly</hi> five times its <lb/>present strength:  <lb/>A Coy paraded <lb/>B ' <lb/>C ' <lb/>D ' <lb/>E ' <lb/>We showed that there were Irishmen who <lb/> in face of great odds would dare what they said  
+         </ab>
+      </body>
+   </text>
+</TEI>

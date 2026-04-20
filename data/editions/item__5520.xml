@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5520">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Franz H. J. Zerhusen to Roger Casement, 31 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Franz H. J. Zerhusen </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Franz H. J. Zerhusen to Sir Roger Casement (1864-1916) thanking him for his letter. Zerhusen was an officer in the German army who worked with Casement&#39;s Irish Brigade made up of Irishmen held as prisoners in German prisoner of war camps. He writes that he is delighted to hear that Casement has been feeling better and that he would be &#39;quite willing to go with you anywhere, but of course I am not my own master&#39;. He would go with Casement if Casement could arrange it with the authorities.
+
+The letter is taken from a collection of letters, poems, articles and other documents of Roger Casement and his family. Covering his career in the British Diplomatic Service 
+and activities in the Irish Revolutionary movement, 1889-1945.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sir Roger Casement Papers, Collection List No. A15; Ms. 13,085/28</collection>
+                  <idno>https://letters1916.ie/item/5520</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0984">Franz H. J. Zerhusen </persName>
+              <date>1916-01-31</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0141">Roger Casement </persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5520_img_617_1"  type="Letter"  url="c44153aa4ca32fbc13debc40f511859c.jpg"/>
+      <graphic xml:id="L1916_5520_img_617_2"  type="Letter"  url="51b36fbae0d6490ef06a32eb8cd3fcb1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5520_img_617_1"/>
+            FRANZ H.J. ZERHAUSEN  R. at M. <lb/>3 Feb. 1916   31 <hi rend="superscript">st</hi> January 1916   Dear Sir Roger,   I beg to thank you for your kind letter, <lb/>and I am very glad to hear that you <lb/> are feeling better and sincerely hope that you <lb/> will soon be quite better.    I am quite willing to go with you anywhere, <lb/> but of course I am not my own master, <lb/> and it would therefore depend if you could <lb/>arrange this with the authorities.   I am, dear Sir, <lb/>Very respectfully yours   F. Zerhusen 
+            <pb n="2" facs="L1916_5520_img_617_2"/>
+            
+         </ab>
+      </body>
+   </text>
+</TEI>

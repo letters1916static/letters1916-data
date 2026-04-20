@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0398">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Francis Henry Downing to Matthew Nathan, 14 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Francis Henry Downing</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Francis Henry Downing (1865-1931), a solicitor from Kerry to Sir Matthew Nathan (1862-1939). The letter acknowledges Nathan&#39;s previous letter regarding amending the Tralee and Dingle Order (1896).Sir Matthew Nathan was the under secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/6706</collection>
+                  <idno>https://letters1916.ie/item/398</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0126">Francis Henry Downing</persName>
+              <date>1916-04-14</date>
+              <placeName key="#letters1916_place-1365">Tralee, Kerry</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0398_img_1660_1"  type="Letter"  url="f3445a6d93330b51c3a48044f2b87f2b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0398_img_1660_1"/>
+                22, Denny Street,  Tralee    14th April 1916    The Under-Secretary,  Dublin Castle.  <hi rend="underline">4339</hi> Dear Sir,   In further reply to your letter of the 6th Instant, I have consulted <lb/>Counsel for the County Council and he is of opinion that in order to avoid any <lb/>doubt or difficulty which might arise as to whether a member of the County <lb/>Council had previous to his election elected to act gratuitously it would be <lb/>safer to amend the Order of 1896 by providing in the new Order as follows:  'Provided Always that the said fee of ÃÂ£1 per annum shall not be paid or <lb/>'payable to any such member who at the time of his appointment as such <lb/>'is a member of the County Council or in case of a person not a member <lb/>'of the County Council who at the time of his appointment as such elects <lb/>'to act gratuitously as a member of the said Committee'  instead of the proposed alteration.  Furthermore it <seg type="del">might</seg> may be that the Council might desire <lb/>to appoint a member of their body who was not present on the day of his <lb/>appointment, and such a clause as above suggested by Counsel will get over  any <lb/>possible difficulties as to the election of such person to act without a fee. <seg type="closer"> Yours faithfully,  FH Downing </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

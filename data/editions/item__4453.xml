@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4453">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to Colonel F.A. Heygate Lambert, 25 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter to Colonel F.A. Heygate Lambert authorizing the release of 176  Irish prisoners.
+
+In 1916 Col. F.A. Heygate Lambert (1857-1929) was serving as the Commandant of Frongoch Internment Camp. Lambert served in the camp until the last of the prisoners were released in December 1916. In the Spring of 1917 he went to Ypres to command a battalion of the Labour Corps.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI/CSO/RP/1916/13324/7</collection>
+                  <idno>https://letters1916.ie/item/4453</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-07-25</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0929">F.A. Heygate Lambert</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1722">Frongoch, Wales</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4453_img_3801_1"  type="Letter"  url="ef366d4215ab0f58746395892ff2a519.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4453_img_3801_1"/>
+             313106/   25th July 1916.    Sir,   I am directed by the Secretary of State to inform<lb/>you that, on the recommendation of the Advisory Committee,<lb/>he authorises the release from internment of the 176<lb/>persons named in the accompanying lists, this being the<lb/>fifth group of prisoners whose release he has authorised.  These releases should be carried out in accordance<lb/>with the instructions already sent you.  I am,<lb/>Sir,<lb/>Your obedient Servant,   The Commandant,<lb/>Prisoners of War Camp,<lb/>Frongoch,<lb/>nr. Bala,<lb/>N. Wales.  
+         </ab>
+      </body>
+   </text>
+</TEI>

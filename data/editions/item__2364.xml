@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2364">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to James Ryan from Frances Kelly</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Frances Kelly</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Frances Kelly, a student in Loreto who has only ever exchanged a few words with James Ryan, is writing to him because everyone is writing to the &#39;Patriots&#39; in prison. She tells him about how anticipated letters from the &#39;Patriots&#39; are, and also about the exams that are on at the time.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>P88/21</collection>
+                  <idno>https://letters1916.ie/item/2364</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0817">Frances Kelly</persName>
+              <date>1916-06-11</date>
+              <placeName key="#letters1916_place-0670">77 Stephen&#39;s Green</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0447">James Ryan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2364_img_181_1"  type="Letter"  url="45f0d5d40f20a220f6410bd96882d70f.jpg"/>
+      <graphic xml:id="L1916_2364_img_181_2"  type="Letter"  url="6ea6f6198da29433478c6c152fcdf287.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2364_img_181_1"/>
+             77 Stephens Green   June 11<hi rend="superscript"><hi rend="underline">th</hi></hi> <hi rend="underline">16</hi>   My dear Mr Ryan (no 'My dear Jim' that <lb/>is nicer <seg type="foreign">n'est ce pas</seg>:)   Well I daresay a letter <lb/>from me will surprise you not having exchanged <lb/>twenty words together in  the  course of our acquaintance <lb/>ship, however that doesn't matter does it?   In any case I must be in the fashion now <lb/>and write to one of the Patriots. To say we <lb/>enjoy The various letters that are handed round <lb/>from time to time from the Detention Camps <lb/>would only mildly express it. One person is <lb/>reading the first page <seg type="foreign">Vive Voce</seg> while a <lb/>second is declaiming the second or third all at <lb/>the same time. I gleamed from the whole, various <lb/>and interesting scraps of information: to wit <lb/>that you are all going through a course of <lb/>Char-ring, I hope you don't develop "house- <lb/>maids knee".   How are the other U.C.D's Please remember <lb/>me to them. Mr. Dove &amp; Mr Des Ryan <lb/>and any others it doesn't matter whether I know <lb/>them or not.   I suppose you heard the awful news about
+            <pb n="2" facs="L1916_2364_img_181_2"/>
+            poor old Kitchener going below. I was in the <lb/>Kildare St Library when the Stop Press came out <lb/>and well. I had an interesting psychological <lb/>study. (or is that the proper word: should I say <lb/>physiognomical?)    Every body hardly without exception are <lb/> burning <seg type="del">mids</seg> midnight - I was going to say <lb/>oil - no - grease in view of the approaching <lb/>exams - it's well to get remorse even at <lb/> the eleventh hour isn't it:   Really I am chewing my pen to know what I'll <lb/>say next. Every item  of news  I mention seems to <lb/>have been already monopolized by May <lb/>Molony or M. <seg type="unclear">Moyes</seg> not to speak of <lb/>Madge Calnan and I've been threatened <lb/> with I don't know what  by May Moloney  if I write too long <lb/>an epistle to you so I think I better <lb/>bring these remarks to a close with <lb/>all kinds of nice messages from everyone <lb/>to you and all our friends   Very Sincerely yours   Frances Kelly. 
+         </ab>
+      </body>
+   </text>
+</TEI>

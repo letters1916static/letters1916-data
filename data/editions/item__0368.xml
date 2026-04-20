@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0368">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas Wallace Russell to Robert Chalmers, 18 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Wallace Russell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Thomas Wallace Russell, to the under-secretary. In the letter Russell is writing regarding the court martial and sentencing of an employee of the Department of Agriculture and Technical Instruction for his part in the 1916 Rising. The employees name was John Shouldice (b. 1881). Shouldice was a member of the Irish Volunteers and took part in the fighting in the Church Street area in Dublin during Easter Week 1916. Following the Rising Shouldice was arrested and imprisoned. He would go on to later play an active role during the War of Independence.Russell (b. 1841) is writing as vice-president of the Department of Agriculture and Technical Instruction. The letter is addressed to the under-secretary, which at this time is Sir Robert Chalmers (1858-1938). Chalmers was sent to Ireland as under-secretary, replacing Sir Matthew Nathan who had resigned along with Augustine Birrell, his chief secretary following the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/8543/1</collection>
+                  <idno>https://letters1916.ie/item/368</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1053">Thomas Wallace Russell</persName>
+              <date>1916-05-18</date>
+              <placeName key="#letters1916_place-1651">Department of Agriculture and Technical Instruction for Ireland, Upper Merrion Street, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0368_img_1614_1"  type="Letter"  url="60077ffaada5ad63ea2a13311df80c11.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0368_img_1614_1"/>
+              Telegrams:<lb/>Any further communication<lb/> on this subject should be<lb/> addressed to<lb/> 'The Secretary,'<lb/> and the number and the date of<lb/> this letter should be quoted.<lb/> No.<lb/> G 1997-16.    Department of Agriculture  and Instruction for Ireland,  Dublin,    18th May 1916   Sir,   I have to report, for your information, that<lb/> from a communication received by the Department from<lb/> Brigadier General Byrne, Headquarters, Richmond Barracks,<lb/> it appears that Mr John Shouldice (3, Marino Crescent),<lb/> a Second Division clerk on the staff of the Statistics<lb/> and Intelligence Branch of this Department, has been<lb/> sentenced by Court Martial to five years Penal Servitude<lb/> for having taken part in the late rebellion. He was,<lb/> it is stated, among those who surrendered at the Post<lb/> Office. The Department are communicating with the Lords<lb/> Commissioners of His Majesty's Treasury and with the<lb/> Civil Service Commissioners in the case.  A further communication will be sent you as<lb/> soon as possible in the case of some officers of<lb/> the Department's staff who have not yet returned to duty,<lb/> when reports from the military authorities have been<lb/> received. <seg type="closer"> I am,<lb/> Sir,<lb/> Your obedient Servant,  M Russell <lb/> Vice President.<lb/>  The Under Secretary,  Dublin Castle.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

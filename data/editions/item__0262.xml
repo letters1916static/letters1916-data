@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0262">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward Joseph McWeeney to Robert Chalmers, 10 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward Joseph McWeeney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Edward Joseph McWeeney (b. 1864), solicitor and doctor, to Sir Robert Chalmers. The letter regards the case of Rex Versus Peter Daly, stating that there is an enclosure regarding the case. The enclosure notes fees due for examination of articles. Sir Robert Chalmers (1858 - 1938) was sent to Ireland as replacement under-secretary for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5611/7976/1</collection>
+                  <idno>https://letters1916.ie/item/262</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0226">Edward Joseph McWeeney</persName>
+              <date>1916-05-10</date>
+              <placeName key="#letters1916_place-0897">84 St. Stephen&#39;s Green, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0890">Dublin Castle</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0262_img_1447_1"  type="Letter"  url="baffa40a4eefdaf17853be5c41991604.jpg"/>
+      <graphic xml:id="L1916_0262_img_1447_2"  type="Letter"  url="29164213d8660a3879ab2d01793d2d61.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0262_img_1447_1"/>
+              Telephone &amp;Telegrams<lb/> Dublin 2017    84 S<hi rend="superscript">t</hi> Stephen's Green,  Dublin    10th May '16   Sir,   Enclosed I beg to hand you my acâ<lb/> count for an examination done, at the reâ<lb/> quest of the Crown, in the case of Rex<lb/> versus Peter Daly (Ballineen, Co. Cork). <seg type="closer"> I have the honour to remain,<lb/> Sir,<lb/> Your obedient servant  E J McWeeney   The Under Secretary,  Dublin Castle  </seg> I Authorize Crown Solicitor to pay<lb/> Â£5:5/â<lb/> II Inform <lb/> III <seg type="unclear">note</seg><lb/><hi rend="underline">11 â 5 â 16 â</hi>  
+            <pb n="2" facs="L1916_0262_img_1447_2"/>
+              Telephone and Telegrams,<lb/> Dublin 2017<lb/>    84 S<hi rend="superscript">t</hi> Stephen's Green,  Dublin    10th May '16    The Crown............. in A/c with<lb/> Professor E. J. McWeeney, M.D.<lb/> Crown Analyst <lb/> R. versus Peter Daly (Ballineen, Co. Cork)<lb/> April 10th To examination of articles<lb/> in the above case..... Â£5. 5. 0.  
+         </ab>
+      </body>
+   </text>
+</TEI>

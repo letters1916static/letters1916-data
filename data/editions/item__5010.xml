@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5010">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter on behalf of Chief of Staff to All Divisional Commandants, 30 November 1921</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Chief of Staff</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Typed copy if IRA circular U. O’D on behalf of the IRA Chief of Staff to all Divisional Commandants, 30 November 1921. A previous letter gave the false impression on that the IRA was being reconstituted as a new Army rather some commandants are simply being offered new commissions. This new interpretation was agreed by a joint meeting of the GHQ and Cabinet. 1 page. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry County Archives</repository>
+                  <collection>Charlie Daly Collection, P41/2/5/5</collection>
+                  <idno>https://letters1916.ie/item/5010</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0324">Chief of Staff</persName>
+              <date>1921-11-30</date>
+              <placeName key="#letters1916_place-0366">IRA General Headquarters, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1307">Charlie Daly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">War of Independence (1919-1921)</item>
+               <item n="topic">Politics</item>
+               <item n="topic">War of Independence (1919-1921)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5010_img_None_1"  url="58dde83392162501be23cc2817325153.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5010_img_0_1"/>
+             <hi rend="underline">P41/2/5/5<lb/><lb/>COPY.</hi> <hi rend="underline">OGLAIGH na h-ÉIREANN.</hi>   General Headquarters, Dublin    30th. November, 1921.    To all Divisional Commandants.   Some time ago you have, I presume, received a communication<lb/>from the Minister for Defence offering you a Commission with rank<lb/>of Commandant General. It might be inferred from this document<lb/>that a new Army was being formed, but this is not really so - the<lb/>idea being to offer fresh commissions to certain Officers. The<lb/>whole situation has been examined into at a Joint Meeting of the<lb/>Cabinet and G.H.Q. Staff and an understanding arrived at.  You should write to the Minister for Defence accepting the<lb/>Commission.   Beir Beannacht    U.O'D.<lb/>For Chief of Staff.  
+         </ab>
+      </body>
+   </text>
+</TEI>

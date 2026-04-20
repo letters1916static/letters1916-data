@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2303">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas O'Dea to John Francis Hogan, 20 Feb 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas O&#39;Dea</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Bishop Thomas O&#39;Dea (1858-1923), bishop of Galway, to John Francis Hogan (1858-1918), president of St Patrick&#39;s College, Maynooth.
+The letters asks Hogan to inform a Mr Ruane to prepare for ordination in the Pro Cathedral.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>St Patrick&#39;s College, Maynooth</repository>
+                  <collection>211514</collection>
+                  <idno>https://letters1916.ie/item/2303</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0665">Thomas O&#39;Dea</persName>
+              <date>1916-02-20</date>
+              <placeName key="#letters1916_place-2115">Mount St. Mary&#39;s, County Galway, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John Francis Hogan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2303_img_1749_1"  type="Letter"  url="17f2d7a6d058b402164107e66aafb5ac.jpg"/>
+      <graphic xml:id="L1916_2303_img_1749_2"  type="Letter"  url="24f59c60897f526eb83b5c1c9b79f63a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2303_img_1749_1"/>
+             MOUNT ST. MARY'S, <lb/>GALWAY.   20/2/1916   Dear President   Kindly ask Mr. Ruane <lb/>to prepare for <sic>ordin</sic>to <lb/>priesthood in the ProCathedral <lb/>Galway on Sunday week <lb/><seg type="del">week</seg> next, provided of course <lb/>the hon. C. approves of <lb/>his <sic>ordin</sic>. He is Decan
+            <pb n="2" facs="L1916_2303_img_1749_2"/>
+            already, is he not?   Yours V. Sinly    + Thomas ODea 
+         </ab>
+      </body>
+   </text>
+</TEI>

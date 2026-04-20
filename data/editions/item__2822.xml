@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2822">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Henry Bushman to Henry Armstrong, June 26 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Henry Bushman</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is part of a series of correspondence belonging to Henry Bruce Armstrong (1844-1943). The correspondence largely concerns Armstrong’s estate and financial affairs with correspondents ranging from family members to high ranking Northern Irish politicians. At the time of this letter he was a County Councillor for Armagh, and he would later become a Westminster MP.
+
+Major General Henry A. Bushman was  Colonel of the 9th Lancers. He died in 1930. The letter makes reference to mutually known events and people, and plans a future visit by Bushman and his wife.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Armstrong Papers, D3727/E/18/34-1</collection>
+                  <idno>https://letters1916.ie/item/2822</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0909">Henry Bushman</persName>
+              <date>1916-06-26</date>
+              <placeName key="#letters1916_place-1623">11 South Audley Street W., London, England </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Henry Armstrong</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1419">Dean's Hill, Armagh, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1930</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2822_img_2238_1"  type="Letter"  url="17f594713040963569148202215f31f3.jpg"/>
+      <graphic xml:id="L1916_2822_img_2238_2"  type="Letter"  url="3653d4d77ebca5c2e07a68375b0375e4.jpg"/>
+      <graphic xml:id="L1916_2822_img_2238_3"  type="Envelope"  url="805daf83d941b0fd83b6f9456fb2fbd4.jpg"/>
+      <graphic xml:id="L1916_2822_img_2238_4"  type="Envelope"  url="051b886ceb4890afb84b292d20054b5d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2822_img_2238_1"/>
+             11 SOUTH AUDLEY STREET, <lb/> W.   June 26<hi rend="superscript">th</hi> 1916   My dear Henry   I intended writing a <lb/>line to ask your acceptance of my bags <lb/>and my own photograph but like the <lb/>"Dhobies dog" I have been running from <lb/>town to country! I hope you hear good <lb/>accounts from your two gallant Sons <lb/>&amp; wonder where the 8<hi rend="superscript">th</hi> Hussars are <lb/>serving. I hope to quote the language <lb/>of old <seg type="unclear">Blemis</seg>, the Irish Settlement is <lb/> presenting a fine "Protestant" appearance <lb/>but like   the subject is not
+            <pb n="2" facs="L1916_2822_img_2238_2"/>
+            <lb/>a matter to be dealt with in a few <lb/>words. We shall be in London till <lb/> the   begin the latter end of <lb/>next month and if there is any chance <lb/>of our being in these parts in the <lb/> Mean season <!-- end of summer --> Hope we  may  have the pleasure <lb/>of seeing you. My wife, &amp;    <lb/>in Kinder Remembrance to <lb/>M<hi rend="superscript">rs</hi> Armstrong &amp; your daughters, as I am <lb/>at work at Hospital Clothing and <lb/>appliances and am engaged in the <lb/>New Forest Local Tribunal.   Hoping you are all well <lb/>Yours Ever<lb/>   H A <hi rend="underline">Bushman</hi> 
+            <pb n="3" facs="L1916_2822_img_2238_3"/>
+             <lb/>LONDON. W. <lb/>6.15PM <lb/>26 Jun 16A   H B Armstrong Esq <lb/>Deans Hill, <lb/>Armagh, <lb/>  ( NI)  Ireland 
+            <pb n="4" facs="L1916_2822_img_2238_4"/>
+              1.15pm27 Ju 16 
+         </ab>
+      </body>
+   </text>
+</TEI>

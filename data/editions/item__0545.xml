@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0545">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Deportation Order from the Secretary of State to James Gough, 17 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>David Lloyd George</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A deportation order from David Lloyd George (1863–1945), the British Secretary of State for War concerning prisoner James Gough who participated in the Easter Rising. Gough was first held at Richmond Barracks, was transferred to Stafford, and then was held at Frongoch Internment camp, Wales.David Lloyd George took over the role of Secretary of State for War on 6 June 1916, after the death of Horatio Herbert Kitchener, (1850–1916) who died on board the cruiser HMS Hampshire when it was sunk by a German mine on 5 June 1916, while on course to Russia.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Allen Library, Br. Allen Collection, IE/AL/1916/66</collection>
+                  <idno>https://letters1916.ie/item/545</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0876">David Lloyd George</persName>
+              <date>1916-06-17</date>
+              <placeName key="#letters1916_place-0372">War Office, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">James Gough</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1312">1 North Richmond Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0545_img_1925_1"  type="Letter"  url="d0640904d66d8a8afad8ca632445356c.jpg"/>
+      <graphic xml:id="L1916_0545_img_1925_2"  type="Letter"  url="451cad453368cd54183cdf0999005ef5.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0545_img_1925_1"/>
+              17/6/16 <seg type="head"> NOTICE TO PERSONS WITH RESPECT TO WHOM<lb/><hi rend="underline">AN ORDER IS MADE UNDER REGULATION 14B</hi>.</seg> Name of Prisoner Gough James<lb/> Address 1 N. Richmond <seg type="del">ST</seg>St<lb/> Dublin<lb/> W O Number 25C<lb/> H O Number 316951  Notice is hereby given to the above-named that an Order has been made<lb/> by the Secretary of State under Regulation 14 B of the Defence of the Realm<lb/> Regulations directing that he shall be interned at the Place of Internment<lb/> at Frongoch.  The Order is made on the ground that he is of hostile associations <hi rend="underline">and</hi><lb/><hi rend="underline">is reasonably suspected of having favoured, promoted or assisted an armed</hi><lb/><hi rend="underline">insurrection against His Majesty.</hi>  If within seven days from the date of his receiving this notice the<lb/> above-named prisoner submits to the Secretary of State any representations<lb/> against the provisions of the said Order, such representations will be re<lb/> ferred to the Advisory committee appointed for the purpose of advising the<lb/> Secretary of State with respect to the internment and deportation of aliens<lb/> and presided over by a Judge of the High Court, and will be duly considered<lb/> by the Committee. If the Secretary of State is satisfied by the report of<lb/> the said Committee that the Order may, so far as it affects the above-named<lb/> prisoner, be revoked or varied without injury to the public safety or the<lb/> defence of the realm, he will revoke or vary the Order accordingly by a<lb/> further Order in writing under his hand.   Failing such revocation or variation the Order will remain in force.  
+            <pb n="2" facs="L1916_0545_img_1925_2"/>
+               PRESENTED by James Gough<lb/> to the <lb/> O'CONNELL SCHOOL MUSEUM<lb/> 21063  
+         </ab>
+      </body>
+   </text>
+</TEI>

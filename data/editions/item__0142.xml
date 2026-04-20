@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0142">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Helena Molony to Mary Ellen Humphreys, c. May/June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Helena Molony</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was sent to Mrs. Humphreys by Helena Molony. In the letter Molony questions Nell on whether there is any truth to the rumours that Michael&#39;s body is to be exhumed and brought to &#39;his native place&#39; tomorrow. She outlines how important Michael was to the men in the ICA and that they are anxious to know the truth about these rumours.Helena Malony (1883-1967) was a founding member of Inghinidhe na hÉireann, a member of the Irish Citizen Army and a close colleague of James Connolly and Markievicz. She was part of the group of rebels who seized City Hall during the Easter Rising and was imprisoned in Aylesbury prison until December 1916.The letter was sent to Mary Ellen (Nell) Humphreys (née O&#39;Rahilly). Nell was the sister of The O&#39;Rahilly. Michael Joseph &#39;The&#39; O&#39;Rahilly (1875–1916) was a nationalist and a journalist. In 1916 he aligned himself with Eoin MacNeill and Bulmer Hobson who opposed a preemptive rising. Although O&#39;Rahilly played a large role in delivering MacNeill&#39;s countermanding order he felt obligated to stand with the men he recruited and trained. O&#39;Rahilly was fatally wounded on the Thursday 27 April when the GPO was being evacuated.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Sighle Humphreys Papers, P106/126/001/1</collection>
+                  <idno>https://letters1916.ie/item/142</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0602">Helena Molony</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1037">Liberty Hall, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mary Ellen O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0142_img_1264_1"  type="Letter"  url="5d4e3cf75829b1d4f111ff25f9967f30.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0142_img_1264_1"/>
+              P106/126 <seg type="head">Each for All</seg> <seg type="head"><seg type="del">Irish Transport &amp; General Workers</seg> Union Head Offices: Liberty Hall, Beresfort Place, Dublin. <seg type="del">James Larkin General Secretary</seg></seg> <seg type="head">All for each</seg> <seg type="head">Phone - Dublin 3421</seg>    Temporary Offices, <seg type="del">31 Eden Quay,</seg> ............19    Saturday   Dear Mrs Humphrys   Some of our men (Citizen Army) branch<lb/> of Republican A.) have heard that The OâRahillysâ body is to be<lb/> exhumed and brought to his native place tomorrow.<lb/> All our men have the greatest respect and love for him,<lb/> and are most anxious to turn up and testify<lb/> to it. If it is true could you let me know, - there are<lb/> rumours &amp; counter rumours, and we are anxious to know the<lb/> truth. Our men are keenly alive to the part he played<lb/> in arming them, and making it possible for them<lb/> to play the part they played. Could you let me <lb/> know the particulars, and give them to bearer. I am<lb/> writing in great haste <seg type="closer"> Yours sincerely <lb/> Helena Moloney </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

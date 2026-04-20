@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0839">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Dr Kathleen Lynn to Miss Carney, 6 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Kathleen Lynn</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Dr. Kathleen Lynn (1874-1955) to a &#39;Miss Carney&#39;, whose identity cannot be definitively ascertained. In this letter, Lynn instructs Carney to send out a card on her behalf to a number of her friends and political compatriots with the following text: &#39;I have been deported to Bath. Very sorry not to be able to see you before I went.&#39; The note contains a list of the card&#39;s intended recipients, along with their addresses.Dr Kathleen Lynn was a medical practitioner, a suffragist, a nationalist, and a revolutionary. Lynn was Chief Medical Officer of the Irish Citizen Army during Easter 1916, and was a part of the City Hall garrison, of which she took command of the garrison after the death of Seán Connolly on the first day of the Rising. After independence, Lynn played a major role in improving public health, and played a significant role in the eradication of tuberculosis in Ireland.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, IE/AL/KL/1/20</collection>
+                  <idno>https://letters1916.ie/item/839</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1086">Kathleen Lynn</persName>
+              <date>1916-06-06</date>
+              <placeName key="#letters1916_place-1165">Mountjoy Prison, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Miss Carney</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0839_img_2393_1"  type="Letter"  url="fe9935896090e0ae330d46a218ec1a57.jpg"/>
+      <graphic xml:id="L1916_0839_img_2393_2"  type="Letter"  url="a57f516625effa0ab0eb711f57ca255c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0839_img_2393_1"/>
+              (Written in Mountjoy Prison)   Miss Carney<lb/> from<lb/> K. Lynn<lb/><seg type="unclear">csmcl</seg><lb/>  6.6.16    Please write card as<lb/> follows  I have been deported to<lb/> Bath. Very sorry, <seg type="del">I shall not be able to see y</seg><lb/> not to be able to see<lb/> you before I went.  K. Lynn<lb/> per 11. <lb/>   to Miss B. Sullivan<lb/> Nullamore<lb/> Milltown    Mrs Sheehy Sheffington<lb/> 11 Grosvenor Place,<lb/> Rathmines<lb/> Mrs Wallen<lb/> 2 Belgrave Park<lb/> Rathmines  
+            <pb n="2" facs="L1916_0839_img_2393_2"/>
+              Mrs Courtnay<lb/> 20 Kenilworth Park<lb/><hi rend="underline">Rathgar</hi>  Miss I. Ryan<lb/><seg type="unclear">Manoah</seg><lb/> Holyrood Park<lb/><hi rend="underline">Ballsbridge</hi>  Mrs Kench<lb/> Coolgraney,<lb/><hi rend="underline">Dundrum</hi>  Miss Love<lb/> 86 S.C. Rd.<lb/><hi rend="underline">Rialto</hi>  Miss Haughton<lb/><seg type="unclear">Conlun</seg><lb/> Baily<lb/> Co. Dublin  
+         </ab>
+      </body>
+   </text>
+</TEI>

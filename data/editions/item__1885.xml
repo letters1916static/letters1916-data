@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1885">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Hamilton to Edward Grey, 30 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Hamilton </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from James Hamilton, a butler working in England, to the secretary of state at the Foreign Office, Edwars Grey (1862-1933). This letter was sent during the period in which there was no active chief secretary for Ireland after the resignation of Augustine Birrell (1850-1933) following the administrative failure before the 1916 Rising.  In his letter, Hamilton explains that he is a butler working for Dorothy Scobell (b. 1893) in Bournemouth and that he wishes to travel to Belfast for two weeks. Hamilton requests that the necessary documents are sent out. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/5612/9276/1</collection>
+                  <idno>https://letters1916.ie/item/1885</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0703">James Hamilton </persName>
+              <date>1916-05-30</date>
+              <placeName key="#letters1916_place-1073">Littleton Lodge, 16 Florence Road, Boscombe, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Edward Grey</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1885_img_1337_1"  type="Letter"  url="6995d6957ff4986615c46792adfc8066.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1885_img_1337_1"/>
+             Liffleton Lodge<lb/> 16 Florence Road Boscombe   30 May 1916   Sir   I am holding the position<lb/> of a Butler in the employ<lb/> of Mr<hi rend="superscript">s</hi> <seg type="unclear">Flobell</seg> of the above<lb/> address and wish to<lb/> journey to Belfast for<lb/> two weeks holiday granted<lb/> me on June the 7<hi rend="superscript">th</hi>.   I am informed by the <lb/> Police that a certificate<lb/> of identification is needed<lb/> and to apply to you from the necessary paper.<lb/> Please send them<lb/> addressed to me as<lb/> above by return post.   Yours faithfully  James Hamilton<lb/>  To the Secretary of State<lb/> Foreign Office   Send usual<lb/> reply in the<lb/> assumption that<lb/> he is a British<lb/> suspect<lb/> 1/6/16 
+         </ab>
+      </body>
+   </text>
+</TEI>

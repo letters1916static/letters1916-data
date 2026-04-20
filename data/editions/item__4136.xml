@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4136">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Edward Carson to Sir Robert Ponsonby Staples, 10 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward Carson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Staples Papers, D1567-F-13-13-5</collection>
+                  <idno>https://letters1916.ie/item/4136</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0539">Edward Carson</persName>
+              <date>1915-12-10</date>
+              <placeName key="#letters1916_place-1325">5 Eaton Place, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Ponsonby Staples</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0389">Lissan House, Cookstown, Co. Tyrone, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1935</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4136_img_3510_1"  type="Letter"  url="a671b5517a67fae4a34bb85e74e3f0c4.jpg"/>
+      <graphic xml:id="L1916_4136_img_3510_2"  type="Envelope"  url="c2b2eff15b774e07ff9b8af90862edeb.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4136_img_3510_1"/>
+             TELEPHONE <lb/>2201 VICTORIA.   5. EATON PLACE. <lb/>S.W.    10th December 1915.   Dear Mr Staples,   In reply to your letter of the 7th, I have already been <lb/>informed by the War Office that there are no vacancies in the <lb/>Army Service Corps, for commissions. If your son will call <lb/>upon me when he is in Town I shall be pleased to see him.   Yours truly,   Edward Carson   R. Ponsonby Staples, Esq., <lb/>Lissan House, <lb/>Cookstown, <lb/>Co. Tyrone.  
+            <pb n="2" facs="L1916_4136_img_3510_2"/>
+            <lb/>Sir Edward Carson  R. Ponsonby Staples, Esq., <lb/>Lisan House <lb/>Cookestown <lb/>Co.Tyrone 
+         </ab>
+      </body>
+   </text>
+</TEI>

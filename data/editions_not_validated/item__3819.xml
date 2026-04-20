@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3819">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Basil Blackwood, secretary to Lord Wimbourne, to Matthew Nathan, 27 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Lord Basil Blackwood</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Basil Blackwood, secretary to Lord Wimbourne, to Matthew Nathan, under-secretary for Ireland, 27 February 1916. It concerns the sending of press cuttings to the Lord Lieutenant who had complained that they were not arriving sufficiently regularly. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI CSO RP/1916/3703/2</collection>
+                  <idno>https://letters1916.ie/item/3819</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0920">Lord Basil Blackwood</persName>
+              <date>1916-02-27</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Matthew Nathan, Under-Secretary for Ireland</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1917</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3819_img_320_1"  type="Letter"  url="3788d3439cdff5c0c6878e9a0c7416e5.jpg"/>
+      <graphic xml:id="L1916_3819_img_320_2"  type="Letter"  url="21303ee6ab69668210f5f9aea02ec47c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3819_img_320_1"/>
+             27.2.16   VICE REGAL LODGE. <lb/>DUBLIN.   Dear Sir Matthew   I didn't know Maitland had written <lb/>about the press cuttings. When I was in <lb/>London they were not forwarded to the <seg type="unclear">ExS</seg> <lb/>and I wired Maitland to post them <lb/>daily. I got back to Dublin on Wed: <lb/>morning. The same morning an envelope <lb/>arrived containing four or five files. I <lb/>thought they had perhaps been returned <lb/ from Wimborne House. I told Maitland to <lb/>look through them to verify this. He said
+            <pb n="2" facs="L1916_3819_img_320_2"/>
+            they <seg type="del">cannot</seg> could not  have come from London as <lb/>the previous days file was among them. <lb/>Having just arrived after four days absence <lb/>I had a number of other things to attend <lb/>to and did not examine the files myself, <lb/>but I opened the envelope and am sure <lb/>that there were more than the customary <lb/>two daily files (ordinary &amp; recruiting) but <lb/>whether besides these the envelope contained <lb/><sic>arears</sic> for 2 or  for  3 days I cannot say. <lb/>There was nothing on the envelope to <lb/> show where it came from but it <lb/>came by post.   The probable explanation is that the files <lb/><hi rend="underline">were</hi> returned from London. I will find out <lb/>if Maitland can shed any further light <lb/>on the matter when I see him tomorrow. <lb/>I have just come back from the North of <lb/>Ireland.   <sic>Yrs sinly</sic>   Basil Blackwood 
+         </ab>
+      </body>
+   </text>
+</TEI>

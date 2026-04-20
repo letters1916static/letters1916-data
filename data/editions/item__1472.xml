@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1472">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fr. John S. MacMahon, 3 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John S. MacMahon</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Fr. John S. MacMahon providing a character reference for Francis Smith. Included is a telegraph dated 8 May 1916. The telegraph, which is written on Dublin Metropolitan Police Telegraph paper, is from College Street Station and requests that Francis Smyth of 6 Albert Place be allowed access to his business Place 34 Upper Baggot Street. Francis Smith lived at 6 Albert Place with his parents and siblings at the time of the Easter Rising in 1916. Albert Place is not far from Mount Street Bridge, where a significant battle took place during Easter week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Private Collection</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/1472</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1475">John S. MacMahon</persName>
+              <date>1916-05-08</date>
+              <placeName key="#letters1916_place-0002">St. Andrew&#39;s, Westland Row, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1472_img_921_1"  type="Letter"  url="0bf97c0c53bab9be1c330a0bfa613a24.jpg"/>
+      <graphic xml:id="L1916_1472_img_921_2"  type="NULL"  url="d447e708056feb61b8381dee8cfb0fa5.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1472_img_921_1"/>
+                St. Andrew's.  Wesland Row,  Dublin    3rd May 1916    Kindly grant a Pass <lb/>to bearer Francis Smith <lb/>6 Albert Pl. He is a very <lb/>respectable journeyman. <seg type="closer"> John S. MacMahon  <lb/>c.c.</seg> 
+            <pb n="2" facs="L1916_1472_img_921_2"/>
+              <hi rend="underline">Dublin Metropolitan Police Telegraph.</hi>  8-5-1916    College  <lb/>From Police To Military   Please pass bearer <lb/>Francis Smyth <lb/>6 Albert Place to <lb/>his business place <lb/>34 upper Baggot St. <seg type="closer"> D. Ryan  <lb/>Sargt.</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

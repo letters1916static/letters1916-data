@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1414">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward H. Andrews to Lord Stamfordham, 5 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward H. Andrews</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Edward H. Andrews, honorary secretary of the Dublin Chamber of Commerce, to Arthur John Bigge (1849-1931), 1st Baron Stamfordham, private secretary to King George V (1865–1936). The letter enclosed a resolution passed by the Chamber of Commerce at a meeting that day. The resolution states that the chamber wish to express the &#39;loyalty of the Commercial community&#39; to the king, record their &#39;abhorrence&#39; at the Rising. They also blame the Irish administration for the Rising due to their &#39;unpardonable laxity&#39; and request that funds be supplied to compensate &#39;unoffending citizens&#39; whose property was destroyed.Arthur John Bigge, 1st Baron Stamfordham, was the private secretary to King George V. Bigge has served in the same position for Queen Victoria during the final years of her reign. Bigge exercised considerable influence over King George V and advised the change of family name from Saxe-Colburg-Gotha to Windsor.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5611</collection>
+                  <idno>https://letters1916.ie/item/1414</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1327">Edward H. Andrews</persName>
+              <date>1916-05-05</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Arthur Bigge</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1665">Buckingham Palace, London, United Kingdom</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1414_img_822_1"  type="Letter"  url="04f0a19c434ff770c120464d1d4911d4.jpg"/>
+      <graphic xml:id="L1916_1414_img_822_2"  type="Enclosure"  url="62abbcd44e92b0d37ff9b7f671dd0261.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1414_img_822_1"/>
+                Chamber of Commerce,   Dublin   5<hi rend="superscript">th</hi> of May 1916.   My Lord,   I beg most respectfully to enclose resolutions which <lb/> were passed unanimously to-day at a specially convened meeting <lb/> of the Council of the Dublin Chamber of Commerce and which I <lb/> have been instructed to forward to you as Private Secretary to <lb/> His Majesty the King. <seg type="closer"> I have the honour to be <lb/>Sir, <lb/>Your obedient Servant,  <hi rend="underline">Edward H.Andrews</hi> <lb/>Hon.Secretary.   The Rt.Hon.Lord Stamfordham, GCVO, KCB, KCWG.  Private Secretary to H.M. the King,  Buckingham Palace,  London.  </seg> 
+            <pb n="2" facs="L1916_1414_img_822_2"/>
+                Chamber of Commerce,  Dublin.    'The Council of the Dublin Chamber of Commerce at a Special <lb/> Meeting convened at the earliest possible opportunity <lb/> after the quelling by His Majesty's troops of the recent <lb/> disturbances hereby assure His Gracious Majesty of the <lb/> loyalty of the Commercial community to his person and his throne.  They also desire to record their abhorrence of the dreadful <lb/> scenes of murder, carnage and destruction resulting from <lb/> the action of a section of the community in the City.'  'The Council of the Dublin Chamber of Commerce desire to <lb/> place on record their considered opinion that the outbreaks <lb/> which have occurred in the Metropolis and throughout the <lb/> country would have been impossible but for the gross and <lb/> unpardonable laxity, long continued, of the administration <lb/> of the Irish Government.'  'In view of the foregoing the Council of the Dublin Chamber <lb/> are of the opinion that the funds necessary for <lb/> restoring the buildings and property of unoffending <lb/> citizens destroyed in the course of the rebellion should <lb/>be provided by the Imperial Treasury without delay.'  
+         </ab>
+      </body>
+   </text>
+</TEI>

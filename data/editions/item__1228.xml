@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1228">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from A. P. Lynch to Reginald H Brade, 18 April 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>A.P. Lynch</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from A.P. Lynch to Reginald H Brade (1864-1933). It refers to a letter of 14 April which Lynch submitted to the Attorney General for consideration. Lynch writes that the Attorney General is of the opinion that all future payments should be stopped to Mrs Burke, however, he does not advise a guilty prosecution of Mrs Butler because the evidence to date is not sufficient and requires further investigation. Mrs Burke had been overpaid for separation allowance, given as her husband was on active duty in the British army, and it was unclear if she was aware that she was being overpaid.Sir Reginald H Brade was the secretary of the War Office throughout the First World War. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI_CSO RP/1916/6852_4_6, NAI_CSO RP/1916/6852_4_6</collection>
+                  <idno>https://letters1916.ie/item/1228</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1507">A.P. Lynch</persName>
+              <date>1916-04-18</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">The Secretary, War Office, London</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0123">War Office, St. Martin's Place, London S.W.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1228_img_414_1"  type="Letter"  url="9dbed2f9116384a4d76c643682470525.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1228_img_414_1"/>
+                18th April 1916  <lb/>108/Engrs/1670. (W/Accounts 3).  Sir,   I duly received your letter of 14th instant which I submitted <lb/> for consideration of the Attorney General who is of opinion that <lb/> all further payments should be stopped but pending further investig- <lb/>ation he does not advise a prosecution as the evidence of guilty <lb/> knowledge on the part of Mrs Butler is not as yet sufficient.  I return you the papers for your information and if you <lb/> desire further enquiries to be made through the Police I shall <lb/>endeavour to do so. <seg type="closer"> I am, <lb/>Sir, <lb/>Your obedient servant,  A P Lynch <lb/><sic>accSol</sic>  The Secretary,  War Office,  London S.W.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

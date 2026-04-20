@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5699">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Malachy J. Kelly to James Brown, 23 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Malachy J. Kelly</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Malachy J. Kelly (1851-1916), Chief Crown Solicitor, to James Brown. It relates to the death and legacy of Elizabeth Hogg and requests a statement from Dr. McIvor.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3888</collection>
+                  <idno>https://letters1916.ie/item/5699</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1023">Malachy J. Kelly</persName>
+              <date>1916-03-23</date>
+              <placeName key="#letters1916_place-0913">Chief Secretary&#39;s Office, Dublin Castle, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0489">James Brown</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2047">Broad Street, Magherafelt, County Derry</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1916</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5699_img_802_1"  type="Letter"  url="ac269cf742857118d24f8ef4e77951f0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5699_img_802_1"/>
+              DUBLIN CASTLE    23rd March 1916 <lb/>Elizabeth Hogg decd.   Dear Sir,   I submitted your letter and copy affidavit of John Duff<lb/>to the Attorney General for his directions.     It appears by the affidavit that Dr McIvor was present when<lb/>the alleged delivery of the Deposit Receipt was made to Mr John<lb/>Duff.   As the validity of a <seg type="foreign">donatio mortis causa</seg> depends upon     what exactly took place at the time of the gift — &amp; the circumstances     under which it was made, The physical &amp; mental condition of the donor     &amp; whether she contemplated immediate death   The Attorney General would be glad to receive from Dr McIvor<lb/>a statement of what occurred on the occasion and <seg type="del">I have written to<lb/>him accordingly</seg>   I should be glad if you could get       one from him &amp; send it to me <seg type="del">  </seg> as soon as convenient.    Yours truly,    James Browne Esq    Solicitor,     Broad Street,<lb/>Magherafelt.  
+         </ab>
+      </body>
+   </text>
+</TEI>

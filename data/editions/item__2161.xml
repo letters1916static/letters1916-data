@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2161">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Telegram from Richard and Eulalia Berridge to  Lady Clonbrock, 18 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Richard Berridge</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The telegram was sent to congratulate Augusta Caroline Dillon (née Crofton), Lady Clonbrock (1840-1928), and her husband, Luke Gerald Dillon, 4th Baron Clonbrock (1834-1917), on the occasion of their golden wedding anniversary in July 1916. Lady Clonbrock was also a prominent member of the Irish Women&#39;s Association, founded to provide aid and assistance to Irish soldiers and prisoners of war. The telegram was sent by Dick and Enlalia Berridge. 
+
+Richard Berridge (1871-1941) was the owner of Ballynahinch Castle in Co. Galway. Moving up from  the position of High Sheriff Berridge served as Deputy Lieutenant in addition to fighting in the First World War as a Lieutenant with the Royal Naval Volunteer Reserves.
+
+Mary Eulalia Berridge, née Lesley, (1881-1957), was American born. In 1905 she married Richard Berridge and went on to serve as President of the Roundstone branch of the United Irishwomen. This organisation sought to assist men with agricultural pursuits in order to further the progress of rural economy.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No 54; Ms. 35,793 (9)</collection>
+                  <idno>https://letters1916.ie/item/2161</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0514">Richard Berridge</persName>
+              <date>1916-07-18</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lady Clonbrock (Augusta Caroline Dillon (née Crofton))</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0437">10 Cadogan Gardens, Chelsea, London</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="death">1941</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2161_img_161_1"  type="Letter"  url="97b364abe19ea13e88d923968d72a3e1.jpg"/>
+      <graphic xml:id="L1916_2161_img_161_2"  type="Envelope"  url="7f98869e5d70716830ac59217436bdf9.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2161_img_161_1"/>
+              Dublin T   <lb/>Handed in at} 6.0pm Received here at} 7.44pm  To Lady Clonbrock 10 Cadogan <sic>Gdns</sic> <lb/><sic>Ldn</sic> SW   Greetings and all good wishes <lb/>Dick and <hi rend="underline">Eulalia Berridge</hi> 
+            <pb n="2" facs="L1916_2161_img_161_2"/>
+            <hi rend="underline">TELEGRAM.</hi> <lb/><hi rend="underline">NO CHARGE FOR DELIVERY.</hi>  Berridge   Lady Clonbrock <lb/>10 <hi rend="underline">Cadogan Gdns</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

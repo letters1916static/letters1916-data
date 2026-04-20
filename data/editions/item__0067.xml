@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0067">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from George Gavan Duffy to P.S. O'Hegarty, 20 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>George Gavan Duffy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from George Gavan Duffy (1882-1951) to P.S. O&#39;Hegarty (1879-1955). Duffy had acted on behalf of Ernest Blythe (1889-1975) and advises O&#39;Hegarty that Blythe has been released, suggesting a payment of 10/- to cover out-of-pocket expenses. Patrick Sarsfield O&#39;Hegarty was an Irish writer, editor and historian and a former member of the Supreme Council of the Irish Republican Brotherhood. He worked in the Postal Service at a number of locations, including Welshpool, Wales. George Gavan Duffy (1882-1951) was an Irish politician, barrister and judge. He unsuccessfully defended Roger Casement at his trial for high treason after the Easter Rising. Ernest Blythe (1889-1975) was an organiser for the Irish Volunteers. He had been arrested under the Defence of the Realm Act. He was released from prison in England before the Easter Rising but was rearrested there during Easter week 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, George Gavan Duffy Collection, BMH CD/45/3/11/4</collection>
+                  <idno>https://letters1916.ie/item/67</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0467">George Gavan Duffy</persName>
+              <date>1916-04-20</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0784">P.S. O&#39;Hegarty</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1951</item>
+               <item n="topic">Law and Judiciary</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0067_img_1135_1"  type="Letter"  url="2b785be289756b1423ecfcc9057ef900.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0067_img_1135_1"/>
+                20th April 1916    P. S. O'Hegarty, Esq.   My dear O'Hegarty:â   You will be glad to hear that Ernest Blythe has<lb/> been released. I think he was entitled to an acquittal on<lb/> highly technical grounds and the Court compromised by<lb/> deciding that the charge was proved but that they would<lb/> release him without further penalty.  You may send 10/â towards the outâofâpocket<lb/> expenses if you feel inclined to. <seg type="closer"> Yours sincerely,  G. Gavan Duffy .<lb/></seg> <hi rend="underline">10/â paid</hi>  
+         </ab>
+      </body>
+   </text>
+</TEI>

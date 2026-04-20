@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0036">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Crawford Anderson to William O'Brien, 28 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Crawford Anderson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from William Crawford Anderson (1877-1919), politician, to William O&#39;Brien (1881-1968), labour leader and trade union official. This letter refers to O&#39;Brien&#39;s attempts to secure the release from prison of two labour activists who had been active during the Rising, Helena Malony, who was part of the garrison in City Hall, and Winifred Carney, who acted as secretary to James Connolly in the GPO. Anderson writes that he will put O&#39;Brien&#39;s question to the Home Secretary, Herbert Samuel. Enclosed is a copy of the question posed to the House of Commons by Anderson, extracts from the debate that followed and Samuel&#39;s reply. William Crawford Anderson was a member of the Independent Labour Party, MP for Sheffield and one of the most influential speakers on pacifist opposition and social issues during the Great War. William O&#39;Brien was a member of the executive of the Irish Transport and General Workers&#39; Union and the executive of the Dublin Trades Council and the Irish Trade Union Congress. O&#39;Brien did not take part in the Easter Rising but was part of the planning and was arrested and imprisoned for a short period after the Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Helena Malony Collection, BMH CD/119/1/3(a)</collection>
+                  <idno>https://letters1916.ie/item/36</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1321">William Crawford Anderson</persName>
+              <date>1916-10-28</date>
+              <placeName key="#letters1916_place-1576">7 Mecklenburgh Square, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1436">William O&#39;Brien</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0406">Trades Hall, Capel Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0036_img_1068_1"  type="Letter"  url="988303aff682863288b8c140154800bd.jpg"/>
+      <graphic xml:id="L1916_0036_img_1068_2"  type="Enclosure"  url="18b6042310163b414e519f8255205c26.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0036_img_1068_1"/>
+                7, Mecklenburgh Square,  London, W.C.     28th. October 1916.     Mr. W. O'Brien,  Dublin United Trade Council and Labour League,  Trades Hall,  Capel Street,  Dublin.   Dear Mr. O'Brien,   I have received your letter and am putting a <lb/>question to the Home Secretary regarding the continued <lb/> custody of Miss Molony and Miss Carney. I will let you <lb/>know the reply in due course.  <seg type="closer"> With all good wishes, <lb/>Yours faithfully, <lb/> <hi rend="underline">W.C. Anderson</hi> </seg> 
+            <pb n="2" facs="L1916_0036_img_1068_2"/>
+              17. Mr.Anderson, --- To ask the Secretary of State for the Home Department, whether, <lb/> of the number of women arrested in connection with the recent insurrections in <lb/> Dublin, only two are now in custody, both Miss Molony and Miss Carney being <lb/> trade union officials; and whether he can now see his way to grant the release <lb/> of these two ladies.  <hi rend="underline">Mr. Herbert Samuel.</hi>  The answer to the first part of the <lb/> Question is in the affirmative. With regard <lb/> to the second part, I would refer the honourable <lb/>Member to the written answer which I gave to the <lb/> honourable Member for North Westmeath on the 31st <lb/>October in reply to a similar Question; but I may <lb/> add that Miss Carney may be released shortly if <lb/> she gives the usual undertaking and finds sureties for her good contact.  <hi rend="underline">Parliamentary Debate 31 Oct. 1916</hi>  Mr. GINNELL asked the Home Secre- <lb/> tary whether the fact was brought under <lb/>the notice of the Advisory Committee in <lb/>the case of Miss Kearney, one of the un- <lb/> tried Irish prisoners at Aylesbury, that <lb/>her work during the week of the insurrec- <lb/>tion was precisely a continuation of the <lb/> civil and legitimate work in which she had <lb/>been previously engaged, adn that under <lb/>contract and trades union rules she had no <lb/> option but to continue it; whether she is <lb/>the only woman trades unionist among <lb/>the Irish prisoners; if she is kept in prison <lb/> on any charge but that of being a trades <lb/>unionist will he have her tried by a judge <lb/>and jury; and, if there be no other charge, <lb/> will he have her released?   Mr. SAMUEL: Winifred Carney was in <lb/>terned upon the recommendation of a <lb/> competent military authority on the ground <lb/>that she is of hostile associations and <lb/> reasonably suspected of having favoured <lb/>promoted or assisted an armed insurrec <lb/> tion against His Majesty. She had a full <lb/>opportunity of stating her case before the <lb/> Advisory Committee, who recommended <lb/>her continued detention in the interests <lb/>of the public safety. I am informed that <lb/> both she and Miss Helena Moloney are <lb/>trade union officials, but I need hardly <lb/>say that the fact that she was a trade <lb/> unionist had nothing to do with her <lb/>internment. I regret that she cannot be <lb/>released at present.  
+         </ab>
+      </body>
+   </text>
+</TEI>

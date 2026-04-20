@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2317">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Hugh Montgomery to Monteagle, 19 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Hugh Montgomery</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter from Hugh Montgomery (1844-1924) to Monteagle contests the idea of of Home Rule. Hugh Montgomery can not agree to the idea of the six counties reuniting. The second paragraph comments on Edward Carson and how his thoughts push towards the impossibility and non logical idea of Home Rule.
+
+Edward Carson (1854 - 1924) was an Irish Unionist politician. He was leader of the Irish Unionist Alliance and Ulster Unionist Party. He also held position in the British parliament. 
+
+Only the first folio of the letter is known.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>D-627-429-66</collection>
+                  <idno>https://letters1916.ie/item/2317</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0645">Hugh Montgomery</persName>
+              <date>1916-09-19</date>
+              <placeName key="#letters1916_place-0420">Blessingbourne, Fivemiletown, Tyrone, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Monteagle</persName>
+              <date></date>
+              <placeName >None</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1924</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2317_img_1764_1"  type="Letter"  url="e623b247dc3b9fec0abf32e85af0226c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2317_img_1764_1"/>
+            <hi rend="underline">Private</hi> <lb/>Copy   BLESSINGBOURNE, <lb/> FIVEMILETON.   19th Sept. 1916.   My dear Monteagle,   As it appears impossible to replace the present Government by <lb/> a better one, it is necessary, as a War measure, for us to acquiesce <lb/> in their policy of keeping this country as quiet as they can till <lb/> the war is over. For that reason I hold it to be impossible for <lb/> an Ulster Unionist to make a public answer to your public letter; <lb/> but for your private information I should like to say that I think <lb/> I represent the bulk of opinion here when I say that we think Home <lb/> Rule for any part of Ireland a bad thing, and will do nothing whatever <lb/> to try and make it a success. I think the words of the Resolution <lb/> of the Ulster Unionist Council authorising Carson enter upon <lb/> negotiations upon the bases of the exclusion of six counties made <lb/> this clear.     In the course of Edward Carson's very able manoeuvres for position <lb/> he, no doubt, used words that made it appear that he thought Ulster <lb/> might be won, though she could not be coerced, to submit to Home Rule. <lb/> I believe this is mere eye-wash, and cannot conceive that he thinks <lb/> anything of the sort. My belief is that if the Home Rule Act is on <lb/> the Statute Book it can never be brought into operation; the difficulties <lb/> financial and other are too great. If it be in any shape brought into <lb/> operation I believe it will break down at once, and that the effect <lb/> of the exclusion of Ulster, if, as I hope, it can be maintained, would <lb/> be that the six counties being practically English counties would <lb/> flourish and prosper as they have under the Union, and that the
+         </ab>
+      </body>
+   </text>
+</TEI>

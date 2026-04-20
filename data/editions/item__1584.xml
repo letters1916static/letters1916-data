@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1584">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Lawrence Brown to his sister Margaret Brown, 19 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Lawrence Brown</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Lawrence Brown wrote this letter while on board the HMS Defence. He wrote to his sister Margaret Brown, who at the time was living at the Viceregal Lodge, the official residence of the lord lieutentant of Ireland (Lord Wimborne in 1915) in the Phoenix Park, Dublin. 
+Lawrence was a gunner in the Royal Marine Artillery. On 31 May 1916 the HMS Defence was sunk during the Battle of Jutland, the largest naval battle of the Great War, and Lawrence was killed. His body was never recovered.
+In the letter, Laurence makes no reference to the war except to say that there is &#39;always a lot of noise&#39; on the ship. He refers to his family, mentions that he has a cold and says that he will write to another sister.
+Attached is a photograph of Lawrence Brown.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Lawrence Scott</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/1584</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1210">Lawrence Brown</persName>
+              <date>1915-11-19</date>
+              <placeName key="#letters1916_place-1562">HMS Defence</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Margaret Browne</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0071">Phoenix Park, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1916</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1584_img_1050_1"  type="Letter"  url="be1e4656056ee5917c4c8a85fcbaef5b.jpg"/>
+      <graphic xml:id="L1916_1584_img_1050_2"  type="Letter"  url="3a1544e334d76fab6b0e319a1e3f3177.jpg"/>
+      <graphic xml:id="L1916_1584_img_1050_3"  type="Photograph"  url="2970278f510a09f8b27c83dad7754494.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1584_img_1050_1"/>
+             H.M.S. Defence, <lb/>c/o G.P.O. London   19<hi rend="superscript">th</hi> Nov. 1915   My Dearest Sister,   Just a few lines in answer to your letter <lb/> which I received on today (Friday) so glad to see by <lb/> same that you are quite well as this leaves me with a <lb/> bad cold again of course one cannot help having colds <lb/> this weather. Well I have no more photos like the <lb/> one I sent home to you only one taken with my chum <lb/> here. The best thing to do is to have <seg type="del">the</seg> them out <lb/> as you will be always troubled with them. I will <lb/> write to Ester on Sunday so glad to hear that she <lb/> is keeping quite well. So you are having a rough <lb/> time of it at home. I thought here was the only <lb/> place for storms see you had a big storm at home <lb/> there plenty of fine wood not now for a while.    I am sorry to see that mother has a cold she <lb/> must take care of herself this weather
+            <pb n="2" facs="L1916_1584_img_1050_2"/>
+            I will write to Sister Francis on Sunday when I have <lb/> time to myself of course there is always a lot of noise <lb/>so you cannot write so well. Well dear sister I am <lb/>glad to see that Nell and Mary are well also dad <lb/> so conclude for now hoping to hear from you soon <lb/>again.    I remain your loving <lb/> Brother   Lawrence  <lb/>XXXX
+            <pb n="3" facs="L1916_1584_img_1050_3"/>
+            <!-- Photograph of a young man in uniform of Royal Marine Artillery (gunners on board ships), identified by his collar badges. -->
+         </ab>
+      </body>
+   </text>
+</TEI>

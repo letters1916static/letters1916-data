@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1230">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Hugh Crawford Cochrane to sir Matthew Nathan, 17 December 1915 </title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Hugh C. Cochrane</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Hugh C. Cochrane (1874-1943), on behalf of the High-Sheriff for Donegal, to Under-Secretary for Ireland, Sir Matthew Nathan (1862-1939). The letter refers to the reimbursement of the allowance paid by the High Sheriff to his Under Sheriff every six months.Hugh Crawford Cochrane was Under Sheriff of County Donegal. He lived at Lifford, County Donegal, Ireland.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>CSO RP/1916/5596/164/11, CSO RP/1916/5596/164/11</collection>
+                  <idno>https://letters1916.ie/item/1230</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0344">Hugh C. Cochrane</persName>
+              <date>1915-12-17</date>
+              <placeName key="#letters1916_place-0352">Lifford, Co. Donegal, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1230_img_417_1"  type="Letter"  url="12dd5302c26433f36fd8feed5b5a53b1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1230_img_417_1"/>
+                Sheriff's Office,  Lifford,  Co. Donegal.    17th December 1915.  <hi rend="underline">1/ENCL.</hi> Sir,   I am directed by Colonal J. A. L. Montgomery, <lb/>High Sheriff, to send you the enclosed voucher <lb/>for the second moiety of allowance payable to <lb/>him towards salary of the Under Sheriff, amount- <lb/>int to ÃÂ£50. <seg type="closer"> I am, <lb/>Sir, <lb/>Yours faithfully,  Hugh C. Cochrane.   The Under Secretary,  Dublin Castle,  <hi rend="underline">Dublin</hi>.  </seg> Payment <lb/>ordered <lb/>31/12  
+         </ab>
+      </body>
+   </text>
+</TEI>

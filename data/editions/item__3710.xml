@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3710">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from M. McCoy to Hanna Sheehy Skeffington, 13 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M. McCoy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>In this letter from M. McCoy to Hanna Sheehy Skeffington, M. writes to convey their sympathy regarding the murder of Hanna&#39;s husband, Francis.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy-Skeffington Papers, Collection List No.47; MS 33,605/2-19</collection>
+                  <idno>https://letters1916.ie/item/3710</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0095">M. McCoy</persName>
+              <date>1916-05-13</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3710_img_3100_1"  type="Letter"  url="97b0949d187256a2ed9468b153b7d51f.jpg"/>
+      <graphic xml:id="L1916_3710_img_3100_2"  type="Letter"  url="d68b3988d627dca4151decc2f8621d68.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3710_img_3100_1"/>
+             Ballyhahill<lb/> May 13th 1916 <lb/> My dearest Hanna,   Accept my<lb/>most sincere sympathy<lb/>in your great trouble  We all are truly sorry<lb/>for your dear<lb/>husband, he certainly<lb/>was a brave man 
+            <pb n="2" facs="L1916_3710_img_3100_2"/>
+             Maggie, Dick &amp; Willie<lb/>join me in sending<lb/>youheartfelt sympathy.    Believe me dear Hanna<lb/>Yours affectionally <lb/> M. McCoy 
+         </ab>
+      </body>
+   </text>
+</TEI>

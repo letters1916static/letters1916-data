@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1265">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Roger Casement, 26 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Roger Casement</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is a facsimile copy of a letter written by Sir Roger Casement (1864-1916). By the time this letter was written, Casement had been marginalized by the Rising&#39;s planners and his relations with the Germans had become strained as he felt they were not willing to offer enough assistance. In the letter, he complains that he is in a &#39;dreadful situation&#39;. If he goes (presumably to Ireland) he would end up as a convict, a fate worse than death&#39;, but if he stays he would be considered a coward. By the end of the letter, he suggests that the only way out is &#39;death&#39;, reflected of his often depressed state at this time.He spent eighteen months in Germany, arriving first as an envoy of Irish-American leaders, attempting to encourage Germany to support Irish separatist aspirations by providing arms. Casement succeeded in securing limited German support but his attempt to form a brigade of Irish soldiers in German prisoner of war camps to fight against Britain was largely unsuccessful. Casement had returned to Ireland with the hope of preventing the Rising but was arrested after he landed in Kerry on the eve of the Easter Rising. He was hanged in London in August 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Mrs Erskine Childers Collection, CD 6/2/14</collection>
+                  <idno>https://letters1916.ie/item/1265</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1253">Roger Casement</persName>
+              <date>1916-03-26</date>
+              <placeName key="#letters1916_place-2060">Munich, Germany</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1265_img_454_1"  type="Letter"  url="e7951337fd1522fc71a6a4bbc198241b.jpg"/>
+      <graphic xml:id="L1916_1265_img_454_2"  type="Letter"  url="d7399a27fd7ac77bccd7fce7c83c9af2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1265_img_454_1"/>
+              Sunday morning <lb/>with the Dorm <lb/><hi rend="underline">bells ringing!</hi>    Munich,    <hi rend="underline">26 March 1916</hi>    It is the most hopeless position a <lb/> man was ever in â I cannot conceive a <lb/> more dreadful situation. To go I go <lb/> to far worse than death â death with <lb/> the cause of Ireland to sustain me   <lb/>a joyful ending â but I go to a <lb/> sham trial to be wounded in my <lb/> honour â to be defamed &amp; degraded <lb/> with no chance of defence probably <lb/> &amp; then to a term of convict <lb/> imprisonment that will end my  
+            <pb n="2" facs="L1916_1265_img_454_2"/>
+              <lb/>days in jail â a convict. For I <lb/> should not long support the indignities &amp; <lb/> miseries I should be exposed to.   If I do not go â &amp; I should be amply <lb/> justified in stamping on the whole thing â <lb/>I shall be charged with wrecking the hopes of my <lb/> people in Ireland, just when they needed help <lb/> â or if I send the guns &amp; the handful of men to <lb/> .. ... ... . .... &amp; stay here in safety â then I incur <lb/> the contempt of all men as a coward who <lb/>  others to their doom &amp; skulked in safety.   It is the most dreadful fate to overtake a man <lb/> I suppose there is possibly to conceive.   The only possible   with any hope at all is  . To be killed at once â to perish in the attempt.  <seg type="closer"> R.C.  26. Mch 1916. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

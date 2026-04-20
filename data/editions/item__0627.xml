@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0627">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Major Terence Duffin to Auntie B.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Terrence Duffin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Terence &#39;Terry&#39; Duffin to his aunt, B. Terence writes of family matters and describes the boredom and monotony of trench warfare. Terence describes the lush green countryside, noting that but for the sound of guns (which never ceases) &#39;you could scarcely imagine a war going on...&#39; He closes with hopes of getting leave in three weeks time.This letter is part of a rich correspondence between various members of the Duffin family, a large prosperous family living in Strandtown, Belfast. Several family members served in the war, including Major Terence Duffin, who served as a staff officer with 107 Brigade, and later with Royal Irish Rifles; Major Charles G Duffin MC, Royal Field Artillery; and their sisters Emma, Celia and Dorothy who served as Voluntary Aid Detachments (VADS) in Egypt and France, and with the YMCA.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Duffin Papers, D2109/10/1/B</collection>
+                  <idno>https://letters1916.ie/item/627</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0936">Terrence Duffin</persName>
+              <date>1916</date>
+              <placeName key="#letters1916_place-0220">Brigade Headquarters, 107th Brigade, British Expeditionary Force</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Auntie B</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0627_img_2069_1"  type="Letter"  url="c2950200692ceebd909f1d5023adfd7c.jpg"/>
+      <graphic xml:id="L1916_0627_img_2069_2"  type="Letter"  url="890d931c5cd679c4ad04dbd4070d5730.jpg"/>
+      <graphic xml:id="L1916_0627_img_2069_3"  type="Letter"  url="caddad71b8f6674662b20af86c97deca.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0627_img_2069_1"/>
+               D2109/10/1/B.     Hd. Qrs. 107 Bde.  B. E. F.   My dear Auntie B.   Thank you so much for your <lb/> letter and also the box of shamrock <lb/> which reaches me safely. I still <lb/> owe Aunt Ellie a letter. Which adds <lb/> another to my long list of correspondence <lb/> debts which I fear I shall never be <lb/> able to pay off as long as this war lasts!   I hope all who are good enough <lb/> to write realise that letters are ever <lb/>  
+            <pb n="2" facs="L1916_0627_img_2069_2"/>
+              welcome, even though I am too busy <lb/> or too lazy, whichever way you like to <lb/> look at it, to reply to them all.   I am truly sorry for poor Charlie <lb/> and Marjorie, he out here and she <lb/> with her home broken up â I do hope <lb/> he will be sent back to England for a <lb/> bit. Aunt Margaret was certainly <lb/> one of the very best and most kindhearted <lb/> of women. I don't suppose she <lb/> had an enemy in the world. Everybody <cb/> who knew her like here. She was the <lb/> kindest of friends to all of us at <lb/> Dunowen.   I have but little news to tell you â <lb/> one day is like another â I really <lb/> think monotony is one the worst <lb/> features of the war.   We have had a spell of the <lb/> most lovely Spring weather. I was <lb/> up in the trenches this afternoon and <lb/> but for the noise of guns which hardly  
+            <pb n="3" facs="L1916_0627_img_2069_3"/>
+              <lb/>ever ceases, you could scarcely imagine <lb/>a war was going on â every thing just <lb/>starting to turn green and quantities <lb/>of partridge running about in the <lb/>sun, though only about 300 yards from <lb/>the German trenches!   I have hopes of getting home on <lb/>leave again in about three weeks.  <seg type="closer"> Very best love to all at Strandtown <lb/>Ever your affectionate   Jerry </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

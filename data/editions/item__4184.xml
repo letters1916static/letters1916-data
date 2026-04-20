@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4184">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Samuel Shaw to Martha Shaw, 12 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Samuel Shaw</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Samuel Shaw to his mother, Martha Shaw, regarding his life at the front. Samuel writes that his brother William, serving on the H.M.S. Excellent, should be home for Christmas but that he probably won&#39;t get a few days leave until spring. 
+
+Patrick Carey (1853-1934) was the Union Clerk for the Killarney Poor Law Board of Guardians. Poor law unions and their workhouses were established by the Poor Law (Ireland) Act, 1838, as a response to widespread poverty, and were each governed by a Board of Guardians. This letter comes from the Killarney Poor Law Board of Guardians Minute Book.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland </repository>
+                  <collection>Shaw Papers, D1962-7</collection>
+                  <idno>https://letters1916.ie/item/4184</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0493">Samuel Shaw</persName>
+              <date>1915-12-12</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Martha Shaw</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1967</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4184_img_3557_1"  type="Letter"  url="5b32d134ae1d7cab12849ac01cc6af07.jpg"/>
+      <graphic xml:id="L1916_4184_img_3557_2"  type="Letter"  url="749ee815eb938d5a8903a819499fa98d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4184_img_3557_1"/>
+             Same Address   12/12/15   My Dear <lb/>Mother   Just a few lines to <lb/>let you know I am well. I had <lb/>a letter from <seg type="unclear">trina</seg> &amp; she said that <lb/>Wilke might be home for Christ— <lb/>mas, she wanted me to send <lb/>her a card but we can't get any <lb/>now. I will likely be home <lb/>for a few days in the spring <lb/>and I will get some &amp; take <lb/>them home with me. I got <lb/>a parcel of socks, mittens &amp; <lb/>a muffler from the Girls Guild.   Don't believe any rumours a— <lb/>bout us being home for Christ. <lb/>mas or the New Year because <lb/>we'll not. I've got the boys <lb/>address &amp; I am going to write
+            <pb n="2" facs="L1916_4184_img_3557_2"/>
+            to Bill. I hope the fishing <lb/>is improving, h;as Andy M<hi rend="underline">c</hi> <lb/><seg type="unclear">Kergan</seg> &amp; the son been home <lb/>since they enlisted. aI believe <lb/>Sergt. Somers got a few recruits <lb/>in the town including one of <lb/>the Reed's. I think this is <lb/>all at present. With love to <lb/>all   I remain <lb/>Your Loving Son   <hi rend="underline">Sammie.</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

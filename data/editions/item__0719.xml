@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0719">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Lady Anne Lambton to Lady Londondery, 5 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Anne Lambton</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Lady Anne Lambton (1870 - 1922) to Lady Londonderry (1856 - 1919). This letter concerns the collection of garments at the depot. Lady Lambton states that they are short of hands presently and writes about an appeal for Christmas dinners. This letter is part of a series of correspondence belonging to Lady Londonderry, the wife of Charles Stewart Vane-Tempest-Stewart (1852-1915), sixth marquess of Londonderry. Lady Londonderry was appointed colonel-in-chief of the Women&#39;s Volunteer Reserve also an active figure in British politics. Her correspondence includes many important figures in literature, the arts, the military, law and the church.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Lady Londonderry Papers D2846/2/21/49A, Lady Londonderry Papers D2846/2/21/49A</collection>
+                  <idno>https://letters1916.ie/item/719</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1062">Anne Lambton</persName>
+              <date>1915-11-05</date>
+              <placeName key="#letters1916_place-0445">Lambton Castle, Fence Houses, County Durham, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Theresa Vane-Tempest Stewart</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0719_img_2223_1"  type="Letter"  url="5e90f13e32f08473c546c0443019fd85.jpg"/>
+      <graphic xml:id="L1916_0719_img_2223_2"  type="Letter"  url="3313d24556847392195bee5d4f69ed76.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0719_img_2223_1"/>
+             <hi rend="underline">Ldy Anne Londonderry</hi>    Lambton Castle  Fence Houses    5 Nov 1915   My dear Lady Londonderry   I am very<lb/>sorry we have no garments<lb/>to spare from the Depot<lb/>You will see from the<lb/>enclosed lists the appeals<lb/>we have had from our<lb/>Durham L D &amp; all those<lb/>now at the front are<lb/>in communication with 
+            <pb n="2" facs="L1916_0719_img_2223_2"/>
+              <lb/>the secretary of the Depot so <lb/>we have our hands pretty <lb/>full  About Xmas dinners Jack <lb/>thinks there are already <lb/>too many separate funds <lb/>newspapers &amp; others I <lb/>have seen an appeal from <lb/>the Mayoress of Sunderland <lb/>for the 7<hi rend="superscript">th</hi> D L I another <lb/>appeal for the 13<hi rend="superscript">th</hi><lb/>already. <cb/> Billy told us there was a <lb/>terrible waste of stuff of <lb/>every sort last Xmas so its <lb/>difficult to know what <lb/>to do  Do come over &amp; see us <lb/>someday we shall be so <lb/>glad to see you. Just <lb/>telephone in the morning <lb/>as Jack is so often away <lb/>on some committee <seg type="closer"> Yours <seg type="unclear">affec</seg>  Anne Lambton </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

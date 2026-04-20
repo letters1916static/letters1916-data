@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1614">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">A Postcard from Marie Martin to Miss Martin, 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Marie Martin </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a postcard from Marie Helena Martin (1892-1975) to Miss Martin in Dublin. Marie Martin, later known as &#39;Mother Mary&#39;, was a volunteer nurse during the First World War. She served in field hospitals in Malta, Leeds, and France working for the British army and later went on to become the founder of the Medical Missionaries of Mary (MMM). This postcard shows Maries place of work and Marie was simply letting the recipient know she was safe.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Medical Missionaries of Mary</repository>
+                  <collection>BF117</collection>
+                  <idno>https://letters1916.ie/item/1614</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0238">Marie Martin </persName>
+              <date>1915</date>
+              <placeName key="#letters1916_place-1504">St. George&#39;s Hospital, Malta</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Miss Martin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0990">Greenbank, Monkstown, Dublin, Co. Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="death">1975</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1614_img_1078_1"  type="Letter"  url="4ee35715d2cf9430841d754cc8d41bbc.jpg"/>
+      <graphic xml:id="L1916_1614_img_1078_2"  type="Letter"  url="fd94e6c68440600d862df4d537c37634.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1614_img_1078_1"/>
+             Miss <seg type="unclear">E.</seg> Martin,   Greenbank <lb/>Monkstown, <lb/> Co Dublin <lb/><hi rend="underline">Ireland</hi>   This is just a view <lb/>of the orderly Room <lb/>of St.Georges. Hope this <lb/>will find you all <lb/>very well. I am <lb/>splendid &amp; in good <lb/>form. Came straight <lb/>to bed when I came <lb/>off duty this evening <lb/>so as to be able to get <lb/>a few letters written.   Very best love to all   Marie 
+            <pb n="2" facs="L1916_1614_img_1078_2"/>
+            <!-- Postcard image of St. Georges' -->
+         </ab>
+      </body>
+   </text>
+</TEI>

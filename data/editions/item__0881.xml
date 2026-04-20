@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0881">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Henry A Robinson to Thomas Nally, 6 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Henry A. Robinson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Sir Henry Augustus Robinson (1857-1927) to Thomas Nally (1869-1932). Robinson writes to apologise for having kept Nally&#39;s play, the Spancel of Death, for so long. Robinson hopes that Nally&#39;s play will be printed.Sir Henry Augustus Robinson was an Irish public servant. He was primarily responsible for the drafting and implementation of the local government act of 1898, and shortly before the bill became law was appointed vice-president of the Local Government Board. Thomas Nally was an Irish playwright and colleague of WB Yeats. His work, the Spancel of Death, was due to open on Easter Tuesday 1916, the play was cancelled due to the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Thomas Nally Papers, MS 36,213/4</collection>
+                  <idno>https://letters1916.ie/item/881</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1440">Henry A. Robinson</persName>
+              <date>1916-04-06</date>
+              <placeName key="#letters1916_place-1501">Local Government Board, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1110">Thomas Nally</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0881_img_245_1"  type="Letter"  url="de53b380420f059c2ef9347509b53322.jpg"/>
+      <graphic xml:id="L1916_0881_img_245_2"  type="Letter"  url="ae45ba61c488a841a2613d22b447c590.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0881_img_245_1"/>
+                Local Government Board. Dublin    6/4 16   Dear Mr. Nally   I return the<lb/> play with many<lb/> apologies for having<lb/> kept it so long. But<lb/> I wanted to read<lb/> it again &amp; was<lb/> more impressed<lb/> than ever with it.  I hope it will<lb/> be printed as my<lb/> wife is most<lb/> anxious that her  
+            <pb n="2" facs="L1916_0881_img_245_2"/>
+              sister Mrs <seg type="unclear">Hardeage</seg><lb/> who lives in<lb/> Oxford &amp; who has<lb/> always been much<lb/> interested in the legend<lb/> of Sir Harry of<lb/> 1750 sh<hi rend="superscript"><hi rend="underline">d</hi></hi> read it. <seg type="closer"> yrs &amp; <seg type="unclear">my</seg>  H.A. Robinson </seg>  It is a fine<lb/> curtain, that in<lb/> Act III where<lb/> the curtain falls<cb/><lb/>past as the coffin<lb/> crashes at the door.   
+         </ab>
+      </body>
+   </text>
+</TEI>

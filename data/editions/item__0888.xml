@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0888">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Flo Clancy to Cissie Waldron, 1 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Flo Clancy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Florence Mary Winifred (Flo) Clancy (1884-1958) lived all her life in the same house in Kilrush on the street generally known as Moore Street, but later renamed briefly Clancy Street, in honour of her first cousin Peadar Clancy (1888-1920). Mary Ann (Cissie) Waldron née McNamara (1884-1966), whose mother was a Clancy, was supposedly distantly related to her great friend, but they were unable to document the relationship. By the time this letter was written, Cissie was pregnant with her third child, born on 5 February 1917 and named Patrick Henry Pearse Waldron (1917-2008). Flo&#39;s brother William Joseph Clancy (1879-1918) had emigrated first to Rhodesia and then to Argentina, but volunteered for active service in October 1914, and returned to England, where he joined King Edward&#39;s Horse, subsequently transferring to the Liverpool Scottish. He died of meningitis on 16 October 1918, while still on active service. Another brother, Henry Sylvester Clancy (1883-1942) had settled in Belfast, to which reference is made in the letter. Jack Waldron (1884-1958), Cissie&#39;s husband, is also mentioned, as is Cissie&#39;s sister Lil Waldron (1886-1973), who was married to Jack&#39;s brother. I have not yet identifed Fr. Moloney, the Colemans or A. Daly who are also mentioned.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Waldron Family</repository>
+                  <collection>Private, NULL</collection>
+                  <idno>https://letters1916.ie/item/888</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0646">Flo Clancy</persName>
+              <date>1916-07-01T00:00:00</date>
+              <placeName key="#letters1916_place-1185">Kilrush, County Clare, Ireland </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Cissie Waldron</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0480">4 Perona Esplanade, Military Road, Limerick, Ireland </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0888_img_2457_1"  type="Letter"  url="417fc5f8dd99a0563c306b23b04f12df.jpg"/>
+      <graphic xml:id="L1916_0888_img_2457_2"  type="Letter"  url="85b579e5ce7ca80cc2fee3b594c602ce.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0888_img_2457_1"/>
+              (Sat)   My dear Cissie   Hope you are all quite well. <lb/>I am doing the invalid yet getting up at <lb/>12 oc. &amp; sitting all day long. I felt very <lb/>weak when I arrived home I had a big <lb/>crowd to meet me &amp; mother was sorry I did <lb/>not stay longer in the home or go to Belfast. <lb/>I can't walk yet isn't  it  taking a long time. <lb/>I do hope I will get alright.  Tell Jack Sin Feinn badges are selling on the <lb/>streets here &amp; F<hi rend="superscript">r</hi> Moloney is having a collection <lb/>tomorrow. I travelled with an Inspector of <lb/>Nat. Schools (Coleman). His brother got 3 years <lb/>&amp; he read a part of his letter for me &amp; he says <lb/>the food wasn't fit for dogs.  We have A. Daly yet. She is a great Cod. <lb/>Goodbye &amp; best love to all. I was <lb/>telling the lovely home Lil has got. <seg type="closer"> From your fond friend  Flo </seg> 
+            <pb n="2" facs="L1916_0888_img_2457_2"/>
+                Mrs Jack Waldron  4 Perona Esplanade  Military Road  Limerick    
+         </ab>
+      </body>
+   </text>
+</TEI>

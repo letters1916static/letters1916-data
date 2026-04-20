@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5920">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Telegram from Basil Home Thomson, the Assistant Commissioner of Police, to Sir Neville Chamberlain, 8 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Basil Home Thomson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A telegram from the Assistant Commissioner to Inspector General Royal Irish Constabulary Sir Neville Francis Fitzgerald Chamberlain (1856-1944). The Assistant Commissioner is asking Chamberlain to take the necessary steps to monitor any post sent by Patrick Hastings, an inmate of Killadysert Workhouse. The request comes after Hastings sent several letters, described as &#39;insane&#39; in nature, to the King.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/6322/2</collection>
+                  <idno>https://letters1916.ie/item/5920</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0196">Basil Home Thomson</persName>
+              <date>1916-04-08</date>
+              <placeName key="#letters1916_place-0554">London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Neville Chamberlain</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5920_img_1410_1"  type="Letter"  url="8e44c93d31ae7049eda63771b6729419.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5920_img_1410_1"/>
+               1.32 PARLIAMENT ST 20  <sic>INSPR</sic> GENERAL ROYAL IRISH <sic>CONSTY</sic> DUBLIN CASTLE     My letter, 7th ulto. Your 21045,<lb/>Patrick Hastings continues address<lb/>letters to king. It is requested that<lb/>you kindly give directions to<lb/>stop this annoyance. Please wire<lb/>reply, ASSISTANT COMMISSIONER   C I D NEW<lb/>, Scotland Yard.<lb/>Wired to C.I.D<lb/>Will receive immediate<lb/>attention as soon as case can<lb/>be traced.8/4    Added 'Please send<lb/>further particulars'   21045 Sort no.<lb/>For of 7th March was<lb/>addressed to Under <sic>Secy</sic>.  
+         </ab>
+      </body>
+   </text>
+</TEI>

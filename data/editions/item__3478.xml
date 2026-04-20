@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3478">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from George D. Roche to Nancy McCarthy, 8 March 1916 </title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>George D. Roche</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>In this postcard to Nancy McCarthy, her uncle George D. Roche inquires if they had much snow and tells her that they have had quite a lot of snow and &#34;beaucoup snowballing!” 
+
+Nancy McCarthy was a well-practiced letter-writer, and her collection of correspondence spans eighty years. This postcard is one of seven included in the Letters of 1916 collection written to Nancy by her uncle, George D. Roche, on active service with the 7th London regiment during World War I.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>UCC Library Special Collections and Archives</repository>
+                  <collection>The Nancy McCarthy Collection, BL/PP/NMC/606</collection>
+                  <idno>https://letters1916.ie/item/3478</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0611">George D. Roche</persName>
+              <date>1916-03-08</date>
+              <placeName key="#letters1916_place-0769">France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Nancy McCarthy</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0711">The Convent, Mountrath, Queen's County, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3478_img_2887_1"  type="Letter"  url="4b7c702c53d152a1bb830ecf8b47a7b9.jpg"/>
+      <graphic xml:id="L1916_3478_img_2887_2"  type="Letter"  url="2b936af42c09aefda685c044bfe1c155.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3478_img_2887_1"/>
+             THÉROUANNE (P.-de-C)<lb/>(Ville fortifiee detruite par Charles.Quint<lb/>en 1553).<lb/>Statue de St Martin le célèbre<lb/>Général-Évêque qui coupà<lb/>son manteau avec son sabre<lb/>pour en donner une moitié<lb/>à un pauvre 
+            <pb n="2" facs="L1916_3478_img_2887_2"/>
+             CARTE POSTALE   Miss Nancy McCarthy<lb/>Brigidine Convent<lb/>Mountrath<lb/>Queen's Co.<lb/>Ireland    8/3/16    Dear Nancy   How are Eily and yourself<lb/>Have you much snow? We<lb/>have had quite a lot and<lb/>beaucoup snowballing!<lb/>The country looks lovely this<lb/>morning under its white<lb/>garment.<lb/> Love to you both from<lb/>Uncle George  
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5899">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Lance Corporal P. Lynch to Lady Clonbrock, 25 September, 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Lance Corporal P. Lynch</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Lance Corporal P. Lynch of the 5th Connaught Rangers, a prisoner of war in Bulgaria, to Lady Clonbrock, Augusta Caroline Dillon (née Crofton), (1839-1928), wife of Luke Gerald Dillon, 4th Baron Clonbrock, (1834-1917).
+Lady Clonbrock was one of a number of ladies who were members of the Irish Womens Association. Formed in London in the Spring of 1915, the IWA.&#39;s purpose was to provide food and comforts for prisoners of War belonging to Irish Regiments. 
+The writer is responding to a postcard he has received from Lady Clonbrock in which she requested his regimental details, which he supplies here. He says that he hasn&#39;t been receiving any parcels and this is his reason for writing to her.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No. 54; Ms. 35,796/11/5</collection>
+                  <idno>https://letters1916.ie/item/5899</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1517">Lance Corporal P. Lynch</persName>
+              <date>1916-09-25</date>
+              <placeName key="#letters1916_place-0917">Philipopolis, Bulgaria.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0049">Lady Clonbrock</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5899_img_994_1"  type="Letter"  url="d275b8a93aaff5c5bae6d6b335fc580f.jpg"/>
+      <graphic xml:id="L1916_5899_img_994_2"  type="Letter"  url="681f85a5571a6c0f11fa070adddad377.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5899_img_994_1"/>
+             25/9/16   Lcpl P. Lynch No. 10207 <lb/>5th Connaught Rangers, British Prisoner War <lb/>Philipopolis <lb/>Bulgaria   Dear Madam   In reply to your P.C. dated 4 instant <lb/>I am sorry to put you to <lb/> so much trouble but as I <lb/>have not <sic>being</sic>receiving <lb/> any <sic>parcles</sic> I took the <lb/> <sic>privilage</sic> of writing. <lb/>I am letting you know to <lb/>which regiment I belong
+            <pb n="2" facs="L1916_5899_img_994_2"/>
+            as you asked me in <lb/>your Post Card.   Thanking  you  for taking <lb/>so much interest in me.  <lb/>I remain yours  Sincerely   Lcpl Lynch 
+         </ab>
+      </body>
+   </text>
+</TEI>

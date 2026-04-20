@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3836">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Thompson to the Royal College of Physicians of Ireland, 10 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Thompson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from John Thompson (1867-1936) to the Royal College of Physicians of Ireland (RCPI) requesting permission to use the college&#39;s hall for a series of lectures on the Roman Empire.
+
+Aside from being secretary of the Classical Association Thompson was the headmaster if Dublin High School and one of the founding members of the Dublin French Society. He was also a member of the Royal Irish Academy. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T93</collection>
+                  <idno>https://letters1916.ie/item/3836</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0083">John Thompson</persName>
+              <date>1916-10-10</date>
+              <placeName key="#letters1916_place-1021">40 Harcourt Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="death">1936</item>
+               <item n="tag">Culture and the Arts</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3836_img_3215_1"  type="Letter"  url="80d74736b7a4b69a13123c6acbe9b896.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3836_img_3215_1"/>
+            <head.The Classical <hi rend="underline">Association</hi> of Ireland<seg type="head"> <lb/>President for 1915 &amp; 1916 : Prof. J. I. BEARE M.A., F.T.C.D. <lb/>Hon. Treasurer : R. A. S. MACALISTER, Esq., M.A. Litt.D., F.S.A., Newlands, Clonskeagh, Co. Dublin. <lb/>Hon. Secretary : J. THOMPSON, Esq., M.A., M.R.I.A., 40 Harcourt Street, Dublin.  <hi rend="underline">Oct 10</hi> 191<hi rend="underline">6</hi>   To the Registrar <lb/>Royal College of Physicians,   Dear Sir   Your Council have in former years very kindly granted to <lb/>our Association the use of <seg type="del">it's</seg> your hall for courses of <lb/>lectures on Classical subjects &amp; as we are proposing to <lb/>hold a course this winter on The Roman Empire I have <lb/>been requested to ask whether your Council would <lb/>again do us the honour of allowing us the use of your <lb/>hall. We propose to have four lectures, two before &amp; <lb/>two after Christmas &amp; if your Council are willing, we <lb/>can arrange the dates later.   I am yours faithfully  <lb/>J. Thompson <lb/>Hon. Sec.   Dates arranged <lb/>Wednesday 29. Nov., 13 Dec., 28 Feb. and 14 March. 
+         </ab>
+      </body>
+   </text>
+</TEI>

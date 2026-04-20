@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1649">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from S. C. (Sophy) McLaughlin to Augusta (Lady Clonbrock), 22 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Sophy McLaughlin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter was sent by a cousin, Sophy McLaughlin, to congratulate Augusta Lady Clonbrock and her husband, Luke Gerald Dillon, 4th Baron Clonbrock, on their golden wedding anniversary.
+The writer also refers to Emily Lady Lonsdale, whom she fears &#39;is failing&#39; and her memory getting worse. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No 54; Ms 35,793 (9)</collection>
+                  <idno>https://letters1916.ie/item/1649</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0060">Sophy McLaughlin</persName>
+              <date>1916-07-22</date>
+              <placeName key="#letters1916_place-0424">Glencoe, West Moors, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0049">Lady Clonbrock</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1502">10 Cadogan Gardens, London</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1649_img_111_1"  type="Letter"  url="7ca061d6b199d18609bd71d3513d3da3.jpg"/>
+      <graphic xml:id="L1916_1649_img_111_2"  type="Envelope"  url="2a00edabdf5851831b3f6cd4e6f0c074.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1649_img_111_1"/>
+             Glenore <lb/>West Moors   <seg type="del">LIKOMA <lb/>MALVERIL WELLS</seg>  July 22.   My dear Augusta   In todays papers I see you are <lb/>celebrating your Golden Wedding &amp; I am writing <lb/>to wish you much happiness. I wonder if you <lb/>have heard anything of Emily Lonsadale. I can't <lb/>help fearing that she is failing. Her memory seemed <lb/>to me not so good &amp; <seg type="unclear">Mrs Carl Cather</seg> was finished <lb/>by <seg type="unclear">Lorena</seg> Churchill.   Next week Ian &amp; I are going to <lb/> <seg type="unclear">Praise Light</seg> at. Christchurch.   Yours affec etc cousin    S. C. McLaughlin.   P.S. Ian &amp; Georgia are with me at <seg type="unclear">Malveri</seg> <lb/>Wells.  
+            <pb n="2" facs="L1916_1649_img_111_2"/>
+             10 Cadogan Gardens <lb/>Chelsea <lb/>London <lb/>SW    The <lb/>Lady Clonbrock <lb/><seg type="del">Clonbrock</seg> <lb/><seg type="del">Athlone.</seg> <lb/><seg type="del">Ahascaragh</seg> <lb/><seg type="del">Ireland.</seg>   Sophy McLaughlin 
+         </ab>
+      </body>
+   </text>
+</TEI>

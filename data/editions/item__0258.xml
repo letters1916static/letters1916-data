@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0258">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to Robert Anderson, 17 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter to Robert Anderson (b. 1860), the honorary secretary of the Irish Association of Volunteer Training Corps, on behalf of the Lord Lieutenant Wimborne (1873-1939). The letter acknowledges Anderson’s letter asking on behalf of the IAVTC to extend their duties and appreciation for the keenness and energy with which the members of the corps have prepared to render their service to the state during the war. The IAVTC were a corps consisting of men who were over age or engaged in important occupations and therefore could not enlist for wartime service when war broke out in 1914. This was a volunteering training militia that came to be known by the nickname &#39;Gorgeous Wrecks&#39; due to the G.R. armbands they wore symbolizing Georgius Rex. Ivor Churchill Guest, 1st Viscount Wimborne, was appointed the Lord Lieutenant of Ireland in 1915. Guest worked closely alongside Sir Matthew Nathan (1862-1939) in the administration of Ireland. Following the suppression of the Rising, Guest, under pressure, was forced to resign as Lord Lieutenant. A later inquiry into the Rising exonerated Guest and held Augustine Birrell (1850-1933) chiefly responsible for the events that occurred. Guest would continue to serve as Lord Lieutenant until 1918.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/7964/7</collection>
+                  <idno>https://letters1916.ie/item/258</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-04-17</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0902">Robert Anderson</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0481">18 South Frederick Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0258_img_1442_1"  type="Letter"  url="b3ccce63b1ea8fc6d317ac2ffa591557.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0258_img_1442_1"/>
+                17th April, 1916.   Sir,   I am directed by the Lord Lieutenant to <lb/> acknowledge the receipt of your letter of the <lb/> 15th instant, asking on behalf of the Irish <lb/> Assiciation of Volunteer Training Corps that <lb/>duties suitable to their constitution and <lb/> training which can be performed under the ex- <lb/>isting law should be assigned to the Volunteer <lb/> Training Corps in Ireland.  In reply I am to promise the full and <lb/>sympathetic consideration of this request by <lb/>His Excellency, who appreciates the keenness <lb/> and energy with which members of the Corps have <lb/> been preparing themselves to render service to <lb/> the State at the present critical time. <seg type="closer"> I have the honour to be, <lb/>Sir, <lb/>Your obedient Servant,   R. A. Anderson, Esq.,  Honourary Secretary,  Irish Association of Volunteer  Training Corps,  18, South Fredrick Street,  Dublin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

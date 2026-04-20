@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4195">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Samuel Shaw to James Shaw, 11 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Samuel Shaw</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Short letter from Samuel Shaw to his father, James Shaw, reassuring him that he is well. Samuel comments on his father&#39;s fishing business and how quite the town must be with the boys gone. He also mentions that Samuel Henry has enlisted as a private with the 12th Battalion.
+
+Samuel Henry Shaw (1896-1967) was a sergeant with the 10th Battalion, Royal Inniskilling Fusiliers. He volunteered for active service in September 1914. Before enlisting Samuel was a member of the Portstewart Company, Coleraine Battalion, North Derry Regiment, Ulster Volunteer Force. Samuel served in France, and was wounded during the Battle of the Somme in July 1916 and again in early 1917 and in 1918. Before the war he was employed as a ironmonger&#39;s assistant. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland </repository>
+                  <collection>Shaw Papers, D1962-17</collection>
+                  <idno>https://letters1916.ie/item/4195</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0493">Samuel Shaw</persName>
+              <date>1916-01-11</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">James Shaw</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1027">Shorncliffe, Portstewart, Co. Derry, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1967</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4195_img_3567_1"  type="Letter"  url="d9db7f18c4b7a8de9d30cae469288f99.jpg"/>
+      <graphic xml:id="L1916_4195_img_3567_2"  type="Envelope"  url="3c786c968b5c63a693f250be18075b3b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4195_img_3567_1"/>
+             Same Address   11—1—16   My Dear <lb/>Dad,   Just a few lines to <lb/>let you know I received your <lb/>letters all right. I hope the <lb/>fishing is improving. I <lb/>suppose the town is very <lb/>dull now. I see that all <lb/>the boys going home now <lb/>get a wristlet watch from <lb/>the duds of the town. I hear <lb/>that Stuart Henry has enlisted <lb/>as a private in 12 Batt. All at <lb/>present.   From Your <lb/>Loving Son   Sammie 
+            <pb n="2" facs="L1916_4195_img_3567_2"/>
+             Mr. Jaas Shaw <lb/>Shorncliffe <lb/>Portstewart <lb/>Co. Derry <lb/>Ireland 
+         </ab>
+      </body>
+   </text>
+</TEI>

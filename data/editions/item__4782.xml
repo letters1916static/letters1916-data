@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4782">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Hiram Shaw Wilkinson to James Craig , 17 July 1922 </title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Hiram Shaw Wilkinson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Condolences paid to Lady Wilson and her response to Queens University condolences</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Correspondence and papers re Field Marshall Sir Henry Wilson, PRONI/CAB 6-89-16</collection>
+                  <idno>https://letters1916.ie/item/4782</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0867">Hiram Shaw Wilkinson</persName>
+              <date>1922-07-17</date>
+              <placeName key="#letters1916_place-1876">Moneyshanere, Tobermore, Co Derry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1198">James Craig</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0337">Unknown </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1926</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4782_img_None_1"  url="7ad2146bf90e1df9dbfbb5464f5ab5da.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4782_img_0_1"/>
+             CAB6/89/16  PA   Moneyshanere,<lb/>Tobermore, Co. Derry    July 17. 1922.    Dear Sir James,   Having, as requested, forwarded to<lb/>Lady Wilson a message from the recipients<lb/>of Honorary Degrees from the Queen's<lb/>University of Belfast, conveying to Lady<lb/>Wilson the expression of their profound sorrow<lb/>at the shocking tragedy which has deprived<lb/>her of her illustrious husband, and tendering<lb/>to her their respectful sympathy in her great<lb/>bereavement, I have now received from Lady<lb/>Wilson this accompanying reply, in which she<lb/>requests me to convey to the Graduates and all<lb/>concerned with Queen's University her deep<lb/>appreciation of their tributes to her beloved<lb/>husband's memory.   Yours sincerely   Gentiencinson 
+         </ab>
+      </body>
+   </text>
+</TEI>

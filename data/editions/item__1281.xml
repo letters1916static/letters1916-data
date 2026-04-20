@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1281">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Susan Fitzgerald to Michael Gorman, 2 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Susan Fitzgerald</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Susan Fitzgerald (d. 1980) to Michael Gorman. The letter refers mainly to work as a nurse with the Voluntary Aid Detachment (V.A.D.), a voluntary organisation providing nursing to wounded British army soldiers, which she had just joined. Susan also mentions an upcoming meeting of the two.Michael Gorman was one a large Catholic family living at a farm in Ballinalug, County Laois (then Queen&#39;s County). Susan Fitzgerald was one a Church of Ireland family living in Raheenahone House near Stradbally, County Laois, also in the Slieve Bloom mountains. At the time the letter was written they were involved in a courtship but owing to the religious difference the love affair had to be kept secret. Eventually both were in Dublin: he in the Albert Agricultural College in Glasnevin (where he eventually became Professor of Agricultural Botany and Biochemistry) and she as a volunteer nurse in the Royal Hospital in Baggot Street. They eventually went to London to marry.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Michael Gorman</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/1281</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1259">Susan Fitzgerald</persName>
+              <date>1916-02-02</date>
+              <placeName key="#letters1916_place-1142">Nurse Home, Mary&#39;s Road, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Michael Gorman</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0576">Ballinlug, Clara Hall, County Laois</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1281_img_487_1"  type="NULL"  url="b015022ea35fc8a463542c168433618c.jpg"/>
+      <graphic xml:id="L1916_1281_img_487_2"  type="NULL"  url="83bf22422d7197ea926c1bde557ac77d.jpg"/>
+      <graphic xml:id="L1916_1281_img_487_3"  type="NULL"  url="8491206f4d31e2ba0839371407c4ad98.jpg"/>
+      <graphic xml:id="L1916_1281_img_487_4"  type="NULL"  url="aa544bfaf644b586b8e6411b606ac024.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1281_img_487_1"/>
+              I got on A.I. with the <lb/>nurse   Nurse Home  <hi rend="underline">Mayo Rd</hi>   My dear Mickie,   It must at least <lb/>be a couple of years since I saw you <lb/>last - It feels it. I <lb/>was out of bed this <lb/>morning at 6 &amp;  
+            <pb n="2" facs="L1916_1281_img_487_2"/>
+              oh! Such a time <lb/>we had just got <lb/>off for a few hours <lb/>&amp; Tomorrow I'll be <lb/>off at 5 until 10. <lb/> &amp; I cant remember <lb/>what train you <lb/>come back by but <lb/>I'll be at <lb/>at 6. Im going up <lb/>to see <seg type="unclear">Florence</seg> now.  
+            <pb n="3" facs="L1916_1281_img_487_3"/>
+              <seg type="closer"> Yrs Ever  <hi rend="underline">Sue,</hi> </seg> P.S. <lb/>There some lovely students <lb/>here <hi rend="underline">Real Princes</hi>  
+            <pb n="4" facs="L1916_1281_img_487_4"/>
+                M.J. Gorman Esq  Ballinluig  Clare Hall  <hi rend="underline">Queen Co.</hi>    
+         </ab>
+      </body>
+   </text>
+</TEI>

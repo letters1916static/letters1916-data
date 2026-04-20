@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2572">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Diarmid Coffey to Jane Coffey, 8 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Diarmid Coffey</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from Diarmid Coffey to his mother. Diarmid Coffey (1888-1964) joined the Irish Volunteers in 1914 and became secretary of the Irish National Volunteers after the organisation split in 1915 (it was the other group who participated in the Rising). He later served as assistant clerk of the Seanad.
+Jane Coffey (née l&#39;Estrange) (1857-1921) was born into a Protestant family but married Catholic George Coffey and became a member of the National Literary Society.
+The letter is written from Cork and refers to his stay there. He mentions another guest in the hotel where is staying who is &#39;disgusted with the behaviour of the English in Ireland&#39; and who commented that John Redmond, leader of the Irish Parliamentary Party, was &#39;weak&#39; after a speech he made in Waterford.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Coffey &amp; Chenevix Trench Papers, Collection List No 153; Ms. 46,304/10</collection>
+                  <idno>https://letters1916.ie/item/2572</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0284">Diarmid Coffey</persName>
+              <date>1916-10-08</date>
+              <placeName key="#letters1916_place-2079">Casey&#39;s Hotel, Glengarriff, Co. Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0106">Jane Coffey</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1964</item>
+               <item n="tag">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2572_img_200_1"  type="Letter"  url="1310875d62ed5b20348275fae6d2ba0e.jpg"/>
+      <graphic xml:id="L1916_2572_img_200_2"  type="Letter"  url="acf832bd39e1a98d6b9f9a457c46d671.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2572_img_200_1"/>
+             Caseys Hotel <lb/>Glengarriff   Oct 8<hi rend="superscript"><hi rend="underline">th</hi></hi> 1916   Dear Mother    I got your last short note forwarded <lb/> from March. M<hi rend="superscript"><hi rend="underline">rs</hi></hi> Connor was not a <lb/> bit well &amp; I think wanted a few days <lb/> to pack before going to Dublin. They <lb/> are going up on Tuesday &amp; when I <lb/> asked her what day would suit her <lb/>for me to leave suggested Saturday.    I am awfully glad you got your <lb/> luggage. V has only 5 officers <lb/> in the hotel &amp; there are I believe 13 <lb/> nurses, maids etc! She seems <lb/> quite nice. <seg type="unclear">Anna</seg> is here &amp; <lb/> is very disgusted with the behaviour <lb/> of the English in Ireland. We could not
+            <pb n="2" facs="L1916_2572_img_200_2"/>
+            speak more strongly ourselves!     Redmond did not say very much <lb/> at Waterford did he? <seg type="unclear">Anna</seg> thinks <lb/> him very weak. I am surprised at <lb/> that as I thought he was looked on as <lb/> a great man in England.    There is a good deal of <lb/> Irish spoken here though the <lb/> place is anglicised.    I go to Woodside, <lb/>Tivoli, <lb/>Cork <lb/>on Thursday.   Love to the Laurences   Yours   <hi rend="underline">Diarmid</hi>   I see the "Super-Hero" is prominently in Punch! 
+         </ab>
+      </body>
+   </text>
+</TEI>

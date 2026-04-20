@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4383">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Clerk of the Crown and Peace, County Dublin, to Robert Chalmers, 21 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Clerk of the Crown and Peace, County Dublin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by the Clerk of Crown and Peace, County Dublin to the Under-Secretary, Sir Robert Chalmers (1858-1938).  In this letter, the County Clerk writes to Chalmers to confirm the appointment of the Justices of Peace on the Joint Visiting Committee for Mountjoy Prison.
+
+Sir Robert Chalmers was appointed Under-Secretary of Ireland in 1916, replacing Sir Matthew Nathan (1862-1939) in the aftermath of the Easter Rising. 
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers 1916, NAI-CSO-RP-1916-10531</collection>
+                  <idno>https://letters1916.ie/item/4383</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0154">Clerk of the Crown and Peace, County Dublin</persName>
+              <date>1916-06-21</date>
+              <placeName key="#letters1916_place-0860">Green Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers </persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4383_img_3737_1"  type="Letter"  url="999369c7b4dbea40e717037993a228f3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4383_img_3737_1"/>
+             <lb/>Ref. No. 8983-15  21st June 1916.   Sir,   In to you Circular letter of the 24th. May last,<lb/>I beg to say that the Grand Jury, at the last County Commission<lb/>Court, appointed on the Joint Visiting Committee for Mountjoy<lb/>Prison, the Justice of the Peace whose names are set out on the<lb/>enclosed form.  I am, Sir,<lb/>Your obedient servant  <seg type="unclear">Illegible signature</seg><lb/>Clerk of the Crown and Peace.  Thomas L. Plunkett D.L<lb/>Portmarnock House, Baldoyle<lb/>Thomas Clarke<lb/>28 Belgrave Sq. Monkstown<lb/>William Bobbett<lb/>Hansfield House, Clonsilla<lb/>Charles Stonwell, 22 Clyde Road, Dublin   
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2022">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Jane Coffey to her son Diarmid Coffey, 17 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Jane Coffey</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Jane Coffey to her son Diarmid and refers mainly to a visit from Conn O&#39;Grady, a family friend.
+Diarmid Coffey (1888-1964) joined the Irish Volunteers in 1914 and became secretary of the Irish National Volunteers after the organisation split in 1915 (it was the other group who participated in the Rising). He later served as assistant clerk of the Seanad.
+Jane Coffey (née l&#39;Estrange) (1857-1921) was born into a Protestant family but married Catholic George Coffey and became a member of the National Literary Society.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Coffey &amp; Chenevix Trench Papers, Collection List No 153; Ms. 46,301/2 </collection>
+                  <idno>https://letters1916.ie/item/2022</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0106">Jane Coffey</persName>
+              <date>1916-10-17</date>
+              <placeName key="#letters1916_place-1087">Langridge House, Bath, UK</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0284">Diarmid Coffey</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="death">1921</item>
+               <item n="tag">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2022_img_147_1"  type="Letter"  url="e0a2865566f6eca750b39cd1588bf0ec.jpg"/>
+      <graphic xml:id="L1916_2022_img_147_2"  type="Letter"  url="9c283743ef90e299bc4bcc830b9abf99.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2022_img_147_1"/>
+             LANGRIDGE HOUSE,<lb/>NEAR BATH.   Oct <hi rend="underline">17th 1916</hi>    Dearest D.   I am so glad you<lb/>are enjoying yourself at In. &amp; staying<lb/>till Sat. Ciran O'G came to<lb/>lunch today. It is very<lb/>pleasant to see him &amp;<lb/>he may come again on his<lb/>machine, in the air, this<lb/>would be grand, he had a good<lb/>long visit as he got here about<lb/>12 &amp; stayed till 5o'c he left<lb/><seg type="unclear">probably</seg> about 9o'c &amp; did not<lb/>get back till 8o'c or later.<lb/>I have not heard from M<hi rend="superscript">c</hi><seg type="unclear">FK</seg> 
+            <pb n="2" facs="L1916_2022_img_147_2"/>
+             if Thursday will suit. I hope as<lb/>it would would make the journey home<lb/>so much easier. Conn has<lb/>some pleasant friends, one<lb/>who was at Wilkins with<lb/>him — he enjoyed yr lunch.<lb/>A man had told him it was<lb/>so good, &amp; he was much interested<lb/>in hearing it was yours.<lb/>Hoping to see you Wed or Thurs  Yr loving M.  I went to Abbey &amp; Roman Baths<lb/>today, they are all wonderful — 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2539">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to Piaras Béaslaí from Tomás Ó Máille, 5 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Tomás Ó Máille</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter written in Irish to Piaras Béaslaí from Tomás Ó Máille on suggestions for Irish Language Plays for performance in University College Galway&#39;s St. Patrick&#39;s Day celebrations.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>University College Dublin Archives MS 33, 968 / 6</collection>
+                  <idno>https://letters1916.ie/item/2539</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">Irish</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1148">Tomás Ó Máille</persName>
+              <date>1916-01-05</date>
+              <placeName key="#letters1916_place-1862">Galway, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Piaras Béaslaí</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Culture and the Arts</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2539_img_197_1"  type="Letter"  url="177ef96f4eeddb5c248c4c48051fd3d6.jpg"/>
+      <graphic xml:id="L1916_2539_img_197_2"  type="Letter"  url="c3a217451d6968032044a4821766d1a5.jpg"/>
+      <graphic xml:id="L1916_2539_img_197_3"  type="Letter"  url="5d51dc5e9f7f83f2694b2f937383123d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2539_img_197_1"/>
+              <seg type="foreign">Coláiste na h-Iolsgoile <lb/>i nGaillimh</seg>.   5/1/1916.   <seg type="foreign">A Chara</seg>,   <sic><seg type="foreign">Támuid</sic> ag brath drama <sic>Gaedhilge</sic> <lb/>a chur ar bun arís i <sic>mbliadhna</sic> <lb/>le haghaidh La'il' Padraig <sic>annseo</sic>. <lb/>B'fhéidir go dtiocfadh <sic>leat-sa</sic> má 'sé <lb/>do thoil é liosta den chuid <lb/>is fearr atá ar eolus agat <lb/>atá i gceist anois  a chur chugam.  Maidir <lb/>leis na cinn Chonnachtacha tá</seg>
+            <pb n="2" facs="L1916_2539_img_197_2"/>
+            <lb/><seg type="foreign">an chuid is fearr ar fad caithte <lb/>againn. Ba mhaith liom go <lb/>n-abrótha cé bhfuighfear an chuid <lb/>a mholfas tú.   Tá súil agam go gcuirfe tú <lb/>freagradh chugam go luath, <lb/>mar ní mór dhúinn a dhul <lb/>a' tosaigh chomh luath a's <lb/>thiocfas na mic léighinn le <lb/>chéile.   Go leige Dia slán thar</seg>
+            <pb n="3" facs="L1916_2539_img_197_3"/>
+            <lb/><seg type="foreign">an <sic>mbliadhain</sic> thú &amp; go mbu <lb/>seacht fearr a bhéas tú.    Mise, <lb/>Tomás Ó Máille <lb/>do chara.</seg>  <!-- begin translation -->  University College <lb/>in Galway.   5/1/1916   My dear friend,   We intend to put on a play here in Irish again this year for St. Patrick’s Day. Perhaps, if you wish, you might send me a list of the best ones that are currently drawing attention. Regarding the Connaught ones, we have done all the best. I would be grateful if you could say where those you recommend can be found.   I hope you will respond soon, as we must start as soon as the students assemble. May God bring you safely through the year and may you be seven times better.   Yours truly, <lb/>Tomás Ó Máille <lb/>Your friend.  <!-- end translation -->
+         </ab>
+      </body>
+   </text>
+</TEI>

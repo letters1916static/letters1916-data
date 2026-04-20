@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3943">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Deborah Webb to Hanna Sheehy Skeffington, 20 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Deborah Webb</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Deborah Webb, member of the IWFL and a nationalist, to Hanna Sheehy Skeffington requesting six copies of the Irish Citizen.
+
+Hanna Sheehy Skeffington (1877-1946), suffragette, nationalist, language teacher, was the founder of the Irish Women’s Franchise League and a founding member of the Irish Women Workers’ Union. She was the widow of Francis Sheehy-Skeffington who was summarily executed on 26 April 1916. She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Ms 33,604/13-32</collection>
+                  <idno>https://letters1916.ie/item/3943</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0173">Deborah Webb</persName>
+              <date>1915-11-20</date>
+              <placeName key="#letters1916_place-0443">9 Garville Road, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3943_img_3319_1"  type="Letter"  url="48bd31e75b0f921a546dbf96751f3d4a.jpg"/>
+      <graphic xml:id="L1916_3943_img_3319_2"  type="Letter"  url="ac87b067c9d7427cd9d1bdcfda457292.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3943_img_3319_1"/>
+             9 <seg type="unclear">Garville Rd.</seg>   20.11.'15   Dear Hanna,   Here is another five <lb/>issue of the I.C. &amp; I want 6 copies <lb/>to here — the 20<hi rend="superscript"><hi rend="underline">th</hi></hi>. That will make <lb/>1/- with the 6 you sent me (13<hi rend="superscript"><hi rend="underline">th</hi></hi>) — <lb/>I enclose it.   Would enclosed lines be suitable, in <lb/>next week's? If they are printed I <sic>sd.</sic> <lb/>want 12 copies more — and <sic>sd</sic> be glad <lb/>to get them early, if possible on Thursday. <lb/> <sic>Wd.</sic> pay later. Also I <sic>wd</sic>. pay postage <lb/>for a <hi rend="underline">proof copy.</hi> I wd. <seg type="unclear">collect</seg> &amp; return <lb/>promptly, But <sic>cd</sic> it be posted early?   As I have to retire for the night about
+            <pb n="2" facs="L1916_3943_img_3319_2"/>
+            six. I hate to trouble you — you <lb/>have so much to think of.   J. C. shall see late issues — &amp; will <lb/>appreciate. She sends you warm <lb/>greeting.   Of course I shall send Mr. <sic>Harlem</sic> <lb/>the bills in <seg type="unclear">Mass</seg> on his birthday.   Please don't print unless you <lb/>approve.   The 6 copies of 20<hi rend="superscript">th</hi><hi rend="underline">quite at</hi> <lb/>courier — <seg type="unclear">Luck</seg> a good little Mercury! <lb/>or <seg type="unclear">per them</seg>.   Yours as ever DW. 
+         </ab>
+      </body>
+   </text>
+</TEI>

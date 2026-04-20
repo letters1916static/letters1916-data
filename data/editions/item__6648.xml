@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6648">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Joyce </title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Joyce</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Harry Ransom Center, The University of Texas at Austin</repository>
+                  <collection>Joyce, J. Letters</collection>
+                  <idno>https://letters1916.ie/item/6648</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0393">James Joyce</persName>
+              <date>1923</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName >None</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1941</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6648_img_None_1"  url="php2mpr5f.png"/>
+      <graphic xml:id="L1916_6648_img_None_2"  url="phpqz8X6o.png"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6648_img_0_1"/>
+             the prestige of the Italian primo   tenor   assoluto to be<lb/>shattered on the first hearing of Sullivan's voice in<lb/>London, New York and Chicago, which they , not without<lb/>reason, regard as provincial cities not very critical<lb/>but very lucrative for them. I have seen the Italian<lb/>notices of Sullivan in Italy. No tenor, Italian or<lb/>otherwise, has ever had such a press. It is monstrous<lb/>that the Italian ring in London and America and the<lb/>Irish ring there too should have been able to keep<lb/>him for fifteen years out of the theatres where his<lb/>fellow-countrymen could hear him. He is forty-nine<lb/>and what has to be done for him must be done immediately<lb/>and by somebody who puts up the money for these<lb/>theatres; nobody else can do anything against the<lb/>camorra.<lb/>Sullivan does not need to be told that he is the<lb/>greatest dramatic tenor at present alive and that there<lb/>have not been heard on the operatic stage for an<lb/>entire generation such ease of emission, splendour of<lb/>diction and magnificence of tone as he displays <seg type="unclear">xxxx</seg><lb/>every night he sings for 125 dollars.<lb/>  
+            <pb n="2" facs="L1916_6648_img_0_2"/>
+             I am giving you most of the facts but use only what y<lb/>you think effective.<lb/>With all my prayers to Saint Cecily for your<lb/>good success , and my warmest thanks,<lb/> sincerely yours   James Joyce       
+         </ab>
+      </body>
+   </text>
+</TEI>

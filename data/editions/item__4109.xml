@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4109">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Carey to Dr Daniel Sheehan, 30 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Carey</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Patrick Carey to the district coroner, Daniel Sheehan, regarding an extract from the minutes of the Killarney Board of Guardians. The enclosed extract refers to a mistake made in Sheehan&#39;s order for medical supplies. 
+
+Patrick Carey (1853-1934) was the Union Clerk for the Killarney Poor Law Board of Guardians. Poor law unions and their workhouses were established by the Poor Law (Ireland) Act, 1838, as a response to widespread poverty, and were each governed by a Board of Guardians. This letter comes from the Killarney Poor Law Board of Guardians Minute Book.
+
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry Library, Tralee</repository>
+                  <collection>Killarney Poor Law Board of Guardians BG104/B/4</collection>
+                  <idno>https://letters1916.ie/item/4109</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1557">Patrick Carey</persName>
+              <date>1915-11-30</date>
+              <placeName key="#letters1916_place-1721">Killarney, Co. Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Daniel Sheehan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0125">Milltown, Co. Kerry, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1934</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4109_img_3486_1"  type="Letter"  url="6c33283ebb8f15c64ba9aaf8d39ad459.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4109_img_3486_1"/>
+              Killarney Union, <lb/>Clerk's Office,   30th Novr 1915, ,  Dear Sir,    I am directed to request your attention to <lb/>subjoined extract from Minutes of the 23rd Ult,  <seg type="closer"> Yours faithfully,   Clerk of Union   Dr D T Sheehan <lb/>Milltown, </seg>  EXTRACT REFERRED TO.   <hi rend="underline">23.9.15.</hi>   MEDICAL &amp; SURGICAL APPLIANCES, <lb/>MILLTOWN <hi rend="underline">DISPENSARY</hi> DISTRICT.   Read letter from Messrs Boileau and <lb/>Boyd referring to the complaint of Dr. Sheehan , and <lb/>stating that they have written to him explaining <lb/>that a mistake has been made in sending him the <lb/>forceps marked with their name; and if the Forceps <lb/>are returned to them they will send those marked <lb/>with the name of the Scheduled maker. They are <lb/>endeavouring to procure a supply of grease proof <lb/>card box to take the place of the Chip Boxes.   ORDER: <hi rend="underline">Refer to Dr. Sheehan</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

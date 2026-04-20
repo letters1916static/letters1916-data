@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3926">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from F. Haughton to Hanna Sheehy Skeffington on 21 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>F. Haughton</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47; Ms 33,604/13-33</collection>
+                  <idno>https://letters1916.ie/item/3926</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0048">F. Haughton</persName>
+              <date>1915-11-21</date>
+              <placeName key="#letters1916_place-1093">4 Station Road, Winchmore Hill, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0720">11 Grosvenor Place, Rathmines, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3926_img_3302_1"  type="NULL"  url="8769e2276ad91ccb8e89150b1adfe81e.jpg"/>
+      <graphic xml:id="L1916_3926_img_3302_2"  type="NULL"  url="3c7cee806c7d34fe0f3a59d60126974e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3926_img_3302_1"/>
+             4 Station Rosad, <lb/>Winchmore Hill, <lb/>London. N.   Nov. 21.1915   Do you mind sending me the <lb/>receipt for the £1.0:11 <lb/>forwarded to you for copies <lb/>of Irish Citizen? I want <lb/>to give receipt in with my <lb/>accounts which are mounting <lb/>up considerably.   I am sure you will have heard <lb/>by now of our proposed Conference. <lb/>We are hoping great things <lb/>from it. You will hear later.   Yours sincerely   F. Haughton. 
+            <pb n="2" facs="L1916_3926_img_3302_2"/>
+             Mrs Sheehy Skeffington <lb/><seg type="del">12. D'Olier St.</seg>Grosvenour Place. <lb/>Rathmines. Dublin 
+         </ab>
+      </body>
+   </text>
+</TEI>

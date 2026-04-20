@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5777">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to T.J. Hanna, 4 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was addressed to Thomas J. Hanna (1867 - 1937), the former private secretary for the leader of the Irish Parliamentary Party John Redmond (1856 - 1918). 
+
+This letter refers to correspondence concerning the case of Constable Nicholas Rainsford in the Court of Inquiry. According to the letter the constable was defended before the court and the outcome was just.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/4087</collection>
+                  <idno>https://letters1916.ie/item/5777</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-03-04</date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0125">T.J. Hanna</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1150">House of Commons, London, United Kingdom</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5777_img_876_1"  type="Letter"  url="0ff29262b6e8f8e3f651d85fbac06959.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5777_img_876_1"/>
+             DUBLIN CASTLE,   4th March, 1916.   Dear Mr. Hanna,   Sir Matthew Nathan has asked me to return <lb/>the letter which formed the second enclosure to yours of <lb/>the 1st of March. He has looked at the proceedings of <lb/>the Court of Inquiry which dealt with the case of Consta- <lb/>ble Nicholas Rainsford, and has observed that the Conta- <lb/>ble was defended before that Court by Counsel. The <lb/>proceedings were scrutinised by the Attorney General who <lb/>has advised that the Court could hardly have come to any <lb/>other conclusions that those arrived at. In the circum- <lb/>stances Sir Matthew regrets that there is nothing to be <lb/>done in the matter.   Yours faithfully,   <seg type="unclear"><hi rend="underline">J.B.</hi></seg>  <lb/>T.J Hanna, Esq.,  House of Commons, <lb/>London. 
+         </ab>
+      </body>
+   </text>
+</TEI>

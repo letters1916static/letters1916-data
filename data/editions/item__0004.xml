@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0004">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">A pass from Constable P.I. Killacky for Rev. Fr Thomas Burke, 9 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>P.I. Killacky</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a pass issued by a constable in the District Inspector&#39;s Office of the Royal Irish Constabulary in Galway. The pass was sent with Fr Thomas Burke to allow him to travel from Galway to Dublin by train and then on to England. The pass also gives a physical description of Fr Burke. During the Easter Rising, Galway was one of the few areas outside Dublin city where the Irish Volunteers were active. Martial Law, the terms of which included travel restrictions, was imposed during the Rising and was still in operation when this pass was issued.Fr Burke, from Castlegar, County Galway, was from a family that was involved in the Irish struggle for independence and later served as chaplain to the Galway Brigade of the Irish Republican Army. His sister, Margaret, served as a member of Cumann na mBan.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Margaret and Fr Tom Burke Papers, P30/31</collection>
+                  <idno>https://letters1916.ie/item/4</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0795">P.I. Killacky</persName>
+              <date>1916-06-09</date>
+              <placeName key="#letters1916_place-1254">RIC District Inspector&#39;s Office, Galway, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0004_img_1024_1"  type="Letter"  url="ee0fd72b0797da44f2405d74e9de0bc4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0004_img_1024_1"/>
+              Permit the Revd. Father Thomas <lb/> Burke travel by train to Dublin <lb/> thence to England. Age 26 years <lb/> 5ft. 7in Dark Brown eyes <lb/>Reg. nose. Dark Com. Reg. <lb/>face. Slight male Dark hair <lb/>Slight Scar on Chin right side  <seg type="closer"> P.I. Killacky HP Constable </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

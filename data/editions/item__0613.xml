@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0613">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Langford Beazley to Piaras Béaslaí , 27 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Langford Beazley</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter to Piaras Béaslaí (born Percy Frederick Beazley; 1881–1965) from his father, Patrick Langford Beazley. After enquiring after Piaras&#39;s sea journey to Dublin, Patrick writes about the increased employment opportunities for women. He claims that they are getting a good wage but not as high as the men they have replaced. Béaslaí was an English-born, influential member of the IRB. In February of 1916 he published the Fáinne, a publication to organise Gaelic speakers. He soon abandoned it and became involved in politics and would later fight in the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>MS 33,972 / 11</collection>
+                  <idno>https://letters1916.ie/item/613</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1204">Patrick Langford Beazley</persName>
+              <date>1916-01-27</date>
+              <placeName key="#letters1916_place-1359">Cheshire, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Piaras Béaslaí</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0613_img_203_1"  type="Letter"  url="a78cd7184f26cada9aa9d8d1df52130a.jpg"/>
+      <graphic xml:id="L1916_0613_img_203_2"  type="Letter"  url="a5735d1ea76635fbab877c9c43404716.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0613_img_203_1"/>
+                Glengariff,  Rudgrave Square,  Egremont,  Cheshire,    27<hi rend="superscript"><hi rend="underline">th</hi></hi> Jan., 1916.   My dearest Pierce,   I hope you got through<lb/> your journey to Dublin <lb/><sic>allright</sic>. We were hoping <lb/> to have a line from you; <lb/> I have no doubt it will<lb/> come in a day or so. The<lb/> weather was, I think, pleasâ<lb/>ant for travelling, and I <lb/>dare say the sea was fairly<lb/> calm. If you had gone <lb/> the previous day you would <lb/> have found it pretty rough, if <lb/>one may judge from the conâ  
+            <pb n="2" facs="L1916_0613_img_203_2"/>
+              dition of the <seg type="unclear">waves</seg>. We are <lb/> both well, thank God, but have<lb/> no news. There can be no <lb/> doubt that the women here<lb/> are taking advantage of the<lb/> chances offered them. They are <lb/> crowding into all the outâ<lb/>door employments in which <lb/> their services are demanded and <lb/> in a great many of the offiâ<lb/>ces they are performing the <lb/> work of clerks and bookâ<lb/>keepers. They are getting very <lb/>good wages, but not such high <lb/>pay as the men whom they reâ<lb/>place got. It is probable there <lb/> will be ructions on the subject <lb/> after the war.   Take good care of your health <lb/> and write. <seg type="closer"> With fondest love from mother and myself,<lb/> Ever affectionately   Father. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

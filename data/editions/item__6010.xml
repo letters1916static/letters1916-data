@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6010">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Archibald R Cameron to James Craig, 23 June 1922</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Archibald Cameron</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Correspondence and papers re Field Marshall Sir Henry Wilson, PRONI/CAB 6-89-54</collection>
+                  <idno>https://letters1916.ie/item/6010</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1311">Archibald Cameron</persName>
+              <date>1922-06-23</date>
+              <placeName key="#letters1916_place-0710">Headquarters, Ulster District, Regent House, Newtownards, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1198">James Craig</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1949">Belfast, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1927</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6010_img_None_1"  url="d86e0bcc79ea1e293e1c9083565d39e2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6010_img_0_1"/>
+             2742/A  CAB6/<seg type="unclear">8</seg>9/54   4    Headquarters,<lb/>Ulster District,<lb/>Regent House,<lb/>NEWTOWARDS    23rd June, 1922    Dear Sir James Craig,   Permit me on the part of the troops<lb/>in ULSTER, who feel deeply the loss of such a<lb/>distinguished soldier as the late Field Marshal<lb/>Sir Henry WILSON, to condole with you in the<lb/>death of such a loyal and trusted Ulsterman,<lb/>who was a great personal friend to so many<lb/>of you.  I can assure you that we fully feel<lb/>with you for the sorrow his death in such<lb/>circumstanes must have caused his friends in<lb/>ULSTER, and for the additional anxieties it<lb/>causes you in your position.   Your sincerely,<lb/>A.R. Cameron    Sir James CRAIG, Bt.<lb/>Prime Minister,<lb/>Northern Ireland     
+         </ab>
+      </body>
+   </text>
+</TEI>

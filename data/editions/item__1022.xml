@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1022">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas Laffan, 24 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Laffan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Thomas Laffan (1842-1918) to the librarian at the Royal College of Physicians of Ireland (RCSI) requesting to borrow a copy of Hutchinson&#39;s work on food and dietetics and Plimmer&#39;s biochemistry.Aside from his work within the medical profession, Dr Thomas Laffan also had a strong interest in politics. Throughout his life he was a frequent contributor to the Irish Press.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-13-131, RCPI-2-3-2-13-131</collection>
+                  <idno>https://letters1916.ie/item/1022</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1207">Thomas Laffan</persName>
+              <date>1915-11-24</date>
+              <placeName key="#letters1916_place-1786">Cashel, Tipperary, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1022_img_2914_1"  type="Letter"  url="d7c92be9f9d6e247ce26e72f49a1adaf.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1022_img_2914_1"/>
+                Cashel    Nov. 24<hi rend="superscript">th</hi> 1915   Dear Sir   I would be greatly obliged to <lb/>you if you would let me <lb/>have a loan for a few <lb/>days of Hutchinson's work <lb/>on Food and Dietetics <lb/>and Plimmer's <lb/>Biochemistry. I take it that <lb/>a member would be entitled <lb/>to this privilege but if not <lb/>I doubt much that anyone <lb/>would object. I of course <lb/>would pay post both <lb/>ways. <seg type="closer"> Yours truly  Thomas Laffan </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

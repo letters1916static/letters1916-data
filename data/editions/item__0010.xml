@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0010">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Nancy O'Rahilly to Mabel FitzGerald, May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Nancy O&#39;Rahilly</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Nancy O&#39;Rahilly (1875-1961) to Mabel FitzGerald (née Washington McConnell) (1884-1958), wife of politician and intellectual Desmond FitzGerald (1888-1947). Mrs. O&#39;Rahilly acknowledged Mrs. FitzGerald&#39;s letter and enclosure and says she will send something to Mrs. Evans (probably Julia Evan). She comments that &#39;at least&#39; Desmond FitzGerald escaped death, and she says that, although she is well, she finds it difficult &#39;to start life again&#39;.Nancy O&#39;Rahilly was a member of the Provisional Council of Cumann na mBan at the founding in 1914. She was the wife of Michael Joseph O&#39;Rahilly, self-described as &#39;The&#39; O&#39;Rahilly (1875-1916) who was shot in Parnell/Moore Street on 28 April 1916 and died some time later. Nancy was pregnant at the time of her husband&#39;s death – the child was born three months later. Both Desmond FitzGerald and The O&#39;Rahilly had attempted to stop the Easter Rising from taking place but joined in when they realised it was going ahead anyway.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1608/2</collection>
+                  <idno>https://letters1916.ie/item/10</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1534">Nancy O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0010_img_1036_1"  type="Letter"  url="47e6e31c299c8f53a5b62b6d328f6777.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0010_img_1036_1"/>
+               A Chara   I received your letter <lb/>&amp; enclosure. I will send <lb/> something today to M <hi rend="superscript">rs</hi><lb/> Evans. How happy for you <lb/> that Desmond has <lb/>at least escaped death. <lb/>I am keeping well, but <lb/>find it hard to start <lb/>life again.  <seg type="closer"> Yours  N. O'Rahilly </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

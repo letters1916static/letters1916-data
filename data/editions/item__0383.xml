@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0383">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Hugh Kirker to George V, King of England, 7 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Hugh F. Kirker</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Hugh Kirker In the letter Kirker wishes to King George V. In the letter Kirker wishes to express the loyalty of the Presbytery of Ireland, in connection with the United Free Church of Scotland, following the outbreak of the 1916 Rising. Kirker criticizes the actions of those involved in the Rising and the deplorable loss of life.Reverend Hugh Fitzwalter Kirker (1860 - 1935) was a minister of the United Free Church of Scotland. The letter is addressed to King George V (1865 - 1936), king of Great Britain and Ireland.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/9819/1</collection>
+                  <idno>https://letters1916.ie/item/383</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0779">Hugh F. Kirker</persName>
+              <date>1916-06-07</date>
+              <placeName key="#letters1916_place-0579">Ballyfrenis, Donaghadee, Co. Down, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">George V of England </persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0383_img_1643_1"  type="Letter"  url="6d2bee14f989765b89d6c207edb03a4d.jpg"/>
+      <graphic xml:id="L1916_0383_img_1643_2"  type="Enclosure"  url="19abf107e57953e898959dc860b2f5ab.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0383_img_1643_1"/>
+                To the King's most Excellent Majesty.   May it please Your Majesty,   The Presbytery of Ireland in connection with <lb/> the United Free Church of Scotland at their <lb/> first meeting after the recent outbreak of <lb/> rebellion in this country desire to express <lb/> loyalty to Your Majesty's Throne and to the <lb/> constitution of the United Kingdom.  They deplore the spirit manifested in <lb/> the rising in Dublin, with the distressing <lb/> loss of valuable lives: they sympathize <lb/> with all who have suffered, and rejoice <lb/> that order has been so speedily restored.  <seg type="closer"> Signed in the name of the Presbytery, <lb/> (Rev) Hugh F. Kirker, M A  Presbytery Clerk.<lb/>  Ballyfrenis,  Donaghadee,  Co. Down.    7th June 1916.  </seg> 
+            <pb n="2" facs="L1916_0383_img_1643_2"/>
+              With <lb/> The Private Secretary's <lb/> compliments. <lb/> 9th June, 1916.  
+         </ab>
+      </body>
+   </text>
+</TEI>

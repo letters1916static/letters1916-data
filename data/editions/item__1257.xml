@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1257">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas J. Cullen, 8 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas J Cullen</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from Thomas J. Cullen, honorary secretary of the Irish National Aid Association. The letter refers to the printing of postcards that would be sold to raise funds. It also requests strong envelopes and copies of a photograph of Patrick and William Pearse, executed after the Rising.The association was founded after the Rising to provide relief to the dependents of those who were executed, killed in the fighting or had lost their employment. It later merged with the Irish Volunteer Dependents&#39; Fund to form the Irish National Aid and Volunteer Dependents&#39; Fund.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Joseph Michael Stanley Collection, BMH CD/4/3/6</collection>
+                  <idno>https://letters1916.ie/item/1257</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0002">Thomas J Cullen</persName>
+              <date>1916-07-08</date>
+              <placeName key="#letters1916_place-0926">Irish National Aid Association Offices, Exchequer Street, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1257_img_447_1"  type="Letter"  url="b7bd819922f2058eb1b64c5ddbc6af1d.jpg"/>
+      <graphic xml:id="L1916_1257_img_447_2"  type="Enclosure"  url="390b978d489fec9a0cf9c8d5ccd0f90c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1257_img_447_1"/>
+                <seg type="foreign">COMHLUCHT CONGANTA NA nGAODHAL</seg>  IRISH NATIONAL AID ASSOCIATION  Offices â GRAND CENTRAL HALLS,  10 EXCHEQUER STREET,  DUBLIN,    8 July 1916   Dear Sirs,   Please print 2000 x  receipt  postcards according to instructions <lb/> given to your representative here today. Please let <lb/> me have a hundred or so at <hi rend="underline">least</hi> by 5 <hi rend="superscript">oc</hi> on <lb/> Monday afternoon. The remainder during the week, on Tuesday if possible.   Also 500 strong envelopes to hold each, 12 copies <lb/> of the Pearse Brothers photo. 100 of these to be <lb/> delivered on Monday.  <seg type="closer"> Yours truly,  Thomas J. Cullen <lb/>Hon. Sec <lb/>The Gaelic Press <lb/><hi rend="underline">30 Liffey St</hi></seg> 
+            <pb n="2" facs="L1916_1257_img_447_2"/>
+              Letter from Thomas J. Culllen <lb/> Irish National Aid Association. <lb/>8 <hi rend="superscript">th</hi> July 1916   
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2311">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas O'Dea to John F. Hogan, 9 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas O&#39;Dea</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>John Francis Hogan (1858-1918) was a priest, author and president of St Patrick&#39;s College, Maynooth. He was a teacher in French and Latin and paved the way for ecclesiastical degrees in the college. 
+Thomas O&#39;Dea (1858-1923) was educated in Maynooth and remained in the college, later becoming vice president. He was first ordained in Galway before becoming bishop of Clonterf and Galway.
+The letter is a request from Thomas O&#39;Dea to have the services of a Mr Ruane for the following Sunday.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>St Patrick&#39;s College, Maynooth</repository>
+                  <collection>John F. Hogan Papers, 21/15/15</collection>
+                  <idno>https://letters1916.ie/item/2311</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0665">Thomas O&#39;Dea</persName>
+              <date>1916-03-09</date>
+              <placeName key="#letters1916_place-2115">Mount St. Mary&#39;s, County Galway, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John Francis Hogan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1923</item>
+               <item n="tag">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2311_img_1759_1"  type="Letter"  url="8901ea590c878c153b142e077b600d0d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2311_img_1759_1"/>
+             MOUNT ST. MARY'S, <lb/>GALWAY.   9/3/1916   Dear President   Kindly say whether I <lb/>may expect Mr. Ruane <lb/>for Sunday next.   Yours V. Sincerely   + J.O'Dea 
+         </ab>
+      </body>
+   </text>
+</TEI>

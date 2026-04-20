@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3160">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Peter Mooney to sister Katie, 10 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Peter Mooney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Orphaned at age 7, Peter Mooney and his sister Katie Mooney were raised by their uncle William and his wife Mary in Caulstown. While there are no surviving enlistment papers for Peter, his War Badge Index Record shows his enlistment date as 18 October 1915. He served with the Royal Artillery and later transferred to the Royal Engineers where he was promoted to the rank of Sergeant. He served in several places at the Western Front, including Ypres, St. Omer and Passchendael. Peter and Kate were avid correspondents. This letter part of a collection of over ninety surviving letters.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Mooney Family Papers</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/3160</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0428">Peter Mooney</persName>
+              <date>1916-07-10</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1038">Katie Mooney</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1975">Meath, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3160_img_2581_1"  type="Letter"  url="355fe8f22f50cf8e1626a653bd0e67f0.jpg"/>
+      <graphic xml:id="L1916_3160_img_2581_2"  type="Envelope"  url="783e7ecb19dcc70b657c75de35404344.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3160_img_2581_1"/>
+              July 10<hi rend="superscript">th</hi> 1916   Dear Katie,   I hope this letter will find you all in good health<lb/>I am in the pink &amp; feel better than ever. The weather is very<lb/>fine out here I hope it is the same in the old country. I suppose<lb/>the meadow is mowed by this time. As I write this letter the<lb/>fair of Dunboyne is in full swing I suppose Mathy Geragthy is<lb/>bringing a few screws today. How is Paddy going on<lb/>these times. I hope things are going better now do the best<lb/>you can until I get home again. You might send me a<lb/>razor in next parcel I have only one now another comes in<lb/>handy. I hope Bridget is well of the toothache tell her to remember<lb/>me to all at home. How is old Billy he is very old now the<lb/>little (jockey) horse must be a beauty now. The hedges along<lb/>the road will get a rest this summer. I will not be there to<lb/>keep them down. I would like if they could be kept in order<lb/>somehow. I know Jonny will do his best. I had a letter from<lb/>Tommy last week he told me the foal is as wild as a<lb/>stag. I was dreaming that I saw the two of them last night.<lb/>Remember me to all the neighbours around I hope all are well.<lb/>It will be a long time before I am home again I might be here<lb/>for the <seg type="unclear">finish</seg> one are giving them socks now they will never beat<lb/>us. I have no more to say at present so I say good bye &amp; may god<lb/>bless &amp; keep you all. Good bye.    Peter Mooney. <lb/>Write soon. 
+            <pb n="2" facs="L1916_3160_img_2581_2"/>
+              Miss K. Mooney<lb/>Caulstown<lb/>Dunboyne<lb/>Co Meath<lb/>Ireland  
+         </ab>
+      </body>
+   </text>
+</TEI>

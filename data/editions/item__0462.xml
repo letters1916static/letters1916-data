@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0462">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Condon to The Under Secretary, 17 June, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Condon</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Mr. Condon, a solicitor, to the Sir Robert Chalmers. In this letter Mr. Condon submits his application for the position of Clerk of Crown and Peace for Co. Westmeath.Sir Robert Chalmers (1858 - 1938) was sent to Ireland as replacement under-secretary for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5615/10270</collection>
+                  <idno>https://letters1916.ie/item/462</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1317">John Condon</persName>
+              <date>1916-06-17</date>
+              <placeName key="#letters1916_place-0779">Newcastlewest, Co. Limerick, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0268">Dublin Castle, Dublin, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0462_img_1808_1"  type="Letter"  url="30fe36de60e81ee1dfd8e5f9fd0d4d2e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0462_img_1808_1"/>
+                Offices, Newcastle, Co. Limerick,  and Listowel, Co. Kerry.  Newcastlewest Office.   John Condon, <hi rend="underline">Solicitor.</hi> Dear Sir,   I beg to apply to His <lb/> Excellency The Lord Lieutenant for <lb/> the appointment of Clerk Crown <lb/> and Peace for Co. Westmeath <lb/> vacant by the death of late Mr. <lb/> Kelly  <seg type="closer"> Yours faithfully <hi rend="underline">John Condon</hi><lb/>  The Under Secretary  The Castle  Dublin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

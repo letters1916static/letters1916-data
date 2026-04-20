@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3666">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Lancelot Bromley to Ephraim MacDowel Cosgrave, 16 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Lancelot Bromley</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Lancelot Bromley (1885-1945) to Ephraim MacDowel Cosgrave (1853-1925) enclosing a letter from Lord Derby. While the enclosure is no longer present it appears  to have concerned the supply of medical graduates to the army.
+
+Ephraim MacDowel Cosgrave served as president of the Royal College of Physicians of Ireland in 1914 and held the position until 1916. Aside from his dedication to medicine Cosgrave was also a member of the Royal Society of Antiquities of Ireland, treasurer of the Royal Zoological Society of Ireland and a founder and secretary of the Georgian Society of Dublin.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T45</collection>
+                  <idno>https://letters1916.ie/item/3666</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0721">Lancelot Bromley</persName>
+              <date>1915-11-16</date>
+              <placeName key="#letters1916_place-0604">Medical School Office, Guy&#39;s Hospital, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1499">Ephraim MacDowel Cosgrave</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1945</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3666_img_3060_1"  type="Letter"  url="4800569963741a448220d57253e81b03.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3666_img_3060_1"/>
+             <hi rend="underline">Private and Confidential.</hi>   Medical School Office, <lb/>Guy's Hospital, S.E.   November 16th, 1915.   Sir,   I am instructed to forward for your information the <lb/>enclosed letter which has been addressed to Lord Derby a <lb/>copy having at the same time been forwarded to the Prime <lb/>Minister, the Admiralty, the War Office, and other Govern- <lb/>ment Departments.   My School regrets that owing to the urgency of the <lb/>matter it was not possible to attempt to secure concerted <lb/>action amongst those interested in medical education before <lb/>addressing the Government. It trusts, however, that its <lb/>proposals may be supported by such medical bodies as <lb/>believe that it is desirable to obtain for the Government <lb/>control over the services of all students who become <lb/>qualified in the near future, and to maintain a continuous <lb/>supply of students to replace the wastage of war.   Believe me, <lb/>Yours faithfully,   L. Bromley  <lb/>Dean.  The President, <lb/>Royal College of Physicians of Ireland.   MaerC <lb/>3.XII.15 
+         </ab>
+      </body>
+   </text>
+</TEI>

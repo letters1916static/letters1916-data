@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0973">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from M.C. Seton to the Under Secretary, 1 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M.C. Seton</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from M.C. Seton to the under secretary for Ireland concerning the ex-military criminal lunatic James Coghlan. According to Seton payment has been passed to the Governor of the Dundrum Criminal Lunatic Asylum for Coghlan&#39;s detention. Additionally, Seton, on the behalf of Secretary Chamberlain, requests to know the circumstances of Coghlan&#39;s release from the asylum and to which prison he has been sent to serve out the remained of his sentence.At the time this letter was written Sir Matthew Nathan (1862-1939) was serving as under secretary of Ireland. Nathan served as under secretary from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, 1916-20278</collection>
+                  <idno>https://letters1916.ie/item/973</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0040">M.C. Seton</persName>
+              <date>1916-12-01</date>
+              <placeName key="#letters1916_place-0239">India Office, Whitehall, London, S.W., England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0973_img_2816_1"  type="Letter"  url="97a62ab6aed4420dcf8f0d8c020d407b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0973_img_2816_1"/>
+                INDIA OFFICE,  WHITEHALL,  LONDON, S.W.    1 December, 1915.   Sir,   With reference to Sir E.O. Farrell's letter <lb/>No.19110, dated the 17th ultimo, regarding the exâmilitary <lb/>criminal lunatic James Coghlan, I am directed by Mr. Secretary <lb/>Chamberlain to state for the information of His Excellency <lb/>the Lord Lieutenant of Ireland that the sum of Â£26.12.7. <lb/>has been passed for payment to the Governor of the Dundrum <lb/>Criminal Lunatic Asylum.  Mr. Chamberlain would be glad to be informed of <lb/>the circumstances in which Coghlan, who was sentenced to <lb/>death for murder in April 1910 and whose sentence was <lb/>afterwards commuted by Government to penal servitude for <lb/>life, was discharged from the Dundrum Criminal Lunatic <lb/>Asylum on the 15th October last, and also to what prison <lb/>he has been transferred to serve the remainder of his <lb/>sentence. <seg type="closer"> I have the honour to be, Sir, <lb/>Your obedient Servant,  M.C.Seton   The Under Secretary,  DUBLIN CASTLE.  </seg> I Note answer <lb/> II Convict Department <lb/>For report <lb/><seg type="unclear">E. Aof</seg> 2âXIIâ15  
+         </ab>
+      </body>
+   </text>
+</TEI>

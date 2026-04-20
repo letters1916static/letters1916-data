@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0376">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Brown to Sir Matthew Nathan, 15 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Brown</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Robert Brown to Sir Matthew Nathan (1862-1939). In the letter Brown refers to the fraud case of Henry McCambley, for which he was asked by the Leith police to attend at witness. Brown goes on to state that his expenses were payed out of his pocket and that he lost wages by attending the trail. For this he requests compensation stating that it was over 6 months since he lost his earnings.Nathan was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising. Robert Brown was the assistant manager at the National Margarine Company Ltd. Before the war, a middle-class British household tended to put butter on the table, and reserve margarine for cooking purposes. But because the rations for the margarines were more generous than for butter, margarine worked its way out of the kitchen and into the dining room.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5613/6825</collection>
+                  <idno>https://letters1916.ie/item/376</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1431">Robert Brown</persName>
+              <date>1916-04-15</date>
+              <placeName key="#letters1916_place-0960">Leith, Edinburgh, Scotland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Law and Judiciary</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0376_img_1622_1"  type="Letter"  url="41006727075c129447c998ac2769c7b7.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0376_img_1622_1"/>
+              The National Margarine Company <lb/> Limited  <seg type="del">Inspector General, R.26 <lb/> For report, please, <lb/> as to A. <lb/><hi rend="underline">17 â 4 â 16</hi></seg>    10, Quality Street,  Leith    15th. April 1916    To The Under Secretary,  Dublin Castle,  DUBLIN.   Dear Sir,   <hi rend="underline">Re MeCambley alleged fraud.</hi>  It was requested by the Belfast Police Officials (the request <lb/> being communicated through the chief Constable Leith)to proceed <lb/> to Belfast to give information regarding the alleged fraud.   Complying with the request I proceeded to Belfast on Oct.8th retur <lb/> âning home on Oct.10th.1915.The sum actually paid out of my pock <lb/> âet for expenses incurred amounted to Â£2/13/4 and I suffered consid <lb/> âerable loss through being absent from my work. I have received <lb/> through the Leith Police the sum of Â£2/13/4for travelling expen <lb/> âses but my claim for the sum of Â£1/1/0 for loss of time and em <lb/> âployment is evidently not forthcoming,As it is over six months <lb/> since I sustained the loss of earnings I think it is now time that <lb/> the sum was paid over to me.I shall thank you to give instruct <lb/> âions for payment to be made without further delay.  <seg type="closer"> Yours truly, <seg type="del">for</seg> The National Margarine <lb/><sic>Roc</sic> Brown Assistant Manager </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

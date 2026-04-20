@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1372">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mary Anne Curley, 14 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mary Anne Curley</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Mrs. Mary Anne Curley to the Chief Secretaries Office. In the letter Mrs. Curley raises concerns over her four children who have been taken from her and her husband, who is serving at the front. Mrs. Curley mentions that she is receiving separation allowance and can provide a clean home for the children.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3730</collection>
+                  <idno>https://letters1916.ie/item/1372</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0991">Mary Anne Curley</persName>
+              <date>1916-02-14</date>
+              <placeName key="#letters1916_place-0678">No. 3 Caseys Cottages, Little Bray, County Wicklow, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1372_img_725_1"  type="Letter"  url="2b3b8bc8236133f43b56a8bb7ea21048.jpg"/>
+      <graphic xml:id="L1916_1372_img_725_2"  type="Letter"  url="93d39229aee70abc4f3d0b94b00a9baa.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1372_img_725_1"/>
+                N3 Caseys Cottages  Little Bray   To <hi rend="underline">His</hi> Excellency   My Lord Pardon <lb/>my acquainting you about my <lb/>four children which has been <lb/>taken and sent from me. I <lb/>have not even the satisfaction <lb/>of knowing their whereabouts. <lb/>My Husband is at present <lb/>at the Front Wishes me to <lb/>aquaint your Lordship on <lb/>the matter. I am receiving â <lb/>separation allowance and is <lb/>quite willing to support and <lb/>keep our children if they get <lb/>their Liberty I have a good <lb/>clean house for them  I ack. <lb/>II Dr Kieran <lb/>for report <lb/>15/2/16   
+            <pb n="2" facs="L1916_1372_img_725_2"/>
+              My Lord, <lb/>trusting you will <lb/>look into the matter <lb/>that they may get their <lb/>liberty. <seg type="closer"> <hi rend="underline">My Lord</hi><lb/>I am Your most Obedient  Mary Anne Curley   N3 Caseys Cottages  Little Bray  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

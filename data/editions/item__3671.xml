@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3671">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Jackson to The Librarian, Royal College of Physicians of Ireland, 27 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Herbert Jackson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from James Herbert Jackson acknowledging the Royal College of Physician of Ireland&#39;s request and enclosing copies of Dr Burke&#39;s conviction certificates.  
+
+In 1916 the serving librarian of the RCPI was Mr Robert Phelps.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T47-4</collection>
+                  <idno>https://letters1916.ie/item/3671</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0225">James Herbert Jackson</persName>
+              <date>1915-11-27</date>
+              <placeName key="#letters1916_place-0862">West Ham Police, Court, West Ham Lane, Stratford , England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1482">Robert Phelps</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3671_img_3065_1"  type="Letter"  url="9c688a610cfe13731483ded4ca9dedc9.jpg"/>
+      <graphic xml:id="L1916_3671_img_3065_2"  type="Letter"  url="88f6559c3c677e82815eccc8117ba2f5.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3671_img_3065_1"/>
+             WEST HAM POLICE COURT, <lb/>WEST HAM LANE, <lb/>STRATFORD. E.   27th November 1915.   Sir,   I beg to acknowledge receipt of your letter of the <lb/>25th instant enclosing P O for 2/- asking for copy convictions <lb/>of Dr Ulick Burke who was convicted at this Court for <lb/>drunkeness.   I now enclose you copies of two conviction<seg type="del">ed</seg> s  entered in <lb/>the Court Register.   I am, <lb/>Sir, <lb/>Your obedient servant   J.H. Jackson  <lb/>Clerk to the Justices  The Librarian <lb/>Royal College of Physicians of Ireland <lb/>Kildare Street <lb/>Dublin 
+            <pb n="2" facs="L1916_3671_img_3065_2"/>
+             <hi rend="underline">COUNTY BOROUGH OF WEST HAM.</hi>   <hi rend="underline">MEMORANDUM</hi> of a Conviction entered in the Register of the Court of Summary Jurisdiction <lb/>sitting at the Police Court West Ham Lane Stratford.   <hi rend="underline">TUESDAY the Eighth day of June 1915.</hi>   No. Name of Informant Name of Defendant Nature of Offence Date of Offence Plea Minute of Adjudication <lb/>2859 Edwards P C 685k Burke Ulick (52) Drunk &amp; Disorderly 7-6-15 Guilty 10/- or 7 days   R A Gillespie <lb/>Police Magistrate <lb/>I certify the above to be true copy.   James H. Jackson  <lb/>Clerk of the said Court of Summary Jurisdiction  Dated this 26th day of November 1915.   MaerC. <lb/>3.XII.15 
+         </ab>
+      </body>
+   </text>
+</TEI>

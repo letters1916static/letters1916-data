@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0385">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Brown to Robert Chalmers, 12 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Brown</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Robert Brown, the assistant manager at the National Margarine Company Ltd. to Sir Robert Chalmers (1858 - 1938). In the letter Brown requests compensation for attending the trail of Henry McCambley (b.1871). Brown was required to attend the hearing as a witness in Belfast. The letter discusses the money Brown lost stating that if he was aware that he would not receive the cost of travel and his loss of wages he would have refused to go to Belfast, and that at the time he was assured the Belfast authorities would provide his finance. Brown also discusses the treatment he received from the Constabulary stating that is is scandalous.Sir Robert Chalmers was sent to Ireland as replacement under-secretary for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5613/8183/1</collection>
+                  <idno>https://letters1916.ie/item/385</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1431">Robert Brown</persName>
+              <date>1916-05-12</date>
+              <placeName key="#letters1916_place-0749">Leith</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0385_img_1647_1"  type="Letter"  url="ed41d62f99f774a870dbd26a72b1247c.jpg"/>
+      <graphic xml:id="L1916_0385_img_1647_2"  type="Letter"  url="612c8d09b9e5a7327ae281755f08a013.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0385_img_1647_1"/>
+                THE NATIONAL MARGARINE COMPANY  LIMITED.  10 QUALITY STREET,  LEITH    12th May 1916.    To the Under Secretary,  Dublin Castle,  DUBLIN.   Dear Sir,   I am in receipt of your favour of 10th. inst and I respect<lb/> -fully submit that your letter is most unsatisfactory. If you are<lb/> under the impression that the Constabulary Authorities have act<lb/> -ed in a fair manner then I must take leave to differ from you.<lb/> First of all I will state that if I had thought for one moment<lb/> that my loss of earnings was to be treated as of no consequence,<lb/> and compensation refused, then I would certainly have declined to<lb/> go to Belfast.  In proceeding to Belfast to give the Police Authorities the<lb/> information they desired I acted in good faith and the Police Auth<lb/> -orities in Leith informed me that my expenses would be paid by<lb/> the Belfast Police Authorities.  Do you seriously wish me to believe that in your opinion<lb/> I was entitled to leave my duties on 8th. Oct. and proceed to Bel<lb/> -fast, returning home on the 10th. Oct. without being allowed a single  
+            <pb n="2" facs="L1916_0385_img_1647_2"/>
+              penny for loss of time, being absent from my work?  I hope this is not a sample of Dublin Castle rule.<lb/> I must protest against the unjust treatment which you are<lb/> seeking to impose on me and I hope you will re-consider my claim<lb/> for compensation for loss of time as I certainly cannot allow the<lb/> matter to remain in abeyance much longer.  If the Constabulary Authorities had treated me in a just<lb/> manner it would not have been necessary to refer this matter to<lb/> you. They treated me in a very supercilious manner and I had to<lb/> wait for over <seg type="del">four</seg> five  months before they even <sic>though</sic> it was worth while<lb/> to pay me over the sum that I paid out of my pocket to take me<lb/> to Belfast and back. I think such treatment is simply scandalous. <seg type="closer"> Yours truly,  Rob Brown <lb/><hi rend="underline">Assistant Manager</hi></seg><cb/> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3825">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Alfred Miller to Royal College of Physicians of Ireland, 5 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Alfred Miller</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Alfred Miller (1884-1942) to the Royal College of Physicians of Ireland (RCPI) concerning a resolution passed by the Committee of Management. The resolution recommends that the college restrict their recognition of courses given at technical schools and at the Pharmaceutical Society of Ireland.
+
+ Alfred Miller served as both the registrar of the Royal College of Surgeons (1910-1938) and as secretary to the Conjoint Board of the College of Physicians and College of Surgeons. At the outbreak of the Rising Miller instructed James Duncan, the college porter, to lock the college doors in order to deter Michael Mallin&#39;s occupying rebel force in St. Stephen&#39;s Green.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T84</collection>
+                  <idno>https://letters1916.ie/item/3825</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0696">Alfred Miller</persName>
+              <date>1916-07-05</date>
+              <placeName key="#letters1916_place-1615">Royal College of Surgeons, Stephen&#39;s Green, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0320">Royal College of Physicians of Ireland</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1942</item>
+               <item n="tag">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3825_img_3205_1"  type="Letter"  url="fb3ff4b1e4f48ff94e4ec98a57154dc1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3825_img_3205_1"/>
+             CONJOINT BOARD IN IRELAND<lb/>OF THE<lb/>Royal College of Physicians and the Royal College<lb/><hi rend="underline">of Surgeons.</hi>  OFFICES OF COMMITTEE OF MANAGEMENT<lb/>ROYAL COLLEGE Of <seg type="del">PHYSICIANS</seg> SURGEONS<lb/><seg type="del">KILDARE STREET</seg> STEPHEN'S GREEN<lb/>DUBLIN,   5/7/1916   ALFRED MILLER,<lb/>Secretary   Dear Sir,   I am directed by the Committee of Management to send<lb/>you a copy of the following Resolution which was unanimously<lb/>adopted at their last Meeting :-     That we recommend the Royal Colleges to restrict their<lb/>recognition of Courses of Lectures delivered at the<lb/>Technical Schools, and at the Pharmaceutical Society of<lb/>Ireland, to such Courses only as are given by day.   I am,<lb/>Yours faithfully,   Alfred Miller, <lb/>Secretary  The Registrar,<lb/>Royal College of Physicians<lb/>Kildare St. Dublin   Maer C.<lb/>7.VII.16  
+         </ab>
+      </body>
+   </text>
+</TEI>

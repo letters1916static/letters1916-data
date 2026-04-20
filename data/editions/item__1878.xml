@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1878">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Ernest Chapman to Robert Chalmers, 30 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Ernest Chapman</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from William Ernest Chapman (1891-1962), a solicitor, to Robert Chalmers (1858-1938), the assistant under-secretary for Ireland. Chalmers became assistant under-secretary for a brief period following the resignation of Matthew Nathan (1862-1939) following the administrative failure around the 1916 Rising. The letter acknowledges a letter received the previous day. The letter states that Chapman has heard Mary Keegan will return when the doctors allow her to. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/5612/9198</collection>
+                  <idno>https://letters1916.ie/item/1878</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0846">William Ernest Chapman</persName>
+              <date>1916-05-30</date>
+              <placeName key="#letters1916_place-1479">32 Nicholas Lane, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers </persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1962</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1878_img_1330_1"  type="Letter"  url="ae4fd4c2d82a437fcdfcd9cc43761074.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1878_img_1330_1"/>
+             32, Nicholas Lane, <lb/>London E.C.  May 30 1916    Dear Sir,   I thank you for your <lb/>letter of yesterday's date.   We have heard from Mary Keegan <lb/>that she will return directly the <lb/>doctor will allow her to do so and <lb/>that the Police have permission to give <lb/>her any pass that may be necessary   Yours <seg type="unclear">truly</seg>   Ernest E. Chapman   The <seg type="unclear">Under</seg> Sec. <lb/>Dublin Castle. 
+         </ab>
+      </body>
+   </text>
+</TEI>

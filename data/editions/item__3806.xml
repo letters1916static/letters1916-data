@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3806">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Myles Colt to Robert Phelps, 20 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Myles Colt</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Dr Myles Colt (1885-1966) to the librarian of the Royal College of Physicians of Ireland, Robert Phelps, informing the college that he has changed his name from Myer Cohen to Myles Colt by deed poll. Colt requests that the college also implement the name change on the rolls of the college and any certificates issued by them. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T79-1</collection>
+                  <idno>https://letters1916.ie/item/3806</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0482">Myles Colt</persName>
+              <date>1916-06-20</date>
+              <placeName key="#letters1916_place-0386">5 Stamford Hill, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1482">Robert Phelps</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1966</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3806_img_3189_1"  type="Letter"  url="c528e39768b03923295ad6adca565780.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3806_img_3189_1"/>
+             <hi rend="underline">20 June 1916</hi>   5, STAMFORD HILL,  London  N.   Robert Phelps Esq <lb/>Secretary Royal College of Physcicians of Ireland <lb/>6 Kildare Street. Dublin.   Dear Sir.   I have changed my name by Deed Poll from <lb/>Myer Cohen to Myles Colt and I shall be <lb/>obliged if you will have change of my name registered <lb/>on the rolls of the Royal Colleges, also change of <lb/>name endorsed on my certificate.   Under separate Cover and Registered I am sending <lb/>you my Diplomas, with a Copy of the Gazette <lb/>containing the announcement.   I enclose cheque ₤1.1.0 payable to each of the <lb/>Colleges.   An acknowledgement that you have received same <lb/>Safely will oblige &amp; also <hi rend="underline">early</hi> return of altered <lb/>certificates.    Yours Faithfully    Myles Colt L.R.C.P &amp; S.I.    Macd.C <lb/>7.VII.16 
+         </ab>
+      </body>
+   </text>
+</TEI>

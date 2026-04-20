@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0940">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Joseph Slevin to the Longford Urban District Council [December 1915]</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Joseph Slevin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Joseph Slevin, town surveyor for Longford, regarding maintenance of house along the back of St. Mel&#39;s Road in Longford town.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Longford County Archives Service</repository>
+                  <collection>LUDC-1-3-1915-12-7, LUDC-1-3-1915-12-7</collection>
+                  <idno>https://letters1916.ie/item/940</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0938">Joseph Slevin</persName>
+              <date>1915-12-01T00:00:00</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0940_img_2746_1"  type="Letter"  url="adc6ebf4958aa02ded3360e52e02468f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0940_img_2746_1"/>
+               Mr Chairman &amp; Gentlemen   Some of your tenants brought <lb/> under my notice the decayed condition of the <lb/> window sashes in their houses on S<hi rend="superscript">t</hi>. Mels <lb/>Road. It will be necessary to have them put in <lb/>order. The pits also require to be emptied <lb/>There will be gravel required for the front paths <lb/>and it would be well if an order was given <lb/>to the Town Sergeant that no carts, boxes or <lb/>any obstruction were allowed to remain on the <lb/> street or roads overnight.  There have been some houses disinfected <lb/>during the month <seg type="closer"> Your obedient servant  <hi rend="underline">Joseph Slevin TS</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

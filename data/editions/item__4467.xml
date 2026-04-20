@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4467">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from M. L. Waller to Joseph Brennan, 1 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M. L. Waller</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from M. L. Waller to J. Brennan Esq regarding authorization of the release from Reading of Dr. Edward Dunon of Co. Carlow.
+
+Joseph Brennan (1887-1976) was an Irish civil servant acting as private-secretary to Robert Chalmers (1858-1938), the under-secretary for Ireland.
+
+Waller was acting as the Head of the Prisoner of War Division at the Home Office in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI/CSO/RP/1916/13334/2</collection>
+                  <idno>https://letters1916.ie/item/4467</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1066">M. L. Waller</persName>
+              <date>1916-08-01</date>
+              <placeName key="#letters1916_place-0658">Whitehall, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0244">Joseph Brennan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1976</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4467_img_3814_1"  type="Letter"  url="94d17e7c6453d8ac9c4fb0778896a010.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4467_img_3814_1"/>
+              HOME OFFICE,<lb/>WHITEHALL,<lb/><seg type="unclear">G. W. </seg>   315230/3.   1st August 1916.    Dear Sir,   Sir E. Troup desires that you will be so good as<lb/>to inform Sir Robert Chalmers that the Home Secretary<lb/>has authorised the release from Reading of Dr. Edward<lb/>Dundon of Co. Carlow.   I am,<lb/>Yours truly,<lb/>M L Waller    J.Brennan, Esq.,<lb/>Dublin Castle.  
+         </ab>
+      </body>
+   </text>
+</TEI>

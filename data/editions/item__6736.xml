@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6736">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Joseph Walsh to John Quinn, 29 June 1923</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Joseph Walsh</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by James Joseph Walsh (1865–1942) to John Quinn (1870-1924), discussing the controversial Casement journals. Walsh was an Irish-American physician and author living in New York. John Quinn was a lawyer in New York, the son of Irish immigrants who maintained close ties with Ireland during his life through his patronage of the arts. In this letter, Walsh writes to Quinn to tell him has seen sections of the controversial Casement journals. These were from the infamous &#39;Black Diaries&#39;, alleged to have been written by Sir Roger Casement and released during his trial for treason in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>New York Public Library Manuscripts and Archives Division</repository>
+                  <collection>James Quinn Memorial Collection, Box 7, f.4</collection>
+                  <idno>https://letters1916.ie/item/6736</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1509">James Joseph Walsh</persName>
+              <date>1923-06-29</date>
+              <placeName key="#letters1916_place-1557">110 West, 74th Street, New York, US</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1279">John Quinn</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1942</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6736_img_None_1"  url="phpxMrlez.jpg"/>
+      <graphic xml:id="L1916_6736_img_None_2"  url="phpzpASd3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6736_img_0_1"/>
+              Jas. J. Walsh M.D.<lb/>110 West 74th Street<lb/>New York    June 29, 1923    My dear Mr. Quinn:-   Not long after his death you and I saw<lb/>each other one of the rare times that I am sorry<lb/>to say we meet, for I wish it were oftener, I think<lb/>at Madison Square Garden, in the midst of a talk<lb/>by the late Burke Cocheran, God rest his soul, and<lb/>the conversation turned to Sir Roger Casement.  I had not long before been shown some<lb/>manuscripts for my judgment on them as to public-<lb/>ation. They were supposed to be diaries written<lb/>by Sir Roger.  I have been looking for some reference<lb/>to them in English print since and at last I have<lb/>found it. Basil Thomson in his volume My Experiences<lb/>at Scotland Yard, tells of finding the diaries in<lb/>Sir Roger's locked trucks taken from his London<lb/>lodgings and he says of them: It is enough to say<lb/>of the diaries that they could not be printed in<lb/>any age or in any language.  I rather expect that sentence<lb/>will arouse attention and that we shall surely<lb/>hear more of the diaries before long. They are<lb/>evidently supposed to be in the archive of Scotland<lb/>Yard.  A little later on page 102 he says: I<lb/>have made special inquiry with a view to ascertaining 
+            <pb n="2" facs="L1916_6736_img_0_2"/>
+             how long Casement had been under the obsessions<lb/>disclosed in his diary and I feel certain that they<lb/>were of comparatively recent growth, not much before<lb/>the year 1910. This would seem to show that some<lb/>mental disintegration had begun to set in, though<lb/>it was not sufficient to impair his judgment of<lb/>right and wrong. That last clause is interesting<lb/>as showing how confidently Scotland Yard can judge<lb/>of little questions of insanity that might stop an<lb/>expert.  As you knew Sir Roger very well you will<lb/>probably be interested in teh ten pages with regard<lb/>to him and the preceding ten pages on the Germans<lb/>and the Irish which begin with John Devoy and Judge<lb/>Cohalan and which are written so naively from the<lb/>English standpoint.  I hope that you are very well and that all goes <lb/>well with you and I hope to see you sometime before<lb/>very long.   Yours very sincerely    Jas J Walsh  
+         </ab>
+      </body>
+   </text>
+</TEI>

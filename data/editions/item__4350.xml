@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4350">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Herbert Samuel to Edward Carson, 13 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Herbert Samuel</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Herbert Samuel (1870-1963) to Edward Carson (1854-1935). Carson was a prominent Unionist Politician. Originally a practicing solicitor from Dublin, Carson&#39;s opposition to the proposed third Home Rule bill made him the figure head of Unionism throughout the island. He was the centerpiece of the speaking tour that culminated in Ulster Day (28 September 1912), when just under half a million signed Ulster&#39;s solemn league and covenant pledging to use ‘all means which may be found necessary to defeat the present conspiracy to set up a home rule parliament in Dublin’. Carson inaugurated the Larne gunrunning in 1914 which armed the UVF, many of whom Carson would encourage to join the British Army throughout the First World War.. Samuel, liberal politician, served as Home Secretary of the British Government 1916. During the Great War he initiated legislation which offered thousands of Russian refugees a choice between conscription into the British Army, or returning to Russia for military service. Samuel resigned as Home Secretary following Asquith&#39;s replacement by David Lloyd George.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Carson Papers, D1507/A/18/1/11</collection>
+                  <idno>https://letters1916.ie/item/4350</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1103">Herbert Samuel</persName>
+              <date>1916-07-13</date>
+              <placeName key="#letters1916_place-0170">Home Office, Whitehall, London, S.W., England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0539">Edward Carson</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1963</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4350_img_3707_1"  type="Letter"  url="bebc6235e6753b0b0a186c5db8124b48.jpg"/>
+      <graphic xml:id="L1916_4350_img_3707_2"  type="Letter"  url="9c9aa7b49f8a9e49dec81cbaeca8a708.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4350_img_3707_1"/>
+             Home Office, <lb/>Whitehall, <lb/>S.W.   July 13 <hi rend="superscript">th</hi>1916   My dear Carson,   I have asked   <lb/>to send you a copy of <lb/>the provisional draft of <lb/>the Irish <seg type="unclear">Amended</seg> Bill, <lb/>and should be very glad <lb/>if you would discuss <lb/>with me any points <lb/>which arise. Perhaps
+            <pb n="2" facs="L1916_4350_img_3707_2"/>
+            on drafting matters you <lb/>might wish to communicate <lb/>with   direct, and <lb/>I have asked him to <lb/>arrange to see you <lb/>should you so desire.   Yours sincerely   Herbert Samuel   The copy of the Bill <lb/>should reach you to-morrow. 
+         </ab>
+      </body>
+   </text>
+</TEI>

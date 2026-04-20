@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3991">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Daly to Miss Coates, 29 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Daly</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a transcription of a letter from a former Wandsworth prisoner now in the Upper Camp, Frongoch (Prisoner 1107) thanking members of the Ladies Committee on behalf of ‘all of the Wandsworth boys’ and describing the comparably superior conditions at Frongoch. 
+
+This transcription is a continuation (and part of) MS 8434 :23-4.  The James Daly letter has been transcribed and sent with an introduction and postscript referring to other letters.
+
+According to the 1936 Roll of Honour, James Daly served at the Bolands Mill Garrison during the Rising.
+
+From the Art Ó Briain Papers held in the National Library of Ireland.   NLI records indicate that MS 8434 /23 is a collection (13 items) of letters from prisoners in Frongoch and Reading jails.
+
+Art Ó Briain (1872-1949) was Honorary Secretary of The Irish National Relief Fund which was set up to provide assistance to the dependents of those executed in 1916, those sentenced to prison and to the prisoners themselves.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Art Ó Briain papers, c. 1900-c.1945, Ó Briain’s work for Irish political prisoners (1916-21), MS 8434 :23-5</collection>
+                  <idno>https://letters1916.ie/item/3991</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0718">James Daly</persName>
+              <date>1916-06-29</date>
+              <placeName key="#letters1916_place-1881">Frongoch, North Wales (Upper Camp), United Kingdom</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Miss Coates</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3991_img_3378_1"  type="Letter"  url="dd8316c8cf00ccfb63ad6c0aa0baa23e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3991_img_3378_1"/>
+             3  and almost in tear as no one had claimed<lb/>him in the visiting room.   Upper Camp<lb/> 29 June 1916     Dear Miss Coates <lb/>I am writing to let you <hi rend="superscript"> know </hi> I am<lb/>going on well and I hope you are<lb/>in the best of health.<lb/>All the Wands worth bop here send<lb/>you their best thanks for your<lb/>kindness to them and send also<lb/><seg type="del">the</seg> to all the ladies.<lb/>We are well treated and we<lb/>have grand scenery and country<lb/>air.<lb/>When you write don't forget to sent my number on the letter. It is 1107. We rise at 6.30 and go to bed at 9.45<lb/>We have a canteen here and we can buy anything we want.<lb/>We play football all day and smoke.We are having a jolly time. In one hut we sing and dance.<lb/>All the boys here are in great spirit and plenty of fun. I will not say any more for the present.<lb/>Hoping to hear from you soon.  Yours truly <lb/>James Daly 
+         </ab>
+      </body>
+   </text>
+</TEI>

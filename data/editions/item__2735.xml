@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2735">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Denis Henry to Harford Hugh Montgomery, 22 December, 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Denis Stanislaus Henry</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Sir Denis Henry. William&#39;s father had forwarded Henry a letter from son William and this is a covering note for return of William&#39;s letter to his father. 
+
+Sir Denis Stanislaus Henry (1864-1925) was an Irish lawyer and unionist politician. Winning a by-election on 23 May 1916 Henry served as the MP for South Londonderry. He would go  on to serve as Solicitor General for Ireland and Attorney General for Ireland before becoming the first Lord Chief Justice of Northern Ireland.
+
+The Montgomery family lived in Malone Park, one of the wealthiest suburbs of Belfast city. This letter is part of a large collection that their son, William, a Captain with the 9th Battalion of the Royal Irish Rifles, wrote to his parents, Harford Hugh and Sara Montgomery, throughout the war. His first letter is dated 3 December 1914. Captain Montgomery was a decorated soldier. He was awarded both the Victoria and the 15 Star medals and was promoted to the rank of Major. His father owned a fire assessor business. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Papers of the Montgomery Family, D2794/1/1/7</collection>
+                  <idno>https://letters1916.ie/item/2735</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0312">Denis Stanislaus Henry</persName>
+              <date>1915-12-22</date>
+              <placeName key="#letters1916_place-0968">Lisvarna, Windsor, Belfast, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Harford Hugh Montgomery</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1990">19 Malone Park, Belfast, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1925</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2735_img_2155_1"  type="Letter"  url="5a8829f4cef56e628464ab8d417814d8.jpg"/>
+      <graphic xml:id="L1916_2735_img_2155_2"  type="Letter"  url="d2f68bfebc83f3ba6987ae8b28ae5ca8.jpg"/>
+      <graphic xml:id="L1916_2735_img_2155_3"  type="Envelope"  url="87e4a5575a0f971ddbc7b1f383dc8b45.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2735_img_2155_1"/>
+             LISVARNA <lb/>WINDSOR <lb/>BELFAST    Dear Harford   I return you <lb/>Wilies letter and I <lb/>enjoyed the reading of <lb/>it very much — you <lb/>know he was brought <lb/>up under me.   He seems to be in good
+            <pb n="2" facs="L1916_2735_img_2155_2"/>
+            heart.   I hope you have good <lb/>news of Horace.   Wishing you and <lb/>Mrs Montgomery a <lb/>happy Christmas.   I am <lb/>Yours Sincerely,    Henry  
+            <pb n="3" facs="L1916_2735_img_2155_3"/>
+              H.H. Montgomery <lb/>19 Malone Park <lb/> Belfast 
+         </ab>
+      </body>
+   </text>
+</TEI>

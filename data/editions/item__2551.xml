@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2551">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard to Ivor Guest from Altruist, 7 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Altruist</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Lord Wimborne (Ivor Guest) (1873-1938) served as Lord Lieutenant of Ireland from 1915 to 1918.
+The writer refers to newspaper reports about recent drowning incidents and cites an article which appeared in the London Daily Express in October 1902 and in other publications around the same time. The article concerned a successful experiment by a doctor who devised a powder which allegedly brought back to life animals, insects, and one drowned boy (given up for dead by doctors). The writer describes how the doctor prepares the powder. 
+The writer says that in drowning cases artificial respiration should be kept up for 4 hours.
+He/she urges that local authorities should be instructed to try the procedure at once on bodies which have been recovered following one hour or less of total immersion.
+He/she suggests that these procedures could save valuable human life.
+This upload is related to similar letters by the same author already uploaded, references:
+CSO RP/1916/5620/12964; CSO RP/1916/562/13176
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/5620/13687</collection>
+                  <idno>https://letters1916.ie/item/2551</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0285">Altruist</persName>
+              <date>1916-08-07</date>
+              <placeName key="#letters1916_place-1617">Caherciveen, County Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Ivor Guest</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2551_img_1980_1"  type="Letter"  url="bd5f4c2d55aaf4c0a967032aba0e2025.jpg"/>
+      <graphic xml:id="L1916_2551_img_1980_2"  type="Letter"  url="ca9ba8d2a8f962a82070eab8b6dfdc43.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2551_img_1980_1"/>
+             Aug 7<hi rend="superscript">th</hi> 1916   Dear Sir   Seeing account on page 7 todays 'Cork Examiner' from<lb/>the Dublin Sunday News of I Best drowned Bangor Co. Down and two bathing fatalities in<lb/>Dublin I would like to call your attention to an account of a successful experiment which<lb/>appeared in London Daily Express of 4<hi rend="superscript">th</hi>October 1902, and in principal London weeklies same week<lb/>and which brought cats, dogs, bees, flies, and 1 drowned boy (given up for dead by doctors)<lb/>to life after hearts ceased beating. The subjects were placed in a warm plate or cloth and<lb/>entirely covered with the following powder after which life appeared:<lb/><lb/>Extract from Article  The Doctor makes use in his experiments of a light salt solution saturated<lb/>with oil of the body which is allowed to stand exposed in an atmosphere of free<lb/>ammonia. From this solution a powder is derived and it is this powder<lb/>which contains the life renewing properties!  Artificial respiration should in drowning<lb/>cases be kept up 4 hours (a person having recovered after that time) Now Sir kindly get<lb/>Local Authorities to try above at once on any bodies recovered within 1 hour or less after<lb/>total immersion <hi rend="underline">saving perhaps valuable human life.</hi><lb/><lb/>  Alturist   
+            <pb n="2" facs="L1916_2551_img_1980_2"/>
+             Lord Lieutenant or his Substitute <lb/>Dublin Castle <lb/>Ireland 
+         </ab>
+      </body>
+   </text>
+</TEI>

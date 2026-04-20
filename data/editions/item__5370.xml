@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5370">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Róise Ní Dhómhnaill to Charlie Daly, December 1922</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Róise Ní Dómnaill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry Library Archives</repository>
+                  <collection>Charlie Daly Collection, P41/24/1</collection>
+                  <idno>https://letters1916.ie/item/5370</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0272">Róise Ní Dómnaill</persName>
+              <date>1922-12</date>
+              <placeName key="#letters1916_place-1000">Meenmore, Dungloe, Co Donegal, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1307">Charlie Daly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1926">Drumboe, Stranorlar, Co Donegal, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Civil War (1922-1923)</item>
+               <item n="topic">Civil War (1922-1923)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5370_img_4655_1"  type="Letter"  url="a7b1e4c36ba8b3a018962a8e948fa9b8.jpg"/>
+      <graphic xml:id="L1916_5370_img_4655_2"  type="Envelope"  url="2185493ae60cfba768ed3d225def179c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5370_img_4655_1"/>
+             P41/24/1   Meenmore.    Dungloe.    Ratdy.     A cara,    Thanks very much for your<lb/>letter rec’d to—day. Glad yourself and<lb/>boys are going on well. No it isn’t<lb/>Dan O’Flaherty’s sister. Its Mrs<lb/>O’Flaherty — Mollie’s mother. Mollie<lb/>has got no sisters. No one at home<lb/>except the mater. There is a parcel<lb/>to be sent over to you to —day and<lb/>I must get you some cake and<lb/>fruit. I hope sincerely you shall<lb/>try and make Xmas as enjoyable<lb/>as circumstances will permit for yourselves.<lb/>I am going home to—morrow — Sunday —<lb/>and above is my home address. I<lb/>am getting two weeks hols. Wishing<lb/>all of you a Happy Xmas. I remain,  Do cara<lb/>Roise Ni Domhnaill     
+            <pb n="2" facs="L1916_5370_img_4655_2"/>
+              Mr C. Daly, “Prisoner”<lb/>Drumboe,<lb/>Stranorlar.  
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0002">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John J. Murphy, to John F. Hogan, 1 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John J. Murphy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Fr John J. Murphy C.S.Sp., a Congregation of the Holy Spirit priest in Kimmage, Dublin, to Rev Dr John F. Hogan (1858-1918). In the letter, Fr Murphy agrees to conduct a retreat to mark the start of the scholastic year and requests instructions to carry it out.Rev John F Hogan was a priest, author, and president of St Patrick&#39;s College, Maynooth from 1912-1918. Hogan backed the British war effort by urging seminarians to volunteer as chaplains in the armed forces. It was estimated that by November 1917 there were between 80 and 100 Maynooth trained priests in the military.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>St Patrick&#39;s College, Maynooth</repository>
+                  <collection>John F. Hogan Papers, 21/44/9</collection>
+                  <idno>https://letters1916.ie/item/2</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1409">John J. Murphy</persName>
+              <date>1916-07-01</date>
+              <placeName key="#letters1916_place-1285">Holy Ghost Missionary College, Kimmage Manor, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John F. Hogan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1272">St. Patrick's College, Maynooth, County Kildare, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0002_img_1021_1"  type="Letter"  url="eee8b51772235860d6e12977cabb801c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0002_img_1021_1"/>
+              Holy Ghost<lb/> Missionary College.  Lines are divided between a school crest    Kimmage Manor,  Dublin     1 July 1916   Dear Monsignor Hogan,   I cannot but accede to <lb/> your request to conduct the Retreat for<lb/> the opening of the coming Scholastic<lb/> Year. So you may count on me for that <lb/> purpose.  Please let me have a copy of <lb/> the Regulations usually followed, and <lb/> I should, also, like to have any hints <lb/> that you may consider useful whether <lb/> for the matter or the manner of the <lb/> Retreat. <seg type="closer"> With every best wish,<lb/> Faithfully yours,  John J. Murphy C.S.S.P.   The Right Rev. J. F. Hogan, D.D.,  President, &amp;=  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

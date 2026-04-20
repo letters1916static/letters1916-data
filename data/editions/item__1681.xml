@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1681">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Matthew Nathan to Sir William Graham Greene, 20 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Matthew Nathan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Sir Matthew Nathan (1862-1939). Nathan was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation in the aftermath of the Easter Rising.
+
+The letter was addressed to Sir William Graham Greene. Greene (1857 - 1950), was a British civil servant and was promoted to permanent secretary to the admiralty in 1911. On the outbreak of war in 1914 Winston Churchill made him one of the war staff group which settled all important matters. 
+
+This letter references correspondence relating to the dissemination of &#39;disloyal publications&#39; by the &#39;Sinn Fein Organisation&#39;. Nathan states that the matter is receiving the full attention of the Irish government and the police who were able to prevent  the dissemination of the leaflets.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/7016/2/6</collection>
+                  <idno>https://letters1916.ie/item/1681</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date>1916-04-20</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">William Graham Greene</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1774">Admiralty, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1939</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1681_img_1139_1"  type="Letter"  url="60591ac9b286d3063b85aea7710682d6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1681_img_1139_1"/>
+             20th April, 1916.  <lb/>No. 7061.  Sir,     I am directed by the Chief Secretary to acknowledge the <lb/>receipt of your letter N.L. 1/40722 dated the 17th instant for- <lb/>warding for his information a report relative to the dissemi- <lb/>nation of disloyal publications by the Sinn Fein Organization <lb/>and stating that the Lords Commissioners of the Admiralty would <lb/>be glad to receive any observations which Mr. Birrell might <lb/>desire to offer in regard to this matter.   In reply I am directed to state that the matter is re- <lb/>ceiving the full attention of the Irish Government and of the <lb/>Police in Ireland who as Their Lordships have been informed <lb/>were successful in preventing the dissemination of the leaflets <lb/>of which a specimen accompanied your letter under reply.   I have the honour to be, <lb/>Sir, <lb/>Your obedient Servant,   Matthew Nathan   The Secretary, <lb/>Admiralty, <lb/>London. S.W. 
+         </ab>
+      </body>
+   </text>
+</TEI>

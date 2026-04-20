@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1433">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mabel FitzGerald, 10 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mabel FitzGerald</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Mabel FitzGerald (1884-1957). Mabel&#39;s husband Desmond FitzGerald, (1888-1947) had been arrested and detained. In this letter, Mabel writes to find out where her husband is being held. Mabel wishes to visit him and bring him fresh clothing and other items, and to make arrangements to get food to him. She has already sent a parcel to Kingstown (Police Station) where she believes he may be.Mabel was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1570/1</collection>
+                  <idno>https://letters1916.ie/item/1433</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date>1916-05-10</date>
+              <placeName key="#letters1916_place-0431">Bray, Co.Wicklow, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1433_img_852_1"  type="Letter"  url="6ebd7a648fb5643f5e10ad9a0b1a8465.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1433_img_852_1"/>
+                2 Loretto Villas,  Bray.    10th May, 1916.   Sir,   I would be very much obliged for some information about <lb/>Prison Regulations under the present system of Martial Law.  My husband, Mr. Desmond Fitzgerald, was arrested at <lb/>his home at above address this morning, and I wish to know how I <lb/>may find out what prison he is in, and if I may make arrangements <lb/>to have his food sent in from a Restaurant and to send him a <lb/>supply of clean clothes. If I cannot make these arrangements for him <lb/>he will wish to do so himself and will require a further supply <lb/>of money to be sent him in order to do so.  I am anxious to know too if I may see him in the usual <lb/>way before he is tried. If not I hope I may be informed at the <lb/>first opportunity when I may see him, and that I shall be <lb/>given sufficient time before the appointment to make the journey <lb/>from here. I enclose a stamped Telegraph  form  which I hope the Governor <lb/> of the Prison will use if occasion arises.  I am forwarding under another cover to Kingstown where <lb/>I have heard my husband will be, a small parcel containing handkerchiefs, <lb/> collars, toothbrush and toothpaste; I hope that <lb/>this parcel will be given him.  Hoping you will let me have the information I desire as <lb/>soon as possible. <seg type="closer"> I remain, <lb/>Yours truly,  Mabel W Fitzgerald </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

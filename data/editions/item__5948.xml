@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5948">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from L. Murphy to Bridget O'Neill, 1 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>L. Murphy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from L. Murphy to Bridget &#39;Bridie&#39; O&#39;Neill (1897-1941). The writer hopes that their friends arrived home safely and avoiding the rain. Murphy describes the process of writing of the letter and encloses Bridget&#39;s key.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>O&#39;Neill Family</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/5948</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0429">L. Murphy</persName>
+              <date>1916-07-01</date>
+              <placeName key="#letters1916_place-0346">Kilmore Village, Co Wexford</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Bridget O&#39;Neill</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0243">Coolnasheegan, Myshall, Carlow</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5948_img_341_1"  type="Letter"  url="042ee6b8b9fc7b95721e28e0ddb5c189.jpg"/>
+      <graphic xml:id="L1916_5948_img_341_2"  type="Letter"  url="34f728006c19f593f854fe211f19462c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5948_img_341_1"/>
+                Kilmore Village  C/O Mrs <seg type="unclear">H</seg>    1/7/16   My dear Bridget   I sincerely <lb/> hope you and Josey <lb/> arrived home safely <lb/> Did you get much <lb/> rain? Sheila went <lb/>on the 12 train and <lb/> like you and Josey <lb/> never shed a tear! <lb/> I am writing this  
+            <pb n="2" facs="L1916_5948_img_341_2"/>
+              on my mattress and <lb/> of course it is splendid <lb/> writing, but you <lb/> know that I have <lb/> no ink or anything <lb/> else so you will <lb/>excuse me. I got <lb/> your key on your <lb/> bed so I am <lb/> enclosing it hoping <lb/> you will get it alright.  <cb/> I will say no more for the present. <lb/> Hoping you will enjoy yourself <lb/> for the time lost.   With best love to self <lb/> and Josey  <seg type="closer"> From your fond Companion  L. Murphy </seg> My trunks and <lb/> all is gone. <lb/> Am going in <lb/> an hours time <lb/>L.M   
+         </ab>
+      </body>
+   </text>
+</TEI>

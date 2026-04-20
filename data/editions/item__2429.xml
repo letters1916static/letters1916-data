@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2429">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from ‘One of the Hard Pressed’ to Mr. Samuel, 28 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Anonymous ( ‘One of the Hard Pressed’)</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Herbert Louis Samuel, (1870-1963) served as Home Secretary from January to December 1916
+The writer, a policeman who prefers to remain anonymous, urges the Home Secretary to do all in his power and influence to ensure a pay increase for the Police which, he says, will &#39;lift us out of the power of Sinn Fein&#39;.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/5620/13240</collection>
+                  <idno>https://letters1916.ie/item/2429</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0714">Anonymous ( ‘One of the Hard Pressed’)</persName>
+              <date>1916-07-28</date>
+              <placeName key="#letters1916_place-0036">Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1103">Herbert Samuel</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1832">Home Office, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2429_img_1869_1"  type="Letter"  url="9bfdc79c9b78b4a67f9f9232b69dc73b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2429_img_1869_1"/>
+             July 28<hi rend="superscript">th</hi> 16   Mr Samuel <lb/>Home Secretary   Sir   I see by todays papers you state the Police war bonus <lb/>petition is under consideration. May I beg you, in <lb/>the name of fair play, if you have any power in the <lb/>matter, or can use your influence in any way, pray do so <lb/>&amp; secure an increase in pay which will lift us <lb/>out of the power of "Sinn Fein" grocers whom so many <lb/>of us are indebted to for groceries etc. We are loyal &amp; have <lb/>been loyal so try &amp; secure for us a living wage.   Yours etc.   One of the hard pressed.   I.J.T. <lb/>3/8 
+         </ab>
+      </body>
+   </text>
+</TEI>

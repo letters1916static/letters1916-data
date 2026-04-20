@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3790">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Phelps to Michael Cahill, 31 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Phelps</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from the librarian of the Royal College of Physicians of Ireland (RCPI), Robert Phelps, to solicitor Michael Frederick Cahill regarding the change of name of Dr Aimai Maneckji Cooper. According to Phelps Cooper will need to send on a declaration of identity, a postal sum and her college diplomas if possible. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T68-2</collection>
+                  <idno>https://letters1916.ie/item/3790</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1482">Robert Phelps</persName>
+              <date>1916-03-31</date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1000">Michael Frederick Cahill</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1478">16 Cleveland Road, Ilford, Essex, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3790_img_3174_1"  type="Letter"  url="8e71368163065ea3adaf89baa6a174e1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3790_img_3174_1"/>
+             31st MARCH 16.   M.F. Cahill, Esq., <lb/>Solicitor, <lb/>Ilford, Essex.   Dear Sir,   I beg to acknowledge the receipt of your letter <lb/>of the 28th inst., asking the College to change the <lb/>name of Miss Aimai G.M. Cooper on the College roll. <lb/>Before this change can be registered it will be <lb/>necessary for Miss Cooper to forward a Statutory <lb/>Declaration of identity, a Postal order for the sum of <lb/>one guinea and, if possible, the College diplomas for <lb/>indorsement. As the College will meet on next Friday <lb/>the 7th prox., possibly Miss Cooper will forward these<seg type="del">s</seg> <lb/>papers early in the week so as to get the matter through <lb/>at once.   Yours faithfully,  <lb/>Librarian, R.C.P.I.
+         </ab>
+      </body>
+   </text>
+</TEI>

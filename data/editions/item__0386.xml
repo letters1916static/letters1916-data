@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0386">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Brown to Robert Chalmers, 18 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Brown</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Robert Brown, the assistant manager at the National Margarine Company Ltd., to Sir Robert Chalmers (1858-1938).In the letter Brown requests compensation for a attending the trail of Henry McCambley (b.1871). Brown was required to attend the hearing as a witness in Belfast. The letter discusses the money Brown lost stating that despite what he is being told, he has yet to receive the full compensation. Brown also discusses how the Belfast Police Authorities misled him regarding the payment. The letter also requests that these facts be given to the chief secretary when he is appointed, due to the vacancy of the position following resignation of Augustine Birrell (1850-1933), due to his political failure during the Easter Rising. Chalmers became under-secretary for a brief period following the resignation of Matthew Nathan (1862-1939), who relinquished his position following his political failure during the 1916 Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5613/8607/1</collection>
+                  <idno>https://letters1916.ie/item/386</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1431">Robert Brown</persName>
+              <date>1916-05-18</date>
+              <placeName key="#letters1916_place-0960">Leith, Edinburgh, Scotland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0386_img_1648_1"  type="Letter"  url="3d9c8b029d9534f0a3f97fd0f4d17d5f.jpg"/>
+      <graphic xml:id="L1916_0386_img_1648_2"  type="Letter"  url="88ac59cefe3600f9f3992c452d11e2d7.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0386_img_1648_1"/>
+                THE NATIONAL MARGARINE COMPANY  LIMITED  10 QUALITY STREET  LEITH    18th. May 1916    To The Under Secretary,  Dublin Castle,  DUBLIN.   Dear Sir   I am in receipt of your favour of 17th. inst. 8183.<lb/> I beg to remind you that per your letter of 18th. April you stated<lb/> that I had been paid for expenses at the maximum rate authorized<lb/> by the Lords Commissioners of His Majesty's Treasury. I pointed <seg type="del">o</seg><lb/> out to you in my letter of 22nd. Apl. that I had not received,<lb/> as regards the journey of 8th. Oct. the expenses authorised by the <lb/> Lords Commissioners to which you referred. You now give a differ<lb/> -ent reason altogether, for refusing to make good the loss sustain<lb/> -ed by me. There seems to be no consistency between your letter of<lb/> 18th. April and 17th. inst.  In any case it matters little to me what the practice of the <lb/> Royal Irish Constabulary consists of. I was requested by the <lb/> Belfast Police Authorities who communicated <seg type="del">to</seg> through  the Leith Police<lb/> Officials, to proceed to Belfast to give information and I was<lb/> informed that my expenses would be allowed by the Belfast Police  
+            <pb n="2" facs="L1916_0386_img_1648_2"/>
+              authorities. The police authorities had no right to mislead me if<lb/> it was not the intention of the parties <seg type="del">af</seg> responsible to renumer<lb/> -ate me loss of earnings. I would not have gone to Belfast under <lb/> the conditions stated in your letter of 17th. May. Acting in good <lb/> faith I proceeded on a journey which was both inconvenient to me<lb/> and full of discomfort. It would appear that I have been trick<lb/> -ed by the Police. i wish these remarks to be laid before the <lb/> Chief Secretary as soon as he is appointed. I protest against <lb/> such usage : <seg type="del">and</seg> it seems to me that my claim has not received the <lb/> consideration which it merits.  Once again I request you to order payment of Â£1/1/0 for<lb/> loss of time. <seg type="closer"> Yours truly,  Rob Brown </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0570">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Pedder to the Under-Secretary, 2 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Pedder</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Sir John Pedder, (1869-1956), assistant secretary to the Home Secretary (Herbert Louis Samuel (1870-1963)), to Sir Robert Chalmers (1858-1938), Under-Secretary for Ireland, informing him that Sir John Grenfell Maxwell (1859-1929), Commander-in-Chief of Ireland, has no objection to Dr. Kathleen Lynn (1874-1955) being permitted to remain in Ireland and released from her undertaking to stay in Bath, England.Enclosed is a letter from HQ Irish Command, Parkgate, Dublin to the Chief Commissioner, D.M.P. advising of the updated position. Kathleen Lynn was the chief medical officer in the City Hall garrison during the Easter Rising of 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5620/13503</collection>
+                  <idno>https://letters1916.ie/item/570</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0745">John Pedder</persName>
+              <date>1916-08-02T00:00:00</date>
+              <placeName key="#letters1916_place-0856">Home Office, Whitehall, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0570_img_1964_1"  type="Letter"  url="e31dba8f8f0e7853fa44d5be31d97602.jpg"/>
+      <graphic xml:id="L1916_0570_img_1964_2"  type="Letter"  url="14c518593b6cf4889964e5d8d5108130.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0570_img_1964_1"/>
+                HOME OFFICE  WHITEHALL    August 2nd, 1916   Sir   With reference to your telegram of the 27th July in <lb/>the case of Dr. Kathleen Lynn, I am directed by the Secretary <lb/>of State to say that in view of the General Maxwell's opinion <lb/>that there is no great objection to this lady's remaining <lb/>in Ireland he has released her from the undertaking which <lb/>she gave to return to Bath as soon as her sister ceased to <lb/>require her services and has informed her that she may reâ <lb/>main in Ireland. <seg type="closer"> I am, <lb/>Sir, <lb/>Your obedient Servant,  John Pedder   The Under Secretary,  Dublin Castle  </seg> 
+            <pb n="2" facs="L1916_0570_img_1964_2"/>
+              <hi rend="underline">URGENT</hi><lb/>G/2000/1.    HEADQUARTERS, IRISH COMMAND,  PARKGATE, DUBLIN.    6th August 1916.    CHIEF COMMISSIONER,  D. M. POLICE.    <hi rend="underline">DOCTOR KATHLEEN LYNN.</hi>  The Home Secretary has released this lady from her <lb/>undertaking to reside in Bath, and informed her that she <lb/>may remain in Ireland.  Please note for action accordingly. <seg type="closer"> T.I.D Atkinson <lb/>CAPTAIN <lb/>for D. M. I., <lb/>GENERAL STAFF, IRISH COMMAND.</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

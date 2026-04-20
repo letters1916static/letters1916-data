@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6629">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from M. S. Ó Cinneide [Michael Joseph Kennedy], Secretary of Castlepollard Sinn Féin Club, Co. West Meath, to Mrs O'Doherty, 2 October 1917</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Michael Joseph Kennedy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Michael Joseph Kennedy is sending his condolences to Thomas&#39;s parents on behalf of the Sinn Féin club members, not knowing his &#34;people&#39;s address&#34;. Thomas Ashe (* 1885) was a member of the Gaelic League, the Irish Republican Brotherhood (IRB) and co-founder of the Irish Volunteers. His republican activities eventually led to his imprisonment in Mountjoy where he went on hunger strike in September 1917. He died several days later at the age of 32.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry Library, Tralee</repository>
+                  <collection>Thomas Ashe Collection</collection>
+                  <idno>https://letters1916.ie/item/6629</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1245">Michael Joseph Kennedy</persName>
+              <date>1917-10-02</date>
+              <placeName key="#letters1916_place-0116">Castlepollard Sinn Féin Club, Co. West Meath, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mrs. O&#39;Doherty</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">The Rising Tide (1917-1919)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6629_img_None_1"  url="phpFYbOUx.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6629_img_0_1"/>
+              Castlepollard Sinn Fein Club<lb/>Co. West Meath    2/10/17    A Cara    To. Mrs. O'Doherty   Kindly convey<lb/>the sympathy of the members<lb/>of our club to the relat-<lb/>ives of the late J. Ashe<lb/>also the Cuman na mban here<lb/>not knowing his peoples<lb/>address, you will do us a<lb/>great favour in conveying<lb/>this message   Is mise     le meas mor    M. G. <seg type="unclear">O Cinneide</seg> <lb/>[Questionable reeading.]
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4086">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Carey to Dr Michael Dillon, 30 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Carey</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Patrick Carey to Dr Michael Dillon regarding Dr Dillon&#39;s extended absence.
+
+Patrick Carey (1853-1934) was the Union Clerk for the Killarney Poor Law Board of Guardians. Poor law unions and their workhouses were established by the Poor Law (Ireland) Act, 1838, as a response to widespread poverty, and were each governed by a Board of Guardians. This letter comes from the Killarney Poor Law Board of Guardians Minute Book.
+
+Dr Michael Dillon (1862-1916) was a local medical practitioner. Residing in Rathmore, Co. Kerry, Dr Dillon passed away 3 months prior to this letter being sent.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry Library, Tralee</repository>
+                  <collection>Killarney Poor Law Board of Guardians BG104/B/4</collection>
+                  <idno>https://letters1916.ie/item/4086</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1557">Patrick Carey</persName>
+              <date>1915-11-30</date>
+              <placeName key="#letters1916_place-1721">Killarney, Co. Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Michael Dillon</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2094">Rathmore, Co. Kerry, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="death">1934</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4086_img_3464_1"  type="Letter"  url="4619a4ad81a5913304beaf36becc74f8.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4086_img_3464_1"/>
+             30th Novr.1915   Dear Sir,   The last Medical Certificate submitted <lb/>by you only covered leave of absence to the 19th <lb/> October. Kindly furnish another Medical Certificate <lb/>for leave granted since that date,    Yours faithfully,  <lb/>Clerk of Union  Dr. M. Dillon <lb/>Rathmore, 
+         </ab>
+      </body>
+   </text>
+</TEI>

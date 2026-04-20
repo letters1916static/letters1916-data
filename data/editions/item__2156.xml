@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2156">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Arthur Megaw to Edward O'Farrell, 22 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Arthur Megaw</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from solicitor Arthur Megaw (b.1873) to Edward O&#39;Farrell (1857-1926), Assistant under-secretary to the Lord Lieutenant of Ireland Sir Ivor Churchill Guest, Lord Wimborne (1873-1939). The letter thanks the assistant under-secretary for sending him a conformation telegram informing him that his last letter was received. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland </repository>
+                  <collection>Chief Secretary’s Office Registered papers, CSO RP/1916/8719/2</collection>
+                  <idno>https://letters1916.ie/item/2156</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0138">Arthur Megaw</persName>
+              <date>1916-05-22</date>
+              <placeName key="#letters1916_place-1771">22 Ocean Buildings, Donegall Square East, Belfast, Ireland </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0107">Dublin Castle, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2156_img_1605_1"  type="Letter"  url="c54ecc818f0219ef29c9be01a0a2a1d3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2156_img_1605_1"/>
+             22, Ocean Buildings, <lb/>Donegall Square East, <lb/>Belfast.   22nd May, 1916.   Sir,  <lb/>Government Scheme re claims in respect <lb/><hi rend="underline">of civil liabilities of soldiers</hi>  I am much obliged for your telegram <lb/>of 20th inst received this morning and hope <lb/>you will be kind enough to let me know should <lb/>you hear anything as to the proposed arrange- <lb/>ments  for Ireland    <seg type="del">or</seg> what Authority will make same   Your obedient servant   Arthur Megaw   The Assistant Under Secretary for Ireland <lb/>Dublin Castle 
+         </ab>
+      </body>
+   </text>
+</TEI>

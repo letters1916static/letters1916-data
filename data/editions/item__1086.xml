@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1086">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the President and Fellows of the Royal College of Physicians to Charles Benson, 11 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>The President and Fellows of the Royal College of Physicians</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from the Royal College of Physicians of Ireland (RCPI) to Charles Molyneux Benson (1877-1919) informing Benson that the Joint Committee felt it could not support the new nursing college scheme without proper Irish representation. This resolution was forwarded to Sir Arthur Stanley without the usual approval of the College due to the urgency of the matter.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-3-15-19, RCPI-2-3-3-15-19</collection>
+                  <idno>https://letters1916.ie/item/1086</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1041">The President and Fellows of the Royal College of Physicians</persName>
+              <date>1916-04-11</date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1084">Charles Molyneux Benson</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2042">Royal College of Surgeons of Ireland, St Stephen's Green, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1086_img_3234_1"  type="Letter"  url="e3369948f77884a7e1c80b6fda72cf9f.jpg"/>
+      <graphic xml:id="L1916_1086_img_3234_2"  type="Letter"  url="5d73894fbdfdafc9b08405f427160384.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1086_img_3234_1"/>
+                11th APRIL 16.    C.M. Benson,Esq., M.D.,  Secretary to Council,  R.C.S.I.   Conference <hi rend="underline">re</hi> College of Nursing : <hi rend="underline">Preliminary report</hi>.  Dear Sir,   The Conference Committee of the two Royal Colleges <lb/><hi rend="underline">re</hi> the College of Nursing has held two meetings. At the <lb/>last of these meetings, which was held on the 4th inst., the <lb/>Committee met a number of ladies connected with the Nursing <lb/>profession in Ireland. At that meeting the ladies present <lb/>expressed their views as to the proposed College and what <lb/>it effect would be on the nursing profession in Ireland.   The Committee was informed that the College had been <lb/>established and that steps were to be taken on April 7th <lb/>to formulate the conditions of admission to it.   In view of the urgency of the matter and of the fact that <lb/>there was no representation of Irish nursing on the <lb/>governing body of the College the Committee adopted the <lb/>following resolution and directed me to forward it <sic>ai</sic> once <lb/>to the Hon.Arthur Stanley.   
+            <pb n="2" facs="L1916_1086_img_3234_2"/>
+              <hi rend="underline">Resolved</hi> : 'that this Committee representing the Royal Colleges of <lb/>Physicians and Surgeons of Ireland inform Mr. Stanley that it cannot <lb/>recommend Irish Nurses to support the College of Nursing Ltd., unless <lb/>at least one fifth of the supreme governing body of that College <lb/>consists of Irish representatives.'   No answer has yet been received from Mr. Stanley.  The Committee felt bound, owing to the urgency of the matter, to <lb/>take the unusual step of making this representation to Mr. Stanley <lb/>without consulting the Colleges. I may add that at the last meeting <lb/>of the Royal College of Physicians the President and Fellows approved <lb/>the action taken by the Committee.  <seg type="closer"> Yours faithfully, </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1657">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Éamonn Ceannt, 10 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Éamonn Ceannt</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a copy of a letter written by Éamonn Ceannt (1881-1916), Irish-Ireland and revolutionary, from the headquarters of the Irish Volunteers in Dublin. Ceannt was an active cultural nationalist and seperatist and was a member of the Gaelic League, the Irish Volunteers (where he was director of communications and commandant of the 4th Dublin battalion) and the Irish Republican Brotherhood. Ceannt was a signatory of the Proclamation of the Irish Republic and during the Easter Rising Ceannt commanded the garrison of rebels in the South Dublin Union. He was executed on 8 May 1916.
+The letter refers to the establishment of a private postal service for letters written in Irish or on Irish Volunteers&#39; business. The letter outlines the system for collection and delivery of letters and instructions for those sending letters.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Áine Ceannt Collection; BMH CD/94/2/1</collection>
+                  <idno>https://letters1916.ie/item/1657</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0397">Éamonn Ceannt</persName>
+              <date>1915-11-10</date>
+              <placeName key="#letters1916_place-0470">Irish Volunteers Headquarters, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1916</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1657_img_1117_1"  type="Letter"  url="7d2fa087a4c0b208b620b26a8913a67a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1657_img_1117_1"/>
+             PRIVATE  Headquarters I.V. <lb/> 10th November, 1915. <lb/><lb/> A Chara,   In consequence of the delay in dealing with letters<lb/>addressed in Irish, and for the purpose of facilitating inter—<lb/>communication between Volunteers in Dublin, a private collection<lb/>and delivery of letters has been arranged for and may be availed<lb/>of as from Monday next 15th November. <hi rend="underline">RULES</hi> 1. Letters, despatches, etc., may be handed in at any of the<lb/>following addresses (shops).<lb/><lb/>(a) Connolly's, 29 Dolphin's Barn St. (collection) 8. p.m.<lb/>(b) Miss Coughlan, 28a, Lr. Mountpleasant Ave.  8.10 <lb/>(c) Harding, Christ Church Place  8.20 <lb/>(d) Jas. Whelan, 17 Upper Ormond Quay  8.25 <lb/>(e) J.J. Walsh, Corner Blessington Street &amp;<lb/>Berkley Street  8.35 <lb/>(f) Tom Clarke, 75a Parnell Street  8.40   2. There will be one collection each night at 6 or later as set<lb/>out above.  3. The delivery will begin at 8 a.m. on the day following collection.  4. Each person shall pay a penny for each letter or postcard posted.<lb/><hi rend="underline">Circulars</hi> in open envelopes, 1/2 each, newspapers 1d. each.  5. Only letters intended for the Dublin District will be handled.<lb/>The Dublin District includes the entire present City except<lb/>Clontarf East Ward and Chapelizod. It also includes the area<lb/>lying within 3/4 of a mile as the crow flies, south of the portion<lb/>of the Grand Canal between Dolphin's Barn and the River Liffy.<lb/>The following points are within this area viz :— Herbert Park,<lb/>Marlborough Road, Chursh Avenue, Upper Rathmines.  6. The right of reposting letters in the ordinary Post Office is<lb/>reserved. Letters which must <hi rend="underline">not</hi> be so reposted should be<lb/>marked on the address side By Hand Only.  6a. After a certain time it is hoped to arrange that no letters will<lb/>be reposted. A definite announcement will be made later.  7. It is important that addresses be written very clearly and fully<lb/>thus :— Sean O'Broin,<lb/>141 Brown Street,<lb/>Donore Avenue,<lb/>S.C.R.  8. Those using the new post may rely on their correspondence being<lb/>treated confidentially.  9. The above facilities are not available for the general public.   Director of Communication.  
+         </ab>
+      </body>
+   </text>
+</TEI>

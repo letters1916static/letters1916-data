@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3698">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter acknowledging receipt of letter from the Earl of Meath recommending the appointment of W.T. Stewart of Dep. Lieutenant of Dublin</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter acknowledging receipt of letter from the Earl of Meath recommending the appointment of W.T. Stewart of Dep. Lieutenant of Dublin (NAI_CSO/RP/1916/3644/6)</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI_CSO/RP/1916/3644/7</collection>
+                  <idno>https://letters1916.ie/item/3698</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-02-09</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0635">Reginald Le Normand Brabazon, 13th Earl of Meath, Lord Lieutenant of County Dublin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0202">Chertsey, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3698_img_309_1"  type="Letter"  url="db3bb1f1e9283c55dc0d422e665c71bc.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3698_img_309_1"/>
+              9th February, 1916.   My Lord,    I have received Your Lordship's letter of <lb/>the 7th instant proposing, subject to the approval <lb/>of the Lord Lieutenant, to issue under the provisions <lb/>of the Militia Act 1882 a Commission of Deputy Lieu- <lb/>tenancy to Mr. William T. Steward, of Killymoon, <lb/>Donnybrook, County Dublin, and I am submitting this <lb/>letter to His Excellency.  <seg type="closer"> I am, <lb/>My Lord, <lb/>Your obedient Servant, </seg>  The Right Hon. <lb/>The Earl of Meath, K.P., <lb/>Chaworth House, <lb/>Ottersham, <lb/>Chertsey. 
+         </ab>
+      </body>
+   </text>
+</TEI>

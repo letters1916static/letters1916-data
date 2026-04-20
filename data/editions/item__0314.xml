@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0314">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Soldiers and Sailors Help Society, 11 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Soldiers and Sailors Help Society</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Circular letter from the Soldiers and Sailors Help Society (SSHS). In this letter the society is writing to an unknown party detailing the four classes of cases that do not come into the scope of the Pensions Act, and therefore if the party still wished to deal with them the money would have to be raised by local sources.The SSHS worked towards the rehabilitation of British soldiers after many conflicts including World War I. Before 1915, disabled ex-servicemen were reliant on voluntary services such as the Soldiers’ and Sailors’ Help Society. In 1915, however, the state began to provide pensions and in 1917 set up the Ministry of Pensions to organise funds. In addition to allocating pensions, the ministry also intended to deal with further treatment, training and employment . The SSHS also trained disabled men in their workshops and worked to help those suffering from &#39;shell-shock&#39;.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No. 54, Ms. 35,796/12/1</collection>
+                  <idno>https://letters1916.ie/item/314</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1120">Soldiers and Sailors Help Society</persName>
+              <date>1916-07-11</date>
+              <placeName key="#letters1916_place-1176">66 Lower Mount Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0314_img_1538_1"  type="Letter"  url="6fed3ae5abee9eb707a2b6d4256d30a3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0314_img_1538_1"/>
+                <hi rend="underline">Soldiers and Sailors Help Society</hi>    66 LOWER MOUNT STREET,  DUBLIN,    <hi rend="superscript">11th</hi> July, 1916.   Dear Sir or Madam,   I have been informed that the proposed Local Committee in our County <lb/> is not at present in a position to deal with the work defined in the Naval and Military <lb/>Pensions Act, and that consequently the Statutory Committee have requested us to <lb/> carry on the work which we have hitherto been doing.  This would mean that you would carry on for a period, to be defined later, <lb/> on exactly the same lines and scale, as you have done hitherto, except in the <lb/> following cases :-â  (a) Men on sick furlough <lb/>(b) Men discharged from Home Service who have been notified that no pension will be granted. <lb/>(c) Men recieving Government advances of 10s. or 20s. prior to award of pensions. <lb/>(d) Time expired men.  These four classes of cases do not come within the scope of the Pensions Act, <lb/> and therefore, if dealt with at all, it must be from funds raised from our local <lb/> sources, as the National Relief Fund (War Fund) will not issue any further grants <lb/> for this purpose.  It is obvious therefore that Local Representatives will have to keep two sets <lb/> of Accountsâ- (1) A 'Statutory Committee Account' to deal with War Cases which <lb/> come under the Act, and for which money will continue to be provided during the <lb/> temporary period referred to, and (2) a 'Local General Account,' to deal with the <lb/> four classes of cases referred to above, in addition to the usual work of the Society <lb/> in Peace time.  Separate instructions will follow with regard to statements of account and <lb/> balances on 30<hi rend="superscript">th</hi> June last. <seg type="closer"> Yours truly, </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0310">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Josephine Murray to Lady Clonbrock, 22 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Josephine Murray</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Josephine Murray to Lady Clonbrock (1840-1928). Murray provides a copy of a balance sheet she claims was taken from the March meeting. She then goes on to account for cheques which have been paid. Murray writes that if another balance sheet was requested, it would not match as the cheques have only just been paid. Augusta Caroline Dillon (née Crofton) was the wife of Luke Gerald Dillon (1834-1917), the 4th Baron of Clonbrock, Co. Galway and the daughter of Lord Crofton of Mote Park (Edward Henry Churchill Crofton, 3rd Baron), Co. Roscommon. Aged 75 at the outbreak of war, Lady Clonbrock, worked closely with the Irish Women&#39;s Association to send basic necessities to Irish POWs. Many of her care packages went to members of the Connaught Rangers imprisoned in Limburg near Cologne.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No. 54, Ms. 35,796/10/11</collection>
+                  <idno>https://letters1916.ie/item/310</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1074">Josephine Murray</persName>
+              <date>1916-05-22</date>
+              <placeName key="#letters1916_place-1567">Eglinton House, County Galway, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0483">Augusta Caroline Dillon</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0310_img_1533_1"  type="Letter"  url="90a71c983ce3e5eccc1c1c66093469fb.jpg"/>
+      <graphic xml:id="L1916_0310_img_1533_2"  type="Letter"  url="63e922d17afdaa5561c3cdc066d84360.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0310_img_1533_1"/>
+                Eglinton House   Galway    May 22 1916.   Dear Lady Clonbrock,   I am enclosing you <lb/> the rough copy of Balance <lb/> Sheet showing cash taken at<lb/> March meeting which you<lb/> wish to be added to <lb/> 1915 account. I have also<lb/> deducted cheques voted<lb/> at that meeting <lb/> A. Â£25 for Wounded Soldiers<lb/> Home in Tipperary which<lb/> was cashed April 3<hi rend="superscript">rd.</hi><lb/>  
+            <pb n="2" facs="L1916_0310_img_1533_2"/>
+              <hi rend="underline">B</hi> Cheque for Â£225.10.0<lb/> to the I.W.A. posted May<lb/> 18th.  If a second Balance Sheet<lb/> is now made out it will <lb/> not agree with Bank<lb/> balance of that date<lb/> owing to the cheque being <lb/> paid only now.  I am getting <seg type="unclear">Col Phamier</seg><lb/> to look over all the accounts<lb/> etc.. which I have<lb/> balanced with the <lb/> Bank Book up to date.<lb/> I hope we will have a<lb/> good meeting. <seg type="closer"> Yours sincerely  Josephine Murray. </seg> March 31st Deposit acct. 400 - ' - '<lb/> Current acct 479 - 13 - 10<lb/> total 879 - 13 - 10<lb/> Unpresented cheques 250 - 10 - '<lb/> net 629 - 3 - 10<lb/> Deposit 400 <lb/> Current acct. - 229 - 3 - 10<lb/> Prisoners of war 386 - 5 - 7 = Parcels 1287  
+         </ab>
+      </body>
+   </text>
+</TEI>

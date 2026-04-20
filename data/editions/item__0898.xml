@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0898">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Peter Mooney to his sister Katie Mooney, 3 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Peter Mooney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Peter Mooney (b.1886) to his sister, Katie (b.1884). Peter opens by way of concern that he hasn’t heard from his sister. He presumes their letters to each other were stuck in the GPO during the Easter Rising. He writes that he is not impressed with the &#39;Sinn Feiners.&#39; He asks Katie to send him a new pipe because a smoke makes him happy. He mentions he is far away from the firing line and still inquires how everyone is at home. Orphaned at age 7, Peter and his sister Katie were raised by their uncle William and his wife Mary in Caulstown. While there are no surviving enlistment papers for Peter, his War Badge Index Record shows his enlistment date as 18 October 1915. He served with the Royal Artillery and later transferred to the Royal Engineers where he was promoted to the rank of Sergeant. He served in several places at the Western Front, including Ypres, St. Omer and Passchendael. Peter and Kate were avid correspondents. This letter part of a collection of over ninety surviving letters.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Mooney Family Papers</repository>
+                  <collection>Mooney Family Papers, Mooney Family Papers</collection>
+                  <idno>https://letters1916.ie/item/898</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0428">Peter Mooney</persName>
+              <date>1916-05-03</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1038">Katie Mooney</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0342">Caulstown, Dunboyne, Co. Meath</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0898_img_2490_1"  type="Letter"  url="79a5d2e156d76ed4772568047c78ce2f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0898_img_2490_1"/>
+                May 3<hi rend="superscript">rd</hi> 1916   Dear Katie,   I hope this letter will find you all <lb/>enjoying good health. I am in the pink <lb/>getting along nicely. The weather is very fine just now I hope <lb/>it may continue so. I did not have a letter from <lb/> you in this long time I suppose some of them got lost <lb/> in the G.P.O in Dublin the Sinn Feiners tried to take <lb/>it I believe. I hope all that trouble is over now at <lb/>least it will not take long to wipe out the Sinn Feiners. <lb/> I hope they may get it hot &amp; heavy. I have lost that <lb/> good pipe you sent me so I want you to send me <lb/>on another. I want a nice short one with a large <lb/>sized bowl send a meerschaum as you know I like <lb/>a good pipe and a smoke out here goes a long way in <lb/>making one happy. How are all in the Paddock I <lb/>got no letter from them yet. Tell all around the place <lb/>I was asking for them I suppose Paddy is washing <lb/>the sheep now getting ready for shearing. I can tell <lb/>you nothing about the the war as we are well away <lb/> from the firing line so you need not be uneasy about me. <lb/>I am getting used to my pair of mules now we get on well <lb/>together although sometimes they make me <seg type="unclear">swear loads</seg>. <lb/>I will now say Good-Bye and may God keep you all. <seg type="closer">  P. Mooney  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

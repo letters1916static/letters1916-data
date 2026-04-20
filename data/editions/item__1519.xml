@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1519">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Nancy Campbell to Mrs. O'Rahilly, 17 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Nancy Campbell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter of condolence from Nancy Campbell to Nancy O&#39;Rahilly (1875-1961). The writer expresses sympathy with Mrs. O&#39;Rahilly family on the death of her &#39;heroic&#39; husband, mentioning the children and &#39;the child yet to be born&#39;. Campbell also writes about the honour of having known The O&#39;Rahilly and the other men who &#39;died for Ireland.&#39;Nancy O&#39;Rahilly was a member of the Provisional Council of Cumann na mBan at the founding in 1914 and the wife of Michael Joseph O&#39;Rahilly, self-described as &#39;The&#39; O&#39;Rahilly (1875-1916). The O&#39;Rahilly fought in the Easter Rising and was shot in Parnell/Moore Street on 28 April 1916 and died some time later. Nancy was pregnant at the time of her husband&#39;s death – the child was born three months later.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Humphreys Papers, P106/120/22</collection>
+                  <idno>https://letters1916.ie/item/1519</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1336">Nancy Campbell</persName>
+              <date>1916-05-17</date>
+              <placeName key="#letters1916_place-1874">Kilmolin House, Enniskerry, Co. Wicklow, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1534">Nancy O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1519_img_979_1"  type="Letter"  url="4937973c1fb21eb038c5f749413158ae.jpg"/>
+      <graphic xml:id="L1916_1519_img_979_2"  type="Letter"  url="76c497f18af6bbd5664da1f9d65aba8a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1519_img_979_1"/>
+                Kilmolin House,  Enniskerry,  Co. Wicklow    May 17th 1916.   Dear Mrs. O'Rahilly   I would have written before <lb/> but I heard you were ill - <lb/>both Joseph &amp; I would like <lb/> to send our deepest sympathy, <lb/> &amp; also to tell you how <lb/>greatly we admire the <lb/> O'Rahillys behaviour - if <lb/> anything could comfort you <lb/> it must be the thought <lb/> of his heroism - even the  
+            <pb n="2" facs="L1916_1519_img_979_2"/>
+              newspapers are full of his praise, <lb/>I see. The little boys will have <lb/> a wonderful memory to live up <lb/> to - &amp; perhaps the new baby <lb/> (there is to be one, isn't there) will <lb/>be a comfort to you too - it <lb/>must be all so terrible for you. <lb/>I feel so proud of having <lb/>known the O'Rahilly &amp; some <lb/> of the other brave men who <lb/>died for Ireland with him. <seg type="closer"> Yours sincerely  <hi rend="underline">Nancy Campbell</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

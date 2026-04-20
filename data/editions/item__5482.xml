@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5482">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Jane Cobden Unwin to Herbert Henry Asquith, 2 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Jane Codben Unwin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Copy of a letter written from Jane Cobden Unwin (1851-1947), suffragist and wife of publisher Thomas Fisher Unwin, to Herbert Henry Asquith (1852-1928), then Liberal Prime Minister of Great Britain. The letter is a response to an appeal for clemency for Sir Roger Casement (1864-1916) who was under a sentence of death having been arrested in Kerry on the eve of the Easter Rising. It is an appeal for clemency for Casement and points out that no progress will be made in the Irish question by executing Casement and argues against coercion of Ireland.
+
+A campaign had been launched featuring many prominent figures such as W.B. Yeats and George Bernard Shaw to secure a reprieve for Casement but he was hanged on 3 August 1916, the day after this letter was written.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casement Papers, Collection List No A15; Ms. 13,078 /7</collection>
+                  <idno>https://letters1916.ie/item/5482</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0122">Jane Codben Unwin</persName>
+              <date>1916-08-02</date>
+              <placeName key="#letters1916_place-1784">3 Adelphi Terrace, Strand, London, UK</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0582">Herbert Henry Asquith</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="death">1947</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5482_img_515_1"  type="NULL"  url="0e41274af725a68d6f86a3d8744a6e0f.jpg"/>
+      <graphic xml:id="L1916_5482_img_515_2"  type="NULL"  url="8ed72da496936f2b2aee533b485f9ae5.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5482_img_515_1"/>
+            <hi rend="underline">Copy</hi>  3, ADELPHI TERRACE, <lb/>STRAND.   August 2<hi rend="superscript"><hi rend="underline">nd</hi></hi> 1916.   Dear Mr.Asquith,   You probably may not <lb/> remember me, but in days <lb/> gone by, in your first wife's <lb/> life time, we used to meet. <lb/>Now, after these many years, <lb/> I bring myself to your <lb/> remembrance to entreat <lb/> you to use your great influence <lb/> to obtain at this eleventh <lb/> hour the reprieve of Roger <lb/> Casement - will it not be
+            <pb n="2" facs="L1916_5482_img_515_2"/>
+            an evil beginning for the <lb/> new regime in Ireland if <lb/> it should start under the <lb/>shadow of his scaffold?   His death will in no way <lb/> help forward the Irish Cause, <lb/>, an act of clemency in <lb/> sparing his life may — <lb/>Surely his work for the natives <lb/>both in the Congo, &amp; in Peru, <lb/> should not be forgotten at this <lb/> time. I cannot but believe <lb/>that at the eleventh hour <lb/>both America and England <lb/> will hear with relief of such <lb/> an act of clemency -   Yours sincerely,   Jane Cobden Unwin.   Are we not drifting into <lb/> what M<hi rend="superscript">r</hi>. John Bright described <lb/> as the ever recurring ever <lb/> failing remedy of Coercion <lb/>in Ireland? — 
+         </ab>
+      </body>
+   </text>
+</TEI>

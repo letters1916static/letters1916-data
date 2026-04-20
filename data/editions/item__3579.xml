@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3579">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from David Sheehy to Hanna Sheehy Skeffington, circa May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>David Sheehy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>David Sheehy (1844–1932) writes to his daughter Hanna Sheehy Skeffington (1877-1946) to give his condolences regarding the murder of her husband, Francis. 
+
+Hanna Sheehy Skeffington (1877-1946)  suffragette, nationalist, language teacher, was the founder of the Irish Women’s Franchise League and a founding member of the Irish Women Workers’ Union. She was the widow of Francis Sheehy-Skeffington who was summarily executed on 26 April 1916. She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged. David Sheehy (1844–1932) was a parliamentarian and the father of Hanna Sheehy Skeffington. Though he supported Irish involvement in the first World War and did not approve of Hanna Sheehy Skeffington&#39;s feminist politics, he was a member of the IRB and interceded for the release of his son in law Francis Sheehy Skeffington after he was imprisoned for anti-war protests. He formally declared bankruptcy in 1915 and was forced to sell the family home, living briefly in Bath, England before moving in with his widowed daughter, Margaret Sheehy, in Dublin.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy-Skeffington Papers, Collection List No. 47; MS 33,605/1-33</collection>
+                  <idno>https://letters1916.ie/item/3579</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1174">David Sheehy</persName>
+              <date>1916-05</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1932</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3579_img_2980_1"  type="Letter"  url="4ad3648b53afebed758661899ff09241.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3579_img_2980_1"/>
+             Both. Tuesday.   May 1916    Dearest Hanna,   We are appalled by the news which Marys<lb/>note gives us. I <sic>dont</sic> know what or how to say anything<lb/>to you, but to tell you in poorest words that our hearts<lb/><sic>-mother and mine-</sic> are wrung with grief, and in deepest<lb/>sympathy with you in the dreadful sorrow that has<lb/>come to you. Mary tells us you are   up bravely,<lb/>I know you are and I know that it needs all your<lb/><seg type="unclear">bravery</seg>to bear up successfully under this affection.<lb/>I pray god to give you strength to do so. We have<lb/>no details, only the black ugly fact, but we<lb/>may get them from Mary or yourself soon.   Sorrow is almost <seg type="unclear">dumb</seg> when it is<lb/>deep. <seg type="unclear">More as we that state for you,</seg> may poor<lb/>  <seg type="unclear"></seg>one —    your loving<lb/>father.   David Sheehy.  
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4356">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Pembroke Wicks to Edward Carson, 14 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Pembroke Wicks</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Pembroke Wicks to  Edward Carson (1854-1935). Carson was a prominent Unionist Politician. Originally a practicing solicitor from Dublin, Carson&#39;s opposition to the proposed third Home Rule bill made him the figure head of Unionism throughout the island. He was the centerpiece of the speaking tour that culminated in Ulster Day (28 September 1912), when just under half a million signed Ulster&#39;s solemn league and covenant pledging to use ‘all means which may be found necessary to defeat the present conspiracy to set up a home rule parliament in Dublin’. Carson inaugurated the Larne gunrunning in 1914 which armed the UVF, many of whom Carson would encourage to join the British Army throughout the First World War.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Carson Papers, D1507/A/18/1/17</collection>
+                  <idno>https://letters1916.ie/item/4356</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0954">Pembroke Wicks</persName>
+              <date>1916-07-14</date>
+              <placeName key="#letters1916_place-2022">5 Eaton Place, S.W., London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0539">Edward Carson</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4356_img_3712_1"  type="Letter"  url="5317a0f2ff984d3270de29efe5f18f27.jpg"/>
+      <graphic xml:id="L1916_4356_img_3712_2"  type="Enclosure"  url="c06d9120f1744ea2f2afc5b161d00689.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4356_img_3712_1"/>
+             TELEPHONE <lb/>2201 VICTORIA.   5, EATON PLACE, <lb/>S.W.   July 14. 16.   My dear Sir Edward,   I saw Thring and he gave me the Draft Bill <lb/>to send to you.   A cursory examinations shows two vital defects.   1. The Bill follows <hi rend="underline">word for word</hi> Redmond's recent statement <lb/>a copy of which I enclose. The Provisions as to exclusion are <lb/>of exactly the same temporary and provisional character as the <lb/> rest of the bill. (Clause 1 (2). Asquith is an old fox!   2. Clause 3 (2) final paragraph, would permit officers under <lb/>the control of the Irish Parliament to interfere in the <lb/> administration of the excluded area.   Clause 7, Judicial Provisions in the excluded area are very <lb/>complex and I imagine are not as clean cut as you intended.   We go down to Mole Bungalow, Esher, this evening, but if there <lb/>were anything wanted doing in town a wire would fetch me up.   Yours sincerely,   Pembroke Wicks 
+            <pb n="2" facs="L1916_4356_img_3712_2"/>
+            
+         </ab>
+      </body>
+   </text>
+</TEI>

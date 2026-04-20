@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4191">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Shaw to Martha Shaw, 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Shaw</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from William Shaw to his mother, Martha Shaw, about his life aboard the H.M.S. Excellent. William largely writes about washing and mending his clothes. He also mentions some of his friends and the different jobs they have gotten on various ships. Before signing off he asks after his father.
+
+William Shaw (1893-1934) was a gunner in the Royal Naval Reserve. He volunteered for active service in 1915 and served on ships such as the H.M.S. Excellent and H.M.S. Albemarle, a battle cruiser. Before the war he was a fisherman.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Shaw Papers, D1962-12</collection>
+                  <idno>https://letters1916.ie/item/4191</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1233">William Shaw</persName>
+              <date>1915</date>
+              <placeName key="#letters1916_place-0161">H.M.S. Excellent, Portsmouth, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Martha Shaw</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1934</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4191_img_3563_1"  type="Letter"  url="d55122228f5cad666fc136f5f86ca43e.jpg"/>
+      <graphic xml:id="L1916_4191_img_3563_2"  type="Letter"  url="cb946c09fad052b556f87994aeeecb4b.jpg"/>
+      <graphic xml:id="L1916_4191_img_3563_3"  type="Letter"  url="5085fd46313386ada0cb17c45a9e44a1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4191_img_3563_1"/>
+             1962/12   HM.S. Excellent <lb/>Portsmouth   My Dear Mother   I received your <lb/>letter+parcel. do not send me on <lb/>any more bread. I am sorry my father <lb/>is not well he must have been <lb/>bad I hope he will soon be all <lb/>right again. Well mother Mark <lb/>came back from hospital on Friday <lb/>and he FILED in for sick leave two <lb/>hours after he got a drafting CHIL <lb/>so he has gone to Glasgow to join <lb/>a merchant ship. that is the way <lb/>they do have when you ask for any- <lb/>thing. I think I will not send my <lb/><sic>close</sic>home I will wash them myself <lb/>and give them to the tailor to mend <lb/>it will not cost so much. 
+            <pb n="2" facs="L1916_4191_img_3563_2"/>
+             Jack has got a good job on board <lb/> a liner the Baltic she is a White Star <lb/>boat he will be all right Andy does <lb/>not know what boat he will get yet <lb/> he is waiting in Liverpool. Well we <lb/> go out to spit head tomorrow <lb/>morning to do out firing and after <lb/>that we will go to . you might send <lb/> me a bit of darning wool and a needle <lb/> I have got some socks to mend I <lb/> washed them <sic>to night</sic> If you have <lb/> any money to spare you might send <lb/> me on a few shillings as I will be <lb/> on draft before I get  any and more. I <lb/> got pay on Friday pay did I say <lb/> well it is what the navy calls it I got £<hi rend="superscript">s</hi>the hept <!-- they kept? -->the price of the <lb/> gurnsey of it and I expected not to <lb/> stop it till the end of the quarter <lb/> well mother I will close now tell
+            <pb n="3" facs="L1916_4191_img_3563_3"/>
+            my Father I hope he will be able <lb/> to get his share <seg type="del">to</seg>of the haddocks <lb/> I expect the trawlers is not doing <lb/> much now tell Jessie I was <lb/> asking for her. I will close as my <lb/> hands are getting cold.    Your loving <lb/> Son Willie   P/S <lb/> This place would <lb/> starve you <sic>concereate</sic> floor <lb/> and it rains in sometimes <lb/> W. 
+         </ab>
+      </body>
+   </text>
+</TEI>

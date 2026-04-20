@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0050">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Reidy to Frank Hugh O'Donnell, 9 May, 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Reidy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Frank Hugh O&#39;Donnell (1846-1916) to the Honorary Secretary of the Kerry County Board of the National Volunteers, 1916. The writer is accounting for 10 rifles and bayonets which had been lent to him in March, 1915.Frank &#39;Francis&#39; Hugh O&#39;Donnell was an Irish nationalist and politican. In 1877, O’Donnell secured election to the House of Commons as MP for Dungarven, County Waterford. O’Donnell clashed with Parnell for leadership of the Home Rule party, eventually abandoning the Irish Parliamentary Party to co-found the National Democratic League and serve as its president 1904–6. Opposing the service of Irishmen on the British side in the South Africa war, he wrote an anti-recruiting pamphlet for the Irish National Club.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Frank O&#39;Donnell Collection BMH CD/52/2/22</collection>
+                  <idno>https://letters1916.ie/item/50</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1541">John Reidy</persName>
+              <date>1916-05-09</date>
+              <placeName key="#letters1916_place-1408">57 Moyderwell, Tralee, Co. Kerry, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Frank Hugh O&#39;Donnell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1532">Tralee, Co. Kerry, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0050_img_1098_1"  type="Letter"  url="cc319c7457c044a9a357f6967aea3a8e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0050_img_1098_1"/>
+                57 Moyderville  Tralee    May 9.1916   Dear Mr. O'Donnell,   In reply to yours of 26th <sic>inst.</sic>re <lb/>the 10 rifles &amp; bayonets lent <lb/>us on the 7th March 1915, <lb/> please note that on the day <lb/> the colours were blessed at <lb/> the Race-course, 7 rifles and <lb/> bayonets were given in at <lb/> Mr. Liston's office. Of the <lb/>remaining 3, <lb/>2 are at Mr. John Heffernan's Farmers' Bridge <lb/>1 is at Mr. Ml Ahern's Caherleaheen. <seg type="closer"> Yours truly,  John Reidy   F. O'Donnell Esqr  </seg> Billy Dunne has one  
+         </ab>
+      </body>
+   </text>
+</TEI>

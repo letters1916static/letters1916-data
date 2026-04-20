@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0882">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Bunn to Thomas Kerford, 18 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Bunn</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from William Bunn to fellow civil servant Thomas Kerford requesting leave from the office between 22nd May and 21st June 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registed Papers, NAI-CSO-RP-1916-5618-8475</collection>
+                  <idno>https://letters1916.ie/item/882</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1287">William Bunn</persName>
+              <date>1916-05-18T00:00:00</date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas Kerford</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0882_img_2450_1"  type="Letter"  url="609e463770a6a7c4c06b33382d2fbc2c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0882_img_2450_1"/>
+                Chief Secretarys Office  Dublin Castle    18<hi rend="superscript">th</hi> May 1916    Application for Leave.  I beg to apply for leave of absence <lb/>from this Office from May 22<hi rend="superscript">nd</hi> until June 21<hi rend="superscript">st</hi><lb/>inclusive. I have had no leave during <lb/>present year. <seg type="closer"> I am Sir <lb/>your Obedient Servant <lb/>W<hi rend="superscript">m</hi>Bunn  Mr Kerford </seg> A.M.S Recommended <lb/>Apprvl of 1 fortnight from <lb/>26<hi rend="superscript">th</hi> if nothing happens <lb/>meantime <lb/>EOF 20.V.16  
+         </ab>
+      </body>
+   </text>
+</TEI>

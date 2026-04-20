@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0768">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Langford Beazley to Piaras Béaslaí on St. Patrick's eve 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Langford Beazley</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Patrick Langford Beazley to his son Piaras Béaslaí. Patrick wishes Piaras a happy St. Patrick&#39;s day and discusses the number of men who&#39;ve &#39;gone to the colours&#39; or enlisted with the British Army. Patrick also writes of the &#39;terrible&#39; death of W. McCarthy, who perished in a car accident.Piaras Béaslaí (born Percy Frederick Beazley) was an English born writer, revolutionary, politician, language revivalist, journalist and a member of the IRB. In February of 1916 he published the Fàinne, a publication to organise Gaelic speakers. He soon abandoned it and became involved in politics and would later fight in the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>MS 33,972 / 11</collection>
+                  <idno>https://letters1916.ie/item/768</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1204">Patrick Langford Beazley</persName>
+              <date>1916-03-16</date>
+              <placeName key="#letters1916_place-1359">Cheshire, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Piaras Béaslaí</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0768_img_230_1"  type="Letter"  url="17c5513f5964eb71c3b0a4feb0c6cb97.jpg"/>
+      <graphic xml:id="L1916_0768_img_230_2"  type="Letter"  url="07bc28b91502865530a626704b8afd83.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0768_img_230_1"/>
+                'GLENGARIFF.'  RUDGRAVE SQUARE  EGREMONT   CHESHIRE    16th March, 1916.   My dearest Pierce,   A happy St. Patrick's<lb/> Day to you and Langford.<lb/> I hope the weather will be<lb/> finer than it has been<lb/> here for a good many<lb/> days. We have had all<lb/> sorts of weather, each<lb/> phase quite as trying as<lb/> the other. Today has been<lb/> somewhat mild. I hope<lb/> the turn for the better will<lb/> continue until we get  
+            <pb n="2" facs="L1916_0768_img_230_2"/>
+              settled good weather. Let<lb/> us have a line to let us know<lb/> how you are and how<lb/> things are with you. I <lb/> suppose in Dublin, as here,<lb/> the tendency in newspaper<lb/> work is to economy.<lb/> However, there is less inclination<lb/> here now than<lb/> there was at the declaration<lb/> of war to be alarmed. A <lb/> good number of men<lb/> have gone to the colours <lb/> from the newspaper<lb/> staff. The difficulty of<lb/> making one's way at<lb/> night is as great as<cb/> ever, but fortunately the<lb/> evenings are growing long.<lb/> I am told that Dr M<hi rend="superscript">c</hi>Carthy's<lb/> death was a terrible one.<lb/> A heavy car or wagon<lb/> must have passed over<lb/> him. He was taken to the<lb/> hospital and the priest<lb/> came before he died, but<lb/> he was unconscious. We<lb/> have no news, but are <lb/> quite well, thank God. We<lb/><sic>here</sic> now and again from<lb/> Carey and he always enquires <lb/> about you. Don't forget<lb/> to write.  With fondest love from<lb/> Mother and myself, <seg type="closer"> Ever affectionately  Father. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

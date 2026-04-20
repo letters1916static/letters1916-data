@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0916">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Peter Mooney to his sister Katie, 19 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Peter Mooney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Peter Mooney (b.1886) to his sister Katie (b.1884). Peter writes that he has neither pneumonia nor consumption and thanks her for her welcome letter, cream and pair of socks. He writes of how life in Ballincollig and he asks how everyone is back in Dublin.Orphaned at age 7, Peter and his sister Katie were raised by their uncle William and his wife Mary in Caulstown. While there are no surviving enlistment papers for Peter, his War Badge Index Record shows his enlistment date as 18 October 1915. He served with the Royal Artillery and later transferred to the Royal Engineers where he was promoted to the rank of Sergeant. He served in several places at the Western Front, including Ypres, St. Omer and Passchendael. Peter and Kate were avid correspondents. This letter part of a collection of over ninety surviving letters.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Mooney Family Papers</repository>
+                  <collection>NULL, NULL</collection>
+                  <idno>https://letters1916.ie/item/916</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0428">Peter Mooney</persName>
+              <date>1915-12-19T00:00:00</date>
+              <placeName key="#letters1916_place-1440">Royal Field Artillery, Ballincollig, Co. Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1038">Katie Mooney</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0916_img_2587_1"  type="Letter"  url="879da778bdf159c8c52a94e0aff697c7.jpg"/>
+      <graphic xml:id="L1916_0916_img_2587_2"  type="Letter"  url="c6141b5821a6ec0fb697c000ac70fdec.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0916_img_2587_1"/>
+                5th (B) Reserve Brigade R.F.A.,  Ballincollig    Dec 19<hi rend="superscript">th</hi> 1915   Dear Katie   I received your welcome <lb/>letter this morning. I am <lb/>glad to see by it that <lb/>you are all quite well. <lb/>I am going on splendid <lb/>now &amp; like my new life <lb/>well. Tell all the people <lb/>that I have neither con â <lb/>sumption or pneumonia  
+            <pb n="2" facs="L1916_0916_img_2587_2"/>
+              I will quickly get home in <lb/>the new year early. Tell all <lb/>I was asking fro them, <lb/>How are the pair of little <lb/>devels you know the  <lb/>Tell poor old Billy &amp;the <lb/><seg type="unclear">Cocky</seg> horse I was asking <lb/>for them. I am sure the <lb/>grey horse is a splendid <lb/>animal now. Will you ask <lb/>Paddy was it himself or <lb/>the deer broke up the <lb/>shelf. I am sure he broke <lb/>more than the deer. I will <lb/>write again before Christmas <seg type="closer"> Good âBye &amp; god Bless you  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

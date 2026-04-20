@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3717">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Card to the Hon. Secretary from Mary Bourke Dowling, 8 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mary Bourke Dowling</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Mary Bourge Dowling writes to the Honorary Secretary of the Irish Woman&#39;s Franchise League indicating that Hanna Sheehy Skeffington has asked her to chair the upcoming meeting, but she is unable to attend. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy-Skeffington Papers, Collection List No. 47; MS 33,604/13-2</collection>
+                  <idno>https://letters1916.ie/item/3717</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0698">Mary Bourke Dowling</persName>
+              <date>1915-11-08</date>
+              <placeName key="#letters1916_place-1380">Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Honorary Secretary of Irish Woman&#39;s Franchise League</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0671">Westmorland Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3717_img_3107_1"  type="Letter"  url="492c6f95e8c9c192dc440c155d0cebe0.jpg"/>
+      <graphic xml:id="L1916_3717_img_3107_2"  type="Envelope"  url="f5a83ce5b796a7508e8bf6c4a1e4e364.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3717_img_3107_1"/>
+              9/11/15   Mrs S.S. has written me asking me to  chair meeting tonight.  <seg type="unclear">This</seg> is quite improbable  for me to be present.  I have left word  to that effect at <seg type="unclear">ArowSTNS</seg> but don't know   if they can arrange because they were  too busy to speak to me, but you can  leave word that I   couldn't, and sombody at meeting will take chair.  Mary Bourke Dowling    
+            <pb n="2" facs="L1916_3717_img_3107_2"/>
+             DUBLIN POST CARD  Immediate  1:45 PM 9 Nov 15    Hon Secretary    Irish Women's Franchise League    Westmoreland Street    Dublin  
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0935">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Thomas Heath to Sir Robert Chalmers, 10 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Heath</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Thomas Little Heath (1861-1940) to Robert Chalmers (1858 - 1938) concerning the salary of Resident Magistrates who are promoted from the second to the first class while on active service.Sir Thomas Little Heath was a British civil servant. From 1913 to 1919 he occupied the position of permanent secretary to the Treasury. Sir Robert Chalmers was sent to Ireland as replacement under-secretary for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-5617, NAI-CSO-RP-1916-5617</collection>
+                  <idno>https://letters1916.ie/item/935</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1414">Thomas Heath</persName>
+              <date>1916-07-10T00:00:00</date>
+              <placeName key="#letters1916_place-1551">Treasury Chambers, Whitehall, London SW, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0935_img_2719_1"  type="Letter"  url="b6388b81e48f38381f6d4066fcb2912c.jpg"/>
+      <graphic xml:id="L1916_0935_img_2719_2"  type="Letter"  url="4aacd9787346d56660590e88ded20988.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0935_img_2719_1"/>
+              Any reply to this letter should be addressed to- <lb/>THE SECRETARY, <lb/>TREASURY, <lb/>WHITEHALL, LONDON, S.W., <lb/>and the following number quoted.  16723 16    10 July 1916   Sir,   The Lord Commissioners of His Majesty's <lb/>Treasury have received from the Treasury Remembrancer copies <lb/>of communications with your Department on the subject of <lb/>the position of Resident Magistrates who are promoted <lb/>from the second to the first class while on active service, <lb/>as regards the balance of civil salary to be paid to them.  I am to request that you will inform the Lords <lb/>Justices that My Lords note that the Attorney General is <lb/>of opinion that in such cases the promoted officer cannot <lb/>legally be deprived of the civil pay attaching to his new <lb/>class, abated by his military pay and allowances.  I am to observe that the effect of this decision would be <lb/>almost the same in substance as if the balance of civil <lb/>pay were not increased, since under the Attorney-General's <lb/>ruling military allowances as well as military pay would be <lb/>deducted, <hi rend="underline">whereas under the Treasury Circulars military pay <lb/>alone is deducted.</hi> The allowances would in most cases <lb/>exceed the difference between the pay of the first and <lb/>second class.  My Lords are nevertheless willing to accept the <lb/>solution which is proposed, namely that the Treasury <lb/>Circular should be applied in the case of any similar <lb/>promotions  The Under Secretary, <lb/>Dublin Castle.  
+            <pb n="2" facs="L1916_0935_img_2719_2"/>
+              promotions proposed to be made hereafter but should <lb/>not apply to promotions already made. <seg type="closer"> I am, <lb/>Sir, <lb/>Your obedient Servant,   J.L. Heath  </seg> The signature is handwritten not typed.  
+         </ab>
+      </body>
+   </text>
+</TEI>

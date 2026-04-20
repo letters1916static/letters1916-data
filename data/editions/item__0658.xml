@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0658">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James D Mitchell to Sir Matthew Nathan, 20 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James D Mitchell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was sent by James Daniel Mitchell to Matthew Nathan to apply for the position of crown solicitor for King’s County. He describes his relevant experience and states that his father and grandfather both held the position.James Daniel Mitchell (b. 1880) was a solicitor from King’s County (Offaly). Sir Matthew Nathan (1862 – 1939) was the under-secretary for Ireland from 1914 to 1916 when he offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered papers, CSO-RP-1916-5615-10437</collection>
+                  <idno>https://letters1916.ie/item/658</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1121">James D Mitchell</persName>
+              <date>1916-06-20</date>
+              <placeName key="#letters1916_place-0549">Birr, Offaly, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0658_img_2140_1"  type="Letter"  url="441c0652ee3c6930e664be42edae3aaf.jpg"/>
+      <graphic xml:id="L1916_0658_img_2140_2"  type="Letter"  url="35ba2c5b471324bd1fc6a898cc129e07.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0658_img_2140_1"/>
+                Walcot Parsonstown    20th June 1916   Sir,   I beg to apply for the Office of Crown Solicitor <lb/> for the Kings County recently vacant by the death of<lb/> W. R. F. Barry.  I am thirty six years of age and was admitted<lb/> a Solicitor in Trinity term 1903. I was apprenticed<lb/> to my father, the late Thomas Mitchell who held the<lb/> office of Sessional Crown Solicitor for this County<lb/> for Twenty two years previous to his death in April<lb/> 1914. My grandfather held the same appointment in<lb/> this County for 25 years. On my fathers death<lb/> I applied for the appointment, but the then Attorneyâ<lb/> General had to amalgamate the Offices of Crown<lb/> and Sessional Crown Solicitor, and W. Barry being<lb/> offered the latter Office accepted same.   I am quite conversant with the duties attached<lb/> to the Office of Crown Solicitor having done<lb/> deputy for my father and the late W. Barry on<lb/> several occasions. I had charge of Crown cases<lb/> both at Quarter Sessions and Assizes and  
+            <pb n="2" facs="L1916_0658_img_2140_2"/>
+              have attended Revision Sessions both<lb/> here and in Tullamore. I am local<lb/> Solicitor to the Irish Land Commission,<lb/> and collect all the Land Purchase Arrears<lb/> for the Kings County.  I have applied to the Attorney General<lb/> for the appointment. <seg type="closer"> I remain<lb/> Sir,<lb/> Your obedient Servant<lb/> Jas D. Mitchell </seg> <hi rend="underline">To</hi><lb/> The Under Secretary<lb/> Dublin Castle  
+         </ab>
+      </body>
+   </text>
+</TEI>

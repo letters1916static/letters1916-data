@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0461">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the War Employment Inspector to Emily J. Slocock, 20 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>War Employments Inspector</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from the War Employment Inspector to Emily Julia Slocock. The author is thanks Ms. Slocock for her letter received earlier that month. He also writes that he is glad that Ms. Slocock is not taking a pessimistic view on the present situation regarding women in Belfast while also looking forward to meeting her again.Emily J Slocock was the Inspector of Factories in Belfast.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI, CSO_1916_7443_21</collection>
+                  <idno>https://letters1916.ie/item/461</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0459">War Employments Inspector</persName>
+              <date>1916-03-20</date>
+              <placeName key="#letters1916_place-1940">Local Government&#39;s Board, War Employments Branch, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Emily Julia Slocock</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0433">124, Donegal Street, Belfast</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0461_img_1806_1"  type="Letter"  url="a03318ccb2f0322d5160bbfb23ce8d3c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0461_img_1806_1"/>
+                LOCAL GOVERNMENT BOARD  (War Employments Branch)   DUBLIN.    20th March, 1916   Dear Miss Slocock,   Thank you for yours of the 15th instant from which <lb/>I am glad to know that you do not take a very pessimistic <lb/> view of the present situation or immediate prospects <lb/> in Belfast so far as women are concerned.   I look forward to having the pleasure of seeing you <lb/> when your duties permit of your return to Ireland.  <seg type="closer"> Meantime with kind regards. <lb/> Yours truly,   <seg type="unclear">EUU.</seg> War Employment Inspector    Miss Slocock,  H.M. Lady Inspector of Factories,  124, Donegall Street,  BELFAST  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0708">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Montgomery to his father, Harford Hugh Montgomery, 16 November, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Alexander Montgomery</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from William Montgomery to his father, Harford Hugh Montgomery (1856-1933). The letter was hand delivered by his Company Sergeant, Major Hall, who is on leave. William jokes that Hall is delighted to be away from him as he is such a tough commanding officer. This letter is part of a large collection that William, a Captain with the 9th Battalion of the Royal Irish Rifles, wrote to his parents, Harford Hugh and Sara Montgomery, throughout the war. The Montgomery family lived in Malone Park, one of the wealthiest suburbs of Belfast city. His first letter is dated 3 December 1914. Captain Montgomery was a decorated soldier. He was awarded both the Victoria and the 15 Star medals and was promoted to the rank of Major. His father owned a fire assessor business.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Papers of the Montgomery Family, D2794/1/1/18</collection>
+                  <idno>https://letters1916.ie/item/708</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1502">William Alexander Montgomery</persName>
+              <date>1916-11-16</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Harford Hugh Montgomery</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0757">Messrs Wm Montgomery &amp; son, 2 Wellington House, Belfast, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0708_img_2203_1"  type="Letter"  url="7aee77261b97c568feb0db69b54c7e47.jpg"/>
+      <graphic xml:id="L1916_0708_img_2203_2"  type="Letter"  url="ee4e60a71b30b5244150b6fdf8694ae2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0708_img_2203_1"/>
+               Dear Father/   The bearer, Coy. Sergt Maj. <lb/> Hall is my Coy. Sergt Major. At least he is <lb/> C.S.M of 'A' Coy. and a rattling good <lb/> man. He can give you all the <lb/> Battalion gossip. He will probably tell <lb/> you he is having a lovely time now <lb/> that he is temporarily rid of me as a <lb/> Coy. Cmdr. He will also probably tell <lb/> you that your son is a terribly <lb/> hard man. He smokes. <seg type="closer"> Your affectionate son  <hi rend="underline">Wm. Montgomery</hi>   <hi rend="superscript">16/11/16</hi>  </seg> 
+            <pb n="2" facs="L1916_0708_img_2203_2"/>
+                Harford H Montgomery Esq  C/O  Messrs  W<hi rend="superscript">m</hi> Montgomery &amp; Son  2 Wellington Place  Belfast   Written diagonally <hi rend="underline">Wm. Montgomery</hi>  
+         </ab>
+      </body>
+   </text>
+</TEI>

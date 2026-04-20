@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1493">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Celia to Nancy O'Rahilly, c. May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Celia</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter to Nancy O&#39;Rahilly (1875-1961). The writer, Celia, expresses sympathy on Michael&#39;s (1875-1916) death and wishes she could be there to comfort Mr. O&#39;Rahilly - &#39;he died as he wished fighting for his country&#39;.Nancy O&#39;Rahilly was a member of the Provisional Council of Cumann na mBan at the founding in 1914 and the wife of Michael Joseph O&#39;Rahilly, self-described as &#39;The&#39; O&#39;Rahilly. The O&#39;Rahilly fought in the Easter Rising and was shot in Parnell/Moore Street on 28 April 1916 and died some time later. Nancy was pregnant at the time of her husband&#39;s death – the child was born three months later.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Humphreys Papers, P106/120/1</collection>
+                  <idno>https://letters1916.ie/item/1493</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1014">Celia</persName>
+              <date>1916</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1534">Nancy O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1493_img_947_1"  type="Letter"  url="59eed1583ef344774a9a3c38a21bfdda.jpg"/>
+      <graphic xml:id="L1916_1493_img_947_2"  type="Letter"  url="2dfa94bf7bc88968a8f77d65a99a27c0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1493_img_947_1"/>
+               My dearest Nannie,   I can't write <lb/>how heartbroken we are about <lb/> poor Michael. I nearly go <lb/> crazy when I think of your <lb/> awful sorrow. I am doing <lb/> my utmost to get over <lb/> to you, not that having me <lb/> would lessen your sorrow <lb/> but I should like to be <lb/>with you. Uncle is going <lb/> to try and give me the <lb/> money if this deal goes <lb/> through. He feels simply <lb/> terrible about Michael, in <lb/> fact I can't tell you <lb/> how miserable we all are  
+            <pb n="2" facs="L1916_1493_img_947_2"/>
+              All we can do at present <lb/> is to pray for you both. <lb/>He certainly died as he wished <lb/> fighting for his country, but <lb/> how hard for those he left <lb/> behind. Nannie dear when <lb/> you feel able let us know <lb/> how you are, we are so <lb/>worried. When do you expect <lb/> your baby? If I only could <lb/> be with you when you do. <lb/>My dear girl, I know you <lb/>understand how simply awful <lb/> I feel, how futile words are <lb/> to express our sorrow. All I <lb/>hope is to be with you soon.<lb/>All our love and sympathy <seg type="closer"> Lovingly  Celia </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

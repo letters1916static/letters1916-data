@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0931">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Charles Scott to Thomas G. Buchanan, 14 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Charles Edward Scott</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Charles Edward Scott (1862-1940), rector of Douglas, Co. Cork, to Thomas G. Buchanan regarding the removal of Buchanan&#39;s relatives from the local cemetery to another burial plot.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-5616-11356-2, NAI-CSO-RP-1916-5616-11356-2</collection>
+                  <idno>https://letters1916.ie/item/931</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0976">Charles Edward Scott</persName>
+              <date>1916-06-14T00:00:00</date>
+              <placeName key="#letters1916_place-1282">Douglas Rectory, Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas G Buchanan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0931_img_2708_1"  type="Letter"  url="59fa675fa8614cb3900aedd6386b20a1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0931_img_2708_1"/>
+                Douglas <seg type="unclear">Rectory</seg>. Cork.    June 14. 1916.   Dear Mr. Buchanan,   The select <seg type="unclear">vestry</seg> of Douglas <lb/>Parish who own the <seg type="unclear">Cemetary</seg> are quite <lb/> willing that you should remove the <lb/><seg type="unclear">remains</seg> of members of <seg type="unclear">your</seg>family <lb/>from out Burial Plot to another <lb/>provided that you obtain the necessary <lb/>permission from the legal authorities. <lb/> I trust <seg type="unclear">this</seg> statement in writing is <lb/> sufficient. In case any forms have to <lb/> he filled up please let us know &amp; I shall <lb/>be glad to attend to them. Please excuse <lb/>my delay in answering your letter. One <lb/> of my chamber wardens is away &amp; it takes <lb/> some days to get an answer from him. <seg type="closer"> Yours sincerely  <hi rend="underline">C.E. Scott</hi> <seg type="unclear">Rector</seg> of Douglas</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

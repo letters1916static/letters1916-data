@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1398">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Gerald Heran to Jeremiah Lane, 13 March 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Gerald Horan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Gerald Heran of the Lord Chacellor&#39;s Secretary&#39;s Office to Jeremiah Lane, justice of the peace in Cork. Lane had made a speech at a meeting of the Cork Corporation during which he said, &#39;As long as we are bound up with this accursed Empire, so long would they be on the verge of starvation&#39;. He did not deny the comments and this was considered inappropriate owing to his position.Heran asks Lane to offer an explanation for this behaviour.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3890/3</collection>
+                  <idno>https://letters1916.ie/item/1398</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0761">Gerald Horan</persName>
+              <date>1916-03-13</date>
+              <placeName key="#letters1916_place-1012">Lord Chancellor&#39;s Secretary&#39;s Office, The Four courts, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0624">Jeremiah Lane</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0692">9 South Main Street, Cork, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1398_img_789_1"  type="Letter"  url="5a8bdf553bcb422bdfb76b8e784c3722.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1398_img_789_1"/>
+                LORD CHANCELLOR'S SECRETARY'S OFFICE,  Four Courts, Dublin,    13th day of March 1916   Sir,   I am directed by the Lord Chancellor to inform you that his <lb/> attention has been called to certain remarks reported in the Cork <lb/> local Press of the 26th and 29th February last to have been made by <lb/> you in public as follows:- 'As long as we are bound with this <lb/> 'accursed Empire, so long would they be on the edge of starvation' <lb/> and that on 28th February when adjudicating as a Justice of the <lb/> Peace in Cork and your attention having been drawn to the use by <lb/>you of these words, you took full responsibility for them.   The use of language such as this coupled with the apparent <lb/> deliberate non - disavowal of it by you when acting in Court as a <lb/> magistrate would constitute conduct quite inconsistent with your <lb/> position as holding His Majesty's commission of the Peace.   The Lord Chancellor desires to know without delay if you have <lb/> any explanation to offer.  <seg type="closer"> I am, Sir, <lb/> Your obedient Servant,    G. H .  <lb/>Jeremiah Lane, Esq. J. P.   9 South Main St.  Cork.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

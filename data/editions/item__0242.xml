@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0242">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from M.L. Waller to Sergeant Thomas McGrath, 12 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M.L. Waller</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from M.L. Waller to Sergeant Thomas McGrath (c.1864-1919). Waller writes of the proposed exemption from internment or the release of an unspecified &#39;alien enemy,&#39; possibly a German citizen living in Ireland.Waller was the head of the Prisoner of War Division at the Home Office. McGrath was serving as chief constable of the Dublin Metropolitan Police at the time</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/6514/1</collection>
+                  <idno>https://letters1916.ie/item/242</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0730">M.L. Waller</persName>
+              <date>1916-04-12</date>
+              <placeName key="#letters1916_place-0658">Whitehall, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas McGrath</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0242_img_1414_1"  type="Letter"  url="fdcc3dd8a72cd34f04733a5cb217b667.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0242_img_1414_1"/>
+              Any communication on the <lb/> subject of this letter should be <lb/> addressed to: - <lb/> THE UNDER SECRETARY OF STATE, <lb/> HOME OFFICE, <lb/> LONDON, S.W., <lb/> and the following number quoted :  <lb/> P.<seg type="unclear">W</seg>. 304361    HOME OFFICE,  WHITEHALL.    12.4.16   Sir,   I am directed by the Secretary of State to transmit <lb/> to you the accompanying papers, and to say that he will <lb/> be obliged if you will kindly report on the enclosed form <lb/> your opinion on the question of the exemption from <lb/> internment or release of the alien enemy therein referred <lb/> to.  It will be convenient if the envelope containing your <lb/> reply is marked on the outside with the words '<hi rend="underline">'Prisoners <lb/> of War'.</hi>'  Please return the enclosures with your reply. <seg type="closer"> I am, <lb/> Sir, <lb/> your obedient Servant,  M. L Waller </seg> Chief Cons <lb/> Horsepad <lb/> Tues. <lb/>13/4/16  Text below the date is unclear   Supt. A. Dum  Sergeant McGrath, <lb/><seg type="unclear">FarCreharts</seg><lb/> LWaller/ a Draft <lb/> The Chief Constable. 14/4/16 <lb/> City Police Force <lb/> Dublin   
+         </ab>
+      </body>
+   </text>
+</TEI>

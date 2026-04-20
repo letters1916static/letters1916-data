@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3626">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Most Rev. Bernard Hackett to John Redmond, 4 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Bernard Hackett</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Reverend Bernard Hackett (1863-1932) to John Redmond (1856-1918) regarding a misrepresentation of Hackett&#39;s position.
+
+In 1916 Bernard Hackett was ordained and serving as the Bishop of Waterford and Lismore.
+
+John Redmond (1856-1918) was an MP and leader of the Irish Parliamentary Party. He was instrumental in securing the promise of Home Rule from Asquith&#39;s liberal government. Upon the outbreak of war, Redmond addressed a group of Irish Volunteers at Woodenbridge, Co. Wicklow, encouraging them to fight with the British Army to ensure the implementation of Home Rule. Redmond&#39;s words split the Irish Volunteers across the country. The Easter Rising shocked Redmond, who condemned it bitterly. Nonetheless he appealed for leniency towards those who had not been involved in planning the Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>John Redmond Papers, Collection List No. 118; MS 15,193/1</collection>
+                  <idno>https://letters1916.ie/item/3626</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0715">Bernard Hackett</persName>
+              <date>1916-10-04</date>
+              <placeName key="#letters1916_place-2101">Waterford, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1486">John Redmond</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1932</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3626_img_3024_1"  type="Letter"  url="1d592b33fb5bfc8da850d628b525760b.jpg"/>
+      <graphic xml:id="L1916_3626_img_3024_2"  type="Letter"  url="2bb4697ba6225edc5eccfca146a49f11.jpg"/>
+      <graphic xml:id="L1916_3626_img_3024_3"  type="Letter"  url="59f49ddc46d6482d7a8d32c63ce5840d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3626_img_3024_1"/>
+             BISHOP'S HOUSE, <lb/>JOHN'S HILL, <lb/>WATERFORD   Oct. 4<hi rend="superscript">th</hi> 16.   Dear Mr. Redmond,   I beg to thank you for your <lb/>letter just received.   Had your friend wished to <lb/>be strictly accurate, he <lb/>would have stated, that your <lb/>action, as representative of
+            <pb n="2" facs="L1916_3626_img_3024_2"/>
+            our Catholic City, was to <lb/>those, who heard of it, unintelligible. <lb/>Though this matter did not, <lb/>and does not affect me <lb/>personally, you will, I think <lb/>agree in their view, that my <lb/>priests and people would <lb/>rightly consider me untrue <lb/>to my position, did I not <lb/>strive to maintain its <lb/>dignity, and resent even an <lb/>apparent slight. 
+            <pb n="3" facs="L1916_3626_img_3024_3"/>
+             I pray God to guide you <lb/>as regards the future of our <lb/>dear country.   I am <lb/>Yours truly   B. Hackett.   J. L. Redmond Esq. M. P. 
+         </ab>
+      </body>
+   </text>
+</TEI>

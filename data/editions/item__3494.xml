@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3494">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward, Prince of Wales to John Redmond, 31 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward, Prince of Wales</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Edward, Prince of Wales (1894-1972) to John Redmond (1856-1918). In the letter Edward thanks Redmond for a book detailing Redmond&#39;s visit to the front during World War I.
+
+Edward VIII was King of the United Kingdom and the Dominions of the British Empire, from 20 January 1936 until his abdication on 11 December the same year. Edward was the eldest son of King George V and Queen Mary. John Redmond was an MP and leader of the Irish Parliamentary Party. He was instrumental in securing the promise of Home Rule from Asquith&#39;s liberal government. Upon the outbreak of war, Redmond addressed a group of Irish Volunteers at Woodenbridge, Co. Wicklow, encouraging them to fight with the British Army to ensure the implementation of Home Rule. Redmond&#39;s words split the Irish Volunteers across the country. The Easter Rising shocked Redmond, who condemned it bitterly. Nonetheless he appealed for leniency towards those who had not been involved in planning the Rising. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>MS 15,188/1</collection>
+                  <idno>https://letters1916.ie/item/3494</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1085">Edward, Prince of Wales</persName>
+              <date>1916-01-31</date>
+              <placeName key="#letters1916_place-1677">Buckingham Palace, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1486">John Redmond</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3494_img_2901_1"  type="Letter"  url="9da543fc7c0063c47f64f6bfd8faa280.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3494_img_2901_1"/>
+             BUCKINGHAM PALACE   <hi rend="underline">Jan. 31<hi rend="superscript">st</hi> 1916.</hi>   Dear M<hi rend="superscript">r </hi>Redmond,   Thank you so <lb/>much for sending me <seg type="del">your</seg>  the  small <lb/>book about your visit to the <lb/>front; I found it here on my <lb/>return yesterday. It will serve <lb/>as a pleasant reminder of your <lb/>day spent with the Guards DIV. <lb/>&amp; I am most grateful.    I remain, <lb/><sic>Yrs</sic> very sincerely   <hi rend="underline">Edward</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

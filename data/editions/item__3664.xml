@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3664">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Surgeon General, War Office, to The President, Royal College of Physicians of Ireland, 7 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Surgeon General, for Director General, Army Medical Service, War Office</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Typescript letter from the War Office advising RCPI that while recently graduated medical students with no military training can obtain commission in the Royal Army Medical Corps on qualification, previous military training is a great advantage and they urge senior students &#39;to become cadets in the medical units of their University Officers Training Corps&#39;. 
+
+The letter has been initialed by Ephraim MacDowel Cosgrave, RCPI President, and dated 12 November 1915.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T44</collection>
+                  <idno>https://letters1916.ie/item/3664</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0905">Surgeon General, for Director General, Army Medical Service, War Office</persName>
+              <date>1915-11-07</date>
+              <placeName key="#letters1916_place-0372">War Office, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">The President, Royal College of Physicians of Ireland</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1065">Royal College of Physicians of Ireland, Kildare Street, Dublin, Ireland </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3664_img_3059_1"  type="Letter"  url="ce3b3296a89f31b0b80d3c3b54533b52.jpg"/>
+      <graphic xml:id="L1916_3664_img_3059_2"  type="Letter"  url="b29d52b0b00b385744c72a2bf69d585e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3664_img_3059_1"/>
+             War Office, <lb/>London, S.W.   7 th November, 1915.   Sir,   An impression appears to have obtained credence <lb/>among medical students in their 4th and 5th years that it <lb/>is unnecessary for them to undergo any military training <lb/>while engaged in the study of their profession. This <lb/>view has doubtless arisen because, owing to the great <lb/>demand for medical men and the shortage of supply, many <lb/>who have received no military training have been given <lb/>commissions in the Royal Army Medical Corps.   From the experience of the past it has been <lb/>clearly shown that men who have had previous military <lb/>training are of infinitely greater value as Officers of <lb/>the Royal Army Medical Corps than those who have had no <lb/>military experience.   Students in their 4th and 5th years have been <lb/>advised that it is best for them to continue their <lb/>medical studies in order to qualify for commissions in the <lb/>Royal Army Medical Corps but this does not in the least <lb/>exempt <sic>'them</sic> from using all the means available for <lb/>obtaining military instruction.   The Medical Units of the various Officers <lb/>Training Corps are organised so that men may obtain this <lb/>instruction without disturbance of their medical studies <lb/>and  The President, <lb/>Royal College of Physicians of Ireland. 
+            <pb n="2" facs="L1916_3664_img_3059_2"/>
+            and all senior students, who have not already done so, <lb/>are strongly encouraged to become cadets in the Medical Units of <lb/>their University Officers Training Corps.   I am, <lb/>Sir, <lb/>Your obedient Servant,   <seg type="unclear">Mmm Russell</seg>  <lb/>Surgeon General <lb/>for Director General, <lb/>Army Medical Service.  <seg type="unclear">MacG</seg> <lb/>12.X1.15 
+         </ab>
+      </body>
+   </text>
+</TEI>

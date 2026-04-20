@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0068">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from George Gavan Duffy to Eoin MacNeill, 20 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>George Gavan Duffy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from George Gavan Duffy (1882-1951) to Eoin MacNeill (1867-1945). Gavan Duffy had been acting on behalf of Ernest Blythe (1889-1975) and advises MacNeill that Blythe has been released, suggesting a payment of 10/- to cover out-of-pocket expenses. George Gavan Duffy was an Irish politician, barrister and judge. He unsuccessfully defended Roger Casement at his trial for high treason after the Easter Rising. Eoin MacNeill was a history professor at University College Dublin. In 1913 he established the Irish Volunteers and served as their chief-of-staff. Though he held this position at the outbreak of the Easter Rising, he took no role in the Rising or its planning, and even went so far as to try to prevent it. Ernest Blythe was an organiser for the Irish Volunteers. He had been arrested under the Defence of the Realm Act. He was released from prison in England before the Easter Rising but was rearrested there during Easter week 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, George Gavan Duffy Collection, BMH CD/45/3/11/5</collection>
+                  <idno>https://letters1916.ie/item/68</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0467">George Gavan Duffy</persName>
+              <date>1916-04-20</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0078">Eoin MacNeill</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Law and Judiciary</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0068_img_1136_1"  type="Letter"  url="fc4d91868f42277a553dfef61dea8f84.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0068_img_1136_1"/>
+                20th April 1916.    Professor John McNeil,  Irish Volunteers Headquarters,  Dublin.   Dear Mr McNeil:â   You .will be glad to hear that Earnest Blythe<lb/> has been released. I think he was entitled to an acquittal<lb/> on highly technical grounds and the Court compromised<lb/> by deciding that the charge was proved, but that they<lb/> would release him without further penalty.  You may send 10/â towards the outâofâpocket<lb/> expenses if you feel inclined to. <seg type="closer"> Yours sincerely,  G. Gavan Duffy. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

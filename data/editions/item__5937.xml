@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5937">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Frederick Hugh Crawford to Lady Ruby Carson, 28 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Frederick Hugh Crawford</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Frederick Hugh Crawford (1861-1952) to Lady Ruby Carson (1881-1966). Crawford is writing about an ornate casket that he will be presented with as a gift by the Carsons. He requests that the casket stay with Sir Edward Carson until he is well enough to write a few words of appreciation to be included with it.Born in in Belfast, County Antrim, Frederick Hugh Crawford was an engineer, soldier and a gun runner. He smuggled German guns into Larne, Bangor and Donaghadee in 1914 for the UVF. During the war he was appointed OC Royal Army Service Corps in Northern Ireland and in 1916 he undertook an instruction tour in France. Lady Ruby Carson was born in Yorkshire and was the daughter of Lt Col Stephen Frewen. In 1914 she became the second wife of the prominent Unionist figure Sir Edward Carson (1854-1935).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Crawford Papers, D/1700/5/17/1/126</collection>
+                  <idno>https://letters1916.ie/item/5937</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0900">Frederick Hugh Crawford</persName>
+              <date>1916-02-28</date>
+              <placeName key="#letters1916_place-1963">Services Club, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Ruby Carson</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5937_img_1746_1"  type="Letter"  url="78b9a2ed8dada187c5e812f99f74ad1d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5937_img_1746_1"/>
+                Services Club  London    <hi rend="underline">28.2.16</hi>   Dear Lady Carson   If Sir Edward is not <lb/> well enough, or if it would be any <lb/> exertion on his part, I prefer to leave <lb/> the casket with him till he is able to <lb/> put into it, what will be much more <lb/> prized by me, even than the beautiful <lb/> casket itself, viz a few lines of appreciation <lb/> from him, I shall be in the club till <lb/> 10.30 a.m. If you will 'phone' me please  <seg type="closer"> Yours Sincerely  <hi rend="underline">Fred H Crawford</hi>  P.S. I shall be in London till <lb/> Thursday mng. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

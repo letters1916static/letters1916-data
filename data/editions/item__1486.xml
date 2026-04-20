@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1486">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mrs. E.N. Gilbert to Nancy O'Rahilly, 30 August 1916. </title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mrs. E. N. Gilbert</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter to Nancy O&#39;Rahilly (1875-1961). The writer, Mrs. E.N. Gilbert, refers to the birth of Mrs. O&#39;Rahilly&#39;s son. She writes that it is &#39;glorious to be the mother of a man&#39; - even though, it seems, the writer&#39;s preference would have been a daughter. She urges Mrs. O&#39;Rahilly to tell her boys all about their heroic father, Michael (1875-1916), and this will help bring them to a heroic manhood worthy of his memory and fame.Nancy O&#39;Rahilly was a member of the Provisional Council of Cumann na mBan at the founding in 1914 and the wife of Michael Joseph O&#39;Rahilly, self-described as &#39;The&#39; O&#39;Rahilly. The O&#39;Rahilly fought in the Easter Rising and was shot in Parnell/Moore Street on 28 April 1916 and died some time later. Nancy was pregnant at the time of her husband&#39;s death – the child was born three months later.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Humphreys Papers, P106/092/10</collection>
+                  <idno>https://letters1916.ie/item/1486</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0511">Mrs. E. N. Gilbert</persName>
+              <date>1916-08-30</date>
+              <placeName key="#letters1916_place-0956">825 North 20th Street, Philadelphia, U.S.A.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1534">Nancy O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1486_img_939_1"  type="Letter"  url="e121b0d7235aa973d1842188541a3e15.jpg"/>
+      <graphic xml:id="L1916_1486_img_939_2"  type="Letter"  url="d287cdac97fd6d136d2e9d2a1c2a1321.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1486_img_939_1"/>
+                August 30<hi rend="superscript">th</hi> 1916    825 N.20<hi rend="superscript">th</hi> St.  Phila   Dear, dear Nannie   Had it been the <lb/> will of our dear Lord, I surely <lb/>would have rejoiced in your having <lb/> a daughter, but it is glorious to <lb/> be the mother of a <hi rend="underline">man</hi> and <lb/> you must grow every day <lb/> more and more proud of your  
+            <pb n="2" facs="L1916_1486_img_939_2"/>
+              <lb/>five splendid sons. I cannot express <lb/> the love and sorrow for you that <lb/> are filling my heart, yet I <hi rend="underline">know</hi><lb/>that you will be sustained and <lb/>comforted and the words that <lb/> you can say to your boys of their <lb/> heroic father will be all sufficient <lb/> aid to you in leading them up <lb/> to a manhood worthy of his <lb/> memory and fame. Dr. and Mr. Gilbert <lb/> want to be remembered and I'll pray <lb/> that some time even in this life we may <lb/> see you. <seg type="closer"> Mrs. E. N. Gilbert </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

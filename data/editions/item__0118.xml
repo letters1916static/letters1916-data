@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0118">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Marie Martin to Mary Martin, 19 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Marie Martin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Marie Martin (1892–1975) to her mother Mary Martin. The letter is a short note to Marie&#39;s mother enclosing a letter she received for a Colonel Jourdain. She explains she is on duty and cannot wait to write later that day.Marie was born in Dublin and trained as a nurse at the outbreak of World War I. Two of Marie&#39;s brothers joined the British army at this time, one of whom was killed in action. Marie served as a nurse in Malta, Leeds and France, and later set up the Medical Missionaries of Mary.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Medical Missionaries of Mary</repository>
+                  <collection>Medical Missionaries of Mary, B/F/1/61/09/19</collection>
+                  <idno>https://letters1916.ie/item/118</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0709">Marie Martin</persName>
+              <date>1916-09-19</date>
+              <placeName key="#letters1916_place-0769">France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mary Martin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0361">Greenbank, Monkstown, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0118_img_1201_1"  type="Letter"  url="c4e5bff00a228964ed08a7cdfaa4b9b5.jpg"/>
+      <graphic xml:id="L1916_0118_img_1201_2"  type="Letter"  url="12f22f92049b7a945a0c7948e204ec18.jpg"/>
+      <graphic xml:id="L1916_0118_img_1201_3"  type="Envelope"  url="e4f03fb9d721f49ae20097c8b100c5d8.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0118_img_1201_1"/>
+               My very dearest Mother,   Just a very hurried <lb/> line enclosing Col: Jourdainâs <lb/> letter to me I cabled <lb/> yesterday &amp; have just <lb/>heard of post going <lb/> out to-night, I am <lb/> on duty so cannot <lb/>wait to write &amp; want <lb/> you to get this as <lb/> quick as possible â <lb/>I may look up Capt. <lb/> Horner but this is all <lb/>we know â   
+            <pb n="2" facs="L1916_0118_img_1201_2"/>
+              <seg type="closer"> Very best of love.  <hi rend="underline">Marie</hi> </seg> 
+            <pb n="3" facs="L1916_0118_img_1201_3"/>
+                M<hi rend="superscript">rs</hi> Martin  Greenbank  Monkstown,  Co Dublin <hi rend="underline">Ireland</hi>    
+         </ab>
+      </body>
+   </text>
+</TEI>

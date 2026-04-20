@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5449">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Connolly to The O'Rahilly, 24 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Connolly</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A brief note from James Connolly (1868-1916) to Michael Joseph O&#39;Rahilly (&#39;The O&#39;Rahilly&#39;) (1875-1916). Connolly orders O&#39;Rahilly to &#39;go with motor car for bearer with rifle.&#39;
+
+Connolly was a trade union organiser and head of the Irish Citizen Army. In 1916 Connolly became part of the plans for the Easter Rising and was one of the signatories of the proclamation of the Irish republic, with the rank of commandant general of the forces in Dublin. He was executed on 12 May 1916. O&#39;Rahilly was involved in the procurement of arms in the lead-up to the Rising and was involved in the Howth gun-running incident. He fought in the G.P.O. During the Rising and was shot in Parnell/Moore Street on 28 April 1916 and died some time later. 
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Ms. 13,019</collection>
+                  <idno>https://letters1916.ie/item/5449</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1403">James Connolly</persName>
+              <date>1916-04-24</date>
+              <placeName key="#letters1916_place-1145">The General Post Office, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0015">Michael Joseph O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1916</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5449_img_480_1"  type="Letter"  url="c4c1e696a4fc8a15d7b632d9b4660a60.jpg"/>
+      <graphic xml:id="L1916_5449_img_480_2"  type="Letter"  url="5c09411bf94343eb10b94dc380f5530d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5449_img_480_1"/>
+             <seg type="foreign">An</seg> O'Rahilly,  p>Go with motor car with <lb/> bearer for rifle   James Connolly 
+            <pb n="2" facs="L1916_5449_img_480_2"/>
+            The reverse and blank page. <!-- <lb/>ARMY OF THE IRISH REPUBLIC <lb/>9 Dublin Command) <lb/>Headquarters Date.. 24<hi rend="superscript">th</hi> April, 1916. <lb/>To <lb/>Signed <lb/>Commandant-General <lb/>Dublin Division. -->
+         </ab>
+      </body>
+   </text>
+</TEI>

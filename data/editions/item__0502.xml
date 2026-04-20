@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0502">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Denis Mullally to the Under Secretary of Ireland, 2 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Denis Mullally</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Denis Mullally (1878-1919), Clerk of Bray Urban District Council, to the under secretary of Ireland concerning the retirement of the Bray Harbour Master, Mr. Scraggs, and his entitlement to a pension.At the time this letter was written Sir Robert Chalmers (1858-1938) was serving as under secretary of Ireland. Chalmers was sent to Ireland as replacement under secretary for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5620/13283</collection>
+                  <idno>https://letters1916.ie/item/502</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0432">Denis Mullally</persName>
+              <date>1916-08-02</date>
+              <placeName key="#letters1916_place-0727">Bray Urban District Council, Town Hall, Bray, Co. Wicklow, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0502_img_1870_1"  type="Letter"  url="485e4e1c4155b4f5877b89f98e4c705e.jpg"/>
+      <graphic xml:id="L1916_0502_img_1870_2"  type="Enclosure"  url="974dae8e16a239fa625d3f4585a959eb.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0502_img_1870_1"/>
+                Bray Urban District Council  Town Hall  BRAY    2nd <seg type="del">Ju</seg> Aug, 1916   Sir,   I am directed by Bray Urban District Council to acknowledge <lb/>receipt of your letter of 28th Ult., and to state, in reply, <lb/>that they are desirous of granting Mr Scraggs a retiring <lb/>allowance on the ground of ill health under the provisions of <lb/>Section 1 of the Local Officers Superannuations Act (Ireland) 1869.  A Medical Certificate testifying that Mr. Scraggs is unfit <lb/>to perform his duties is enclosed herewith. <seg type="closer"> I am, <lb/>Sir, <lb/>Your obedient servant  D. Mullally  Clerk to the Council.   The Under Secretary,  Dublin Castle,  Dublin.  </seg> Ack. &amp; in private T.G.'s <lb/>are sent to a retiring allowance <lb/>of 13/4 a week with <lb/>effect for the date of <lb/>Mr Scragg's retirement <lb/>I.J.T. <lb/>3.8.16  
+            <pb n="2" facs="L1916_0502_img_1870_2"/>
+                5 Prince of Wales Terrace,  Bray.     1<hi rend="superscript">st</hi> August 1916      This is to certify that Thomas Scragg is <lb/> suffering from weak action of the heart, &amp; debility, <lb/>and is unfit to perform the light work he has <lb/> hither to done. <seg type="closer">  C Braw M.D. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

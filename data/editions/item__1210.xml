@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1210">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fr William Keary to Fr Provincial Thomas V. Nolan, 19 November 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>W. Keary</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Fr William Keary (1881-1958) to Fr Provincial Thomas V. Nolan (1867-1941) regarding the arrangement of Fr John Fitzgibbon&#39;s bills, and concerns about the result of the war.Fr. Thomas V Nolan was the Provincial of the Irish Province of the Society of Jesus (1912-1922) and was a member of the Distribution Committee which looked after the welfare and distribution of the Belgian refugees who arrived in Ireland as a consequence of the First World War.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IJA/CHPI/21/36, IJA/CHPI/21/36</collection>
+                  <idno>https://letters1916.ie/item/1210</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0303">W. Keary</persName>
+              <date>1918-11-19</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas V Nolan </persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1210_img_3894_1"  type="Letter"  url="ede02c1a0499278d4581b31f380603a8.jpg"/>
+      <graphic xml:id="L1916_1210_img_3894_2"  type="NULL"  url="ece3a1d1a7e709a2baa263116a68a707.jpg"/>
+      <graphic xml:id="L1916_1210_img_3894_3"  type="NULL"  url="8bc01785624f3c7d3bb0dfcb16664144.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1210_img_3894_1"/>
+                Monday 19-11-18   Dear Fr. Provincial P.C.   I have settled all those <lb/>bills &amp;c of Fr. Fitzgibbon's, and all <lb/>are quite satisfied.  There is no money owing either <lb/>to you or to me as resulting from <lb/>these bills. But I had to pay <lb/>other little debts due to his <lb/>groom and servant whom he <lb/>had not paid for two months <lb/>before his death. This amounts <lb/>'in toto' to Â£1 only.  You will please excuse my <lb/>long delay in settling these little <lb/>things; but I am sure you realize  
+            <pb n="2" facs="L1916_1210_img_3894_2"/>
+              what long delays are often caused <lb/>owing to very frequent moves <lb/>and to the consequent disorgon- <lb/>ization of the mail  I am now filling Fr. Fitzgibbons <lb/>office of Senior Chaplain (R.C.), <lb/>and I need scarcely tell you <lb/>how greatly I feel the need <lb/>of all the prayers and momentos <lb/>I can get.  We are on the march into <lb/>Germany; and of course it is <lb/>an immense relief to know that <lb/>the poor 'boys' are out of danger <lb/>from shot and shell at long <lb/>last.  I am much afraid of the <lb/><hi rend="underline">moral</hi> effects of victory on a <lb/>people who are on the whole <lb/>so hopelessly unaided to meet <lb/>with full christian self-control.  
+            <pb n="3" facs="L1916_1210_img_3894_3"/>
+              Good bye now dear Reverend Father, and please <hi rend="underline">do</hi><lb/>let me know if there is anything else I can do <lb/>for you in any way. <seg type="closer"> Your's obediently in Xt.  W. Keary S.J. <lb/>17<hi rend="superscript">th</hi> Field Ambulance <lb/>B.E.F. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

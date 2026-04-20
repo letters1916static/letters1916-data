@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2810">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John George Lambton to Lady Londonderry, 23 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Lambton</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is part of a series of correspondence belonging to Lady Londonderry, a large proportion of which concerns Sir Edward Carson and opposition to the Third Home Rule Bill. Lady Londonderry was a prominent figure in politics and high­ society from 1890 until 1919. Her correspondence includes many important figures in literature, the arts, the military, law and the church.
+
+John Lambton (1855 - 1928), the 3rd Earl of Durham and Lord Lieutenant of that county from 1884 until a few months before his death, collaborated with Lady Londonderry in raising money to buy drums for the 13th Battalion. Durham also mentions a &#34;secret sitting&#34; in London which will leave him in possession of &#34;state secrets&#34;.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>PRONI-D2846-2-21-14 [The Theresa, Lady Londonderry Papers]</collection>
+                  <idno>https://letters1916.ie/item/2810</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0335">John Lambton</persName>
+              <date>1916-04-23</date>
+              <placeName key="#letters1916_place-0957">Lambton Castle, County Durham, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Theresa Talbot</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1928</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2810_img_2227_1"  type="Letter"  url="fe3786aa6f6c4e1474a423d8f495d3b4.jpg"/>
+      <graphic xml:id="L1916_2810_img_2227_2"  type="Letter"  url="41e26a050a7bf8aa3b38892eb8dde238.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2810_img_2227_1"/>
+             D.2846/2/21/14   LAMBTON CASTLE,<lb/>FENCE HOUSES.    23. april 1916.    My dear Lady Londonderry,   We can't well settle<lb/>anything about the disposal<lb/>of the remains of our<lb/><seg type="unclear">Osand</seg> fund until we<lb/>meet <sic>Col.</sic> Darwin &amp; the<lb/><seg type="unclear">Territorial</seg>  So Page Croft <hi rend="underline">Commanding</hi> 
+            <pb n="2" facs="L1916_2810_img_2227_2"/>
+             the Brigade in which the<lb/>13<hi rend="superscript">th</hi> D.L.S is? I suppose<lb/>so — I am willing to give<lb/>him £20 for drums for the<lb/>13<hi rend="superscript">th</hi>—Will you tell him<lb/>so — If other battalions<lb/>appeal also, I shall have<lb/>to give £20 to each<lb/>of them! but I must trust  <lb/>to Providence and my<lb/>present economic mode of<lb/>life to be able to afford it.  I shall go to London<lb/>tomorrow for the secret<lb/>sitting— It will enable<lb/>me to swagger among the<lb/>popular when I return<lb/>as the possessor of state secrets   Every yours<lb/>D.    
+         </ab>
+      </body>
+   </text>
+</TEI>

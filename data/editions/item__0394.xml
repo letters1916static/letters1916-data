@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0394">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Campbell to the Chief Crown Solicitor, 26 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Campbell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Campbell, on behalf of the Assistant Financial Secretary for the War Office, Sir Charles Harris (1864-1943), to Henry Arthur Wynne concerning private Michael McCarthy. According to Campbell McCarthy has falsely claimed for dependence allowance and given false testimony upon re-enlistment.Henry Arthur Wynne was the chief crown solicitor for Ireland following the death of Malchy Kelly (1850-1916).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, 1916/5613/9105</collection>
+                  <idno>https://letters1916.ie/item/394</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0054">Campbell</persName>
+              <date>1916-05-26</date>
+              <placeName key="#letters1916_place-0363">War Office, St. Martin&#39;s Place, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0815">Henry Arthur Wynne</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0394_img_1657_1"  type="Letter"  url="dc0dec99a6033f8629c2827c9812ec0d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0394_img_1657_1"/>
+              <hi rend="underline">Solicitor General</hi><lb/>Please advise as to a <lb/>prosecution <lb/>Henry Arthur Wynne <lb/>29.5:16    War Office,  St. Martin's Place,  London, W.C.   26th May, 1916.  Sir,   With reference to War Office letter of the 20th of July, <lb/>1915, No.46/690 (Accounts 3.) I am directed to transmit the <lb/>enclosed documents which have been forwarded to this Department <lb/>by the Board of Customs and Excise in connection with a claim <lb/>for a Dependant's Allowance for the father of 5282, Private <lb/>Micheal McCarthy, 3rd Leinster Regiment, and to request that <lb/>you will be so good as to take the necessary action with a view <lb/>to the prosecution of the <hi rend="underline">soldier and dependant</hi> in accordance <lb/>with instructions contained in the letter quoted.  It has been ascertained that Private McCarthy is <lb/><hi rend="underline">serving at Cork</hi>.  The soldier was a reservist in the 3rd Bn. Royal <lb/>Irish Regiment at the date of mobilization but discharged on <lb/>the 25th June, 1915 as no longer physically fit for war service. <lb/>Application for Dependants' Allowance was made by him and his <lb/>father in November 1914, and the documents in connection with <lb/>this claim are enclosed for reference.  He reâenlisted in the Leinster Regiment on the 13th <lb/>January last, but did not disclose his previous military service <lb/>and the <hi rend="underline">necessary action is being taken in connection with the <lb/>offence of false statements on attestation.</hi> <seg type="closer"> I am, Sir, <lb/>Your obedient Servant,  <seg type="unclear">Wm.</seg> Campbell <lb/>for the Assistant Financial Secretary.   The Chief Crown Solicitor,  Dublin Castle.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

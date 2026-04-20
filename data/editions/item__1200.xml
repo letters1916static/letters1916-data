@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1200">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Dom Stephen Rawlinson to Fr Provincial Thomas V. Nolan, 23 September 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Dom Stephen Rawlinson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Don Stephen Rawlinson (1865-1953) to Fr Provincial Thomas V. Nolan (1867- 1922) regarding a letter from Fr. R. McGuinness which included details about the way of Fr. Fitzgibbon death and the place in which he was buried. Fr. Thomas Nolan became the Provincial of the Irish Province of the Society of Jesus from 1912 to 1922. Besides that, he was a Distribution Committee member responsible for the welfare and distribution of the Belgian refugees who had found refuge in Ireland on account of the World War I. Stephen Rawlinson served as head Catholic Chaplain for the British Forces in France from 1915. He was Mentioned in Despatches five times, and awarded the Portugese Order of Christ, CMG and OBE. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IJA/CHPI/21/23, IJA/CHPI/21/23</collection>
+                  <idno>https://letters1916.ie/item/1200</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0222">Dom Stephen Rawlinson</persName>
+              <date>1918-09-23</date>
+              <placeName key="#letters1916_place-1022">France </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas V Nolan </persName>
+              <date></date>
+              <placeName key="#letters1916_place-1717">Dublin, Ireland </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1200_img_3882_1"  type="Letter"  url="b788f5e083e7b6a629c00f490fe5afea.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1200_img_3882_1"/>
+                General Headquarters,  British Armies in France.    23rd September, 1918.  <lb/>=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=  Dear Fr. Provincial,   Following my letter of the 20th, I have now <lb/>received the following details of the death of Fr. FitzGibbon <lb/>from Fr. R. McGuinness, one of the chaplains of his division :-  'I am writing to inform you that Fr. J.J. <lb/>FitzGibbon, S.J., was killed yesterday evening, (R.I.P.)  He had been at a Dressing Post up the line, <lb/>and was summoned to bury one of our men at the A.D.S. <lb/>Having completed the ceremony, he was going about amongst <lb/>the wounded when a shell burst close at hand, and a piece <lb/>struck him at the side of the head. One of our Catholic <lb/>men tells me that he heard him praying, and that death <lb/>occurred within a few minutes.  I buried him today in the official cemetary <lb/>near the main Dressing Station. I, myself, have only been <lb/>with the Division four months, but I do know that Fr. <lb/>FitzGibbon was highly respected throughout the Dvision by <lb/>officers and men alike. He was absolutely full of zeal, <lb/>and wonderfully capable as Senior Chaplain, (Non-C. of E.) <lb/>of the Division, endearing himself to all the chaplains, <lb/>Catholic and Non-Catholic, to whom the loss of Fr. 'Fitz.' <lb/>is a terrible blow.  I do not suppose we shall have any further <lb/>details, but later on it will probably be possible to have a <lb/>photograph of his grave. <seg type="closer"> Believe me, <lb/>Yours very sincerely,  B.S. Rawlinson   The Very Reverend T.V. Nolan, S.J.,  Provincial,  St. F. Xaviers,  Upper Gardiner Street,  Dublin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

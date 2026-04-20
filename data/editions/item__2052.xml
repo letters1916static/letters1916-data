@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2052">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Alice Maud Alexander, 15 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Alice Maud Alexander</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Alice Maud Alexander (b.1868). The letter is written during the period of martial law in Ireland following the Easter Rising. The letter regards the application on the part of Alexander for a permit to travel to Ireland. In the letter Alexander states that she wishes to return to her position as companion to Emily Maud Charlotte Wolfe (1892-1980), a girl from a wealthy farming family. Alexander goes on to state that she had been directed to contact the Irish Office to receive a permit to travel back to Ireland to take up the position and wishes to leave for Ireland the following week. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>National Archive of Ireland-Chief Secretary&#39;s Office-Registered Papers; NAI/CSO/RP/1916/5611/8366/1</collection>
+                  <idno>https://letters1916.ie/item/2052</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0527">Alice Maud Alexander</persName>
+              <date>1916-05-15</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2052_img_1499_1"  type="Letter"  url="43e3d9513ab0517a3f2b651fa51f69d9.jpg"/>
+      <graphic xml:id="L1916_2052_img_1499_2"  type="Letter"  url="44e3037cb93ae137c16ffaea87cfe8a4.jpg"/>
+      <graphic xml:id="L1916_2052_img_1499_3"  type="Letter"  url="9de9ce1642cffebee47dadd90cca6872.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2052_img_1499_1"/>
+             15.5.16   Dear Sir.   I am desirous <lb/> of returning to my <lb/> post as Companion <lb/> to Miss Wolfe <lb/>Forenaughts, Naas, <lb/> Co. Kildare. I have <lb/> been told that <lb/> it is necessary
+            <pb n="2" facs="L1916_2052_img_1499_2"/>
+            to get a pass <lb/>before going through <lb/> Dublin.    As the police have <lb/>no authority to <lb/> issue them here, <lb/>I have been referred <lb/> to the Irish Office. <lb/>If you can pro- <lb/>vide me with <lb/> one will you <lb/>kindly forward <lb/> it, or inform me <lb/> what I am to do. <lb/> I should like <lb/> to leave either <lb/>at the end of this
+            <pb n="3" facs="L1916_2052_img_1499_3"/>
+            week or beginning <lb/> of next.   I am <lb/> yrs truly,   A M Alexander. 
+         </ab>
+      </body>
+   </text>
+</TEI>

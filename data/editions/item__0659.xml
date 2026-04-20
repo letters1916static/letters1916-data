@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0659">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Alured Rolleston to the Under Secretary of Ireland, 20 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Alured Rolleston</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Alured Rolleston (1877-1949) to the under secretary of Ireland regarding the vacant position of crown solicitor for King’s County. Rolleston includes a list of locations at which he has practiced and states that he holds no public appointment. Rolleston also mentions that he served in the south African war for a period of 18 months.At the time this letter was written Sir Robert Chalmers (1858 - 1938) was serving as the under secretary of Ireland. Chalmers was sent to Ireland as a replacement for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered papers, CSO-RP-1916-5615-10433</collection>
+                  <idno>https://letters1916.ie/item/659</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0819">Alured Rolleston</persName>
+              <date>1916-06-20T00:00:00</date>
+              <placeName key="#letters1916_place-0855">Maryborough, Portlaoise, Laoise, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0659_img_2141_1"  type="Letter"  url="25292ccf48a25cca4add9abee777214f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0659_img_2141_1"/>
+                Maryborough.    June 20th 1916   Sir,   I beg to apply for the position of Crown Solicitor <lb/>for the King's County, now vacant owing to the death of the <lb/>late Mr R.F. Barry.   I was admitted a Solicitor in Trinity Term, 1899, <lb/>and with the exception of 18 months, during which time I <lb/>served in the South African War, I have practised in the <lb/>King's County, Queen's County, and County Tipperary. I <lb/> reside in the town of Maryborough in the Queen's County.   My practice extends to Tullamore and the other <lb/>Sessions towns in the King's County.   I hold no public appointment. <seg type="closer"> I am, Sir, <lb/>Your obedient servant,   <hi rend="underline"> Alured Rolleston</hi>  To/   The Right Honble The Chief Secretary,  Chief Secretary's Office,  Dublin Castle.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

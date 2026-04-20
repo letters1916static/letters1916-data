@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0752">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Wilfrid Spender to his wife Lady Lillian Spender, 24 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Bliss Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Sir Wilfrid Bliss Spender (1876-1960) to his wife, Lady Lillian Spender, née Dean, (1880-1968). Spender briefly mentions Lillian&#39;s work with Lady Leinster, Ulster politics, and life at the front.Sir Wilfrid Spender was a member of the British Army until 1913 when controversy surrounding his signature of the Ulster Solemn League and Covenant resulted in his resignation. Spender was called up for military service in 1914 and from 1915 served in the 36th (Ulster) Division. Throughout the war, Spender wrote a collection of letters to his wife Lady Lillian Spender. The letters date mainly from 1915 to 1918, when Sir Wilfrid was serving in France. The letters concern politics, the Irish question, personal life, and Wilfrid&#39;s experience of the Great War. Lady Lillian served in the Ulster Volunteer Nursing Corps during the war, and was an organiser of the Ulster Division Comforts Fund.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Lady Spender&#39;s Correspondence, D1633/1/1/323</collection>
+                  <idno>https://letters1916.ie/item/752</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0931">Wilfrid Bliss Spender</persName>
+              <date>1916-06-24</date>
+              <placeName key="#letters1916_place-0769">France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lillian Spender</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0752_img_2277_1"  type="NULL"  url="f2fc2e4a5f984886bfc545b044efae1e.jpg"/>
+      <graphic xml:id="L1916_0752_img_2277_2"  type="NULL"  url="81aecc5bf9a473791c4e5659ac632a0e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0752_img_2277_1"/>
+                24 June   My pr   Perhaps Just now I <lb/>am rather glad of your <lb/>meetings with Lady Leitrim, <lb/>but I don't want you to <lb/>undertake anything which means <lb/>less rest now from your work. <lb/>You must spare yourself for <lb/>your work all you can now.  2 such lovely letters <lb/>from you, but your news makes <lb/>me anxious. I'm afraid <lb/><sic>Sredward</sic> has made a great <lb/>mistake, either some of the <lb/> Unionist leaders have misled <lb/>him or there has been a <lb/>betrayal somewhere.   A nice letter from Craig <lb/>but we do not see eye to eye <lb/>I'm afraid now. I think we <lb/>could have killed home rule &amp;  
+            <pb n="2" facs="L1916_0752_img_2277_2"/>
+              fear we have only temporised <lb/>with it. There is a good deal <lb/>of rumbling today and I <lb/>was up at the front with <lb/>Richardson in his cubby hole <lb/>but am not going to him <lb/>for a day or 2 yet as <lb/>P cannot spare me now!  I don't know when you <lb/> will get this but hope yesterday's <lb/>scribble will explain <lb/>a big gap in my letters, <lb/>hope I shall get my papers <lb/> at any rate.    Am still quite busy, but <lb/>hope part of my own responsibility <lb/>will be off <seg type="del">tomor</seg><lb/>tomorrow, tho' it does not <lb/>mean much. Yes old thing <lb/>we need not worry about <lb/>the future now we know <lb/>each other.  <seg type="closer"> Your  b w <lb/> WB Spender  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

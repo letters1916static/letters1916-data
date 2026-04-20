@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0885">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward O'Farrell to M.C. Macinerney, 26 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward O&#39;Farrell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Edward O&#39;Frarrell to Mr. M.C. Macinerney, Divisional Justice of the Dublin Metropolitan Police District. The letter acknowledges the receipt of correspondence indicating Mr Macinerney&#39;s illness and indicates approval of such leave. It also confirms the temporary appointment of Mr. Richard J. Kelly to deputise in his absence.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, NAI-CSO-RP-1916-5618-10827-1</collection>
+                  <idno>https://letters1916.ie/item/885</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date>1916-06-26T00:00:00</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1301">M.C. Macinerney</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1860">Bella Vista, Kingstown, County Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0885_img_2454_1"  type="Letter"  url="64a1133a6181cb77b7becdfb7a1c9e44.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0885_img_2454_1"/>
+                 26th June, 1916   Sir,   I am directed by the Lorde Justices to acknowledge the <lb/>receipt of your letter of the 25th instant, accompanied by <lb/>a Medical Certificate, for five days sick leave, and I am <lb/>to convey Their Excellencies' approval of such leave, and <lb/>of the appointment of Mr. Richard J. Kelly K.C. to act as <lb/>your Deputy during the leave sanctioned at such remuneration <lb/>as may be subsequently fixed in communication with the <lb/>Lords Commissioners of His Majesty's Treasury <seg type="closer"> I am, <lb/>Sir, <lb/>Your obedient Servant,  E O'Farrell   M.C. Macinerney, Esq., K.C.,  Belle Vista,  Kingstown,  Co. Dublin.  </seg> I Write as above <lb/>II Inform Chief<seg type="unclear">Magistrate</seg><lb/>III do. Mr R.J. Kelly K.C. <lb/>IV Note <lb/>V J.D. <lb/>As <seg type="unclear">Â£</seg> Sanction <lb/>E.oF.  <hi rend="underline">26-11-16</hi>   
+         </ab>
+      </body>
+   </text>
+</TEI>

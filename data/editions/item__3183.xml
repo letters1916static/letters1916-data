@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3183">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Richard Cronin, 23 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Richard Cronin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-7989</collection>
+                  <idno>https://letters1916.ie/item/3183</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0350">Richard Cronin</persName>
+              <date>1916-03-23</date>
+              <placeName key="#letters1916_place-1609">Aldergrove, College Road, Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3183_img_2607_1"  type="Letter"  url="5c2068e3a7a4c9f3a6b4faa3d99bc659.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3183_img_2607_1"/>
+             Aldergrove<lb/>College Road<lb/>Cork   March 23 '16   The following is a list of expenses incurred<lb/>by me as a witness at Clonmel Petty Sessions<lb/>last Wednesday:-  <lb/>1. Car Fare 3/-<lb/>2. Railway Ticket 24/9 Paid. Co. Council Claim<lb/>3. Dinner &amp; lunch 5/6<lb/>4. Substitute for Mass 20/-<lb/>£2 - 13 - 3.   Richard Cronin C.C.   P.S. In <seg type="del">additton</seg> addition would be expenses incurred<lb/>through absence from profession duties throughout the<lb/>day.<lb/>R.C.   J.P. OShee is DJ<lb/>at Clonmel  
+         </ab>
+      </body>
+   </text>
+</TEI>

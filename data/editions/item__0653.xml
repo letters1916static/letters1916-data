@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0653">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from W.A.F. Barry to Sir Matthew Nathan, 18 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>W.A.F. Barry</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Application letter from W.A.F. Barry to Sir Matthew Nathan (1862-1939) concerning the position of Crown Solictor for Kings County. In the 1911 census, W.A.F. Barry is listed as 18 years of age and working as a solicitor apprentice.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered papers, CSO-RP-1916-5615-10272</collection>
+                  <idno>https://letters1916.ie/item/653</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1092">W.A.F. Barry</persName>
+              <date>1916-06-18T00:00:00</date>
+              <placeName key="#letters1916_place-0914">John&#39;s Place, Birr, Offaly, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0653_img_2128_1"  type="Letter"  url="19744bbcf13c345cb5bac06d839ec1f2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0653_img_2128_1"/>
+                John's Place  Birr    18<hi rend="superscript">th</hi> June 1916   Sir,   I have the honor to ask you to submit my name <lb/>as a candidate for the office of Crown Solicitor for the <lb/>King's County vacated by the recent death of my father, <lb/>Mr. Richard Fitzwilliam Barry L.L.B., after about twenty <lb/>years service.  I served my apprenticeship under my father at Birr; <lb/>since my admission as a solicitor my father and I <lb/>carried on the civil business of the office together <lb/>and I have assisted him in his official work as <lb/>Crown Solicitor; and I may mention that since my <lb/>father's health first began to fail namely about <lb/>eighteen months ago I have had the main share <lb/>in carrying on the office work in connection with <lb/>his position as Crown Solicitor.  I trust that these facts will weigh in my favor in <lb/>the consideration of my fitness for the position. <seg type="closer"> I have the honor to be <lb/>Sir <lb/>Your obedient servant  <hi rend="underline">W. A. F. Barry</hi>   The Under Secretary  <hi rend="underline">Dublin Castle</hi>  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

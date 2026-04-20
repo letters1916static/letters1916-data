@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5375">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Brigid McCarron to one of Mrs Daly's children [1923]</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Brigid McCarron</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>writing on behalf of Róise Ní Dómnaill who is presently a prisoner in the Military Barracks at Buncrana</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry Library Archives</repository>
+                  <collection>Charlie Daly Collection, P41/24/6</collection>
+                  <idno>https://letters1916.ie/item/5375</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0298">Brigid McCarron</persName>
+              <date>1923</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Civil War (1922-1923)</item>
+               <item n="topic">Civil War (1922-1923)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5375_img_4660_1"  type="Letter"  url="5180a511f00132585ca47ea5aa71f28e.jpg"/>
+      <graphic xml:id="L1916_5375_img_4660_2"  type="Letter"  url="66aa167ff068c5c85b0c846db6840450.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5375_img_4660_1"/>
+             P41/24/6   Main St.,<lb/>Ballybofey,   Saturday   A Cara    At Rose O’Donnell’s request<lb/>I am writing you this note — she is imprisoned<lb/>this last few weeks. It was I wrote the<lb/>letter to your mother in her name as she<lb/>directed me to do the evg. she was arrested.<lb/>I suppose you did not remark the difference<lb/>in the handwriting as we write rather much<lb/>alike. Up until a week ago they were not<lb/>allowed any communication with the outside<lb/>world, though she managed to get a few<lb/>letters out to me on the sly. I got the last one<lb/>you sent to her &amp; managed to get it into<lb/>her alright. Then I did not know whether<lb/>to ans. it or not until I rec. a letter from 
+            <pb n="2" facs="L1916_5375_img_4660_2"/>
+             her today asking me to write to you &amp; to<lb/>say she would be very pleased to hear<lb/>from you, they are only allowed to write &amp;<lb/>rec one letter per week &amp; likely it would<lb/>be some time until you would get a reply.  I am just after being told<lb/>that the Lady prisoners are going to be<lb/>removed to Dublin but you can write to<lb/>the  enclosed  address &amp; if they are removed early<lb/>they will send it on. Or if you wish to ans.<lb/>this letter. I will write again &amp; let you know.  Yrs sincerely<lb/>Brigid Mac Cearron (Rose’s chum)<lb/>Carron <!--­­ It looks like Brigid was clarifying that “Cearron” was Carron in English­­-->  Miss Rose O’Donnell<lb/>Military Barracks<lb/>Buncrana<lb/>Co. Tirconail  
+         </ab>
+      </body>
+   </text>
+</TEI>

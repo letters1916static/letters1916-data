@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5927">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Irish Relief Fund Bazaar to Edward Hamilton Daly, 7 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>The Irish Relief Fund Bazaar</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Samuel McCrackin providing Edward Hamilton Daly with information about the Irish Relief Fund Bazaar which raised money for the families of the Irish martyrs and prisoners. The bazaar took place in New York City, from October 14-22, 1916 at Madison Square Garden.Samuel McCrackin was the Manager of The Irish Relief Fund Bazaar.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>American Irish Historical Society</repository>
+                  <collection>The American Irish Historical Society Collection, Secretary General Correspondence, Box 41, Folder 6</collection>
+                  <idno>https://letters1916.ie/item/5927</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0596">The Irish Relief Fund Bazaar</persName>
+              <date>1916-10-07</date>
+              <placeName key="#letters1916_place-1439">Madison Square Garden, New York, New York, United States</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Edward Hamilton Daly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0974">54 Wall Street, New York, New York, United States</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5927_img_2356_1"  type="Letter"  url="2ae47ba63357bef85c76afb9aeab65a1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5927_img_2356_1"/>
+                October 7 1916    Mr. Edw. Hamilton Daly,  54 Wall St.,  New York City   Dear Sir:-   We enclose your herewith four tickets <lb/> for the Irish Bazaar, Fair and Circus, for the<lb/> benefit of the Families of Irish Martyrs and<lb/> Prisoners, under the auspices of the The Irish Re-<lb/> lief Fund; to be held at Madison Square Garden,<lb/> October 14th to 22nd, Afternoon and Evening.  To help the cause we are in hopes that <lb/> you can use or dispose of these tickets and if <lb/> not, kindly return the tickets in the enclosed <lb/> stamped envelope.  Please make check payable to Samuel <lb/> McCrackin, Manager of The Irish Relief Fund <lb/> Bazaar, Madison Square Garden, New York. <seg type="closer"> Very truly yours.  <hi rend="underline">Samuel McCrackin</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

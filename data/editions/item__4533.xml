@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4533">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fitzgibbon to Fr Provincial Thomas V. Nolan, 27 December 1917</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Fitzgibbon </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Fitzgibbon to Father Provincial regarding the receiving of the card from Fitzgibbon and Fr. Frauelling(?)
+
+Father Nolan (1867-1941) was the Provincial of the Irish Province of the Society of Jesus (1912-1922) and was a member of the Distribution Committee which looked after the welfare and distribution of the the Belgian refugees who arrived in Ireland as a consequence of the First World War.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives </repository>
+                  <collection>IJA/CHPI/21/16</collection>
+                  <idno>https://letters1916.ie/item/4533</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0518">Fitzgibbon </persName>
+              <date>1917-12-27</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas V. Nolan </persName>
+              <date></date>
+              <placeName key="#letters1916_place-1717">Dublin, Ireland </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Faith</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4533_img_3875_1"  type="Letter"  url="ae83b9aacc020a4f3deea5ce719cea93.jpg"/>
+      <graphic xml:id="L1916_4533_img_3875_2"  type="Letter"  url="ddef1c121015d0f600f2b402807dcaae.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4533_img_3875_1"/>
+             27 December 1917   Dear F<hi rend="underline">r</hi>Provincial—   Very many <lb/>thanks indeed for Xmas Card <lb/>which arrived in good time. I had <lb/>a most consoling Xmas as all my <lb/>boys were free to get to Confession <lb/>&amp;Holy Communion &amp; they came in <lb/>parties to the three Masses. We had <lb/>to <hi rend="underline">dig</hi> our church &amp; cover it with bags <lb/>etc —most of the men were in the open <lb/>under a very hard frosty wind &amp; although <lb/>the ground was covered with frozen snow <lb/>they knelt all during Mass, and sang <lb/>the Adeste &amp; other hymns magnificently.   The weather still continues very hard &amp; <lb/>difficult for travelling still all parties <lb/>are sticking it very well.   Goodbye Father Provincial with best wishes <lb/>for New Year   Your obedient child   Jack Fitzgibbon SJ  <lb/>P.T.O.
+            <pb n="2" facs="L1916_4533_img_3875_2"/>
+             I sent F<hi rend="underline">r</hi> Farley note re Masses <lb/>for last month but we were <lb/>notified that that days mail was <lb/><hi rend="underline">mislaid</hi>? The number I said <lb/>was <hi rend="underline">15.</hi> Would you mind letting <lb/>him know please  <lb/><seg type="unclear">J.F.G.</seg>
+         </ab>
+      </body>
+   </text>
+</TEI>

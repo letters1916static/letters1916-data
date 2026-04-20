@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1367">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Dawson to Sir Matthew Nathan, 25 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Richard Dawson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Dawson requesting a day&#39;s leave.William Richard Dawson (1864-1950) was appointed HM inspector of lunatics in Ireland in 1911. During the Great War he served in the Royal Ambulance Medical Corps, gaining the rank of lieutenant-colonel, as a specialist in ‘nerve disease’ or shell shock to the troops in Ireland.Sir Matthew Nathan (1862-1939) served as the under secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO_RP_1916_3071_3</collection>
+                  <idno>https://letters1916.ie/item/1367</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1058">William Richard Dawson</persName>
+              <date>1916-02-25</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1367_img_719_1"  type="Letter"  url="8644147ce334e856d66fa77f3e0ea7a9.jpg"/>
+      <graphic xml:id="L1916_1367_img_719_2"  type="Letter"  url="f72c6621c151b9f9e0871d2177005e08.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1367_img_719_1"/>
+                25<hi rend="superscript">th</hi> Feb.,1916.    Under Secretary,   Sir,   I beg to apply for three <lb/>days' leave to commence <lb/>either Monday 28<hi rend="superscript">th</hi> inst. or <lb/>Tuesday 29<hi rend="superscript">th</hi> inst. as <lb/>circumstances may <lb/>require.  Dr Considine, who <lb/>is much better, will be  I Leave approved <lb/>II Inform <lb/>III Note <lb/>E. Aof. <lb/><hi rend="underline">25-II-16</hi>  II.III done H.J.C. 26/2  
+            <pb n="2" facs="L1916_1367_img_719_2"/>
+              able to deal with any <lb/>little matter that may <lb/>arise in my absence, &amp; <lb/>has kindly consented to <lb/>do so. <seg type="closer"> Your obedient Servant  W.R. Dawson <lb/>Inspector of Lunatics</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

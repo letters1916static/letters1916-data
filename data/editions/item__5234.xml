@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5234">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sheila Doogan to Charlie Daly, 4 December 1922</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Sheila Doogan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry County Archives</repository>
+                  <collection>Charlie Daly Collection, P41/15/1</collection>
+                  <idno>https://letters1916.ie/item/5234</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0610">Sheila Doogan</persName>
+              <date>1922-12-04</date>
+              <placeName key="#letters1916_place-1224">C/O Mr Hegarty, 3 Westland Avenue, Derry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0548">Charlie Daly </persName>
+              <date></date>
+              <placeName key="#letters1916_place-0726">Drumboe Castle, Stranorlar, Tirconaill, Donegal, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Civil War (1922-1923)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5234_img_None_1"  url="e493495bc03d995a481c145090864d68.jpg"/>
+      <graphic xml:id="L1916_5234_img_None_2"  url="846e0cd26091a76e4bfecb894a53d378.jpg"/>
+      <graphic xml:id="L1916_5234_img_None_3"  url="89ae73cea9ea5dc6a17a4d5f3a0f3d83.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5234_img_0_1"/>
+              Censored    <seg type="foreign">Cormac O'Dalaigh</seg>         <lb/>Prisoner<lb/>Drumboe Castle<lb/>Stranorlar <lb/>Tir Chonaill  <seg type="foreign"></seg> 
+            <pb n="2" facs="L1916_5234_img_0_2"/>
+              C/O Mr Hegarty<lb/>3 Westland Ave<lb/>Derry    4.12.22    <seg type="foreign">A Chathal, a chara</seg>.    Just to greet you behind<lb/>iron bars. I trust your fellow Prisoners<lb/>and self are none the worse of the<lb/>bread &amp; water diet. A Sturdy Rebel<lb/>can stand a lot of hardship. I<lb/>hope Ginger is quite better. The rest<lb/>will certainly do him good.  Im getting along A1 in<lb/>Derry. The work is quite easy &amp;<lb/>then the town is in a free. State so<lb/>to say. Very! very few troops or<lb/>Craigs Specials to be seen atall.<lb/>At least not notably running about. So<lb/>that's a blessing. I suppose there is<lb/>no use in sending you a parcel. Miss<lb/>Larkin says no. Katie sent Ginger<lb/>cigarettes. Did he get them.  I suppose Francie is hoa<lb/>singing the Oul songs, also Sha    
+            <pb n="3" facs="L1916_5234_img_0_3"/>
+             &amp; J.J. Did they compose any about the<lb/>wild &amp; rugged Gap of Meenabol yet?<lb/>That's a Gap in future History you know.  Well, as there is nothing<lb/>to interest you that would reach<lb/>you safely I shall finish by sending<lb/>best wishes to Shaw J.J. Jim,Tim,<lb/>Frank, Dan  hot  Dan No 2, &amp; Ginger??? Did I<lb/>name anyone that wasn't got. No, I think<lb/>I didn't so with Best Wishes to<lb/>Self.<lb/> yrs Very Sincerely<lb/>Shiela Doogan  
+         </ab>
+      </body>
+   </text>
+</TEI>

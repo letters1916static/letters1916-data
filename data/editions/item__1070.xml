@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1070">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">List of demands made by Thomas MacDonagh at Richmond Barracks</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas MacDonagh</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a list of demands written by Thomas MacDonagh (1878-1916), one of the executed leaders of the Rising. MacDonagh was a poet and teacher. A leading member of the Dublin Brigade of the Irish Volunteers, he was one of the principle organizers of the Easter Rising and one of the seven signatories of the Proclamation of the Irish Republic. He was executed on 3 May 1916.This note was conveyed to the commanding officer of Richmond Barracks by Father Columbus. Later, in his &#39;My experiences in the 1916 Rising by Father Columbus OSFC&#39; he wrote about how this came into his possession: &#39;As he [MacDonagh] was second in command he asked me to go as his delegate and to demand to have them recognised as prisoners of war; and to get the rights of such. The he wrote down for the several headings he wished me to have seen to. These I proposed to submit to the officer in charge of the barracks, to see what could be immediately righted for them; and then to go on to Dublin Castle. Here is the document as it lies before me.&#39;</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Capuchin Provincial Archives</repository>
+                  <collection>CA/IR/1/2/2, CA/IR/1/2/2</collection>
+                  <idno>https://letters1916.ie/item/1070</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1464">Thomas MacDonagh</persName>
+              <date>1916-05-01</date>
+              <placeName key="#letters1916_place-2117">Richmond Barracks, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Commandant, Richmond Barracks via Fr. Columbus Murphy OFM Cap.</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1070_img_321_1"  type="Letter"  url="c4756d6dc6198f8898ee98fe591ad585.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1070_img_321_1"/>
+              <list rend="numbered"><item>Visits to prisoners</item><item>Treatment of officers</item><item>Dependents &amp; relations</item><item>Blankets</item><item>Books</item><item>The wearing of red cross badge who <lb/> were not combatants <lb/><seg type="del">deleted text</seg></item><item>Washing arrangements</item></list> <seg type="closer"> Thomas Mac Donough <lb/> Jacobs Factory </seg>  No 7 will be allowed. <lb/> Other complaints cannot <lb/> be dealt with here <lb/> Louis [Ramsey?] <lb/>1/C. Richmond Bks, 1/5/16   
+         </ab>
+      </body>
+   </text>
+</TEI>

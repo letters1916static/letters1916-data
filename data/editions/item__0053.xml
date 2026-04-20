@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0053">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Basil Blackwood to Frank Hugh O'Donnell, 15 May, 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Basil Blackwood</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Basil Temple Blackwood, (1870-1917), was Private Secretary to the Lord Lieutenant of Ireland in 1916. Frank H. O&#39;Donnell, Honorary Secretary of the Kerry County Board of the National Volunteers, 1916.The writer advises Frank O&#39;Donnell that his letter of May 13 concerning P.O&#39;Donnell, Ballyard, Tralee, Co. Kerry, Has been forwarded to General Sir John Maxwell for decision.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Frank O&#39;Donnell Collection BMH CD/52/2/24</collection>
+                  <idno>https://letters1916.ie/item/53</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1034">Basil Blackwood</persName>
+              <date>1916-05-15</date>
+              <placeName key="#letters1916_place-0591">Vice Regal Lodge, Dublin, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Frank Hugh O&#39;Donnell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1901">45 Moyderwell, Tralee, Co. Kerry, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0053_img_1100_1"  type="Letter"  url="53d17f53c8c9522da146486fbb5eb24b.jpg"/>
+      <graphic xml:id="L1916_0053_img_1100_2"  type="Envelope"  url="9c6d1daf321ef843b88dbab1d8e0d178.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0053_img_1100_1"/>
+                Vice Regal Lodge  Dublin    15th May 1916.   Sir, P. O'Donnell, <seg type="unclear">Ballygans</seg>    I am desired by the Lord <lb/>Lieutenant to acknowledge the receipt of your <lb/> letter dated May 13, and to state that it has <lb/> been forwarded to General Sir John Maxwell who <lb/> is the authority with whom a decision in the <lb/>matter rests. <seg type="closer"> Yours faithfully,  <lb/> Basil Blackwood <lb/>Private Secretary   Frank O'Donnell Esq.,  Secretary,  Tralee Batt. National Volunteers.  </seg> 
+            <pb n="2" facs="L1916_0053_img_1100_2"/>
+              15/5/1916    Frank O'Donnell Esq  Secretary,  Tralee Batt. National Volunterrs,  H5, Moyderwell,  Tralee, Co. Kerry    
+         </ab>
+      </body>
+   </text>
+</TEI>

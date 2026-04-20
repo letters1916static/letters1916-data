@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3788">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Rebecca Hime to Ephraim MacDowell Cosgrave, 11 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Rebecca Hime</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Rebecca Hime to Ephraim MacDowell Cosgrave (1853-1925) regarding a portrait of her father, James Apjohn (1796-1886). Rebecca describes the portrait and explains that the portrait was to be donated to the college following her death.  
+
+Ephraim MacDowel Cosgrave served as president of the Royal College of Physicians of Ireland in 1914 and held the position until 1916. Aside from his dedication to medicine Cosgrave was also a member of the Royal Society of Antiquities of Ireland, treasurer of the Royal Zoological Society of Ireland and a founder and secretary of the Georgian Society of Dublin.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T67-2</collection>
+                  <idno>https://letters1916.ie/item/3788</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0065">Rebecca Hime</persName>
+              <date>1916-03-11</date>
+              <placeName key="#letters1916_place-1265">Hillmount, Londonderry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1499">Ephraim MacDowel Cosgrave</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3788_img_3172_1"  type="Letter"  url="0f87a7987b5ecf432d14c00287f689ec.jpg"/>
+      <graphic xml:id="L1916_3788_img_3172_2"  type="Letter"  url="5f6b48f60b3fec2f13cd6532e35ced9f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3788_img_3172_1"/>
+             HILLMOUNT, <lb/>LONDONDERRY.   11.3.16   Dear Sir   In 1875 the friends and former pupils <lb/>of my Father, (the late James Apjohn M.D.F.R.S <lb/>Professor of Chemistry in T.C.D,) presented <lb/>him with his portrait on his retiring from <lb/>that post, the presentation took place in <lb/>large hall of College of Physicians in December <lb/>of that year. The picture is a very fine one, <lb/>and an excellent likeness, the Artist being <lb/>the late Sir Tho<h i rend="superscript">s</hi> Jones. It measures 6.10 x 4.8. <lb/>The frame is very handsome, and the whole in <lb/>perfect preservation. This picture has been <lb/>in my possession since my Mother's death, <lb/>whose desire it was that at my death it <lb/>should be presented to College of Physicians, <lb/>to be hung there. It seems to  me  expedient
+            <pb n="2" facs="L1916_3788_img_3172_2"/>
+             to part with this much loved possession, <lb/>as I am past the three score years and ten <lb/>now, and would like to see it safely placed <lb/>during my life, besides we are leaving our <lb/>present residence to take up our new abode in <lb/>our Donegal home, where I am uncertain whether <lb/>there is a safe or suitable place to hang it, <lb/>and besides so immediately over the sea I am <lb/><seg type="del">I am</seg> afraid that there might be a risk to <lb/>the painting from the salt sea air.   If the President and Council of the College of <lb/>Physicians will accept this picture and hang <lb/>it in a suitable place, I will give it, and <lb/>will have it safely packed and forwarded <lb/>about April 10<hi rend="underline"><hi rend="superscript">th</hi></hi>.   Believe me to be <lb/>Yours <lb/>truly   Mr<hi rend="superscript">s</hi> ) Rebecca Hime    An early answer would greatly oblige.   Macd.C <lb/>7.II.16 
+         </ab>
+      </body>
+   </text>
+</TEI>

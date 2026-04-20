@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2043">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Telegraph from Matthew Nathan to Andrew Philip Magill, 23 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Matthew Nathan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Telegraph from the under-secretary Sir Matthew Nathan (1862-1939) to Andrew Philip Magill (1871-1941) the private secretary for the Chief Crown Secretary of Ireland, Augustine Birrell (1850-1933). Nathan informs Magill that the health of a Sergeant Ahearn, a police officer who was shot twice by Irish Volunteers on the 22 March 1916, is unchanged. The attack happened at an anti-Sinn Féin demonstration which took place in Tullamore, Co Offaly. Fourteen Irish Volunteers were besieged by a hostile mob in the local Sinn Féin hall. Believing they were inadequately protected by the police they fired revolvers to keep the mob away, and when the police moved in to disarm them they resisted arrest, and shots were fired seriously wounding Sergeant Ahearn. Nathan writes that the bullets have yet to be located.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI; Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/8125/4</collection>
+                  <idno>https://letters1916.ie/item/2043</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date>1916-03-23</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0014">Andrew Philip Magill</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1939</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2043_img_1490_1"  type="Letter"  url="7c5ffa02b4d91d72ae24d54d9c5ca222.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2043_img_1490_1"/>
+            <hi rend="underline">POST OFFICE TELEGRAPHS</hi> <lb/>MESSAGE <hi rend="underline">RECEIVED IN THE</hi> IRISH OFFICE  Date Mar 23<hi rend="superscript">rd</hi> 1916  <lb/>Handed in at Dublin Castle at —. Received here at 11 7am  From U.S. To Magill   Sergeant Ahearn who was shot at Tullamore <lb/>is not thought to be in any immediate danger. <lb/>His condition has been unchanged since he entered <lb/>hospital. Bullets not yet located. 
+         </ab>
+      </body>
+   </text>
+</TEI>

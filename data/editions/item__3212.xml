@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3212">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Rev. J.C. Abbott, 27 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J.C. Abbott</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-9041-1</collection>
+                  <idno>https://letters1916.ie/item/3212</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1133">J.C. Abbott</persName>
+              <date>1916-05-27</date>
+              <placeName key="#letters1916_place-0767">The Rectory, Fermoy, Co. Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Chief Secretary</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3212_img_2634_1"  type="Letter"  url="685d463055d033d8ccbd7672738d93be.jpg"/>
+      <graphic xml:id="L1916_3212_img_2634_2"  type="Letter"  url="daee18147717fa1be103330fb3340048.jpg"/>
+      <graphic xml:id="L1916_3212_img_2634_3"  type="Enclosure"  url="d7325c33c779e19205e492724463e6d2.jpg"/>
+      <graphic xml:id="L1916_3212_img_2634_4"  type="Enclosure"  url="f8e4c8e08b126e2147e191b4129031ac.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3212_img_2634_1"/>
+              May <seg type="unclear">27.</seg>1916     Dear Sir    Enclosed letter will explain<lb/>my application for permission to<lb/>disinter a corpse buried about a<lb/>month ago. A drunken son came<lb/>home after his mothers death but re-<lb/>-fused to do anything or even to be<lb/>present at the funeral service<lb/>I understand he has since left the<lb/>neighbourhood and his whereabouts<lb/>are not known. The woman was buried    
+            <pb n="2" facs="L1916_3212_img_2634_2"/>
+             in unconsecrated ground adjoining<lb/>the Workhouse. I am willing to under-<lb/>take to have the disinterment decently<lb/>carried out, and the corpse re-inter-<lb/>-red in the graveyard of Mitchelstown<lb/>Church. The woman's name was<lb/>Ellen Duggan - aged about 60 yrs<lb/><lb/> Yours very truly <lb/>(Rev) I C Abbott<lb/>Rector of Fermoy    
+            <pb n="3" facs="L1916_3212_img_2634_3"/>
+              184 Main St<lb/>New Britian<lb/>Connecticut <lb/>America   May 8th <lb/>Rev. Canon Abbott -<lb/>Dear Canon.<lb/>It is with deep regret<lb/>I learned of my poor<lb/>mother's death at Fermoy<lb/>Hospital &amp; am terribly<lb/>grieved to hear she has<lb/>been buried in a paupers<lb/>grave, would not one<lb/>friend give her a decent<lb/>burial for me, as I wrote<lb/>and asked my brother to get 
+            <pb n="4" facs="L1916_3212_img_2634_4"/>
+             Canon Moore to see to all arrangements<lb/>&amp; would forward all expenses per<lb/>return mail, why it was not done<lb/>I cannot understand. My brother<lb/>must be a hard hearted wretch to<lb/>see his good hard working mother<lb/>laid away like that, when I was<lb/>willing to pay for everything.  Well Canon, do you think it is<lb/>possible to have my mother's body<lb/>re-coffined and buried in Mitchelstown<lb/>Parsh Church Yard, it would be<lb/>a great consolation to me to have it<lb/>done, I dont care what the expense<lb/>is. I will gladly pay for all. Have<lb/>written Canon Moore also about it,<lb/>&amp; if you both can arrange for<lb/>that, you will have my heartfelt<lb/>gratitide. Sorry to cause you<lb/>any trouble, but this is a terrible<lb/>blow to me &amp; I feel that all the<lb/>more, when such a thing happened.<lb/>Awaiting your kind reply.   Sincerely <lb/>Yours Frank Duggan    
+         </ab>
+      </body>
+   </text>
+</TEI>

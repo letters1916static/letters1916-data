@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3078">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from R. Lecky to Stopford & Turner, 6 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>R. Lecky</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from the extensive Bantry Estate Collection, held in the Boole Library of University College Cork. The collection, which covers a period of 300 years, contains the formal records regarding the legal, financial and general administration of this large house and estate in County Cork.  </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>UCC Library Special Collections and Archives</repository>
+                  <collection>The Bantry Estate Collection BL_EP_B_1929_12</collection>
+                  <idno>https://letters1916.ie/item/3078</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0778">R. Lecky</persName>
+              <date>1916-01-06</date>
+              <placeName key="#letters1916_place-0900">Buckingham Palace Hotel, London</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1417">Stopford &amp;amp; Turner</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2103">Anglesea Buildings, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3078_img_2481_1"  type="Letter"  url="982ea5366a0ec27b58e1b9c19d834525.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3078_img_2481_1"/>
+             POSTAL &amp; TELEGRAPHIC ADDRESS <lb/> BUCKINGHAM PALACE HOTEL, LONDON. <lb/> VISITORS TELEPHONE NO.VICTORIA 6913.   6 Jan. 16   BUCKINGHAM PALACE HOTEL, <lb/> LONDON, S.W.   Dear Sirs   Please acknowledge <lb/>Enclosed cheque £3-<seg type="unclear">10</seg> <lb/>Murhill's pension for 13 <lb/> weeks to 25 Dec.   Yrs truly    R Lecky    SD Stopford &amp; Turner 
+         </ab>
+      </body>
+   </text>
+</TEI>

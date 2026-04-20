@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1226">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from A.D. Donald to Henry Arthur Wynne, 25 April 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>A. D. Donald </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from A.D. Donald, for the assistant financial secretary to the War Office referring to an overpayment of separation allowance to the wife of Private G. Butler. It notes that payment was stopped last December as Private Butler is still in a state of desertion from the East Yorkshire Regiment of the British army. It asks if there is knowledge of a payment still being made to Mrs Butler.Henry Arthur Wynne was the chief crown solicitor for Ireland following the death of Malachy Kelly (1850-1916).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, NAI_CSO RP/1916/6852_3_5</collection>
+                  <idno>https://letters1916.ie/item/1226</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1543">A. D. Donald </persName>
+              <date>1916-04-25</date>
+              <placeName key="#letters1916_place-0363">War Office, St. Martin&#39;s Place, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0815">Henry Arthur Wynne</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1226_img_412_1"  type="Letter"  url="7a8cd806b4e4d6ccecddf07e3ffb7eec.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1226_img_412_1"/>
+                War Office,  St. Martin's Place,  London, W.C.    25th April, 1916.  <lb/>108/Engrs/1670. (W/Accounts 3)  Sir,   With reference to your letter of the 18th <lb/>instant, relative to the overpayment of Separation <lb/>Allowance to the wife of No.6956 Private G. Butler, <lb/>East Yorkshire Regiment, I am directed to inform <lb/>you that payment of Separation Allowance to Mrs. <lb/>Butler was stopped in December last and that as <lb/>the soldier is still in a state of desertion <lb/>from the East Yorkshire Regiment, it is not <lb/>proposed to make any further payment. If, however, <lb/>it is within your knowledge that the woman is <lb/>still in receipt of Separation Allowance, this <lb/>Department would be glad to be informed of the <lb/>particulars on the Identity Certificate used by her.  It is desired that further enquiries should <lb/>be made in this case and the file of correspondence <lb/>is accordingly returned herewith. <seg type="closer"> I am, <lb/>Sir, <lb/>Your obedient Servant,  A. D. Donald <lb/>for the Assistant Financial Secretary.   The Chief Crown Solicitor,  DUBLIN.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

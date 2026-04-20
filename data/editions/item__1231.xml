@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1231">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from David Roche Browning to sir Matthew Nathan, 17 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>David Roche Browning</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from David Roche Browning, High Sheriff of County Limerick, to Under-Secretary for Ireland, Sir Matthew Nathan (1862-1916). The letter encloses a receipt from his Under Sheriff for payment of his six-monthly allowance.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>CSO RP/1916/5596/164/12, CSO RP/1916/5596/164/12</collection>
+                  <idno>https://letters1916.ie/item/1231</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1068">David Roche Browning</persName>
+              <date>1915-12-17</date>
+              <placeName key="#letters1916_place-1660">Limerick, Co.Limerick, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1231_img_418_1"  type="Letter"  url="7be8174dd8fd4893461ff1f72e71da6a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1231_img_418_1"/>
+                FROM: <seg type="del">D. LUCAS</seg>, D.R Browning  The County Sheriff's Office,  COURTHOUSE,  LIMERICK.    17<hi rend="superscript">th</hi> Dec 1915    To: The Under Secretary  Dublin Castle   Sir,   I now beg to hand you the Under Sheriff <lb/>receipt for Â£25, 2nd moiety of Allowance <lb/>&amp; will be glad to receive cheque for same. <seg type="closer"> I am Sir <lb/>Your obedient Servant  David R Browning <lb/>High Sheriff</seg> Payment <lb/>ordered <lb/>21/12/15  
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2121">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Micheal Garry to Frank E. D'Alton, 17 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Micheal Garry</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Micheal Garry (b.1883), the master of the workhouse in Killadysert, County Clare, to Local Government Board inspector Frank E. D&#39;Alton (b.1883). In the letter Garry is apologizing on behalf of an inmate named Patrick Hastings who has been sending unwanted mail to the king. The letter also mentions that measures have been put in place to prevent the inmate from sending anymore similar correspondence.  
+
+ </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland </repository>
+                  <collection>Chief Secretary’s Office Registered Papers, CSO RP/1916/8784/2 </collection>
+                  <idno>https://letters1916.ie/item/2121</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1073">Micheal Garry</persName>
+              <date>1916-04-17</date>
+              <placeName key="#letters1916_place-1666">Killadysert Union, County Clare, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Frank E. D&#39;Alton</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2121_img_1572_1"  type="Letter"  url="f88732c083d72edb1b63f0c6eb0a9ec7.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2121_img_1572_1"/>
+             Union, <lb/>Killadysert, <lb/>Co. Clare.   17th April, 1916.   Dear Sir,   Your letter of the 15th instant to hand, and in reply I beg <lb/>to state that since the date of your visit here on the 3rd instant <lb/>I have taken every precaution to prevent the man - Patrick <lb/>Hastings from writing or posting letters to His Majesty the King. <lb/>I searched him several times since, and found no writing <lb/>material in his possession, and he states himself that he has <lb/>sent no letter to His Majesty which perhaps I might believe as <lb/>he is not accustomed to tell lies. So I must conclude that the <lb/>last letter he wrote must have been posted before the date of <lb/>your visit - a few days perhaps before your visit. However I <lb/>would like to know the exact date the letter was posted, so that <lb/>I can take more stringent measures against this man. I have <lb/>instructed every official of the House to keep him under <lb/>observation, and report to me, if they see him writing. I am <lb/>sorry indeed that His Majesty should be subjected to such <lb/>annoyance, and I will do all in my power to prevent this man <lb/>from writing or posting letters in future.   Yours faithfully,   M. Garry,  <lb/>Master. <lb/>To.  Frank E. D'Alton Esq., <lb/>Local Government Board Inspector. 
+         </ab>
+      </body>
+   </text>
+</TEI>

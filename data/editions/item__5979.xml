@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5979">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from M. Albert Maeterlinck, Belgian Red Cross, to John H. Billinge, Hon. Secretary of the Belgian Funds Committee, 24 September 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M. Albert Maeterlinck</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is part of a three-sided correspondence between the Irish War Hospital Supply Depot in Dublin, the Belgian Funds Committee in Manchester, and the Belgian Red Cross in London. The Belgian Funds Committee, represented by John H. Billinge as Hon. Secretary and Treasurer, arranged for the Irish War Hospital Supply Depot to regularly ship medical items to the Belgian Red Cross in London, where they were used to treat wounded Belgian soldiers. Eleanor Dallas Pratt, Catholic wife of a respected Anglican surgeon based in Dublin, served as Hon. Secretary to the Irish War Hospital Supply Depot. The letters on behalf of the Belgian Red Cross were written by M. Albert Maeterlinck and C. E. R. Abbott. Maeterlinck was a Belgian national and returned home in January 1919. All files are kept at the Manchester Central Library. The bound volume also contains the lists all dispatched supplies and letters of thanks or supplication from soldiers and their families.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Manchester Central Library</repository>
+                  <collection>GB127.M138/2435, Belgian Red Cross files, 1916-1919: File No. 5 &#34;Belgian Red Cross Fund&#34; (not paged)</collection>
+                  <idno>https://letters1916.ie/item/5979</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1310">M. Albert Maeterlinck</persName>
+              <date>1918-09-24</date>
+              <placeName key="#letters1916_place-1919">Belgian Red Cross, Anglo-Belgian Committee, 46 Grosvenor Gardens, London, S. W. 1, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0093">John H. Billinge</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1169">Belgian Funds Committee, 78 King Street, Manchester, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5979_img_None_1"  url="phpbpvSxW.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5979_img_0_1"/>
+               London Sept. 24th 1918      Reveived 26SEP1918      Dear Mr Billinge,    We have received another bale from the Irish War Hospital Supply Depot and wish to thank you for having so kindly recommended our Fund to their generosity.  Yours sincerely  A Maeterlinck   John H. Billinge Esq.    I2, Booth Street    Manchester  
+         </ab>
+      </body>
+   </text>
+</TEI>

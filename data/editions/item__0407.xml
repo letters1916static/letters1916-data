@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0407">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Charles Hezlet to his mother, 26 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Charles Owen Hezlet</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Lt. Col. Charles Owen Hezlet (1892-1965) to his mother, Emily Mary Linzee (née Owen). At the time this letter was written Hezlet was serving in the British army in France. In the letter Hezlet writes that he is having an exciting time as they make their &#39;big advance&#39;. He goes on to mention a shell attack which destroyed all their mess and gramophone records. However, Hezlet does note that some compensation will be provided.Charles Hezlet was a major in the army and an amateur international golfer. He played for the Royal Portrush Golf Club.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Hezlet Papers, D/668/L/1</collection>
+                  <idno>https://letters1916.ie/item/407</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0971">Charles Owen Hezlet</persName>
+              <date>1916-09-26</date>
+              <placeName key="#letters1916_place-0769">France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Emily Mary Linzee</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1946">Aghadowey, County Derry, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0407_img_1671_1"  type="Letter"  url="0e89dd1f2548883cb42dcba177ffa564.jpg"/>
+      <graphic xml:id="L1916_0407_img_1671_2"  type="Letter"  url="648f81cdb1f19dc1c768f6770d92ec33.jpg"/>
+      <graphic xml:id="L1916_0407_img_1671_3"  type="Envelope"  url="163ed3366f2b170181dc5affa45efc77.jpg"/>
+      <graphic xml:id="L1916_0407_img_1671_4"  type="Envelope"  url="a9e19c8aa6b3907adc6a0ab544447c2d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0407_img_1671_1"/>
+                <hi rend="underline">France</hi>    <hi rend="underline">26th Sept</hi>   My dearest Mammy   Thanks for <lb/>your letter. We have had a <lb/>very exciting time lately, we <lb/>have made a big advance <lb/>yesterday and to-day, I expect <lb/>you <sic>now</sic> all about it in <lb/>the papers, also we have <lb/>had rather a catastrophe <lb/>a Hun 5.9 shell pitch right  
+            <pb n="2" facs="L1916_0407_img_1671_2"/>
+              in the middle of our Mess <lb/>luckily for us nobody was <lb/>in it at the time and <lb/>nobody hurt at all, it <lb/>was very lucky, unfortunately <lb/>everything was destroyed all <lb/>our mess kit and gramophone <lb/>and records, my field glasses <lb/>were smashed into little <lb/>bits also a coat and <lb/>my armchair and lots of <lb/>other things, I hope we <lb/>we get some compensation <lb/>for it, as we lost about <lb/>50Â£ worth of stuff between <lb/>the lot of <seg type="del">it</seg> us, I am <lb/>still commanding 33<hi rend="superscript">rd</hi><seg type="unclear">Leags.</seg> <seg type="closer"> Love to all <lb/>your <seg type="unclear">aff son</seg>  <hi rend="underline">Charles Hezlet</hi> </seg> 
+            <pb n="3" facs="L1916_0407_img_1671_3"/>
+               Back of envelope, no text to transcribe   
+            <pb n="4" facs="L1916_0407_img_1671_4"/>
+               Back of envelope, no text to transcribe   
+         </ab>
+      </body>
+   </text>
+</TEI>

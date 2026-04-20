@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0049">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J.T. Burns to George Gavan Duffy, 16 October 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J.T. Burns</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter from J.T. Burns to George Gavan Duffy (1882-1951) refers to a telephone conversation. The writer encloses a copy of the Royal Warrant for Maintenance of Discipline among Prisoners of War. The document has not survived.George Gavan Duffy, was an Irish politician, barrister and judge. He unsuccessfully defended Roger Casement at his trial for high treason after the Easter Rising.J.T. Burns was a Lieutenant and Adjutant at the Frongoch Prisoner of War Camp, Wales.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, George Gavan Duffy Collection BMH CD/45/6/3</collection>
+                  <idno>https://letters1916.ie/item/49</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0642">J.T. Burns</persName>
+              <date>1916-10-16</date>
+              <placeName key="#letters1916_place-1696">Prisoner of War Camp, Frongoch, near Bala, Wales.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0467">George Gavan Duffy</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1971">White Lion Hotel, Bala, Wales.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0049_img_1095_1"  type="Letter"  url="391648db8cda80659008587d1a3e061d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0049_img_1095_1"/>
+                George Gavan Duffy, Esq.,  White Lion hotel  Bala    With reference to your telephonic communication of <lb/> this morning, i forward herewith a copy of royal Warrant <lb/> for Maintenance of Discipline among Prisoners of War. <seg type="closer"> J<hi rend="underline">.T. Burns</hi> <lb/> Lieut &amp; Adjt. <lb/>for Colonel, <lb/>Commandant   Prisoners of War Camp,  Frongoch. nr. Bala    16th Octr. 1916  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

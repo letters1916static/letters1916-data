@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3899">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Father Willie Doyle S.J. to Hugh Doyle, 29 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Willie Doyle</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IE-IJA-J2-83-53</collection>
+                  <idno>https://letters1916.ie/item/3899</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1272">Willie Doyle</persName>
+              <date>1916-04-29</date>
+              <placeName key="#letters1916_place-1820">8th Royal Irish Fusiliers, British Expeditionary Force, France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hugh Doyle</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2113">Melrose, Dalkey, County Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1917</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3899_img_3277_1"  type="Letter"  url="a3d47c6134136f84b5370e9904b51f5d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3899_img_3277_1"/>
+             J2/83 (53)<lb/><lb/> Sat. 29/4/'16 <lb/> Dear Father   One line to let you<lb/>know all is well. I am<lb/>back safe in billets but<lb/> yout dog — tired as we had<lb/>a <seg type="unclear">fierce</seg> German attack, which<lb/>our lads stood well &amp; gave<lb/>the   <seg type="unclear">beans</seg>. When I<lb/>have had a good soak I<lb/>shall send you my budget.    The soak will be a double one,<lb/>in a tub (to get the mud out)<lb/>and in bed to rest my old<lb/>bones; otherwise I am ever so<lb/>fit &amp; well.  Much love<lb/>Will 
+         </ab>
+      </body>
+   </text>
+</TEI>

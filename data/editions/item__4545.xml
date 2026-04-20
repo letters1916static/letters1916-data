@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4545">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from P.F. Quinlan to Fr Provincial Thomas V. Nolan, 30 September 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>P.F. Quinlan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from P.F. Quinlan to Fr. Nolan regarding the letter that P.F. Quinlan received from Fr. Fitzgibbon about a financial issue. 
+
+Fr. Thomas Nolan (1867- 1922) became the Provincial of the Irish Province of the Society of Jesus from 1912 to 1922. Besides that, he was a Distribution Committee member responsible for the welfare and distribution of the Belgian refugees who had found refuge in Ireland on account of the World War I.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives </repository>
+                  <collection>IJA/CHPI/21/28</collection>
+                  <idno>https://letters1916.ie/item/4545</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0559">P.F. Quinlan</persName>
+              <date>1918-09-30</date>
+              <placeName key="#letters1916_place-1717">Dublin, Ireland </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas V. Nolan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1717">Dublin, Ireland </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4545_img_3886_1"  type="Letter"  url="71198043fec3284731b99345bb326975.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4545_img_3886_1"/>
+            <lb/>P.F. Quinlan, LL.B., Solicitor <lb/> 68 Middle Abbey Street Dublin  <lb/> 30 Septr 1918   re <hi rend="underline">Major Rev. J.J. Fitzgibbon. S.J., M.C., C.F. <lb/>Decd.</hi>p>  Dear Fr. Nolan,   I have this morning received <lb/>a letter from Sir C. M<hi rend="superscript">c</hi>Gregor &amp; Co, informing <lb/>me that the amount standing to credit of <lb/>deceased is £65:17:5. They also state <lb/>that any pay due to the estate, also gratuity, <lb/>should be claimed from the Sec. War Office. <lb/>I have not yet received any reply to my <lb/>letter of 23<hi rend="superscript">rd</hi> inst. on this matter addressed <lb/>to the Secretary of the War office. /p>  Faithfully Yours.   P.F. Quinlan  <lb/>p.p. <sic>Q.A.G</sic>  Very Rev. T.B. Nolan, S.J. <lb/>Provincial <lb/>The Presbytery <lb/>Upr Gardiner St. 
+         </ab>
+      </body>
+   </text>
+</TEI>

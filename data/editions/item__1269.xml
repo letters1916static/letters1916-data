@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1269">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Burns to Lady Clonbrock, 21 Dec 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Burns</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A postcard from a prisoner of war, John Burns, thanking Lady Clonbrock (1839-1928) for parcels received. Augusta Caroline Dillon (née Crofton) was the wife of Luke Gerald Dillon (1834 - 1917), the 4th Baron of Clonbrock, Co. Galway and the daughter of Lord Crofton of Mote Park (Edward Henry Churchill Crofton, 3rd Baron), Co. Roscommon. Aged 75 at the outbreak of war, Lady Clonbrock, worked closely with the Irish Women&#39;s Association to send basic necessities to Irish POWs. Many of her care packages went to members of the Connaught Rangers imprisoned in Limburg near Cologne.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Collection List No 54, Collection List No 54</collection>
+                  <idno>https://letters1916.ie/item/1269</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0754">John Burns</persName>
+              <date>1915-12-21</date>
+              <placeName key="#letters1916_place-0964">Limburg (Lahn), Germany</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0049">Lady Clonbrock</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1862">Galway, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1269_img_46_1"  type="Letter"  url="e9533cdd72f9b1245a2b503c20c3f7cb.jpg"/>
+      <graphic xml:id="L1916_1269_img_46_2"  type="Letter"  url="4e8187fe4d983665f430f15572d08db7.jpg"/>
+      <graphic xml:id="L1916_1269_img_46_3"  url="5783d503c266fe56adf18cd4e63f59f0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1269_img_46_1"/>
+                Kriegsgefangenenlager  Limburg (Lahn)    December 21st 1915.  <lb/>This is my address:   Prisoner of War  Name: John Burns, 3036, Conn Rangers  6 Vomp. II Batl. 554.  Camp of Prisoners of War  Limburg (Lahn) Germany.  <lb/>The indications mentioned above must be reproduced in the address.  To The Lady Clonbrock, Madam.   I have received the underclothing and I <lb/>also receive the parcels from London regularly <lb/> as well as the bread. I hope <lb/> your Ladyship and his Lordship are all <lb/> well and also all in the Homeland. <lb/> I am quite well myself, the underclothing <lb/> was very suitable they just suited my  
+            <pb n="2" facs="L1916_1269_img_46_2"/>
+              <lb/>immediate wants, as the weather is <lb/>very indifferent, although it is very <lb/>good at present. I now conclude thankâ <lb/>ing you in anticipation and hoping <lb/>you will enjoy a Happy Xmas and <lb/>wishing you a Happy New Year, as I <lb/>expect you wont receive this until <lb/>after Christmas. <seg type="closer"> I remain. Madam.  Respectfully Yours.  John Burns </seg> 
+            <pb n="3" facs="L1916_1269_img_46_3"/>
+              <lb/>Kriegsgefangenensendung. <lb/> Limburg (Lahn) <lb/>This is my address: <lb/>Prisoner of War <lb/>Name: John Burns 3036 <lb/>6 Comp. II Batl. No.554 <lb/>Camp of Prisoners of War <lb/>Limburg (Lahn) Germany <lb/>The indications mentioned above must be reproduced <lb/> in the address.   Right side  <lb/>Feldpostbrief. <lb/>Kriegsgefangenensendung. <lb/>Adresse:   M. 'The Lady Clonbrock.  Clonbrock, Ahascragh,  Co. Galway.  Ireland.    
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0211">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J. Smith Wright to Edward O'Farrell, 5 June 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J. Smith Wright </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from J. Smith Wright, Lieutenant Commander of the Royal Navy, to Edward O&#39;Farrell (1857-1926), the assistant under-secretary for Ireland. The letter refers to compensation Wright wishes to receive, but was rejected. He requests that he is considered again. The letter notes an attachment that has since been lost.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>National Archive of Ireland-Chief Secretary&#39;s Office-Registered Papers, NAI/CSO/RP/1916/5612/9509</collection>
+                  <idno>https://letters1916.ie/item/211</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0921">J. Smith Wright </persName>
+              <date>1916-06-05</date>
+              <placeName key="#letters1916_place-1336">Royal Navy Barrack, Chatam </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0890">Dublin Castle</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0211_img_1359_1"  type="Letter"  url="ffbd282ce95a67a310b2d5d84e141ba6.jpg"/>
+      <graphic xml:id="L1916_0211_img_1359_2"  type="Letter"  url="06975aac54235ffcbeffaaa55c7e9c5a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0211_img_1359_1"/>
+                R.N Barracks,  Chatham,    5.6.16  <hi rend="underline">9249</hi>.  Dear Sir,   I received the enclosed <lb/>this morning. I venture to think <lb/>that if the Lords Justices have <lb/>really had my original letter <lb/>brought to their notice, <seg type="del">that</seg> there <lb/>can be no two opinions about the <lb/>matter and that I have an <lb/>undoubted claim for consideration.   I should be obliged if my <lb/>original letter could be the subject <lb/>of reconsideration, as I ful  
+            <pb n="2" facs="L1916_0211_img_1359_2"/>
+              sure that no fair minded person <lb/>could possibly say that I am <lb/>not entitled to any compensation. <lb/>I am, Sir, <lb/>your obedient servant  <seg type="closer"> <hi rend="underline">J.Smith Wright</hi><lb/>Lt Comm R.N.    The Under Secretary  Dublin Castle  </seg> Ack. and state <lb/>that <seg type="del">his letter of</seg><lb/><seg type="del">the 3rd ultimatum was</seg><lb/><seg type="del">before</seg> their Excellencies <lb/><seg type="del">who regret to be</seg> unable <lb/>to add anything to the <lb/>reply send to him on the <lb/>2nd instant <hi rend="superscript">&amp; herewith</hi> redeem <seg type="del">that</seg><lb/><seg type="del">reply</seg>. <lb/><hi rend="underline">6-6-'16.</hi>  
+         </ab>
+      </body>
+   </text>
+</TEI>

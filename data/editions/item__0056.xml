@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0056">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Note from Brigadier Lowe to Patrick Pearse, 29 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Brigadier William Henry Muir Lowe</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>In this letter, Brigadier Lowe (1861-1944) writes to Padraig Pearse (1879-1916) that a woman (believed to have been Elizabeth O&#39;Farrell) has come to him telling him that Pearse wants to negotiate. He indicates that he will meet Pearse, who is to bear a white flag, accompanied only by the same woman, at the north end of Moore Street, provided the surrender is unconditional. (A note added to the end of this letter indicates that it was found on Sackville Street on 30 April, 1916).Brigadier William Henry Muir Lowe was commander of British Army Forces in Dublin during the 1916 Easter Rising who received the surrender from Patrick Pearse. Patrick Pearse was one of the leaders of the Easter Rising, 1916 and, along with 15 others, was executed shortly after surrender. Elizabeth O&#39;Farrell (1884-1957), nurse and member of Cumann na mBan, accompanied Pearse to the surrender and delivered notice of the surrender to other Rising locations.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Brother Allen Collection BMH CD/75/1/4</collection>
+                  <idno>https://letters1916.ie/item/56</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1305">Brigadier William Henry Muir Lowe</persName>
+              <date>1916-04-29</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0387">Patrick Pearse</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0126">G.P.O., Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0056_img_1104_1"  type="Letter"  url="55fb97f3fa41bcdc2b0276b023bc3d72.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0056_img_1104_1"/>
+              From <lb/> Commander of Dublin Forces  To <lb/> P.H.Pearse  29. April 16.<lb/> 1.40 P.M.  A woman has come <hi rend="underline">in</hi> and tells me <lb/> you wish to negotiate with me. <lb/> I am prepared to receive you in <lb/>BRITAIN ST at North end of <lb/>MOORE ST provided that you <lb/> surrender unconditionally.  You will proceed up MOORE. S.T. <lb/> accompanied only by the woman who <lb/>brings you this note, under a white <lb/>flag. <seg type="closer"> <hi rend="underline">W.H.M.Lowe</hi> <lb/>B.Genl.</seg> Found in Sackville St on Sunday morning 30th April 1916.  
+         </ab>
+      </body>
+   </text>
+</TEI>

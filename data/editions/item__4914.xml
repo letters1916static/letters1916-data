@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4914">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J.D. to C. 28 June, 1920</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Devoy </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Discusses internal politics. De Valera is consciously kept away from Frank P. Walsh&#39;s campaign.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>American Irish Historical Society</repository>
+                  <collection> Friends of Irish Freedom, Office of the National Secretary, 1918-1939</collection>
+                  <idno>https://letters1916.ie/item/4914</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0592">John Devoy </persName>
+              <date>1920-06-28</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Daniel Cohalan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1928</item>
+               <item n="topic">The Rising Tide (1917-1919)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4914_img_None_1"  url="64e75aa23ca348d542f6777c4fd35d1a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4914_img_0_1"/>
+              June 28/20   I am quite satisfied with <seg type="del">Chicago</seg> <seg type="unclear">France</seg><lb/>situation. We have left home <seg type="unclear">a clear field</seg> and he<lb/>can't put his defeat on us. Attempt to put defeat on<lb/>your action in Chicago will strike every <seg type="unclear">Seuscke</seg> man<lb/>as aboard  Walsh has come out plainly enough to show his teeth.<lb/>I am Commenting <seg type="unclear">editorially</seg> and putting responsibility<lb/>on him, <seg type="unclear">loving</seg> D.V. out. 
+         </ab>
+      </body>
+   </text>
+</TEI>

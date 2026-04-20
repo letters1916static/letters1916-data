@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5187">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Liam Daly to Charlie Daly, 21 February 1923</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Liam Daly </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry County Archives</repository>
+                  <collection>Charlie Daly Collection, P41/7/3</collection>
+                  <idno>https://letters1916.ie/item/5187</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0375">Liam Daly </persName>
+              <date>1923-02-21</date>
+              <placeName key="#letters1916_place-0541">Prisoner 389, D Hut, Tintown, The Curragh, Kildare, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0548">Charlie Daly </persName>
+              <date></date>
+              <placeName key="#letters1916_place-1693">Drumboe Castle, Stranorlar, Tirconail, Donegal, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1944</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Civil War (1922-1923)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5187_img_None_1"  url="c2ef9d0cce4082538b9952792b9ffcc3.jpg"/>
+      <graphic xml:id="L1916_5187_img_None_2"  url="c933b4ba34170e30c5c992586d7e065e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5187_img_0_1"/>
+              Mr Charles C Daly<lb/>Drumboe Castle<lb/>Stranlor<lb/>Co Donegal  
+            <pb n="2" facs="L1916_5187_img_0_2"/>
+              Feb 21st 23   P41/7/3   No 389<lb/>D Hut<lb/>No 1 Tintown Camp<lb/>Curragh<lb/>kildare    <seg type="foreign">Cormac A Cara</seg>   You will be surprised to hear from me I expect<lb/>Well this morning I found your right adress from one of the<lb/>northern lads he showed me a letter that he got from some<lb/>friend of his enquiring if I was in this Camp I am here about four<lb/>weeks I was in Tralee up till then we came from Fenet to Kingston<lb/>in a <seg type="unclear">dirl</seg> of a boat it took from 4 o c sunday morning until<lb/>tuesday morning. there are a great crowd of us here including<lb/>Will Patrick Tom Murphy Bowler Mac Dan Spring P Costello Bill Donoghue<lb/>Mossie Sullivan Lacy 4 Mahonys P Cahill and his crowd and in No 2<lb/>Camp I expect you know Pat Houlehan Dingle he is there also he is<lb/>a lame chap he was inquiring about you when we were in Tralee he said<lb/>he knew you well in Dingle there are 2 of the Goggins here also <seg type="unclear">Tomsy</seg> &amp; Co<lb/>are in Mountjoy yet It would be impossible to tell you all the names of<lb/>the chaps that you know are here I had a letter from May today they<lb/>are all doing fine at home There was no charge brought against<lb/>me only that I was <seg type="unclear">QM</seg> which I did not deny or try to as I was<lb/>not in the least bit ashamed to be during the last war &amp; this<lb/>No more to say only write when you get this<lb/>Your fond broth<lb/> Liam           
+         </ab>
+      </body>
+   </text>
+</TEI>

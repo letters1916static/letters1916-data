@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1010">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Máire Nic Shiubhlaigh to Hanna Sheehy Skeffington, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Máire Nic Shiubhlaigh</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Máire Nic Shiubhlaigh (1883-1958) to Hanna Sheehy Skeffington (1877-1946). Máire writes that she would be very happy to perform a recommended poem, assuming she is able to learn it in time. Máire Nic Shiubhlaigh was an Irish actress and republican activist. She performed for many years at the Abbey Theatre. At the time of the Rising, Nc Shiubhlaigh cycled into the city and commanded the women&#39;s of the Jacob&#39;s Biscuit Factory garrison, which was wholly under the command of Thomas MacDonagh. She and the other women stayed until the surrender. Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the widow of Francis Sheehy-Skeffington (who was summarily executed on 26 April 1916). She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47;, MS 33,604/15-22</collection>
+                  <idno>https://letters1916.ie/item/1010</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1454">Máire Nic Shiubhlaigh</persName>
+              <date>1916</date>
+              <placeName key="#letters1916_place-0958">101 Lower Mount Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1010_img_2857_1"  type="Letter"  url="b591af898f75cafb4a4b23be2587eff0.jpg"/>
+      <graphic xml:id="L1916_1010_img_2857_2"  type="Letter"  url="a11e4fa6ad22a9bb93db5224f3e4813d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1010_img_2857_1"/>
+                101 Lower Mount St.  Dublin    1916   Dear Mrs. Skeffinton   I am sorry to have <lb/>missed you tonight.  Certainly I will change my <lb/>piece to 'Brian Boy Magee' <lb/>I sent on The death of Emmet <lb/>because I don't often do it <lb/>and I thought maybe <lb/>people were tired of hearing <lb/>me do BrianâBâMâ but <lb/>indeed I don't mind a bit <lb/>if you prefer it.  'Five Souls' is a very <lb/>beautiful poem and if I <lb/>can learn it I will do so <lb/>for you, but I am very full  
+            <pb n="2" facs="L1916_1010_img_2857_2"/>
+              This week I am going down to <lb/>Enniscorthy on Thursday to a <lb/>concert and I have to learn <lb/>a new piece for them a <lb/>piece of prose 'Concessions be <lb/>damned' very strong I must <lb/>say and if you would like <lb/>it you can  have it  with all my <lb/>heartâ it is not Brian <lb/>O'Higgins but I got it from <lb/>'The Voice of Freedom' an extract <lb/>from a leading article of <lb/>'Irish Freedom' and very <lb/><hi rend="underline">appropriate.</hi> <seg type="closer"> In haste <lb/>Yours very sincerely   MÃ¡ire Nic Shiubhlaigh  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

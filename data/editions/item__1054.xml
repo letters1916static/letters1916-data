@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1054">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Major Clarence Craig to Mr Jones, 5 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Major Clarence Craig</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Major Clarence Craig (1864-1938) to Mrs Jones regarding the death of Corporal John Henry McVicker (1883-1916). According to Major Craig McVicker was seriously wounded by a German shell while resting close to the front line with his company. He consequently died from his injuries. Major Clarence Craig was a commanding officer with the 121st Field Company of the Royal Engineers in the Ulster Division. He was also the brother of Sir James Craig (1871-1940, the first Prime Minister of Northern Ireland.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Davidson Papers D3642-A-2-5-6, Davidson Papers D3642-A-2-5-6</collection>
+                  <idno>https://letters1916.ie/item/1054</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0658">Major Clarence Craig</persName>
+              <date>1916-07-05</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Jones</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1054_img_3143_1"  type="Letter"  url="405ebda5db87b43e6dd3fd020b3d0e4f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1054_img_3143_1"/>
+                5 Jul 1916   Dear Mrs Jones   It is with deep sorrow and regret I write to <lb/>inform you of the sad death, in action, of your friend, Corporal <lb/>M'Vicker, of the 121st Field Company, R. E. Ulster Division.  He was full of pluck and energy, and a regular <lb/>soldier, always keen to be allowed to go on any raids against the <lb/>enemy, He was a great favorite in the Company,and by all who <lb/>knew him, and will be missed greatly.  A great fight has been going on for some days, and <lb/>the Company were resting for the night in some rough shelters, <lb/>about half a mile behind our Front fire, when at 2 o'clock last <lb/>night a shell came in the shelter killing 2 men, and severely <lb/>wounding your friend, and our Sergt-Major. They were at once <lb/>attended to with all possible care, and sent off the Hospital by <lb/>Motor Ambulance,but I have just received the sad news that he has <lb/>since died, and has been buried in the Soldiers Cemetery at <lb/>FORCEVILLE.  You have the deepest sympathy of both the Officers <lb/>and men of the Company by whom he was greatly beloved. <seg type="closer"> Yours sincerely  C. Craig, <lb/>Major. <lb/>O.C. 121st Field Company, R. E. <lb/>Ulster Division.</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

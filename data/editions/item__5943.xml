@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5943">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from Louis Moran to his brother Eamonn</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Louis Moran</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A postcard from Louis Moran (O&#39;Modhráin) to his brother Edward (1881-1954). Louis writes of his surprising arrival back in Dublin following his release from Wakefield, his plans to travel home (the Curragh, Co. Kildare) and that he hopes Eamonn will be included in the next draft of released prisoners. Both O&#39;Modhráin brothers, Louis &amp;amp; Eamonn (Edward), were taken into custody soon after the 1916 Rising and transported to prisons in England. By June 1916, Louis had been released and was writing to his brother, still held captive in Wakefield Prison. After his release, Eamonn would go on to command the 6th Battalion of the Carlow Brigade during the Irish War of Independence.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>O&#39;Modhráin Family</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/5943</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0200">Louis Moran</persName>
+              <date>1916-06-03</date>
+              <placeName key="#letters1916_place-1380">Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Edward Moran (Eamonn O&#39;Modhráin)</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1424">Wakefield Prison, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5943_img_335_1"  type="Letter"  url="327ba1e95f7a31f749a07061c648abd5.jpg"/>
+      <graphic xml:id="L1916_5943_img_335_2"  type="Letter"  url="2f2d0599532c3810df69319a7a401741.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5943_img_335_1"/>
+                 Mr. Edward Moran,  Irish Prisoner,  Wakefield,  C.O. Chief Postal Censor,  London    ut. 3. 56<lb/><hi rend="underline">963</hi>   
+            <pb n="2" facs="L1916_5943_img_335_2"/>
+                 Dublin    3-6-16   Dearest Ed,   I arrived here safe &amp; sound<lb/> this morning &amp; gave them<lb/> all a great surprise.  Everything is going on splendidly<lb/> here. I am going home<lb/> this evening &amp; hope to<lb/> find all there in the best<lb/> of form.  No News so I will wind<lb/> up hoping to have you<lb/> home on the next Draft. <seg type="closer"> L </seg>  
+         </ab>
+      </body>
+   </text>
+</TEI>

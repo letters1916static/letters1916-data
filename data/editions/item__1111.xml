@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1111">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Langford Beazley to Piaras Béaslaí, 14 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Langford Beazley</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Patrick Langford Beazley to his son Piaras Béaslaí wishing his son best wishes on his birthday.Béaslaí (1881-1965); was an English born influential member of the IRB (Irish Republican Brotherhood). He joined the Irish Volunteers on their foundation late in 1913. When visiting his parents he smuggled guns to Ireland. In February of 1916 he published the Fáinne, a publication to organise Gaelic speakers.Béaslaí was an officer during the Easter Rising. He was court-martialled and sentenced to five years’ for his part. In prison he wrote and memorised poems about his captivity. This letter is part of a collection of letters by Piaras’ parents, mostly during Béaslai’s internment. After his release he became involved in politics.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>, NLI33973-5-2</collection>
+                  <idno>https://letters1916.ie/item/1111</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1204">Patrick Langford Beazley</persName>
+              <date>1916-02-14</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Piaras Béaslaí</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1111_img_34_1"  type="Letter"  url="a5fda0217d23df33dd4f3db77971de08.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1111_img_34_1"/>
+                14<hi rend="superscript">th</hi> Feb., 1916.   My dearest Pierce,   Best and heartiest <lb/> wishes for your birthday. <lb/> May God give you many, <lb/> many of them and every <lb/> blessing that can make <lb/> life happy.  <seg type="closer"> Always affectionately  Father. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

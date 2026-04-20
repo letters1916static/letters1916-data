@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1921">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mary to Patrick English, 26 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from a collection Patrick English (1894-1970), who at the time of writing was a prisoner in Stafford Prison and Frongoch internment camp. The letter is to English from Mary. The author states that they are delighted to hear Patrick is well, but goes on to state that his family are very lonely without him. The author also states that she has sent paper and stamps for him to write, also noting that one of the sisters in the convent has sent him items and for this Patrick must pray for her.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Patrick English</repository>
+                  <collection>Private Collection, English/1916/05/26</collection>
+                  <idno>https://letters1916.ie/item/1921</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName >None</persName>
+              <date>1916-05-26</date>
+              <placeName key="#letters1916_place-1038">Ancoats, Manchester, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0178">Patrick English</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1722">Frongoch, Wales</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1921_img_1371_1"  type="Letter"  url="5aaa3eb82d9c676624a0eeac5950f558.jpg"/>
+      <graphic xml:id="L1916_1921_img_1371_2"  type="Letter"  url="b368f7e847ef2244a48eb9feb6c6eb02.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1921_img_1371_1"/>
+              St Vincents Convent <lb/><seg type="unclear">Ancouts M C</seg>  <lb/> 26 May 1916     My Dear Patrick    I was delighted <lb/>to hire you were well and that <lb/>you have written home to my Mother <lb/>I had a nice letter on Friday <lb/>from home and they are all <lb/>pleased they heard from <lb/>you but as you know they <lb/>are very lonely without you <lb/>as it is the first time in <lb/>your life you have ever <lb/>being away even one night <lb/>from Home and you being <lb/>the only
+            <pb n="2" facs="L1916_1921_img_1371_2"/>
+            <lb/>To depend on but however <lb/>God Is good <seg type="unclear">thus</seg>up Please God <lb/>I hope you will be soon Going <lb/>back home. Have you any news yet from home I am <lb/>sending you these Stamps <lb/>and some wrighting Paper <lb/>so as you won't be short <lb/>and I will send you a <lb/><sic>Parcle</sic> next week and <lb/>one of the sisters here is <lb/>sent those things for you <lb/>must keep them and <lb/>Always Pray for her her <lb/>Name is Sister Vincent <lb/><seg type="del">Is</seg> She Is awful kind and <lb/>to   and made <lb/>  <lb/>about you She Is a real Friend <lb/>to me and God Bless her For It <lb/>I wouldn't have <sic>knowen</sic> what to <lb/>do <sic>onely</sic> for her Fr Patrick don't <lb/>Forget her night and morning <lb/>In your Prayers and I am sure <lb/>She will Pray for you <lb/>So I think I will bring my <lb/><sic>littir</sic> to a close hoping to <lb/>hire you will be soon going <lb/>home and that you are <lb/>keeping quiet well with <lb/> Lots of Love From    Mary Good  Night  
+         </ab>
+      </body>
+   </text>
+</TEI>

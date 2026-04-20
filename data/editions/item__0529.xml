@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0529">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Telegram from Andrew Philip Magill to Sir Robert Chalmers, 15 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Andrew Philip Magill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Telegram sent by Andrew Philip Magill (1871-1941), concerning the secret military order issued in Ireland prohibiting advertisements, appeals and collections for the Irish Volunteers Dependents&#39; Fund. This fund was established by Sorcha McMahon Áine Ceannt and Kathleen Clarke to raise funds for the families of the 2,500 volunteers either dead or imprisoned in the aftermath of the Easter Rising. According to the telegram Laurence Ginnell (1852 â€“ 1923), an Irish nationalist politician, lawyer and Member of Parliament for Westmeath North, intended to ask Prime Minister Herbert Asquith (1852-1928), about the prohibition and the government&#39;s role in its issue.Andrew Philip Magill (1871-1941) had a varied career in the Irish civil service; he moved to the Ministry of Home Affairs in Northern Ireland before resigning prematurely in 1925. As private secretary to Augustine Birrell, the Chief Secretary whose resignation was prompted by the 1916 Rising, Magill was well placed to observe the often bizarre workings of the pre-revolutionary Irish administration. His subsequent postings in Dublin and Belfast likewise made him an invaluable witness of conflicts associated with revolution and partition.The telegram was addressed to the under-secretary, Sir Robert Chalmers (1858-1938). Chalmers was sent to Ireland as under-secretary, replacing Sir Matthew Nathan who had resigned along with Augustine Birrell, his chief secretary following the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5620/13404/1</collection>
+                  <idno>https://letters1916.ie/item/529</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0014">Andrew Philip Magill</persName>
+              <date>1916-07-15</date>
+              <placeName key="#letters1916_place-1483">Irish Office, Old Queen St., London SW, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0529_img_1907_1"  type="Letter"  url="54a44ac9e27423818ef088fd47a17e5d.jpg"/>
+      <graphic xml:id="L1916_0529_img_1907_2"  type="Letter"  url="4d71be2b86e0cf8e3ed2b41b41bd021a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0529_img_1907_1"/>
+                From Magill    To U.S.     The Home Secretary has agreed to take <lb/> following question for Monday of which Mr <lb/> Ginnell has given private notice &amp; would be glad <lb/> to know whether you have any observations to offer. <lb/> I understand Sir John Maxwell has been asked <lb/> for report Begins.   
+            <pb n="2" facs="L1916_0529_img_1907_2"/>
+              Mr. Ginnell To ask the Prime Minister <lb/> whether it is with the approval of the Government <lb/> a secret military order has been issued in Ireland <lb/> prohibiting advertisements appeals &amp; collections <lb/> for the Irish Volunteer <sic>Dependants</sic> fund. <lb/> Whether the <sic>Secrety</sic> is to prevent the prohibition <lb/> becoming known in America &amp; the Colonies &amp; whether he <lb/> will have the prohibition publicly withdrawn &amp; this <lb/> work of charity and mercy allowed to proceed freely. <lb/> (Ends).   
+         </ab>
+      </body>
+   </text>
+</TEI>

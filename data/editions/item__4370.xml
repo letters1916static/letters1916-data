@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4370">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Rosalind Hamilton to Edward Carson, 10 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Rosalind Cecilia Caroline Hamilton</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Lady Rosalind Hamilton (1869-1958) to Edward Carson (1854-1935). Carson was a prominent Unionist Politician. Originally a practicing solicitor from Dublin, Carson&#39;s opposition to the proposed third Home Rule bill made him the figure head of Unionism throughout the island. He was the centerpiece of the speaking tour that culminated in Ulster Day (28 September 1912), when just under half a million signed Ulster&#39;s solemn league and covenant pledging to use ‘all means which may be found necessary to defeat the present conspiracy to set up a home rule parliament in Dublin’. Carson inaugurated the Larne gunrunning in 1914 which armed the UVF, many of whom Carson would encourage to join the British Army throughout the First World War. Lady Rosalind Cecilia Caroline Hamilton, née Bingham, was Duchess of Abercorn by marriage. She was a great-grandmother of Diana, Princess of Wales.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Carson Papers, D1507/A/19/9</collection>
+                  <idno>https://letters1916.ie/item/4370</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0542">Rosalind Cecilia Caroline Hamilton</persName>
+              <date>1916-10-10</date>
+              <placeName key="#letters1916_place-0067">Barons Court, Newtownstewart, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0539">Edward Carson</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="death">1958</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4370_img_3725_1"  type="Letter"  url="1f2e17aca50322dc65d1fd17446b03aa.jpg"/>
+      <graphic xml:id="L1916_4370_img_3725_2"  type="Letter"  url="82f2988d14c33f8bbbe891cda0b6e496.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4370_img_3725_1"/>
+             Barons Court <lb/> Newtownstewart, Ireland.   Oct 10.16   Dear Sir Edward   So many thanks for your letter, &amp; <lb/> all you did in the matter of opening the <lb/> way for an extension of the Constitution of <lb/> the H K Council — we await the President's letter—   I had heard they would have to replace <lb/> Ulster <seg type="unclear">Fed</seg> losses outside, <hi rend="underline">unless</hi>there is con- <lb/>scription there can be not much  voluntary material <lb/> to put in , of the right sort —
+            <pb n="2" facs="L1916_4370_img_3725_2"/>
+            In the meantime rumours are flying <lb/> about — the neighbouring large Town's Post Office <lb/> news in the hands of <seg type="unclear">our permanent pro- <lb/>tectors all Sunday</seg>, &amp; all small detachments <lb/> were notified of trouble by cycle messengers, <lb/> where it is we do not know, I expect you <lb/> do — or it may be only <seg type="unclear">production</seg>, But there <lb/> is <seg type="unclear">some</seg>need for extra patrols since Sat 7    Love to Ruby, she wont think that <lb/> <seg type="unclear">Cheeky</seg>, will she?   Ever Sincerely     Rosalind   — 
+         </ab>
+      </body>
+   </text>
+</TEI>

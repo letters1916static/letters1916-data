@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1949">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward O'Farrell to E. L. Chapman, 29 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward O&#39;Farrell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Edward O&#39;Farrell (1857-1926) the assistant under-secretary, to the Lord Lieutenant of Ireland Sir Ivor Churchill Guest, Lord Wimborne. He is writing to Mrs. E. L. Chapman, wife of a London based solicitor. O&#39;Farrell is replying to Chapman&#39;s previous letter regarding an attempt to give a domestic servant by the name of Mary Keegan passage back to her employer. Keegan said that because of the outbreak of the rising she is finding it difficult to return. However in this letter O&#39;Farrell informs Chapman that her maid is sick and staying with family, she says she will not be travelling until she is well again.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/8962</collection>
+                  <idno>https://letters1916.ie/item/1949</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date>1916-05-29</date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">E. L. Chapman</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1479">32 Nicholas Lane, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1926</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1949_img_1399_1"  type="Letter"  url="702535b33c210db781794381b2c17d8f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1949_img_1399_1"/>
+             29th May,1916  <lb/>8962  Madam,   With reference to your letter of the 16th <lb/>instant respecting Mary Keegan, I am directed by <lb/>the Lords Justices to inform you that the Police <lb/>at Rahan report that this girl states that she is <lb/>suffering from the effects of a cold and is not <lb/>prepared to return to her employer until she has <lb/>fully recovered. She is living with her mother <lb/>at Ballykeenaghan, King's County.   I am <lb/>Madam, <lb/>Your obedient Servant,   E O'Farrell   Mrs E.L Chapman, <lb/>32, Nicholas Lane, <lb/>London, E.C. 
+         </ab>
+      </body>
+   </text>
+</TEI>

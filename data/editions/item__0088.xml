@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0088">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Michael O'Rahilly to Seán T. O'Kelly, 18 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Michael Joseph O&#39;Rahilly</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a short letter from Michael Joseph O&#39;Rahilly (&#39;The O&#39;Rahilly&#39;) (1875-1916) to Seán T. O&#39;Kelly (1882-1966). The letter acknowledges receipt of £5.5.0. collected for the defence of members of prisoners arrested for nationalist activity.The&#39; O&#39;Rahilly was a nationalist and a journalist. In 1916 he aligned himself with Eoin MacNeill (1867-1945) and Bulmer Hobson (1883-1969) who opposed a preemptive rising. Although O&#39;Rahilly played a large role in delivering MacNeill&#39;s countermanding order he felt obligated to stand with the men he recruited and trained. O&#39;Rahilly was fatally wounded on Thursday 27 April when the GPO was being evacuated.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Seán T. O&#39;Kelly Collection, BMH CD/95/3/1</collection>
+                  <idno>https://letters1916.ie/item/88</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0015">Michael Joseph O&#39;Rahilly</persName>
+              <date>1915-12-18</date>
+              <placeName key="#letters1916_place-1574">40 Herbert Park, Ballsbridge, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0470">Seán T. O&#39;Kelly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0088_img_1162_1"  type="Letter"  url="ef152ce4dad76b281fd5ca30a62408cf.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0088_img_1162_1"/>
+                18-12-15   <seg type="foreign">A cara</seg>   Thanks for Â£5.5.0<lb/> collected for Defence<lb/> of Prisoners which will<lb/> be properly taken care of. <seg type="closer"> <seg type="foreign">Mise</seg>  Ua Raigaille<lb/> Sean T.OCeallaig </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

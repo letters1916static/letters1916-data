@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0171">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward O'Farrell to the Major-General in Charge of Administration, 27 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward O&#39;Farrell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Edward O&#39;Farrell (1857-1926), the assistant under-secretary for Ireland, to the major-general in charge of administration. The letter was written a month following the 1916 Easter Rising. It regards a state of martial law that is now enforced, stating that the commander in chief of the Irish forces, General Sir John Grenfell Maxwell (1859-1929), has called for such action. The letter goes on to state that 100 copies will be supplied the recipient of the letter.Sir John Maxwell briefly held command of British troops in Egypt, where he successfully organised defences against a Turkish attack in February 1915 and presided over the huge expansion of his command as Egypt became a major British imperial military base. In March 1916, having been superseded as general officer commanding in Egypt, he was recalled home when the Easter Rising broke out.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5612/9002/2</collection>
+                  <idno>https://letters1916.ie/item/171</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date>1916-05-27</date>
+              <placeName key="#letters1916_place-0528">Chief Secretary&#39;s Office, Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Major-General in Charge of Administration</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1947">Park Gate, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0171_img_1307_1"  type="Letter"  url="9bb9ee68738b9215c3d9382e6177ca42.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0171_img_1307_1"/>
+                CHIEF SECRETARY'S OFFICE,  DUBLIN CASTLE,    27th May, 1916.   Sir,   I am directed by the Lords Justices to to ac- <lb/>quaint you, for the information of the General <lb/> Officer Commanding-in-Chief the Forces in Ireland, <lb/>that Their Excellencies have, by Proclamation <lb/> dated the 26th instant, directed that a state of <lb/> martial Law shall continue to exist throughout <lb/> Ireland until further order.  Instructions have been issued to the Printers <lb/>to furnish you with one hundred copies of the Pro- <lb/> clamation. <seg type="closer"> I have the honour to be, <lb/>Sir, <lb/>Your obedient Servant, <lb/> E O Farrell   The Major-General in Charge of Administration,  Irish Command,  Head Quarters,  Park Gate,  Dublin  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

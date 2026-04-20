@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3760">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Davidson to Clara Davidson, 5 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Davidson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from James Davidson (1877-1916) to his mother, Clara Mary (b.1852). In this letter, James writes of his recent engagement to Eileen, a family friend. He writes that he had hoped to propose once the war ended, but seeing Eileen while on leave confirmed his feelings for her. He cautions that news of the engagement should stay within the family circle until he returns from duty.
+
+This letter is part of a large correspondence from Captain James Davidson to his parents. Davidson, who was Managing Director of the Sirocco Engineering Works in Belfast, served with 13 Royal Irish Rifles and the Machine Gun Corps. His letters describe his experiences while training in England and serving in France. He was killed on 1 July 1916, the first day of the Battle of the Somme.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>PRONI-D3642-B-8-51</collection>
+                  <idno>https://letters1916.ie/item/3760</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1196">James Davidson</persName>
+              <date>1916-06-05</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Clara Mary Davidson</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1115">Seacourt, Bangor, Co. Down, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1916</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3760_img_3146_1"  type="Letter"  url="d43b9c1198ff493afa5200b5641bd19c.jpg"/>
+      <graphic xml:id="L1916_3760_img_3146_2"  type="Letter"  url="137a30f63b0a480c0902fc657d06ae54.jpg"/>
+      <graphic xml:id="L1916_3760_img_3146_3"  type="Letter"  url="de89e2284dd431f5a7113ff9e52c06fd.jpg"/>
+      <graphic xml:id="L1916_3760_img_3146_4"  type="Letter"  url="f8755518170aae316fcc1fae688a402e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3760_img_3146_1"/>
+             D3642/B/8/51   5/6/16    My dearest Mother   I have still<lb/>a number of arrangements<lb/>to complete for some<lb/>special work we have<lb/>to carry out tonight<lb/>so this can only be a<lb/>very hurrried little note<lb/>to tell you how happy<lb/>I am about my<lb/>engagement to Eileen.<lb/>I expect you got rather<lb/>a surprise. I told Eileen<lb/>how I felt before leaving<lb/>but left it at that as I<lb/>thought it would be<lb/>better to have nothing<lb/>definite till after this<lb/>awful war was<lb/>over. However this idea 
+            <pb n="2" facs="L1916_3760_img_3146_2"/>
+             has not worked out, we<lb/>just felt we could not<lb/>go on as it were pretending<lb/>&amp; so it has been all fixed<lb/>up, only Mother dear<lb/>the engagement is to be<lb/>kept within the family<lb/>circle till I come home<lb/>again. I never realised<lb/>how much I cared for<lb/>Eileen till I was home<lb/>on leave. Don't you<lb/>think I am an extremely<lb/>lucky man — I am<lb/>sure we shall be very<lb/>very happy if only<lb/>this war was at an<lb/>end. I received<lb/>a letter from Kathleen<lb/>&amp; Father <sic>yest.</sic> Please<lb/>tell them how glad 
+            <pb n="3" facs="L1916_3760_img_3146_3"/>
+             I was to get them.<lb/>I would write to both<lb/>but I simply have not<lb/>another minute as there<lb/>are too many serious<lb/>things to be done in<lb/>the next few hours.<lb/>Hope all will go well.<lb/>My fondest love to<lb/>all.  Your loving son   Jim  
+            <pb n="4" facs="L1916_3760_img_3146_4"/>
+             On Active Service   Mrs. S. C. Davidson <lb/>Seacourt <lb/>Bangor <lb/>Co Down <lb/>Ireland 
+         </ab>
+      </body>
+   </text>
+</TEI>

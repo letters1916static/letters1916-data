@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5508">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Joseph Connolly, 1 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Joseph Connolly</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from Joseph Connolly, an Irish soldier of the Connaught Rangers, British army, to Lady Clonbrock. The soldier was held in a German prisoner of war camp in Berne (Bern), Switzerland. He sends thanks for two loaves of bread that had been sent to him.
+The letter is part of correspondence of the Irish Women&#39;s Association who were heavily involved in assisting Irish soldiers in German prisoner of war camps during World War I. Lady Clonbrock of County Galway was prominent in this activity and the letter is part of the Clonbrock estate collection.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Collection List No 54, Ms 35796-14</collection>
+                  <idno>https://letters1916.ie/item/5508</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0348">Joseph Connolly</persName>
+              <date>1917-04-01</date>
+              <placeName key="#letters1916_place-0160">Germany</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5508_img_60_1"  type="Letter"  url="010117e31f173193f474287204643110.jpg"/>
+      <graphic xml:id="L1916_5508_img_60_2"  type="Letter"  url="33694972562ad53b9ea7eff4c019bba4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5508_img_60_1"/>
+             <seg type="foreign">Bureau de Secours <lb/>aux Prisonniers de Guerre <lb/>Section Anglaise <lb/>Thunstrasse 50 <lb/>Berne (Suisse)</</seg>address>  17 <seg type="foreign">Avr</seg> 1916 
+            <pb n="2" facs="L1916_5508_img_60_2"/>
+             1/4/16   Sennelayer zenne I   Madam,   I wish to <lb/> inform that I have <lb/>received two Bread. <lb/>thank you for same.   Your truly,   Joseph Connolly  <lb/>C Com — Rangers
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0231">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Cecil Spring Rice to Sir Edward Grey, 6 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Cecil Spring Rice</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Cecil Spring Rice to Sir Edward Grey requesting assistance in allowing a man named Thomas Buckland to return to the states.Cecil Spring Rice (1859-1918) was a British diplomat serving as the British ambassador to the United States from 1912 until 1918. Sir Edward Grey, 1st Viscount Grey of Fallodon, (1862-1933) was a British Liberal statesman. He served as Foreign Secretary from 1905 to 1916, the longest continuous tenure of any person in that office.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/8950/1</collection>
+                  <idno>https://letters1916.ie/item/231</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1238">Cecil Spring Rice</persName>
+              <date>1916-03-06</date>
+              <placeName key="#letters1916_place-0298">British Embassy, Washington, USA</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Edward Grey</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0231_img_1398_1"  type="Letter"  url="dee36318ebcd22b33d4fc944f10d7205.jpg"/>
+      <graphic xml:id="L1916_0231_img_1398_2"  type="Letter"  url="845a80f1b0a501db9b4ef63d1aae9bcd.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0231_img_1398_1"/>
+                BRITISH EMBASSY,  WASHINGTON,    MARCH 6, 1916.  <lb/>CONSULAR. <lb/>No: 17...  Sir: -    I have the honour to transmit to you herewith <lb/>copy of a letter which I have received from the <lb/>Mayor of Rochestor, New York, with regard to the <lb/>case of Thomas Buckland, an American citizen now <lb/>in Ireland, who wishes to return to the United <lb/>States. Buckland is, it is stated, unable to do <lb/>so as he is detained by the British Authorities.  I should be grateful if you would be good <lb/>enough to inform me in due course what reply should <lb/>be returned to the enclosed communication. <seg type="closer"> I have the honour to be, <lb/>With the highest respect, <lb/>Sir, <lb/>Your most obedient, <lb/>Humble servant,  (Signed) CECIL SPRING RICE.   The Right Honourable  Sir Edward Grey, Bart., K.G., M.P.,  etc., etc., etc.  </seg> 
+            <pb n="2" facs="L1916_0231_img_1398_2"/>
+                ROCHESTER N.Y.    March 1st 1916.   Dear Sir: -    A citizen of Rochester, Plato Buckland, of 10 Temple <lb/>Street, has asked me to write you in behalf of his brother <lb/>Thomas Buckland of Lurgan Post Office, County of Armagh <lb/>Ireland.  Thomas Buckland is <hi rend="underline">a citizen of the United States,</hi><lb/>having been born in South Carolina. His wife was born in <lb/>Georgia. Thomas Buckland has been a resident of England <lb/>and Ireland for the last twelve years. He now desires to <lb/>return to the United States and to bring his family with <lb/>him but is detained by the authorities of Great Britain.  Is there any way in which his return to the United <lb/>States may be facilitated? Anything you can do in this <lb/>matter will be greatly appreciated. <seg type="closer"> Sincerely yours,  (ad) HIRAM H. EDGERTON <lb/>Mayor.   Sir Cecil Arthur Spring Rice,  British Ambassador,  Washington.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

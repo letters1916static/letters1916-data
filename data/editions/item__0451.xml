@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0451">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Gosford to Lord Wimborne, 31 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>4th Earl of Gosford</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Archibald Archeson (1841-1922), the 4th earl of Gosford, to Lord Wimborne (1873-1939). Archeson writes to recommend the appointment of J. Mausergh Palmer to the position of Deputy Lieutenant, Armagh, vacated following the death of Captain Shelton (Captain Ralph MacGeough Bond Shelton, who passed away in March 1916). Gosford describes Palmer&#39;s respectability in County Armagh and that four of Palmer&#39;s sons are serving in the British Army and Navy.Archibald Acheson was the Lord Lieutenant of county Armagh and member of the House of Lords. He was appointed Honorary Colonel of the 3rd Battalion of the Royal Irish Fusiliers from 1899. Ivor Churchill Guest, 1st Viscount Wimborne was appointed the Lord Lieutenant of Ireland in 1915. Guest worked closely alongside Sir Matthew Nathan (1862-1939) in the administration of Ireland. Following the suppression of the Rising, Guest, under pressure, was forced to resign as Lord Lieutenant. A later inquiry into the Rising exonerated Guest and held Augustine Birrell (1850-1933) chiefly responsible for the events that occurred. Guest would continue to serve as Lord Lieutenant until 1918.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI, CSORP/1916/7237/5/4</collection>
+                  <idno>https://letters1916.ie/item/451</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0180">4th Earl of Gosford</persName>
+              <date>1916-03-31</date>
+              <placeName key="#letters1916_place-1569">24 Hyde Park Gardens, London W., England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lord Wimborne</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0451_img_1795_1"  type="Letter"  url="c5659edf34703b768880f15ad759b4e6.jpg"/>
+      <graphic xml:id="L1916_0451_img_1795_2"  type="Letter"  url="d23870bc927cbff385cb37502462faac.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0451_img_1795_1"/>
+                24. Hyde Park Gardens,  W.   Dear Lord Wimborne,   A vacancy having taken <lb/>place in the Deputy Lieutenancy <lb/>for the Co. Armagh, I now <lb/><seg type="unclear">reqtd</seg> recommend D<hi rend="superscript">r</hi> J. Mansergh Palmer <lb/>F.R.C.S. <lb/>a very well known &amp; highly <lb/>Esteemed gentleman in the County.  He has done his bit â <lb/>&amp; has sons engaged  
+            <pb n="2" facs="L1916_0451_img_1795_2"/>
+              in the War. <lb/>3. in the Army. two having <lb/>been from the first in <lb/>Mesopotamia. &amp; one in <lb/>France since 1914. <lb/>The fourth son is in the Navy.  Trusting that you will <lb/>look favorably upon <lb/>my nomination. <seg type="closer"> Believe me to be <lb/><sic>Yrs.</sic>respectfully  <hi rend="underline">Gosford</hi> <lb/>H. Ecc. Lieut. <lb/>Co.Armagh   His Excellency  The Lord Winborne  Dublin  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

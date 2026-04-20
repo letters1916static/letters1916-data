@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0189">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Andrew Bonaparte-Wise to Robert Chalmers, 29 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Andrew Bonaparte-Wise</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Andrew Bonaparte-Wise (1870-1940), Irish civil servant, to Robert Chalmers (1958-1938), the under-secretary for Ireland.The letter regards a suggestion made by Herbert Henry Asquith (1852-1928), the British prime minister, that male teachers should continue to teach for the retirement age of 65 for the duration of the war. Bonaparte-Wise states on behalf of the Commissioners of National Education that this step is unnecessary due to the small numbers of teachers joining the army. It goes on to state that due to the fact conscription is not in effect in Ireland it is unlikely young teachers would join.Bonaparte-Wise, a unionist civil servant born in Limerick, was appointed junior secretary of the Commission of National Education in 1915. Robert Chalmers, a British civil servant, was appointed under-secretary for a brief period following the resignation of Mathew Nathan, (1862-1939).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5612/9125</collection>
+                  <idno>https://letters1916.ie/item/189</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0007">Andrew Bonaparte-Wise</persName>
+              <date>1916-05-29</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0189_img_1327_1"  type="Letter"  url="590a8b5c4c4db3c51fb180b2ffcef716.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0189_img_1327_1"/>
+              L.82-16 cc    29<hi rend="superscript">th</hi> May, 1916.   Sir,   With reference to Mr. Taylor's minute of the 18th <lb/>instant, forwarding a letter addressed to the Right Honour- <lb/>able Mr. Asquith, in which it is suggested that men national <lb/>school teachers who reach the age of 65 years and are <lb/>eligible to retire on full pension be retained in their <lb/>schools during the continuance of the war, I am directed by <lb/>the Commissioners of National Education to state that they <lb/>see no sufficient grounds for adopting this proposal. In <lb/>view of the small number of teachers that have joined, or <lb/>are likely to join the Army, there is no reason at present <lb/>to apprehend a difficulty in securing masters to fill <lb/>vacancies occurring from time to time through the retirement <lb/>of teachers over 65 years of age. It may be pointed out <lb/>that, military service being voluntary in Ireland, it is un- <lb/>likely that young candidates for the teaching profession, if <lb/>prevented from taking up positions in National Schools, <lb/>would enlist in His Majesty's Forces.  I am to add that in the interests of economy the pro- <lb/>posal is not desirable having regard to the fact that the <lb/>older teachers receive very much higher salaries than the <lb/>new entrants to the service who would take their places. <seg type="closer"> I have the honour to be, <lb/>Sir, <lb/>Your obedient servant,  A.N. Bonaparte Wyse <lb/>SECRETARY   The Under Secretary,  Dublin Castle.  </seg> Ack. &amp; reply to this <lb/>effect <lb/><seg type="unclear">JH</seg>30.V.16  Done <seg type="unclear">LK.</seg> 35/5. <lb/><seg type="unclear">Dev/H 30/</seg>  
+         </ab>
+      </body>
+   </text>
+</TEI>

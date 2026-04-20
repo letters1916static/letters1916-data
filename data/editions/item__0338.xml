@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0338">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Private C. Mumford to the Secretary, Dublin Castle, 22 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>C. Mumford</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Private C. Mumford of the 11th Battalion, Royal Inniskilling Fusiliers, to the secretary in Dublin Castle. Dependants of soldiers fighting during the Great War were entitled to a &#39;separation allowance&#39; and Private Mumford, who had been wounded on active service and was recovering in London General Hospital, writes that his mother&#39;s allowance has been stopped. He enquires about rectifying the situation and a note on the letter suggests that he should contact the military authorities.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered Papers, CSO RP/1916/8789/1</collection>
+                  <idno>https://letters1916.ie/item/338</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1156">C. Mumford</persName>
+              <date>1916-05-22</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Secretary, Dublin Castle</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0338_img_1573_1"  type="Letter"  url="bf1f4b1df1e192dea5eb593544464cb9.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0338_img_1573_1"/>
+                Monday 22. 5. 1916   14248 Pte. C. Mumford   11<hi rend="superscript">th</hi> Batt. Royal <seg type="unclear">Inniskilling</seg> Fusiliers  Ward C8 3<hi rend="superscript">rd</hi> London General Hospital  Wandsworth Common  London. S.W  <hi rend="underline">To</hi> the Secretary <hi rend="underline">Dublin Castle</hi> Dear Sir   I understand from my Mother that her <lb/>allowance has been stopped without explanation &amp; I should feel <lb/>obliged if you could let me know the reason. <lb/>I might mention that my mother is a widow &amp; the <lb/>cessation of the allowance is a source of considerate <lb/>hardship to her.   Thanking you in anticipation <lb/>of your giving the case your attention. <seg type="closer"> Yours truly  Pte. C Mumford </seg>  Ack and state that if the allowance <lb/>referred to is an Army Separation allowance <lb/>he should place himself in communication <lb/>with the military authorities.   
+         </ab>
+      </body>
+   </text>
+</TEI>

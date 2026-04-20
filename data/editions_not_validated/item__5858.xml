@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5858">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Anne MacDonnell to Lady Clonbrock, 21 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Anne MacDonnell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Anne MacDonnell, honorary secretary of the Irish Women&#39;s Association to Augusta Caroline Dillon (née Crofton), Lady Clonbrock. The association was set up to provide assistance to Irish regiments fighting in the Great War and Irish prisoners of war.
+MacDonnell writes about correspondence with Lieutenant Gilliard of the Connaught Rangers and a prisoner of war in Bulgaria. She also writes that an embargo on sending outer clothes and boots to prisoners and Bulgaria has been lifted but that she does not believe they will be allowed to send blankets.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No 54; Ms. 35,796</collection>
+                  <idno>https://letters1916.ie/item/5858</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1071">Anne MacDonnell</persName>
+              <date>1916-10-21</date>
+              <placeName key="#letters1916_place-0515">Kensington Palace, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Augusta Dillon</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5858_img_956_1"  type="Letter"  url="e47acdbc357ea342f470950bfb9a39b4.jpg"/>
+      <graphic xml:id="L1916_5858_img_956_2"  type="Letter"  url="9f2b94d95c4abe215972a4ac9151339d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5858_img_956_1"/>
+             KENSINGTON PALACE, <lb/>LONDON, W.   October 21st 1916.   Dear Lady Clonbrock,   Lieut., Gilliand has written <lb/>to me from Bulgaria and I have written to tell <lb/>him that it only doubles writing if he writes to <lb/>several people about the same object. We have <lb/>sent a great deal of underclothing to the <lb/>Connaught Ranger Prisoners of War in Bulgaria, <lb/>but we were absolutely forbidden to send outer <lb/>clothes or boots, or greatcoats. This embargo <lb/>was removed on Thursday on which day we immediately <lb/>indented for every man. As soon as the Royal <lb/>Army Clothing Department give us the clothes, <lb/>which will I think be this week, they will be <lb/> <sic>despatched</sic> to the men at once.  (of course the men must not <lb/>be told <seg type="unclear">for good!</seg>give this clothing or it will not be enough   I do not for one moment believe that <lb/ that blankets will be allowed to be despatched to <lb/>Bulgaria, as the British Censor will not allow <lb/>them to be sent to Germany.   We shall of course do the clothing for the <lb/>Rangers in Bulgaria, just the same as we have sent <lb/>to Germany and Turkey. 
+            <pb n="2" facs="L1916_5858_img_956_2"/>
+            (2)  I have many letters from Lieut., Gilliland, who is <lb/>really a most remarkable man and has done extraordinarily <lb/>good work for our men in Bulgaria, though I am <seg type="del">sure</seg>  afraid  the <lb/>men are not as grateful to him as they ought to be.    Yours sincerely,   Anne McDonnell  <lb/>Hon. Secretary.
+         </ab>
+      </body>
+   </text>
+</TEI>

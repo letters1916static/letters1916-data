@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0035">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Eva Gore-Booth to Helena Molony, 1 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Eva Gore-Booth</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Eva Selina Gore-Booth (1870-1926) to Helena Molony (1883-1967). This letter was written while Malony was in prison. Eva Gore-Booth enquires about Molony and the rules regarding letters and visitors and refers to her sister and other female prisoners, Dr Kathleen Lynn and Madeleine French-Mullen.Eva Gore-Booth was a poet, trade unionist, suffragist, and an active social campaigner, mostly on women&#39;s issues, and contributor to the Irish literary revival from the late 1890s. A sister of Constance Markievicz, she was active in the campaign for a reprieve of Markievicz&#39;s death sentence for her participation in the Easter Rising and for the improvement of her prison conditions.Helena Molony was a republican, feminist and labour activist. She was a founder member of Inghinidhe na hÉireann, a member of the Irish Citizen Army and a close colleague of James Connolly and Countess Markievicz. She was part of the garrison of rebels who seized City Hall during the Easter Rising and was imprisoned in Aylesbury prison until December 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Helena Molony Collection, BMH CD/119/1/1</collection>
+                  <idno>https://letters1916.ie/item/35</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0250">Eva Gore-Booth</persName>
+              <date>1916-09-01</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0602">Helena Molony</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1747">Aylesbury Prison, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0035_img_1067_1"  type="Letter"  url="05bc1be19de22bc40c4c50cad62fa86c.jpg"/>
+      <graphic xml:id="L1916_0035_img_1067_2"  type="Letter"  url="9549d709afc774f673fcfba4dbb0ad4d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0035_img_1067_1"/>
+                33 Fitzroy Sq   My Dear Miss Maloney   I dont know if <lb/>you will get this letter <lb/>because I don't know what <lb/>the rules are for interned <lb/> people, but I thought I <lb/>would chance writing you <lb/>a line to say I have seen <lb/>my sister since she came <lb/> to England and she is <lb/>well and cheerful.  
+            <pb n="2" facs="L1916_0035_img_1067_2"/>
+              Please tell me if theres <lb/>any chance of my <lb/>being allowed to see <lb/>you and who's the <lb/>right person to apply <lb/> to. I heard from the Doctor, <lb/>Miss Mullen and other <lb/>friends this morning <lb/>they seem well &amp; cheerful <lb/> I hope you are all right <lb/>and not having <lb/>a bad time. My sister <lb/>says man never made <lb/>a wall but God threw a <lb/> gap in it as an old <lb/>woman used to say at home <seg type="closer"> With kindest <lb/>remembrances <lb/>from Miss Roper &amp;<lb/> myself Yours <lb/> Eva GB </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

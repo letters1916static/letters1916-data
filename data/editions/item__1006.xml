@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1006">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fay Sargent to Hanna Sheehy Skeffington, 25 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Fay Sargent</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Fay Sargent to Hanna Sheehy Skeffington (1877-1946) to accept her request to sing at the latest concert, though Sargent asks Skeffington not to announce that she is singing for free as Sargent usually charges for her performances. Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the widow of Francis Sheehy-Skeffington (who was summarily executed on 26 April 1916). She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47;, MS 33,604/15-18</collection>
+                  <idno>https://letters1916.ie/item/1006</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1142">Fay Sargent</persName>
+              <date>1916-01-25</date>
+              <placeName key="#letters1916_place-1118">59 Hollybank Road, Drumcondra, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1006_img_2852_1"  type="Letter"  url="e28ca5e9fa7e57ba9f61b295a4d9b09a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1006_img_2852_1"/>
+                59 Hollybank Road,  Drumcondra    25.1.16   Dear Mrs. Sheehy Skeffington   Of course I will be <lb/>only too pleased to sing for you <lb/>on Feb. 20th. The song's title:â <lb/>'Antrim Glen Song.'  Would you mind not letting any <lb/>outsiders know that I'm singing <lb/>free on this occasion as I generally <lb/>get paid for all concerts now? But <lb/>naturally you being a friend of mine makes <lb/>a big difference.  <seg type="closer"> <seg type="foreign">le meas mÃ³r</seg>  Fay Sargent </seg><seg type="postscript"> p.s. Where is the concert to <lb/>be held? </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4414">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from North Circular Laundry Co. to Charles Munro, 2 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from North Circular Laundry Co. to Charles Munro, regarding the damaged wall between Mountjoy Prison and the North Circular Laundry Company. 
+
+Charles Arthur Munro (1869-1952) was the governor of Mountjoy prison in Dublin. He is also the brother of the noted author H.H. Munro, better known through his literary pseudonym, Saki.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection> NAI/CSO/RP/1916/10714/2</collection>
+                  <idno>https://letters1916.ie/item/4414</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-06-02</date>
+              <placeName key="#letters1916_place-0836">North Circular Road, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0487">Charles Arthur Munro</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1716">Mountjoy Prison, North Circular Road, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4414_img_3766_1"  type="Letter"  url="3d40d3f6efbfc2604932e6704e1f604f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4414_img_3766_1"/>
+             N.C. LAUNDRY, Ltd. <lb/>IRELAND'S BEST <lb/>LAUNDERERS, <lb/>CLEANERS, AND DYERS.   NORTH CIRCULAR ROAD, <lb/>(TOP OF BERKLEY STREET), <lb/>DUBLIN,   June 2<hi rend="superscript">nd</hi> 1916   Munro Esq <lb/>Governor H.M. Prison <lb/>Mountjoy   Dear Sir/  <lb/>Yours 31<hi rend="superscript">st</hi> ult to hand offering to <lb/>contribute half towards cost of erecting <lb/>a substantial wooden fence in lieu of <lb/>the wall. In reply we have to say that <lb/><hi rend="underline">this would not be at all reasnable or</hi> <lb/>just to us. As we have in contemplation <lb/>the erection of a building on this ground <lb/>using the large walls to support metal <lb/>girders carrying roof. It would therefore <lb/>be necessary for us later on to rebuild <lb/>the wall pulled down by your ivy and <lb/>the cost of so doing will be very consider- <lb/>-able and we think you are entitled to <lb/>make us a reasonable contribution towards <lb/>the cost of doing this work of rebuilding <lb/>which we estimate roughly would be <lb/>about £50. We are anxious to get this <lb/>settled and would be willing to accept <lb/>a reasonable sum say £25, to end the <lb/>matter, and trust Prisons Board will act <lb/>in fair and reasonable way and agree <lb/>to this.   Yours faithfully   <seg type="unclear">N C L Ltd</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

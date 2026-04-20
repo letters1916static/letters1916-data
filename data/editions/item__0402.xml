@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0402">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Arnold Graves and Thomas Bodkin to Edward O'Farrell, 29 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Arnold Graves</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Arnold Felix Graves (1847-1930) and Thomas Bodkin (1887-1961) to Edward O&#39;Farrell (1857-1926), Assistant under-secretary to the Lord Lieutenant of Ireland Sir Ivor Churchill Guest, Lord Wimborne (1873-1939). The letter concerns the expenditure of the commissioners of charitable works, stating that there was an excess expenditure regarding the payment of the assistant clerk due to an overtime payment. However a surplus was left over from other subheadings of the budget. For this reason the author requests the surplus to be used to pay the excess on the subheading of the salaries. Both Grave and Bodkin were secretaries for the commissioners of charitable donations and bequeaths for Ireland. Arnold Graves took on the position in 1872. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5613/9119</collection>
+                  <idno>https://letters1916.ie/item/402</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0366">Arnold Graves</persName>
+              <date>1916-05-29</date>
+              <placeName key="#letters1916_place-0174">2, Kildare Place, Dublin, Ireland </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0402_img_1664_1"  type="Letter"  url="25cf02107ded0e76a2ef2a01ccdbf0ac.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0402_img_1664_1"/>
+                Commissioners of Charitable Donations and Bequests for Ireland.  2 KILDARE PLACE, DUBLIN,    29th day of May 1916   Sir,   We beg to acquaint you for the information of <lb/>the Lords Justices that the Appropriation Account for <lb/>this Department for the year ended 31st March last, shows <lb/>an excess expenditure under sub-head A, salaries, of <lb/>Â£10. 1. 7, due to the grant of a special increment to the <lb/>Assistant Clerk, in accordance with Treasury Circular <lb/>(No 7760/15) of 29th March 1915, and to payment for <lb/>overtime services found necessary during this year.  Apply for treasury <lb/>authority <lb/>E.o.F. <lb/>30.V.16  The savings on other sub-heads of the Vote <lb/>amount to Â£25. 11. 4, and the Appropriation-in-aid realised <lb/>exceed the Estimate by Â£21. 15. 4; therefore the total <lb/>surplus to be surrendered is Â£37. 5. 1.  We are accordingly to request you to be good <lb/>enough to move the Lords Commissioner of His Majesty's <lb/>Treasury to sanction the excess expenditure of Â£10. 1. 7 <lb/>on sub-head A being met out of the savings on other <lb/>sub-heads of the Vote. <seg type="closer"> We are, <lb/>Sir, <lb/>Your obedient servants,  Arnold f. Graves  <hi rend="underline">Thomas Bodkin</hi> <lb/>Secretaries.   The Assistant Under Secretary,  Dublin Castle.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0371">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Henry Arthur Wynne to Samuel Alex Wray, 23 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Henry Arthur Wynne</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Henry Arthur Wynne to Samuel Alex Wray (b.1875), a solicitor. The letter is a reply of a previous letter sent by Wray regarding Professor Valentine Steinberger (b.1853), a German professor in University College Galway who was arrested following the Easter Rising and deported to Wandsworth prison, for whom Wray is solicitor. The previous letter requested that Wray be allowed consult Steinberger regarding rent payments and also ask about his whereabouts. In reply, Wynne simply states that Steinberger is in the custody of military authorities.Henry Arthur Wynne (1867-1945) was the chief crown solicitor for Ireland following the death of Malchy Kelly (1950-1916).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5611/8624/2</collection>
+                  <idno>https://letters1916.ie/item/371</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0815">Henry Arthur Wynne</persName>
+              <date>1916-05-23</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0145">Samuel Alex Wray</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1349">Coleraine, Derry, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0371_img_1618_1"  type="Letter"  url="fcc0c660c94448dde28a456a991c67b4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0371_img_1618_1"/>
+              8624    23rd May 1916   Dear Sir,   <lb/>In reply to your letter of 19th instant I have to <lb/>inform you that as Professor Steinberger is in the custody of <lb/>the Military Authorities it will be necessary for you to <lb/>communicate with them in the matter.  <seg type="closer"> Yours truly,  Henry Arthur Wynne </seg> <lb/>Samuel A Wray Esq., <lb/>Solicitor, <lb/>Coleraine.   
+         </ab>
+      </body>
+   </text>
+</TEI>

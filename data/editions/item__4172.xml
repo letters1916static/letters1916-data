@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4172">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Carey to Brother Kieran,  15 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Carey</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Patrick Carey to Brother Kieran et al. regarding a resolution adopted at their last meeting. The resolution expresses the regret of the Board of Guardians and Rural District Council over the death of Mrs O&#39;Connor. 
+
+Patrick Carey (1853-1934) was the Union Clerk for the Killarney Poor Law Board of Guardians. Poor law unions and their workhouses were established by the Poor Law (Ireland) Act, 1838, as a response to widespread poverty, and were each governed by a Board of Guardians. This letter comes from the Killarney Poor Law Board of Guardians Minute Book.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry Library, Tralee</repository>
+                  <collection>Killarney Poor Law Board of Guardians BG104/B/4</collection>
+                  <idno>https://letters1916.ie/item/4172</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1557">Patrick Carey</persName>
+              <date>1915-12-15</date>
+              <placeName key="#letters1916_place-0854">Killarney, Co Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Bother Kieran</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1934</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Faith</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4172_img_3545_1"  type="Letter"  url="83c115a5f4dcb9bc70723e55869c13f6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4172_img_3545_1"/>
+             15th December 5   My Dear   I am directed by the Board of Guardians and <lb/>Rural District Council to send you the following copy <lb/>of Resolution <sic>unanimouslu</sic> adopted at their last meeting; <lb/>with which I desire to be associated,    Yours faithfully, <lb/> Clerk of Union.   Bro.Kiernan,Killarney, <lb/> Thos O'Connor Esq, Ballinillane <lb/> Jas O'Connor Esq, Cloonmore, <lb/> Jerh O'Connor Esq, do.  <lb/> (Copy Resolution) <lb/> Proposed by Mr T. O'Leary,   Seconded by Mr J Meara, and unanimously <lb/> RESOLVED:— That we tender our sincere regret at the <lb/> death of Mrs O'Connor, Coolroe, and that our sympathy <lb/> be conveyed to Brother Kieran, Presentation Monastery, <lb/> Killarney; and Mr Thomas O'Connor, N.T., Ballinillane.  <lb/><hi rend="underline"> </hi>
+         </ab>
+      </body>
+   </text>
+</TEI>

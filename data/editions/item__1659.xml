@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1659">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Clear to Augustine Birrell, 23 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Clear</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from John Clear (1858-?), a labourer from Killkenny, Augustine Birrell (1850-1933) the Chief Secretary for Ireland. The letter call for an end to the theft of letters by a list of people name. He claims cheques have been taken and cashed in Berlin. He goes on to state Sergeant Benson knows about this and that there is £80,000 of his in a bank in Ohio, believing the named men are keeping it from him.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI_CSO_RP_1916_4176_2</collection>
+                  <idno>https://letters1916.ie/item/1659</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0449">John Clear</persName>
+              <date>1916-02-23</date>
+              <placeName key="#letters1916_place-0467">Graignamanagh, Co. Kilkenny, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0534">Augustine Birrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0287">Dublin, Co. Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1659_img_1119_1"  type="Letter"  url="0038bb9e37b8a2a9e75acbe5c50ae33d.jpg"/>
+      <graphic xml:id="L1916_1659_img_1119_2"  type="Letter"  url="8d0c9df70de7bd5de950ee5c254b997f.jpg"/>
+      <graphic xml:id="L1916_1659_img_1119_3"  type="Envelope"  url="37ff4f9cec251151e543c4d9bfa00738.jpg"/>
+      <graphic xml:id="L1916_1659_img_1119_4"  type="Envelope"  url="ec1d40bacf3f55bc18d730c3c3fa9532.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1659_img_1119_1"/>
+             Graiguemonagh   Feby. 23<hi rend="superscript">rd</hi> 1916    To you, the Chief Sec. of Ireland,   A Birrell &amp; Lady Birrell, — to inform you<lb/>and King George in Parliament, to put<lb/>at, once an end to underhand <sic>robery</sic> of<lb/><sic>riflen</sic> = (stealing) letters that come to us,<lb/>and answering them as lies and<lb/>Statements signed in our name, by<lb/>Coroners, D<hi rend="superscript">rs</hi>., JP.s.,<seg type="unclear"> sevn.</seg> Joyce J.P., —<lb/>and numerous others, holding 12 letters<lb/>and cheques for £8000 from  May 14<hi rend="superscript">th</hi>. '08 <lb/>to  Feby 1916 ... money cashed in Berlin.<lb/>These people are responsible for the war.  He refers to Sergt. Benson, Graigue, as<lb/>knowing all about this. There is<lb/>still £80000 of his in the Bank at<lb/>Ohio, &amp; he believes the above names are keep 
+            <pb n="2" facs="L1916_1659_img_1119_2"/>
+            -ing it from him etc., etc.<lb/>He calls himself in a number<lb/>of places:— We John Clean   
+            <pb n="3" facs="L1916_1659_img_1119_3"/>
+            <!-- Envelope --> the Right hon.<lb/>A. Birrell   M.P.<lb/> <seg type="unclear"></seg> office Lodge Castle of<lb/>Dublin<lb/>&amp; house of Commons<lb/>Westminster London<lb/>Chief   of Ireland    
+            <pb n="4" facs="L1916_1659_img_1119_4"/>
+             Mr. Connolly<lb/>I should like to know  <seg type="unclear"></seg>  9/3 
+         </ab>
+      </body>
+   </text>
+</TEI>

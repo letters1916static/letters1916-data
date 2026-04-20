@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1286">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Susan Fitzgerald to Michael Gorman, 22 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Susan Fitzgerald</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Michael Gorman was one a large Catholic family living at a farm in Ballinalug, County Laois (then Queen&#39;s County). Susan Fitzgerald (d. 1980) was one a Church of Ireland family living in Raheenahone House near Stradbally, County Laois, also in the Slieve Bloom mountains. At the time the letter was written they were involved in a courtship but owing to the religious difference the love affair had to be kept secret. Eventually both were in Dublin: he in the Albert Agricultural College in Glasnevin (where he eventually became Professor of Agricultural Botany and Biochemistry) and she as a volunteer nurse in the Royal Hospital in Baggot Street. They eventually went to London to marry.The letter was written before Susan had come to Dublin for her role in the Voluntary Aid Detachment, a voluntary group organised to give medical aid to wounded British army soldiers. She mentions that she will not be able to come to Dublin until after 31 January as she will be busy making her hospital clothes (uniform). She will then be staying in Mount Street for a night and afterwards in the Nurse&#39;s House. She refers to daily life, asks about mutual friends and requests that Michael hold on to a copy of Byron&#39;s poetry until she meets him.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Michael Gorman</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/1286</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1259">Susan Fitzgerald</persName>
+              <date>1916-01-22</date>
+              <placeName key="#letters1916_place-1800">Raheenahone House, Stradbally, County Laois</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Michael Gorman</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1251">Albert Agricultural College, Glasnevin, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1286_img_494_1"  type="NULL"  url="1318e16c611837dd9354d8b078f0fee0.jpg"/>
+      <graphic xml:id="L1916_1286_img_494_2"  type="NULL"  url="c13756608f28d174ed7d33b4e26cd0b6.jpg"/>
+      <graphic xml:id="L1916_1286_img_494_3"  type="NULL"  url="bbd886b45e2054b2919ff62a12a94c7f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1286_img_494_1"/>
+                <hi rend="underline">Raheenahone</hi> Ho   Stradbally  Queen's Co    Saturday 22' 16   My dear Mickie   I was very <lb/> pleased to get your <lb/>letter today. Im <lb/>afraid I'll scarcely <lb/> be able to get up  
+            <pb n="2" facs="L1916_1286_img_494_2"/>
+              before the 31 <hi rend="superscript">st</hi> I'm <lb/> making some of my <lb/> hospital clothes &amp; I <lb/> don't expect to get <lb/> finished before then &amp; <lb/>I'll stay a night in <lb/> Mount Street. I wish <lb/> I was staying there <lb/> instead of the nurse <lb/> home. I'm looking <lb/>forward to seeing you <lb/> again. How is Mac. <lb/> Did you hear from <lb/> him lately? I hope <lb/>he likes Cahir. When <lb/> is M <hi rend="superscript">r</hi>. Brown giving <lb/> his party? I heard <lb/> a very good story <lb/> about the Professor <lb/> lately. What are the <lb/> Pantomine songs like? <lb/> I'm <seg type="del">as</seg> like yourself <lb/>I haven't a bit of <lb/> news. I wasnt <seg type="del">of</seg><lb/> out much last week <lb/> I had a lot of <lb/> sewing to do. Please <lb/> keep Byron until I  
+            <pb n="3" facs="L1916_1286_img_494_3"/>
+              get back. I havent <lb/> read any of the <lb/>interesting parts.   Will you let me have <lb/> that photo of yourself <lb/> and Konrad next time <lb/> you are writing. I should <lb/>like to have it very <lb/> much.   With best wishes <seg type="closer"> Yours  Sue </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

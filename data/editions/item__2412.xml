@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2412">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Margaret Murphy to the Irish Office, 24 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Margaret Murphy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Margaret Murphy to the Irish Office to appeal against an overcharging by Nat Ross Furniture Removers (Cork) for moving her furniture from Cork to Skibbereen.  Margaret Murphy&#39;s husband, a naval reservist, was called up for service at the start of the war.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI: &#39;Chief Secretary’s Office Registered Papers; CSORP/1916/7463/2</collection>
+                  <idno>https://letters1916.ie/item/2412</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0926">Margaret Murphy</persName>
+              <date>1916-04-24</date>
+              <placeName key="#letters1916_place-1174">1 Cork Road, Skibbereen, Co. Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Irish Office</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2412_img_1853_1"  type="Letter"  url="dc662fde1e1709a3105b3727af7755ad.jpg"/>
+      <graphic xml:id="L1916_2412_img_1853_2"  type="Letter"  url="59607e2eb63822018616776dd1670439.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2412_img_1853_1"/>
+             1 Cork Road <lb/>Skibbereen <lb/>Co. Cork    April 24<hi rend="superscript"><hi rend="underline">th</hi></hi> 1916.     Dear Sir,    I am the wife of <lb/> a naval Reservist who was <lb/> called up at the beginning <lb/> of the war. I stored my <lb/> furniture last September at
+            <pb n="2" facs="L1916_2412_img_1853_2"/>
+            <seg type="unclear">Pat</seg> Ross' of Cork Furniture <lb/> Removers. I have now found <lb/> a nice little cottage around here <lb/> and would like to have a home <lb/> ready for my husband, but <lb/> <seg type="unclear">Pat</seg> Ross wants to charge me <lb/> thirteen pounds to move from <lb/> Cork here though he would <lb/> have it done last September <lb/> from Queenstown for twelve <lb/> pounds, though the distance <lb/> is fourteen miles further.    Can I appeal to anyone <lb/>against such overcharge.   I am willing to pay eight <lb/> pounds which I consider <lb/> reasonable the distance being <lb/> fifty miles.   Thanking you in anticipation   Yours truly    <sic>Margt</sic> Murphy   <lb/>c/o Mrs Keohane
+         </ab>
+      </body>
+   </text>
+</TEI>

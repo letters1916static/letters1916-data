@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0315">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Lady Clonbrock to John J. Thompson, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Augusta Clonbrock</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Augusta Caroline Dillon Clonbrock, Lady Clonbrock (1840-1928) to John Thompson Esq. In the letter Lady Clonbrock thanks Thompson and the board of the hospital for allowing the Clonbrock Co-operative Society an increased bonus and recognizing the increasing difficulties faced by the society.Aside from being the wife of Luke Gerald Dillon, 4th Baron Clonbrock, Lady Clonbrock was also a prominent member of the Irish Women&#39;s Association, founded to provide aid and assistance to Irish soldiers and prisoners of war. The letter was addressed to John James Thompson (1872-1924), the registrar at the Royal Hospital for Incurables.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No. 54, Ms. 35796/10/13</collection>
+                  <idno>https://letters1916.ie/item/315</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0465">Augusta Clonbrock</persName>
+              <date>1916-01-01</date>
+              <placeName key="#letters1916_place-1777">Buswell&#39;s Hotel, Molesworth Street, Dublin.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0083">John Thompson</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0315_img_1539_1"  type="Letter"  url="f392801b5f6144499f952c8be4775e00.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0315_img_1539_1"/>
+              <hi rend="underline">Copy</hi> of <seg type="unclear">answer</seg><lb/>    Buswell's Hotel  Molesworth St   Dear Sir   I am very much obliged <lb/> from your letter, &amp; I beg you will offer <lb/> DP Board my appreciation of their <lb/> kindness in allowing the C &amp; C.P.S. an <lb/> increased bonus on the price of eggs <lb/> supplied by them of 35% â I feel <lb/> most grateful for this favourable <lb/> consideration of the difficulties <lb/> which I explained in my letter <lb/> and <seg type="unclear">which</seg> will be considerably <lb/><seg type="unclear">relieved</seg> by the <seg type="unclear">concession</seg><seg type="unclear">of the</seg><lb/><seg type="unclear">board</seg> - I think the C &amp; C.P.S. will <lb/> long continue to supply eggs to <lb/><seg type="unclear">your</seg> hospital &amp; give complete <lb/> satisfaction in all their dealings  <seg type="closer"> Faithfully  <hi rend="underline">Augusta Clonbrock</hi> <lb/><hi rend="underline">John Thompson Esq</hi></seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

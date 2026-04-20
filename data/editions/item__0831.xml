@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0831">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John J. McGrath to Pat McGrath, 20 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John J. McGrath</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from John J. McGrath, an Irish internee at Frongoch Prison in Wales, to his relative Pat McGrath. In the letter, John discusses conditions at the prison, mentioning the beautiful weather and scenery, the organisation of the Irish internees under their own appointed officers, and the difficulty of finding good reading material. John refers to a parcel recently received from the Breen family, asking Pat to thank them on his behalf. and mentions that he is only allowed to write letters once a week. John compares Frongoch favourably to Wakefield Prison, where he was previously interned.Frongoch was a makeshift prison in Wales which detained approximately 1800 Irish prisoners following the 1916 Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, IE/AL/1916/67/1</collection>
+                  <idno>https://letters1916.ie/item/831</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0974">John J. McGrath</persName>
+              <date>1916-06-20</date>
+              <placeName key="#letters1916_place-0112">Frongoch Prison, Wales</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Pat McGrath</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1195">22 Essex Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0831_img_2382_1"  type="Letter"  url="df318d848436829cc25c663f4a8e04a1.jpg"/>
+      <graphic xml:id="L1916_0831_img_2382_2"  type="Letter"  url="e0cfc9492546f68f4da9488ca7e61694.jpg"/>
+      <graphic xml:id="L1916_0831_img_2382_3"  type="Letter"  url="308fdf4db97753a592ff35a12d430c18.jpg"/>
+      <graphic xml:id="L1916_0831_img_2382_4"  type="Letter"  url="b688508d142cea4422a73db7d8cf3b79.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0831_img_2382_1"/>
+                20 June 1916    No 269. Irish Prisoner of War, Frongoch   Dear Pat   I trust you and all<lb/> at home are quite well as I am<lb/> in the best of health as the weather<lb/> here is beautiful among the<lb/> mountains and the air very<lb/> bracing we sleep &amp; eat in <seg type="unclear">common</seg><lb/> and are governed by our own officers<lb/> we are receiving additional<lb/> prisoners here regular and<lb/> are not allowed to receive<lb/> Irish papers there is very little<lb/> to read here but the day goes over  
+            <pb n="2" facs="L1916_0831_img_2382_2"/>
+              pleasantly rambling about the<lb/> grounds. The Breens sent a parcel <lb/> to Wakefield fro me which I received<lb/> all right which you might thank<lb/> them for me as we are only allowed<lb/> to write once a week &amp; one half <lb/> sheet of note paper. The food is<lb/> good &amp; a better allowance than<lb/> Wakefield, we are allowed to <lb/> receive parcels from home<lb/> we have a dry canteen where<lb/> we can purchase food &amp; <lb/> other articles for use, John   
+            <pb n="3" facs="L1916_0831_img_2382_3"/>
+              <hi rend="underline">Prisoners of War.</hi><lb/> Letter from<lb/><hi rend="underline">Frongoch</hi><lb/>  Mr Patrick MacGrath  20 East Essex St  Dublin  Ireland    
+            <pb n="4" facs="L1916_0831_img_2382_4"/>
+                John J MacGrath  N<hi rend="underline">o</hi> 269, Irish Prisoner  of War  Frongoch  <hi rend="underline">Nth Wales</hi>    
+         </ab>
+      </body>
+   </text>
+</TEI>

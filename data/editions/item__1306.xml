@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1306">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from G. Gavan Duffy to E. Blackwell, 4 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>George Gavan Duffy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from George Gavan Duffy (1882-1951) to the under secretary of state for the Home Office in London, E. Blackwell. This letter is in response to the Secretary of State&#39;s decision to apply the capital punishment amendment of 1868 to the execution of Casement. This act requires the body to be buried within the prison. Gavan Duffy argues that this applies only to murder and not for treason. He also comments on the family&#39;s belief that they have been &#39;grievously wronged&#39; by the State in the rejection of their request for private burial. The letter was written the day after Casement&#39;s execution.George Gavan Duffy was an Irish politician, barrister and judge. He unsuccessfully defended Roger Casement at his trial for high treason after the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casement Papers, Collection List no. A15, Ms. 13,088 /12</collection>
+                  <idno>https://letters1916.ie/item/1306</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0467">George Gavan Duffy</persName>
+              <date>1916-08-04</date>
+              <placeName key="#letters1916_place-0654">4 Raymond Buildings, Gray&#39;s Inn W.C., London, UK</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1476">E. Blackwell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0025">Home Office Whitehall (London)</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Law and Judiciary</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1306_img_525_1"  type="Letter"  url="d34b8425d521e963a474f9674297a18e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1306_img_525_1"/>
+                4 Raymond Buildings,  Gray's Inn. W. C.    4<hi rend="superscript">th</hi> August 1916.    The Under Secretary of State,  Home Office,  Whitehall, S. W.   Sir: -   <hi rend="underline">311643/146:-</hi>  I have the honour to acknowledge the receipt of your letter <lb/> of yesterday's date from which I understand that the Home Secretary <lb/> takes the view that section 6 of the Capital Punishment Amendment <lb/> Act, 1868 applies to a case of execution for treason. I most <lb/> respectfully dissent from this view inasmuch as that Act has always <lb/> been considered to apply to cases of murder and none other, and <lb/> the principal section of the Act (Section 2) as to carrying out of <lb/> judgement of death is expressly confined to murder.  In view of the submission which I ventured to put before <lb/> you in my letter of yesterday, the relatives of Roger Casement <lb/> consider that a grievous wrong has been done to them, since it is <lb/> apparent that the question of burial within the prison walls has <lb/> never been considered by the Home Secretary otherwise than in <lb/> connection with a Statute which they are advised has no application. <seg type="closer"> I have the honour to be, <lb/>Sir, <lb/>Your obedient servant,  G. GAVAN DUFFY.. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

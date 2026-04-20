@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3533">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Alfred Byrne to Hanna Sheehy Skeffington, 15 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Alfred Byrne</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>In this letter from Alfred (&#39;Alfie&#39;) Byrne (1882-1956) to Hanna Sheehy Skeffington (1877-1946), he expressed his sympathies regarding the execution of Hanna&#39;s husband, Francis. He then discusses the inquiry made into Francis&#39; death and the possibility of compensation.
+
+ Alfred Byrne was first elected an MP in the 1915 by-election as a nationalist candidate for the Irish Parliamentary Party. Although opposed to the Easter Rising, he spent 1916 lobbying on behalf of the interned prisoners. Before the Rising he was also a vociferous anti-conscription campaigner.
+
+Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the founder of the Irish Women’s Franchise League and a founding member of the Irish Women Workers’ Union. She was the widow of Francis Sheehy-Skeffington who was summarily executed on 26 April 1916. She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy-Skeffington Papers, Collection List No.47; MS 33,605/1-3</collection>
+                  <idno>https://letters1916.ie/item/3533</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1405">Alfred Byrne</persName>
+              <date>1916-05-15</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1956</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3533_img_2937_1"  type="Letter"  url="6f5be70fdb0d7323d3755f3b01128097.jpg"/>
+      <graphic xml:id="L1916_3533_img_2937_2"  type="Letter"  url="40acd177622b548a3c6d8aa003eae640.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3533_img_2937_1"/>
+            <hi rend="underline"> 15<hi rend="superscript">th</hi> May 1916 </hi>  Dear M<hi rend="superscript">rs</hi> Skeffington   Kindly accept my most<lb/>sincere sympathy on the great<lb/>loss you have sustained through<lb/>the Death of your dear husband.  When I put down the question<lb/>in Commons demanding a sworn<lb/>enquiry into his death I had<lb/>no idea of the Compensating<lb/>part of it to apply to you &amp;<lb/>was aware that any attempt 
+            <pb n="2" facs="L1916_3533_img_2937_2"/>
+             to offer you Money would<lb/>be an insult and be resented.<lb/>I made this perfectly clear in<lb/>a supplementary question.  If there is anything I<lb/>can do to expose further the<lb/>whole brutal affair I will<lb/>gladly do so. I note your<lb/>remarks about Richard O Carroll<lb/><seg type="unclear">TC</seg> and have today put<lb/>in a question demanding an enquiry<lb/>into his death.  With sincerest Sympathy<lb/>Yours Sincerely  <hi rend="underline">Alfred Byrne</hi>   Mrs Sheehy Skeffington  
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0281">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward O'Farrell to James Jackson Clark, 17 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward O&#39;Farrell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Edward O&#39;Farrell (1857-1926) to James Jackson Clark (1846-1926), a Colonel from Derry. This letter is a reply to a letter sent by Clark requesting a pass to travel to England. In this letter O&#39;Farrell states that the Lord Lieutenant, Ivor Guest (1873-1939) has informed him that there are no passes being permitted, and that Clark should apply for a certificate from his Local District Inspector to satisfy the Military Authorities.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>National Archive of Ireland-Chief Secretary&#39;s Office-Registered Papers, NAI/CSO/RP/1916/5611/8242/2</collection>
+                  <idno>https://letters1916.ie/item/281</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date>1916-05-17</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">James Jackson Clark</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1396">Largantogher, Maghera, Derry</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0281_img_1481_1"  type="Letter"  url="00d39d251a6dd97f5924dbcf76fc159f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0281_img_1481_1"/>
+                17th May, 1916.   No. 8242.  Sir   Withe reference to your letter of the 15th <lb/> instant, I am directed by the Lord Lieutenant to<lb/> state that formal permits are not being issued by <lb/> the Military Authorities to enable persons to leave<lb/> Ireland.   It will, however, be necessary for you to<lb/> obtain from the local District Inspector Royal Irish <lb/> Constabulary a certificate to satisfy the Military<lb/> Authorities that there are no grounds for objecting<lb/> to your departure. <seg type="closer"> I am,<lb/> Sir,<lb/> Your obedient Servant, <lb/> E O'Farrell <lb/>  Colonel Jackson Clark, H.M.L.,  Largantogher,  Maghera,  Co. Derry.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

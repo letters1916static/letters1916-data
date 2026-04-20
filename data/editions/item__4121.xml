@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4121">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Carey to Messrs Helys Ltd, 3 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Carey</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Patrick Carey to Messrs Helys Ltd. inquiring if they have cases for the &#34;Sykeh&#34; cabinet.
+
+Messrs Helys was a printworks operating from Dame Lane from 1897 up to the 1960s. Under the control of Charles Wisdom Hely (1856-1929) Hely&#39;s printworks were imortalised in James Joyce&#39;s Ulysses. In 1916 Helys was performing a balancing act between entertaining Irish nationalists and the British military authorities. After printing several recruitment posters for the British the company were warned to cease printing &#34;British propaganda&#34;. Shortly after the printers would produce a commemorative booklet “The ‘Sinn Fein’ Revolt, Illustrated” (1916) along with a series of postcards documenting the destruction of the GPO during Easter Week.
+
+Patrick Carey (1853-1934) was the Union Clerk for the Killarney Poor Law Board of Guardians. Poor law unions and their workhouses were established by the Poor Law (Ireland) Act, 1838, as a response to widespread poverty, and were each governed by a Board of Guardians. This letter comes from the Killarney Poor Law Board of Guardians Minute Book.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry Library, Tralee</repository>
+                  <collection>Killarney Poor Law Board of Guardians BG104/B/4</collection>
+                  <idno>https://letters1916.ie/item/4121</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1557">Patrick Carey</persName>
+              <date>1915-12-03</date>
+              <placeName key="#letters1916_place-1721">Killarney, Co. Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Messrs Helys Ltd.</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1869">Dame Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1934</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4121_img_3497_1"  type="Letter"  url="ebfa010fd03e8d1740d7316ba3e4949c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4121_img_3497_1"/>
+             3rd Decr. 1915   Gentlemen,   Kindly let me <seg type="del">hav</seg> know if you have <lb/>cases for the "Sykeh" Cabinet, <sic>tioo</sic> hold the <lb/>contents of the files when filled.   Yours faithfully,  <lb/>Clerk of Council.  Messrs Helys Ltd, <lb/>Dame St, <lb/>Dublin, 
+         </ab>
+      </body>
+   </text>
+</TEI>

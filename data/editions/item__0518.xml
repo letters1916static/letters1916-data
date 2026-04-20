@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0518">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Copies of letters from Gavan Duffy and Mary Boyle O'Reilly to Mrs Dryhurst, 6 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Gavan Duffy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Copy of a reply letter from George Gavan Duffy (1882-1951) to Mrs. Dryhurst, 11 Devonshire Hill, Hampstead. The document contains a further copy of an enclosure that Dryhurst had originally sent to Gavan Duffy, of a letter from Mary Boyle O’Reilly, a journalist, to Mrs. Dryhurst. In this letter, O’Reilly states that an American journalist who was told of the existence of Sir Roger Casement’s (1864–1916) diaries was not actually shown them. Gavan Duffy, in his reply, tells Mrs Dryhurst to ignore the allegations presumably alluded to in the enclosure.George Gavan Duffy was an Irish politician, barrister and judge. He unsuccessfully defended Roger Casement at his trial for high treason after the Easter Rising. Sir Roger Casement was a humanitarian and Irish Nationalist. Casement believed that an Irish insurrection would be crushed unless it received substantial assistance from Germany, and when it became clear that adequate help would not be forthcoming he travelled to Ireland by submarine. Casement landed and was arrested at Banna Strand, County Kerry on Good Friday 1916. He was tried in the Old Bailey for treason and subsequently executed by hanging at Pentonville Prison on 3 August 1916. Casement&#39;s so-called &#39;Black Diaries&#39; contained explicit material about his personal life and were used to undermine his defence.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>George Gavan Duffy Papers, P152/6</collection>
+                  <idno>https://letters1916.ie/item/518</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0255">Gavan Duffy</persName>
+              <date>1916-07-06</date>
+              <placeName key="#letters1916_place-0552">London, UK</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mrs Dryhurst</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0518_img_189_1"  type="Letter"  url="c183c341cabc7dceef4fcb19279e3267.jpg"/>
+      <graphic xml:id="L1916_0518_img_189_2"  type="Letter"  url="c183c341cabc7dceef4fcb19279e3267.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0518_img_189_1"/>
+              From G. Gavan Duffy    Mrs. Dryhurst,  Devonshire Hill,  Hampstead    6 July 1916   Dear Mrs D.   Thanks for letter and enclosures.  If I were you, I would not pay the <lb/> smallest attention to this kind of rubbish, and <lb/> why on earth anyone should try to see the alleged <lb/> document, I cannot imagine, as the publishers are <lb/> already discredited, and it has nothing to <lb/> do with the matter in question.  <seg type="closer"> Yrs very sincerely  <hi rend="underline">G</hi>.G.D. </seg> 
+            <pb n="2" facs="L1916_0518_img_189_2"/>
+                Imperial Hotel  London W. C.    6 July 1916   Dear Mrs. Dryhurst,   Your note of the 4 <hi rend="superscript">th</hi> has just reached me in which <lb/> you ask 'if I could put you in direct touch with any <lb/> American journalists who saw the alleged diaries! <lb/> The American journalist who mentioned their existence to <lb/> me probably by way of friendly warning, said, is <lb/> I think I told you, that he and others were told <lb/> of their existence, not shown them He added few details   ... <seg type="closer"> Believe me. Faithfully yours   Mary Boyle O'Reilly (journalist) </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

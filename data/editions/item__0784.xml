@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0784">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Wilfrid Spender to his wife Lady Lillian Spender, 4 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Bliss Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Sir Wilfrid Bliss Spender (1876-1960) to his wife, Lady Lillian Spender, née Dean, (1880-1968). In this letter Spender expresses his longing to receive a letter from Lillian. He briefly mentions his current workload and advises Lillian to &#39;read between the lines&#39; of his letters.Sir Wilfrid Spender was a member of the British Army until 1913 when controversy surrounding his signature of the Ulster Solemn League and Covenant resulted in his resignation. Spender was called up for military service in 1914 and from 1915 served in the 36th (Ulster) Division. Throughout the war, Spender wrote a collection of letters to his wife Lady Lillian Spender. The letters date mainly from 1915 to 1918, when Sir Wilfrid was serving in France. The letters concern politics, the Irish question, personal life, and Wilfrid&#39;s experience of the Great War. Lady Lillian served in the Ulster Volunteer Nursing Corps during the war, and was an organiser of the Ulster Division Comforts Fund.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Lady Spender&#39;s Correspondence, D1633/1/1/374</collection>
+                  <idno>https://letters1916.ie/item/784</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0931">Wilfrid Bliss Spender</persName>
+              <date>1916-08-04</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lillian Spender</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0784_img_2320_1"  type="NULL"  url="10b960d1e8c2f19f53e70cf15bb3e01f.jpg"/>
+      <graphic xml:id="L1916_0784_img_2320_2"  type="NULL"  url="e26f1429f5ee5a9265f65adf9b2d607f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0784_img_2320_1"/>
+                Aug 4   My pr   No letter for 3 days or 4 now <lb/>poor bw. but he knows <lb/>you have written &amp; hopes <lb/>for a big haul tonight.  Today <seg type="unclear">blimp finding</seg> &amp; my <lb/>eyes a bit tired I won't <lb/>write just now but hope <lb/>to do so properly later.   I have quite a lot of work <lb/>in hand just as much <lb/>as I can do and it is <lb/>not made easier by <lb/>having 4 different masters <lb/>- not to mention the BP &amp;  
+            <pb n="2" facs="L1916_0784_img_2320_2"/>
+              others at home - so that <lb/>whilst I say to much <lb/>for one man's likes, I may <lb/>reach too little for the <lb/>other.  You must read <lb/>between the lines for tho' <lb/>nothing untrue is willingly <lb/><seg type="unclear">suspected</seg> the lights thrown <lb/>on difficult subjects vary <lb/>very particularly.   I had a very difficult job <lb/>in getting <seg type="unclear">Myridge</seg>, then sec <lb/>to the CGS, to hand over his <lb/>job of the dispatches to myself <lb/>after he had already written <lb/>it. <seg type="closer"> Your bw <lb/> WB Spender </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

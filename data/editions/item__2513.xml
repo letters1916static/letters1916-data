@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2513">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Philip C. MacDermot, 27 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Philip C. MacDermot</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Philip MacDermot (b. 1863), the crown solicitor for County Roscommon. 
+
+This letter refers to a case of cattle driving off of the Mather’s Lands in Ballinasloe, County Galway. According to a telegram received by MacDermot from the district Inspector twenty-three of those who participated in the cattle drive have been arrested and the remaining participants could not be located. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-5620-13077-8</collection>
+                  <idno>https://letters1916.ie/item/2513</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1081">Philip C. MacDermot</persName>
+              <date>1916-07-27</date>
+              <placeName key="#letters1916_place-0885">Boyle, County Roscommon, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2513_img_1946_1"  type="Letter"  url="deff1f55703bf64cc46eb09b5f73f75c.jpg"/>
+      <graphic xml:id="L1916_2513_img_1946_2"  type="Letter"  url="c81ba07f390bef0e4f95562758afb8ed.jpg"/>
+      <graphic xml:id="L1916_2513_img_1946_3"  type="Letter"  url="850213a30ca95174da659ca65e8558d2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2513_img_1946_1"/>
+             ROCKMOUNT, <lb/>BOYLE.   July 27, 1916   Ballinasloe Crimes Act Cases <lb/>Cattle driving off Mathers <lb/>lands   Dear Sir   After office hours <lb/>this evening I got a telegram <lb/>from the District Inspector <lb/>R.I.C stating that 23 <lb/>of the <sic>def<hi rend="superscript">ts</hi>.</sic> have been <lb/>arrested, the remaining <lb/><sic>de<hi rend="superscript">ft</hi></sic> could not be found. 
+            <pb n="2" facs="L1916_2513_img_1946_2"/>
+             ROCKMOUNT,<lb/>BOYLE.  <lb/><seg type="unclear">RE</seg>  The Def<hi rend="superscript">t</hi>.who is<lb/>not arrested. (Harvey)<lb/>is not an important<lb/>def<hi rend="superscript">t</hi>, in fact he is<lb/>a former   from the<lb/>town of Ballinasloe<lb/>&amp; how he came to be<lb/>at the cattle drive   
+            <pb n="3" facs="L1916_2513_img_1946_3"/>
+             Saturday. So if<lb/>writing   to me<lb/>to Haydens Hotel<lb/>Ballinasloe.   If Dep<hi rend="superscript">ts</hi>.   Counsel<lb/>perhaps the Attorney<lb/>General may consider<lb/>engaging Counsel for the<lb/>Crown but I am not<lb/>asking for this unless<lb/>you &amp; The Attorney General<lb/>consider it advisable.      Yours faithfully       Philip C. MacDermot      
+         </ab>
+      </body>
+   </text>
+</TEI>

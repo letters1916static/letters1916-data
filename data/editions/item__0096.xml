@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0096">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James P. Farrell et al. to Augustine Birrell, 7 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James P. Farrell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from James P. Farrell M.P for North Longford, Thomas Francis Smyth M.P. for South Leitrim, Francis Meehan M.P. for North Leitrim, Patrick Crumley M.P. for South Fermanagh and John Phillips M.P. for South Longford written on 7 April 1916. They are addressing Augustine Birrell (1850-1933), chief secretary for Ireland. The five MPs are appealing for Birrell to appoint a Mr Thomas W. Delaney to the office of chief Crown solicitor of Ireland. The position had become vacant following the sudden death of Sir Malachy Kelly on 25 March 1916. They claim that Delaney &#39;is best entitled to the office&#39;.Augustine Birrell served as the Chief Secretary of Ireland from 1907 to 1916. Birrell was a liberal politician praised for his reforms of the Irish educational system. The Easter Rising caught him unawares, occupied in London, there was little he could do. A later inquiry into the Rising held Birrell chiefly responsible for the events that occurred. Birrell offered his resignation on May 1.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/6258/2</collection>
+                  <idno>https://letters1916.ie/item/96</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1312">James P. Farrell</persName>
+              <date>1916-04-07</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0534">Augustine Birrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0096_img_1178_1"  type="Letter"  url="c1c60297fff9363a7cf0adeb75e5fe27.jpg"/>
+      <graphic xml:id="L1916_0096_img_1178_2"  type="Letter"  url="3bd055731004f24fd5e93a9e918cc01d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0096_img_1178_1"/>
+                April 7. 1916    To the Right Hon A Birrell M.P.  Chief Secretary for Ireland.   Dear Mr Birrell   We the undersigned members of <lb/> Parliament respectfully appeal to you <lb/> to appoint Mr Thomas W. Delaney<lb/> Crown Solicitor of Longford to the vacant <lb/> office of  Chief  Crown Solicitor of Ireland vacant <lb/> by the death of Sir Malachy Kelly. <lb/> We support Mr Delanys application <lb/> solely on the question of merit. He is <lb/> well known in the midlands of Ireland <lb/> to be a solicitor of Commanding ability <lb/> and force of character. He is well  
+            <pb n="2" facs="L1916_0096_img_1178_2"/>
+              known as a public man in Co.and <lb/> district councils and has rendered inestimable <lb/> service to the cause of recruiting in Ireland. <lb/> We therefore urge by claims on the <lb/> ground of personal merit and public service <lb/> &amp; on these grounds we believe he as <lb/> a Crown solicitor with practical knowledge <lb/> of the work is best entitled to the office <seg type="closer"> Signed  James P. Farrell M.P. North Longford <lb/> Thos. F. Smyth M.P. South Leitrim <lb/> Francis E. Meehan M.P. N Leitrim <lb/> P Crumley M.P. S Fermanagh <lb/> John Phillips M.P. S Longford </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

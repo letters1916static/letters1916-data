@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3686">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Archibald Fenner Brockway to Hanna Sheehy Skeffington, 12 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Archibald Fenner Brockway</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Archibald Fenner Brockway (1888-1988) to Hanna Sheehy Skeffington (1877-1946) offering sympathy sympathy in regards to the murder of Hanna&#39;s husband, Francis Sheehy-Skeffington (1878-1916).
+
+Archibald Fenner Brockway was the editor of the Labor Leader, a British socialist newspaper. He was also a pacifist and therefore opposed to both conscription and participation in the First World War.
+
+Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the founder of the Irish Women’s Franchise League and a founding member of the Irish Women Workers’ Union. She was the widow of Francis Sheehy-Skeffington who was summarily executed on 26 April 1916. She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy-Skeffington Papers, Collection List No.47; MS 33,605/2-11</collection>
+                  <idno>https://letters1916.ie/item/3686</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1027">Archibald Fenner Brockway</persName>
+              <date>1916-05-12</date>
+              <placeName key="#letters1916_place-1634">30 Blackfriars Street, Manchester, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0009">11 Grosvenor Place, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1988</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3686_img_3079_1"  type="Letter"  url="b80ffac7e5f56315f12bdb99ecef12a8.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3686_img_3079_1"/>
+            <!-- Official Letterhead --> The Labour Leader<lb/><hi rend="underline">The OFFICIAL ORGAN of the INDEPENDENT LABOUR PARTY</hi><lb/>Telephone 5206 &amp; 5207 City Telegrams: Democracy, Manchester  <lb/> EDITORIAL DEPARTMENT<lb/>30 Blackfriars Street<lb/>Manchester    <!-- Letterhead Ends --> May 12 1916.    Mrs <sic>Sheey</sic>Skeffington,<lb/>11, Grosvenor Place,<lb/>DUBLIN. <lb/><lb/> Dear Mrs Skeffington,   I just want to say how<lb/>deeply I sympathise with you in the loss of<lb/>your brave husband. Your only consolation<lb/>can be the certainty that his courageous death<lb/>has borne noble witness to his Pacifist faith.  <lb/> Very sincerely yours, <lb/>Archibald Brockway.<lb/>The Editor.    
+         </ab>
+      </body>
+   </text>
+</TEI>

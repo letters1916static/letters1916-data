@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0478">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Pat S. Higgins to the Under-Secretary, 13 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick S. Higgins</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Patrick S. Higgins, Acting Town Clerk, Waterford, to Sir Robert Chalmers (1858-1938), Under-Secretary for Ireland, submitting an application for the reimbursement of court expenses incurred by the Corporation for the year to 31 March 1916.Sir Robert Chalmers was appointed Under-Secretary of Ireland in 1916, replacing Sir Matthew Nathan (1862-1939) in the aftermath of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5620/12088</collection>
+                  <idno>https://letters1916.ie/item/478</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1162">Patrick S. Higgins</persName>
+              <date>1916-07-13</date>
+              <placeName key="#letters1916_place-1014">Town Clerk&#39;s Office, Town Hall, Waterford, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0478_img_1837_1"  type="Letter"  url="3f5f5e58864765c4c0341327925eeb63.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0478_img_1837_1"/>
+                Town Clerks Office  Town Hall  Waterford    13th July, 1916   Sir,   I beg to forward, for the purpose of <lb/>recoupment, the accompanying Statement showing the <lb/>amounts advanced by the Corporation during the <lb/>financial year ended the 31 st March, 1916, in respect <lb/>of expenses of Prosecutors and Witnesses, together <lb/>with Petty Sessions Certificates, Paying Orders <lb/>issued by the Cerk of the Crown and Peace and the <lb/>certificates of the Crown Solicitor.  I am to request you to be good enough to <lb/>return me the documents when no longer <sic>requrred</sic> and <lb/>to acknowledge their receipt. <seg type="closer"> I am, <lb/>Sir, <lb/>Your obedient Servant,  Pat S Higgins <lb/>Acting Town Clerk.   The Under Secretary,  The Castle, DUBLIN.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

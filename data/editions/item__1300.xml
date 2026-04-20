@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1300">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Joseph Delaney to Alice Stopford Green, 29 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Joseph Delaney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Joseph Delaney to Alice Stopford Green (1847-1929). It was sent from Maryborough (now Portlaoise) in Queen&#39;s County (now Laois). A campaign was launched featuring many prominent figures such as W.B. Yeats and George Bernard Shaw to secure a reprieve for Casement but he was hanged on 3 August 1916. Delaney was a supporter of the campaign and the letter refers to signatures for a petition.Alice Stopford Green was an Irish historian and nationalist. While not a supporter of armed rebellion, her house provided a space for leading nationalists to meet. Stopford Green had collaborated with Roger Casement on Congo Reform and, after the Easter Rising in 1916, she tried to save him from execution</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casement Papers, List no. A15, Ms. 13,088 /9</collection>
+                  <idno>https://letters1916.ie/item/1300</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1481">Joseph Delaney</persName>
+              <date>1916-07-29</date>
+              <placeName key="#letters1916_place-0572">Greenview, The Ridge, Maryborough, Queen&#39;s County.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0989">Alice Stopford Green</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1300_img_519_1"  type="Letter"  url="26078b24b5ffbe9314e13252fa77b3af.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1300_img_519_1"/>
+                Greenview,  The Ridge,  Maryboro,  Queens Co    July 29<hi rend="superscript">th</hi> 16   Mrs.Stopford Green  Dear Madam   I enclose you the <lb/> petition signed by <lb/> 15 ratepayers and <lb/> myself, and I wish <lb/> the cause every success <lb/> as I am sure everyone <lb/> in Ireland and America <lb/> does today. <seg type="closer"> Faithfully Yours  Joseph Delaney. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

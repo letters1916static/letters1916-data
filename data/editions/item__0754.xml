@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0754">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Wilfrid Spender to his wife Lady Lillian Spender, 2 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>In this letter from Wilfrid Spender to his wife, Lillian, Spender gives a detailed account of a recent battle. He also expresses anxiety that his brother Rex will soon come out to the trenches. This letter is part of a series of correspondence from Sir Wilfrid Bliss Spender to his wife Lady Lillian Spender, née Dean, (1880-1968). The letters date mainly from 1915 to 1918, when Sir Wilfrid was serving in France. The letters concern politics, the Irish question, personal life, and Wilfrid&#39;s experience of the Great War.Sir Wilfrid Spender (1876 - 1960) was a member of the British Army until 1913 when controversy surrounding his signature of the Ulster Solemn League and Covenant resulted in his resignation. Spender was called up for military service in 1914 and from 1915 served in the 36th (Ulster) Division. Throughout the war, Spender remained in contact with the Ulster Unionist leadership, and consistently opposed Home Rule and the six-county solution.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Lady Spender&#39;s Correspondence, D1633/1/1/331</collection>
+                  <idno>https://letters1916.ie/item/754</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0667">Wilfrid Spender</persName>
+              <date>1916-07-02</date>
+              <placeName key="#letters1916_place-0769">France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lillian Spender</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0754_img_2283_1"  type="NULL"  url="64b5bd7b47a1b6daae105b49123e47e9.jpg"/>
+      <graphic xml:id="L1916_0754_img_2283_2"  type="NULL"  url="5a2a59ef85eec66378c3847dd146ba36.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0754_img_2283_1"/>
+                July2.   My pr   I want all our folk to <lb/> work their hardest for our men <lb/> -the thousands of brave wounded.- <lb/> Our divisions broke right through <lb/> the enemy lines in a way which <lb/> I believe no other troops have ever <lb/> done before <seg type="del">what</seg> like our men have <lb/> done. The enemy in our front <lb/> were completely beaten. Then the <lb/> disaster happened. The divisions on <lb/> our flanks did not get up &amp; we <lb/> were in a trap pounded on the right <lb/> by way form of shell.   
+            <pb n="2" facs="L1916_0754_img_2283_2"/>
+              I saw men going up with water <lb/> with shell all round, &amp; deeds of <lb/> heroism with wounded. <lb/> We return to our former <lb/> position to the right but there is <lb/> no making good our men.   I got no shell except some lachrymatory which gave me <lb/> a head-not yet gone-&amp;  made <lb/> my eyes smart. A few shrapnel <lb/> burst harmlessly over head, but <lb/> I would gladly have worn some <lb/> risks to have saved our men if I could.  <cb/> I'm afraid Rex will come <lb/> out now to add to my <lb/> anxieties. Someday we will, <lb/> please heaven, go to Begley <lb/> together. <lb/> Must end  <seg type="closer"> Your BW  WB Spender </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

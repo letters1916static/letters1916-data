@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2225">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Father E.F. Murnane to Margaret Gavan Duffy, 4 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward F. Murnane</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Father E.F. Murnane, The Presbytery, Dockhead, Bermondsey, to Margaret Gavan Duffy, in which he says that God will bless her forall the work she is doing for Casement (‘the dear soul’). States that he has been given permission by the Cardinal to deal with Casement and has requested to visit him daily on spiritual matters.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>George Gavan Duffy Papers P152/4</collection>
+                  <idno>https://letters1916.ie/item/2225</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1398">Edward F. Murnane</persName>
+              <date>1916-07-04</date>
+              <placeName key="#letters1916_place-0552">London, UK</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Margaret Gavan Duffy</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2225_img_167_1"  type="Letter"  url="05b4f32a49c9424e24b337241b75581c.jpg"/>
+      <graphic xml:id="L1916_2225_img_167_2"  type="Letter"  url="917db416e31d6a263fff3bb7720f200a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2225_img_167_1"/>
+            <lb/> P152/4   The Presbytery,<lb/> Dockhead,<lb/> Bermondsey, S. E.   July 4. 1916   My dear Child   God will bless you<lb/> and yours for all you are<lb/> doing for this dear Soul. The<lb/> Cardinal sent for me last<lb/> Evening and gave me full<lb/> faculties to deal with Sir<lb/> Roger. So I wrote to Fr Carey<lb/> last night to get Sir Roger<lb/> to ask for permission for me<lb/> to see him alone on spiritual<lb/> matters as often as is necessary.<lb/> I mean to see him daily<lb/> As soon as the permission comes all will be well.<lb/> And bless God who has<lb/> chosen you to be his Instrument<lb/> in bringing peace to this dear
+            <pb n="2" facs="L1916_2225_img_167_2"/>
+            soul and joy to the<lb/> millions who are praying<lb/> for him, all over the<lb/> world. And Gavan has<lb/> done his share well. And<lb/> pray for me that I may<lb/> do my share faithfully<lb/> and well. Your disappointing<lb/> visit was the Cross to<lb/> sanctify the work.<lb/> With an affectionate<lb/> and grateful blessing<lb/> to you, Gavan &amp; the Children.<lb/>   Ever yours Sincerely  <lb/>E.F. Murnane
+         </ab>
+      </body>
+   </text>
+</TEI>

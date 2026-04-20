@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0137">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Patrick Farrell to Augustine Birrell, 27 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Patrick Farrell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from the desk of the North Longford MP James Patrick Farrell (1865-1921) to that of Chief Secretary of Ireland Augustine Birrell (1850-1933). Farrell is writing the letter with the intended purpose of giving his backing to Mr Thomas Delany (1868-1939) and his application to become the new chief crown solicitor of Ireland, following the sudden death of Sir Malachy Kelly (1851-1916). Mr Delany, the crown solicitor for Longford, was Farrell&#39;s first preference for the position and he attempted to convince Birrell of this in the letter.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/6258/7</collection>
+                  <idno>https://letters1916.ie/item/137</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0110">James Patrick Farrell</persName>
+              <date>1916-03-27</date>
+              <placeName key="#letters1916_place-0610">Longford, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0534">Augustine Birrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0137_img_1248_1"  type="Letter"  url="c3df7bac1cc0615be183ad4691942e99.jpg"/>
+      <graphic xml:id="L1916_0137_img_1248_2"  type="Letter"  url="52c1b0bb65ef4a16e4a1b4d126f8ba05.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0137_img_1248_1"/>
+                Longford    March, 27th. 1916    To The Right Hon. Augustine Birrell, M.P. Chief Secretsry for Ireland.  Dear Mr. Birrell-:   You will remember on one occasion <lb/>some three years ago when I had the honour of introduc- <lb/>ing to you in London Mr. Thomas W. Delany, Crown <lb/>Solicitor for the County of Longford, who was then <lb/>seeking the position of Under Secretary for Ireland. A <lb/>position however has now become vacant by the death of <lb/>Sir. Malachy Kelly which would far more suit Mr. Delany <lb/>and I understand that he is making application for it <lb/>to-day. I need not enumerate the many public positions <lb/>which Mr. Delany occupies here, in all of which by his <lb/>ability and tact he is conferring inestimable services <lb/>on the <seg type="del"> public affairs </seg> people of this County. If I were in your <lb/>great position, I would be glad to secure the services of <lb/>such a man as Mr. Delany, and with the greatest <lb/>confidence I appeal  to  you to see that before the appoint- <lb/>ment is made. due regard is had to the ability, industry <lb/>and influence of Mr. Delany.   
+            <pb n="2" facs="L1916_0137_img_1248_2"/>
+              I may mention that since the War broke out, he has <lb/>done most valuable work here for Recruiting. In fact <lb/>I doubt if the results of the appeals for men to fill <lb/>the gaps of Irish Regiments. shown in County Longford, <lb/>would have been anything equal to what they are were <lb/>it not for his great services.   Your department has now an opportunity <lb/>of recognising those services and I sincerely hope <lb/>you will avail of it.  <seg type="closer">  Faithfully yours,  James P. Farrell  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

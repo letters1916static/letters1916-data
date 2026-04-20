@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0832">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard to Patrick O'Shea, 20 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This postcard addressed to Patrick O&#39;Shea while interned in Frongoch Prison, Wales. The letter gives news of Patrick&#39;s mother and another person. The author, who signs off as Seán, briefly refers to plans to celebrate Patrick&#39;s arrival home and expresses anticipation at &#39;the glad tidings of your home-coming&#39;. The picture on the reverse side of the postcard depicts the main street of Fermoy, County Cork.From the letter it is clear that both men were interned in Frongoch for an unspecified amount of time. Frongoch was a makeshift prison in Wales which detained approximately 1800 Irish prisoners following the 1916 Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, IE/AL/1916/74</collection>
+                  <idno>https://letters1916.ie/item/832</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-07-20</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Patrick O&#39;Shea</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1667">Frongoch Prison, North Wales</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0832_img_2383_1"  type="Letter"  url="17759f3d64800b6aa714967bee337089.jpg"/>
+      <graphic xml:id="L1916_0832_img_2383_2"  type="Letter"  url="17759f3d64800b6aa714967bee337089.jpg"/>
+      <graphic xml:id="L1916_0832_img_2383_3"  type="Letter"  url="510e44ad6c53137db6b5878bec7d2d8c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0832_img_2383_1"/>
+                 20.7.16   A Padraig <seg type="foreign">A Chara</seg>   The Mother &amp; A are fine &amp; in the best of good <lb/> Spirits. I was in to see them &amp; I passing <lb/> &amp; see them every day since. They are looking <lb/> forward now every day for the glad tidings <lb/> of your home-coming. I didn't expect my <lb/>turn was on the tape first. Thurs morn <lb/> 38 of us came from Cork Co. including S.O' Dea <lb/> &amp; the Charleville men. You may be expecting <lb/> a hearty reception should you land at the <lb/> N.Wall. The Cailini didn't know what to do <lb/> for us, though it being only 6.<hi rend="superscript">oc</hi> since they were <lb/> there like <hi rend="underline">One Man.</hi> You can wire form <lb/> Station House at Frongoch all of us done <lb/> so. Got permission. The Business is alright <lb/> Sam was in good form since, &amp; everything <lb/> else as you would wish it .  <seg type="closer"> Le meas,  <hi rend="underline">SeÃ¡n ig.</hi> </seg>  
+            <pb n="2" facs="L1916_0832_img_2383_2"/>
+               <name>Mr Patrick O'Shea</name>  Irish Prisoner of War  Frongoch Camp,  (North) <hi rend="underline">North Wales</hi>     
+            <pb n="3" facs="L1916_0832_img_2383_3"/>
+               Main Street from W., Fermoy   
+         </ab>
+      </body>
+   </text>
+</TEI>

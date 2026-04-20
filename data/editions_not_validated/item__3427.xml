@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3427">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from Katie Keevey to Hanna Sheehy Skeffington, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Katie Keevey</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Katie Keevey writes to Hanna Sheehy Skeffington (1877 - 1946) about a declined invitation, and suggests asking a fellow attendee if they can sit at her table. 
+
+Hanna Sheehy Skeffington suffragette, nationalist, language teacher, was the widow of Francis Sheehy-Skeffington (who was summarily executed on 26 April 1916). She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47; MS 33,604/15-9</collection>
+                  <idno>https://letters1916.ie/item/3427</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0190">Katie Keevey</persName>
+              <date>1916</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3427_img_2838_1"  type="Letter"  url="561645a920c6ee93c4dfa5bdea90e050.jpg"/>
+      <graphic xml:id="L1916_3427_img_2838_2"  type="Letter"  url="951e5d2ed44bf7d20cb70f7f8a0bf147.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3427_img_2838_1"/>
+            Mrs <hi rend="underline">Sheehy Skeffington</hi>  1916   Dear Mrs. S.   I see a card <lb/>from M<hi rend="superscript">rs</hi> L. saying <lb/>she can't come on <lb/Sat. better ask <lb/>Miss <seg type="unclear">Laghan</seg> <lb/>for her table <lb/>when asking <lb/for chairs. <lb/>Leaving this <lb/>card fearful <lb/>I wouldn't <lb/>seem tonight   Mrs Katie Keevey 
+            <pb n="2" facs="L1916_3427_img_2838_2"/>
+            
+         </ab>
+      </body>
+   </text>
+</TEI>

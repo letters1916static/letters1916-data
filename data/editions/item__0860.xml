@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0860">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from St John Ervine to Thomas Nally, 14 Jan. 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>St John Ervine</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This postcard was sent from St John Ervine (1883-1971) to Thomas Nally (1869-1932). The postcard concerns the naming of the characters in Nally&#39;s play, the Spancel of Death.Thomas Nally was an Irish playwright and colleague of WB Yeats. His work, the Spancel of Death, was due to open on Easter Tuesday 1916, the play was cancelled due to the Easter Rising. St John Greer Ervine was an Irish dramatist from Belfast. He served as manager of the Abbey theatre from 1915 to 1916. Despite his revulsion at the executions of Francis Sheehy Skeffington and Sir Roger Casement in 1916, Ervine enlisted with the Royal Dublin Fusiliers in October 1916. Ervine was badly wounded in the Great War, losing a leg in 1918.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Thomas Nally Papers, 213/4</collection>
+                  <idno>https://letters1916.ie/item/860</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0061">St John Ervine</persName>
+              <date>1916-01-14</date>
+              <placeName key="#letters1916_place-1898">Abbey Theatre, Dublin 1</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1110">Thomas Nally</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1604">Sandymount, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0860_img_242_1"  type="Letter"  url="0bdd55836613a43110ba660635380f85.jpg"/>
+      <graphic xml:id="L1916_0860_img_242_2"  type="Letter"  url="1acbeb6814b3b6362f83cc00f909b2a8.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0860_img_242_1"/>
+                 T.H. Nally.Esq.  Gilford Lodge  Gilford Rd  Sandy<hi rend="underline">mount</hi>    Roof. (Lyal's <seg type="unclear">play</seg> in page 63)   
+            <pb n="2" facs="L1916_0860_img_242_2"/>
+                 14/1/16    I've just heard from Yeats<lb/> about your letter of the<lb/> 10<hi rend="superscript">th</hi> &amp; in view of what<lb/> you say it won't be<lb/> necessary to change the<lb/> names of your characters. <seg type="closer"> St John <hi rend="underline">Ervine</hi> </seg>  
+         </ab>
+      </body>
+   </text>
+</TEI>

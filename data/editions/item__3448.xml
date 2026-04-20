@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3448">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Brigid Flood to Hanna Sheehy Skeffington, 11 February 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Brigid Flood</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>In this letter Brigid Flood writes to Hanna Sheehy Skeffington (1877 - 1946) in order to secure a copy of &#34;The Great Scourge and How to End It&#34; by Christable Pankhurst for a friend. Flood also requests a list of books in the League&#39;s library as it is difficult to keep up to date with suffrage activities down in Longford. In this case the League refers to the Irish Women&#39;s Franchise League founded in 1908 to express a public manifestation of women’s discontent and radical feminism in Ireland under the leadership of Hanna and Francis Sheehy-Skeffington and Margaret Cousins.
+
+The book which Flood has requested was written by Pankhurst (1880 - 1958) and outlined how, in a male-dominated society, where women were kept in a state of subservience and economic dependence, the social evil of prostitution was the fruit of women&#39;s slavery. 
+
+Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the widow of Francis Sheehy-Skeffington (who was summarily executed on 26 April 1916). She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47; MS 33,604/16-11</collection>
+                  <idno>https://letters1916.ie/item/3448</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0084">Brigid Flood</persName>
+              <date>1916-02-11</date>
+              <placeName key="#letters1916_place-0653">Ballymahon, Co. Longford, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3448_img_2858_1"  type="Letter"  url="6474e63e83add6efebcbbb41cc9f0973.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3448_img_2858_1"/>
+             Ballymahon <lb/>Co. Longford   11<hi rend="superscript">th</hi> <seg type="del">Dec</seg> <hi rend="underline">February 1916</hi>   Dear Mrs Skeffington,   A friend having heard of <lb/>"The great scourge &amp; how to end it" - by <lb/>Christabel Pankhurst has asked me to <lb/>get it. And I would feel much obliged <lb/>if you would send it to me. I enclose <lb/>1/4 - I think that is the price with postage. <lb/>I would also be glad if you could let <lb/>me have a list of books in the <lb/>League library for sale or lending as <lb/>it is difficult to get in touch with <lb/>suffrage activities down here. If you <lb/>cannot let me have a list, please <lb/>give me short one.    Hoping you are very well &amp; with <lb/>best wishes.   Yours very sincerely   Brigid Flood   P.S. <lb/>I understand <lb/>you have not <lb/>charge of the <lb/>library but I <lb/>I don't know <lb/>who has. So <lb/>I hope I am <lb/>not inconveniencing <lb/>you in asking <lb/>you. <lb/>B. F. 
+         </ab>
+      </body>
+   </text>
+</TEI>

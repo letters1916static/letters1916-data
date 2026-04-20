@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1341">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from T. A. Quinlisk to Roger Casement, 22 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>T. A. Quinlisk</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Timothy Quinlisk (1895-1920) to Sir Roger Casement (1865-1916). Quinlisk was a member of the Irish Brigade, a brigade established by Casement from Irish prisoners in German prisoner of war camps. Quinlisk refers to events events at Zossen, Germany, from the 18 of November, and refers to men found drunk and punished for the offence. He had previously been put on trial with Dowling and others for an offence related to money. Despite being officers in the Irish Brigade, the men were tried as prisoners of war and this prompted angry exchanges between Casement and the Germans. Quinlisk complains that since he returned to the camp he has had his pass removed even though his only crime was the one he had previously been punished for. He also expresses his desire to go to Egypt.This letter is taken from a collection of letters, poems, articles and other documents of Roger Casement and his family covering his career in the British Diplomatic Service as well as his activities in the Irish Revolutionary movement, 1889-1945. Quinlisk was executed by the Cork IRA in 1920. He had sent a letter to the British under-secretary offering information about Michael Collins and the IRA in return for a £10,000 reward and the letter was intercepted.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sir Roger Casement Papers, Collection List no. A15, Ms. 13,085/24</collection>
+                  <idno>https://letters1916.ie/item/1341</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0753">T. A. Quinlisk</persName>
+              <date>1915-11-22</date>
+              <placeName key="#letters1916_place-0605">Zossen, Germany</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1253">Roger Casement</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1341_img_679_1"  type="Letter"  url="6f2cb9da4c0bcdf8c03e6a2e9fdbb33b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1341_img_679_1"/>
+              <hi rend="underline">R. at Berlin</hi><lb/><hi rend="underline">23 Nov 1915</hi>    22-11-'15   The <sic>Honble</sic> Sir Roger Casement. <lb/>Sir,   As senior here at present, I take <lb/> the liberty of writing you, an account of what <lb/> has happened since the 18<hi rend="superscript">th</hi> of month. Men <lb/> have been absent, and found drunk in <lb/> Zossen, and this morning five men were <lb/> punished with arrest. Since I and Dowling <lb/> rejoined the Corp we have assisted the Underofficer <lb/> in every way, but notwithstanding the fact <lb/> that the only crime against us was the <lb/> one for which we were punished, the <lb/> Oberleutnant has most unfairly deprived <lb/> us of our passes. Sir, I wish to God <lb/> we could go at once to Egypt. I have <lb/> heard from Kehoe, he says he is sure <lb/> of at least thirty men, I hope he will <lb/> get them and that they will be as <lb/> good as our last arrival, Wilson. <lb/>Hoping, Sir, you are in good health <seg type="closer"> I remain yours obediently &amp; respectfully <lb/> TA. Quinlisk, <hi rend="underline">Coms</hi>. <lb/>P.S. Can Pte. Dooley's statement in American <lb/> newspapers not be refuted. This Dooley was <lb/> in my Regiment and Coy. and is a <lb/>notable blackguard, always in the Guard-room <lb/>T.A.Quinlisk </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0290">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Phillip Miles to Robert Chalmers, 13 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Phillip Miles</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from William Phillip Miles (b. 1878) to Robert Chalmers. In the letter Miles notes a forthcoming re-arrangement of staff in the Dublin administration offices. He goes on to apply for any position which may be suitable for a man with a special education for figures. Miles also provides a brief description of himself, stating that he is working for the Earl of Dudley, William Humble Ward (1867-1932). Miles states he is unsuitable for military duty due to a slight lameness. Sir Robert Chalmers (1858 - 1938) was sent to Ireland as replacement under-secretary for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>National Archive of Ireland-Chief Secretary&#39;s Office-Registered Papers, NAI/CSO/RP/1916/5611/8356/2</collection>
+                  <idno>https://letters1916.ie/item/290</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0118">William Phillip Miles</persName>
+              <date>1916-05-13</date>
+              <placeName key="#letters1916_place-0355">183 Henwick Road, Worcester, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0890">Dublin Castle</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0290_img_1493_1"  type="Letter"  url="3efad5ffb304f5816839ee945a7dbe67.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0290_img_1493_1"/>
+              Ackn <seg type="unclear">&amp; state</seg> that<lb/> no <seg type="unclear">rearragts</seg> are in contemplation<lb/> which would be likely to meet his case    183. Henwick Road  Worcester, England.    13th. May, 1916.    Sir Robert Chalmers,  Dublin Castle.   Sir,   During the forthcoming re-arrangement of the staffs<lb/> of the Administrative Offices of the Irish Government<lb/> Departments, may I most respectfully request that the following<lb/> application for appointment to one of the suitable vacancies <lb/>may receive your favorable consideration.  I bet to make application for appointment to a vacancy<lb/> in any office in which a good all round clerk, with a<lb/> special qualification for figures, is required.  I am of Irish extraction, 38 years of age, married, total<lb/> abstainer, of good education &amp; appearance &amp; certified<lb/> medically unfit for military service owing to a slight<lb/> lameness.  I am in the employ of the Earl of Dudley at his<lb/> Estate Office at Great Witley, near Worcester. His Lordship would, if desired, support my application.  I shall be glad to forward testimonials &amp; to give<lb/> all necessary detailed particulars respecting myself at your<lb/> request. <seg type="closer"> I am, Sir,<lb/> Your obedient servant,  W. P. Miles. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

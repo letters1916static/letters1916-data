@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0534">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Telegram from Darrell Figgis to Mr Ryan, 10 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Darrell Figgis</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A telegram from Darrell Figgis (1882-1925) to a Mr Ryan, whom he wishes to present with a copy of his volume of poems, &#39;The Mount of Transfiguration&#39; (written in 1915).Darrell Figgis (1882-1925) was an Irish journalist, author, and member of the Irish Volunteers. In 1913 Figgis began to focus on the literary and political situations in Ireland. As a writer he published on Irish nationality. Along with Roger Casement (1864-1916) and Alice Stopford Green (1847-1929), he was involved in the importing of arms leading to the Howth gun-running incident. Following the Rising he was arrested and consequently imprisoned in England.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, IE/AL/1915/24</collection>
+                  <idno>https://letters1916.ie/item/534</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1392">Darrell Figgis</persName>
+              <date>1915-12-10</date>
+              <placeName key="#letters1916_place-0516">“Mullac na gCreagan”, Keel, Achill, County Mayo, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mr Ryan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0534_img_1912_1"  type="Letter"  url="fa720f31e1a88659dd45581cf76ec6d9.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0534_img_1912_1"/>
+                Telegrams : Darrell Figgis, Keel, Westport.  from Darrell Figgis, ...  âMullac na g-Creagan,â  Keel,.......  Achill,.....  Co. Mayo,.....  Ireland.....    10/xii 1915   Dear Mr. <hi rend="underline">Ryan</hi>   I wd. be glad if you wd. personally accept <lb/> this vol. of my poems as I know editors do not always <lb/> get to review copies sent to them â as, in truth, may have <lb/> no right at all to them, as I a reviewer say! I wonder <lb/>if I might ask that both this, &amp; my AE book (tho' this <lb/> chiefly) may have a somewhat longer review than the short <lb/> notes normally given in the Independent!  <seg type="closer"> Always <hi rend="underline">sincerely</hi>  <hi rend="underline">Darrell Figgis</hi> </seg> 21.9.49 Given by Mr. Frank Ryan â son of <lb/> the above Mr. Ryan. <seg type="unclear">Co.I.I.</seg>  
+         </ab>
+      </body>
+   </text>
+</TEI>

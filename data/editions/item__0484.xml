@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0484">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from The Chicago Ferrotype Co. to Mr H. Davis, Dublin, 4 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>The Chicago Ferrotype Co.</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A reply from The Chicago Ferrotype Co. to Mr H. [Hubert] Davis acknowledging his enquiries into the Madel-ette camera and accessories, a camera specifically designed to take photographs suitable for postcards. The letter provides quotes for the camera and instructions for the solution needed to develop the postcards. The letter also confirms that the purchaser should not have any difficulties obtaining a permit or license to use the camera.Davis likely required a licence to operate the camera due to the strict controls imposed by the Defence of the Realm Act (DORA). The DORA was passed by the UK on the 8 August 1914, giving the British government wide-reaching powers to ensure the war effort at home. Under DORA it became illegal to photograph military bases or try and get information from military personnel, and strict controls on firearms, chemicals and even film for moving pictures or photography.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI, CSORP/1916/7311/3</collection>
+                  <idno>https://letters1916.ie/item/484</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0055">The Chicago Ferrotype Co.</persName>
+              <date>1916-04-04</date>
+              <placeName key="#letters1916_place-1525">Chicago Buildings, Whitechapel, Liverpool, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0157">Hubert Davis</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0484_img_1847_1"  type="Letter"  url="fd86fd5ec097fe979f90f4a339ac3e7e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0484_img_1847_1"/>
+                'CANNONS, LIVERPOOL.'  CHICAGO BUILDINGS,  WHITECHAPEL,  LIVERPOOL, ENG.    Mr. H. Davis,  Dublin.    April 4th 1916.   Dear Sir,   We thank you for your enquiry, and herewith send <lb/> Price-List of Mandel-ette and Accessories.   You will note that the price o <seg type="del">s</seg> f  Cards is now <lb/> 3/6 per Box of 50, 1/3 per packet of 16, Mounts 2/- <lb/> per 100 and the Developer 1/3 per set to make at least <lb/> one pint of Solution.   Dissolve all the powders in a good pint of <lb/> Hot Water, and when cool, add 2 ozs of Pure Liquid <lb/> Ammonia, .880's strong.   With regard to using the Camera, you will <lb/> have no difficulty in getting a permit or licensefor this <lb/> style of Camera, and we trust to receive your further <lb/> valued orders,  <seg type="closer"> We are, dear Sir, <lb/> Yours faithfully,   THE CHICAGO FERROTYPE CO. </seg> This is the <lb/>Camera <lb/> I wish to <seg type="unclear">work</seg>.   
+         </ab>
+      </body>
+   </text>
+</TEI>

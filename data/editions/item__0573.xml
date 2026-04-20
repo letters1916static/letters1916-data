@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0573">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Telegram from Prison Warden, Frongoch, to the Chief Constable, Dublin, 4 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Prison Warden</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A telegram from the Prison Warden at Frongoch Internment Camp to the Chief Constable, Dublin. The Prison Warden advises that an escaped Irish prisoner, Daniel Davitt, has been re-arrested. Enclosed is a second telegram addressed to apm (Andrew Philip Magill (1871–1941), Private Secretary to Henry Edward Duke (1855–1939), Chief Secretary for Ireland) is a warning that careful watch should be kept and that the escapee may have assumed disguise.Frongoch Internment Camp in Wales was a makeshift prison used for the internment of approximately 1,800 Irishmen in the wake of the Easter Rising, 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5620/13549</collection>
+                  <idno>https://letters1916.ie/item/573</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0713">Prison Warden</persName>
+              <date>1916-08-04</date>
+              <placeName key="#letters1916_place-1034">Frongoch Prison Camp, Merionethshire, Wales</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Chief Constable</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0573_img_1968_1"  type="Letter"  url="4879c29c3ce86c5d63a0b67e1b9435d8.jpg"/>
+      <graphic xml:id="L1916_0573_img_1968_2"  type="Letter"  url="b03250a1b2c289bd66f64848519ad9c5.jpg"/>
+      <graphic xml:id="L1916_0573_img_1968_3"  type="Letter"  url="ebf118d31799531c2c0a0d5bb16ea13b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0573_img_1968_1"/>
+              Office of Origin and Service Instructions.<lb/> O. H. M. S.<lb/> Bala   To Chief Constable, Dublin  Reference my wire 6. 365 of 2nd unit.<lb/> Daniel Davitt escaped Irish prisoner <lb/> has now been arrested  FROM <seg type="unclear">Priswardan</seg> Frongoch  
+            <pb n="2" facs="L1916_0573_img_1968_2"/>
+              Office of Origin and Service Instructions<lb/><seg type="unclear">apms</seg> Chester  To apm (3) DUBLIN  be warned please and careful <lb/> watch kept as may have <lb/> assumed disguise since escaping addressed <lb/> apm Dublin repeated as from Kinmelpark <lb/> Manchester Liverpool Rto Holyhead Westmorland  
+            <pb n="3" facs="L1916_0573_img_1968_3"/>
+              Office of Origin and Service Instructions.<lb/>O. H. M. S.<lb/> Bala  To Chief Constable, Dublin   Reference my wire 6. 365 of 2nd inst Daniel<lb/> Davitt escaped Irish prisoner has now been<lb/> arrested  FROM <sic>Priswardan</sic> Frongoch  
+         </ab>
+      </body>
+   </text>
+</TEI>

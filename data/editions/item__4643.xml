@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4643">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas Kirkpatrick to Sir William Taylor, 5 October 1917</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Kirkpatrick</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>From 1910 until 1954 Thomas Percy Kirkpatrick (1869-1954) served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.
+
+Sir William Taylor (1871-1933) served as president of the Royal College of Surgeons from 1916 until 1918. Taylor strove to improve surgical practice and pioneered many successful techniques in abdominal surgery. During World War I, Taylor was appointed consulting surgeon to British forces in Ireland and a temporary colonel in the Royal Army Medical Corps and was active in the Dublin Castle Red Cross Hospital. As president, he urged students to join up and was invited by the War Office (1917) to form a staff for the 83rd (Dublin) General Hospital near Boulogne, France.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-13-250</collection>
+                  <idno>https://letters1916.ie/item/4643</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1453">Thomas Kirkpatrick</persName>
+              <date>1917-10-05</date>
+              <placeName key="#letters1916_place-1080">Royal College of Physicians of Ireland, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">William Taylor</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1825">Royal College of Surgeons of Ireland, St. Stephen's Green, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1954</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4643_img_3985_1"  type="Letter"  url="39e83007af699cdb0dfc463d17a20e3d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4643_img_3985_1"/>
+             5th OCTOBER 17.   Col. W.Taylor, M.D., <lb/>President of the Royal College of Surgeons, <lb/>Dublin,   Dear Sir,   The Registrar of this College has directed me to <lb/>submit for your approval a draft copy of a letter he has <lb/>prepared for the press in accordance with the terms of the <lb/>enclosed resolution. The Registrar has submitted the draft <lb/>to the President of the College and it has been approved <lb/>by him, and should you now sanction the letter he will have <lb/>it forwarded to the press for insertion.   Yours faithfully,  <lb/>Clerk, R.C.P.I.
+         </ab>
+      </body>
+   </text>
+</TEI>

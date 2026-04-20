@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2310">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Hugh De Fellenberg Montgomery to Sir John Ross, 31 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Hugh De Fallenberg Montgomery</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Hugh De Fellenberg Montgomery (1844-1924)  to John Ross (1853 - 1935). Montgomery was a lawyer and politician. Originally a Liberal and a strong supporter of Gladstone, Montgomery was also a firm Unionist, but by 1916 he believed that Ulster Unionists had no choice but to accept Lloyd George&#39;s proposal for a six-county Northern Ireland. Ross was a judge, Unionist politician and the last lord chancellor of Ireland. In 1916 he was asked to sit on the commission that adjudicated on internment after the Rising, but this invitation was withdrawn.
+The letter suggests publicly circulating views held by Montgomery&#39;s son, Hubert Montgomery, Charles Hubert Montgomery (1876-1942), particularly to Edward Carson (1854-1935) and Walter Long (1854-1924), both prominent Unionist politicians of the time. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Montgomery of Blessingbourne Papers, D/627/429/17	</collection>
+                  <idno>https://letters1916.ie/item/2310</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0987">Hugh De Fallenberg Montgomery</persName>
+              <date>1916-05-31</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1339">John Ross</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1924</item>
+               <item n="tag">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2310_img_1758_1"  type="Letter"  url="eb418555a41e5799455dd15404f58457.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2310_img_1758_1"/>
+            <lb/>Copy  31st May, 1916.   My dear Ross,   You will be interested to see my son's views about <lb/>the letter. I am sending copies to Carson and Walter Long, <lb/>and I will have a few more copies typed for you and other <lb/>friends to push about if you think it worth while.   Yours very truly, 
+         </ab>
+      </body>
+   </text>
+</TEI>

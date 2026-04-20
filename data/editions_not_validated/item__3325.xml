@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3325">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Stopford & Turner to T. Greany, 3 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Stopford &amp;amp; Turner</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Stopford &amp; Turner to T. Greany regarding John Murhill&#39;s pension. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>UCC Library Special Collections and Archives</repository>
+                  <collection>The Bantry Estate Collection, BL-EP-B-1931-05</collection>
+                  <idno>https://letters1916.ie/item/3325</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1417">Stopford &amp;amp; Turner</persName>
+              <date>1916-04-03</date>
+              <placeName key="#letters1916_place-1111">Angelsea Buildings, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1427">T. Greany</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1046">Muckross, Killarney, Co. Kerry, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3325_img_2739_1"  type="Letter"  url="adf742786902251a13ec12d3e489966c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3325_img_2739_1"/>
+             3rd April 1916.   T. Greany Esq., <lb/>Estate Office, <lb/>Muckross, <lb/>Killarney.   Dear Mr Greany,  <hi rend="underline">Murhill's pension</hi>  Enclosed we send you Mr Lecky's cheque <lb/>our favour for 3. 18. 0 endorsed payable <lb/>to you being in <sic>dsicharge</sic> of Murhill's <lb/>pension for quarter ended 25th ulto., will <lb/>you please let us have his receipt.   Your very truly,   (SGD) STOPFORD &amp; TURNER.  J.A.
+         </ab>
+      </body>
+   </text>
+</TEI>

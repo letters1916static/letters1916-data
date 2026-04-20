@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0513">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from a Local Government Board inspector to C. J. Hanrette, 11 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Local Government Board Inspector</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from a Local Government Board (LGB) inspector to C. J. Hanrette requesting information on the minimum wage for various trades in Ireland. The author informs that the information is required in the preparation of a report that is being drawn up.C.J. Hanrette was an employee at the Labour Exchange, Dublin.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI, CSORP/1916/7443/12</collection>
+                  <idno>https://letters1916.ie/item/513</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1548">Local Government Board Inspector</persName>
+              <date>1916-03-11</date>
+              <placeName key="#letters1916_place-1501">Local Government Board, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1341">C. J. Hanrette</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1663">Divisional Office, Labour Exchange, Lord Edward Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0513_img_1885_1"  type="Letter"  url="bc497ecadd8315fcb2c2edc0f64f5f8a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0513_img_1885_1"/>
+                Local Government Board,  Dublin.    11th March 1916.   Dear Mr. Hanrette,   In connection with a report I am preparing I have to <lb/> ascertain what trades in Ireland a minimum wage has been fixed <lb/> for. I would be very much obliged if you <sic>couldlet</sic> me have <lb/> this information naming the minimum fixed in each case.  <seg type="closer"> With kind regards, <lb/> Yours truly,   Local Govt. Inspector.   C.J Hanrette, Esq.,  Divisional Office,  Labour Exchange,  Lord Edward St.,  Dublin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

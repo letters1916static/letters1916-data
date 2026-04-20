@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2236">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Hugh de Fellenberg Montgomery to W. G. Vance, 13 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Hugh de Fellenberg Montgomery</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Hugh de Fellenberg Montgomery (1844-1924), Unionist and Liberal, to W. G. Vance. Originally a Liberal and a strong supporter of Gladstone, Montgomery was also a firm Unionist, but by 1916 he believed that Ulster Unionists had no choice but to accept Lloyd George&#39;s proposal for a six-county Northern Ireland.
+The letter discusses a British farmers&#39; and Red Cross fund of which Montgomery states he is glad to learn has reached a good figure. Montgomery goes on to discuss the political situation in Ulster regarding Home Rule, stating that Home Rule is being given as a reward for rebellion. The letter also states that there may be difficulties in raising money for the fund due to raising of money in the area for pensions for injured members of the Ulster Division. The letter ends stating that there was very little support for the fund by Roman Catholics who are even less likely to help now.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Montgomery of Blessingbourne Papers, D/627/429/31</collection>
+                  <idno>https://letters1916.ie/item/2236</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1402">Hugh de Fellenberg Montgomery</persName>
+              <date>1916-06-13</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">W. G. Vance</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1924</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2236_img_1680_1"  type="Letter"  url="3c3bfff0943c98eb247c5a1e346697b6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2236_img_1680_1"/>
+            Copy  13th June, 1916. <lb/>  Dear Sir,   I am very glad to hear that the British Farmers, Red <lb/> Cross Fund has reached such a good figure. I should be glad <lb/>to do anything I could to raise a further contribution in this <lb/>district, but at present the country is in such a ferment over <lb/> the extraordinary proposal of the Government to bring the Home <lb/>Rule Act into immediate operation apparently as a reward for <lb/>Rebellion, that it would be impossible at this moment to get <lb/> a second sale organised. I hope if things settle down that we <lb/>might manage something later on.   A further difficulty arises from the circumstances that <lb/>at the present moment a large sum is being raised here to provide <lb/>adequate pensions, etc for the wounded and the relicts of the <lb/>Ulster Division.<lb/>  In connection with the last sale we got hardly any <lb/>help from Roman Catholics in this neighbourhood. They would <lb/>be still less inclined to help now, and I fear the Protestants <lb/> could not be got to do as much as they did then.   Yours faithfully,   W. G. Vance, Esq. 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1553">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Richard Newell to John F. Hogan, 17 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Richard Newell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Richard Newel, senior sacristan in the College 25 years earlier, to Hogan requesting the names of Bishops of England, Scotland or America who may be willing to provide a temporary mission, 17 Jan 1916
+
+Hogan, John Francis (1858–1918), priest, author, and president of St Patrick&#39;s College, Maynooth, was born in July 1858 in Coolreagh, Co. Clare. He was educated at Ennis Diocesan College, Co. Clare, Saint-Sulpice, Paris, and Freiburg-im-Breisgau. After ordination in the diocese of Killaloe, subsequently becoming canon, he continued his studies in France and Germany before accepting the newly created chair in modern languages at St Patrick&#39;s College, Maynooth (1886–1912), where he taught French and Italian.  He was appointed vice-president (1910) and president (1912–18) of St Patrick&#39;s College, and subsequently became senator (1913) and pro-vice-chancellor (1914) of the NUI. In 1914 he was appointed domestic prelate to the pope. In 1911 he helped to organise the reception of King George and Queen Mary. During the Easter rising (1916) a group of Volunteers from the town of Maynooth entered the college to seek a blessing before setting off for Dublin. Hogan reputedly refused to give his blessing to their ‘foolish and most ill-advised expedition’ (Corish, 302) and urged them to return home. They in turn refused; responding to their spiritual needs, he blessed them, while remaining totally opposed to their activities. He subsequently addressed the students on the need to show proper respect for authority.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>St Patrick’s College, Maynooth</repository>
+                  <collection>John F. Hogan Papers 21/44/4</collection>
+                  <idno>https://letters1916.ie/item/1553</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0039">Richard Newell</persName>
+              <date>1916-01-17</date>
+              <placeName key="#letters1916_place-1862">Galway, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John Francis Hogan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1464">St. Patrick's College Maynooth, Maynooth, Co.Kildare, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1553_img_1020_1"  type="Letter"  url="b12cdafd600409c3c37c8f04290c920d.jpg"/>
+      <graphic xml:id="L1916_1553_img_1020_2"  type="Letter"  url="b2a5f0aa88f814dad115bdfdf0a5a8ba.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1553_img_1020_1"/>
+             44/4   Stella Maris Hotel,<lb/>Salthill, Galway, <lb/> January 17th '16.    Dear Mr. Hogan,   I would be greatly obliged<lb/>if it be in your power to supply<lb/>me with the names of some<lb/>bishops in England, Scotland<lb/>or America in need of priests<lb/>so that I may be able to com<lb/>municate with them in the<lb/>hope of securing a temporary<lb/>mission.  I do not wish to take a 
+            <pb n="2" facs="L1916_1553_img_1020_2"/>
+             mission too far away as I<lb/>intend proceeding to Rome<lb/>at the earliest opportunity<lb/>to have my case thoroughly<lb/>inquired into and sifted and<lb/>thereby right the wrongs<lb/>that I believe firmly have<lb/>been done me.  Possibly you may remember<lb/>me some 25 years or so ago<lb/>as senior sacristan.  Hoping you are well +<lb/>begging to be excused for<lb/>this trouble.  <lb/> I remain Dear Mgr Hogan<lb/>Yours faithfully,<lb/>Richard Newell    Right Rev Mgr Hogan. D.D.<lb/>(President)<lb/>St Patrick's College<lb/>Maynooth  
+         </ab>
+      </body>
+   </text>
+</TEI>

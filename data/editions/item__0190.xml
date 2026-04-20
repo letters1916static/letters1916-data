@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0190">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from H. G. Brabazon to Robert Chalmers, 26 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>H. G. Brabazon</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Henry G. Brabazon, secretary of the Irish Professional Photographer&#39;s Association, to Robert Chalmers, under-secretary for Ireland (1856-1938). The letter concerns the damage to Dublin businesses due to the Rising. Brabazon states that the Irish Professional Photographer&#39;s Association have resolved to condemn the actions of the rebels and call on the government to fully compensate the men who have had property and business damaged. It goes on to state a copy of the resolution has been sent to Herbert Henry Asquith (1852-1928), David Lloyd George (1863-1945), Edward Carson (1854-1935) and John Redmond (1856-1918).Sir Robert Chalmers was sent to Ireland as replacement under-secretary for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5612/9173</collection>
+                  <idno>https://letters1916.ie/item/190</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0695">H. G. Brabazon</persName>
+              <date>1916-05-26</date>
+              <placeName key="#letters1916_place-0086">16 Henry Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0190_img_1328_1"  type="Letter"  url="a36414b024ddc16fa7e950036be1a1a4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0190_img_1328_1"/>
+                Hon Sec., H. G. BRABAZON,  16 HENRY STREET.  Dublin,    May 26th. 1916.    Sir Robert Chalmers,  Under Secretary for Ireland,  Dublin Castle,  Dublin.   Dear Sir,   At a special meeting held in the Gresham Hotel Dublin on the <lb/>night of the 25th, May, the following resolution was proposed and se- <lb/>conded.  ''That the members of the Irish Professional Photographers As- <lb/>sociation condemn and deplore the recent regretable disturbance, and <lb/>we consider it the bounden duty of the Government to fully compensate <lb/>those whose property and business were destroyed, giving fullconsid- <lb/>eration to the question of consequential damage, and we are of the <lb/>opinion that it would be unjust to fix the amount of compensation on <lb/>the basis of Insurance.'  That copies of this resolution be sent to the Prime Minister <lb/>The Right Hon. D. Lloyd George, Sir Robert Chalmers Under Secretary for <lb/>Ireland, Sir Edward Carson M. P. Mr John Redmond M. P. the six Dublin <lb/>members of Parliament, and Press. <seg type="closer"> I remain, Sir, <lb/>Your most obedient servant,  Hon Sec. <lb/>Henry G Brabazon </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

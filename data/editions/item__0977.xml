@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0977">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edith Mary Sanderson to Hanna Sheehy Skeffington, 11 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edith Mary Sanderson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Edith Sanderson to Hanna Sheehy Skeffington (1877-1946). Sanderson writes to return tickets to an event on Sunday that she will not be able to attend. Sanderson discusses the sale of tickets in a committee she attended and writes that she misses the Citizen, a newspaper of the women&#39;s suffrage movement of which Skeffington was editor.Edith Sanderson was the secretary and treasurer of the Irish Women&#39;s Suffrage and Local Government Association, a non-militant, non-politically affiliated organization that focused on petitions and letters to the press. Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the widow of Francis Sheehy-Skeffington (who was summarily executed on 26 April 1916). She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47, MS 33,604/16-2</collection>
+                  <idno>https://letters1916.ie/item/977</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1172">Edith Mary Sanderson</persName>
+              <date>1916-02-11T00:00:00</date>
+              <placeName key="#letters1916_place-0795">7 Mount Temple Terrace, Dartry Road, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0720">11 Grosvenor Place, Rathmines, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0977_img_2822_1"  type="Letter"  url="c47802b2625369ed2b5daa9ae8f05c6e.jpg"/>
+      <graphic xml:id="L1916_0977_img_2822_2"  type="Letter"  url="b59bf8e28a10facb12072eb6b11a8684.jpg"/>
+      <graphic xml:id="L1916_0977_img_2822_3"  type="Envelope"  url="c26cd61c67a26064f4b5aabe754687c3.jpg"/>
+      <graphic xml:id="L1916_0977_img_2822_4"  type="Envelope"  url="d8e6cf99d2be5b6e39e1dc7f3bf7cd55.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0977_img_2822_1"/>
+              <hi rend="underline">Irish Women's Suffrage and Local Government Association.</hi>    11 Feb 1916   Dear Mrs. Skeffington,   I fear you will be cross when I <lb/>return your tickets. personally I should <lb/>love to go but the day makes it <lb/>an impossibility. its the only <hi rend="underline">home</hi><lb/>day we have. I make it a rule <lb/>never to go any where on a Sunday. <lb/>We had a Committee today but <lb/>no one seemed inclined to buy <lb/>tickets for <hi rend="underline">anything!</hi> Crowds of <lb/>people <hi rend="underline">are</hi> buying tickets for all sorts <lb/>of entertainments but I find it <lb/>difficult to dispose of tickets annoyed <lb/>our members!  I miss the Citizen terribly. Thursday <lb/>night is blank without it. &amp; I seem to know  
+            <pb n="2" facs="L1916_0977_img_2822_2"/>
+              nothing of what is going on. <seg type="closer"> Most kindest regards <lb/>Yours Sincerely,  Edith Sanderson </seg> 
+            <pb n="3" facs="L1916_0977_img_2822_3"/>
+               back of envelope  
+            <pb n="4" facs="L1916_0977_img_2822_4"/>
+                Mrs. Sheehy Skeffington  11 Grosvenor Place  <hi rend="underline">Dublin</hi>    
+         </ab>
+      </body>
+   </text>
+</TEI>

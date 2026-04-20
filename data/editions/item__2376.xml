@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2376">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edwin E. Mason to the Under-Secretary, 23 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edwin E. Mason</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Edwin E. Mason, a Mullingar solicitor, to Sir Robert Chalmers (1858-1938), Under-Secretary for Ireland, submitting his application for the vacant position of Clerk of Crown and Peace for County Westmeath. He outlines his twenty-eight years of professional experience as a solicitor in the county.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/5615/10687</collection>
+                  <idno>https://letters1916.ie/item/2376</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0101">Edwin E. Mason</persName>
+              <date>1916-06-23</date>
+              <placeName key="#letters1916_place-1160">Earl Street, Mullingar, County Westmeath, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2376_img_1820_1"  type="Letter"  url="928af02284006b569e0542e7761b4971.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2376_img_1820_1"/>
+             Earl Street, <lb/>Mullingar,   23 June 1916   Dear Sir,   I beg to apply for the position <lb/>of Clerk of the Crown and Peace for <lb/>Westmeath now vacant.   I am a Graduate and L.L. B. <lb/>of Trin. Coll. Dub. and a practicing <lb/>solicitor resident in the County having <lb/>my office in Mullingar where I have <lb/>carried on a large business as solicitor <lb/>and Land Agent for the past 28 years   I am solicitor for the County Council <lb/>having acted for that Body since its <lb/>formation and having previously acted <lb/>for the Grand Jury.   I have the honor to be <lb/>Your obt. Servant   Edwin e Mason   The Under Secretary <lb/>for Ireland <lb/>Dublin Castle 
+         </ab>
+      </body>
+   </text>
+</TEI>

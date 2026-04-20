@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0275">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William H. Welply to Edward O'Farrell, 10 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William H. Welply</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from William H. Welply (b.1867), to Edward O&#39;Farrell (1857-1926), the Assistant Under Secretary for Ireland. Welply states that William J M Starkie (1860-1920), the Resident Commissioner of Education, wished for copies of two letters from Matthew Nathan (1862-1939), Undersecretary for Ireland, to be forwarded to O&#39;Farrell. These letters had been submitted to the Assistant Commissioners of Intermediate Education, who had issued memoranda in each case (which Welply enclosed with this letter).Welply says that one of the letters referred to the proposed inclusion of Robert Louis Stevenson&#39;s novel &#39;Kidnapped&#39; on the syllabus. This proposal had, Welply states, been discussed in letters between Sir Augustine Birrell (1850-1933), Chief Secretary for Ireland, and John Gordon Swift MacNeill MP, an Irish Nationalist politician.Following the partition of Ireland in 1921, William Welply became the Chief Inspector of the Northern Irish Education Commission.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>National Archive of Ireland-Chief Secretary&#39;s Office-Registered Papers, NAI/CSO/RP/1916/5611/8225/1</collection>
+                  <idno>https://letters1916.ie/item/275</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0644">William H. Welply</persName>
+              <date>1916-05-10</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0890">Dublin Castle</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0275_img_1474_1"  type="Letter"  url="0f9e818acef95e4be3549c8651ef2173.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0275_img_1474_1"/>
+                10th May, 1916   Dear Sir,   Dr. Starkie desires me to send for your information <lb/> copies of two letters recently received from Sir Matthew<lb/> Nathan. These letters were submitted to the Assistant Com-<lb/> missioners of Intermediate Education who have furnished a<lb/> Memorandum in each case. A copy of the Memorandum is attach-<lb/> ed. Letter No.1 has reference to the inclusion of <lb/> Stevenson's 'Kidnapped' in the Intermediate Programme, con-<lb/> cerning which Sir Matthew Nathan forwarded correspondence<lb/> between the Educational Company of Ireland, Mr. Birrell, M.P.,<lb/> and Mr. Swift MacNeill, M.P. This correspondence is returned<lb/> to you herewith. <seg type="closer"> I am, Sir,<lb/> Your obedient servant,  W. H. Welply .<lb/>  Sir Edward O'Farrell, C.H.,B.L.,  Assistant Under-Secretary,  The Castle,  Dublin  </seg> Resubmmit when a <seg type="unclear">Ch. Le</seg>. has been appointed<lb/> ECA 12.5.16  
+         </ab>
+      </body>
+   </text>
+</TEI>

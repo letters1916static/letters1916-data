@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3689">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Redmond to Sir Francis Hopwood, 4 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Redmond</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from John Redmond (1856-1918) to Sir Francis Hopwood (1860 – 1947) written in response to a previous letter sent by Hopwood. Redmond thanks Hopwood for his sympathies and offers of service, but says they won&#39;t be necessary. 
+
+Francis Hopwood, 1st Baron Southborough, was a British civil servant. In 1917 he was elected secretary to the Irish Convention, and was chosen to find solutions to the Irish Home Rule question.
+
+John Redmond was an MP and leader of the Irish Parliamentary Party. He was instrumental in securing the promise of Home Rule from Asquith&#39;s liberal government. Upon the outbreak of war, Redmond addressed a group of Irish Volunteers at Woodenbridge, Co. Wicklow, encouraging them to fight with the British Army to ensure the implementation of Home Rule. Redmond&#39;s words split the Irish Volunteers across the country. The Easter Rising shocked Redmond, who condemned it bitterly. Nonetheless he appealed for leniency towards those who had not been involved in planning the Rising. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>John Redmond Papers, Collection List No. 118; MS 15,197/4/2</collection>
+                  <idno>https://letters1916.ie/item/3689</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1486">John Redmond</persName>
+              <date>1916-05-04</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1351">Francis Hopwood</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1918</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3689_img_3081_1"  type="Letter"  url="dc03a997d90e4772397affe8d54154bb.jpg"/>
+      <graphic xml:id="L1916_3689_img_3081_2"  type="Letter"  url="493d1ff098f5424287a6a371c4cc2a12.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3689_img_3081_1"/>
+             'COPY,<lb/>HOUSE OF COMMONS<lb/>Personal   4th May, 1916. <!-- Handwritten right next to the typed date -->  [1916]     Dear Sir Francis,   I am much obliged to<lb/>you for your letter. I note what you<lb/>say about Granard. If he writes to me<lb/>again I will of course make it plain to<lb/>him that as <sic>f ar</sic> as I am concerned I<lb/>agree that he has done the right thing,<lb/>for the present at any rate.  <sic>I f</sic> any commission is set up to<lb/>inquire into the Dublin business I feel<lb/>certain your services woul d  be in-<lb/>valuable, and I will not forget the<lb/>kind offer you have made. I do not<lb/>think however it is contemplated to set<lb/>up a commission at all. 
+            <pb n="2" facs="L1916_3689_img_3081_2"/>
+             HOUSE OF COMMONS  Very many thanks for your kind<lb/>expressions of sympathy.  Very truly Yours,   Sir Francis Hopwood,  
+         </ab>
+      </body>
+   </text>
+</TEI>

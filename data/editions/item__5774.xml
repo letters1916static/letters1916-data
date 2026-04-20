@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5774">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Crown Solicitor, Cavan, to Sir Matthew Nathan, 1 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Louis C P Smith</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Louis C.P. Smith (1867-1923) the Crown Solicitor of Cavan, to Sir Matthew Nathan (1862-1939) Under-Secretary for Augustine Birrell (1850-1933) the Chief Crown Secretary of Ireland. In the letter Smith is telling Nathan his side of a of a story after Nathan received a complaint from a Mr. Newell about the delay of Smiths work. Smith claims it is due to the cases happening a considerable time ago. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/4061</collection>
+                  <idno>https://letters1916.ie/item/5774</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0013">Louis C P Smith</persName>
+              <date>1916-03-01</date>
+              <placeName key="#letters1916_place-1533">Crown Solicitor&#39;s Office, County Cavan, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0528">Chief Secretary's Office, Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1925</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5774_img_873_1"  type="Letter"  url="b280dbda8be5132e4c701434d1cb2a57.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5774_img_873_1"/>
+             CROWN SOLICITOR'S OFFICE,<lb/> <lb/>CAVAN   1st day of March 1916.  <lb/>No 9278: 1916. <lb/><hi rend="underline">County of Cavan.</hi>  Sir/-   I am in receipt of a letter from <lb/>the Local Government Board to the Under Secret- <lb/>ary of the 28th ulto. and with reference to <lb/>the portion of same which you say I am to reply <lb/>to, I have to state, that on the 10th February <lb/>I received a letter from Mr Newell asking to <lb/>have certain answers given to queried which <lb/>he furnished to me. I found considerable diff- <lb/>iculty in complying with some of them as they <lb/>occurred some considerable time ago. I made <lb/>inquiries through the Police for the purpose of <lb/>ascertaining how the respective amounts set <lb/>out in the queries were made up, and have <lb/>just received replies, and have to-day sent <lb/>on same to Mr Newell. I had a letter from <lb/>this gentleman on the 24th ult. asking for <lb/>these answers, and replied to him on same day <lb/>explaining the delay.   Yours faithfully<lb/>  <seg type="unclear">M. Kelly</seg>  <lb/>Crown So<hi rend="superscript">l</hi>. <lb/>Cavan <lb/><hi rend="underline">To</hi>  The Under Secretary. <lb/>Chief Secretary's Office. <lb/>The Castle. <lb/>DUBLIN. 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0952">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Henry Caddell to the Urban District Council, 1 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Henry Caddell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Henry Caddell, a clerk at Dublin Castle, to the Longford Urban District Council concerning a surplus of money generated from the sale of licenses under the Dog Regulation (Ireland) Act 1865 in Longford for the year 1915.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Longford County Archives Service</repository>
+                  <collection>LUDC-1-3-1916-6-6, LUDC-1-3-1916-6-6</collection>
+                  <idno>https://letters1916.ie/item/952</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0963">Henry Caddell</persName>
+              <date>1916-06-01T00:00:00</date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Nicholas Lamb</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0870">Urban District Council, Longford</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0952_img_2767_1"  type="Letter"  url="10651ffcb5c6924d18d930c6592c5c7b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0952_img_2767_1"/>
+                Registrar of Petty Sessions  Clerk's Office  Dublin Castle.    1<hi rend="superscript">st</hi><hi rend="underline">June</hi> 1916   Sir  â   I beg to acquaint you for the information <lb/>of the Urban District Council, that the proposition of <lb/>surplus monies arising from the sale of licences <lb/>under the 'Dogs regulation (Ireland) Act 1865 <lb/>amounts to Â£10.19.10 for the Urban District of <lb/>Longford for the year 1915 and to state that the <lb/>Lord Lieutenant has directed that this sum <lb/>should be paid over to the Treasurer to the <lb/>Urban District Council <sic>purssuant</sic> to the <lb/>'Dog regulation (Ireland) Act 1865 to be <lb/>applied by him in aid of the Urban District rates <lb/>in such manner as the Council shall direct. <seg type="closer"> I am Sir <lb/>your <sic>obd servt</sic>  H Caddell   The Clerk  Urban D<hi rend="superscript">h</hi> Council  Longford.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

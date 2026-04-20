@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0302">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Michael Fogarty to Alice Stopford Green, 1916 July 26.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Michael Fogarty</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a copy of letter from Michael Fogarty (1859-1955), bishop of Killaloe, to Alice Stopford Green (1847-1929), Irish historian and nationalist. Stopford Green was a close friend of Sir Roger Casement (1865-1916) and one those involved in the campaign to reprieve Casement&#39;s sentenced to death for treason after he had been arrested on Banna Strand in County Kerry on the eve of the Easter Rising. Fogarty writes to enclose a petition on behalf of Casement and writes in strong support of Casement, noting that no public interest would be served by Casement&#39;s execution. The letters also notes that the signatures of a number of other clergy will follow. Fogarty was said to have been opposed to the Easter Rising but later wrote against the partition of Ireland and of &#39;hideous atrocities&#39; committed by the British on Irish nationalists.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casement Papers, Collection List No. A15, Ms. 13,088 (9)</collection>
+                  <idno>https://letters1916.ie/item/302</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1434">Michael Fogarty</persName>
+              <date>1916-07-26</date>
+              <placeName key="#letters1916_place-0697">Killaloe, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0989">Alice Stopford Green</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0302_img_1523_1"  type="Letter"  url="da3654891d35b820612289945cb30187.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0302_img_1523_1"/>
+              Copy of Letter from the Bishop of Killaloe    Ennis    26th July 16   Dear Mrs Stopford Green   I enclose petition for Sir Roger Casement with <lb/> my signature attached.  I have never met Sir Roger Casement, I know <lb/> nothing of him except through the press. I regard <lb/> him as a most pure and exalted enthusiast for <lb/> what is right and noble regardless of money <lb/> or pleasure.  Men of that fine strain are becoming very scarce <lb/> in English life. Why destroy them in cold blood <lb/> If the English <sic>Govnmt </sic>insist on his Execution - <lb/> well revenge may be gratified, but no <lb/> public interest will be <seg type="unclear">sewed</seg> thereby in Ireland, <lb/> but quite the other way of that there <lb/> is no doubt whatever. <seg type="closer"> Sincerely yours  M. Fogarty <lb/> Bishop of Killaloe<lb/> Signatures follow of  D ODonnell  Bishop of Raphoe<lb/> Robert Brown  Bishop of Cloyne<lb/> William Miller  bishop of <seg type="unclear">Eumenia</seg><lb/> (Stillorgan Dublin)</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

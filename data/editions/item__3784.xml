@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3784">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Rev. Thoms Gray to Royal College of Physicians of Ireland, 21 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Gray</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Rev. Thomas Thompson Gray (1832-1924) to the registrar of the Royal College of Physicians of Ireland (RCPI) regarding an effort to repeal the School of Physic Act. 
+
+Rev. Thomas Thompson Gray served as the vice-provost of Trinity from 1916 until he resigned in 1924, a few weeks before his death. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T62</collection>
+                  <idno>https://letters1916.ie/item/3784</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0044">Thomas Gray</persName>
+              <date>1916-02-21</date>
+              <placeName key="#letters1916_place-2038">Trinity College Dublin, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0320">Royal College of Physicians of Ireland</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1924</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3784_img_3169_1"  type="Letter"  url="ed8a90673bf1fcb0e164799433f490da.jpg"/>
+      <graphic xml:id="L1916_3784_img_3169_2"  type="Letter"  url="fe90c41f1c65a772f408d639f4af9581.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3784_img_3169_1"/>
+             REGISTRAR'S OFFICE, <lb/>TRINITY COLLEGE, DUBLIN.   Feb<hi rend="superscript">r</hi>. 21, 1916.   Dear Sir,   I am directed by the <lb/>Board of Trinity College to <lb/>enquire if the Royal College <lb/>of Physicians is willing to <lb/>act jointly with Trinity College <lb/>in an effort of obtain a repeal <lb/>of the School of Physic Act, on <lb/>the lines of the joint agreement
+            <pb n="2" facs="L1916_3784_img_3169_2"/>
+            between the Board of Trinity and <lb/>the Fellows of the Royal College of <lb/>Physicians, laid before the recent <lb/>Royal Commission (on Trinity College <lb/>Dublin &amp; on the University of Dublin), <lb/>and approved of, and recommended <lb/>by, that Commission.   Will you kindly log this letter before <lb/>your board.    Very Truly yours   Thomas J. Gray,  <lb/>Reg<hi rend="superscript">r</hi>.  Mr. Registrar <lb/>Royal College of Physicians.   Macd.C. 5.III.16 
+         </ab>
+      </body>
+   </text>
+</TEI>

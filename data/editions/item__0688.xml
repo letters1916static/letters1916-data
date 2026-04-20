@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0688">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Copy of a letter from George Gavan Duffy to Michael F. Doyle, 7 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>George Gavan Duffy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Copy of a letter from George Gavan Duffy (1882-1951) to Michael F. Doyle in which he states that Casement went to his death ‘fearlessly and proudly’. He thanks Doyle for his ‘splendid efforts’. Underneath, a copy of a letter from George Gavan Duffy to Colonel Moore (27 July 1916), in which he states that in Ireland the slanders (about the diaries) are being treated with contempt. Also states that it would not be possible to take any step that would not involve a disagreeable newspaper controversy and would probably do more harm than good.George Gavan Duffy was an Irish politician, barrister and judge. He unsuccessfully defended Roger Casement at his trial for high treason after the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>George Gavan Duffy Papers, P152/13</collection>
+                  <idno>https://letters1916.ie/item/688</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0467">George Gavan Duffy</persName>
+              <date>1916-08-07</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Michael F. Doyle</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0688_img_218_1"  type="Letter"  url="9749903fc471a14f58211bed8c303d55.jpg"/>
+      <graphic xml:id="L1916_0688_img_218_2"  type="Letter"  url="9749903fc471a14f58211bed8c303d55.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0688_img_218_1"/>
+                7 <hi rend="superscript">th</hi> August 1916.     Michael F. Doyle,   Dear M <hi rend="superscript">r</hi>. D.,    R. C. went to his death like the man he <lb/> was. He died quite fearlessly and proudly.   It seems hardly conceivable that the <lb/> immense efforts made by his friends here and <lb/> elsewhere cd be in vain, but there is a section <lb/> of politicians here who can learn nothing and <lb/> who will never learn anything. The Misses Ban <lb/> and all his friends are deeply grateful for <lb/> splendid efforts you made on his behalf <lb/> which we can never forget.   . . . . <seg type="closer"> Yrs very sincerely,  G. G. D. </seg> 
+            <pb n="2" facs="L1916_0688_img_218_2"/>
+                Colonel Moore.    27 July 1916    We over here are treating the slanders <lb/> with contempt. If I could only ascertain <lb/> which Govt Dept. is responsible for <lb/> propagation of story I cd. take <lb/> effective measures but I <seg type="del">have</seg> so far it has not <lb/><seg type="del">not got</seg> been possible to get the necessary evidence <lb/> for it is not possible to take any step that would <lb/> not involve a very disagreeable newspaper controversy <lb/> and wd. probably do more harm than good   
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1827">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward O'Farrell to George Fletcher, 11 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward O&#39;Farrell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Sir Edward O&#39;Farrell (c.1857-1926), the assistant under-secretary to the lord lieutenant of Ireland, on behalf of Sir Ivor Churchill Guest, Lord Wimborne (1973-1939), lord lieutenant of Ireland. The letter sent to George Fletcher (c.1863-1934), assistant secretary in respect of technical instruction at the Department of Agriculture.
+In the letter O&#39;Farrell states that he received Fletcher&#39;s previous letter and enclosures and that there does not appear to be anything preventing the examinations referred to from being set on any date arranged by the department.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/7686/2</collection>
+                  <idno>https://letters1916.ie/item/1827</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date>1916-05-11</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">George Fletcher</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2020">Upper Merrion Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1926</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1827_img_1282_1"  type="Letter"  url="9afd66a6902f908ee2892a54344c0443.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1827_img_1282_1"/>
+             11th May, 1916.  <lb/>No. 7686.  Sir,   I am directed by the Lord Lieutenant to <lb/>acknowledge the receipt of your letter of the 6th <lb/>instant, and enclosure, and in reply to inform you <lb/>that there does not appear to be anything in the <lb/>present position of affairs to prevent the Technical <lb/>School examinations being held on any date now <lb/>arranged by the Department.   I am, <lb/>Sir, <lb/>Your obedient Servant,   E O Farrell  <lb/>G. Fletcher, Esq.,  Department of Agriculture &amp; Technical <lb/>Instruction for Ireland, <lb/>Upper Merrion Street, <lb/>Dublin. 
+         </ab>
+      </body>
+   </text>
+</TEI>

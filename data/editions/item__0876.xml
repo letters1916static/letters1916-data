@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0876">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">A Pass for the Misses Fenlons, 30 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A permit to &#39;pass out of town&#39; for two Misses Fentons (probably sisters) issued by the Irish Republican Army on Sunday 30 April 1916. The pass was written on the back of a Times Braces advertisement. The pass was likely issued on the orders of Seamus Doyle, a lieutenant in the Enniscorthy battalion of the Irish Volunteers and one of the men active in Enniscorthy during the Easter Rising, one of the few places outside Dublin to see any military action.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Wexford County Archive</repository>
+                  <collection>WXCA/1916/Gen/168, WXCA/1916/Gen/168</collection>
+                  <idno>https://letters1916.ie/item/876</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-04-30</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Misses Fenlons</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0876_img_2445_1"  type="Letter"  url="9635e1b13ca4ce0769a6e963e928e5ba.jpg"/>
+      <graphic xml:id="L1916_0876_img_2445_2"  type="Letter"  url="1d389c6b3357e4ef85751ab032c91653.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0876_img_2445_1"/>
+              <hi rend="underline">1916 Rebellion</hi>  <hi rend="underline">Permit</hi>  Two Miss Fenlons <lb/>to pass out of town <lb/>today. <seg type="closer"> OM   30/4/16  </seg>  'Pass' 'Issued by the Irish Republican Army,' <lb/>on Sunday, April 30th,1916  
+            <pb n="2" facs="L1916_0876_img_2445_2"/>
+              THE <lb/>TIMES <lb/>BRACE.  METAL FITTINGS <lb/>AND SECURED WITH <lb/>PATENT EYELETS.  
+         </ab>
+      </body>
+   </text>
+</TEI>

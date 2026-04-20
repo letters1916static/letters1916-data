@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0828">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from Sir Roger Casement to Robert Monteith, 23 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Roger Casement</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This postcard was sent by Sir Roger Casement to Robert Monteith concerning the repayment of money. According to Casement 1750 marks have been given to a Miss McFadden to &#39;get away&#39; and 300 marks are to be repaid to Monteith himself. The front of this postcard shows a black and white photograph of the Hotel Saxonia in Potsdamer Platz, Berlin.Roger Casement (1864-1916), an Irish nationalist who spent the months preceding the Easter Rising in Germany trying to induce captured Irish prisoners of war to join an ‘Irish brigade’ which would support the central powers by liberating Ireland. However, when it was clear that the Rising would not have sufficient assistance to make it a success Casement returned to Ireland on a German submarine in an attempt to dissuade the Rising&#39;s leaders from going ahead. Casement was captured before he could do so and after the Rising he was sentenced to death for treason. Casement was hanged on 3 August 1916. Robert Monteith (1879-1956) was a founding member of the Irish Volunteers. In 1915 he was selected by Thomas Clarke (1858–1916), a veteran of revolutionary politics, to accompany Sir Roger Casement to Germany to assist with the recruitment of an &#39;Irish Brigade&#39;.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, IE/AL/RM/1/8/1</collection>
+                  <idno>https://letters1916.ie/item/828</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1253">Roger Casement</persName>
+              <date>1916-02-23</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0377">Robert Monteith</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0828_img_2379_1"  type="Letter"  url="820353e264c280a3833dc39ee6707ec0.jpg"/>
+      <graphic xml:id="L1916_0828_img_2379_2"  type="Letter"  url="4763376a0812593edf2584fb0a736f19.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0828_img_2379_1"/>
+               Potsdamer Bahnhof. Potsdamer Platz. Hotel Saxonia   
+            <pb n="2" facs="L1916_0828_img_2379_2"/>
+                 Hotel Saxonia, Berlin W9.  <seg type="del">KoniggrÃ¤tzerstr</seg>. 10  Budapester Str. 10     <hi rend="underline">23 Feb<hi rend="superscript">ry</hi>1916</hi>   My Dear Mr Monteith,   Please regard this<lb/> as a receipt for the Marks <hi rend="underline">2050</hi>. <lb/> I handed in yesterday from the funds in<lb/> your name at the Bank - the refund of<lb/> Mks 1750 - I gave <hi rend="underline">Miss McFadden to get</hi><lb/> away and <seg type="del">250</seg> 300 Mks repaid by yourself.<lb/> I return to Munich tonight I hope &amp; clear<lb/> this to cover your refund. <seg type="closer"> Yours  Roger Casement </seg>  
+         </ab>
+      </body>
+   </text>
+</TEI>

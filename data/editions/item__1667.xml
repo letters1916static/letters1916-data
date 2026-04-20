@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1667">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to John Clancy, 18 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter to John Joseph Clancy (1847-1928). Clancy was a member of Parliament and an Irish nationalist. An active member in the Irish Parliamentary Party, Clancy was seen as the leading party figure upon the death of John Redmond in 1918. The letter regards a previous letter sent by Clancy concerning the residence of Richard Healy, an English man who has yet to be sent back to England. It states that Healy has three brothers working in Coventry in a munitions factory. It goes on to state that Healy is not liable under the Military Service Act as he has never been an ordinary resident of Great Britain. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/6895/1/1</collection>
+                  <idno>https://letters1916.ie/item/1667</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-04-18</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John Clancy</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0039">1 Breffni Terrace, Kingstown, County Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1667_img_1126_1"  type="Letter"  url="585ffeb2788b0fb7b121ed186da285b1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1667_img_1126_1"/>
+             18th April, 1916   Dear Mr. Clancy,   I have now received a reply to my enquiry <lb/>with regard to Richard Healy, the man with three <lb/>brothers in a Munitions Factory in Coventry <lb/>with regard to whom you wrote to me on the 7th <lb/>April. It does not appear that any attempt <lb/>has been or is being made to force him back to <lb/>England, and I am of your opinion that he is not <lb/>liable under the Military Service Act as he has <lb/>never been ordinarily resident in Great Britain. <lb/>I am, however, no Court that can speak with <lb/>authority in that matter.   Yours sincerely,   John Clancy, Esq., K.C., M.P.,   <lb/>1, Breffni Terrace, <lb/>KINGSTOWN 
+         </ab>
+      </body>
+   </text>
+</TEI>

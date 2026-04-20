@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1288">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from C. Spencer Smith to Gertrude Bannister, 29 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>C. Spencer Smith</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from C. Spenser Smith of Queen Anne&#39;s school in London to Gertrude Bannister (d.1950), a cousin of Sir Roger Casement (1864-1916). The letter enclosed £40, some documentation and certificates and a resolution passed by the board of the school in relation to the ending of Bannister&#39;s contract of employment there. The writer also adds a personal note on the back of the letter expressing &#39;regret at the ending of such a long period of service.&#39;The letter was written while Casement was imprisoned in London after he had been arrested while landing on the coast of Kerry in a submarine on the eve of the Easter Rising. Bannister was heavily involved in raising public support for Casement during his trial for treason.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casement Papers, Collection List No A15, Ms. 13,075 /1</collection>
+                  <idno>https://letters1916.ie/item/1288</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0895">C. Spencer Smith</persName>
+              <date>1916-07-29</date>
+              <placeName key="#letters1916_place-0318">53 Palace Street, Victoria Street, London, UK</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1365">Gertrude Bannister</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1245">36 Grosvenor Road, Westminster, London, UK</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1288_img_499_1"  type="Letter"  url="79d114ab3ebfe2554304edc36e9d6f84.jpg"/>
+      <graphic xml:id="L1916_1288_img_499_2"  type="Letter"  url="fd38ac2dd634bb15aedd4225dce0e26e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1288_img_499_1"/>
+                CLERK &amp; RECEIVER'S OFFICE, 53, Palace Street,  Victoria Street, S.W.    29th July 1916    <hi rend="underline">Queen Anne's School</hi>   Dear Madam,    I am directed to forward the enclosed cheque for Â£40 together with <lb/> copy of a Resolution come to by the Board at their meeting this morning, which <lb/> will explain itself.    I also enclose your Thrift Fund Securities viz.  P.O.I.B.  Certificate B37710 for <lb/> Â£100 41/2 per cent War Stock 1925-1945  dated 13 Aug. 1915  and Post Office Savings Bank <lb/> Certificate 713254 for Â£125.3.11 21/2 per cent Consolidated Stock dated 27 January 1911.    The control exercised by the Governors over your deposits in the P.O. Savings <lb/> Bank now ceases.    Will you be good enough to acknowledge the receipt of these Certificates <lb/> &amp; also to send us a formal receipt for Â£40 Salary.  <seg type="closer"> I am dear Madam <lb/> Yours faithfully   C.Spencer Smith   Miss G.A.Bannister,  36 Grosvenor Road,  Westminster  </seg> 
+            <pb n="2" facs="L1916_1288_img_499_2"/>
+              <seg type="postscript"> May I <lb/> add an unofficial <lb/> P.S. to express my <lb/> regret at such an ending <lb/> of a <hi rend="underline">long period of good</hi> service.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

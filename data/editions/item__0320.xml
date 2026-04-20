@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0320">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from R. Hutchinson to Sir Matthew Nathan, under-secretary for Ireland, 2 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>R. Hutchinson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by R. Hutchinson on behalf of the general officer commanding-in-chief the forces in Ireland, Sir John Grenfell Maxwell (1859-1929). The letter was addressed to Sir Matthew Nathan (1862-1939). Nathan was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising. He was succeeded in May by Sir Robert Chalmers (1858-1938). In the letter Hutchinson authorizes Nathan to enroll 1,000 special constables to assist the Dublin Metropolitan Police force. The move was part of the response to the Easter Rising, which has ended two days earlier.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/794/11</collection>
+                  <idno>https://letters1916.ie/item/320</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1396">R. Hutchinson</persName>
+              <date>1916-05-02</date>
+              <placeName key="#letters1916_place-1307">Headquarters, Irish Command, Parkgate, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0320_img_1544_1"  type="Letter"  url="434246a26ef3ba8fb6c31023470c9480.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0320_img_1544_1"/>
+                HEADQUARTERS, IRISH COMMAND,  PARKGATE, DUBLIN.    2nd May, 1916.    UNDER SECRETARY,  DUBLIN CASTLE    I hereby authorise you to enrol 1,000 <lb/> special constables, who shall wear badges, to assist<lb/> the Dublin Metropolitan police in the discharge of <lb/> their duties. <seg type="closer"> R. Hutchinson <lb/> GENERAL,<lb/> COMMANDING-IN-CHIEF THE FORCES IN IRELAND.</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

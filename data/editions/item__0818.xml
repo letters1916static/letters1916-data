@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0818">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Paul Biggane to the Under Secretary of Ireland, 3 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Paul Biggane</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Paul Biggane (1885-1937) to the under secretary of Ireland regarding Biggane&#39;s application for civil employment. While on furlough from the Indian Police Force Biggane is anxious to secure some form of work and details his experience within the crime sector and includes that he has knowledge of Italian, German and French.At the time this letter was written Sir Matthew Nathan (1862-1939) was serving as the under secretary for Ireland. Nathan took up the position in 1914 and remained until his resignation in 1916 following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/7560</collection>
+                  <idno>https://letters1916.ie/item/818</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0279">Paul Biggane</persName>
+              <date>1916-05-03</date>
+              <placeName key="#letters1916_place-1884">Sunday&#39;s Well, Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0818_img_2360_1"  type="Letter"  url="ee4eebaa210dc84d70a677081a0cd4fc.jpg"/>
+      <graphic xml:id="L1916_0818_img_2360_2"  type="Letter"  url="2f4da6e7cdaa192773d5824db3392530.jpg"/>
+      <graphic xml:id="L1916_0818_img_2360_3"  type="Letter"  url="02d9c42ba6bf08b51b8cd4331308a18e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0818_img_2360_1"/>
+                Sunday's Well  Cork    3 May 1916   Dear Sir,   I recently arrived <lb/>home on 19 months furlough <lb/>from India where I have <lb/>served for 10 1/2 years in <lb/>the Indian Police.  As I am not <lb/>permitted to enter into <lb/>military obligations I am <lb/>anxious to secure temporary <lb/>employment of a civil <lb/>nature.  I have been in <lb/>charge of districts in  
+            <pb n="2" facs="L1916_0818_img_2360_2"/>
+              India and for 19 <lb/>months before taking <lb/>leave I was on <lb/>special Duty in the <lb/>Secret (Political) Branch <lb/>of the Criminal Investigation <lb/>Department, United Provinces. <lb/>For 8 months I officiated <lb/>as Asst. to D. Inspr <lb/>Genl in charge of the <lb/>Secret Branch. I have <lb/>thus had considerable <lb/>experience of both <lb/>political and ordinary <lb/>crime.  When I heard of <lb/>the outbreak in Dublin <lb/>I wired to the India <lb/>office suggesting the <lb/>possibility of employment <lb/>at Dublin. I have <lb/>been advised by the <lb/>Officer in charge, Information <lb/>Bureau, to apply to you. <lb/>I also offered my <lb/>services to the local <lb/>police authorities but <lb/>was told that they <lb/>were not needed.  I would, subject <lb/>to the control of the <lb/>India Office, place no <lb/>restrictions on this offer, <lb/>of my services. I am <lb/>willing to undertake other <lb/>office on outdoor work.  
+            <pb n="3" facs="L1916_0818_img_2360_3"/>
+              I am 30 years of age <lb/>and free from political <lb/>or religious prejudices. <lb/>A possible qualification <lb/>is an ability to read <lb/>ordinary material in <lb/>French, German and Italian.  I have tried my <lb/>best to obtain permission <lb/>to apply for a commission <lb/>and have failed. I <lb/>hope that you will <lb/>receive this application <lb/>formally and that my <lb/>services will be utilised <lb/>if it is at all possible <seg type="closer"> Yours faithfully  <hi rend="underline">P.Biggan</hi>   The Under Secretary of State for Ireland  Dublin Castle  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

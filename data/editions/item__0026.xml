@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0026">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from M. Curry to Nancy O'Rahilly, 15 June, 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M. Curry</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter of condolence to Nancy O&#39;Rahilly (1875-1961). This letter expresses the sympathy of &#39;all the Sisters &amp;amp; many boarders&#39;. The writer thinks often and prays for Mrs. O&#39;Rahilly and her deceased husband. The writer asks for a supply of mortuary cards and hopes the children are a comfort to her.She was a member of the Provisional Council of Cumann na mBan at the founding in 1914 and the wife of Michael Joseph O&#39;Rahilly, self-described as &#39;The&#39; O&#39;Rahilly (1875-1916). The O&#39;Rahilly fought in the Easter Rising and was shot in Parnell/Moore Street on 28 April 1916 and died some time later. Nancy was pregnant at the time of her husband&#39;s death – the child was born three months later.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Humphreys Papers, P106/120/54</collection>
+                  <idno>https://letters1916.ie/item/26</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1105">M. Curry</persName>
+              <date>1916-06-15</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1534">Nancy O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0026_img_1056_1"  type="Letter"  url="c5416281e06929420720ab273c36965f.jpg"/>
+      <graphic xml:id="L1916_0026_img_1056_2"  type="Letter"  url="7e82787c48fe032f28617519eee70bdb.jpg"/>
+      <graphic xml:id="L1916_0026_img_1056_3"  type="Letter"  url="5daa94fef44ac6df60165b05ec8ddbba.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0026_img_1056_1"/>
+                St Josephs    June 15 1916   Dear Mrs Rahilly   I hope by this <lb/> our Good Lord has <lb/>given you resignation <lb/> in your <hi rend="underline">great trouble</hi><lb/>I have very often thought <lb/> of you, &amp; prayed for you <lb/> &amp; the dear dead R.I.P. <lb/>You have the sympathy  
+            <pb n="2" facs="L1916_0026_img_1056_2"/>
+              <lb/>of all the Sisters &amp; many boarders. <lb/> I wrote a few lines to Mrs. Humphreys <lb/>some time since &amp; asked her <lb/>to convey my sympathy to you, <lb/> did not know your address <lb/> till seeing advertisement about <lb/>poor Michael's ring etc. Our Dear <lb/> Lord be good to him. I suppose <lb/>you got no tidings of ring.   Will you please spare me <lb/>as many of his M. cards as <lb/>possible, a few of the Sisters <lb/> have asked me to try &amp; get <lb/>them one, &amp; a few of the <lb/> Lady Boarders. Then I want one <lb/>for Mrs. Morris &amp; self. I trust the <lb/> children are well. God comfort you   
+            <pb n="3" facs="L1916_0026_img_1056_3"/>
+              <seg type="closer"> With deepest sympathy <lb/>dear Mrs. O'Rahilly <lb/>Yours Sincerely   M.Curry </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0588">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from William Pearse to Douglas ffrench Mullen, 14 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Pearse</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A postcard from William Pearse (1881-1916) to Douglas Ffrench Mullen (1893 – 1943). On the card Pearse writes that there will be a ceilí on Thursday and that he would appreciate it if Mullen could accompany him. The front of the card depicts St. Enda’s football team.William Pearse was a sculptor and brother of Patrick Pearse, one of the leaders of the Easter Rising. William held the rank of captain on the headquarters staff of the Dublin Brigade of the Irish Volunteers and helped his brother run his bilingual school for boys, St Enda&#39;s. Mullen participated in the 1916 Easter Rising as a Captain in Eamonn Ceannt&#39;s detachment at the South Dublin Union.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, IE/AL/MFM/5/3</collection>
+                  <idno>https://letters1916.ie/item/588</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0853">William Pearse</persName>
+              <date>1915-12-14</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Douglas ffrench Mullen</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1655">63 Moyne Road, Ranelagh, County Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0588_img_1991_1"  type="Letter"  url="9ea8cc8a42dc8c555fc7acf4753c859a.jpg"/>
+      <graphic xml:id="L1916_0588_img_1991_2"  type="Letter"  url="b07685f9fec4b72a47727170e18222ed.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0588_img_1991_1"/>
+               <hi rend="underline">CARTA POSTA.</hi><lb/>  We are holding a little <seg type="foreign">ceili</seg><lb/> here for the boys on Thursday <lb/> next-  <hi rend="superscript">(at 8.oc.</hi>  just a private thing. <lb/> Paul, <seg type="unclear">Long</seg> &amp; one or two. <lb/> other good <seg type="unclear">men</seg> coming. <lb/> I would be very anxious <lb/><seg type="unclear">to have an accompanist</seg>. Could <lb/> you at all come?  <seg type="closer"> U Mac P. </seg> <cb/>  <seg type="foreign">An Seolad</seg>. <lb/>  D. Ffrench Mullen  63 Moyne Road  Ranelagh Co Dublin     
+            <pb n="2" facs="L1916_0588_img_1991_2"/>
+               Scoil Ãanna, RÃ¡t FearnÃ¡in: PeileadÃ³irÃ­ (SÃ³irir), Luct Buaidte Curad-mÃ­r Baile Ãta Cliat, 1910-11. <lb/> St. Enda's College, Rathfarnham: Junior Football Team, Holders of Dublin Schools Cup, 1910-11. <lb/> P. Breatnac, R. MacAmlaoib, B. Ã Tuatail, S, MacDiarmada, S. Ã DÃºnlaing, P. Ã Maolmuaid,, C. Mac Fionnlaoic, <lb/> F. Ã Docartaig, S. Ã Dulgaill, B. Seoige, F.de BÃºrca (Taoiseac), U. Ã CÃºlacÃ¡in, B. Ã ClÃ©irig, <lb/> C. Ã ClÃ©irig, S. Ã Concobair.    
+         </ab>
+      </body>
+   </text>
+</TEI>

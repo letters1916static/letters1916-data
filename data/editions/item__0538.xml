@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0538">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Seán Mac Diarmada to Tom Clake, 5 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Seán Mac Diarmada</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Seán Mac Diarmada (1883-1916) to Thomas James (‘Tom’) Clarke (1858–1916), requesting any copies of last week&#39;s (April) “Nationality”, with the credit and receipt to be processed by Mr. Connolly. A handwritten note in pencil reads ‘Gave 18 copies (returned)’.Br. Allen has annotated in pencil on the back of the letter that the handwriting is that of Diarmuid Lynch (1878–1950), who was standing in for Seán Mac Diarmada on the staff of &#39;Nationality&#39; some weeks before the Easter Rising took place.Seán Mac Diarmada was one of the key organisers of the Easter Rising. He signed the Proclamation of the Irish Republic and was executed on 12 May 1916 for his involvement in the Easter Rising. Tom Clarke helped found the Irish Volunteers in November 1913 and was one of the main figures behind the coup of 24 September 1914 against John Redmond. He was a key planner and instigator of the 1916 Easter Rising, served in the GPO garrison during the Easter Rising and was executed on 3 May 1916. Diarmuid Lynch served in the GPO garrison during the Easter Rising and was sentenced to death, but this was commuted to ten years penal servitude because of his American citizenship. Released on amnesty in June 1917, he was appointed Sinn Féin food controller, but was arrested in 1918 and deported to the USA, where he became National Secretary of the Friends of Irish Freedom (FOIF).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Allen Library, Br. Allen Collection, IE/AL/1916/8</collection>
+                  <idno>https://letters1916.ie/item/538</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1090">Seán Mac Diarmada</persName>
+              <date>1916-04-05</date>
+              <placeName key="#letters1916_place-1861">12 D&#39;Olier Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas James Clarke</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0036">Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1916</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0538_img_1917_1"  type="Letter"  url="8b88e54adf18ffa82a1dc51ad70faf29.jpg"/>
+      <graphic xml:id="L1916_0538_img_1917_2"  type="Letter"  url="fdd6a2f8470a3f073cecdb291aeacb31.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0538_img_1917_1"/>
+              Offices: 12 D'OLIER STREET,    Dublin. Apr. 5 1916       Mr Tom Clarke   In Account with 'NATIONALITY' &amp;#193;R DT&amp;#205;R F&amp;#201;  A NATIONAL WEEKLY JOURNAL          A Cara      Please give bearer any of last week's ( A.M.J. )<lb/>'Nationality' you have left over.  You can hand receipt for same to Mr Connolly<lb/>to whom we will credit as 'returns.' <seg type="closer"> Mise le meas mÃ³r   SeÃ¡n mac Diarmada </seg>
+            <pb n="2" facs="L1916_0538_img_1917_2"/>
+               This note is in the handwriting <lb/> of Diarmuid Lynch who was <lb/> taking Sean M <hi rend="superscript">c</hi>Dermott's place on <lb/> the staff of the Nationality for some <lb/> weeks before the Rising <lb/> ( From information given <lb/> me by Diarmuid Lynch ) <hi rend="underline">M.P. Allen</hi>  
+         </ab>
+      </body>
+   </text>
+</TEI>

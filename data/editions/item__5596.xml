@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5596">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Lord French to Sir John Maxwell, 1 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Denton Pinkstone French</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Lord French, John Denton Pinkstone French, 1st Earl of Ypres (1852-1925), commander of all British forces on home service, 1916-1918, to Sir John Maxwell (1859-1929), primarily responsible for government policy in the immediate aftermath of the Rising.
+The letter was written in the aftermath of the Easter Rising in Dublin, before the first executions of the Rising&#39;s leaders. Lord French congratulates Maxwell on the &#39;good work which has been done in Ireland&#39;. He says he showed Maxwell&#39;s letter to the Prime Minister who was &#39;very pleased with it all&#39;. French indicates that he has made enquiries about getting ten Camalters (shire horses) for Maxwell&#39;s cavalry.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>De Valera Papers, P150/512</collection>
+                  <idno>https://letters1916.ie/item/5596</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0358">John Denton Pinkstone French</persName>
+              <date>1916-05-01</date>
+              <placeName key="#letters1916_place-1231">G.H.Q. Home Forces, Horse Guards, Whitehall, S.W., London</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0174">John Grenfell Maxwell</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1925</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5596_img_690_1"  type="Letter"  url="07a984de68d585466071a780fb40957a.jpg"/>
+      <graphic xml:id="L1916_5596_img_690_2"  type="Letter"  url="48f91b910fd78047981908b9a3ef7f79.jpg"/>
+      <graphic xml:id="L1916_5596_img_690_3"  type="Letter"  url="80126d647f7db4a47bcc11aab9f14a58.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5596_img_690_1"/>
+             G.H.Q. Home Forces, <lb/> Horse Guards, <lb/> Whitehall, S.W.   <hi rend="underline">May. 1. 1916</hi>    My Dear Maxwell     is <lb/>my luck to you and <lb/>is taking these <lb/>few lines.   I congratulate you on <lb/>the good work which 
+            <pb n="2" facs="L1916_5596_img_690_2"/>
+            <lb/>has been done in Ireland.   I was with the <lb/>Prime Minister this <lb/>afternoon &amp; I showed <lb/>him your letter &amp; <lb/>report. He is very <lb/>worried with it <lb/>all.  
+            <pb n="3" facs="L1916_5596_img_690_3"/>
+             I asked you again, <lb/>what the Cavalry is I <lb/> request you might <lb/>perhaps want a request <lb/>or two.   I don't think the <lb/>casualties were excessive <lb/>in view of the work <lb/>which was <lb/>  done. 
+         </ab>
+      </body>
+   </text>
+</TEI>

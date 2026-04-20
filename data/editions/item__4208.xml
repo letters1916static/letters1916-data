@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4208">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Samuel Shaw to Martha Shaw, 6 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Samuel Shaw</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Samuel Shaw to his mother,  Martha Shaw, discussing a big naval battle which has taken place recently. Samuel writes that as far as he can tell the H.M.S. Albemarle, his brother William&#39;s ship, was not involved. 
+
+Samuel Henry Shaw (1896-1967) was a sergeant with the 10th Battalion, Royal Inniskilling Fusiliers. He volunteered for active service in September 1914. Before enlisting Samuel was a member of the Portstewart Company, Coleraine Battalion, North Derry Regiment, Ulster Volunteer Force. Samuel served in France, and was wounded during the Battle of the Somme in July 1916 and again in early 1917 and in 1918. Before the War he was employed as a ironmonger&#39;s assistant. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Shaw Papers, D1962-31</collection>
+                  <idno>https://letters1916.ie/item/4208</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0493">Samuel Shaw</persName>
+              <date>1916-05-06</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Martha Shaw</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1967</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4208_img_3579_1"  type="Letter"  url="50f5caaec49d68a7e61143dfe1ac1830.jpg"/>
+      <graphic xml:id="L1916_4208_img_3579_2"  type="Letter"  url="3d881e05a439b31a20b25fa5aad8c644.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4208_img_3579_1"/>
+             France   6 — 6 — 16.   My Dear <lb/>Mother   Just a few lines <lb/>to let you know ;I am <lb/>well. I received your <lb/>parcel all right. I see <lb/>by the paper that there <lb/>has been a big naval <lb/>battle. I don't see any <lb/>account of the <seg type="unclear">Albermale</seg> <lb/>being in it, its all the <lb/>better. There was some <lb/>great reports out here.   Some said there was 14 <lb/>of our boats down &amp; <lb/>3 Germans and vise <lb/>versa. I hope the
+            <pb n="2" facs="L1916_4208_img_3579_2"/>
+            fishing is still good. <lb/>And that you are all <lb/>in the best of health. <lb/>Eddie Scott &amp; Hedley ex— <lb/>pect to get leave shortly <lb/>mine will come sometime <lb/>I think this is all at <lb/>present. With love to all.   I remain <lb/>Your Loving Son   <hi rend="underline">Sammie</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

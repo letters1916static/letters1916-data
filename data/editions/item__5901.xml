@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5901">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from A.J. Digan to Miss Murray, 12 September, 1916. </title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>A.J. Digan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Lieutenant Colonel A.J.Digan, Connaught Rangers, a prisoner of war in Bulgaria.
+This typewritten note refers to applications for assistance, boots, and clothing, received from two Connaught Rangers Prisoners of War in Sofia, Bulgaria. Writer asks that, if these men are not already on the books (possibly of the Irish Women&#39;s Association), assistance should be sent.
+There is also a handwritten note on the back summarising the letter and adding &#34;wrote to I.W.A. Sep 19 1916&#34;.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No. 54; Ms. 35,796/11/7a</collection>
+                  <idno>https://letters1916.ie/item/5901</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0024">A.J. Digan</persName>
+              <date>1916-09-12</date>
+              <placeName key="#letters1916_place-0106">Kinsale, Co. Cork, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Miss Murray</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5901_img_996_1"  type="Letter"  url="a3b5d0758f1284861c100a1e562c8f15.jpg"/>
+      <graphic xml:id="L1916_5901_img_996_2"  type="Letter"  url="4b5be57f17e6d0607f24eca674e6e58c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5901_img_996_1"/>
+             <hi rend="underline">Kinsale,</hi>  <hi rend="underline">12th Sept, 1916.</hi>   Dear Miss Murray,   Application has been received from No. 4807 <lb/>Private R.<seg type="del">Finch</seg> FRENCH and No. 5243 Pte W. Hore, The <lb/>Connaught Rangers, who stated that they are <lb/>Prisoner's of War at Sofia, Bulgaria, and who ask <lb/>for assistance, boots and clothing.   If these men's names are not already on your <lb/>books, can you please arrange that assistance be <lb/>sent them.   Yours sincerely,   A.J. Digan 
+            <pb n="2" facs="L1916_5901_img_996_2"/>
+             1916 <lb/>Sep: 16 <lb/>French &amp; Hore C.R. <lb/>Col. Digan <lb/>2 Prisioners of War <lb/><seg type="unclear">to miss Murray —</seg> <lb/>re - Prisoners of War <lb/><seg type="unclear"><hi rend="underline">Bulgaria</hi></seg> <lb/>Wrote to <lb/>J.W.A. Sep: 19.1916 
+         </ab>
+      </body>
+   </text>
+</TEI>

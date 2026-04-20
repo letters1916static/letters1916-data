@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0367">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Horatio Gilbert George Parker to Mr. McDowell, 28 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Horatio Gilbert George Parker</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Horatio Gilbert George Parker (1862-1932) to Mr. McDowell. In the letter Parker discusses a letter from Andrew Bonar Law (1858-1923), the secretary for the colonies from 1915 to 1916. Parker states that he is sending on documents regarding the execution of Edith Cavell (1865-1915), a British nurse who was executed by a German firing squad for treason in 1915. Parker states that he will forward the Bryce report, a report formed by Lord James Bryce (1838-1922) regarding German atrocities during World War I.Parker was a Canadian novelist and British politician who, during the war, became heavily involved in propaganda to promote British/American relations.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5611/8581/3</collection>
+                  <idno>https://letters1916.ie/item/367</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0113">Horatio Gilbert George Parker</persName>
+              <date>1916-01-28</date>
+              <placeName key="#letters1916_place-1481">20 Carlton House Terrace, London S. W., England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mr. McDowell</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0367_img_1613_1"  type="Letter"  url="fa11eb66e99aaf889f7e9b5308ec5779.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0367_img_1613_1"/>
+              CABLE ADDRESS, <lb/>'PARKGILBER, LONDON'.    20,Carlton House Terrace.  London. S.W.    28th January, 1916.   My dear Mr. McDowell,   Your letter to Mr. Bonar Law, the Secretary <lb/>for the Colonies, has come into my hands in ordinary <lb/>course, as I have an organization which deals with the <lb/>United States. I am having sent to you the Blue <lb/>Book concerning the War; the Account of the Execution <lb/>of Miss Edith Cavell; Lord Bryce's Report, etc. I <lb/>trust you may find them convenient and useful. I <lb/>append a list of the papers and documents sent, herewith.  <seg type="closer"> Believe me to be, Yours very truly,  <hi rend="underline">Gilbert Parker</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

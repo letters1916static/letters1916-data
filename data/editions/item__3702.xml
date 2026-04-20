@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3702">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Andrew Philip Magill to T.J. Hanna, 17 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>A.P. Magill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Andrew Philip Magill (1871-1941) to T.J. Hanna, John Redmond&#39;s secretary. Magill writes to discuss army and police salaries. They enclosed multiple newspaper cuttings pertaining to the subject. 
+
+Andrew Philip Magill had a varied career in the Irish civil service; he moved to the Ministry of Home Affairs in Northern Ireland before resigning prematurely in 1925. As private secretary to Augustine Birrell, the Chief Secretary whose resignation was prompted by the 1916 Rising, Magill was well placed to observe the often bizarre workings of the pre-revolutionary Irish administration. His subsequent postings in Dublin and Belfast likewise made him an invaluable witness of conflicts associated with revolution and partition.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>John Redmond Papers, Collection List No. 118; MS 15,259</collection>
+                  <idno>https://letters1916.ie/item/3702</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0765">A.P. Magill</persName>
+              <date>1915-12-17</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0125">T.J. Hanna</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3702_img_3093_1"  type="Letter"  url="f554a4bce12274f6f7b16457002e5225.jpg"/>
+      <graphic xml:id="L1916_3702_img_3093_2"  type="Letter"  url="198c1efce35c94aab03ec4bed3c83c18.jpg"/>
+      <graphic xml:id="L1916_3702_img_3093_3"  type="Enclosure"  url="6d98a4ce096f0ce5b5f529985fccb650.jpg"/>
+      <graphic xml:id="L1916_3702_img_3093_4"  type="Enclosure"  url="c661fd9a83f0a9febeae9655974e3a4d.jpg"/>
+      <graphic xml:id="L1916_3702_img_3093_5"  type="Enclosure"  url="bebe3b78074db15af0d729e26153808f.jpg"/>
+      <graphic xml:id="L1916_3702_img_3093_6"  type="Enclosure"  url="13330a02a01474dfaa14e051f01fef2a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3702_img_3093_1"/>
+             IRISH OFFICE <lb/>OLD QUEEN ST. S.W.    17.12.15   Dear Hanna,   I hope enclosed <lb/>is all right. I have given <lb/>you references to the blue <lb/> books out of which I <lb/><seg type="unclear">dug</seg> a good deal of the <lb/> information in case you <lb/>want to go into it <lb/> more deeply.   A <hi rend="underline">very</hi> rough
+            <pb n="2" facs="L1916_3702_img_3093_2"/>
+            <lb/>estimate of what it <sic>wd.</sic> cost <lb/>to make up the difference <lb/>between Army &amp; Police <lb/>pay is about 15/- or 16/- <lb/>a week for each man <lb/>say £40 a year but <lb/>you must remember that <lb/>whatever is granted to the <lb/>R.I.C. must also be <lb/>given to the London Police <lb/>&amp; it would I fancy <lb/>have to be made <lb/>retrospective, so the bill <lb/>would tot up to a <lb/>pretty big sum.   Yours in haste   A.P. Magill.   I return newspaper cuttings: 
+            <pb n="3" facs="L1916_3702_img_3093_3"/>
+            
+            <pb n="4" facs="L1916_3702_img_3093_4"/>
+            
+            <pb n="5" facs="L1916_3702_img_3093_5"/>
+            
+            <pb n="6" facs="L1916_3702_img_3093_6"/>
+            
+         </ab>
+      </body>
+   </text>
+</TEI>

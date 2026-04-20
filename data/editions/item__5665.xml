@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5665">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Administrative Area Officer, Royal Hospital Dublin, to the Chief Crown Solicitor in Dublin Castle, 17 March 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Administrative Area Officer, Royal Hospital Dublin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A series of letters between the Administrative Area Officer, Royal Hospital Dublin and the Chief Crown Solicitor Malchy Kelly (1850-1916), Dublin Castle concerning an injury sustained by Patrick Sheehan (1879-?) while he was working as a casual labourer employed by the Forage Department to handle hay, oats and straw. The series of letters concerns possible compensation as this was an injury sustained at work.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI_CSO_RP_1916_3785_2</collection>
+                  <idno>https://letters1916.ie/item/5665</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1197">Administrative Area Officer, Royal Hospital Dublin</persName>
+              <date>1916-03-17</date>
+              <placeName key="#letters1916_place-0388">Royal Hospital, Kilmainham, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0509">Malachy Kelly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5665_img_759_1"  type="Letter"  url="5656f64bcca99a43b8fa172b234e5f68.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5665_img_759_1"/>
+             <lb/>Ref. No. 92.<lb/><hi rend="underline">Subject Injury to Patrick Sheehan.</hi>   A.A.O., Ireland,<lb/>Royal Hospital,<lb/>Dublin.   17th March, 1916   The Chief Crown Solicitor,<lb/>Dublin Castle   Sir,   I have yours of 16/3/16 with reference<lb/>to Patrick Sheehan and have instructed the D.P.O.S.<lb/>Cork to take action as indicated   yours faithfully      Colonel,<lb/>Administrative Area Officer,<lb/>M.R.  
+         </ab>
+      </body>
+   </text>
+</TEI>

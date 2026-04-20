@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0172">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward O'Farrell to Charles Edward Troup, 27 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward O&#39;Farrell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Edward O&#39;Farrell (1857-1926), the assistant under-secretary for Ireland, to Sir Charles Edward Troup (1857-1941), the permanent under-secretary of state at the British Home Office. This letter was written a month following the Rising and relates to the enforcement of a state of martial law in Ireland. Enclosed is a written statement regarding martial law and a poster on same.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5612/9002/3</collection>
+                  <idno>https://letters1916.ie/item/172</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date>1916-05-27</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Charles Edward Troup</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0658">Whitehall, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0172_img_1308_1"  type="Letter"  url="089ac04d5eed0dcfa693444a2d6c115d.jpg"/>
+      <graphic xml:id="L1916_0172_img_1308_2"  type="Enclosure"  url="5984a01a281ebaacca0fc77cf27f7c6a.jpg"/>
+      <graphic xml:id="L1916_0172_img_1308_3"  type="Enclosure"  url="94fce3651c635e4a0185f316c2f71bc3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0172_img_1308_1"/>
+                27th May, 1916.   Sir,   I am directed by the Lords Justices to <lb/>enclose, for the information of the Secretary of <lb/> State, a copy of a Proclamation made by Their Ex- <lb/>cellencies on the 26th instant, directing that a <lb/> state of Martial Law shall continue to exist <lb/>throughout Ireland until further order. <seg type="closer"> I am, <lb/> Sir, <lb/>Your obedient Servant,  <lb/> E. O'Farrell   The Under Secretary of State,  Scottish Office,  Whitehall,  London, S.W.  </seg> 
+            <pb n="2" facs="L1916_0172_img_1308_2"/>
+                LAW ROOM,  DUBLIN CASTLE.    Whereas dissatisfaction and unrest still <lb/> prevail in certain parts of Ireland <lb/> causing unrest and alarm amongst the <lb/> peaceful <seg type="del">deleted text</seg> law abiding subjects of his Majesty, <lb/> Now we ( n ? ) do hereby proclaim that a <lb/> state of Martial Law shall continue to <lb/> exist throughout Ireland until further <lb/> order  <seg type="closer"> EF   25-5-16  </seg> 
+            <pb n="3" facs="L1916_0172_img_1308_3"/>
+               <lb/>BY THE LORDS JUSTICES GENERAL AND <lb/>GENERAL GOVERNORS OF IRELAND <lb/>A PROCLAMATION  WHEREAS disaffection and unrest still <lb/>prevail in certain parts of Ireland, causing <lb/>anxiety and alarm amongst the peaceful and <lb/>law abiding subjects of His Majesty: <lb/>NOW WE, the Lords Justices General <lb/>and General Governors of Ireland DO HEREBY <lb/>proclaim that a state of <lb/>MARTIAL LAW <lb/>shall continue to exist throughout Ireland until <lb/>further order.   <lb/>Given at His Majesty's Castle of Dublin, <lb/>this 26th of May, 1916. <lb/>RICHD. R, CHERRY, L.C.J. <lb/>J.O. WYLIE <lb/>GOD SAVE THE KING  
+         </ab>
+      </body>
+   </text>
+</TEI>

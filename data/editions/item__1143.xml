@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1143">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Butler to Lord Wimborne, 15 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Butler</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from John Butler to Lord Wimborne (1873-1939), Lord Lieutenant of Ireland, putting forward his case to be appointed as magistrate for the Borough of Waterford. Butler is the proprietor of Ryan and Butler tea and wine merchants in Waterford. He stresses his loyalty to the Allies and his work for the war effort to date and suggests that his appointment could be used to assist the war effort through his promotion of recruiting to the British Army. Ivor Churchill Guest, 1st Viscount Wimborne was appointed the Lord Lieutenant of Ireland in 1915. Guest worked closely alongside Sir Matthew Nathan (1862-1939) in the administration of Ireland. Following the suppression of the Rising, Guest, under pressure, was forced to resign as Lord Lieutenant. A later inquiry into the Rising exonerated Guest and held Augustine Birrell (1850-1933) chiefly responsible for the events that occurred. Guest would continue to serve as Lord Lieutenant until 1918.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI CSO RP 1916/695/38/8, NAI CSO RP 1916/695/38/8</collection>
+                  <idno>https://letters1916.ie/item/1143</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0374">John Butler</persName>
+              <date>1915-11-15</date>
+              <placeName key="#letters1916_place-2101">Waterford, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1374">Ivor Churchill Guest</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1143_img_375_1"  type="Letter"  url="2fef9a711d0e8918f688549f1fe7a0f4.jpg"/>
+      <graphic xml:id="L1916_1143_img_375_2"  type="Letter"  url="fc1b0dd9fd8acc49492c9c22479fc236.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1143_img_375_1"/>
+                From Ryan &amp; Butler  (Late Roderick Ryan.)  TEA &amp; WINE MERCHANTS.  4, Michael Street. Waterford     15 November 1915    To His Excellency,  The Lord Lieutenant  of Ireland   May it please your Excellency â    I am in receipt of your letter in <lb/>connection with recruiting â I am quite aware of the great <lb/>necessity of all men military age joining the army â <lb/>and have for a considerable time past advised all with whom <lb/>I have come in contact to do so, &amp; in my own small way <lb/>have done my 'little bit' quietly, none the less effectively, <lb/>for the past year. I have sent several contributions to the 'National <lb/>Relief Fund' leaving on my premises a collection box for <lb/>small sums, and already not a few of my employees <lb/>(over)  
+            <pb n="2" facs="L1916_1143_img_375_2"/>
+              have joined the Colours, the last joined the <lb/>Irish Guard a few days ago and is at present <lb/>at Athlone. I have &amp; will give my employees <lb/>every facility &amp; encouragement to join, &amp; sometimes <lb/>I get loudly abused by their parents, I don't mind <lb/>as my heart and soul are with the Allies &amp; were <lb/>I not the proprietor of this establishment &amp; running a <lb/>large business I would willingly offer my services <lb/><sic>altho</sic> nearly 60 years of age. If your Excellency could <lb/>see your way to appoint me as a magistrate for  the  Borough <lb/>of Waterford then I do believe a much larger field would <lb/>be open to use for assisting a cause I have so much <lb/>at heart. <seg type="closer"> I remain your Excellency's humble servant,  John Butler. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5429">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Sweetman to Piaras Béaslaí, 10 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Sweetman</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from John Sweetman (1844-1936) to Piaras or Pierce Béaslaí, born Percy Beazley (1881-1965). Sweetman was a former Irish Parliamentary Party MP who became president of the Irish Volunteers in Kells, where he owned the large Drumbaragh estate, in 1914. He was arrested after the Easter Rising and became involved in rebuilding Sinn Féin after his release. Béaslaí was a journalist and member of the militant Keating branch of the Gaelic League. He fought in the North King Street area during the Easter Rising and was imprisoned afterwards. He later became publicity officer in the Dáil government and edited the IRA newspaper &#39;An t-Oglach&#39;.
+The letter refers to a copy of a speech made by Sweetman which Béaslaí had requested.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Piaras Béaslaí Papers, Collection List No 44; Ms. 33,917 (2)</collection>
+                  <idno>https://letters1916.ie/item/5429</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0883">John Sweetman</persName>
+              <date>1916-03-10</date>
+              <placeName key="#letters1916_place-0989">Drumbaragh, Kells, County Meath</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Piaras Béaslaí</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1936</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5429_img_471_1"  type="Letter"  url="e0156d6c4a6c5927bd0e6e623cab777f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5429_img_471_1"/>
+             DRUMBARAGH, <lb/>KELLS, <lb/>Co. MEATH   March 10<hi rend="superscript">th</hi> 1916   Pierce Beazley Esq   Sir:-   I have received your <lb/>letter asking me for the <lb/>manuscript of my speech. <lb/>I send it to you having <lb/>cut out the portion which <lb/>I did not deliver owing to <lb/>the number of speakers. I <lb/>have published that portion as <lb/>an article in New Ireland.   Yours Truly   John Sweetman 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3988">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James O' Dwyer to Art Ó Briain, 31 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James O&#39; Dwyer</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter from Irish Prisoner of War number 1129 clarifies a request made of a Mrs Ginnell for a strong bag, acknowledges receipt of stamps and makes reference to the well being of the prisoners.
+
+From the Art Ó Briain Papers held in the National Library of Ireland.   NLI records indicate that MS 8434 /23 is a collection (13 items) of letters from prisoners in Frongoch and Reading jails.
+
+Art Ó Briain (1872-1949) was Honorary Secretary of The Irish National Relief Fund which was set up to provide assistance to the dependents of those executed in 1916, those sentenced to prison and to the prisoners themselves.
+
+According to the 1936 Roll of Honour, James O&#39; Dwyer was a member of the Irish Citizen Army and served at the Stephen&#39;s Green Garrison.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Art Ó Briain papers, c. 1900-c.1945, Ó Briain’s work for Irish political prisoners (1916-21), MS 8434 / 23-6</collection>
+                  <idno>https://letters1916.ie/item/3988</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0261">James O&#39; Dwyer</persName>
+              <date>1915-08-31</date>
+              <placeName key="#letters1916_place-1189">Frongoch, North Wales, United Kingdom</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Art O Briain</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0554">London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3988_img_3375_1"  type="Letter"  url="5ce1d8eeb713c21a6480984a866b6b83.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3988_img_3375_1"/>
+             James O' Dwyer 1129<lb/>Irish Prisoner of War<lb/>Frongoch Camp North Wales   August 31<lb/>1916    Dear Art O' Brien   In answer to your letter<lb/>The bag I asked Mrs. Ginnell<lb/>for was one to hold my<lb/>clothes any sort of a strong<lb/>one will do  Thanking you for the stamps<lb/>We are all well <seg type="del">hear</seg> here and<lb/>making the best of ours <sic>Ciptivity</sic>   Sincerely Yours<lb/>James O' Dwyer  
+         </ab>
+      </body>
+   </text>
+</TEI>

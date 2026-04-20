@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0037">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Alfred Byrne to Helena Molony and Nellie Gifford, 4 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Alfred Byrne</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from politician and Dublin MP Alfred &#39;Alfie&#39; Byrne (1882-1956) to Helena Molony (1883-1967), republican, feminist and labour activist, and Helen &#39;Nellie&#39; Gifford (1880-1971), republican activist. This letter refers to fears that Irishmen residing in Britain would be conscripted into the British army (conscription was introduced in Britain but never in Ireland). Byrne outlines plans to oppose this.Byrne was first elected an MP in the 1915 by-election as a nationalist candidate for the Irish Parliamentary Party. Although opposed to the Easter Rising, he spent 1916 lobbying on behalf of the interned prisoners. Before the Rising he was also a vociferous anti-conscription campaigner. Molony was a founder member of Inghinidhe na hÉireann, a member of the Irish Citizen Army and a close colleague of James Connolly and Countess Markievicz. She was part of the garrison of rebels who seized City Hall during the Easter Rising and was imprisoned in Aylesbury prison until December 1916. Nellie Gifford was an active opponent of conscription in Ireland. She was a member of the Irish Citizen Army and part of the St Stephen&#39;s Green garrison during the Easter Rising. Two of her sisters were married to executed leaders of the Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Helena Molony Collection, BMH CD/119/1/3/2</collection>
+                  <idno>https://letters1916.ie/item/37</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1405">Alfred Byrne</persName>
+              <date>1916-01-04</date>
+              <placeName key="#letters1916_place-0081">House of Commons, Westminster, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0602">Helena Molony</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0037_img_1069_1"  type="Letter"  url="dbfa9fc2846f03535087bb5e8e45682c.jpg"/>
+      <graphic xml:id="L1916_0037_img_1069_2"  type="Letter"  url="a1ce327f35f35e8f7315d783d6068ba7.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0037_img_1069_1"/>
+                4/1/16   Dear Miss Molony   I have been making inquiries <lb/> about the position of Irishmen <lb/> in Great Britain and I am <lb/> informed the best way to safe guard <lb/> them is to oppose the conscription <lb/> bill on the whole should we fail <lb/> to defeat it. I will then put <lb/> down an amendment to exempt <lb/> all Irishmen no matter where they  
+            <pb n="2" facs="L1916_0037_img_1069_2"/>
+              reside. This you can rest assured <lb/> I will do  <seg type="closer"> Yours faithfully  Alfred Byrne </seg> Miss Molony <lb/> Miss Gifford  
+         </ab>
+      </body>
+   </text>
+</TEI>

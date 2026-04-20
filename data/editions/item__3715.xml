@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3715">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Alfred Miller to the Royal College of Physicians of Ireland, 2 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Alfred Miller</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Alfred Miller (1884-1942)  to the Royal College of Physicians of Ireland (RCPI) recommending the adoption of changes to the allotment of marks in the pathology examination.
+
+Alfred Miller served as both the registrar of the Royal College of Surgeons (1910-1938) and as secretary to the Conjoint Board of the College of Physicians and College of Surgeons. At the outbreak of the Rising Miller instructed James Duncan, the college porter, to lock the college doors in order to deter Michael Mallin&#39;s occupying rebel force in St. Stephen&#39;s Green. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T61</collection>
+                  <idno>https://letters1916.ie/item/3715</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0696">Alfred Miller</persName>
+              <date>1916-03-02</date>
+              <placeName key="#letters1916_place-1615">Royal College of Surgeons, Stephen&#39;s Green, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1942</item>
+               <item n="tag">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3715_img_3105_1"  type="Letter"  url="8ff2005eafe07684a4a8c05e50e6a5c9.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3715_img_3105_1"/>
+             CONJOINT BOARD IN IRELAND <lb/>OF THE <lb/>Royal College of Physicians and the Royal College <lb/>of Surgeons.   OFFICES OF COMMITTEE OF MANAGEMENT <lb/>ROYAL COLLEGE OF <seg type="del">PHYSICIANS</seg> SURGEONS <lb/><seg type="del"><seg type="unclear">SQUARE STREET,</seg></seg> STEPHEN'S GREEN   Dublin, 2/3/1916 190   ALFRED MILLER, <lb/>Secretary   Dear Dir,   The Examiners in Pathology waited on the Committee of <lb/>Management on their last Meeting and made suggestions with regard to <lb/>the allotment of marks in connection with the Examination in <lb/>Pathology. The Committee of Management having given the matter <lb/>their consideration decided to recommend the Colleges to adopt <lb/>their suggestion, as follows:- <lb/>Written Examination 75 marks instead of 100 <lb/>Practical 50 marks instead of 40 <lb/>Microscropical Anatomy 30 as at present <lb/>Pathological Histology 45 instead of 30 <lb/>Making a total of 200 marks as at present.   I am, <lb/>Yours faithfully,   Alfred Miller.  <lb/><hi rend="underline">Secretary</hi>  The Registrar, <lb/>Royal College dPhysicians <lb/>Dublin   Macd.C <lb/>3.VII.16 
+         </ab>
+      </body>
+   </text>
+</TEI>

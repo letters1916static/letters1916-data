@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0751">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Wilfrid Spender to his wife Lady Lillian Spender, 21 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Bliss Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from sir Wilfrid Bliss Spender (1876-1960) to his wife, Lady Lillian Spender, née Dean, (1880-1968). Spender discusses the business of his daily routine, the therapeutic power of nature, and the tensions between himself and the Central Unionist Office. He also mentions financial matters.Sir Wilfrid Spender was a member of the British Army until 1913 when controversy surrounding his signature of the Ulster Solemn League and Covenant resulted in his resignation. Spender was called up for military service in 1914 and from 1915 served in the 36th (Ulster) Division. Throughout the war, Spender wrote a collection of letters to his wife Lady Lillian Spender. The letters date mainly from 1915 to 1918, when Sir Wilfrid was serving in France. The letters concern politics, the Irish question, personal life, and Wilfrid&#39;s experience of the Great War. Lady Lillian served in the Ulster Volunteer Nursing Corps during the war, and was an organiser of the Ulster Division Comforts Fund.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Lady Spender&#39;s Correspondence, D1633/1/1/320</collection>
+                  <idno>https://letters1916.ie/item/751</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0931">Wilfrid Bliss Spender</persName>
+              <date>1916-06-21</date>
+              <placeName key="#letters1916_place-0769">France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lillian Spender</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0751_img_2275_1"  type="NULL"  url="341269bbf904887bc50be4ff605d4391.jpg"/>
+      <graphic xml:id="L1916_0751_img_2275_2"  type="NULL"  url="daf1f4f71d6e2176294b59bf10058732.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0751_img_2275_1"/>
+                21 June   My p r   Not a very long letter from you but <lb/>I am glad to see you were enjoying your visit <lb/>at the Powells. I hope he seems more content <lb/>to look on &amp; though he is so fit it may be <lb/>best.   There is a moment's pause at <lb/>present but still plenty to be done, tho' I <lb/> try to make a point of 7 hours in bed <lb/>when I can get it.   Yesterday evening I went out for a <lb/>walk to exercise &amp; found a little wood <lb/>with big <sic>oxeyed</sic> daisies something closely <lb/>resembling an anchusa with its beautiful <lb/>blue &amp; other wild flowers such as one has  
+            <pb n="2" facs="L1916_0751_img_2275_2"/>
+              not seen for many a day, &amp; one forgot <lb/>about the war in the delights of one's <lb/> flower visions â undisturbed by any  thoughts  of course <lb/> of  the rodent animals which prey upon them â <lb/>Even a rose is safe with a wolf - when <lb/>he is alone far different from what would <lb/>happen if a precious pr were there.  I sent Douglas up to my post <lb/>yesterday and he seemed quite well <lb/> pleased with it &amp; thought it quite nice.   <seg type="del">The</seg> We are laying in a water supply <lb/> and provisions so that we can stop them <lb/>if we want to.   We had some French officers to dinner  
+         </ab>
+      </body>
+   </text>
+</TEI>

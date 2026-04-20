@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1543">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from N. Maxwell, 23 July 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>N. Maxwell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was presumably addressed to Augusta Caroline Dillon (née Crofton), Lady Clonbrock (1839-1928), a prominent member of the Irish Women&#39;s Association, founded to provide assistance and supplies to Irish prisoners of war.
+The writer is concerned that a particular P.O.W., who has been transferred to another camp, may no longer be getting parcels. Writer encloses the last two (post)cards she got from him.
+A note added to the letter (by Lady Clonbrock) reads &#34;Returned 2 cards - I.W.A. say a Lady in England sends parcels regularly to him through them and Extras&#34;.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No. 54; Ms. 35,796/10/1a</collection>
+                  <idno>https://letters1916.ie/item/1543</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0680">N. Maxwell</persName>
+              <date>1916-07-23</date>
+              <placeName key="#letters1916_place-0260">Corduff House, Lusk, Co. Dublin, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0483">Augusta Caroline Dillon</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1543_img_1010_1"  type="Letter"  url="b5d645e968da71f1fa39e459114dd078.jpg"/>
+      <graphic xml:id="L1916_1543_img_1010_2"  type="Letter"  url="07cdf3c7c97522458629c7f7fed4675a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1543_img_1010_1"/>
+             Returned <lb/>2 cards — <lb/>J.W.A. say a Lady <lb/>in England sends <lb/>parcels regularly <lb/> to James Joseph there <lb/>and Extras <seg type="unclear">whence</seg> herself <lb/><seg type="unclear">Aui</seg> July 23. 1916.   Corduff House <lb/>Lusk <lb/>Co. Dublin   July 3   Dear Madam   Thanks very much <lb/> for letting me know about <lb/> Matthew James &amp; sending <lb/> me the report of the county <lb/> work. I enclose the last two <lb/> cards we got from him, which <lb/> told us he had been moved <lb/> from Sennelager. I can't read <lb/> German, but does it not <lb/> mean that the parcels <lb/>should have <seg type="unclear">Bomelah</seg> on <lb/> them &amp; <seg type="unclear">letters</seg> the other. 
+            <pb n="2" facs="L1916_1543_img_1010_2"/>
+             We are so glad to hear <lb/> M. James is getting parcels <lb/> through the <seg type="del">So.</seg> Association.   Yours very truly   N. Maxwell 
+         </ab>
+      </body>
+   </text>
+</TEI>

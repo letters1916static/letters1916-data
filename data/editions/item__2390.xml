@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2390">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from W. A. Tait to the Chief Secretary for Ireland, 13 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>W. A. Tait</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from W. A. Tait to Augustine Birrell, (1850–1933), the Chief Secretary for Ireland, seeking information on the powers of Ireland&#39;s local authorities regarding grants to universities and colleges of higher education.  
+
+W. A. Tait was the son of the Scottish physicist, Peter Guthrie Tait (1831-1901).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI: &#39;Chief Secretary’s Office Registered Papers; CSORP/1916/7310/3</collection>
+                  <idno>https://letters1916.ie/item/2390</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0770">W. A. Tait</persName>
+              <date>1916-04-13</date>
+              <placeName key="#letters1916_place-0475">72a George Street, Edinburgh, Scotland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0534">Augustine Birrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0350">Chief Secretary's Office, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2390_img_1833_1"  type="Letter"  url="db9daa55f81c64699961d86a8c31c75a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2390_img_1833_1"/>
+             72<hi rend="superscript">A</hi> George Street, Edinburgh.   13th April 1916   Sir   <hi rend="underline">Higher Education</hi>   Will you very kindly refer me to any Blue Book or <lb/>other authoritative source of information which details the <lb/>powers which Local Authorities in Ireland have to make grants <lb/>to Universities and Colleges etc in aid of higher education <lb/>and which also records the extent to which these powers have <lb/>been exercised in recent years.   I am, Sir,  <lb/>Your obedient Servant   W A Tait   The Chief Secretary for Ireland, <lb/>Dublin Castle.   Rep. <lb/>Do the Colleges or the National <lb/>University publish annual reports? <lb/> I.J.T. 15/4/16   Mr Taylor <lb/>The Calendars appear to be the <lb/>only annual publication 
+         </ab>
+      </body>
+   </text>
+</TEI>

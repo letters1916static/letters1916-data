@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0419">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from 'A Loyal Subject' to Lord Wimborne, undated, circa 22 November, 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from an anonymous &#39;Loyal Subject&#39; to Ivor Churchill Guest, Lord Wimborne (1873-1939). The letter concerns a move by the Kerry County Council to change the criteria for appointment of the management committee of the Tralee and Dingle Light Railway (which requires the permission of the Lord Lieutenant). The effect of the current criteria is to disqualify a number of sitting committee members and this appears to be why Kerry County Council is seeking to legitimise their position. The writer mentions two individual currently serving committee members, which, clearly, he deems to be unsuitable. Both are Sinn Féin activists, one has been involved in public disturbance, the other a discharged bankrupt.Ivor Churchill Guest, 1st Viscount Wimborne was appointed the Lord Lieutenant of Ireland in 1915. Guest worked closely alongside Sir Matthew Nathan (1862-1939) in the administration of Ireland. Following the suppression of the Rising, Guest, under pressure, was forced to resign as Lord Lieutenant. A later inquiry into the Rising exonerated Guest and held Augustine Birrell (1850-1933) chiefly responsible for the events that occurred. Guest would continue to serve as Lord Lieutenant until 1918.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/19613/1</collection>
+                  <idno>https://letters1916.ie/item/419</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-2036">Tralee, County Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1374">Ivor Churchill Guest</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0419_img_1714_1"  type="Letter"  url="c6f2ac210a2d4721c0e4740fc37516d5.jpg"/>
+      <graphic xml:id="L1916_0419_img_1714_2"  type="Letter"  url="2a935c7d13e37f6c82726ccb01ebce1a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0419_img_1714_1"/>
+                Tralee   To His Excellency <lb/>Lord Lieutenant <lb/>of Ireland    With reference to a resolution <lb/> at the Kerry Co Council <lb/> here regarding the Committee <lb/> of the Tralee and Dingle Railway <lb/> to petition Your Excellency to get <lb/> this <seg type="del">L</seg> 1 taken off which is <lb/> the cause of disqualifying <lb/> them from acting on the board. <lb/> One of those gentlemen J P <lb/> O'Donnell is one of the heads <lb/> of the Sinn Feiners and took <lb/> a most prominent part in a <lb/> meeting held in  
+            <pb n="2" facs="L1916_0419_img_1714_2"/>
+              Castleisland by Dermot <lb/> Fitzgerald who is now in prison <lb/> for offence against the Defence <lb/> of the Realm Act. That night <lb/> when O'Donnell returned to <lb/> Tralee he was firing shots <lb/> through the streets and was <lb/> brought up by the police for <lb/> it but through some great <lb/> influence got out of it, you <lb/> can ask your own D.J. in <lb/> Tralee about this. You can <lb/> also see in the Kerry News <lb/><sic>were</sic> he opposed giving hay <lb/> to the government. This is one <lb/> of the Committee whom they <lb/> are about to petition you <lb/> for. Another one of the <lb/> Committee T. J. Baker is a discharged bankrupt <lb/> and is also a great Sinn Feiner  <seg type="closer"> A Loyal Subject </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

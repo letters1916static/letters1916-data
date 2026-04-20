@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0976">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Helen Sophia Chenevix to Hanna Sheehy Skeffington, 22 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Helen Sophia Chenevix</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Helen Sophia Chenevix (b. 1886) to Hanna Sheehy Skeffington (1877-1946). Chenevix apologises to Hanna Sheehy Skeffington for a book of Skeffington&#39;s that had ended up lost in Chenevix&#39;s library. She also apologises for not being able to sell tickets to an event that occurred the Sunday previous and writes that she hopes it went well.Chenevix was a suffragist, trade unionist, and social campaigner. In 1911, she co-founded the Irishwomen&#39;s Suffragist Federation, a non-militant, secular, and politically independent organization that attempted to coordinate suffrage efforts. She also helped to form the Dublin&#39;s Irish Women&#39;s Reform League and the Belfast&#39;s Women&#39;s Suffrage Society and campaigned for women&#39;s suffrage to be included in the 1912 Home Rule Bill. Hanna Sheehy Skeffington, suffragette, nationalist, language teacher, was the widow of Francis Sheehy-Skeffington (who was summarily executed on 26 April 1916). She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>MS 33,604/16-1, MS 33,604/16-1</collection>
+                  <idno>https://letters1916.ie/item/976</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0507">Helen Sophia Chenevix</persName>
+              <date>1916-02-22</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Culture and the Arts</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0976_img_2821_1"  type="Letter"  url="99dae572d271db3bfd7419e80aeb03b3.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0976_img_2821_1"/>
+              IRISHWOMEN'S REFORM LEAGUE <lb/>AFFILIATED TO <lb/>IRISHWOMEN'S SUFFRAGE FEDERATION   Office â 29 SOUTH ANNE STREET.  DUBLIN    22<hi rend="superscript">nd</hi><hi rend="underline">Feb.</hi> 1916.   Dear Mrs Skeffington,   I have found this book, which evidently belongs to you, <lb/>in my Library. I don't know how it got there, but I am <lb/>afraid we must have had it a long time. I hope you <lb/>were not looking for it.  I am sorry to say we did not succeed in selling <lb/>any tickets for the entertainment last Sunday, though I <lb/>believe some of our people went to it. I hope it went <lb/>off well. <seg type="closer"> Yrs. sincerely  H.S. Chevenix </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2315">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Robert Wilson to Frederick Hugh Crawford, 16 April 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Robert Wilson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by John Robert Wilson (b.1865) to Frederick Hugh Crawford (1861-1952), soldier and UVF gun-runner. During the first world war Crawford was appointed OC Royal Army Service Corps in Northern Ireland. In this letter Wilson explains that he did not have a chance to reply, due to illness, to Crawford&#39;s note, in regards &#39;Naomi&#39;s visit&#39;. Wilson is keen to have Naomi visit him, but wishes to postpone it until the end of her next term for various reasons and he promises to write to her accordingly.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Crawford Papers, D/1700/5/17/1/131</collection>
+                  <idno>https://letters1916.ie/item/2315</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1268">John Robert Wilson</persName>
+              <date>1916-04-16</date>
+              <placeName key="#letters1916_place-0524">127 Hale Road, Altrincham, Chesire, Engalnd.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0900">Frederick Hugh Crawford</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2315_img_1762_1"  type="Letter"  url="51b0d791e3f89a1579ee65314ec4b8d8.jpg"/>
+      <graphic xml:id="L1916_2315_img_1762_2"  type="Letter"  url="4cbd2623fc1acd9dc1d19bbcaa5d93cd.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2315_img_1762_1"/>
+             127, HALE ROAD, <lb/>ALTRINCHAM.   April 16/16   My dear Fred.   Owing to so much <lb/>sickness due to the <lb/>changeable weather I have <lb/>not had time to reply to your <lb/>note of the 13<hi rend="superscript"><hi rend="underline">th</hi></hi> <seg type="unclear">till</seg> about <lb/>Naomis visit.   I should like to have her over <lb/>but at present it is not <lb/>convenient and I shall <lb/>be glad if she will postpone
+            <pb n="2" facs="L1916_2315_img_1762_2"/>
+            it until the end of her <lb/>next term, when the weather <lb/>will be better and I <lb/>shall have more time <lb/>to discuss matters with <lb/>her. She will also be <lb/>able to stay longer than <lb/>a few days which is <lb/>scarcely worth all the <lb/>expenses.   Within the next few days I will write to Naomi. <lb/>If Stuart is not <lb/>coming home for his <lb/>holiday I shall be glad <lb/>to see him here. He <lb/>has friends and can <lb/>look after himself.   Have you heard any news <lb/>of "The <seg type="unclear">Fanny</seg>"?   Yours very sincerely,   <hi rend="underline">J. R. Wilson</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4376">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from MW O'Reilly to 'A Cara', 16 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M.W. O&#39;Reilly</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letters from Volunteer M W O’Reilly to an unidentified friend, written while imprisoned in Knutsford, 1 and 16 June 1916. O&#39;Reilly mentions June Kavanagh. Mentions he has had a visit from his wife and brother so therefore his &#39;cara&#39; is not one of them. It mentions that he might be moved from that prison but he is unsure. Mentions that teachers from Manchester visit them with &#39;all sorts of nice things&#39;.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>The Jackie Clarke Collection</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/4376</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1028">M.W. O&#39;Reilly</persName>
+              <date>1916-06-16</date>
+              <placeName key="#letters1916_place-0459">Knutsford Prison Cheshire</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4376_img_3730_1"  type="Letter"  url="946e2e40723795801f8f146406c6c9e6.jpg"/>
+      <graphic xml:id="L1916_4376_img_3730_2"  type="Letter"  url="c6f6f9359f7428454a536d4445606e89.jpg"/>
+      <graphic xml:id="L1916_4376_img_3730_3"  type="Letter"  url="cd509925f7d136ac02e0fc208e480ab3.jpg"/>
+      <graphic xml:id="L1916_4376_img_3730_4"  type="Letter"  url="3918ecb938ebe67cc2e4e814936c403a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4376_img_3730_1"/>
+             <seg type="unclear">Krahford</seg>   June 16 1916,    A Cara a Mor,   I must write and<lb/>thank you for paper which<lb/>I received, I trust you<lb/>are   well and happy.<lb/>Also your mother and<lb/>Sisters and your dear<lb/>nephew give them my<lb/>Kind regards.    All the <seg type="unclear"></seg>  here are<lb/>in the Pink the only<lb/>bother been unable to<lb/>have a walk around  
+            <pb n="2" facs="L1916_4376_img_3730_2"/>
+             the Beautiful Roads that<lb/>surrounds this place.<lb/>At lease we are informed<lb/>they are Beautiful but have<lb/>not had an opportunity of<lb/>judging for ourselves.<lb/>I am sure however that<lb/>they are not more Beautiful<lb/>than Kilmore, Dear Old<lb/>Kilmore, how pleasant it<lb/>was to have a day out<lb/>Artane way after the<lb/>stuffy City, I wish very<lb/>much I could have a<lb/>day out there now.  However when I come 
+            <pb n="3" facs="L1916_4376_img_3730_3"/>
+             back I, must take a<lb/>whole long day on<lb/>that way.  Your Friend June Kavanagh<lb/>has left here for Somewhere<lb/>in England! or Wales perhaps.<lb/>I had the pleasure of a<lb/>visit from my wife and<lb/>mother last week and I<lb/>found them both in excellent<lb/>form. I may be going<lb/>from here any time but<lb/>nothing is known at present<lb/>and of course I may not. 
+            <pb n="4" facs="L1916_4376_img_3730_4"/>
+             Should you write me however<lb/>I will receive your letter<lb/>here or elsewhere as all<lb/>letter etc are forwarded after<lb/>those that leave. We have had<lb/>visits from some <seg type="unclear">teachers</seg>  who<lb/>are in Manchester and indeed<lb/>they are most kind, like all  <lb/>I suppose, they bring us all sorts<lb/>of nice things and it will be hard<lb/>luck having to leave them if<lb/>we are changed. With very best<lb/>wishes for your Health.<lb/>and trusting this will find you<lb/>Happy. <!-- can not read what is crossed out --> Believe  <lb/>    Yours very sincerely <lb/>M W OReilly      
+         </ab>
+      </body>
+   </text>
+</TEI>

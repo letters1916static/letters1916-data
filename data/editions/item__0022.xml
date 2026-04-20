@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0022">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from S.M. Martina to Nancy O'Rahilly, 25 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>S.M. Martina</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from S.M. Martina to Nancy O&#39;Rahilly (1875-1961). The writer apologises for not writing sooner, saying that, as a stranger, she didn&#39;t want to intrude too early on Mrs. O&#39;Rahilly&#39;s grief. She praises The O&#39;Rahilly and and says that the sisters have been offering prayers. She mentions &#39;the boys&#39; and hopes they will be a comfort. Finally the writer requests a supply of mortuary cards and offers deepest sympathy. In a P.S. she invites Mrs. O&#39;Rahilly to visit the Convent.Nancy O&#39;Rahilly was a member of the Provisional Council of Cumann na mBan at its founding in 1914. She was the wife of Michael Joseph O&#39;Rahilly, self-styled as &#39;The&#39; O&#39;Rahilly (1875-1916), who was shot in Parnell/Moore Street on 28 April 1916 and died some time later. Nancy was pregnant at the time of her husband&#39;s death – the child was born three months later.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Humphreys Papers, P106/120/44</collection>
+                  <idno>https://letters1916.ie/item/22</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0005">S.M. Martina</persName>
+              <date>1916-05-25</date>
+              <placeName key="#letters1916_place-0796">St. Mary&#39;s Dominican College, Muckross Park, Donnybrook, Dublin, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1534">Nancy O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0022_img_1052_1"  type="Letter"  url="85f16b4cfabb85e9d8f5d36fdb757b6f.jpg"/>
+      <graphic xml:id="L1916_0022_img_1052_2"  type="Letter"  url="da0c34d5369c7096d5f54b182cc59218.jpg"/>
+      <graphic xml:id="L1916_0022_img_1052_3"  type="Letter"  url="6816c7200743e4b10bfbf88fef41fd0e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0022_img_1052_1"/>
+                St. Mary's Dominican College,  Muckross Park,  Donnybrook,  Dublin, S.    25th May 1916   Dear M <hi rend="superscript">rs</hi>. O'Rahilly,    You must think <lb/>it very strange that I <lb/>never wrote a line to <lb/> offer you our deepest <lb/> sympathy in the biggest <lb/> sorrow of your life.   Believe me it was  
+            <pb n="2" facs="L1916_0022_img_1052_2"/>
+              <lb/>through no want of <lb/>sympathy, but there are <lb/> times when a stranger's <lb/> letter might jar and <lb/> in a grief such as <lb/>yours I thought it <lb/>better to wait a little <lb/>before intruding. <lb/>May God comfort <lb/>your poor broken heart, <lb/>as He alone can. You <lb/>have the comfort of <lb/>knowing that your dear <lb/>husband was a good, <lb/> holy man and died <lb/>a holy, happy death. <lb/>We have prayed much <lb/>for him and you.   I hope the boys <lb/> will be a great comfort  
+            <pb n="3" facs="L1916_0022_img_1052_3"/>
+              <lb/>to you now.   If you get any mortuary <lb/> cards of your dear husband <lb/> may I ask for a few. <lb/>We should like to remember <lb/> such a noble soul R.I.P. <lb/>Joined by the Sisters in <lb/> deepest sympathy, love <lb/>to my old Children.  <seg type="closer"> Yours very sincerely in J.C.  <hi rend="underline">S.M. Martina</hi> <lb/>O.S.D. </seg> P.S. When you <lb/>feel equal, we <lb/>should like to <lb/>have a visit <lb/>from you.   
+         </ab>
+      </body>
+   </text>
+</TEI>

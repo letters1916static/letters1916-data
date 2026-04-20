@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4390">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Olive Duffin to Dorothy Duffin, 25 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Olive Duffin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is part of a rich correspondence between various members of the Duffin family, a large prosperous family living in  Strandtown, Belfast. Several family members served in the war, including Major Terence Duffin, who served as a staff officer with 107 Brigade, and later with Royal Irish Rifles; Major Charles G Duffin MC, Royal Field Artillery; and their sisters Emma, Celia and Dorothy who served as Voluntary Aid Detachments (VADS) in Egypt and France, and with the YMCA.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Duffin Family Papers; D2109/9/4/B</collection>
+                  <idno>https://letters1916.ie/item/4390</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1281">Olive Duffin</persName>
+              <date>1915-11-25</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1065">Dorothy Duffin</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4390_img_3744_1"  type="Letter"  url="6a77ae3a05efe1c1cbb5cc0977f995da.jpg"/>
+      <graphic xml:id="L1916_4390_img_3744_2"  type="Letter"  url="f11a79b13c072288228b3222a0ed6d91.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4390_img_3744_1"/>
+              D2109/9/4/B    Nov. 25.1915    7 West Cliff.    My dear Auntie Dor,   Mamma sent me on a<lb/>subscription of £1-1 from all of you for Dorothy<lb/>&amp; my collection for the Y. M.C.A. Hut.<lb/>It <hi rend="underline">is</hi> good of you to send it. We have now got £50<lb/>&amp; some more coming. I know it is all in smaller<lb/>sums but everyone I wrote to <seg type="del">to</seg>, with one exception,<lb/>sent something. Thank you all very much<lb/>also for the Xmas gift <seg type="del">also</seg> which is '<seg type="unclear">brave</seg> &amp; early'<lb/>&amp; very welcome especially to the nursing sisters.  I am looking forward <seg type="unclear">anxiously</seg>to seeing Dorothy<lb/>soon. She seems very happy; she refuses to<lb/>give any description of Leslie! I had a nice<lb/>letter from him, he seems quite ready to adopt<lb/>new relations. How will you like a new nephew?  I am coming over for Xmas &amp; am looking<lb/>forward to it very much. I wish Celia would get<lb/>off too.  It has been bitterly cold here but to-day there<lb/>is sun &amp; it looks better.  I put in a good deal of work at the Red X<lb/>Equipment Depot, making swabs, bandages etc.<lb/>which are sent off to all the various Hospitals. 
+            <pb n="2" facs="L1916_4390_img_3744_2"/>
+              D2109/9/4/B   There is a very nice 'sister' in charge so we know<lb/>we are making the right things in the most<lb/>approved ways. I wonder have they started<lb/>such a thing in Belfast  We have had several visitors staying here &amp;<lb/>at present Miss <seg type="unclear">Conie Chanley.</seg>  Many thanks for the Telegraph with Sam's<lb/>portrait which I think comes from you.<lb/>I am so glad he has got the Croix.  I am so sorry for poor Annie <seg type="unclear">Coals.</seg> I am<lb/>sure she will miss her mother sadly.  Is Auntie Cha keeping well?  <wqlb Much love &amp; thanks to all.</wqlb  <wqlb   Your loving niece<lb/>Olive.  </wqlb    
+         </ab>
+      </body>
+   </text>
+</TEI>

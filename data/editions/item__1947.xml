@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1947">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick English to Kate English, 12 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick English</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from a collection Patrick English (1894-1970), who at the time of writing was a prisoner inFrongoch internment camp, recently transferred from Stafford prison. This is part of a letter from Patrick to his mother, Kate English (b. 1855). In the letter, Patrick apologises for not writing before as he is only allowed two letters a week. He goes on to state it would be foolish for his mother the come to visit him and believes it would be a waste of money. Patrick then discusses his health and Father Moore, who he left at Stafford Prison. The remaining pages of the letter are missing.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Patrick English</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/1947</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0178">Patrick English</persName>
+              <date>1916-07-12</date>
+              <placeName key="#letters1916_place-1722">Frongoch, Wales</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0077">Kate English</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1552">Castleknock, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1970</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1947_img_1397_1"  type="Letter"  url="14fedb9163d08913d4b9dc6012b43672.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1947_img_1397_1"/>
+              No 1637 Hut No 2 <lb/>Upper Camp <lb/>Frongoch <lb/>Near Bala <lb/>North Wales   12 .7.16     Dear Mother  <lb/>Sorry I could not write <lb/>before  this  but as I told you in my last <lb/>letter we are only allowed to send two <lb/>letters every week and as for you com <lb/>ing to see me I think it would be a <lb/>foolish idea for we would have to <lb/>send a notice to the war office <seg type="unclear">first</seg> <lb/>then we would be only allowed <seg type="del">a</seg> 15 <lb/>minutes of a interview so you know <lb/>it would only be waste of money <lb/>for it would cost you a good deal <lb/>to come here but if you wish to <lb/>come I wont stop you as regards my <lb/>self I am all right nothing to do and <lb/>plenty of time to do it. I am glad to see <lb/>by your letter you got the post card <lb/>quite safe form father Moore but sorry <lb/>to say we left him behind  us  in <seg type="unclear">Stafford</seg> <lb/>he done a lot of work for us. 
+         </ab>
+      </body>
+   </text>
+</TEI>

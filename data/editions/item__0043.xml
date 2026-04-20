@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0043">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Joseph MacDonagh to Mary MacDonagh, 4 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Joseph MacDonagh</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from Joseph MacDonagh to his sister Mary MacDonagh. The letter offers condolences after the execution of their brother Thomas MacDonagh in Kilmainham Gaol for his part in the Easter Rising (3 May). Thomas MacDonagh (1878-1916) was a poet and teacher. A leading member of the Dublin Brigade of the Irish Volunteers, he was one of the principle organisers of the Easter Rising and one of the seven signatories of the Proclamation of the Irish Republic.Joseph MacDonagh (1883-1922) was the youngest brother and went on to serve in the First and Second Dáils and opposed the Anglo-Irish Treaty. Mary Josephine MacDonagh (1872-1954) was the eldest sibling. She went on to become a nun with the Sisters of Charity. She was the only member of the family to visit Thomas before his execution. &#39;Muriel&#39; in the letter is Thomas MacDonagh&#39;s wife (1884-1917) and &#39;Jack&#39; is Thomas&#39;s brother John (1880-1961) who had fought under Thomas in the Rising and was imprisoned afterwards.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Thomas MacDonagh Family Papers, Collection List No 131, Ms. 20647/1</collection>
+                  <idno>https://letters1916.ie/item/43</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1538">Joseph MacDonagh</persName>
+              <date>1917-05-04</date>
+              <placeName key="#letters1916_place-1250">Friar St, Thurles, County Tipperary</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mary MacDonagh</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0043_img_108_1"  type="Letter"  url="8e6c769bb59e907b5df54906c75ca509.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0043_img_108_1"/>
+                Friar St.  Thurles.    4.5.16.   My Dear Mary,   I only heard the news<lb/>to.day.  I hope you are not too grieved.<lb/>The written or spoken word at such<lb/> a time is useless.  I will go up to Dublin<lb/>when the restrictions are off.  Let me know of Muriel and Jack. <seg type="closer"> Your fond brother, <lb/> Joe. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

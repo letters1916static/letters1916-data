@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3362">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John N Edgeworth to Nicholas Lamb, 20 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J N Edgewoth</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from John Newcomen Edgeworth to Nicholas Lamb enclosing a copy of the final main roads declaration made at the County Council quarterly meeting.
+
+John Newcomen Edgeworth (b. 1852) was the Secretary to the Longford County Council.
+
+Nicholas Lamb (b. 1861) was the Town Clerk of Longford and served on the Longford Urban District Council. The Longford Urban District Council was the towns local authority and was renamed the Longford Town Council in 2002.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Longford County Archives Service</repository>
+                  <collection>LUDC-1-3-1916-6-6</collection>
+                  <idno>https://letters1916.ie/item/3362</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1277">J N Edgewoth</persName>
+              <date>1916-05-20</date>
+              <placeName key="#letters1916_place-0876">Longford County Council, Longford, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Nicholas Lamb</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0823">Longford Urban District Council, Longford, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3362_img_2773_1"  type="Letter"  url="8fbf83e5b551ae7f5f54fccd9c56daf6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3362_img_2773_1"/>
+             Longford County Council   20<hi rend="superscript">th</hi> of May 1916   Dear Sir   I enclose herewith copy of Final <lb/>Main Boards Declaration made by County Council <lb/>of quarterly meeting of Council on the 17<hi rend="superscript">th</hi> inst.   Within seven days of receipt of this notice a <lb/>special meeting should be summoned with 14 <lb/>days notice, to decide whether an appeal shall <lb/>be lodged against this declaration.   Yours truly   J M Edgeworth (Sec)    The Clerk Urban Council <lb/>Longford. 
+         </ab>
+      </body>
+   </text>
+</TEI>

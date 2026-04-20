@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4264">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Matthew Nathan to James MacMahon, 10 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Matthew Nathan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from Sir Matthew Nathan (1862-1939), under-secretary for Ireland, to Sir James MacMahon (1865-1954), secretary to the Post Office in Ireland. In the letter, Nathan writes that he is unsure of what action to take regarding a letter he had received and asks to meet MacMahon to discuss it. The letter in question was regarding John Holland, an overseer for the post office in Limerick who had been reduced in rank and salary for disciplinary offences. Holland claimed that the action was the result of a conspiracy to drive him out as he was not a supporter of Sinn Féin and had strong connections with the army and asked that it be overturned.
+Nathan later handed in his resignation after the Easter Rising had caught him unprepared and he was criticised in a commission of enquiry into the rebellion. MacMahon, a Catholic, himself became under-secretary in 1918.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>CSO RP/5596/1916/648/5</collection>
+                  <idno>https://letters1916.ie/item/4264</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date>1916-01-10</date>
+              <placeName key="#letters1916_place-0913">Chief Secretary&#39;s Office, Dublin Castle, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">James MacMahon</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1939</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4264_img_363_1"  type="Letter"  url="62c7243b9b2d5e907d09772279c676c6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4264_img_363_1"/>
+             CHIEF SECRETARY'S OFFICE, <lb/>DUBLIN CASTLE.   Jany 10<hi rend="superscript">th</hi>/ 16   Dear Mr. MacMahon,   I am not quite sure <lb/>what should be the procedure <lb/>in the case of a letter like the <lb/>one with the <seg type="unclear">annexed</seg> paper <lb/>&amp; I should like to see you with <lb/> regard to it at your convenience.   Yours sincerely   Matthew Nathan 
+         </ab>
+      </body>
+   </text>
+</TEI>

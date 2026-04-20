@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0489">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fergus Quinn to the Under Secretary, 6 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Fergus Quinn</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Fergus Quinn (b. 1861), Inspector of the Dublin Metropolitan Police (DMP), to Sir Robert Chalmers (1858-1938), Under-Secretary for Ireland, applying for 14 days leave. Notes added at a letter date indicate leave was granted.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5620/13050</collection>
+                  <idno>https://letters1916.ie/item/489</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0985">Fergus Quinn</persName>
+              <date>1916-08-06</date>
+              <placeName key="#letters1916_place-1920">Metropolitan Police Office, Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0489_img_1852_1"  type="Letter"  url="dd2af0b44f911d10067b11b277ed4c97.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0489_img_1852_1"/>
+                The Under Secretary    I beg to have your sanction <lb/>for 14 days' leave <lb/>commencing on <lb/>Monday 9<hi rend="superscript">th</hi> Inst. <seg type="closer"> Fergus Quinn <lb/>A.C.</seg> I. Leave approved <lb/>II Inform. <lb/>III Note. <lb/>6/8/15  1 Leave approved<lb/> 2 Inform<lb/> 3 Note<lb/> 7 August 15<lb/>  2 &amp;3 done 7 August  
+         </ab>
+      </body>
+   </text>
+</TEI>

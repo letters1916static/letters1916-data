@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0533">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Circular letter from Micheál Ó Duibhguin, November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Micheál Ó Duibhguin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A typed circular letter signed by Micheál Ó Duibhguin, Secretary of Cumann na bPíobairí, requesting financial contributions for the family of Bridget Kenny (d. 1915), known as the &#39;Queen of Irish Fiddlers&#39;. Kenny had been a musician but due to prolonged illness and funeral expenses her family were left in debt. Ó Duibhguin also mentions that Kenny&#39;s daughter, Christine, &#39;has inherited much of her mother&#39;s talent and we hope she will not be forgotten when concert, ceillidhs, etc. are being organised’.Bridget Kenny was the daughter of talented musician John McDonough, considered the premiere piper of his day and generation. Kenny entered the limelight in the wake of the Gaelic Revival, winning numerous competitions across the country and earning her moniker &#39;Queen of Irish Fiddlers.&#39;</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, IE/AL/1915/23</collection>
+                  <idno>https://letters1916.ie/item/533</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0364">Micheál Ó Duibhguin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1436">41 Parnell Square, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Culture and the Arts</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0533_img_1911_1"  type="Letter"  url="f7a6831b833308e03a57321784e25520.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0533_img_1911_1"/>
+              (TOP LEFT ) Established 17th February, 1900.<lb/> President - Edward Martyn ESQ. <lb/> Union Pipes and War Pipes Taught. <lb/> Information supplied as to Pipes and Pipers. <lb/> Letters requiring immediate attention may <lb/> be addressed to the Secretary at ( END ) (TOP RIGHT)    Cumann na bPÃ­obairÃ­,    41 PARNELL SQUARE, DUBLIN,     November 1915.    A Chara,   you are no doubt aware of the death of Mrs Brigid <lb/> Kenny, the 'Queen of Irish Fiddlers' on the 7th <seg type="del">inst</seg> ult. She had <lb/> been seriously unwell for over twelve months previously and had to <lb/> refuse all engagements. Her illness was, consequently, a source <lb/> of heavy expense to her family and with the additional burden of <lb/> the funeral charges now upon them they find themselves in debt. <lb/> They feel this very much as all who know them will understand. <lb/> But I think that the late Mrs. Kenny's friends and admirers have <lb/> merely to know of the fact in order to save her relatives any <lb/> worry of the kind. The Pipers Club are therefore undertaking a <lb/> small collection and I shall gladly receive and acknowledge any <lb/> sums that may be sent me.   Students and collectors of Irish music are under debt <lb/> to the Kenny family which no mere money offering can repay. It <lb/> is no exaggeration to say that they and their connections have <lb/> kept Irish instrumental music alive in Dublin. Members of the <lb/> Feis Ceoil Association will know of the valuable collections of <lb/> unpublished airs furnished by Mr. and Mrs. Kenny.    Mrs. Kenny's daughter, Christine, has inherited much of <lb/> her mother's talent and we hope that she will not be forgotten <lb/> when concerts, ceilidhs, etc.. are being organised. Her address <lb/> is 5 Madden's Court, Thomas Street.  <seg type="closer"> <seg type="foreign">Is mise, <lb/> Le mÃ³r meas, </seg>   MicheÃ¡l Ã Duibhguin  RÃºnaine <lb/> Please address any reply <lb/> to me at:â   5 David Road, Glasnevin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

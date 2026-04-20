@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2836">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Henry H. Billiter to John R. Moorhead, 13 June 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Henry H. Billiter</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Henry H. Billiter to John R. Moorhead (1859-1936),crown solicitor for Belfast. 
+
+The letter details the exact travel expenses incurred by Billiter as a result of being called as a witness to a trial as a representative of  Messers. Cox &amp; Co. The expenses are itemised and come to a total of £6-7-9.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered papers, CSO-RP-1916-5615-11091-2</collection>
+                  <idno>https://letters1916.ie/item/2836</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0179">Henry H. Billiter</persName>
+              <date>1916-06-13</date>
+              <placeName key="#letters1916_place-1477">16, Charing Cross, London. </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1437">John R. Moorhead</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1495">30 Rosemary Street, Belfast, Antrim, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Law and Judiciary</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2836_img_2250_1"  type="Letter"  url="b7b4fa2cb0e9239e57e798f06c924937.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2836_img_2250_1"/>
+             D Dept <lb/>16. Charing Cross. <lb/>London. <lb/>SW.    13 June 1916  <hi rend="underline">Rev V Wheeler</hi>  Dear Sir   In reply to your letter dated <lb/> 7<hi rend="superscript">th</hi> inst my expenses as representative <lb/>of Messrs Cox &amp; Co in connection with <lb/>above trial are approximately as <lb/>follow   1<hi rend="superscript">st</hi> Class return to Belfast £4-1-6 <lb/>Cab fare to Euston 4/- <lb/> do on return 4/- <lb/>Breakfast on train 2·9 <lb/>Lunch do 3·3 <lb/>Dinner do 3·3 <lb/>Hotel expenses 10·7 <lb/>(including tips) <lb/>Dinner on boat on <lb/>return journey 3·5 <lb/>Total £6-7-9. <lb/>Trusting to hear from you shortly   Yours faithfully   Henry H Billiter   John R Moorhead Esq <lb/>Crown Solicitor 
+         </ab>
+      </body>
+   </text>
+</TEI>

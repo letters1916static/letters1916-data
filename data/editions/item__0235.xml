@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0235">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Basil Home Thomson, the Assistant Commissioner of Police, to Sir Matthew Nathan, 7 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Assistant Commisioner</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Basil Home Thomson (1861-1939), the Assistant Commissioner of Police at New Scotland Yard, to Sir Matthew Nathan (1862-1939), the under-secretary for Ireland. The Assistant Commissioner is asking Nathan to take the necessary steps to monitor any post sent by Patrick Hastings, an inmate of Killadysert Workhouse. The request comes after Hastings sent several letters, described as &#39;insane&#39; in nature, to the King.Nathan was under-secretary until the 1916 Rising after which he offered his resignation. In the letter</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI, CSO RP/1916/4321/1</collection>
+                  <idno>https://letters1916.ie/item/235</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0933">Assistant Commisioner</persName>
+              <date>1916-03-07</date>
+              <placeName key="#letters1916_place-1095">New Scotland Yard, London</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Law and Judiciary</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0235_img_1406_1"  type="Letter"  url="876068dc3a52eb654026d9b7ef5872c9.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0235_img_1406_1"/>
+                NEW SCOTLAND YARD,  LONDON, S.W.    7th day of MARCH 1916.    From THE ASSISTANT COMMISSIONER OF POLICE,  SPECIAL BRANCH   <hi rend="underline">Killadysert Union</hi>    Sir,   In reference to my letter and enclosure of <lb/> the 4th. December last and your reply (21045) thereto, <lb/> I have to forward herewith a further letter of an insane <lb/> nature, addressed to H.M the King, which has been reâ <lb/> ceived at Buckingham Palace from Patrick Hastings, an <lb/> inmate of Killadysert Workhouse, Country Clare. As six <lb/> or seven similar communications have been received since <lb/> Hastings was cautioned, I am requested to suggest that <lb/> the officials of the Killadysert Workhouse be asked to <lb/> take the necessary steps to prevent these letters getting <lb/> into the post.  <seg type="closer">Thanking you in anticipation,  I am, <lb/> Sir, <lb/> Your obedient servant   <seg type="unclear">B Thomson</seg>   The Under Secretary,  Dublin Castle,  <hi rend="underline">DUBLIN</hi>  </seg> Under Secretary <lb/> The local Government Board Inspector <lb/> for the District has insisted the Master <lb/> of the Killadysert District W.House that <lb/> no letters, written by Pat <hi rend="superscript">k</hi> Hastings <lb/> and addressed to His Majesty as to <lb/> be posted   
+         </ab>
+      </body>
+   </text>
+</TEI>

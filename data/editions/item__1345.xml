@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1345">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Charles Arthur Munro to Mabel FitzGerald, 24 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Charles Arthur Munro</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from C.A. Munro (1869-1952) , governor of Mountjoy prison, to Mabel FitzGerald (née Washington McConnell) (1884-1958), wife of politician and intellectual Desmond FitzGerald (1888-1947). The letter refers to a portmanteau suitcase which had been sent to Desmond in prison, Munro writes that the case opens without difficulty and no help is needed.Charles Arthur Munro was the governor of Mountjoy prison in Dublin. He is also the brother of the noted author H.H. Munro, better known through his literary pseudonym, Saki. Mabel was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington (1878 -1916) during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Desmond FitzGerald Papers, P80/1544/2</collection>
+                  <idno>https://letters1916.ie/item/1345</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0487">Charles Arthur Munro</persName>
+              <date>1916-03-24</date>
+              <placeName key="#letters1916_place-0259">H. M. Prison, Mountjoy, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0418">2 Loretto Villas, Bray, County Wicklow</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1345_img_684_1"  type="Letter"  url="a7051bb063f69bf45039d6606a4b13f0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1345_img_684_1"/>
+                From the GOVERNOR,  H.M. PRISON, Mountjoy,    24<hi rend="superscript">th</hi> March,1916.    To Mrs Mabel W. Fitzgerald,  2, Loretto Villas,  Bray.    With reference to your communication regarding the portmanteau left <lb/>for your husband, I have to inform you that the spring fastening presents <lb/>no difficulty &amp; that it will not, therefore, be necessary for anyone to <lb/> call and demonstrate the method of opening the suit case. <seg type="closer"> CT Munro <lb/>Governor. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

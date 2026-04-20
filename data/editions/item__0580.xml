@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0580">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Alexander Gartlan to Henry Wynne, 8 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Alexander Gartlan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Alexander Gartlan (1852 –1951), crown solicitor for County Louth, to to Sir Henry Arthur Wynne (1867–1945). Wynne was appointed to the vacant position of chief crown solicitor following the death of Sir Malachy Kelly (1851-1916).In this letter Gartlan requests a week of leave for a short holiday. Enclosed with the letter are Gartlan’s application and a letter of consent.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5620/13688</collection>
+                  <idno>https://letters1916.ie/item/580</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0452">Alexander Gartlan</persName>
+              <date>1916-08-08T00:00:00</date>
+              <placeName key="#letters1916_place-1831">12 Needham Place, Newry, County Down, Northern Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Henry A. Wynne</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0580_img_1981_1"  type="Letter"  url="96aa36de5d15af48951a5197b47b12fd.jpg"/>
+      <graphic xml:id="L1916_0580_img_1981_2"  type="Letter"  url="ed8e76bc6f99771041af7709d038c764.jpg"/>
+      <graphic xml:id="L1916_0580_img_1981_3"  type="Enclosure"  url="1da9bcd4b716d322e7a7801f858a5e15.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0580_img_1981_1"/>
+                12, Needham Place,  Newry    8th August 1916  <lb/>re/ <hi rend="underline">application</hi> for leave  Dear Sir   I hope to be able to get away next <seg type="del">a</seg> week for a short holiday <lb/>and I would thank you to kindly bring the enclosed application before <lb/>the Attorney General for his permission.  Of course if anything unexpectedly turned up during my absence <lb/>requiring my personal attention I would return when required.  <seg type="closer"> Yours faithfully,  Alexander Gartlan   The Chief Crown Solicitor  The Castle  Dublin.  </seg> <hi rend="underline">Attorney General</hi><lb/>Do you approve? <lb/> H.S.W. <lb/> 9.VIII.16   
+            <pb n="2" facs="L1916_0580_img_1981_2"/>
+                10th August 1916  <lb/>Leave of Absence  Dear Sir,   The Attorney General consents to your having the leave <lb/>asked for.  <seg type="closer"> Yours truly,  Henry Arthur Wynne   Alexander Gartlan Esq.,  Crown Solicitor,  Newry.  </seg> 
+            <pb n="3" facs="L1916_0580_img_1981_3"/>
+              APPLICATION <hi rend="underline">for</hi> LEAVE  I ALEXANDER GARTLAND of 12 Needham Place Newry CROWN <lb/>SOLICITOR for the COUNTY OF LOUTH beg to apply for leave of <lb/>absence from 15th August 1916 to 5th September <lb/>1916.   <hi rend="underline">SCHEDULE TO BE FILLED UP</hi> <lb/> <hi rend="underline">Proposed Substitute</hi><lb/> My Managing Assistant <lb/>ANDREW CROMIE <lb/>NEWRY <lb/>âOR IN THE ALTERNATIVEâ <lb/>Maurice Molony <lb/>Dundalk  <cb/> <hi rend="underline">Qualification</hi><lb/>Solicitor <lb/>admitted (T) 1911 <lb/>Solicitor <lb/>admitted (H) 1905   Crown Cases pending or which the Crown Solicitor has been <lb/>ordered to take charge of, which may possibly come on during <lb/>his absence:â   <hi rend="underline">Title of cause</hi><lb/>None   <hi rend="underline">Nature of cause</hi><lb/>nil   Dated this 8th day of August 1916 <seg type="closer"> Signed   Alexander Gartlan <lb/>Solicitor   12 Needham Place  Newry  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

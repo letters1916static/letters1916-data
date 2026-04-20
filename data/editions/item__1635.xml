@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1635">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Austin Stack to F.H. O'Donnell, 13 March, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Austin Stack</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Austin Stack, (1879-1929), commandant of the Kerry Bragade of the Irish Volunteers in 1916.
+F.H.(Frank) O&#39;Donnell , Honorary Secretary of the Kerry County Board of the National Volunteers, 1916.
+
+This letter is an invitation to the Tralee Irish National Volunteers to participate in a parade, along with other organisations and societies, on St. Patrick&#39;s Day, March 17th, 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents Frank O&#39;Donnell Collection BMH CD/52/2/21</collection>
+                  <idno>https://letters1916.ie/item/1635</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1445">Austin Stack</persName>
+              <date>1916-03-13</date>
+              <placeName key="#letters1916_place-0978">Tralee, Co. Kerry, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">F.H.(Frank) O&#39;Donnell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0978">Tralee, Co. Kerry, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1929</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1635_img_1097_1"  type="Letter"  url="4d76dd9a5f61388ec5b711b3b105f793.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1635_img_1097_1"/>
+            NATIONAL HOLIDAY CELEBRATION  TRALEE   13th. March, 1916.   F. H. O'Donnell, Esq., <lb/>Hon. Sec. <lb/>Irish National Volunteers, <lb/>TRALEE   Dear Sir,   I have been asked to invite your Corps to take part in <lb/>Demonstration proposed to be held in honour of Ireland's Patron <lb/> Saint on the 17th. inst. The Irish Volunteers and the Irish <lb/> Workers' Union, the Trades Council and Tralee Urban Council <lb/> have already signified their desire to co-operate, and invitations <lb/> are being issued to other local public bodies and societies. <lb/> The Demonstration will take the form of a Procession to start <lb/> from the '98 Memorial at 1 o'clock and I trust your Corps will <lb/> see their way to take part.   Yours faithfully,   A. Stack 
+         </ab>
+      </body>
+   </text>
+</TEI>

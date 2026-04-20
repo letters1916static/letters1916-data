@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0740">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Henry Arthur Wynne to Michael Lavery July 5, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Henry Arthur Wynne</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Henry Arthur Wynne (1867-1943), chief crown solicitor, to fellow solicitor Michael Lavery stating that the attorney general will not interfere in the matter of Jane McCoy&#39;s will and testament.Henry Arthur Wynne was appointed to the position of chief crown solicitor for Ireland in 1916 following the death of Malachy Kelly (1850-1916).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered papers, CSO-RP-1916-5615-11234-2</collection>
+                  <idno>https://letters1916.ie/item/740</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0815">Henry Arthur Wynne</persName>
+              <date>1916-07-05T00:00:00</date>
+              <placeName key="#letters1916_place-0476">Dublin Castle, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Michael Lavery</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0016">Lisburn</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0740_img_2253_1"  type="Letter"  url="ce517ab26a052ad04baa9677853f9966.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0740_img_2253_1"/>
+                5th July 1916  <lb/>Jane McCoy dead.  Dear Sir,   Your letter of 30th ultimo has been under the consideration <lb/>of the Attorney General who has intimated that he will not interfere <lb/>in the matter.  <seg type="closer"> Yours truly,  Henry Arthur Wynne   Michael Lavery Esq.,  Solicitor,  Lisburn.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

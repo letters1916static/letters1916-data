@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3500">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Note from Diarmuid Lynch to Alice Lynch, circa May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Diarmuid Lynch</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Note from Diarmuid Lynch (1876-1950)  to Alice Lynch. Diarmuid writes that the visiting hours have changed in Richmond barracks, requests some tobacco and apologises for troubling Alice.
+
+Diarmuid Lynch was born in January 1878 to a substantial tenant farmer in Tracton parish, in South County Cork. At the age of 18 he emigrated for work, initially to London and thereafter to New York. In the USA he pursued his interests in Gaelic culture and the Irish language, coming under the influence of John Devoy, Diarmuid O&#39; Donovan Rossa and other ardent Fenian disciples.Of great natural ability he was elected President of the New York Gaelic League and president of the Philo- Celtic Society. Diarmuid returned to live in Ireland in 1907, both were convinced that Ireland&#39;s freedom from British Rule must be worked for on home ground.From 1911 Lynch was a member of the Supreme Council of the IRB and one of that organisation&#39;s main recruiting officers. He was present at crucial meetings in Hardwicke Street on Holy Saturday night and at Liberty Hall on Easter Sunday morning when the Military Committee decided to go ahead with the planned Rising on the following morning. Lynch was present in the GPO for all of that week, being aide de camp to James Connolly. Following his court martial on May 18th he was condemned to be shot but his American citizenship was one factor in his sentence being commuted to 10 years hard labour.
+
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Lynch Archives</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/3500</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1244">Diarmuid Lynch</persName>
+              <date>1916-05</date>
+              <placeName key="#letters1916_place-0432">Room 4, Block T, Richmond Barracks, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Alice Lynch</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1850">James Road Distillery, Drumcondra, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1950</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3500_img_2907_1"  type="Letter"  url="a7ff0ce4ada1c19704fbb928c90d8d39.jpg"/>
+      <graphic xml:id="L1916_3500_img_2907_2"  type="Letter"  url="6c48ee279d12077b0f7f55379117818c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3500_img_2907_1"/>
+            <hi rend="underline">From D Lynch</hi>  Room 4, T Block<lb/>Richmond Barracks    My Dear Alice   Since writing you today<lb/>I find that the visiting hours<lb/>has been changed to —<lb/>From 10 to 11 am.  In addition to clothes which<lb/>I require (as per verbal message<lb/>to Mrs Lennox) some two flake<lb/>tobacco &amp; Cascara tabloids<lb/>would be acceptable. We all<lb/>divide up here &amp; so far I 
+            <pb n="2" facs="L1916_3500_img_2907_2"/>
+             have been very fortunate  Very sorry to have to<lb/>trouble you, but — !!  I am in great form.<lb/>The two boys look alright<lb/>- in the distance, but a<lb/>shave wd make them more<lb/>presentable. However, we do<lb/>not worry much about such<lb/>details here.  Love to both. <lb/><hi rend="underline">Diarmuid</hi>   Mrs D.J. Lynch<lb/>Jones Distillery  
+         </ab>
+      </body>
+   </text>
+</TEI>

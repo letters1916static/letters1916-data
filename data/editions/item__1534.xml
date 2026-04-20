@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1534">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mrs. Arthur Goff to Lady Clonbrock, 12 August, 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mrs. Arthur Goff</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Mrs. Arthur Goff, honorary secretary of the Dundrum Prisoners of War Organisation, to Augustine Caroline Dillon (née Crofton), Lady Clonbrock (1839-1928). Mrs. Goff had a similar role to Lady Clonbrock in the Irish Women&#39;s Association, formed in London in the Spring of 1915 for the purpose of providing food and comforts for prisoners of war belonging to Irish Regiments. 
+Mrs. Goff supplies parcels to Royal Dublin Fusiliers POWs in Bulgaria. Here she is writing about a Connaught Ranger she has been looking after at the request of his wife. Mrs. Goff is asking Lady Clonbrock if she may continue supplying this prisoner.
+A note on the back of the letter, apparently written by Lady Clonbrock, indicates that she has written to the IWA to clear the request.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No. 54; Ms. 35,796/11/10</collection>
+                  <idno>https://letters1916.ie/item/1534</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1236">Mrs. Arthur Goff</persName>
+              <date>1916-08-12</date>
+              <placeName key="#letters1916_place-0673">Belfort House, Dundrum, Co. Dublin, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0483">Augusta Caroline Dillon</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1534_img_1002_1"  type="Letter"  url="7277bf4b1407f0824ce96738b5c0b3ca.jpg"/>
+      <graphic xml:id="L1916_1534_img_1002_2"  type="Letter"  url="e82c8f5a79b634248ee59e09c2c46d70.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1534_img_1002_1"/>
+              Hon. Sec., <lb/>MRS ARTHUR GOFF, <lb/>Belfort House, Dundrum, <lb/>Co.Dublin.   Aug 12 <hi rend="superscript">th</hi>19   Dundrum, <lb/>Co. Dublin.   Dear Lady Clonbrock   I have been intending to write to you for some <lb/>time past <seg type="unclear">re</seg> the enclosed post-cards but have <lb/>been so pressed with work.   Mrs Andrews hearing that I had undertaken <lb/>the oul fun in Bulgaria came &amp; asked me <lb/>to send parcels to her husband also. So I have <lb/>been doing so since the middle of June.   She Subscribes herself 2/- a week.   I dont know what arrangements you have <lb/>about the Connaught-Rangers in Bulgaria <lb/>but if you will allow me I will be glad to <hi rend="underline">keep</hi> <lb/>on this man especially as his wife wishes it.   Sincerely yours   Elli Marie Goff   4922 <seg type="unclear">P</seg>. G. Andrews <lb/><seg type="unclear">P.A.W. 5<hi rend="superscript">th</hi> C. R</seg> <lb/><seg type="unclear">Zalar Bagardyk</seg> 
+            <pb n="2" facs="L1916_1534_img_1002_2"/>
+             Wrote to I.W.A. to ask if <lb/>Pte. G. Andrews <lb/>5<hi rend="superscript">th</hi>C.R. Bulgaria <lb/>may be   <lb/><seg type="unclear">S</seg> Mrs. Goff  <lb/> not once
+         </ab>
+      </body>
+   </text>
+</TEI>

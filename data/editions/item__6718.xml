@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6718">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Father Michael O'Flanagan to Canon Timlin, 6 September 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Fr Michael O&#39;Flanagan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Fr Michael O&#39;Flanagan (1876–1942) was a Catholic priest and well-known nationalist. He was elected vice president of Sinn Féin in 1917. O&#39;Flanagan writes from 6 Harcourt Street, Dublin, this address being Sinn Féin headquarters.  He informs Canon Timlin that PT Keohane has informed him about a rumour circulating that O&#39;Flanagan had made a public display of throwing off his clerical collar whilst on retreat. Keohane has told O&#39;Flanagan that Canon Timlin gave him permission to pass on this detail so O&#39;Flanagan wants the name of the originator of the false rumour.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>O&#39;Flanagan Private Collection</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/6718</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0313">Fr Michael O&#39;Flanagan</persName>
+              <date>1918-09-06</date>
+              <placeName key="#letters1916_place-1163">6 Harcourt Street, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Canon Timlin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0580">Skreen, Co. Sligo</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1942</item>
+               <item n="topic">The Rising Tide (1917-1919)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6718_img_None_1"  url="phpPiv437.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6718_img_0_1"/>
+              6 Harcourt Street<lb/>DUBLIN    6th September, 1918.    Very Reverend Dear Canon,   Mr. P. T. Keohane told me last night that you told<lb/>him that a Jesuit Priest who visited the Diocese of Killala some<lb/>time ago, was the author of a rumour that has since been<lb/>circulated among the priests of the Diocese.  The story was that when I was on Retreat at Milltown<lb/>Park last October, I had made up my mind to throw off my Roman<lb/>Collar and break my connection with the Priesthood. It was<lb/>further added that it was only on the earnest solicitation of<lb/>Messers. De Valera and Griffith, who appealed to me for the sake of<lb/>Ireland, and for the sake of the movement with which I was so <lb/>prominently connected, to change my mind, that I agreed to return<lb/>to my Curacy in Cronsa.  Mr. Keohane also told me that you gave him permission<lb/>to tell me the story and to quote you as his authority. I am<lb/>sure that you will recognise that in the interests of justice I<lb/>should get an opportunity of sifing this story to the bottom. I<lb/>shall therefore be obliged if you will inform me if I have got the<lb/>story correct, and if you will also give me the name of the<lb/>Jesuit Priest in question   I am,<lb/>Very Rev. Dear Canon,<lb/>Yours respectfully<lb/>Very Rev. Canon Timlin, P.P.<lb/>Skreen, Co. Sligo  
+         </ab>
+      </body>
+   </text>
+</TEI>

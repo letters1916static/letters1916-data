@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0313">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from Maude Chenevix Trench to Lady Clonbrock, 16 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Emily Maude Chenevix Trench</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a postcard from Emily Maude Chenevix Trench (1874-1937), to Augusta Caroline Dillon Clonbrock, Lady Clonbrock (1840-1928) inquiring whether Sweeney has been getting regular packages, stating that according to his mother he wrote to her to state he has not received anything from her in 6 weeks. Trench also writes that the Irish Armies Association knows nothing of him.Augusta Caroline Dillon (née Crofton) was the wife of Luke Gerald Dillon (1834-1917), the 4th Baron of Clonbrock, Co. Galway and the daughter of Lord Crofton of Mote Park (Edward Henry Churchill Crofton, 3rd Baron), Co. Roscommon. Aged 75 at the outbreak of war, Lady Clonbrock, worked closely with the Irish Women&#39;s Association to send basic necessities to Irish POWs. Many of her care packages went to members of the Connaught Rangers imprisoned in Limburg near Cologne.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No. 54, Ms. 35,796/10/16</collection>
+                  <idno>https://letters1916.ie/item/313</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0249">Emily Maude Chenevix Trench</persName>
+              <date>1916-05-16</date>
+              <placeName key="#letters1916_place-0485">Broomfield, Camberley, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0483">Augusta Caroline Dillon</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1060">Ahascragh, Co. Galway, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0313_img_1537_1"  type="Letter"  url="99271858c26dbf0b63f8697dad8cd524.jpg"/>
+      <graphic xml:id="L1916_0313_img_1537_2"  type="Letter"  url="21a14f3db4b7ac4a741c48478ef02cad.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0313_img_1537_1"/>
+                 May 16.16    BROOMFIELD,   CAMBERLEY.    <hi rend="underline">5473 Pte Michael Sweeney </hi><lb/>Connaught Ranger Comp I <lb/>Kriegsgefangenenlager. Tauberbischofsheim. Baden <lb/>(formerly at Mannhein, Baden, &amp; at Cassel) Can <lb/>you kindly tell me if this man is getting regular <lb/> parcels? He wrote to a friend of mine, and his <lb/> mother writes to me from Castlebar to say that he <lb/> wrote that he had had nothing for 6 weeks. <lb/>The Irish <seg type="unclear">armies</seg> Association say they know nothing of <lb/>him. Neither do the Dublin Fusiliers, in the Leinsters. <seg type="closer">  (Miss) Maude Chenevix Trench </seg>  
+            <pb n="2" facs="L1916_0313_img_1537_2"/>
+                 The Hon. Secretary  Connaught Rangers Prisoners of War Fund  Clonbrock  Ahascragh  Co Galway     
+         </ab>
+      </body>
+   </text>
+</TEI>

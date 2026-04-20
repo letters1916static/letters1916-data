@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6665">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from WB Yeats to Harold Edward Monro, 25 November 1919</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>W.B. Yeats</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Harold Edward Monro was a British poet, born in Brussels from Scottish parents. As the propietor of the Poetry Bookshop, in London, he helped many now known poets to publish their work.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Harry Ransom Center, The University of Texas at Austin</repository>
+                  <collection>William Butler Yeats Collection; II. Correspondence, 1891-1938, Outgoing. Box 7. Folder: Letters L-O</collection>
+                  <idno>https://letters1916.ie/item/6665</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1561">W.B. Yeats</persName>
+              <date>1919-11-25</date>
+              <placeName key="#letters1916_place-0747">4, Broad Street, Oxford, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Harold Monro</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1939</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6665_img_None_1"  url="phpGUfldI.jpeg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6665_img_0_1"/>
+              Nov 25    4, Broad street<lb/>Oxford    26/11/19    Dear Monro   Please send<lb/>me by return  Wild Earth by Colman,<lb/>Your own work containing<lb/>cat poems &amp; dog poems​​​​​​,<lb/>and if you have a copy<lb/><seg type="unclear">nun</seg> Letts poems<lb/>&amp; lecture on recent poetry<lb/>on Sunday to me at the<lb/>Oxford <seg type="unclear">excetra</seg><seg type="unclear"></seg>   WB Yeats  
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1113">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to Joseph Mary Plunkett from Bulmer Hobson, 13 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Bulmer Hobson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Bulmer Hobson (1883–1969) on Irish Volunteers notepaper to Joseph Mary Plunkett (1877-1916) requesting that a Brian MacMullen be allowed leave the camp (Larkfield Plunkett farm in Kimmage) to attend to some business regarding a house for Volunteers.John Bulmer Hobson was an Irish nationalist and a leading member of the Irish volunteers. In 1904, he became a member of the Irish Republican Brotherhood (IRB). He was kept unaware of the plans of the Rising; while he could detect some underground preparations he was unable to find any evidence for it. On discovery of the plans for the Rising, Hobson attempted to alert the other members of the Irish Volunteers; he was imprisoned at gunpoint, and kept hostage while the Rising was underway. After the Rising, Hobson went into hiding to avoid arrest, an action which hurt his future political prospects and led to rumors that he was a traitor to the Volunteers and the IRB.Joseph Mary Plunkett was an Irish poet, journalist and signatory of the Easter Proclamation. Plunkett suffered with tuberculosis, owing to illnesses in his childhood. He served as the chief military strategist of the Easter Rising, garnering German and American assistance for the struggle. Plunkett served in the GPO garrison, assisted by his aide de comp Michael Collins. Plunkett married Grace Clifford in the chapel of Kilmainham jail just hours before he was executed by firing squad on 4 May 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>OLaoghaire Family Archive</repository>
+                  <collection>O&#39;Laoghaire Family</collection>
+                  <idno>https://letters1916.ie/item/1113</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1109">Bulmer Hobson</persName>
+              <date>1916-03-13</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Joseph Plunkett</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1113_img_342_1"  type="Letter"  url="ac0ecc3d798592234d3eebb3f18aeb83.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1113_img_342_1"/>
+              Ógláiċ na h-Éireann,                                                <lb/>Longṗort: 2 sráid dásúin,<lb/>Át cliaṫ.<lb/><lb/>The<lb/>IRISH VOLUNTEERS<lb/>Headquarters:<lb/>2 DAWSON STREET, DUBLIN. <lb/><lb/>   13 Mar 16    To Lieut. Plunkett       <seg type="foreign">A ċara</seg>    Brian MacMullan has a<lb/>lot of going about to do on the<lb/>business of the new hostel for<lb/>some of our men â I would be<lb/>obliged if you can arrange to let<lb/>him out from camp when necessary. <seg type="closer"> Your friend  <lb/>Bulmer Hobson </seg>
+         </ab>
+      </body>
+   </text>
+</TEI>

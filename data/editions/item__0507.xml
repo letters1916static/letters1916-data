@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0507">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Jeremiah Ryan to the Under Secretary, 3 August, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Jeremiah Ryan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Jeremiah Ryan to the Under Secretary of Ireland, Sir Robert Chalmers (1858-1938). Mr Ryan was instructed by the under secretary&#39;s office several months previous to fill up a form to request a petrol allowance so that he can carry out his professional duties. This letter is a follow up as Mr Ryan has not yet received a reply.Sir Robert Chalmers (1858 - 1938) was sent to Ireland as replacement under-secretary for Sir Matthew Nathan, who had resigned along with Augustine Birrell (1850-1933), his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5620/13360</collection>
+                  <idno>https://letters1916.ie/item/507</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0546">Jeremiah Ryan</persName>
+              <date>1916-08-03</date>
+              <placeName key="#letters1916_place-1407">The Laurels, Cloghroe, Inniscarra, Co. Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0507_img_1877_1"  type="Letter"  url="cec4b6d6eb38d8f102171d05ae5d8a29.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0507_img_1877_1"/>
+                Cloghroe  The Laurels  Inniscarra,  Co. Cork.    3.8.16   Sir   I had a communication <lb/> from Under Secretary Dublin Castle <lb/> about the end of Feb or early March <lb/> to fill form <hi rend="underline">re</hi> the quantity of <lb/> Petrol to be used by me for <hi rend="underline">one</hi><lb/><hi rend="underline">three</hi> and <hi rend="underline">six</hi> months which I filled <lb/> As I heard nothing about it since <lb/> I hope I will be able to get the <lb/> required amount for my professional <lb/> duties.  <seg type="closer"> I am <lb/> Your Obd. Servant   Jeremiah Ryan  <lb/>  The Under Secretary  Dublin Castle.  </seg> Ack. &amp; refer the wishes <lb/> to the Petrol Control Committee <lb/><seg type="unclear">J.H.</seg> 4/8/16   
+         </ab>
+      </body>
+   </text>
+</TEI>

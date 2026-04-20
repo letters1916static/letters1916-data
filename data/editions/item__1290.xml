@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1290">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from C. Spencer Smith to Gertrude Bannister, 31 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>C. Spencer Smith</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from C. Spencer Smith to Gertrude Bannister (d.1950), a cousin of Sir Roger Casement (1864-1916). The letter is an official letter referring to arrangements to terminate Bannister&#39;s employment with the school.The letter was written while Casement was imprisoned after he had been arrested while landing on the coast of Kerry in a submarine on the eve of the Easter Rising. Bannister was heavily involved in raising public support for Casement during his trial for treason.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casement Papers, Collection List No A15, Ms. 13,075 /1</collection>
+                  <idno>https://letters1916.ie/item/1290</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0895">C. Spencer Smith</persName>
+              <date>1916-07-31</date>
+              <placeName key="#letters1916_place-0318">53 Palace Street, Victoria Street, London, UK</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1365">Gertrude Bannister</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1245">36 Grosvenor Road, Westminster, London, UK</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1290_img_501_1"  type="Letter"  url="c01982ed94556bd5f7c786ca16258f60.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1290_img_501_1"/>
+                CLERK &amp; RECEIVER'S OFFICE 53, PALACE STREET,  VICTORIA, STREET. S.W.    July 31st 1916   Dear Miss Bannister,    I am in receipt of your letter of 29th inst and have submitted <lb/> it to the Chairman. By the Scheme for the regulation of the <lb/> Grey Coat Hospital, &amp; by your Contract of Service with the <lb/> Governors, the engagement is terminable by notice or on payment of <lb/> Salary in lieu of notice, which is not the same thing as 'dismissal'. <lb/> Clause 8 of your contract runs 'It shall not be necessary for either <lb/> party to state in such notice the reason for terminating this <lb/> agreement'; and the Board having given precise instructions the <lb/> Chairman regrets that he is unable to go further now.  <seg type="closer"> I am,<lb/> Faithfully yours,  C.Spencer Smith <lb/> Clerk. <lb/>  Miss Bannister,  36, Grosvenor Road,  S.W.  </seg><seg type="postscript"> P.S. Miss Taylor was paid a half term's salary. <lb/> Her successor was also paid. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

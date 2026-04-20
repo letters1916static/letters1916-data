@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1577">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Cis M. Coyle to James Ryan, 11 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Cis M. Coyle</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>James Ryan (1891-1970) studied medicine in UCD. He was appointed chief medical officer in the GPO during the Easter Rising. After the Rising he was imprisoned in Stafford and, later, Frongoch and was released in August 1916. Ryan was later a founder member of Fianna Fáil and a government minister.
+This letter was written while Ryan was a prisoner in Stafford. The writer notes that she had heard Ryan was released but that he is still in Stafford, refers to friends and fellow internees and asks if he would anything sent to him.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Dr James Ryan Papers, P88/27(3)</collection>
+                  <idno>https://letters1916.ie/item/1577</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0736">Cis M. Coyle</persName>
+              <date>1916-06-11</date>
+              <placeName key="#letters1916_place-0473">58 Aughrim Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0447">James Ryan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0663">Stafford, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1577_img_1044_1"  type="Letter"  url="eb13a58bfd342c948c12474b3d320308.jpg"/>
+      <graphic xml:id="L1916_1577_img_1044_2"  type="Letter"  url="ff0472c3ec6e383b858c3d2e7b6c923d.jpg"/>
+      <graphic xml:id="L1916_1577_img_1044_3"  type="Letter"  url="ea3ee7d89098cac32cdc5ac97b8d626e.jpg"/>
+      <graphic xml:id="L1916_1577_img_1044_4"  type="Letter"  url="0f2c1af4cf9b58a4013872b9877022d0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1577_img_1044_1"/>
+             58 Aughrim St   June 11th 1916  <lb/>Sunday  My dear Jim  <lb/>On Friday last I <lb/>got a letter of mine <lb/><seg type="unclear">confirmed</seg> from Stafford <lb/> with a notice that <lb/> you had been released <lb/> Needless to say I <lb/>was delighted but <lb/>I had a letter from 
+            <pb n="2" facs="L1916_1577_img_1044_2"/>
+            <lb/>your sister this morning <lb/>and she tells me <lb/>you are still in <lb/>Stafford. It must <lb/>have been some one <lb/>else that was released <lb/>I hope you got my <lb/>other letters. Are you <lb/>allowed to smoke? <lb/>I had a letter from <lb/>the Councillor on <lb/>Friday night and <lb/>they are not allowed
+            <pb n="3" facs="L1916_1577_img_1044_3"/>
+            <lb/>to smoke he says. He <lb/>sees Liam every <lb/>morning and evening <lb/>at exercise and they <lb/>can talk as much <lb/> as they please. They <lb/>can write only two <lb/> letters a week. Are <lb/>you allowed the papers <lb/>or would you like <lb/> books magazines <lb/>or anything? I hope <lb/>you will write when
+            <pb n="4" facs="L1916_1577_img_1044_4"/>
+            <lb/>you can, but of <lb/> course I quite under <lb/>stand that you <lb/>have to <seg type="unclear">get round</seg> <lb/>all your friends <lb/>Everyone has been <lb/> enquiring for you <lb/> I dont think there is <lb/> anything else I can <lb/> tell you. I am sending <lb/> a paper    Kindest regards <lb/>Very sincerely yours   Cis M. Coyle  
+         </ab>
+      </body>
+   </text>
+</TEI>

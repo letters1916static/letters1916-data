@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1213">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Andrew Philip Magill to sir George Chrystal, 15 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Andrew Philip Magill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a copy of a letter from Andrew Philip Magill (1871-1941), private secretary to the Chief Secretary for Ireland (Augustine Birrell), to George William Chrystal (1880-1944) of the Home Office in Whitehall, London. The letter acknowledges a letter and enclosure regarding British legislation relating to a weekly half-holiday for employees in the liquor trade. Magill points out the he believes the legislation would not be applicable to Ireland.Sir George William Chrystal was a British civil servant. In 1906 he transferred to the Home Office, serving successively as assistant private secretary to Home Secretary Reginald McKenna, and principal secretary to Permanent Secretary Sir Edward Troup. In 1917 he was appointed Assistant Secretary to the Ministry of National Service. After the end of the First World War in 1918 he became Secretary to the Ministry of Reconstruction and of the Demobilisation Section of the War Cabinet. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>CSO RP/1916/6821/1, CSO RP/1916/6821/1</collection>
+                  <idno>https://letters1916.ie/item/1213</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0014">Andrew Philip Magill</persName>
+              <date>1916-04-15</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">G.W, Chrystal</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0856">Home Office, Whitehall, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1213_img_390_1"  type="Letter"  url="d1c011189675d0a62e4155a917dd1569.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1213_img_390_1"/>
+                15th April, 1916.   Dear Chrystal,   I am much obliged for your letter of the 14th instant <lb/>and enclosed copy of Order in Council relative to the <lb/>weekly half-holiday for employees in the liquor trade. <lb/>As, however, section 1 of the Shops Act, 1912, does not <lb/>apply to Ireland (see section 21 (6)) I don't think any <lb/>action is required so far as Ireland is concerned.  <seg type="closer"> Yours sincerely  (sd) APM   G.W. Chrystal, Esq.,   Home Office,  Whitehall, S.W.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1964">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Pedder to Matthew Nathan, 10 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Pedder</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from the assistant secretary of the secretary of state John Pedder (1869-1956) to Sir Matthew Nathan (1862-1939) the under-secretary for Ireland. Nathan was under-secretary until the 1916 Rising after which he offered his resignation. In the letter Pedder informs Nathan that a man named Matthew R. Dolan has applied and successfully ceased to be a British Citizen under section 14 of the British Nationality and Status of Aliens Act, 1914.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/6436/1</collection>
+                  <idno>https://letters1916.ie/item/1964</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0745">John Pedder</persName>
+              <date>1916-04-10</date>
+              <placeName key="#letters1916_place-1098">Home Office, Whitehall, London</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1956</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1964_img_1412_1"  type="Letter"  url="885e8b6a786cdfce214718ca39503c18.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1964_img_1412_1"/>
+             HOME OFFICE <lb/>WHITEHALL   10th April, 1916.   Sir,   I am directed by the Secretary of state to inform <lb/>you that, Francis Gerald Kitts residing at 29, Hornsey <lb/>Land Gardens, Highgate, London, who was born out of His <lb/>Majesty's Dominions, but was a British subject by virtue <lb/>of his father's birth within His Majesty's Dominions, has <lb/>made a Declaration of Alienage dated the 20th March, 1916, <lb/>under Section 14 (2) of the British Nationality and Status <lb/>of Aliens Act, 1914. He has in consequence ceased to be <lb/>a British subject, and is now liable to the provisions <lb/>of the Aliens Restriction (Consolidation) Order, 1916. <lb/>I am to explain that Mr. Matthew R. Dolan, Solicitor, <lb/>of 22, Mary Street, Dublin, acted for Mr. Kitts in this <lb/>matter, and the latter was in Dublin at the date of making <lb/>his declaration. viz: 20th March, 1916. I am accordingly <lb/>to request that you will be so good as to issue the <lb/>necessary instructions to the Police to ensure that Mr. <lb/>Kitts registers and otherwise complies strictly with the <lb/>requirements of the Aliens Restriction Order on any <lb/>occasions when he may be in Ireland.   I am, <lb/>Sir, <lb/>Your obedient Servant,   John Pedder   The Under-Secretary, <lb/>Dublin Castle.   Chief Com <lb/>Please say <lb/>if Mr Kitts has <lb/>registered since <lb/>20th Inst.   W.N. <lb/>12/4/16 
+         </ab>
+      </body>
+   </text>
+</TEI>

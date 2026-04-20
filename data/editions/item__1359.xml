@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1359">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from T.J. Hanna to Mabel FitzGerald, 26 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>T.J. Hanna</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from T.J. Hanna, on behalf of John Redmond (1856-1918), to Mabel FitzGerald (née Washington McConnell) (1884-1958), wife of politician and intellectual Desmond FitzGerald (1888-1947). Mabel was active in attempting to secure her husband&#39;s release and Hanna writes that Redmond, leader of the Irish Parliamentary Party, is unable at present to do anything for individual prisoners but would do all in his power for her husband when it became possible in the future.Mabel was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington (1878 -1916) during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week. T.J. Hanna served as John Redmond&#39;s secretary.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1587/1</collection>
+                  <idno>https://letters1916.ie/item/1359</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0125">T.J. Hanna</persName>
+              <date>1916-05-26</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1359_img_710_1"  type="Letter"  url="7b27ecf1db8d29abf303db94a9b4e633.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1359_img_710_1"/>
+              <hi rend="underline">Private.</hi>    May 26<hi rend="superscript">th</hi>. 1916.   Dear Mrs.Fitzgerald,   Mr.Redmond desires me to acknowledge the receipt <lb/> of your letter of the 23<hi rend="superscript">rd</hi>. inst., and, in reply, to state <lb/> that he would be very glad to do anything in his power for <lb/> your husband, but  that  this is not a case of getting a <hi rend="underline">release</hi>, <lb/> but  an <hi rend="underline">amnesty</hi>, and that, after a little while, he sincerely <lb/> hopes that circumstances will be such as to necessitate <lb/> a general amnesty. It would be quite impossible, however, <lb/> to obtain a reconsideration of the sentence passed <lb/> in individual cases, as yet. When the proper time comes, <lb/> however, you may rely upon Mr.Redmond doing everything <lb/> in his power for your husband. <seg type="closer"> Yours very truly,  T.J.Hanna   Mrs. Mabelle Fitzgerald.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0589">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Eileen McGowan to Florence, 26 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Eileen Ellen McGowan (née O&#39;Donovan Rossa)</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter, addressed to Florence, was written by Eileen McGowan (née O’Donovan Rossa), (1878 – 1963). Eileen offers to help Florence anytime she may require it, especially after all that Florence and many others in Dublin did last summer. She writes that the suffering in Ireland must be dreadful and that she would have sent money with the letter only for she had read that the British confiscate money sent in letters.Eileen was one of eighteen children of the Fenian leader Jeremiah O’Donovan Rossa (1831 – 1915). O’Donovan Rossa was an active figure in Irish politics from 1856 until 1906, until he immigrated to New York where he eventually passed away.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, IE/AL/ODR/1/15</collection>
+                  <idno>https://letters1916.ie/item/589</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0214">Eileen Ellen McGowan (née O&#39;Donovan Rossa)</persName>
+              <date>1916-05-26</date>
+              <placeName key="#letters1916_place-1611">5 Arrietta Street, Tompkinsville, New York, USA</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0278">Florence</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0589_img_1992_1"  type="Letter"  url="e835ad8875624ae69ab47f395b25f113.jpg"/>
+      <graphic xml:id="L1916_0589_img_1992_2"  type="Letter"  url="9f2a7de0907521d81c832b5b14159910.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0589_img_1992_1"/>
+                5 Arrietta St,  Tompkinsville, N.Y.    May 26th<hi rend="superscript">h</hi>-1916   Dear Florence:-   Thanks for your<lb/> prompt acknowledgement and<lb/> I am very glad that our<lb/> good friend, Miss Murphy,<lb/> was able to assist you.  What kind of work<lb/> are you doing? Rikers<lb/> and Hegamans is a good<lb/> reliable firm and there<lb/> should be chances for promotion.  
+            <pb n="2" facs="L1916_0589_img_1992_2"/>
+              Don't hesitate to write to me anytime<lb/> that I can be of service to you. It<lb/> was a small thing for me to do in<lb/> comparison with what you, and<lb/> many others in Dublin did for<lb/> us last summer.  The suffering in Ireland must<lb/> be dreadful. I read in one of <lb/> the papers that the English government<lb/> will confiscate money sent across<lb/> in letters so it is useless to<lb/> try to help anyone.   I wish your little family<lb/> would set a day for a visit<lb/> to me; any Saturday or Sunday <lb/> afternoon will suit me. <seg type="closer"> Best wishes to your mother,<lb/> Sincerely yours,  Eileen McGowan </seg> (Eileen O'Donovan Rossa)  
+         </ab>
+      </body>
+   </text>
+</TEI>

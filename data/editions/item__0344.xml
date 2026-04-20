@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0344">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Clair Ní Modhráin to Eamonn O'Modhráin, 30 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Clair Ní Modhráin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Clair Ní Modhráin (b. 1891) to her brother, Eamonn Modhráin. Clair writes about letters sent to and received by the family and notes that their mother is &#39;managing wonderfully well&#39;. She also writes that a &#39;chap&#39; going over to visit his brother had tried to visit Eamonn but did not succeed.Eamonn Modhráin (1881-1954) had been arrested after the Easter Rising and imprisoned, spending time in Wakefield Prison and Frongach Internment Camp. This letter was sent while he was in Wakefield. Eamonn and Clair&#39;s brother Lewis (Louis) (1893-1959) was also imprisoned in Wakefield at this time although he was soon released.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>O&#39;Modhráin Family</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/344</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0640">Clair Ní Modhráin</persName>
+              <date>1916-05-30</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1527">Eamonn O&#39;Modhráin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1424">Wakefield Prison, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0344_img_1579_1"  type="Letter"  url="fa4a11103845fcef54f1362498353f2e.jpg"/>
+      <graphic xml:id="L1916_0344_img_1579_2"  type="Letter"  url="95c5cd37a6f8ca0ed02f241caca8014d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0344_img_1579_1"/>
+                30.5.16   My dear Eamonn,   We posted today a parcel each for <lb/>you &amp; Louie. Hope they will reach you <lb/>safely without delay. The letters take <lb/>at least a week to come from England   Louie mentioned he got a letter from <lb/>Maire, that seems to be the only <lb/>one that reached you, although we <lb/>wrote almost every day but I <lb/> suppose there are so many to be <lb/>delivered some of them get lost.   We had another letter from <lb/>Maire to day. She got your letter <lb/> on Friday.   We were home on Sunday  
+            <pb n="2" facs="L1916_0344_img_1579_2"/>
+              and found all well. Mother is <lb/>managing wonderfully well. <lb/>Louie's letter was a great relief <lb/>to her. He mentioned you were <lb/>alright as regards clothes. You <lb/>must be a great toff in your old <lb/> hat.   Una asked a chap who was going <lb/>over to see his brother to see you, <lb/>but he did not succeed.   I must write a line to Louie <lb/> now.  <seg type="closer"> With warmest love <lb/> Your loving sister   Clair </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

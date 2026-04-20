@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3006">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Christmas Card to the Ceannt family, [December 1915]</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This Christmas card is from the family papers of Éamonn Ceannt (1881-1916). Ceannt was one of the leaders of the Easter Rising and a signatory of the Proclamation of the Irish Republic. During the Rising he commanded the garrison in the South Dublin Union. Following the surrender he was tried by court-martial and sentenced to death. He was executed on 8 May 1916.
+
+On the front of the Christmas card, there is a sketch of soldiers marching under an Irish tricolour flag. Below this, there is a printed poem in Irish by Patrick Pearse. Inside the card, there is a handwritten message wishing &#34;a very happy Xmas&#34; to Eamonn, his son Rónán, and Fanny, who is Eamonn&#39;s wife Áine, christened Frances. There is also a second printed poem, in English by James Clarence Mangan.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Brother Allen Collection, IE/AL/CC/1/16</collection>
+                  <idno>https://letters1916.ie/item/3006</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">Irish</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1915-12</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Eamonn, Fanny, and Rónán Ceannt</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3006_img_2408_1"  type="Letter"  url="40d8cc9c4c3edc199c3b4e421a46d318.jpg"/>
+      <graphic xml:id="L1916_3006_img_2408_2"  type="Letter"  url="82a1e12fd28b216d51c3e9030e59124e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3006_img_2408_1"/>
+            <seg type="foreign"> "A buidhe le Dia na Bfeart go bfeiceam, <lb/>muna mbimid beo 'na dhiadh acht seachtmhain <lb/>Ghrainne Mhaol is míle gaisgidheach <lb/>Ag fogairt fáin as Ghallaibh!"  <lb/>Pádraic Mac Piarais</seg>
+            <pb n="2" facs="L1916_3006_img_2408_2"/>
+             Wishing Eamonn, Tommy &amp; Rónán <lb/>a very Happy Xmas from  Joe &amp; Gerard   <hi rend="underline">Xmas 1915,</hi>   May God send you a bright and <lb/>happy Christmas.   Yes, up! and let your weapons be <lb/>Sharp steel and self-reliance ! <lb/>Why waste your burning energy <lb/>In void and vain defiance, <lb/>And phrases fierce but fugitive ? <lb/>'Tis deeds, not words, that I weigh — <lb/>Your swords and guns alone can give <lb/>To Freedom's course a highway!  <lb/>JAMES CLARENCE MANGAN.
+         </ab>
+      </body>
+   </text>
+</TEI>

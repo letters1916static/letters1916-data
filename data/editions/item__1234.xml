@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1234">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William French to Sir Matthew Nathan, 17 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Joseph French</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from William J. French toSir Matthew Nathan referring to the allowance paid by French to his under sheriff every six months. French has supplied a receipt for the payment and requests to be reimbursed.William Joseph French (1885-1974) served as High sheriff of Roscommon in 1915. He also fought in the First World War with the 6th Battalion, Worcestershire Regiment. He would later go on to fight again in the Second World War as a captain.Sir Matthew Nathan (1862-1939) served as the under secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers,, CSO RP/1916/5596/164/15</collection>
+                  <idno>https://letters1916.ie/item/1234</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0314">William Joseph French</persName>
+              <date>1915-12-17</date>
+              <placeName key="#letters1916_place-0245">Sheriff&#39;s Office, Co. Roscommon, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1234_img_421_1"  type="Letter"  url="9c263e4109532dcc9fd39687b3809b66.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1234_img_421_1"/>
+                Sheriff's Office,  ROSCOMMON.    17th December 1915.   Sir,   I beg to acknowledge receipt of yours of <lb/>the 16th inst for which I am obliged, and as requested <lb/>send herewith Voucher for second Moiety of my <lb/>Under Sheriff's Salary Â£75:0:0, and shall be thankful <lb/>for Paying Order for amount. <seg type="closer"> I have the honour to remain, <lb/>Your obedient servant,  William J French <lb/>High Sheriff.   The Right Hon  The Under Secretary for Ireland,  Dublin Castle.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

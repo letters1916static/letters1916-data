@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3780">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from Major Francis Fletcher-Vane to Hanna Sheehy Skeffington, 25 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Francis Fletcher-Vane</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Postcard from Major Francis Fletcher-Vane (1861-1934) to Hanna Sheehy Skeffington (1877-1946) expressing his concern for Hanna. Vane writes that he wished Hanna had a man in the house as he thinks some people capable of any &#39;cadishness&#39;. Before signing off he sends his love to Hanna&#39;s son Owen.
+
+Major Sir Francis Patrick Fletcher-Vane was a British officer in command of Portobello Barracks. When he learned about the activities of Captain J.C.Bowen-Colthurst during Easter Week he reported the matter to his superiors but, sensing a cover-up, he went to London and reported it  directly to Lord Kitchener and Maurice Bonham Carter, Private Secretary to the Prime Minister. Although Bowen-Colthurst was court-martialled and found guilty, Vane was &#39;retired&#39; from the military for his actions.  
+
+Hanna Sheehy Skeffington (1877-1946), suffragette, nationalist, language teacher, was the founder of the Irish Women’s Franchise League and a founding member of the Irish Women Workers’ Union. She was the widow of Francis Sheehy-Skeffington who was summarily executed on 26 April 1916. She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papaers, Collection List No. 47; Ms 33,608/8-1</collection>
+                  <idno>https://letters1916.ie/item/3780</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0659">Francis Fletcher-Vane</persName>
+              <date>1916-07-25</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2106">43 Moyne Road, Rnaelagh, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1934</item>
+               <item n="tag">Law and Judiciary</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3780_img_3165_1"  type="Letter"  url="6123843f4b0571ef08fa2df0212f0336.jpg"/>
+      <graphic xml:id="L1916_3780_img_3165_2"  type="Letter"  url="7ea65a6228685db9d51abaf76387e392.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3780_img_3165_1"/>
+             Your letter pained me very much. <lb/>The dirty mean brutes who <lb/>do these things. I am writing <lb/>strongly to the authorities about <lb/>it.   I am just going to the House. <lb/>I wish that you had a man <lb/>in the house, your brother or <lb/>brother in law, because from my <lb/>own experience as an eye witness <lb/>of some of their actions, I think <lb/><sic>their</sic> capable of any caddishness.   My love to Owen <lb/>Yours   Francis Patrick Vane <lb/>of Hatton   R.L.C. <lb/>S.W.   25.July 1916. 
+            <pb n="2" facs="L1916_3780_img_3165_2"/>
+             Mrs Sheehy Skeffington <lb/>43 Moyne Road <lb/>Ranelagh <lb/>Dublin <lb/>Ireland. 
+         </ab>
+      </body>
+   </text>
+</TEI>

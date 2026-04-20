@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0084">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Kate English to her son, Patrick, 9 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Kate English</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from a series of correspondence between Kate English and her son Patrick. In the letter Kate mentions how lonely she but urges Patrick not to fret and to look after himself. This letter was written by Kate (b. 1855) to Patrick English (1894-1970) while he was interned. Patrick had been stationed in the G.P.O for the Rising. Following the surrender he was sent to Stafford Prison before being moved to Frongoch internment camp in Wales.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Patrick English</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/84</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0077">Kate English</persName>
+              <date>1916-05-09</date>
+              <placeName key="#letters1916_place-0478">Dunsink Cottage, Castleknock, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0178">Patrick English</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0112">Frongoch Prison, Wales</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0084_img_1158_1"  type="Letter"  url="7f2d1cc7ef2e8faa9540ecce53565dcd.jpg"/>
+      <graphic xml:id="L1916_0084_img_1158_2"  type="Letter"  url="745ef523e545e7a3e9e511e48b85d1e5.jpg"/>
+      <graphic xml:id="L1916_0084_img_1158_3"  type="Letter"  url="f2e103b656aa7166c4fe869499390256.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0084_img_1158_1"/>
+              I am <lb/>sending <lb/> you 3 <lb/>stamps    Dunsink Cottage  Castleknock  Co Dublin   My Dear Son    I <lb/> received your last <lb/> welcome letter glad <lb/> to know you are <lb/> well as for my self <lb/>I am all right <lb/> I <seg type="del">am</seg> only want your <lb/> self I think it is  
+            <pb n="2" facs="L1916_0084_img_1158_2"/>
+              God that keeps me <lb/>all <sic>strate</sic> dont fret <lb/>about me every one <lb/>tells me I am getting <lb/> young do not fret <lb/> keep up your <sic>hart</sic><lb/> did you get the <seg type="unclear">book</seg><lb/> I sent you you never <lb/> said you did you <lb/>asked me about <lb/> the gardens <sic>the</sic>got <lb/> a man in Mick's place <lb/>he started a fortnight <lb/> he would not stop <lb/> I wished you were <lb/> home it is so lonely <lb/>for me in my old age <lb/>I have Lawrence I would <lb/> not share here if he <lb/>was you David wrote <lb/>to you did you get <lb/> it have you got <lb/> leave to smoke let <lb/> me know cheer up <lb/> there is good times  
+            <pb n="3" facs="L1916_0084_img_1158_3"/>
+              yet I am praying <lb/> night <sic>an</sic> day for <lb/>you <sic>antie</sic> anne &amp; Frances <lb/>sends <sic>there</sic> best love <lb/> Jim said <sic>your</sic> to cheer <lb/>up it wont be long <lb/>till we meet again <lb/> I think I have told <lb/>you all this is mothers <lb/><sic>lovly</sic> hand good <lb/><sic>by</sic> from your loving <seg type="closer"> Mother </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

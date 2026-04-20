@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3925">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Francis Sheehy Skeffington, 5 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Francis Sheehy Skeffington</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47; Ms 33,612/18-12</collection>
+                  <idno>https://letters1916.ie/item/3925</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1551">Francis Sheehy Skeffington</persName>
+              <date>1916-02-05</date>
+              <placeName key="#letters1916_place-0575">11, Grosvenor Place, Rathmines, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1916</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3925_img_3301_1"  type="Letter"  url="e2ce00e39f082314bc6691a70ca43b26.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3925_img_3301_1"/>
+             11, Grosvenor Place,<lb/>Rathmines, Dublin.   5 - II. - 16.    Dear Sir,   During my recent visit to the United States, contributions of<lb/>mine on Irish subjects were accepted by Mr. Brisbane, Mr Ranek, and<lb/>Mr. Merrill for the Hearst newspapers. Mr. Merrill told me that,<lb/>if I wished to contribute anything on the same lines after my return<lb/>to Ireland, I ought to do so through you. I accordingly enclose a<lb/>note on a remarkable case which strikingly illustrates the feeling<lb/>in Ireland, to be used in whatever form you like, either with or<lb/>without my name.  As a precaution against censorship, I am sending this in dup—<lb/>licate. Please reply through the person who will hand you the dup—<lb/>licate, — not to me direct, as my letters are opened. 
+         </ab>
+      </body>
+   </text>
+</TEI>

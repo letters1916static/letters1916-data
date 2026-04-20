@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1314">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Éamonn Ceannt to Áine Ceannt, May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Éamonn Ceannt</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Éamonn Ceannt (1881-1916) to his wife Áine Ceannt (née Ní Bhraonáin) (1880-1954). The letter was written before Ceannt&#39;s trial, which took place on 4 May. He writes that he is in good spirits and hopes that Áine and son, RónÁn, are the same. He also writes that he hopes to accept his whatever fate might befall him.Éamonn Ceannt (1881-1916) was one of the leaders of the Easter Rising and a signatory of the Proclamation of the Irish Republic. During the Rising he commanded the garrison in the South Dublin Union. Following the surrender he was tried by court-martial and sentenced to death. He was executed on 8 May 1916. Áine Ceannt (née Ní Bhraonáin) was born in 1880. She had an interest in Irish language and was engaged in cultural revivalist activiities. In 1905 she married Eamonn Ceannt. In 1913 she attended the inaugural meeting of the Irish Volunteers and joined the Cumann na mBan, when it was formed a year later. Following the death of Eamonn Ceannt in the Rising, Áine assumed a public role as Vice-President of Cumann na mBan. She died on 2nd February 1954.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Eamonn Ceannt Papers, Collection List No. 97, Ms. 13,069/8</collection>
+                  <idno>https://letters1916.ie/item/1314</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0397">Éamonn Ceannt</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0863">Richmond Barracks, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Áine Ceannt</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Last letters before death</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1314_img_608_1"  type="NULL"  url="e9f01c5be8d7b2a57936942959efc481.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1314_img_608_1"/>
+                Place Richmond Barracks  To my wife  at present at <seg type="del">5 Dartry</seg>  5 Fitzwilliam Terrace, Dartry  Road, Upp <hi rend="underline">er Rat</hi>hmines     Trial about to be resumed <lb/> at   this (Thursday) 4th May '16. <lb/> I am cheerful and happy and <lb/> hope Aine and little RonÃn <lb/> also are so. Whatever befalls I <lb/> shall try to accept my fate like <lb/> a man and commend you and <lb/> RÃ³nÃn to the sympathy and <lb/> support of all our relatives and <lb/> friends.  <seg type="closer"> <seg type="foreign"> SlÃn leat. </seg> Do not fret. <lb/>From  Ãamonn Ceannt  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

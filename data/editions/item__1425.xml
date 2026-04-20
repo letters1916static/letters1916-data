@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1425">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Louis C.P. Smith to Sir Malachy Kelly, 15 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Louis C.P. Smith</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from the Crown Solicitor in Cavan, Louis C.P. Smith (1867-1923) to the Chief Crown Solicitor of Ireland Sir Malachy Kelly (1851-1916). In the correspondence the two are discussing a case that involved the forgery of a Birth Certificate.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3908</collection>
+                  <idno>https://letters1916.ie/item/1425</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0183">Louis C.P. Smith</persName>
+              <date>1915-12-13</date>
+              <placeName key="#letters1916_place-1533">Crown Solicitor&#39;s Office, County Cavan, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0509">Malachy Kelly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1425_img_837_1"  type="Letter"  url="c74236fa2365acac56e3f8792b8c1f49.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1425_img_837_1"/>
+              <hi rend="underline">Copy.</hi><lb/>  CROWN SOLICITOR'S OFFICE,  CAVAN,    13th day of December 1915  <lb/>Ulster Winter Assizes, 1915. <lb/><hi rend="underline">County of Cavan.</hi><lb/>The <hi rend="underline">King v John Graham</hi>. Forgery of Certificate <lb/><hi rend="underline">of Birth</hi> Dear Sir,   I herewith enclose you by Return <lb/>for the Ulster Winter Assizes for the County <lb/>of Cavan, which I hope you will find in order.   This is the second time which the <lb/>Prisoner has been tried and on both occasions <lb/>the Jury disagreed. At the trial at the Cavan <lb/>Assizes Mr. Justice Gibson took a very serious <lb/>view of the case. Judge Kenny on the other <lb/>hand although he considered it a serious <lb/>matter, seemed more or less disposed to be <lb/>satisfied if the Jury brought in a Verdict of <lb/>Not Guilty, but said they would have great <lb/>difficulty in doing so. The Prisoner stands out <lb/>on the same Bail to the next Assizes for this <lb/>County. Having regard to his position it is <lb/>very hard to get a conviction here, although <lb/>the case is perfectly clear.  <seg type="closer"> Yours faithfully  Louis C P Smith <lb/>Sir M Kelly   Chief Crown Solr.  The Castle  Dublin  </seg> Seen. Submit papers before <lb/>next Assizes <lb/>J. G. <lb/>14' 12' 15.   Mr. Smith C S <lb/>Please see Attorney <lb/>General's Directions <lb/>M. Kelly <lb/> 15-12-15   
+         </ab>
+      </body>
+   </text>
+</TEI>

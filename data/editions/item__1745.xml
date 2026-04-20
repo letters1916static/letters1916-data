@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1745">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from George Chadwick (Bishop of Derry and Raphoe) to Sir James Dougherty, 29 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>George Chadwick</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter to Sir James Dougherty (1844-1934), presbyterian minister, academic and politician. Dougherty was the MP for Derry in 1916 having retired as under-secretary for Ireland in 1914. The writer of the letter is recommending Harry T. Gallagher for the vacant position of chief Crown solicitor following the death of Malachy Kelly (1851-1916). The letter praises both Harry T. Gallagher and his father. Both were active in the recruitment campaign for the Great War.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/5554/2</collection>
+                  <idno>https://letters1916.ie/item/1745</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0161">George Chadwick</persName>
+              <date>1916-03-29</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir James Dougherty</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1745_img_1202_1"  type="Letter"  url="4e073d33c221e480d62c1e4325f4aa9f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1745_img_1202_1"/>
+             Handed to me by Sir James Dougherty<lb/>Seen by C. Sec. A.P.M. 31/3/16.   BISHOP'S HOUSE,<lb/>DERRY    March.29.1916    Add to application.<lb/><seg type="unclear">C.h. </seg>   3:4:16   My dear Sir James.   As Mr. Harry Gallagher Solicitor is a<lb/>candidate for the post of Chief Crown Solicitor rendered vacant<lb/>by the death of Sir Malachy Keely I should like you<lb/>to put his claims before the Chief Secretary and urge<lb/>them as strongly as you are able.  It is quite unnecessary to remind you that Mr Gallagher’s<lb/>father &amp; himself, more than any others, deserve the<lb/>credit of retaining North Tyrone as a Liberal seat.<lb/>Their services have always been given ungrudgingly without<lb/>seeking any reward. The same can be said of<lb/>both in regard to the Recruiting Campaign. In<lb/>fact Mr Harry Gallagher went so far on more than<lb/>one of the Recruiting platforms that he has injured<lb/>his business thereby. If loyal service merits<lb/>a reward I would say that Mr Gallagher’s<lb/>application should receive favourable consideration.   I am Sincerely Yrs    +. Chadwick<seg type="unclear">yh</seg>  <!-- George Chadwick was Bishop of Derry and Raphoe in 1916 --> 
+         </ab>
+      </body>
+   </text>
+</TEI>

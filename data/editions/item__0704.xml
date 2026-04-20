@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0704">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mr Henry A. Johnston SJ to Fr Thomas V Nolan SJ, 17 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Henry A Johnson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Mr Henry A. Johnston SJ (1888-1986) to his Irish Jesuit Provincial, Fr Thomas V Nolan SJ (1867-1941), in which he announces that he has received a &#39;very mysterious&#39; letter from Mr Finn. Mr Finn wants you to know &#39;that he and his two fellow exiles are in good health and the troubles of the hour are not weighing too heavily on them&#39;. From 1914 until 1918, Irish Jesuits Timothy Halpin (1879-1951), Daniel Finn (1886-1936) and John Coyne (1889-1978) were unable to leave Austria due to the First World War. It is presumed that they spent their time at Jesuit houses in Innsbruck. In those four years, there was very little communication with Ireland to give an account of their lives.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IE IJA/ADMN/13/34, IE IJA/ADMN/13/34</collection>
+                  <idno>https://letters1916.ie/item/704</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1246">Henry A Johnson</persName>
+              <date>1916-02-17</date>
+              <placeName key="#letters1916_place-1175">St Marys Hall, Stonyhurst, Blackburn, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas V Nolan </persName>
+              <date></date>
+              <placeName key="#letters1916_place-1897">St Francis Xavier's, Upper Gardiner Street, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0704_img_2196_1"  type="Letter"  url="18ac324f5932c5e8461dfcafa93e88ea.jpg"/>
+      <graphic xml:id="L1916_0704_img_2196_2"  type="Letter"  url="cd43ebdff8dd14001ae41056ad921724.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0704_img_2196_1"/>
+                St Marys Hall, Stonyhurst, Blackburn.    17/2/1916   Dear Fr. Provincial, <lb/>P.C.   I had a letter <lb/> from Mr. Finn yesterday. It was a <lb/> very mysterious one, and owing to <lb/> suppression of names and other precautions, <lb/> it was not clear for whom it was <lb/> meant. It passed through several <lb/> hands before reaching me, and I <lb/> recognised it as an answer to a <lb/> note I had sent him at <lb/> Christmas, which he got. He <lb/> wants you to know that he <lb/> and his two fellow-exiles are in <lb/> good health and the troubles of <lb/> the hour are not weighing too  
+            <pb n="2" facs="L1916_0704_img_2196_2"/>
+              <lb/>heavily on them. I believe you <lb/> know that they are at Kalksburg <lb/> near Vienna. They are always <lb/> hoping, he says, to return soon to <lb/> Innsbruck. Mr. Coyne is acting as <lb/> a Prefect in the College. Everyone <lb/> is very kind to them. Mr. Finn <lb/> is working at his Theology and <lb/> though circumstances make the work <lb/> harder than usual he seems to <lb/> be in very good spirits.  When I wrote to him at <lb/>Christmas I sent the letter to <lb/> Innsbruck and addressed it to the <lb/> Rev --- British Subject interned at--. <lb/> He got my communication, and so far <lb/> as I can make out from the <lb/> necessary ambiguities of his letter <lb/> he seems to say that I am the <lb/> only one who tried that plan.  All here are well (including <lb/> the birds). <seg type="closer"> With best wishes <lb/> I remain <lb/> Yours obediently in Xt. <hi rend="underline">H.A.Johnston S.J.</hi></seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

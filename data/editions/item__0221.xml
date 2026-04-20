@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0221">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Maloney to Patrick English, 3 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Maloney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from James Maloney (b. 1896), and is addressed to Patrick English (1894-1970). In the letter Maloney states that English&#39;s last letter arrived safely and he will send him some cigarettes, notepaper and stamps. Maloney states that his glad Dublin is now quiet after seeing so much trouble. Maloney requests that English tells Cosgrave he was &#39;asking for him&#39;. He also informs English that he was released from Richmond Barracks. Maloney also discusses his injured brother, Peter (b.1894), who was wounded in the Battle of Loos. Maloney ends the letter by hoping that English, Cosgrave and all the boys will be released before long. After the Easter Rising of 1916 Patrick English was interned at Stafford Prison before being moved to Frongoch internment camp in Wales</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Patrick English</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/221</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0746">James Maloney</persName>
+              <date>1916-07-03</date>
+              <placeName key="#letters1916_place-1096">Dubber, Finglas, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0178">Patrick English</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0221_img_1378_1"  type="Letter"  url="00fc283e4f00e4d47b963f95e3bb6e7b.jpg"/>
+      <graphic xml:id="L1916_0221_img_1378_2"  type="Letter"  url="b58e43883752555f83ed77a1f1be9f3e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0221_img_1378_1"/>
+                Dubber Finglas    July 3<hi rend="superscript">rd</hi>7/16   Dear Patrick    I received your letter quite safe. I am <lb/> glad to hear that your getting through <lb/>all right and not downhearted I am <lb/> sending you some cigarettes the post <lb/> Irelands Own and some note Paper and <lb/> stamps I trust you will get them safe <lb/> the <seg type="unclear">F. Club</seg> is in great fettle we have <lb/><sic>enterd</sic> in the Baldoyle Tournament for <lb/> which the proceeds goes for the repairs of <lb/> Howth Catholic Church The Fingal <lb/> Final is put back for some time <lb/><seg type="unclear">kms</seg> Pride were playing Geraldines on  
+            <pb n="2" facs="L1916_0221_img_1378_2"/>
+               there appears to be some text missing at the top <lb/> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6724">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fr Michael O'Flanagan to Fr Maher, Milltown Park, Dublin</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Michael O&#39;Flanagan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Fr O&#39;Flanagan thanks Fr Maher for his offer of help in finding the source of the rumour about him and answers Maher&#39;s question to confirm that it was Canon Timlin, PP, Skreen, Sligo who reported the rumour to him.   He goes on to confirm that there was never any truth in same and concludes by stating that he would be grateful if Fr Maher let him know the result of his enquires to identify the source of the rumour</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>O&#39;Flanagan Private Collection</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/6724</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1283">Michael O&#39;Flanagan</persName>
+              <date>1918-10-08</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0339">Fr Maher</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1425">Milltown Park, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1942</item>
+               <item n="topic">The Rising Tide (1917-1919)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6724_img_None_1"  url="phplcqt3o.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6724_img_0_1"/>
+              Oct 5th 1918    My dear Fr. Maher   In reply to your<lb/>kind letter of yesterday, for<lb/>which I am grateful, the priest<lb/>who reported the rumour to me<lb/>is the very Rev. Canon Timlin<lb/>PP Skreen Co. Sligo  I need hardly say that<lb/>there never was the slightest <lb/>foundation for the story.  I shall be thankful if you<lb/>will kindly let me know the <lb/>result of your enquiry   I remain, my dear Bishop<lb/>Sincerely yours<lb/>M Flanagan <lb/>  
+         </ab>
+      </body>
+   </text>
+</TEI>

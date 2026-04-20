@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1182">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J. Stratton to Fr Provincial Thomas V. Nolan, 8 April 1919</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J. Stratton</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from J. Stratton to Father Thomas V Nolan (1867-1941) regarding Fr Shaw&#39;s return to Ireland.Father Thomas V Nolan was the Provincial of the Irish Province of the Society of Jesus (1912-1922) and was a member of the Distribution Committee which looked after the welfare and distribution of the Belgian refugees who arrived in Ireland as a consequence of the First World War.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IJA/CHPI/64/7, IJA/CHPI/64/7</collection>
+                  <idno>https://letters1916.ie/item/1182</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1218">J. Stratton</persName>
+              <date>1919-04-09</date>
+              <placeName key="#letters1916_place-1967">London, England </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Father Nolan </persName>
+              <date></date>
+              <placeName key="#letters1916_place-1717">Dublin, Ireland </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1182_img_3860_1"  type="Letter"  url="5fca593e7d0f069ca83226406d28d881.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1182_img_3860_1"/>
+                PRINCIPAL CHAPLAIN  TO THE FORCES (R.C)  9 APR 19  Office:- 23a OLD BOND ST.,  PICCADILLY, W.1   Dear Fr. Nolan,   Many thanks for your letters of the 5th. and 7th. I am glad you <lb/>understand the difficulty of bringing people like Fr. Shaw home, it is not <lb/>everybody who is so patient when they asked for men. You can be <lb/>sure of him and all the other Frs. you require by the date you mention.  Fr. Wrafter will be coming almost immediately and also Fr. Morris, <lb/>the others will come out as quickly as they can be spared.  I will try what I can do with regard to the passages to Australia. <lb/>I am rather afraid that all these ships are attended by their own Chaplains <lb/>going home. <seg type="closer"> With kindest regards. <lb/>Yours very sincerely,  Signed. J. Stratton. A.P.C.   STAFF OFFICER  10 PRINCIPLES CHAPLAIN  (R.G)  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

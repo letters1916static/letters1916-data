@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2669">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fr. Peter C. Yorke to Bishop E. T. O'Dwyer, 26 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Peter Christopher Yorke</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Fr. Peter Christopher Yorke (1864-1925), an Irish-American Catholic priest, to Bishop Edward Thomas O&#39;Dwyer (1842-1917), who served as the Bishop of Limerick from 1888 until his death. 
+
+In the letter Fr. Yorke informs Bishop O&#39;Dwyer that his friend Fr. Murphy and his companions have arrived safe and sound despite a short delay due to a labour dispute at the docks. Before signing off, Yorke informs the Bishop that all priests in America offer a daily commemoration of him.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Limerick Diocesan Archive</repository>
+                  <collection>LDA/BI/ET/F/5</collection>
+                  <idno>https://letters1916.ie/item/2669</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0706">Peter Christopher Yorke</persName>
+              <date>1916-06-26</date>
+              <placeName key="#letters1916_place-1122">St. Peter&#39;s Church, 1200 Florida Street, San Francisco, California, United States</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1500">Edward Thomas O&#39;Dwyer</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1925</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2669_img_2092_1"  type="Letter"  url="3d11866337cae5283f6ca050a6a1c050.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2669_img_2092_1"/>
+             ST PETER'S CHURCH<lb/>1200 FLORIDA STREET<lb/>SAN FRANCISCO<lb/>TELEPHONE MISSION 2996  <lb/> June 26 1916 <lb/>The Most Reverend<lb/>Edward Thomas O'Dwyer<lb/>D.D.<lb/>Lord Bishop of Limerick. Ire.<lb/> My Lord, <lb/>Your friends Father Murphy &amp;&amp;<lb/>his companion C. H. R. have arrived<lb/>here safe &amp; sound on their way to<lb/>the islands. They are delayed by<lb/>labor troubles at the docks — a delay<lb/>which to us is a consolation we<lb/>don't deserve. We, all of us, priests<lb/>in America make a commemoration<lb/>of you daily in the office:- 'stet<lb/>et pascat in <hi rend="underline">fortitudine</hi> tua,<lb/>Domine, in <hi rend="underline">sublimintate</hi> nominis<lb/>tui.<lb/>With much respect Peter <hi rend="underline">C. Yorke.</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

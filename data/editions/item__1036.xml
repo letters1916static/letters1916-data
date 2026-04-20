@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1036">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Controller, Foreign Trade Department, to Sir Matthew Nathan, 19 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>The Controller, Foreign Trade Department</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from R.J. Nugent, the Controller of Foreign Trade Department in London, to Sir Matthew Nathan (1862-1939). Nugent writes asking for a police report on the illegal importation of glass from Belgium by a Mr. H. Wigoder &amp;amp; Co. in Feb. 1916. He has been directed to do this by the the Sir Edward Grey, the British Foreign Secretary.Sir Edward Grey, 1st Viscount Grey of Fallodon, was a British Liberal statesman. He served as Foreign Secretary from 1905 to 1916, the longest continuous tenure of any person in that office. Sir Matthew Nathan as the under secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI_CSO/RP/1916/3651/3, NAI_CSO/RP/1916/3651/3</collection>
+                  <idno>https://letters1916.ie/item/1036</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0433">The Controller, Foreign Trade Department</persName>
+              <date>1916-02-19</date>
+              <placeName key="#letters1916_place-0554">London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1036_img_306_1"  type="Letter"  url="093365e858fe8a012f71540c5297febf.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1036_img_306_1"/>
+                FOREIGN TRADE DEPARTMENT,  LANCASTER HOUSE,  ST. JAMES,  S.W.    19th February, 1916.   Sir,   I am directed by Secretary Sir Edward Grey to <lb/>forward, herewith, to be laid before His Excellency the <lb/>Lord Lieutenant, a letter and enclosure from the Board <lb/>of Trade relative to the importation by Messrs H. Wigoder <lb/>and Company, 75, Talbot Street, Dublin, of goods of <lb/>Belgian origin; and I am to request that you will be <lb/>so good as to move His Excellency to cause enquiry to <lb/>be made of Messrs Wigoder and Company in regard to <lb/>their unauthorised importation of the goods referred to. <seg type="closer"> I am, <lb/>Sir, <lb/>Your most obedient humble Servant,   L Worthington Evans <lb/>Controller.   The Under Secretary,  Dublin Castle.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

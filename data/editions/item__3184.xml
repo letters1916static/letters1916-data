@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3184">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Adamson to the Under Secretary of Ireland, 9 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Adamson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-7971</collection>
+                  <idno>https://letters1916.ie/item/3184</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0498">William Adamson</persName>
+              <date>1916-05-09</date>
+              <placeName key="#letters1916_place-1013">103 Mulberry Street, Liverpool, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Under Secretary of Ireland</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1475">The Under Secretary of State for Ireland, Whitehall, S.W., London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3184_img_2608_1"  type="Letter"  url="135fc20e6e6fbe402f6d8abbadcc5c02.jpg"/>
+      <graphic xml:id="L1916_3184_img_2608_2"  type="Letter"  url="42b4d8dcdfc7ea6ebf5cd0c174b8d22a.jpg"/>
+      <graphic xml:id="L1916_3184_img_2608_3"  type="Envelope"  url="578993c0eabb045c333e275295679db0.jpg"/>
+      <graphic xml:id="L1916_3184_img_2608_4"  type="Envelope"  url="c3c6f69e870fa26342d9efb01a7e9f5f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3184_img_2608_1"/>
+             103 Mulberry Street,<lb/>Liverpool.  <lb/> 9th May, 1916.   I. Ack. also 1954 hereon<lb/>II. [Questionable reading.]  11:5:16<lb/><lb/> Sir,   I gather from press reports that a number of<lb/>vacancies are occurring in Irish Government Offices by<lb/>reason of the expulsion of Sinn Feiners. If there is<lb/>a vacancy which I could fill I am anxious to apply for it,<lb/>and shall therefore feel indebted to you if you would be<lb/>so good as to give me any available information.  I am at present employed by the Liverpool<lb/>Corporation, in the Town Clerk's Department, previously <hi rend="superscript">to</hi> which<lb/>I was in the Court of Passage department, having entered<lb/>the Corporation service after some years of experience<lb/>in the office of Messrs J.F.Read and Brown, Solicitors,<lb/>Liverpool.  <lb/>I am in my twenty fifth year.  I may say that I have paid considerable attention<lb/>to the subject of Local Government, and to legal study<lb/>generally, having attended the lectures on Local<lb/>Government organised by the National Association of Local<lb/>Government Offices, and also the Courses organised by the<lb/>Liverpool University Board of Legal Studies on High Court<lb/>procedure, and lectures in the same subjects under the<lb/>Liverpool School of Commerce.  I have been definitely rejected by the Military<lb/>Authorities, and possess the armlet distributed to rejected<lb/>men. I am of course, a speedy Shorthand-typist.  <lb/>-1- 
+            <pb n="2" facs="L1916_3184_img_2608_2"/>
+             If there are any vacancies suitable for men of<lb/>my type I should feel greatly obliged if you will kindly<lb/>advise me as to the proper procedure to adopt in regarding<lb/>making application.  <lb/>I am, Sir,<lb/>Your obedient Servant,<lb/> <hi rend="underline">W Adamson.</hi> <lb/><lb/> The Under Secretary of State<lb/>for Ireland,<lb/>Whitehall, S.W. <lb/>(2) 
+            <pb n="3" facs="L1916_3184_img_2608_3"/>
+            <lb/> Stamp on rear of envelope <lb/>DOMINE DIRICE NOS
+            <pb n="4" facs="L1916_3184_img_2608_4"/>
+             The Secretary <lb/>I<hi rend="underline">Irish Office</hi> <lb/>S.W. 
+         </ab>
+      </body>
+   </text>
+</TEI>

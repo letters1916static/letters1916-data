@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1441">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Frank Dillon to Thomas F. Delaney, 11 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Frank Dillon</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Frank Dillon of M Dillon &amp;amp; Son Stock Brokers, to Thomas Delaney with two tickets (not included) for the Phoenix Park Races the following Saturday (April 15). Frank Dillon also wonders whether Delaney (who worked for the Grand Canal Company) would be able to secure him some petrol or retinol soon. Also enclosed with the letter is a photograph, presumably of the letter writer, taken in M Lennon, Portobello Studio, 13 South Richmond Street, Dublin.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Brian A. Garland</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/1441</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0873">Frank Dillon</persName>
+              <date>1916-04-11</date>
+              <placeName key="#letters1916_place-0701">Dublin 2, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1257">Thomas F. Delaney</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1200">James's Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1441_img_866_1"  type="Letter"  url="a05a19648e1c9e3afbf7665067c5cb93.jpg"/>
+      <graphic xml:id="L1916_1441_img_866_2"  type="Letter"  url="9595a0fba0ada60dbeece15affd94d04.jpg"/>
+      <graphic xml:id="L1916_1441_img_866_3"  type="NULL"  url="2657a0ef275fb624595846decb8e43ea.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1441_img_866_1"/>
+                TELEPHONE N<hi rend="superscript">o</hi> 1481  TELEGRAPHIC ADDRESS 'INVESTOR' DUBLIN  M. DILLON &amp; SON, STOCK BROKERS.  3, Trinity Street Dublin    11<hi rend="superscript">th</hi> April 1916   Dear Mr Delany   I send you 2 passes<lb/> for Phoenix on Saturday.<lb/> One for yourself and<lb/> one for Mr <seg type="unclear">Menzies</seg>.<lb/> No doubt <seg type="unclear">you</seg> will try<lb/> to get me a supply of<lb/><seg type="unclear">petrol</seg> before long. <seg type="closer"> Yours Sincerely  Frank Dillon <lb/>  Thos. Delany Eq  Grand Cn.  James St.  </seg> 
+            <pb n="2" facs="L1916_1441_img_866_2"/>
+                M. Lennon  Portobello Studio  13, South Richmond S<hi rend="superscript">t</hi>  Dublin    
+            <pb n="3" facs="L1916_1441_img_866_3"/>
+                To Thomas Delaney Eq  Secy  Grand Canal  James St. <seg type="unclear">Warehouse</seg>  Dublin    
+         </ab>
+      </body>
+   </text>
+</TEI>

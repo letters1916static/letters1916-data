@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0299">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John J. Thompson to Augusta Caroline Dillon, Lady Clonbrock, 13 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John J. Thompson, Registrar Royal Hospital for Incurbles</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from John J Thompson (1872-1924), Registrar Royal Hospital for Incurables to Augusta Caroline Dillon, Lady Clonbrock (1840-1928), 13 November 1915. Thompson firstly acknowledges receipt of a letter from Lady Clonbrock the month previous. He is writing to Lady Clonbrock to thank her, on behave of the committee, for her rebuttal of information in relation to the Clonbrock Co-operative society. He expresses the committees interest in maintaining the traditionally good relationship with the Co-operative and indicates that the Hospital had granted the Co-operative society a bonus of 15% on eggs which was found inadequate and thus it was increased to 35%, which he hopes Lady Clonbrock will approve of.Augusta Caroline Dillon (née Crofton) was the wife of Luke Gerald Dillon (1834 - 1917), the 4th Baron of Clonbrock, Co. Galway and the daughter of Lord Crofton of Mote Park (Edward Henry Churchill Crofton, 3rd Baron), Co. Roscommon. Augusta was a skilled photographer and was responsible for creating much of the collection of 3,000 negatives and prints, now held by the National Photographic Archive of Ireland, which illustrates many aspects of life on the estate over a period of seventy years. She was also very active in promoting home industries at Clonbrock and in organizing voluntary work on behalf of local men serving with the British Army during the First World War, for which she was awarded an OBE in 1920.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No. 54, Ms. 35,796/10/12</collection>
+                  <idno>https://letters1916.ie/item/299</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0454">John J. Thompson, Registrar Royal Hospital for Incurbles</persName>
+              <date>1915-11-13</date>
+              <placeName key="#letters1916_place-0703">Royal Hospital of Incurables, Donnybrook, County Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0483">Augusta Caroline Dillon</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0696">Clonbrock, Ahascragh, County Galway, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0299_img_1517_1"  type="Letter"  url="ef936bff552dba5f30fef41e5409528d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0299_img_1517_1"/>
+                Royal Hospital for Incurables,  Donnybrook,  Dublin    13 <hi rend="superscript">th</hi> Novr 1915.    Dear Madam:-   I duly received your Ladyships letter dated <lb/> 11 <hi rend="superscript">th</hi> inst, and same was read at a meeting of the Committee <lb/> this afternoon. In reply I am directed to express the deep <lb/> gratitude of the Committee to your Ladyship for the very <lb/> full and interesting information submitted with regard <lb/> to the Clonbrock Co-Operative Society. My Committee are <lb/> keenly anxious to preserve the good relationship that <lb/> has existed so long between the Hospital and the Society <lb/> and on Thursday last, 11 <hi rend="superscript">th</hi> inst, they granted the Society a <lb/> bonus of 15% on Eggs supplied from 1 <hi rend="superscript">st</hi> October to 31 <hi rend="superscript">st</hi> Decr <lb/> 1915, and as the Society consider this bonus inadequate <lb/> my Board are now prepared to increase it to <hi rend="underline">35%</hi>making <lb/> the price of Eggs 13/6 per 100 instead of 10/=   Trusting this concession will meet with your <lb/> Ladyships approval.  <seg type="closer"> I am, <lb/> Obediently Yours,   John J Thompson. <lb/> Registrar. <lb/>  Lady Clonbrock,  Clonbrock,  Ahascragh.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0727">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Henry Charles Fitzmaurice to Lady Londonderry, 24 February 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Henry Charles Petty Fitzmaurice</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Henry Charles Fitzmaurice (1845-1927) to Lady Londonderry (1878-1959). This letter refers to Lansdowne&#39;s expectation that Lady Londonderry will have been disappointed by the &#39;Dorsetshire decision&#39;. He writes so that Lady Londonderry knows that he is &#39;not indifferent&#39;. This letter is part of a series of correspondence belonging to Lady Londonderry, the wife of Charles Stewart Vane-Tempest-Stewart (1852-1915), sixth marquess of Londonderry. Lady Londonderry was appointed colonel-in-chief of the Women&#39;s Volunteer Reserve also an active figure in British politics. Her correspondence includes many important figures in literature, the arts, the military, law and the church. This letter was written by Henry Charles Keith Petty Fitzmaurice, fifth marquess of Lansdowne, a prominent British politician who served in the wartime coalition ministry of H.H. Asquith. Lansdowne came to believe that victory in the war was impossible and his views o the matter led to the collapse of the government in December 1916. On 29 November 1917 he published his views in the &#39;Lansdowne Letter&#39;.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Lady Londonderry Papers, D2846/2/2165</collection>
+                  <idno>https://letters1916.ie/item/727</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1420">Henry Charles Petty Fitzmaurice</persName>
+              <date>1916-02-24</date>
+              <placeName key="#letters1916_place-2100">Lansdowne House, Berkley Square, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Theresa Vane-Tempest Stewart</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0727_img_2233_1"  type="Letter"  url="d4e987f21f1ed912b7d1c49d31b0c3cf.jpg"/>
+      <graphic xml:id="L1916_0727_img_2233_2"  type="Letter"  url="11510041ef6c0f04998a3a853120f0a0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0727_img_2233_1"/>
+               24 Feb 16    LANSDOWNE HOUSE,  BEKELEY SQUARE, W.   Dear Lady Londonderry   You will have been disappointed at<lb/>the Dorsetshire decision, but I think it<lb/>was inevitable.  Shaftesbury was ready to give up<lb/>Antrim, and could therefore not be ruled<lb/>out, because he was already L.L. of that<lb/>County.  This obstacle once removed, I am afraid<lb/>it must be admitted that Shaftesbury's<lb/>claims were stronger  than <seg type="unclear">Stavy's</seg>  He was heavily<lb/>backed in the county, and , in these days<lb/>when the L.L. has so much to do with<lb/>the Territorial Force, his military position<lb/>as a cavalry Brig. Genl could not be<lb/>overlooked - If he had been <seg type="unclear">passed</seg> over<lb/>in favour of Stavy, I am afraid there<lb/>would 
+            <pb n="2" facs="L1916_0727_img_2233_2"/>
+              would have been a good deal of <lb/>squealing.  This requires no answer, but I <lb/>wished you to know that I was not <lb/>indifferent. <seg type="closer"> Yours <seg type="unclear">ever</seg>  Lansdowne </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

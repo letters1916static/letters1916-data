@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3128">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward Sherry to his brother James Sherry, 9 October 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Henry Edward Sherry</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter from Edward Sherry to his brother James Sherry (Manager of the Derry Journal) from hospital in London after he was badly injured in the Great War. His brother Francis Sherry died the previous year in France and his mother Bridget died shortly after she heard of Edward&#39;s injury. He was not able to make it home for the funeral.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Scrap book of James Sherry</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/3128</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0554">Henry Edward Sherry</persName>
+              <date>1916-10-09</date>
+              <placeName key="#letters1916_place-2092">London military Hospital England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">James Sherry</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1263">Skip Quay, Derry, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3128_img_2545_1"  type="NULL"  url="33f67ede3ea3eb52777fa27123ec1700.jpg"/>
+      <graphic xml:id="L1916_3128_img_2545_2"  type="NULL"  url="a90a04b59f46ce7a24296db7569fe197.jpg"/>
+      <graphic xml:id="L1916_3128_img_2545_3"  type="Envelope"  url="463bee766664c94fd9e7260fb33595d0.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3128_img_2545_1"/>
+            note>Monday   F. Ward <lb/>County of London War Hospital <lb/>Epsom Surrey    Dear James   Just a few lines to let you know <lb/>I am getting on all right. I have been up and <lb/>moving about this last few days, trifling weak <lb/>though, these butcherings does make one feel <lb/>that way. Thanks very much for papers. I am <lb/>pleased, to see that although you are not directly <lb/>engaged on combatant service you are doing <lb/>something to help those, whose misfortune it has <lb/>been to come in contact with <sic>Allemand</sic> and <lb/>get out second best. I read also with delight <lb/>Jack's success at the recent Intermediate exams <lb/>if he has another in the juniors grade I <lb/>trust he may distinguish himself still more.    The sudden demise of Bob <seg type="unclear">Coyle</seg> was rather <lb/>unfortunate he was a decent chap his first <lb/>wife was Druggan a sister of Mrs Corrs
+            <pb n="2" facs="L1916_3128_img_2545_2"/>
+            I have an occasional letter from the <seg type="foreign">Pater</seg> <lb/>he's <seg type="foreign">"Bon"</seg> but a little lonely, Alice and Daisy <lb/>are doing there best to keep the population up. <lb/>more power to their wheel I suppose there is <lb/>not as much of you left as would stick a <lb/>stamp never mind old boy you have have done <lb/>your bit.   Mr <seg type="foreign">Zepplin</seg> has not come near us this <lb/>weekend. I think the booze was too strong <lb/>for him at <sic>Potters....Bar</sic>. Gaw blime Bill <lb/>you should 'ear the row these 'ere guns kick <lb/>up when 'e comes over. 'E knows the reception <lb/>he gets when 'e comes to Blighty.   I hope Bridgie and all the kids are well <lb/>give my regards to them, wishing to find them in <lb/>the pink on my next visit to the Emerald Isle. <lb/>which may not be far distant;when I get a few gallops <lb/>round the Derby Course I'll be gig. I have had <lb/>no lemon squash for a long time nevertheless excuse <lb/>scribbles. Write me soon.    Yours loving Br   HE Sherry 
+            <pb n="3" facs="L1916_3128_img_2545_3"/>
+             J.B Sherry Esq <lb/>Manager "Derry Journal" <lb/>Shipquay St <lb/>Londonderry   Ireland 
+         </ab>
+      </body>
+   </text>
+</TEI>

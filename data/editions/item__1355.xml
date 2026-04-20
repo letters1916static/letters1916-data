@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1355">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Dillon to Mabel FitzGerald, 24 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Dillon </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Irish Parliamentary Party leader and MP John Dillon (1851-1927) to Mabel Fitzgerald (née Washington McConnell) (1884-1958), wife of politician and intellectual Desmond FitzGerald (1888-1947). Dillon had denounced the execution of the leaders in Westminster in a now famous speech on 11 May 1916 and in this letter he agrees that the treatments of prisoners in Richmond Barracks was bad but that after representations were made by him and others things had improved. He also mentions that in the future he may be able to do something to &#39;mitigate the harshness&#39; of FitzGerald&#39;s sentence.Mabel was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington (1878 -1916) during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week. Dillon would succeed John Redmond (1856-1918) as leader of the Home Rule party in 1918.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1583/3</collection>
+                  <idno>https://letters1916.ie/item/1355</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0557">John Dillon </persName>
+              <date>1916-05-24</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1355_img_706_1"  type="Letter"  url="25b9db14f9fb3c9f9bdb20440a790d9e.jpg"/>
+      <graphic xml:id="L1916_1355_img_706_2"  type="Letter"  url="f1adaee6df16895c1a3b983ee7ce9a1a.jpg"/>
+      <graphic xml:id="L1916_1355_img_706_3"  type="Letter"  url="501a2bdde0dbbfd3f8fbdba53b8b2872.jpg"/>
+      <graphic xml:id="L1916_1355_img_706_4"  type="Letter"  url="622d0e6eac089acaa3e3dc91c439d505.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1355_img_706_1"/>
+                24 May 1916   My dear Madam   I have received your <lb/> letter of the 23 May.  Your description of the <lb/> treatment endured by the <lb/> prisoners in Richmond <lb/> Barracks is very horrible. <lb/>And your account is I  
+            <pb n="2" facs="L1916_1355_img_706_2"/>
+              <lb/>very much regret to say - <lb/> confirmed by <hi rend="underline">many</hi> other <lb/> accounts which have reached <lb/> me.  Very strong representations <lb/> have been made to the <lb/> Government by myself and <lb/> my colleagues in these <lb/> matters â And I understand that the  
+            <pb n="3" facs="L1916_1355_img_706_3"/>
+              <lb/>treatment at Richmond <lb/> and other Dublin <lb/> Barracks â has within <lb/> the last few days been <lb/> very greatly improved.  Please find out <lb/> how this matter now <lb/> stands &amp; I shall <lb/> attend immediately <lb/> to any points which are  
+            <pb n="4" facs="L1916_1355_img_706_4"/>
+              <lb/>still matters of complaint. <lb/> I shall keep in mind <lb/> your husband's case â <lb/> And later on I may <lb/> be able to do something to <seg type="del">null</seg> mitigate the <lb/> harshness of his sentence. <seg type="closer"> Yours Sincerely  <hi rend="underline">John Dillon</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

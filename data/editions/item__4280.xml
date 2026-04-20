@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4280">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Wilfrid Spender to Lillian Spender, 12 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from sir Wilfrid Spender (1876 - 1960) to his wife, Lillian (1880-1968). Spender writes a frustrated letter concerning the lack of a definitive answer to his request for leave.  The letter appears to have been written on the back of a set of instructions for soldiers on leave.
+
+Spender was a member of the British Army until 1913 when controversy surrounding his signature of the Ulster Solemn League and Covenant resulted in his resignation. Spender was called up for military service in 1914 and from 1915 served in the 36th (Ulster) Division. Throughout the war, Spender wrote a collection of letters to his wife Lady Lillian Spender. The letters date mainly from 1915 to 1918, when Sir Wilfrid was serving in France. The letters concern politics, the Irish question, personal life, and Wilfrid&#39;s experience of the Great War.&#34;</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Letters from Sir Wilfrid Spender to Lady Spender, D1633/1/1/217</collection>
+                  <idno>https://letters1916.ie/item/4280</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0667">Wilfrid Spender</persName>
+              <date>1916-04-12</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lillian Spender</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1960</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4280_img_3644_1"  type="Letter"  url="933a76ab9b3c03fc238a87d2e9a08fd0.jpg"/>
+      <graphic xml:id="L1916_4280_img_3644_2"  type="Enclosure"  url="f45a474e04959a705b257671a4b9cfc5.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4280_img_3644_1"/>
+             12. April   My <seg type="unclear">pv</seg>   A perfectly rampant <lb/>bw as I have not yet got <lb/>a decision as to my going <lb/>is whether I start tomorrow <lb/>night or later. All I know <lb/>is that the General is quite <lb/>willing for me to go any- <lb/>time I can be spared. <lb/>I may turn up Friday <lb/>I hope fairly early as this <lb/>boat is supposed to leave <lb/>Boulougne at 6.15AM. It <lb/>will be so so my inquiry <lb/>so either I or a most assured <lb/>come letter in my place <lb/>should reach you.   Your bw 
+            <pb n="2" facs="L1916_4280_img_3644_2"/>
+             <hi rend="underline">A. F. W. 3337</hi> <lb/>Instructions for Officers <lb/>and Men proceeding on Leave.   1. Rifles will be taken but no ammuni— <lb/>tion. This is to be left with unit.   2. Combined warrants and tickets to <lb/>destination and returns to be obtained from <lb/>unit before departure. The Station of <lb/>destination not merely the country must <lb/>be inserted on the warrant.   3. Men will be collected into parties in <lb/>such formations as may be ordered at <lb/>Railheads under officers detailed for the <lb/>duty. The senior Officer will be in command <lb/>of the party and be responsible that the <lb/>men entrain together and are marched on <lb/>board the ship and keep together whilst on <lb/>board and are marched off and entrained <lb/>together at Port of arrival, and the same <lb/>procedure will be adopted for the return <lb/>journey, the same officer collecting his men <lb/>together at Victoria Station or Waterloo. <lb/>The men will be expected to assist by <lb/>rejoining their proper parties as quickly as <lb/>possible.   4. Pay to be obtained before leaving the <lb/>unit. French money will be exchanged <lb/>at Victoria Station and Waterloo NOT at <lb/>Port of departure.   5. A copy of these rules will be given to <lb/>each man with his leave form.   BSD — B. M229/64/11. 11/15. 
+         </ab>
+      </body>
+   </text>
+</TEI>

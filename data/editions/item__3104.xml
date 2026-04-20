@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3104">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Peter Mooney to his sister Kate Mooney, 22 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Peter Mooney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Peter Mooney was born 5 February 1886 in Folistown, Dunboyne, Co Meath. Orphaned at age 7, he and his sister Katie (b. 1884) were raised by their uncle William and his wife Mary in Caulstown. While there are no surviving enlistment papers for Peter, his War Badge Index Record shows his enlistment date as 18 October 1915. 
+
+He served with the Royal Artillery and later transferred to the Royal Engineers where he was promoted to the rank of Sergeant. He served in several places at the Western Front, including Ypres, St. Omer and Passchendael. Peter and Kate were avid correspondents. This  letter is from a collection of over ninety surviving letters.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Mooney Family Papers</repository>
+                  <collection>Mooney Family Papers</collection>
+                  <idno>https://letters1916.ie/item/3104</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0428">Peter Mooney</persName>
+              <date>1916-06-22</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1038">Katie Mooney</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1524">Caulstown, Dunboyne, Co. Meath, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1970</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3104_img_2511_1"  type="Letter"  url="6dbde858ec04c9846de8dd5ba7e21bf5.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3104_img_2511_1"/>
+             June 22<hi rend="superscript">nd</hi> 1916   Dear Katie,   I received your very welcome letter this morning <lb/>I received the P.O. alright. It certainly had some travelling <lb/>around. I am in the best of health &amp; we are getting plenty <lb/>of good food which means everything. It makes me very <lb/>Happy to hear that everything is doing alright at home. <lb/>I had a letter from Mrs Martin this morning also she <lb/>appears to have left the Governor on his own I hope old <lb/>Dunne will give up the stall shortly surely he ought to <lb/>take a rest now. Cattle are very dear <seg type="del">a</seg> steak costs <lb/>1/4 per lb now I believe it is certainly a high price. I hope <lb/>old William is getting alright again remember me to him. <lb/><seg type="unclear">Hewitstown</seg> must be like a castle it is some home <lb/>that has twenty six fireplaces in it. They seem to have <lb/>got on well with Mr. Wards House I suppose they <lb/>will be living in it before the winter. It is to early <lb/>for you to think of me getting any leave yet. I might be <lb/>here for twelve months before that happy event comes <lb/>off. I enclose my Aunts letter hoping you will receive it <lb/>alright. I am very glad to hear Bridgits father is getting <lb/>the pension he is a great old man. I have no more to say <lb/>at present I now say Good-Bye and may God bless and keep you all <lb/>safe.   Peter Mooney. 
+         </ab>
+      </body>
+   </text>
+</TEI>

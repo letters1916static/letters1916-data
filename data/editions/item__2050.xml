@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2050">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from P. McCarthy to Lord Wimborne, 13 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>P. McCarthy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from P. McCarthy to Ivor Churchill Guest (1873-1939), Lord Wimborne, the lord lieutenant of Ireland. The letter concerns the vacant position of crown solicitor in Cork due to the former crown solicitor, Henry Arthur Wynne (1867-1943), becoming the chief crown solicitor following the death of Malachy Kelly (1850-1916). The letter concerns the vacant position, for which McCarthy is making an application. He states he has been in the profession for 30 years and that he has given his only son to the service of the empire while also giving his own service to the recruiting scheme in the district. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>National Archive of Ireland-Chief Secretary&#39;s Office-Registered Papers; NAI/CSO/RP/1916/5611/8362/1</collection>
+                  <idno>https://letters1916.ie/item/2050</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0843">P. McCarthy</persName>
+              <date>1916-05-13</date>
+              <placeName key="#letters1916_place-0022">Bandon, Cork</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Ivor Guest</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2050_img_1497_1"  type="Letter"  url="803092e16ebdc7a84098cc06500d3978.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2050_img_1497_1"/>
+             Bandon <lb/>Co. Cork   May 15<hi rend="superscript">th</hi> 1916   To <lb/>His Excellency <lb/>The Lord Lieutenant General &amp; <lb/>General Governor of Ireland.   May it please Your Excellency   I beg to apply for the position of <lb/>Crown Solicitor for the City &amp; West Riding of the County <lb/>of Cork rendered vacant by the promotion of M<hi rend="superscript">r</hi>. H.A.Wynne.   I am a solicitor of over 30 years' practice at <lb/>the profession and intimately acquainted with the City and <lb/>West Riding where I have resided and practiced all that time.   I have given my only son who is a barrister by <lb/> profession to the service of my country and the Empire and <lb/> I have myself aided to the best of my ability the recruiting <lb/> Scheme in this district as organized under Your Excellency's <lb/> inspiration and control and made speeches at <lb/>many of the meetings held for that purpose.   I have the honour to be <lb/>My Lord <lb/>Your Excellency's most obedt. Servant   P. McCarthy 
+         </ab>
+      </body>
+   </text>
+</TEI>

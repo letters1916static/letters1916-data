@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1298">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fr F.M. Ryan O.P. to George Gavan Duffy, 12 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Fr F.M. Ryan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is one of two surviving copies of a letter written by Fr F.M. Ryan to George Gavan Duffy (1882-1951). Fr Ryan writes to Gavan Duffy that Casement had come to him after his arrival in Ireland and told him that he was trying to stop the planned rebellion. The letter was written while Sir Roger Casement (1864-1916) was imprisoned in London after he had been arrested while landing on the coast of Kerry in a submarine on the eve of the Easter Rising.George Gavan Duffy was an Irish politician, barrister and judge. He unsuccessfully defended Roger Casement at his trial for high treason after the Easter Rising. A campaign was launched featuring many prominent figures such as W.B. Yeats and George Bernard Shaw to secure a reprieve for Casement but he was hanged on 3 August 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casement Papers, Collection List No A15, Ms. 13,078 /7</collection>
+                  <idno>https://letters1916.ie/item/1298</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1254">Fr F.M. Ryan</persName>
+              <date>1916-07-12</date>
+              <placeName key="#letters1916_place-1845">Roscrea, County Tipperary</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0467">George Gavan Duffy</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1298_img_512_1"  type="Letter"  url="623dfecb121afb5948411bf00f538d04.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1298_img_512_1"/>
+                Roscrea,  Co. Tipperary.    12 <hi rend="superscript">th</hi> July 1916.    Dear Mr. Gavan Duffy: -   Sir Roger Casement saw me in Tralee on the 21st of <lb/> April and told me he had come to Ireland to stop the rebellion <lb/> then impending. He asked me to conceal his identity as well <lb/> as his object in coming until he should have left Tralee, <lb/> lest any attempt should be made to rescue him. On the other <lb/> hand he was very anxious that I should spread the news broadcast <lb/> after he had left.  <seg type="closer"> Sincerely yours,  F. M. Ryan, O. P. </seg><seg type="postscript"> P.S. My address for three weeks after next Saturday will be: - <lb/> 'The Presbytery <lb/> Buncrana, <lb/> Co. Donegal.'  </seg>  Envelope.   G. Gavan Duffy Esq.,  4, Raymond Buildings  Gray's Inn  London W.C.    
+         </ab>
+      </body>
+   </text>
+</TEI>

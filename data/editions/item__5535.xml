@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5535">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Monteith to Roger Casement, 18 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Monteith</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Robert Monteith (1880-1956) to Roger Casement from Berlin. Moneith was the Commander of the Irish Brigade, appointed by Casement. 
+Casement had spent seventeen months in Germany attempting to secure German support for an uprising in Ireland and raising an ultimately unsuccessful brigade of Irish soldiers in German prisoner of war camps. By April 1916, Casement had become become disillusioned with German assistance and marginalized from the plans for the Rising. He believed there should be no rising without sufficient German support and when he realised that it was going ahead with only a small supply of German arms, he traveled to Ireland to prevent it from taking place. The Germans supplied a submarine to transport Casement, Monteith and Sergeant Beverly (Daniel Bailey) to Ireland but Casement and Beverly were captured after they landed in Kerry on the eve of the Easter Rising. Casement was hanged for treason in London in August 1916.
+The letter encloses some press cuttings. There is a note in another hand (possibly Casement&#39;s): &#39;They came from Gaffney&#39;s books&#39;</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sir Roger Casement Papers, Collection List No. A15; Ms. 13085/24/8</collection>
+                  <idno>https://letters1916.ie/item/5535</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0377">Robert Monteith</persName>
+              <date>1916-03-18</date>
+              <placeName key="#letters1916_place-0840">Berlin, Germany</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1253">Roger Casement</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1956</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5535_img_630_1"  type="Letter"  url="570954501a04c5e94646025178d5bb10.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5535_img_630_1"/>
+             HOTEL SAXONIA <lb/>Inhaber <lb/>Neue Berliner Hotel-Gesellschaft m.b.H. <lb/>Berlin W. 9, Budapesterstr. 10 <lb/>am Postdamerplatz - nehe Tiergarten <lb/>Fernspracher Amt Lutzow 2838 und 2871   BERLIN W. 9,   18/3/16   Dear Sir Roger.   Three cuttings were enclosed in McGoey's <lb/>papers, they do not belong to him, and seem <lb/>to have some connection with M Gaffney   Yours   R.<hi rend="underline">Monteith</hi>   They came from <lb/><hi rend="underline">Gaffney;s books</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

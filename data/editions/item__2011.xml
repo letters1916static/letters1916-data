@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2011">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J. J. Taylor to Basil Blackwood, 13 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J. J. Taylor </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from John J Taylor (b. 1860), Principle Clerk for the Chief Secretary&#39;s Office, to Lord Basil Blackwood (1870-1917), a British Lawyer and Civil Servant who died a the battle of Ypres in 1917. The letter discusses the payment of Blackwood for his work as Private Secretary to the household of Ivor Guest (1873-1939), the Lord Lieutenant. It goes on to discuss the amount he is to be paid and the tax deducted. Enclosed is an account of his payment.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>National Archive of Ireland-Chief Secretary&#39;s Office-Registered Papers; NAI/CSO/RP/1916/5611/8130/1</collection>
+                  <idno>https://letters1916.ie/item/2011</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0547">J. J. Taylor </persName>
+              <date>1916-05-13</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1034">Basil Blackwood</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2011_img_1457_1"  type="Letter"  url="370b360289a3fb915ca290110173bda1.jpg"/>
+      <graphic xml:id="L1916_2011_img_1457_2"  type="Enclosure"  url="27e393890d7fe6fa0b7c990574e8431b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2011_img_1457_1"/>
+             13th May, 1916   Dear Lord Basil Blackwood,   In reply to your letter of the<lb/> 7th instant i was informed by the Paymaster's General's Office<lb/> that the payments to you on account of salary as Private<lb/> Secretary from the Vote for the Household of the Lord<lb/> Lieutenant during the year 1915-6 amounted to £773:2:6<lb/> (gross) and that the tax deducted amounted to £70:4:2. The<lb/> tax was at the rate of 1s.6d. in the £ plus 20%. When<lb/> taxing your salary for the current quarter the assessor<lb/> will make allowance for the excess tax deducted amounting<lb/> to 12s.7d.   Yours sincerely,   (Sd) J.J. Taylor 
+            <pb n="2" facs="L1916_2011_img_1457_2"/>
+            <hi rend="underline">1915—6</hi> <lb/> gross <lb/>Order No Month Amount <lb/>86/1 April 50:15:- <lb/>143/1 May 50:7:16 <lb/>200/1 June 72:-:- <lb/>335 July 50:7:6 <lb/>384/1 Aug. 50:7:6 <lb/>441/1 Sept. <hi rend="underline">72:-:-</hi> <lb/>507/1 Oct 50:7:6 <lb/>547 Nov. 34:8:6 <lb/>584/1 " 57:10:- <lb/>677/1 Dec. <hi rend="underline">78:12:1</hi> <lb/>790 Jan 61:2:- <lb/>835/1 Feb. 62:-:- <lb/>955/1 March <hi rend="underline">83:5:1</hi> <lb/> 773:2:6
+         </ab>
+      </body>
+   </text>
+</TEI>

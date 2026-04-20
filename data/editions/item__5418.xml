@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5418">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Joseph Devlin MP to Mr Rooney, 7 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Joseph Devlin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a copy of a letter sent by Joseph Devlin MP (1871-1934) to a Mr Rooney. Devlin was a key organiser for the Irish Parliamentary Party, an influential constitutional nationalist and had been an MP since 1902. In the aftermath of the Easter Rising, Devlin supported the temporary partition of Ireland but the scheme collapsed. In the letter, written around this time, Devlin writes that &#39;we do not want any arms in Ireland, and will not have any&#39; and that they are trying to remove arms from Ireland rather than bring them in.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Piaras Béaslaí Papers, Collection List No 44; Ms. 33,912 (1)</collection>
+                  <idno>https://letters1916.ie/item/5418</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0915">Joseph Devlin</persName>
+              <date>1916-07-17</date>
+              <placeName key="#letters1916_place-0732">House of Commons, London</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mr Rooney</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1934</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5418_img_470_1"  type="Letter"  url="bd6aaca26695eecb22e7a6e6a06f33c1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5418_img_470_1"/>
+            <hi rend="underline">MR. DEVLIN AND THE VOLUNTEERS</hi>  HOUSE OF COMMONS.   7th July, 1916.   My dear Mr. Rooney,   I have your letter of the 17th inst., with <lb/>enclosures handed to me by Mr. Redmond, which I return herewith. <lb/>I would respectfully suggest that the Westley Richards' people <lb/>should be distinctly told that we do not want any arms in <lb/>Ireland, and we will not have them. As law-abiding citizens, <lb/>we consider them a danger to the State. Instead of getting <lb/>arms into the country, we want to get them out of the country. <lb/>When this is done, we will see what further action should be <lb/> taken.   Yours very truly,     JOSEPH DEVLIN. 
+         </ab>
+      </body>
+   </text>
+</TEI>

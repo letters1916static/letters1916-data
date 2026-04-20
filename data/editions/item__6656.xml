@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6656">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from W.B. Yeats to W.T. Horton, 31 March 1917</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>W.B. Yeats</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Harry Ransom Center, The University of Texas at Austin</repository>
+                  <collection>William Butler Yeats Collection; II. Correspondence, 1891-1938, Outgoing. Box 7. </collection>
+                  <idno>https://letters1916.ie/item/6656</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1561">W.B. Yeats</persName>
+              <date>1917-03-03</date>
+              <placeName key="#letters1916_place-0412">18, Woburn Buildings, London W.C., England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">W.T. Horton</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1939</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6656_img_None_1"  url="php0uODSy.jpeg"/>
+      <graphic xml:id="L1916_6656_img_None_2"  url="php1LwXW4.jpeg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6656_img_0_1"/>
+              <hi rend="underline"></hi>I am just back from Birmingham    18,Woburn Buildings,    W.C.       Saturday    31/3/17    My Dear Horton :  I too called<lb/>I think twice - no thrice.<lb/>I was very much distressed to<lb/>think that any action of mine<lb/>could effect you so badly. I never<lb/>thought my detachment of IC<lb/>statements &amp; general principles<lb/>from the critical front page of this<lb/>essay could have seemed cold &amp; certainly if I had known<lb/>this would never have done so.  <lb/>Come round on Sunday<lb/>at 4.30 (or earlier)<lb/>to discuss this matter. I have not an evening free alas.   WB Yeats           
+            <pb n="2" facs="L1916_6656_img_0_2"/>
+             W.T Horton Esq 
+         </ab>
+      </body>
+   </text>
+</TEI>

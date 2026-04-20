@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0150">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Henry Caunt to Herbert Henry Asquith, 4 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Henry Caunt</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from a William Henry Caunt (b. 1879) of Cheshire to Herbert Henry Asquith (1852-1928), then Liberal Prime Minister of Great Britain. Caunt writes to complain about the low level of security on the Irish borders, which he sees as a threat to national security. Caunt claims he is writing as someone who was trapped in Dublin during the Rising during which stray shots posed a constant risk to one&#39;s life and that he feared the rebels. As a solution Caunt recommends that a house to house search should be carried out and conscription introduced in Ireland.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/7554/1</collection>
+                  <idno>https://letters1916.ie/item/150</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1190">William Henry Caunt</persName>
+              <date>1916-05-04</date>
+              <placeName key="#letters1916_place-1269">33 Nelson Street, Crewe, Cheshire, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0582">Herbert Henry Asquith</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1814">Downing Street, Westminister, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0150_img_1274_1"  type="Letter"  url="e0f476b3cef8e6c0cb24c0a6bc0da2dd.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0150_img_1274_1"/>
+                33, NELSON STREET,  C R E W E  CHESHIRE.    May 4th. 1916   Sir,   I feel it my public duty to bring to your<lb/> notice the comparatively lax scrutiny which is being exercised<lb/> in the case of persons passing from as well as to Ireland, and which,<lb/> from the point of view of national safety, I am convinced is<lb/> nothing like as thorough as the present state of affairs in<lb/> Ireland demand. I speak as one of those luckless subjects of<lb/> His Majesty who, until Monday evening last, was prevented from<lb/> leaving Dublin during Easter week owing to the ill-gotten purposes<lb/> of republican Irishmen, suffering much inconvenience, fright, and<lb/> constant risk of one's life from stray shots which flitted about<lb/> from one side, then the other, and all the unexpected outcome of an<lb/> innocent visit for Easter Sunday and Monday. I do not complain<lb/> so much of the scrutiny on the other side, xx xxxx as of the fact<lb/> that at Holyhead no person's landing from the Dublin S.S. Coy's<lb/> Steamer 'Munster' was challenged wither by a representative from<lb/> the Army, Navy, or Civic Police Authorities. Personally I expected<lb/> the Kingstown examination was but a preliminary, and not a final<lb/> one. I can assure you, in the face of political assertions to the<lb/> contrary from Irish M.P.s in Parliament, that the rebels have so <lb/> large a body of open and secret sympathisers as to demand the strict-<lb/> -est scrutiny by the authorities at each port to and from Ireland. A<lb/> house to house search here is imperative where arms and treason abound,<lb/> and it would be interesting to know how many Alien or Sein Fein Clergy<lb/> are presently enjoying liberty and immunity from suspicion. Why not<lb/> after this, compel every Irishmen to do his bit who can be spared? <seg type="closer"> Yours faithfully, <lb/> William Henry Caunt   To the Right Hon:  H.H. ASQUITH, M.P. , P.C.,  DOWNING STREET,  WESTMINSTER.  S.W.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1216">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas W. Delaney to Sir Matthew Nathan, 11 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas F. Delaney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Thomas W. Delaney, Crown Solicitor for Co. Longford to Sir Matthew Nathan (1862-1939), the Under secretary, about a case of false representation to secure a separation allowance. It explains that at the Petty Sessions at Edgeworthstown on Thursday 6th April 1916, the accused, Maggie Kiernan, was fined ten shillings and costs for falsely stating that she was separated. The magistrates presiding were the resident magistrate, Mr Jephson, Conel O&#39;Farrel, J. Dowler and J. Redsham. As this was the first such case, the magistrates imposed a small fine of ten shillings. So far the case had not been publicised in the newspapers.Sir Matthew Nathan was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI_CSO RP/1916/6810/2/2a, NAI_CSO RP/1916/6810/2/2a</collection>
+                  <idno>https://letters1916.ie/item/1216</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1257">Thomas F. Delaney</persName>
+              <date>1915-04-11</date>
+              <placeName key="#letters1916_place-0610">Longford, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0890">Dublin Castle</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1216_img_393_1"  type="Letter"  url="bfca53acd6039aeeb1de0fecc6e12aed.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1216_img_393_1"/>
+              The King <lb/>âVâ <lb/>Maggie Kiernan.  False representation <lb/>to secure separation <lb/>Allowance   Under Secretary,    I beg to return file sent me herein <lb/>and to report that at the Petty Sessions <lb/>at Edgeworthstown on Thursday the 6th inst, <lb/>the accused was fined 10/- and costs. The <lb/>Magistrates presiding were the Resident <lb/>Magistrate Mr. Jephson, Conel O'Farrell, <lb/>J. Dowler and J. Redahan.  I stated fully the object of the War <lb/>Office in bringing the prosecution and the <lb/>Excise Officer in giving his evidence <lb/>indicated that the accused might have mis- <lb/>understood her position in making the <lb/>statement. After his evidence was taken <sic>t</sic><lb/>the accused, through her solicitor, <lb/>pleaded guilty, and this being the first <lb/>case of the kind the Magistrates inflicted <lb/>the small penalty mentioned above.  So far the case has not been reported <lb/>in the local papers. I expect next weeks <lb/>paper will contain the report and I will <lb/>then furnish copies of the papers. <seg type="closer"> <seg type="unclear">TWDelaney</seg>   Crown Solicitor,  Longford.    11.4.1916  </seg> Under Secretary, <lb/> I have reported result <lb/> of the case to War Office and <lb/> returned the papers <lb/><seg type="unclear">Andrew</seg> Lynch <lb/><seg type="unclear">aistees</seg> 13/4/16   M. Lynch, <lb/>Please report the <lb/>result with papers to the <lb/> War Office  12/4/16   
+         </ab>
+      </body>
+   </text>
+</TEI>

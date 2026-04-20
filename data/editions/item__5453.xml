@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5453">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fr. E.F. Murnane to Sidney Parry, 30 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward F. Murnane</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from Fr. E.F. Murnane to Sidney Parry. It refers mainly to arrangements for Parry&#39;s marriage to Gertrude Bannister, a cousin of Sir Roger Casement (1864-1916). The letter was written the month after Casement was hanged in London for treason, having been arrested in Kerry on the eve of Easter Rising. In the letter, Fr Murnane refers to the Casement&#39;s execution and explains that the regulars at the church where they will be married prayed for Casement and drowned our the &#39;barbarous cheers&#39; of others.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casement Papers, Collection List A15; Ms. 10,075/1</collection>
+                  <idno>https://letters1916.ie/item/5453</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1398">Edward F. Murnane</persName>
+              <date>1916-09-30</date>
+              <placeName key="#letters1916_place-1078">Bermondsey, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1438">Sidney Parry</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Faith</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5453_img_484_1"  type="Letter"  url="e0eddc189566dc1c770086a431388a6c.jpg"/>
+      <graphic xml:id="L1916_5453_img_484_2"  type="Letter"  url="e433238875544de89e7cf36f20239d50.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5453_img_484_1"/>
+             Sept 30. 1916   My dear Mr. Parry -   I answer your letter at <lb/> once, and I think all things considered that <lb/> you had better be married here. It will be <lb/> a great joy to me and will get you out <lb/> of a number of technical difficulties as <lb/> regards the license &amp;c. which I will explain <lb/> when we  meet.  To give you a domicile, I am <lb/> making you my guest, my lodger! <lb/>So your Bermondsey address is <lb/> 1 Parkers' Row, <seg type="unclear">Dockhead,</seg> Bermondsey. The <lb/> local Registrar is a friend of mine and <lb/> he has explained all that is necessary. <lb/> This is the most Irish Church  in London  and the <lb/> majority of devout souls who were present <lb/> outside Pentonville and fell on their knees <lb/> and prayed for dear Roger and thereby <lb/> stopped the barbarous Booing &amp; Cheers <lb/> were from here and they will rejoice <lb/> &amp; be proud that Miss Bannister and
+            <pb n="2" facs="L1916_5453_img_484_2"/>
+            <lb/>you were married in their Church. If <lb/> you could come up on Monday Evg <lb/> and be here about 6 ocl. I could accompany <lb/> you to the Registrar. A special License <lb/> is necessary, not for the Religious Service <lb/> but legally, it costs about £3. I am <lb/> suggesting Monday Evg. as I am to be <lb/> installed on Tuesday and may be <lb/> occupied all day - I write in haste <lb/> but  here  are the answers to your questions <lb/>(a) Church. Holy Trinity Dockhead, Bermondsey <lb/>(b) a license is necessary - To be obtained here <lb/> from the Registrar.   You are having many prayers and <lb/> Miss Bannister's name &amp; conversion are <lb/> coupled with my prayers for you — and <lb/> you will both have my Mass on <lb/> the morning of your wedding. And we <lb/> both know that dear Roger rejoices and <lb/> is praying for you both &amp; for us all.   Very Sincerely Yrs    E.F. Murnane 
+         </ab>
+      </body>
+   </text>
+</TEI>

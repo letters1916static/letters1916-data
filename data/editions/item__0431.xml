@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0431">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Frederick Hugh Crawford to Lady Ruby Carson, 8 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Frederick Hugh Crawford</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Frederick Hugh Crawford (1862-1952) to Lady Ruby Carson (née Frewen; 1881-1966). Crawford writes to Lady Carson in connection with a casket he received for his service. He also writes about his loyalty to his fellow Ulstermen during the First World War, and requests that Lady Carson relay the information conveyed in the letter to Sir Edward Carson who is still &#39;in the Doctor&#39;s hands.&#39;Born in in Belfast, County Antrim, to a Methodist family, Frederick Hugh Crawford was an engineer, soldier and a gun runner. He smuggled German guns into Larne, Bangor and Donaghadee in 1914 for the Ulster Volunteer Force. He was also appointed OC Royal Army Service Corps for Northern Ireland during the First World War. Lady Ruby Carson was born in Yorkshire and was the daughter of Lt Col Stephen Frewen. In 1914 she became the second wife of the prominent Unionist figure Sir Edward Carson (1854-1935).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Crawford Papers, D/1700/5/17/1/129A</collection>
+                  <idno>https://letters1916.ie/item/431</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0900">Frederick Hugh Crawford</persName>
+              <date>1916-03-08</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Ruby Carson</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0431_img_1761_1"  type="Letter"  url="8a19bc7886ebaf37f09278b61cc6952f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0431_img_1761_1"/>
+                <hi rend="underline">March 8<hi rend="superscript"><hi rend="underline">th</hi></hi> '16</hi>   Dear Lady Carson.    The casket arrived home safely and <lb/> has been very much admired by those who have <lb/> seen it. I cannot express how much I value it. <lb/> Representing as it does the affection and appreciation <lb/> of my Ulster fellow countrymen for the service <lb/> thru. God's help I was instrumental in bringing to the <lb/> Cause of freedom civil and religious we have all been <lb/> fighting for so long. At the same time I feel I <lb/>only did my duty &amp; this brought by the causes I had <lb/> to fight more prominently to the front. Many others <lb/> did as much for the cause as I, &amp; knowing this <lb/> the beautiful casket seems in all fairness to <lb/> belong to them as well as to me.  I would have addressed this to Sir Edward <lb/> himself but as he is still in the doctor's hands <lb/> you will let him know the contents at the proper time   I look upon him as 'My Chief' temporarily <lb/> I am serving another, but the day may come 'when <lb/> !!!!!' With Kind Regards to Sir Edward &amp; yourself  <seg type="closer"> Yours Sincerely,  <hi rend="underline">Fred.H. Crawford.</hi> </seg><seg type="postscript"> P.S. I have shown the casket to very <lb/>few. I am awaiting the letter it <lb/>was made to contain &amp; till I get <lb/>it the casket will be kept put <lb/>away in a safe place. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

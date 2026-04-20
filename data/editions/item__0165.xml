@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0165">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Stephen Purcell to Anna O'Rahilly, 24 December 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Stephen Purcell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Stephen Purcell (b. 1875) to Anna O&#39;Rahilly, the sister of Michael Joseph O&#39;Rahilly (1875-1916). The letter discusses the author&#39;s eyesight and the reasons he has not been to Dublin. It goes on to discuss the threat of conscription, suggesting that it may push people to the last extreme. It also discusses a bishop who people are now looking to for guidance.Michael Joseph O&#39;Rahilly, self-described as &#39;The&#39; O&#39;Rahilly, was involved in the procurement of arms in the lead-up to the Rising and was involved in the Howth gun-running incident. He fought in the G.P.O. During the Rising and was shot in Parnell/Moore Street on 28 April 1916 and died some time later. Nancy O&#39;Rahilly (1875-1961),</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Sighle Humphreys Papers, P106/182/007/3</collection>
+                  <idno>https://letters1916.ie/item/165</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1450">Stephen Purcell</persName>
+              <date>1915-12-24</date>
+              <placeName key="#letters1916_place-0556">Limerick, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0639">Anna O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0165_img_1297_1"  type="Letter"  url="cdbbe5f9e9292db0eeedbb423b793ac3.jpg"/>
+      <graphic xml:id="L1916_0165_img_1297_2"  type="Letter"  url="9c538f919b16f5396670c891b200cac5.jpg"/>
+      <graphic xml:id="L1916_0165_img_1297_3"  type="Letter"  url="8486befa983f70293e785456631f6418.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0165_img_1297_1"/>
+                Parteen  Limerick    Dec 24<hi rend="superscript">th</hi> 15   My dear Miss Rahilly   It is some time<lb/> now since I wrote to you <lb/> to say I would go to<lb/> see you. At this time<lb/> I felt my sight failing.<lb/> The eyes have improved<lb/> a good deal since I<lb/> wrote but I was thinking<lb/> from day to day that<lb/> it would be necessary<lb/> for me to go to Dublin  
+            <pb n="2" facs="L1916_0165_img_1297_2"/>
+              Thats why I have been<lb/> silent so long â We are<lb/> living in awful times.<lb/> One does not know from<lb/> day to day what is to<lb/> come next. I am afraid<lb/> they will attempt<lb/> conscription &amp; if they<lb/> do it will be resisted<lb/> fiercely. A great majority <lb/> of the people seem<lb/> indifferent about every <lb/> public event, but I feel that<lb/> they would resist <lb/> - conscription to the last<lb/> extreme -  
+            <pb n="3" facs="L1916_0165_img_1297_3"/>
+              The Bishop has made himself known <lb/> in the outside world more than ever<lb/> I dare say to the great surprise<lb/> of some of his friends. He was put <lb/> down for a Tory &amp; a Conservative â<lb/> Most people now since his letters<lb/> look to him for guidance in a very <lb/> different arena. Wishing you &amp; M<hi rend="superscript">rs</hi> A<lb/> &amp; all the children a happy xmas &amp; many<lb/> returns -  <seg type="closer"> sincerely  S. Purcell </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

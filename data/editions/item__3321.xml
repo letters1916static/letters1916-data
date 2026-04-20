@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3321">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Professor William Stockley to Eibhlís Mac Curtain, c 15 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Stockley</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Professor William Stockley to Eibhlís Mac Curtain, née Breathnach after the arrest of her husband, Tomás Mac Curtain.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Cork Public Museum</repository>
+                  <collection>T. Mac Curtain Collection, 1945.221 D9.1</collection>
+                  <idno>https://letters1916.ie/item/3321</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0556">William Stockley</persName>
+              <date>1916-05-15</date>
+              <placeName key="#letters1916_place-0142">Woodside, Tivoli, Cork</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Eibhlís Mac Curtain</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1943</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3321_img_2735_1"  type="Letter"  url="0b3cff8af01c4ae6784b34c78fb4531a.jpg"/>
+      <graphic xml:id="L1916_3321_img_2735_2"  type="Letter"  url="7910c960f6a5dfa56f16f2172915f741.jpg"/>
+      <graphic xml:id="L1916_3321_img_2735_3"  type="Letter"  url="330fcbc2f6307f4f5b0fa71f9f5486f5.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3321_img_2735_1"/>
+             Woodside<lb/>Tivoli<lb/>Cork  Loan Y7 48/14<lb/><lb/>Monday in <seg type="unclear"></seg><lb/><lb/>   Dear Mrs Mac Curtin,    I am like so many<lb/>more, — I have often wished,<lb/>as they have wished that we<lb/>could have said more, or,<lb/>rather, had done anything,<lb/>for you and yours —<lb/>beyond our poor prayers  
+            <pb n="2" facs="L1916_3321_img_2735_2"/>
+             For myself, indeed I<lb/>felt almost a regret<lb/>that I was not out of this<lb/>world; only for the<lb/>sorrow death causes<lb/>others. and then,<lb/>when Almighty God per-<lb/>mitted your husband<lb/>to go, I could not  <lb/>help feeling so much<lb/>as I feel every day<lb/>— that I should have<lb/>been very willing to<lb/>go instead, if by<lb/>that he had been<lb/>spared to do all<lb/>the good he seemed<lb/>so fitted to do. He<lb/>would have brought 
+            <pb n="3" facs="L1916_3321_img_2735_3"/>
+             <seg type="unclear">LI945:221</seg>  peace to our city; as<lb/>I heard one say who was<lb/>not with him in national<lb/>heart. And it is hard<lb/>for even us, outside<lb/>his home, to feel they<lb/>  <seg type="unclear"></seg> in hope, in what<lb/>my wife heard a child say<lb/>as she passed this day week<lb/>He will do more good for<lb/>Ireland in Heaven than on<lb/>Earth. But, may God <seg type="unclear">grace</seg>    Yours very Sincerely W. Stackley    
+         </ab>
+      </body>
+   </text>
+</TEI>

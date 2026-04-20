@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5738">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Frederick Wears, 28 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Frederick Wears</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Mr. Frederick Wears applying to Dublin Castle for a job as a messenger or a similar position. Wears claims to have five years experience and enjoys the traveling.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3925</collection>
+                  <idno>https://letters1916.ie/item/5738</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1102">Frederick Wears</persName>
+              <date>1916-02-28</date>
+              <placeName key="#letters1916_place-1267">7 Priors Buildings, Harrogate Hill, Darlington, UK</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5738_img_839_1"  type="Letter"  url="0370e1eb16bc062ba916c321017f6e93.jpg"/>
+      <graphic xml:id="L1916_5738_img_839_2"  type="NULL"  url="50dd124fedbb7d63a29a674b4173a78c.jpg"/>
+      <graphic xml:id="L1916_5738_img_839_3"  type="NULL"  url="ad00dfee74d28b936fddb209140d37f4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5738_img_839_1"/>
+             <hi rend="underline">28/2/16</hi>   7 Priors Buildings <lb/>Harrogate Hill <lb/><hi rend="underline">Darlington</hi>   Dear Sir,   Thinking their is no <lb/>harm I write you enquiring <lb/>as to whether you could offer <lb/>me employment of some <lb/>description. I am twenty- <lb/>seven years of age &amp; I am <lb/>married with no other <lb/>dependants but my wife &amp; <lb/>mother &amp; at the present <lb/>time I am not engaged <lb/>on munition but as a <lb/>labourer &amp; considering the <lb/>fact that I left the Post <lb/>Office Service with a good <lb/>character after five years <lb/>temporary service as
+            <pb n="2" facs="L1916_5738_img_839_2"/>
+            <lb/>telegraph messenger &amp; <lb/>auxiliary postman. I am <lb/>very <sic>desirious</sic> of obtaining <lb/>a situation as messenger <lb/>either at the castle or a <lb/>railway company or some <lb/>position of trust but preferably <lb/>a messengers position as <lb/>there would be a deal <lb/>of travelling etc. I would <lb/>would also like to state <lb/>that I have offered &amp; have <lb/>been rejected quite recently <lb/>for the army &amp; could produce <lb/>a rejection certificate if <lb/>necessary &amp; if your <lb/>excellency could help me <lb/>in my request I can <lb/>assure you that I would <lb/>do my utmost to merit <lb/>your confidence
+            <pb n="3" facs="L1916_5738_img_839_3"/>
+            &amp; to hear favourably from <lb/>you.    I remain Sir <lb/>Yours Respectfully   Fredrick Wears 
+         </ab>
+      </body>
+   </text>
+</TEI>

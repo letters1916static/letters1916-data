@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1767">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Andrew Philip Magill to Thomas Henry Grattan Esmonde, 19 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Andrew Philip Magill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Andrew Philip Magill (1871-1941) to Thomas Henry Grattan Esmonde (1862-1935). Magill was a civil servant and held the position of private secretary for successive chief secretaries of Ireland until his transfer to the Northern Irish Civil Service in 1921. Esmonde was a landowner and politician. 
+The letter refers to a testimonial written by the Archbishop of Tuam, John Healy (1841-1918), recommending that  Sir John Robert O&#39;Connell (1868-1943), a solicitor, be chosen for the vacant position of chief crown solicitor for Ireland.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/7153</collection>
+                  <idno>https://letters1916.ie/item/1767</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0014">Andrew Philip Magill</persName>
+              <date>1916-04-19</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0418">Thomas Esmonde</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0921">Wexford, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1941</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1767_img_1223_1"  type="Letter"  url="b8dcb572034173cc38b8957a6db3cddf.jpg"/>
+      <graphic xml:id="L1916_1767_img_1223_2"  type="NULL"  url="327942a791344926b982476d82b7446d.jpg"/>
+      <graphic xml:id="L1916_1767_img_1223_3"  type="NULL"  url="d9eb697a51243bb47d91cc0de156e4bb.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1767_img_1223_1"/>
+            <hi rend="underline">Copy</hi>  19th April, 1916.   Dear Sir Thomas Esmonde,   I am desired by Mr. Birrell to acknowledge the <lb/>receipt of your letter of 16th instant forwarding <lb/>copy of a letter from the Archbishop of Tuam recommending <lb/>Sir J. R. O'Connell for appointment as Chief Crown Solicitor <lb/>for Ireland, which will receive attention.   Yours faithfully,   (Sd.) A.P.M.   Under Secy. <lb/><hi rend="underline">A.P.M</hi> <lb/>19/4/16.  <lb/>Sir Thomas H. Grattan Esmonde, Bart., M.P.,  Ballynastragh, <lb/>Inch, Co.Wexford 
+            <pb n="2" facs="L1916_1767_img_1223_2"/>
+             16.4.16   Dear Mr Birrell   Here is a copy of a letter <lb/>Sir John O'Connell has received from <lb/>the Archbishop of Tuam, with <lb/><seg type="unclear">forwarding</seg> letter to me.   <sic>Sny</sic>Yours   Thos. H. Grattan Esmonde. 
+            <pb n="3" facs="L1916_1767_img_1223_3"/>
+             Copy D<hi rend="superscript">r</hi> Healy's Letter   <seg type="del">34, Kildare Street,</seg> <lb/><seg type="del">Dublin.</seg>   S<hi rend="superscript">t</hi> Jarlaths, Tuam   April 8   I am acquainted with Sir <lb/>John R.O'Connell for <lb/>several years and I have <lb/>found him to be an able <lb/>and accomplished <lb/>gentleman eminently <lb/>fit to succeed to Sir M <lb/>Kelly in his office. I hope he <lb/>will be successful in his <lb/>candidature.   John Healy DD  <lb/>Archbishop of Tuam
+         </ab>
+      </body>
+   </text>
+</TEI>

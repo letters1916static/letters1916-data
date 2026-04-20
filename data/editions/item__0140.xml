@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0140">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Kenneth Healings to Anna O'Rahilly, c. August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Kenneth Healings</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was addressed to Miss Anna O&#39;Rahilly and refers to an inquiry by Miss O&#39;Rahilly about her brother Michael&#39;s watch. The letter mentions that the watch and chain could not be traced despite a reward being offered to any man who found it. The author, a member of the Sherwood Foresters, believes that the watch was taken from Michael&#39;s body before his men could search him. This letter is part of a series of correspondence in which Miss O&#39;Rahilly is attempting to locate a watch belonging to Michael O&#39;Rahilly which was not returned to the family after his death. Anna O&#39;Rahilly was the sister of Michael O&#39;Rahilly. Michael Joseph &#39;The&#39; O&#39;Rahilly (1875–1916) was a nationalist and a journalist. In 1916 he aligned himself with Eoin MacNeill and Bulmer Hobson who opposed a preemptive rising. Although O&#39;Rahilly played a large role in delivering MacNeill&#39;s countermanding order he felt obligated to stand with the men he recruited and trained. O&#39;Rahilly was fatally wounded on the Thursday 27 April when the GPO was being evacuated.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Sighle Humphreys Papers, P106/124/3</collection>
+                  <idno>https://letters1916.ie/item/140</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0175">Kenneth Healings</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0001">The Curragh, County Kildare, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0639">Anna O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0140_img_1262_1"  type="Letter"  url="c9ce6e8be65ed6ddbc7ebbc6d689893b.jpg"/>
+      <graphic xml:id="L1916_0140_img_1262_2"  type="Letter"  url="80b7cd60a07c3d766959ea6d961b896b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0140_img_1262_1"/>
+                2/6 Sherwood Foresters  Rath Camp  The <hi rend="underline">Curragh</hi>   Dear Miss O'Rahilly   I apologise for not having replied<lb/> to your letter before; I have been <lb/> travelling all over Ireland, &amp; your letter has<lb/> been following me, &amp; has always arrived<lb/> too late.  I am sorry to say that I cannot trace <lb/> the watch &amp; chain Etc.; I have made searching<lb/> enquiries in my Company, but no one has<lb/> them, &amp; they say they have never seen them.   I reported the matter to the Adjutant, &amp;<lb/> he told me I could offer your reward to<lb/> any man who had it, but it was no use, &amp;<lb/> I certainly think that any soldier would give<lb/> up anything he could get hold of if<lb/> offered Â£10 for it.  
+            <pb n="2" facs="L1916_0140_img_1262_2"/>
+              You are not troubling me at all in<lb/> asking me to do this, I am only too<lb/> pleased to try &amp; get the things for you, <lb/> but I think I can say definitely that no<lb/> man here has got them.  I can only repeat what I said before, that<lb/> the articles were probably taken from your<lb/> brother before we could reach him.  I have talked to the only Lce. Corporal, who<lb/> answers to your description, <seg type="del">my</seg>in my Company;<lb/> &amp; he said that he only wished that he had<lb/> got the things, as he was not offered Â£10<lb/> every day of his life.  I am sorry that I cannot help you to <lb/><seg type="del">get</seg>find your brother's things, but I promise<lb/> you that if I do find anything like them<lb/> here, I will let you have them at once. <seg type="closer"> Yours Very Sincerely <lb/> <hi rend="underline">Kenneth Healings</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

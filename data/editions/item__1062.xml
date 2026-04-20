@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1062">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Davidson to Clara Davidson, 16 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Davidson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from James Davidson (1877-1916) to his mother, Clara Davidson, apologising for his delay in writing. Davidson has been settling back in with his company, who are in reserve at the French front line. Davidson writes that leave has been stopped and those on leave have been recalled suggesting that something serious is about to happen.This letter is part of a large correspondence from Captain James Davidson to his parents. Davidson, who was Managing Director of the Sirocco Engineering Works in Belfast, served with 13 Royal Irish Rifles and the Machine Gun Corps. His letters describe his experiences while training in England and serving in France. He was killed on 1 July 1916, the first day of the Battle of the Somme.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Davidson Papers, D3642-B-8-44</collection>
+                  <idno>https://letters1916.ie/item/1062</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1196">James Davidson</persName>
+              <date>1916-04-16</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Clara Mary Davidson</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1115">Seacourt, Bangor, Co. Down, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1062_img_3158_1"  type="Letter"  url="da3459e588f7d4a82080dbb9b69b4118.jpg"/>
+      <graphic xml:id="L1916_1062_img_3158_2"  type="Letter"  url="b7177c71adada33429b763dfd9e535a9.jpg"/>
+      <graphic xml:id="L1916_1062_img_3158_3"  type="Envelope"  url="3db2d1b5affbcaf8935f5598032dee8c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1062_img_3158_1"/>
+                16/4/16   My dearest Mother   Have not <lb/> written you since Wed last, though <lb/> indeed there has not been much to <lb/> write about, but I have been awfully <lb/> busy getting a grip of things again <lb/> &amp; tightening up the strings. It's <lb/> extraordinary how soon slackness <lb/> can creep in. We are back from <lb/>the lines where I found the Coy upon <lb/> arrival but I think it won't be long <lb/> before we are back again. Meantime <lb/> we have to keep up training, besides <lb/> doing all kinds of fatigues in <lb/>cleaning up roads <seg type="unclear">&amp; c</seg>. maybe 'etc' . Weather <lb/> has been so cold &amp; stormy â day <lb/> before <sic>yest</sic> it actually snowed <lb/> but today there was a considerable <lb/> improvement &amp; hope it will <lb/>continue. Thanks dear Mother  
+            <pb n="2" facs="L1916_1062_img_3158_2"/>
+              for your letter of 13<hi rend="superscript">th</hi> &amp; also for <lb/> the parcels from Fureys &amp; <lb/> Malcolmsons which arrived today. <lb/> Did I tell you in my last letter <lb/> that leave had been stopped again <lb/> &amp; all men on leave have been <lb/>recalled. It rather points to something <lb/> serious but of course one never <lb/> knows. Dermot Neill had such <lb/> bad luck. He was actually at <lb/> the station when the order came <lb/> canceling the leave. Was so <lb/> glad to hear that Mrs Rogers is <lb/> making a good recovery. <lb/> With fondest love for all  <seg type="closer"> your loving son   Jim </seg> 
+            <pb n="3" facs="L1916_1062_img_3158_3"/>
+               Active Service <lb/>Re<hi rend="superscript">cd</hi>20<hi rend="superscript">th</hi>April /16   Mrs. S. C. Davidson  Seacourt  Bangor  Co Down. Ireland   Js Davidson <lb/>16/4/16  
+         </ab>
+      </body>
+   </text>
+</TEI>

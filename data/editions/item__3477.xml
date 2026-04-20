@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3477">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from George D. Roche to Nancy McCarthy, 24 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>George D. Roche</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>In this postcard to Nancy McCarthy, her uncle George thanks her for her letter. He adds that Father Bleasdale is in hospital with blood poisoning caused by some tinned food and “we feel quite lonely. No one to find fault with!”. He also passes on an address for Mdlle Raymonde Caron she requested. 
+
+Nancy McCarthy was a well-practiced letter-writer, and her collection of correspondence spans eighty years. This postcard is one of seven included in the Letters of 1916 collection written to Nancy by her uncle, George D. Roche, on active service with the 7th London regiment during World War I.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>UCC Library Special Collections and Archives</repository>
+                  <collection>The Nancy McCarthy Collection, BL/PP/NMC/607</collection>
+                  <idno>https://letters1916.ie/item/3477</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0611">George D. Roche</persName>
+              <date>1916-04-24</date>
+              <placeName key="#letters1916_place-0769">France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Nancy McCarthy</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0711">The Convent, Mountrath, Queen's County, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3477_img_2886_1"  type="Letter"  url="59919ce1794a96d2a048254333625aaf.jpg"/>
+      <graphic xml:id="L1916_3477_img_2886_2"  type="Letter"  url="bf8833ff459aeb7317d23be0955f96f5.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3477_img_2886_1"/>
+             529. La Grande Guerre 1914-15-16 — Les ruines de SOUCHEZ (P.-de-C) Au fond la cote 119<lb/>Aspect of Souchez - In gthe main the cote 119 A.R. 
+            <pb n="2" facs="L1916_3477_img_2886_2"/>
+             BL/PP/NMC/607   Miss Nancy McCarthy<lb/>The Convent<lb/>Mountrath<lb/>Ireland    Easter Monday 1916    My Dear Nancy   Thanks very much for your nice long &amp;<lb/>interesting letter. I wish I cd<lb/>reply in the same way but no time for letters<lb/>just now this will have to do. You will be<lb/>concerned to learn that we have strafed<lb/>Father Bleasdale. He is in hospital near<lb/>the sea coast suffering from blood poisoning.<lb/>Something in the way of tinned food upset<lb/>him and we feel quite lonely. No one to<lb/>find fault with! Glad to see by your<lb/>sketches that you are such a hard knut<lb/>at study and that your coiffure is<lb/>adjusted accordingly. The address you<lb/>want is  Malle. Raymonde Caron<lb/>Essars, pres Bethune<lb/>Pas de Calais, France   Best love &amp; good wishes from Uncle George  
+         </ab>
+      </body>
+   </text>
+</TEI>

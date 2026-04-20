@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2063">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from a representative of the Royal Library of Belgium to Mrs J. R. Green (Alice Stopford Green), 28 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Royal Library of Belgium</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from a representative of the Royal Library of Belgium to  Mrs J. R. Green (Alice Stopford Green) (1847-1929), wife of historian John Richard Green (1837-1883). Stopford Green was a nationalist, involved in the Howth gun-running, a historian in her own right, and founder of African Society 1915. The writer inform her that the Belgian government has created a special department to which will be entrusted all documents relating to the War. The collection will form the publicly accessible Archives of War at the Royal Library of Belgium, Brussels. He asks for her assistance in securing  material relating to the Irish question and the Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casmement Papers, Collection List No. A15; Ms. 13,088/9</collection>
+                  <idno>https://letters1916.ie/item/2063</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0621">Royal Library of Belgium</persName>
+              <date>1916-07-28</date>
+              <placeName key="#letters1916_place-0483">28 Grosvenor Gardens, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0989">Alice Stopford Green</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Culture and the Arts</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2063_img_1514_1"  type="Letter"  url="97676a27ad5405c7539c52e218605b91.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2063_img_1514_1"/>
+            <!--  headed notepaper Royaume de Belgique Ministère des Sciences et des Arts Bibliothèque Royale Archives de la Guerre  --<!-- user comment -->  London 28,  July, 28th , 1916  Grosvenor Gardens, S.W.   Mrs. J.R. Green.<lb/> London.   Dear Madam   The Belgian Government has created a special depar<lb/> tment to which shall be entrusted the collection of all docu<lb/> ments whatsoever dealing with the War, or with important events<lb/> more or less connected with the war.   This collection will form the Archives of War and<lb/> will be kept at the Bibliothèque Royale de Belgique, Brussels,<lb/> where it will be put at the disposal of the public.    I am told that you could help me to secure for that<lb/> department some documents, tracts, pamphlets, etc., dealing with<lb/> the Irish question, and the last events in Ireland.    If so, I should be very glad if you would be kind e<lb/> nough to provide me with all the documents you could get.  Thanking you in advance, I am,<lb/>  Dear Madam, <lb/> Yours faithfully,  Jos. L Dirick
+         </ab>
+      </body>
+   </text>
+</TEI>

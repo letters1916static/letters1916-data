@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1207">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick F. Quinlan to Fr Provincial Thomas V. Nolan, 14 October 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick F. Quinlan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Patrick F. Quinlan to Fr Provincial Thomas V. Nolan (1867- 1922) regarding a letter that Quinlan received from the War Office regarding Fr. Fitzgibbon and Committee issues. Fr. Thomas Nolan became the Provincial of the Irish Province of the Society of Jesus from 1912 to 1922. Besides that, he was a Distribution Committee member responsible for the welfare and distribution of the Belgian refugees who had found refuge in Ireland on account of the World War I.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IJA/CHPI/21/32, IJA/CHPI/21/32</collection>
+                  <idno>https://letters1916.ie/item/1207</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0207">Patrick F. Quinlan</persName>
+              <date>1918-10-14</date>
+              <placeName key="#letters1916_place-0801">68 Middle Abbey Street, Dublin, Ireland </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas V Nolan </persName>
+              <date></date>
+              <placeName key="#letters1916_place-1717">Dublin, Ireland </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1207_img_3890_1"  type="Letter"  url="39845a5bbb6420577ec35f754f7d6e1b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1207_img_3890_1"/>
+                68 Middle Abbey Street,  Dublin    14 Oct 1918.   re Major Rev. J.J. Fitzgibbon S.J.M.G., C.J. Deceased.  Dear Fr. Nolan,   The following is a copy of letter (printed <seg type="unclear">free</seg>) <lb/>received this morning from the War office:-  'Sir, with reference to your letter of 23 ulto <lb/>'I am directed to explain that the affairs of the late maj the Rev. <lb/>'J. Fitzgibbon M.C. Army Chaplains Dept within the area of <lb/>'operations are having dealt with by the Standing Committee of Adjustment <lb/>'at the base, appointed under the Regimental Debts Act 1983 and a <lb/>'repeat of their proceedings should be rendered to this office in due <lb/>'course. Owning, Remember, to the Conditions of active service it is <lb/>'anticipated that some considerable time will elapse before this <lb/>'report is received.  'In the meantime this Department is taking the necessary <lb/>'Steps to ascertain what sums, if any, are due to the Estate from Army <lb/>'funds, other than such amounts as would be dealt with by the <lb/>'Committee. As soon as these <sic>enquiries</sic> are completed and the <lb/>'Committee's report is received, a further communication will be <lb/>'addressed to you showing the net account, if any, due four army <lb/>'funds to the Estate. <seg type="closer"> I am a.c. <lb/>for the assistant financial Secretary' <lb/>Faithfully Yours.  <hi rend="underline">P.F. Quinlan</hi> <seg type="unclear">P.G.</seg>  Very Rev. P.B. Nolan S.J.  Provincial, the Presbytery  Upper Gardiner St.  Dublin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

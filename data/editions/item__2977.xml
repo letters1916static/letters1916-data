@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2977">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Pearse to Mr O'Danaher, 14 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Henry Pearse</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was sent by Patrick Henry Pearse (1879-1916), a writer and school headmaster. A key member of the military council of the IRB who planned the Easter Rising, Pearse was one of the signatories of the proclamation of the Irish republic (largely his own writing), which he read outside the GPO at the outbreak of the Rising. As president of the provisional government Pearse called for the surrender and was executed on 3 May 1916. Pearse&#39;s mother, Margaret Pearse (1857-1932) kept Pearse&#39;s school, St Enda&#39;s, open after his death and was later elected as a TD.
+
+This letter from  Pearse was sent to Mr. O’Danaher and concerns Mr O&#39;Danaher&#39;s son, Tom, who is a pupil at St Enda&#39;s. Pearse tells O&#39;Danaher that Christmas vacation starts at 1 p.m. on 17 December for three weeks. He asks for the Tom&#39;s travelling arrangements Tom and gives a summary of how Tom has being getting on at school. The reverse of the page is blotted but appears to be notes made by somebody else on the O’Danaher family.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Brother Allen Collection, Pearse Collection; IE/AL/PC/9/28</collection>
+                  <idno>https://letters1916.ie/item/2977</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0291">Patrick Henry Pearse</persName>
+              <date>1915-12-14</date>
+              <placeName key="#letters1916_place-0713">St. Enda&#39;s College, Rathfarnham, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">O&#39;Danaher</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1916</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2977_img_2381_1"  type="Letter"  url="865de291fc418e2e5d0c347551590540.jpg"/>
+      <graphic xml:id="L1916_2977_img_2381_2"  type="Letter"  url="56e937e30990492ad6f4f6dcd9163ff2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2977_img_2381_1"/>
+             St Enda's College,> Rathfarnham,   14<hi rend="superscript">th</hi> Dec 1915 <lb/> Dear Mr O'Danaher,   We give Christmas Vacation at 1pm<lb/>on Friday next,<lb/>17<hi rend="superscript">th</hi> inst and Tom will be<lb/>free to go home either on that evening<lb/>or on Saturday morning.You might kindly<lb/>let me know what arrangements you would<lb/>like us to make for his travelling Vac<lb/>ation lasts last three weeks.<lb/>He has been giving satisfaction in his<lb/>work, and in some branches has made<lb/>distinct progress. He has, however, a good<lb/>deal of leeway to make up, and it<lb/>requires constant watchfulness to get him<lb/>to concentrate his attention on the task<lb/>in hand. His conduct is excellent, and<lb/>he has enjoyed good heath and been<lb/>free from the prevalent colds.   With kind regards<lb/>Sincerely yours  P.H.Pearse. 
+            <pb n="2" facs="L1916_2977_img_2381_2"/>
+            <!-- NOTES: This letter contains blue-ish ink that is used to write notes from post-1916; i.e. 1921 is referenced. Very rough first attempt; difficult. -->  My Fathers grandfather Daniel Danaher lived <lb/>in the <seg type="unclear">Gortadruma</seg> Hospital Co. Limerick from whence <lb/>he moved to <seg type="unclear">Rathadaa</seg> about 1820 died 1849 got this <lb/> information from my father Daniel about one year ago; <lb/>who was also born here in 1845 died 1921. UNCLEAR <lb/>Nenagh Co.Tipperary.   They are an old Limerick family and are descended <lb/> from Shemús O'Danaher, a <seg type="unclear">****ted</seg> chieftain in the Stormy <lb/>days of Cromwell -and as mentioned in the Annals of <lb/> ("A O'Danaher the Chieftain      
+         </ab>
+      </body>
+   </text>
+</TEI>

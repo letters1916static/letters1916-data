@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1195">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fr John Fitzgibbon to Fr Provincial Thomas V. Nolan, circa 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Jack Fitzgibbon</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Fr Jack Fitzgibbon SJ (1882-1918) to Father Provincial Thomas V Nolan (1867-1941) regarding Fr. Keary. Fitzgibbon requests Fr. Nolan help Fr. Keary obtain permission to go home. Fr John &#39;Jack&#39; Fitzgibbon SJ was ordained a priest on 31st July 1915. His father, John Fitzgibbon, was a successful draper and Member of Parliament from 1910-1918. Fr Fitzgibbon served in the 6th Division of the British Army, having enlisted shortly after the death of his brother at Gallipoli. He was promoted to senior chaplain in 1917, and in the same year he was gassed at Loos on 5th September and awarded the military cross. Fr Fitzgibbon was killed in action by a shell on the 18th September 1918, and is buried at Trefcon, St. Quentin, Picardie.Father Nolan was the Provincial of the Irish Province of the Society of Jesus (1912-1922) and was a member of the Distribution Committee which looked after the welfare and distribution of the the Belgian refugees who arrived in Ireland as a consequence of the First World War.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IJA/CHPI/21/19, IJA/CHPI/21/19</collection>
+                  <idno>https://letters1916.ie/item/1195</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0304">Jack Fitzgibbon</persName>
+              <date>1918</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas V Nolan </persName>
+              <date></date>
+              <placeName key="#letters1916_place-1717">Dublin, Ireland </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1195_img_3878_1"  type="Letter"  url="f1bc3c27bde85520743ab958543bf9f2.jpg"/>
+      <graphic xml:id="L1916_1195_img_3878_2"  type="Letter"  url="c1260c34082f04a638b3ab7381bc4809.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1195_img_3878_1"/>
+               (1918)    Dear Fr Nolan p.c.   Many thanks <lb/>for Status. It was really <lb/>kind of you to think of sending <lb/>it &amp; it was exactly what I <lb/>was looking out for  Fr Willie Keary s.j. of the <lb/>English Province - Fr M. Maher <lb/>knows him well - asked me <lb/>to write to you for permission <lb/>for him to visit his home <lb/>in Loughrea &amp; his sisters <lb/>in Dublin on his next <lb/>leave <hi rend="underline">if</hi> his Provincial <lb/>has not objection. He <lb/>has not seen his people <lb/>since his ordination and  
+            <pb n="2" facs="L1916_1195_img_3878_2"/>
+              he is out here almost <lb/>two years &amp; doing really <lb/><sic>wonderfull</sic> work.  Hoping you are ever so well. <seg type="closer"> I remain dear Father <lb/>Your obedient child  Jack Fitzgibbon <lb/>s.j. </seg> P.S. <lb/>Would you mind telling <lb/>Fr Farley that I said <lb/><hi rend="underline">20</hi> Masses for him last <lb/>month please.  
+         </ab>
+      </body>
+   </text>
+</TEI>

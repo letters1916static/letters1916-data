@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1303">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from George Gavan Duffy to E. Blackwell, 3 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>George Gavan Duffy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written in response to E. Blackwell&#39;s letter of 2 August, rejecting George Gavan Duffy&#39;s (1882-1951) request to attend the execution of Sir Roger Casement (1864-1916) and the family request for burial outside of the prison. Gavan Duffy argues that execution for treason is different from that for murder and the requirement for burial within the prison is not therefore not valid.George Gavan Duffy was an Irish politician, barrister and judge. He unsuccessfully defended Roger Casement at his trial for high treason after the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casement Papers, Collection List no. A15, Ms. 13,088 /12</collection>
+                  <idno>https://letters1916.ie/item/1303</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0467">George Gavan Duffy</persName>
+              <date>1916-08-03</date>
+              <placeName key="#letters1916_place-0124">4 Raymond Buildings, Gray&#39;s Inn W.C., London</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1476">E. Blackwell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1098">Home Office, Whitehall, London</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Law and Judiciary</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1303_img_521_1"  type="Letter"  url="f50789e5ef3217c4f11953b2c0473508.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1303_img_521_1"/>
+                4 Raymond Buildings,  Gray's Inn, W.C.    3<hi rend="superscript">rd</hi> August 1916.    The Under Secretary of State,  Home Office, S.W.   Sir :-   311643:-  I have the honour to acknowledge your letter of yesterday <lb/> intimating that the Secretary of State is unable to allow <lb/> me to be present at the execution of Roger Casement and that he <lb/> is unable to allow the body to be buried outside the prison walls <lb/> 'as the law requires that it shall be buried within the walls'. <lb/>I beg you to let me know to what law you refer, as I venture to <lb/> think there must be a misapprehension, for I am advised that <lb/> there is no such law in the case of treason and if the Secretary <lb/> of State will be good enough to reconsider the matter I feel <lb/> sure that he will recognise that the King has the disposal of <lb/> the body in his hands. If this be so, I hesitate to believe that <lb/> His Majesty will be advised to refuse the relatives' request <lb/> to have the body in order that Roger Casement may not be buried <lb/> with the indignity habitual in the case of a murderer.  I write in great haste and beg for the favour of your <lb/> reply as soon as possible. <seg type="closer"> In the meantime I have the honour to be, <lb/>Sir, <lb/>Your obedient servant,  G.Gavan Duffy </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

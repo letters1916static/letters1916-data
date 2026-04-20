@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1551">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Michael Curran, on behalf of Archbishop of Dublin William J. Walsh, to John F.Hogan, 16 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Michael Curran</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Michael Curran, on behalf of Archbishop of Dublin William J. Walsh, to John F.Hogan with permission for public veneration of relics, 16 Mar 1916
+
+William Joseph Walsh (30 January 1841 – 9 April 1921) served as the Roman Catholic Archbishop of Dublin from 3 July 1885 until his death in 1921. He was born in 11 Essex Quay in Dublin. He was educated at St. Laurence O’Toole Seminary School, Harcourt St., Dublin, the Catholic University of Ireland and St. Patrick&#39;s College, Maynooth where he became Professor of Theology in 1867.He was appointed vice-president of Maynooth in 1878 and president in 1880 until he was appointed Archbishop of Dublin.
+
+Father Michael Curran was the Archbishop’s secretary from 1909 to 1919. 
+
+Hogan, John Francis (1858–1918), priest, author, and president of St Patrick&#39;s College, Maynooth, was born in July 1858 in Coolreagh, Co. Clare. He was educated at Ennis Diocesan College, Co. Clare, Saint-Sulpice, Paris, and Freiburg-im-Breisgau. After ordination in the diocese of Killaloe, subsequently becoming canon, he continued his studies in France and Germany before accepting the newly created chair in modern languages at St Patrick&#39;s College, Maynooth (1886–1912), where he taught French and Italian.  He was appointed vice-president (1910) and president (1912–18) of St Patrick&#39;s College, and subsequently became senator (1913) and pro-vice-chancellor (1914) of the NUI. In 1914 he was appointed domestic prelate to the pope. In 1911 he helped to organise the reception of King George and Queen Mary. During the Easter rising (1916) a group of Volunteers from the town of Maynooth entered the college to seek a blessing before setting off for Dublin. Hogan reputedly refused to give his blessing to their ‘foolish and most ill-advised expedition’ (Corish, 302) and urged them to return home. They in turn refused; responding to their spiritual needs, he blessed them, while remaining totally opposed to their activities. He subsequently addressed the students on the need to show proper respect for authority.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>St Patrick&#39;s College, Maynooth</repository>
+                  <collection>John F. Hogan Papers, 21/12/34</collection>
+                  <idno>https://letters1916.ie/item/1551</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1249">Michael Curran</persName>
+              <date>1916-03-16</date>
+              <placeName key="#letters1916_place-0482">Archbishop&#39;s House, Dublin, Co.Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hogan, John Francis (1858–1918)</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1464">St. Patrick's College Maynooth, Maynooth, Co.Kildare, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1551_img_1019_1"  type="Letter"  url="7e719c6ed7a81c98c2427b50c0352990.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1551_img_1019_1"/>
+             ARCHBISHOP'S HOUSE, <lb/>DUBLIN.   16.III.16   My dear Monsignor,   His Grace will give the <lb/>necessary permission for the <lb/> public veneration of the relics you <lb/> brought here.   You might accordingly have <lb/>the new reliquary  or reliquaries  made &amp; <lb/> whatever is necessary to be done <lb/> will be carried out by his Grace.   Yours sincerely   M.J. Curran 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1971">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Charles E. Rogers, 15 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Charles E. Rogers</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Charles E. Rogers (c.1875-1930) a hotel proprietor and spirit merchant from Donegal. The letter concerns an American citizen named Joseph who will be travelling to New York on 3 May. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/6830/1</collection>
+                  <idno>https://letters1916.ie/item/1971</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1135">Charles E. Rogers</persName>
+              <date>1916-04-15</date>
+              <placeName key="#letters1916_place-0080">Killybegs, County Donegal, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1930</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1971_img_1419_1"  type="Letter"  url="f8d3e7554bdeafd316d5a02027000655.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1971_img_1419_1"/>
+             Killybegs,   15 Apr 1916   Alien Authority <lb/>Dublin   Gentlemen,   Mr. Joseph   <lb/> American citizen wishes to <lb/> return to New York on <lb/> 3<hi rend="superscript">rd</hi> May from Liverpool <lb/> he wants a permit to <lb/> <sic>travell</sic> from Derry to <lb/> Liverpool instead of <seg type="unclear">with</seg> Dublin,Whit Star <lb/> Line Co. recommended me <lb/> to communicate with you <lb/> please say if you can <lb/> give permit to travel <lb/> from Derry to Liverpool <lb/>     Respectfully yours,   Charles Rogers 
+         </ab>
+      </body>
+   </text>
+</TEI>

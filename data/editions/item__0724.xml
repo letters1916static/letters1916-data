@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0724">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Anne Lambton to Lady Londonderry, 18 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Anne Lambton</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>his letter is part of a series of correspondence belonging to Lady Londonderry, a large proportion of which concerns Sir Edward Carson and opposition to the Third Home Rule Bill. Lady Londonderry was a prominent figure in politics and high ­society from 1890 until 1919. Her correspondence includes many important figures in literature, the arts, the military, law and the church.This letter was written by Lady Anne Lambton (1870-1922), to Lady Londonderry (1856 - 1919).Lady Londonderry was the wife of Charles Stewart Vane-Tempest-Stewart (1852 - 1915), sixth marquess of Londonderry, and was herself an active figure in British politics.In this letter Anne gives details of a planned visit by &#39;Jack&#39; (probably Anne&#39;s brother John Lambton, 3rd Earl of Durham) to see a stud horse, and gives her regrets that she will not be available to join him.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>PRONI-D2846-2-21-51 [The Theresa, Lady Londonderry Papers]1</collection>
+                  <idno>https://letters1916.ie/item/724</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1062">Anne Lambton</persName>
+              <date>1915-11-18T00:00:00</date>
+              <placeName key="#letters1916_place-0957">Lambton Castle, County Durham, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Theresa Talbot</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0724_img_2229_1"  type="Letter"  url="4cad4e538d9177a3b6ba8bdd1e597d18.jpg"/>
+      <graphic xml:id="L1916_0724_img_2229_2"  type="Letter"  url="0b34d01155904da48dd620220f883f90.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0724_img_2229_1"/>
+                LAMBTON CASTLE,  FENCE HOUSES    18, Nov. 1915   My dear Lady Londonderry   Jack is very <lb/>busy &amp; asks me to <lb/>tell you that he will <lb/>arrive at <hi rend="underline">the paddocks</hi><lb/>at 12.30 on Sunday <lb/> morning, to see the Stud, <lb/> &amp; then go back with <lb/> you to luncheon.  
+            <pb n="2" facs="L1916_0724_img_2229_2"/>
+              I am so sorry I can't <lb/>come too, but I must <lb/> go to London on Saturday. <seg type="closer"> Yours affc  Anne Lambton </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

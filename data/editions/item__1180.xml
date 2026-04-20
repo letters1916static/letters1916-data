@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1180">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fr Francis M. Shaw to Fr Provincial Thomas V. Nolan, 23 April 1919</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Francis Shaw</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Francis M. Shaw (1881-1924) to the Father Provincial Thomas V Nolan (1867-1941) regarding Shaw&#39;s visit to Port Said.Francis, or Frank, Shaw SJ was born in Ennis, county Clare. He was ordained on 31 July 1916 at Milltown Park, Dublin. Fr Shaw joined the war early in 1916, working in the 16th General Field Hospital at Le Tréporte. In 1917, possibly due to his nationalistic views, Fr Shaw was dispatched to India, and later to Mesopotamia.Fr. Thomas V. Nolan was the Provincial of the Irish Province of the Society of Jesus (1912-1922) and was a member of the Distribution Committee which looked after the welfare and distribution of the Belgian refugees who arrived in Ireland as a consequence of the First World War.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IJA/CHPI/54/42, IJA/CHPI/54/42</collection>
+                  <idno>https://letters1916.ie/item/1180</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1473">Francis Shaw</persName>
+              <date>1919-04-23</date>
+              <placeName key="#letters1916_place-0786">Bombay, India </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Fr Thomas V Nolan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1717">Dublin, Ireland </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1180_img_3857_1"  type="Letter"  url="980cc45a8f9e9028c2be565e5490c08c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1180_img_3857_1"/>
+                Archbishop's House  Wodehouse R<hi rend="superscript"><hi rend="underline">d</hi></hi>  Bombay    23/April/'19   Dear Rev. F<hi rend="underline">r</hi> Provincial, P.C.   I leave Bombay for <lb/>Port Said 25 April. We get off <lb/>the boat at Port Said, and may <lb/>be held up again in Egypt. I <lb/>shall continue to report progress. <lb/>The pay people just managed to square <lb/>up my accounts. Before they did so I <lb/>had already sent you ÃÂ£200.* The rest I <lb/>am getting transferred to M<hi rend="superscript">c</hi>Grigors, as <lb/>I shall probably get there just as quickly <lb/>myself. There is nothing gained by <lb/>cabling from these parts these days. <seg type="closer"> Your Reverence's servant in Christ,  Francis M. Shaw S.J. </seg> *In January through Eastern Bank.  
+         </ab>
+      </body>
+   </text>
+</TEI>

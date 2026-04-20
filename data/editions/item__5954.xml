@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5954">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert A. Johnson, Royal Mint to Edward Carter Preston, 20 January 1923</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert A. Johnson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Liverpool Record Office</repository>
+                  <collection>Edward Carter Preston Collection, 730 PRE, 4/7/1</collection>
+                  <idno>https://letters1916.ie/item/5954</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0328">Robert A. Johnson</persName>
+              <date>1923-01-20</date>
+              <placeName key="#letters1916_place-0775">Royal Mint, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Edward Carter Preston</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5954_img_None_1"  url="phpZwzO5K.jpg"/>
+      <graphic xml:id="L1916_5954_img_None_2"  url="phpZ3UQLz.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5954_img_0_1"/>
+             730 PRE 4/7/1   ROYAL MINT, LONDON, E.1.    20<hi rend="superscript">th </hi>January, 1923.    Dear Carter Preston, <lb/>As Engraver of His Majesty's Seals, I have been<lb/>instructed to submit designs for a Great Seal for the<lb/>new Government of Northern Ireland, and the Committee<lb/>appointed by H.M. the King to advise me on such subjects<lb/>has suggested that it would be well, in the first place,<lb/>to invite the ideas of a select number of artists<lb/>interested in this kind of work.  The general treatment recommended is; for<lb/>the Seal itself, H.M. King Georve V. on horseback, with<lb/>His Royal Style and Titles in Latin on the margin; and,<lb/>for the counterseal, a strictly heraldic treatment, i.e.<lb/>the Royal Arms with an escutcheon over them showing<lb/>the Cross of Ulster. The Seal should be circular and<lb/>5 in diameter, and the treatment not to be over<lb/>elaborate as we think has been the case with the more<lb/>recent of the Great Seals of England.  I should be glad to lear from you whether<lb/>you would be prepared to submit sketches; or, if preferred<lb/> Carter Preston Esq.  models    
+            <pb n="2" facs="L1916_5954_img_0_2"/>
+             models for a Seal and Counterseal on these lines. I should<lb/>add that the Committee thought that it would be fair to<lb/>offer a fee of then guineas to artists who agreed to submit<lb/>such <seg type="del">a</seg> designs.  Believe me,   Yours sincerely,    Robert A Johnson     
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2194">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Ernest G. Moggridge to the Under-Secretary, Dublin Castle, 9 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Ernest G. Moggridge</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Ernest G. Moggridge, the secretary for the Board of Trade to the Under-Secretary for Ireland, Sir Robert Chalmers (1858-1938). Chalmers was sent to Ireland as under-secretary, replacing Sir Matthew Nathan who had resigned along with Augustine Birrell.
+The letter acknowledges the receipt of the under-secretary&#39;s previous letter regarding the Tralee and &amp; Dingle Light Railway. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/9807</collection>
+                  <idno>https://letters1916.ie/item/2194</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1077">Ernest G. Moggridge</persName>
+              <date>1916-06-09</date>
+              <placeName key="#letters1916_place-1433">7 Whitehall Gardens, London, England.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Under Secretary, Dublin Castle</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0268">Dublin Castle, Dublin, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2194_img_1641_1"  type="Letter"  url="2ddc1514f1d4647987f1592581494401.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2194_img_1641_1"/>
+             BOARD OF TRADE, <lb/>(RAILWAY DEPARTMENT), <lb/>7, WHITEHALL GARDENS, <lb/>LONDON, S.W.   <hi rend="underline">9<hi rend="superscript">th</hi> June</hi> 191<hi rend="underline">6</hi>.  <lb/>R<hi rend="underline">2974.</hi>  Tralee &amp; Dingle Light Railway (Committee of <lb/> Management) Order, 1896.   Sir,   I am directed by the Board of Trade to <lb/> acknowledge the receipt of your letter of the 8<hi rend="superscript">th</hi> June (8180) <lb/> on the above subject, and to state that it will receive attention.   I am, Sir, <lb/> Your obedient Servant,   ERNEST G. MOGGRIDGE.   The Under Secretary, <lb/> Dublin Castle. 
+         </ab>
+      </body>
+   </text>
+</TEI>

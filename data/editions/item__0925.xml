@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0925">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard from M. in Belfast to Piaras Béaslaí, January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M.</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a postcard written in Irish from M. to Piaras Béaslaí (1881-1965) sent from Belfast. M misses Dublin and at the end of the post card tells Piaras to &#39;Tell Tadhg Scannell to do that thing.&#39;Piaras Béaslaí (born Percy Frederick Beazley) was an English born writer, revolutionary, politician, language revivalist, journalist and a member of the IRB. In February of 1916 he published the Fàinne, a publication to organise Gaelic speakers. He soon abandoned it and became involved in politics and would later fight in the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>, Collection List 44</collection>
+                  <idno>https://letters1916.ie/item/925</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">Irish</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0427">M.</persName>
+              <date>1916-01-11</date>
+              <placeName key="#letters1916_place-1949">Belfast, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Piaras Béaslaí</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0925_img_267_1"  type="Letter"  url="3f7ae68477644bf37c0470f9d8678aab.jpg"/>
+      <graphic xml:id="L1916_0925_img_267_2"  type="Photograph"  url="c62781b4e154078167d7d7db208d86d7.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0925_img_267_1"/>
+              Belfast        <lb/>  Jan-11<lb/>9 PM<lb/>1916  <lb/><lb/>  <hi rend="underline">11-1-16</hi>    Annso dhom arí­s<lb/>&amp; uaigneas orm indiaidh<lb/>B. Átha Cliath. Níor<lb/>bhuail an taingeal<lb/>liom. is dóca go raibh sé<lb/>imthighte go luath. Ar<lb/>thugais cuairt ar P. ó<lb/>shoin. Abair le Tadhg <seg type="unclear">Seannell</seg><lb/>an rud sin a dhéanamh. <seg type="closer"> M. </seg>     Piaras Béaslaí,   25 Lindsay Rd,   2 Glasnevin   <hi rend="underline">Dublin</hi>    
+            <pb n="2" facs="L1916_0925_img_267_2"/>
+              Donegal Square &amp; Wellington Place, Belfast.  
+         </ab>
+      </body>
+   </text>
+</TEI>

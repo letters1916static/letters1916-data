@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0721">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John George Lambton to Lady Londonderry, 20 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Lambton</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from John Lambton (1855-1928) to Lady Londonderry (1878-1959). In this particular letter, Durham emotionally thanks Londonderry for previous letter, and discusses their joint efforts to raise money for the territorial battalions.This letter is part of a series of correspondence belonging to Lady Londonderry, the wife of Charles Stewart Vane-Tempest-Stewart (1852-1915), sixth marquess of Londonderry. Lady Londonderry was appointed colonel-in-chief of the Women&#39;s Volunteer Reserve also an active figure in British politics. Her correspondence includes many important figures in literature, the arts, the military, law and the church. John Lambton served as the 3rd Earl of Durham and Lord Lieutenant of that county from 1884 until a few months before his death in 1928.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>PRONI-D2846-2-21-13 [The Theresa, Lady Londonderry Papers]</collection>
+                  <idno>https://letters1916.ie/item/721</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0335">John Lambton</persName>
+              <date>1916-04-20</date>
+              <placeName key="#letters1916_place-0957">Lambton Castle, County Durham, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Theresa Talbot</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0721_img_2225_1"  type="Letter"  url="49da683fb38ea4a16bc98c69892a9b85.jpg"/>
+      <graphic xml:id="L1916_0721_img_2225_2"  type="Letter"  url="e578b3e4bbe8c40b5c2ee7a65841cd2f.jpg"/>
+      <graphic xml:id="L1916_0721_img_2225_3"  type="Letter"  url="d851769fa8191c5c7af9d0436ea372a4.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0721_img_2225_1"/>
+               Lambton Castle,  Fence Houses.    20 April 1916.   My dear Lady Londonderry,   You have written me<lb/>a very kind letter; and<lb/>so has Birdie. As I have<lb/>told her, my one wish was<lb/>to show what respect I<lb/>could for my old friend<lb/>and that I am content 
+            <pb n="2" facs="L1916_0721_img_2225_2"/>
+              If you approved of my <lb/>effort. I felt more than <lb/>I showed, I hope, and was <lb/>terrified of breaking down.  <hi rend="underline">Drums</hi>  We raised a private fund, <lb/>to which your Charlie <lb/>among others subscribed, <lb/>to give bands to our<cb/><lb/>Territorial Batt<hi rend="superscript">ons</hi>. I hope <lb/>to see Frank Brown, Hon <lb/>Treasurer, on Saturday and <lb/>will find out what money <lb/>is left. I <hi rend="underline">thought</hi> I had <lb/>sent a <hi rend="underline">personal</hi> cheque <lb/>to the 13<hi rend="superscript">th</hi>, months ago <lb/>for band purposes. <lb/>However, I will write to  
+            <pb n="3" facs="L1916_0721_img_2225_3"/>
+              you again on Sunday. <lb/>I did not know <seg type="unclear">Jake Croft</seg><lb/>was a real soldier - <lb/>What weather! <seg type="closer"> Ever yours,  Durham. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1546">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Kathleen Lewis, 19 October 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Kathleen Lewis</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is presumed to be addressed to Augusta Caroline Dillon (née Crofton), Lady Clonbrock (1839-1928).
+Lady Clonbrock was a prominent member of the Irish Women&#39;s Association, formed in London in the Spring of 1915 to provide food and comforts for prisoners of war belonging to Irish regiments. 
+The writer&#39;s mother was asked by another Galway woman, prompted, she thinks, by Lady Clonbrock, to send a monthly parcel to a named Connaught Ranger.
+More recently, Ms. Lewis&#39; mother got a postcard from another POW in Limburg, Germany, who was attached to the Royal Irish Regiment, asking for food parcels. Ms. Lewis sought clarification from the IWA and she encloses the reply (not available). She wants to know if the term &#39;godmothers&#39; applies to her mother and her mother&#39;s friend, or whether they have been sending unnecessary parcels.
+Note: Fortnightly parcels were sent to some 1600 P.O.W.s whose names had been supplied by the Regiments. For twelve shillings a month one could ensure the dispatch of two parcels to a specific &#39;godmothered&#39; individual – and additional 300 benefited in this way. Each parcel, made up of two boxes, contained food, tobacco, and comforts. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No. 54; Ms. 35,796/10/4</collection>
+                  <idno>https://letters1916.ie/item/1546</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1020">Kathleen Lewis</persName>
+              <date>1916-10-19</date>
+              <placeName key="#letters1916_place-1856">88 Pembroke Road, Dublin, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0483">Augusta Caroline Dillon</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1546_img_1013_1"  type="Letter"  url="3d0a1a51f26b2b4c6ef94cfc325f3f15.jpg"/>
+      <graphic xml:id="L1916_1546_img_1013_2"  type="Letter"  url="564461d19651fc55374e11e2aafd0738.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1546_img_1013_1"/>
+             88 Pembroke Road <lb/>Dublin   October 19<hi rend="superscript">th</hi>. 1916.   Dear Madam,   My mother, Mrs. Lewis of Ballinagar, <lb/> Loughrea, was asked last winter by <lb/> Mrs. Crawford of Clonmoylan to send <lb/> a monthly parcel to Private Monaghan, <lb/>Connaught Rangers who is a prisoner <lb/><seg type="del">of</seg> at Limburg. I believe Mrs. Crawford <lb/> had been asked to do so <lb/>by you as head of the Co. Galway <lb/>branch for helping Prisoners of War <lb/>so I hope that you will kindly <lb/>help me to clear up a difficulty <lb/>which has arisen in connection <lb/>with it.   A few months ago, my mother <lb/>got a card from another prisoner <lb/>at Limburg (John Mallon of the <lb/>Royal Irish Regiment) asking for <lb/>parcels of food. Wishing to make <lb/>sure that this was a genuine <lb/>case, I wrote to the Irishwomens'
+            <pb n="2" facs="L1916_1546_img_1013_2"/>
+            Association in London &amp; got the enclosed <lb/>reply. I am puzzled to know whether <lb/>my mother &amp; Mrs. Crawford are <lb/>some of the "godmothers" referred to <lb/>or whether they have been sending <lb/>quite unnecessary parcels of food <lb/>to Monaghan as the secretary <lb/>assumes.   With many apologies for <lb/>troubling you. <lb/>Believe me,    Yours truly,   Kathleen Lewis. 
+         </ab>
+      </body>
+   </text>
+</TEI>

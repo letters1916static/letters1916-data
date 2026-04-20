@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0509">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from a Local Government Board Inspector to Captain Kelly, 11 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Local Government Board Inspector</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from a Local Government Board (LGB) inspector to Captain R. C. Kelly, the Ministry of Munitions, inquiring whether the &#39;short time&#39; (decreased working hours) imposed on Belfast&#39;s textile factories has had a negative effect on the earnings and employment of female workers. The inspector also states that complaints have been made concerning the interview process of employing women in Belfast&#39;s munitions factories, with suitably skilled women being overlooked by interviewers, who have employed &#39;ladies&#39; and &#39;amateurs&#39; instead. The LGB inspector asks for these matters to be investigated by Captain Kelly.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI, CSORP/1916/7443/8</collection>
+                  <idno>https://letters1916.ie/item/509</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1548">Local Government Board Inspector</persName>
+              <date>1916-03-11</date>
+              <placeName key="#letters1916_place-1501">Local Government Board, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1278">R. C. Kelly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1197">Ministry of Munitions, 32 Nassau Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0509_img_1881_1"  type="Letter"  url="89c2e1f75cf7bd85fcdcffc08bcd6041.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0509_img_1881_1"/>
+                Local Government Board,  Dublin.    11th March, 1916.   References:â Belfast Munition Workers. <lb/> Dear Captain Kelly,    I have been directed to report on some serious <lb/> complaints have reached my Board as to the practical <lb/> exclusion of women, who are suffering distress in <lb/> Belfast owing to the war, from the various factories which <lb/> are carrying out Munition work.    As you are probably aware the majority of the <lb/> textile factories are working on 'short time' with the <lb/> result that the earnings of the majority of the workers <lb/> have been seriously decreased concurrently with a sharp <lb/> increase in the cost of living and there has been a <lb/> certain amount of actual disemployment. The statement <lb/> is made that some of the Munition factories actually <lb/> advertised for women wage earners and that instead of <lb/> employing the women who applied ladies, amateurs, have <lb/> filled the post.   I would be glad if you would let me know privately <lb/> whether these statements are in any way justified and <lb/> if at the same time you will give me any idea as to the <lb/> early demand for women wage earners in Munition work in <lb/> Belfast and districts I would be very much obliged.  <seg type="closer"> Yours very truly,  Local Govt. Inspector. <lb/>  Captain Kelly,  Ministry of Munitions,  32, Nassau Street,  Dublin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

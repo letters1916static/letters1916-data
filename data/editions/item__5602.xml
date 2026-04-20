@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5602">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mary McEvoy to Agnes Sweetman, 16 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mary McEvoy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from Mary McEvoy, servant on the Drumbaragh Estate in County Meath, to Agnes Sweetman, wife of politician John Sweetman (1844-1936) who owned the estate.
+McEvoy expresses everyone&#39;s relief that the Master, John Sweetman, is coming home the following day and outlines some preparations they are making for his return. He had been imprisoned in England after the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sweetman Family Papers, Collection List No. 156; Ms. 44,565 /5</collection>
+                  <idno>https://letters1916.ie/item/5602</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0257">Mary McEvoy</persName>
+              <date>1916-05-16</date>
+              <placeName key="#letters1916_place-1116">Drumbaragh, Kells, County Meath, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Agnes Sweetman</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5602_img_696_1"  type="Letter"  url="19162adaea4ce482c3ca855b7c53cb41.jpg"/>
+      <graphic xml:id="L1916_5602_img_696_2"  type="Letter"  url="f72961923b8f96b8a7202c63fb5356bc.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5602_img_696_1"/>
+             Drumbaragh House   May the 16   Madam   We are all so glad <lb/>to <sic>here</sic> the Master coming <lb/>home tomorrow.   Christine says the <lb/>chimneys will be done <lb/>tomorrow, the cook is <lb/>sending butter and eggs <lb/>to day. 
+            <pb n="2" facs="L1916_5602_img_696_2"/>
+             The children are <lb/>very good.   Your <sic>obed</sic> <lb/>Servant   Mary M<hi rend="superscript">c</hi> Evoy 
+         </ab>
+      </body>
+   </text>
+</TEI>

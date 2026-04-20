@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0170">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to Thomas MacNamara, 29 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter to Thomas MacNamara (1861-1931), secretary to the admiralty and Liberal politician. The letter is written in the context of the month that followed the 1916 Easter Rising and regards an enclosed proclamation of martial law for the information of the lord commissioners of the admiralty. The enclosed proclamation states that a state of martial law will be enforced in Ireland until further order. The proclamation is signed by Chief Lord Justice Richard Robert Cherry (1859-1923).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5612/9002/1</collection>
+                  <idno>https://letters1916.ie/item/170</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-05-29</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Thomas MacNamara </persName>
+              <date></date>
+              <placeName key="#letters1916_place-0658">Whitehall, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0170_img_1306_1"  type="Letter"  url="df791b2616736637b8fa60d4e9a5e527.jpg"/>
+      <graphic xml:id="L1916_0170_img_1306_2"  type="Enclosure"  url="4113735ca2fb259194d9c76dad6c6784.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0170_img_1306_1"/>
+                29th May, 1916.   9002  Sir,   I am directed by the Lords Justices to <lb/>enclose, for the information of the Lords <lb/> Commissioners of the Admiralty, a copy of a <lb/>Proclamation made by Their Excellencies on the <lb/> 26th instant, directing that a state of Martial <lb/> Law shall continue to exist throughout Ireland <lb/> until further order. <seg type="closer"> I am , <lb/>Sir, <lb/>Your obedient Servant,   The Secretary,   Admiralty,   Whitehall,  London, S.W.  </seg> 
+            <pb n="2" facs="L1916_0170_img_1306_2"/>
+              BY THE LORDS JUSTICES GENERAL AND GENERAL GOVERNORS OF IRELAND. <lb/>A PROCLAMATION   WHERAS disaffection and unrest still prevail <lb/>in certain parts of Ireland causing anxiety and alarm <lb/> amongst the peaceful and law abiding subjects of His <lb/>Majesty.  NOW WE, the Lords Justices General and General <lb/> Governors of Ireland DO HEREBY proclaim that a state of <lb/>MARTIAL LAW <lb/>shall continue to exist throughout Ireland until further <lb/> order.  GIVEN at His Majesty's Castle of Dublin <lb/>this 26th day of MAY, 1916. <seg type="closer"> Richard R Cherry LCJ  O'Loughlin </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

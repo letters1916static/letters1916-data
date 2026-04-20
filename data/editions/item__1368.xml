@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1368">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Joseph Connolly to Lady Clonbrock, 30 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Joseph Connolly</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from a prisoner of war, Joseph Connolly, to Lady Clonbrock (1839-1928). Connolly acknowledges her packages of bread, hoping that she will continue to send them. Connolly closes by informing Lady Clonbrock that he will be moving location. Augusta Caroline Dillon (née Crofton) was the wife of Luke Gerald Dillon (1834-1917), the 4th Baron of Clonbrock, Co. Galway and the daughter of Lord Crofton of Mote Park (Edward Henry Churchill Crofton, 3rd Baron), Co. Roscommon. Aged 75 at the outbreak of war, Lady Clonbrock, worked closely with the Irish Women&#39;s Association to send basic necessities to Irish POWs. Many of her care packages went to members of the Connaught Rangers imprisoned in Limburg near Cologne.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Collection List No 54, Ms 35796-14</collection>
+                  <idno>https://letters1916.ie/item/1368</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0348">Joseph Connolly</persName>
+              <date>1916-07-30</date>
+              <placeName key="#letters1916_place-0667">Limburg, Germany</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0049">Lady Clonbrock</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1612">Berne, Switzerland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1368_img_72_1"  type="Letter"  url="bd71f8c6fc685d8e69d8b9b2737b4ba9.jpg"/>
+      <graphic xml:id="L1916_1368_img_72_2"  type="NULL"  url="698f815f9769367d9f6b607da344e801.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1368_img_72_1"/>
+               <seg type="foreign">Kriegsgefangenenlager</seg>    Limburg,    30<hi rend="superscript">th</hi> July 1916   Sir,   I wish to inform you that <lb/> I have being receiving bread from you <lb/>which has being stop for the past <lb/>six weeks, I would be <seg type="del">y</seg> very <lb/> thankful to you to continue <lb/> send them, I also wish to inform <lb/> you that I change my address, <seg type="closer"> yours truly,  Pte,  J, Connolly, Connaught Rangers </seg>  
+            <pb n="2" facs="L1916_1368_img_72_2"/>
+               <seg type="foreign">Kriegsgenfangenenlager</seg> x <lb/>Limburg (Lahn).. <lb/>This is my address:   Name Pte J Connolly  Connaught Rangers  Name of Regt.  Regt. N<hi rend="superscript">o</hi>. 10760  II Batt. 4 Comp., N<hi rend="superscript">o</hi>. 747  <sic>Prisonners</sic> of War Camp,  Limburg an der Lahn, Germany   Right side <seg type="foreign">Kriegsgefangenen <lb/>Sendung. <lb/>adress:</seg>  Bureau de Secours  Bureau de Secours  aux Prisonniers de Guerre  Section Anglaise  Thunstrasse 50  <hi rend="underline">Berne</hi>  (Suisse)     
+         </ab>
+      </body>
+   </text>
+</TEI>

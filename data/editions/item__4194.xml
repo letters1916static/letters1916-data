@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4194">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Shaw to James and Martha Shaw, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Shaw</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from William Shaw to his parents, James and Martha Shaw, regarding life on the H.M.S. Excellent. William mentions that he will be sending his oilskin home so that it does not get stolen and asks that his mother stop sending the larger scones as the smaller ones will do. He also writes about Lizzie falling out of a tram car and breaking her arm. 
+
+William Shaw (1893-1934) was a gunner in the Royal Naval Reserve. He volunteered for active service in 1915 and served on ships such as the H.M.S. Excellent and H.M.S. Albemarle, a battle cruiser. Before the War he was a fisherman.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Shaw Papers, D1962-15</collection>
+                  <idno>https://letters1916.ie/item/4194</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1233">William Shaw</persName>
+              <date>1916</date>
+              <placeName key="#letters1916_place-0161">H.M.S. Excellent, Portsmouth, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">James Shaw</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1934</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4194_img_3566_1"  type="Letter"  url="603ec37ba2de5496cc91ee40859098b5.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4194_img_3566_1"/>
+             H.M.S Excellent <lb/>Portstewart   My dear Father + Mother   Just a few lines to let <lb/>you know that I got your letter and parcel alright <lb/>I will send you on my oilskin for I would only <lb/>get it pinched here and I got a jersey pinched already <lb/>since but I will lift one for you the next day <lb/>they are serving out <sic>close</sic> that will be on <lb/>Monday next at <seg type="del">pas</seg> 3 o'clock so I will send them <lb/>on first chance tell my mother not to send any <lb/>more of the big scones as they do not carry <lb/>very well. a small one in the oven and a couple <lb/>of the others are sufficient and no butter. I had <lb/>a letter from Jean today and she was saying <lb/>that Lizzie fell getting out of a tram car <lb/>and broke her arm I am sorry for poor Lizzie <lb/>she was giving me a bit of her mind not for <lb/>writing to her and asking if I would get <lb/>home for xmas I asked her if she <seg type="del">ment</seg> meant <lb/>xmas 12 <sic>mounths</sic>. Well we are having very bad <lb/>weather here very wet. M Bacon went to <sic>hospitable</sic> <lb/>today he got a nail in his hand and it turned <lb/>to blood poison I expect he will be back <lb/>among the <sic>angles</sic> in a few days I will close <lb/>now I will write before Saturday   your loving son    Willie 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0422">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John R. Moorhead to Sir Matthew Nathan, 8 December, 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John R. Moorhead</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from John R. Moorhead, Antrim and Belfast Crown solicitor to Sir Matthew Nathan (1862-1939), under-secretary for Ireland. In The King v Mrs. E. Morgan case, Mrs. Morgan has been tried for illegally drawing Army Separation Allowance, and is now required to make restitution. John encloses a cheque for £6. 10s, comprised of £5, which Mrs. Morgan produced while in court, and three installments of 10s paid since. A handwritten note at the bottom of the letter gives accounting instructions and states how future payments are to be dealt with.Sir Matthew Nathan was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/20780</collection>
+                  <idno>https://letters1916.ie/item/422</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1437">John R. Moorhead</persName>
+              <date>1915-12-08</date>
+              <placeName key="#letters1916_place-0074">30 Rosemary Street, Belfast, County Antrim, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0422_img_1717_1"  type="Letter"  url="9023bc3ad4b1b34f7e71fd0650895b3e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0422_img_1717_1"/>
+                Counties of Antrim &amp; Belfast Crown Solicitor's Office.  30 Rosemary Street,  Belfast.    8th. Decr. 1915  <lb/>MOOREHEAD &amp; WOOD, <lb/><hi rend="underline">Solicitors</hi><lb/> JOHN R. MOOREHEAD, <lb/><hi rend="underline">Crown Solicitor.</hi><lb/><hi rend="underline">Telephone N<hi rend="superscript">o</hi> 605</hi><lb/>  THE UNDER SECRETARY/   SIR/   <hi rend="underline">The King v Mrs. E. Morgan</hi>  As directed by your Minute of the 6th. instant I <lb/> enclose herewith cheque in favour of The Regimental Paymaster, <lb/> Dublin for Â£6 .10. 0. being Â£5 handed into Court by Mrs. Morgan, <lb/> and three instalments of 10/- each paid by her to me since.   There was no person nominated to receive the instalments <lb/> but the defendant has been paying same to me. The Judge directed <lb/>the Â£5 to be handed over to me. <seg type="closer"> I am, Sir. <lb/>Your obedt. servant,  John R Moorehead </seg>  I Forward cheque to Regt <lb/> Paymaster Dublin with <lb/> copy War Office letter &amp; say <lb/> that future payments will be <lb/> made direct by Mr Moorehead CJ <lb/> I agree with Mr Moorehead <lb/>9.12.15   
+         </ab>
+      </body>
+   </text>
+</TEI>

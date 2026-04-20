@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6720">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fr Michael O'Flanagan to Canon Timlin, 27 September 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Fr Michael O&#39;Flanagan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Fr Michael O&#39;Flanagan (1876–1942) was a Catholic priest and well-known nationalist. He was elected vice president of Sinn Féin in 1917. O&#39;Flanagan reiterates his request for the name of the originator of the false rumour stating he made a public display of removing his clerical collar whilst on retreat. He states that Timlin&#39;s criticism of his Sligo speech and Crossna letter have no bearing on the definite accusations he feels is being made by Timlin about O&#39;Flanagan threatening to leave the priesthood.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>O&#39;Flanagan Private Collection</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/6720</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0313">Fr Michael O&#39;Flanagan</persName>
+              <date>1918-09-27</date>
+              <placeName key="#letters1916_place-1163">6 Harcourt Street, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Canon Timlin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0580">Skreen, Co. Sligo</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1942</item>
+               <item n="topic">The Rising Tide (1917-1919)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6720_img_None_1"  url="phpdtHpCN.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6720_img_0_1"/>
+             SINN FÉIN   6 Harcourt Street<lb/>Dublin    6 Sráid Fhearchair,<lb/>Áth Cliath    27/9/<sic>I</sic>8    Very Rev Canon Timlin,<lb/>Screen,<lb/>Co. Sligo    Dr. Canon Timlin   In reply to your letter of Sept 25th all I want<lb/>to know from you is your authority for the story which you<lb/>heard.  In telling the story to Mr Keohane I presume you did so<lb/>as a friend. I should be very sorry to think that you did it in<lb/>the only otheer possible <seg type="del">alternative</seg> capacity.  In either case I think it would be your duty to tell me<lb/>who is your authority.  I want to go to <seg type="del">Mill</seg> Milltownpark and trace the story to<lb/>its origin. I have no desire to do anything more than protect<lb/>myself in a purely ecclesiastical manner, and I wish to do it in<lb/>a way that would cause the least possible amount of unpleasant-<lb/>ness to you; but I cannot do this unless you are prepared to<lb/>co-operate with me as a friend.  The criticism of my Sligo speech and Crossna letter to<lb/>which you refer has no bearing upon the definite charge<lb/>contained in your story.   Yours Sincerely,    M O'Flanagan  
+         </ab>
+      </body>
+   </text>
+</TEI>

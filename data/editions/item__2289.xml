@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2289">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Rev Robert J. Burts to John Francis Hogan, 18 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert J. Burts</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was addressed to Rev Dr John Francis Hogan (1858–1918), a priest, author, and president of St Patrick&#39;s College, Maynooth.The letter was sent by Rev Robert J. Burts of the Catholic Diocese of Cork (1871-1957).
+In this letter Robert Burts is informing John Hogan of the faculties for the Cork Students which have been signed by order of Rev Dr Thomas Alphonsus O&#39;Callaghan (1886-1916), bishop of Cork. These faculties are to lie in the discretion of John Hogan.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>St Patrick&#39;s College, Maynooth</repository>
+                  <collection>John F. Hogan Papers, 21/8/17a</collection>
+                  <idno>https://letters1916.ie/item/2289</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1029">Robert J. Burts</persName>
+              <date>1916-05-18</date>
+              <placeName key="#letters1916_place-1371">The Cathedral, Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John Francis Hogan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1957</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2289_img_1736_1"  type="Letter"  url="11433ced48d84f2af1ce4d4256100b2c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2289_img_1736_1"/>
+             21/8/17a  <!-- Embossed Address: --> The Cathedral,<lb/>Cork.    18/5/16 <lb/>   My dear Monsignor Hogan   I have pleasure in<lb/>sending you the —<lb/>faculties for the Cork<lb/>students signed by<lb/>the Vicar-General by<lb/>order of Dr. O Callaghan.<lb/>It will lie in your -<lb/>discretion- to use them<lb/>when the time comes   I am<lb/>ys very faithfully<lb/>R.Burts.<hi rend="superscript">cc</hi><lb/>Secretary:   
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4255">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Wilfrid Spender to Lillian Spender, 5 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Sir Wilfrid Spender (1876 - 1960) to his wife, Lillian (1880-1968). Spender was a member of the British Army until 1913 when controversy surrounding his signature of the Ulster Solemn League and Covenant resulted in his resignation. Spender was called up for military service in 1914 and from 1915 served in the 36th (Ulster) Division. Throughout the war, Spender wrote a collection of letters to his wife Lady Lillian Spender. The letters date mainly from 1915 to 1918, when Sir Wilfrid was serving in France. The letters concern politics, the Irish question, personal life, and Wilfrid&#39;s experience of the Great War.&#34;</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Letters from Sir Wilfrid Spender to Lady Spender, D1633/1/1/91</collection>
+                  <idno>https://letters1916.ie/item/4255</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0667">Wilfrid Spender</persName>
+              <date>1915-12-05</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lillian Spender</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1960</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4255_img_3621_1"  type="NULL"  url="6a313af4f85162769e295155275832c9.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4255_img_3621_1"/>
+             5 Dec   My <seg type="unclear">x</seg> the p r.   I did not expect a letter knowing you were probably en route to Belfast, so I <lb/>was not greatly disappointed when the only scrawl was from Gen' Powell. <lb/>He has still no job, &amp; if HP gets one before him it will be too bad for words.   We have got quite a lot of work in hand just now but I like it <lb/>better than doing nothing but old Heavy weather S still groans over his fearful <lb/>toil &amp; doing precious little except impress the Gen' who seems easily taken in by <lb/>some people including Leader I think.   I wish to Heaven I could get away to a quiet place to write as people <lb/>keep on coming in &amp; seeing me at letters get the idea that I am always writing <lb/>letters when it is usually a brief snatch at the same old scrawl!   The political situation is very black. The Radicals are still carrying <lb/>on as a party &amp; are as unscrupulous as ever. It makes me sick at heart, <lb/>but I still hope to see some of them hanged in this life, as the deferred <lb/>punishment they will get is of little value in educating the Country.   I think <seg type="del">this</seg>changes will come &amp; that kindly Providence may defer the end <lb/>of the war until we have learnt to improve.   As regards the new loan I am in no hurry to do anything until <lb/>the Government sets an example.   I must write to Gen' Powell, so will end, but I shall be <lb/> an uneasy W till I hear you are safely back. Can't you see the b w <lb/>pacing up &amp; down outside the lair waiting for news of the little p r.   I went to early service today but do not expect you were   Ever your b w   Wilfrid B Spender 
+         </ab>
+      </body>
+   </text>
+</TEI>

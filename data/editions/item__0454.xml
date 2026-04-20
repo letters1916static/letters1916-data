@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0454">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Mr. McDonagh to the Under-Secretary, Dublin Castle, 22 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mr McDonagh</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Thomas McDonagh to Sir Matthew Nathan to ask for something to be done regarding the selling of turf and peat fuel at higher prices. McDonagh requests that all fuel be commandeered by the authorities or further quantities of coal to be delivered to the Donegal area to prevent traders profiteering.Thomas McDonagh was an ex-detective sergeant of the Royal Irish Constabulary in Donegal. In the 1911 Census Return Thomas McDonagh is reported as being 53 years old -- a widower with two daughters. Sir Matthew Nathan was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI, CSO/RP/1916/7278/1</collection>
+                  <idno>https://letters1916.ie/item/454</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0212">Mr McDonagh</persName>
+              <date>1916-04-22</date>
+              <placeName key="#letters1916_place-1790">Buncrana, Co. Donegal, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Under-Secretary</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0454_img_1798_1"  type="Letter"  url="f528630c9433c4b4a427ae1f40fb2ca3.jpg"/>
+      <graphic xml:id="L1916_0454_img_1798_2"  type="Letter"  url="d7d803670675b583476bb57f48c60dff.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0454_img_1798_1"/>
+                Buncrana  Donegal    22. 4. 16    Under Secty Dublin Castle.  Sir   Can nothing be done <lb/> to stop the extortion in the <lb/> price of Peat Fuel in this <lb/> locality. An ordinary cart <lb/> holds about 2 cwt. in <lb/> many cases less, and <lb/> the sellers will not give it <lb/> for less than 4/3 which <lb/> is about Â£2.2 per <lb/> ton. These men run no <lb/> risk in transporting <lb/> the turf &amp; they are <lb/> imposing on the <lb/> softness of the <lb/> military peoples <lb/> wives &amp; daughters   I suggest that all <lb/> the Fuel be commandeered <lb/> &amp; issued as needed  
+            <pb n="2" facs="L1916_0454_img_1798_2"/>
+              or that coal be sent to <lb/> the town &amp; issued as <lb/> the richer are hoarding <lb/> &amp; the poor must go to <lb/> neighbours to get <lb/> food cooked.   The chief offenders <lb/> in price have their <lb/> sons walking about in <lb/> illegally received boots <lb/> &amp; shirts (military )  <seg type="closer"> Thomas Mc Donagh  Ex Det.. Sergt. RIC </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

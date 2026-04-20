@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1360">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Laurence Ginnell to Mabel FitzGerald, 26 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Laurence J. Ginnell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from land agitator and politician Laurence Ginnell (1852-1953) to Mabel FitzGerald (née Washington McConnell) (1884-1958), wife of politician and intellectual Desmond FitzGerald (1888-1947). Ginnell writes to ensure Mabel that while the executions of the leaders are occupying peoples&#39; minds at present, those who are imprisoned would not be forgotten and a general amnesty would be called for soon. He states that he would not forget someone whom The O&#39;Rahilly held in the highest esteem. Michael Joseph O&#39;Rahilly (1875-1916) and Fitzgerald had both originally been in support of attempts to stop the Rising taking place but both joined in once it had started. O&#39;Rahilly was killed in Moore Lane on Thursday of Easter week and Ginnell writes that he is &#39;heartbroken&#39; about his death.Laurence Ginnell was an Irish nationalist politician, lawyer, and member of parliament. He initially ran as a member of the Irish Parliamentary Party, but, from 1910 onward he ran as an Independent Nationalist. Mabel Fitzgerald was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington (1878 -1916) during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Desmond FitzGerald Papers, P80/1588/1</collection>
+                  <idno>https://letters1916.ie/item/1360</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1462">Laurence J. Ginnell</persName>
+              <date>1916-05-26</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1360_img_711_1"  type="Letter"  url="057a30b049b7001d9d6bfc81e13f66b8.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1360_img_711_1"/>
+                House of Commons   26<hi rend="superscript">th</hi> May, 1916  My Dear Mrs Fitzgerald,   Needless to say you have my deepest <lb/> sympathy. It is only extreme pressure of work <lb/> that has prevented my writing to you before now.  But do not think for a moment <lb/> that Mr Fitzgerald is going to be forgotten. <lb/> Oh no. We are not that bad. As you say, <lb/> the executions fill people's minds for the time. <lb/> But of course we will demand a general <lb/> amnesty very soon. I at all events am <lb/> not going to forget one of whom The O'Rahilly <lb/> entertained the highest admiration. I loved <lb/> The O'Rahilly, am heartbroken that he is no more, <lb/> and will certainly leave no stone unturned to <lb/> get his friend Desmond Fitzgerald released. <lb/> So please have good courage.  I was speaking to your husband's brother last <lb/> Saturday evening. In haste. <seg type="closer"> Sincerely yours  L. Ginnel </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

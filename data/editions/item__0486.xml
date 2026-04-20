@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0486">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter From John Miley to Diarmid Coffey, 18 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Miley</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter From John Miley to Diarmid Coffey (1888-1964). Miley writes about life behind the lines on the Western Front, describing an inspection by French Commander in Chief Joseph Joffre (1852-1931). Miley also makes mention of the misleading term of &#39;rest,&#39; indicating that the Royal Field Artillery does more work at times of rest than when in the line. Miley closes by reminiscing about trips that Coffey and he used to take to Glendalough. Diarmid Coffey was a public servant and an author. He was called to the bar in 1912 and later joined the Irish Volunteers as secretary to Colonel Edmond Cotter (1852-1934). John Miley was serving with the 39th Royal Field Artillery in January 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>MS 46,307 /10, MS 46,307 /10</collection>
+                  <idno>https://letters1916.ie/item/486</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0368">John Miley</persName>
+              <date>1916-01-18</date>
+              <placeName key="#letters1916_place-0769">France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0284">Diarmid Coffey</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0486_img_185_1"  type="Letter"  url="d99ea1378851aa53d0a52623c1acba6a.jpg"/>
+      <graphic xml:id="L1916_0486_img_185_2"  type="Letter"  url="cf1abbb35ef08cea740f76f938ac0875.jpg"/>
+      <graphic xml:id="L1916_0486_img_185_3"  type="Letter"  url="cbbc323b9261e278535aa27fcccc81dc.jpg"/>
+      <graphic xml:id="L1916_0486_img_185_4"  type="Letter"  url="76a4843d0b9c5fb527addd06e86bea97.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0486_img_185_1"/>
+                39th Brigade R.F.A.  B.E.F.    18.1.16   Dear Dermot,   Thanks so much for your letter and also for the box of apples <lb/>which arrived in excellent condition. They are very pleasant <lb/>in the morning before breakfast and quite make one think <lb/>I am home again.   We have come into rest again for a month. 'Rest' is <lb/>a most misleading term, as we work if anything harder than <lb/>when in the line. The feeling of not having to fight or <lb/>be fought makes up for a lot however. Our brigade has <lb/>been chosen to be inspected by Joffre, which means a desperate <lb/>lot of worry in the way of cleaning up and getting all sorts <lb/>of equipment that no one ever sees in the ordinary way.   This is a rather pleasant little town for a French mining <lb/>place. The people are full of kindness and we officers <lb/>are all sleeping in comfortable beds. The best part of <lb/>the day is when I get into bed, with a lighted candle <lb/>at my head, and read myself to sleep.   Things must be dullish in Dublin now. Have you been <lb/>having any long tramps lately? I often think of our <lb/>walk from Glendalough to Wicklow and how we enjoyed it.   
+            <pb n="2" facs="L1916_0486_img_185_2"/>
+              Please let me know Henry Connor's address. I might be <lb/>able to get to see him some time.   I hope to be home the 2nd week in March.  <seg type="closer"> Kindest regards to Mrs Coffey <lb/>Yours   John Miley </seg> 
+            <pb n="3" facs="L1916_0486_img_185_3"/>
+              J Miley  
+            <pb n="4" facs="L1916_0486_img_185_4"/>
+              <lb/>J. Miley <lb/>O.A.S.   Dermott Coffy Esq  5 Harcourt Terrace  Dublin  Ireland    
+         </ab>
+      </body>
+   </text>
+</TEI>

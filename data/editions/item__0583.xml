@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0583">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J. E. Devlin to Robert Chalmers, 9 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Joseph E. Devlin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Joseph E. Devlin, Assistant Secretary, Local Government Board to Sir Robert Chalmers (1858-1938), Under Secretary, Dublin Castle. The writer is sending back the Return of Prosecutor and Witness Expenses submitted by Donegal County Council, which has been duly certified by the Auditor, Major Eccles. A handwritten note added in the C.S.O. gives instructions for payment, accounting, and return of vouchers to the Council.Chalmers succeeded Sir Matthew Nathan who resigned on 3 May, 1916 due to his failure to prevent the Easter Rising. J.E. Devlin Assistant Secretary, Local Government Board.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5620/13728</collection>
+                  <idno>https://letters1916.ie/item/583</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0998">Joseph E. Devlin</persName>
+              <date>1916-08-09T00:00:00</date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0583_img_1984_1"  type="Letter"  url="fcde9ca8d83f8d26816177773abda3da.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0583_img_1984_1"/>
+              No. 25286 1916    Donegal County  <hi rend="underline">CERTIFIED PROSECUTORS AND WITNESS EXPENSES.</hi>  LOCAL GOVERNMENT BOARD,  DUBLIN,    9th August, 1916   Sir,   I am directed by the Local Government Board for Ireland to send <lb/>back herewith, duly certified by the Auditor Major Eccles, <lb/>the return of the Expenses of Prosecutors and Witnesses in the County <lb/>of Donegal for the half-year ended the 31st <lb/> of March, 1916.  The documents which accompanied the Return are also enclosed. <seg type="closer"> I am, Sir, <lb/>Your obedient Servant.  J. E. Devlin <lb/>Assistant Secretary.   To  The Under Secretary  &amp;c., &amp;c. &amp;c.,  Dublin Castle.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

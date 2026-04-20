@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2159">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Herbert Pim to John Sweetman, 28 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Herbert Pim </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Herbert Pim (1883-1950) to John Sweetman (1884-1936). Pim published a pamphlet series entitled &#39;Tracts of our times&#39;, including writings by Patrick Pearse, and in early 1916 founded the literary and political monthly, &#39;The Irishman&#39;. He joined the Volunteer muster in Coalisland at Easter 1916, and was arrested after the Rising and deported to Reading gaol. He was released in September 1916. Sweetman was a member of Sinn Féin and patron to Arthur Griffith. In 1915 he spoke out against conscription and  was arrested after the 1916 Rising and interned in England until the end of May 1916. Pim writes to inform Sweetman that he will be in Dublin on Thursday and hopes to meet up with him.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sweetman Family Papers/ Collection List No 156; Ms.47589/12/6</collection>
+                  <idno>https://letters1916.ie/item/2159</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0515">Herbert Pim </persName>
+              <date>1916-09-28</date>
+              <placeName key="#letters1916_place-1827">65 University Road, Belfast, Antrim, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0883">John Sweetman</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1594">47 Merrion Square, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1950</item>
+               <item n="tag">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2159_img_1608_1"  type="Letter"  url="db774721acd152ebe9fa427afb8ed4fa.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2159_img_1608_1"/>
+             28<hi rend="superscript">th</hi> Sept. 1916.   Dear Mr Sweetman   I hope to be in <lb/> Dublin on Thursday next, &amp; <lb/>hope to call upon you about 11am.<lb/>   As a matter of fact I expect to <lb/>be returning from the south, &amp; will be <lb/> in the city at 10pm on Wednesday, after leaving <lb/>my son at college   Your remarks are very consoling. <lb/>We must forge ahead; &amp; I think the <lb/>public is keen for a sane &amp; practical <lb/>policy   You have my sympathy about the <lb/>attempts upon your pocket, There <lb/>is no living nowadays unless one is <lb/> a farmer or a munition worker.   <seg type="foreign">Slán agus beanacht</seg>   <hi rend="underline">Herbert M Pim</hi> 
+         </ab>
+      </body>
+   </text>
+</TEI>

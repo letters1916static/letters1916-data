@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4722">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas Kirkpatrick to Captain George D. Mackintosh, 8 January 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Kirkpatrick</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>From 1910 until 1954 Thomas Percy Kirkpatrick (1869-1954) served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-14-5</collection>
+                  <idno>https://letters1916.ie/item/4722</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1453">Thomas Kirkpatrick</persName>
+              <date>1918-01-08</date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">George Douglas Mackintosh</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1778">Isle of Grain, Kent, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1954</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4722_img_4058_1"  type="Letter"  url="bacc00b62ee237b2a35e48b4d3691aa3.jpg"/>
+      <graphic xml:id="L1916_4722_img_4058_2"  type="Letter"  url="371d538ae354a7ea434c96394bb009e6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4722_img_4058_1"/>
+             8th JANUARY 18.   Capt. G.D.Mackintosh, R.A.M.C., <lb/>Grain Fort, <lb/>Isle of Grain.   Dear Sir,    Your letter of December 28th, was considered by the <lb/>President and Fellows of the Royal College of Physicians of <lb/>Ireland at their meeting on Friday last.   In reply I am directed to inform you that the admission <lb/>to the Membership of the College is rigidly controlled by <lb/>the By-Laws which may not be altered without sanction of the <lb/>Privy Council. The only By-Law under which exemption from any <lb/>part of the Examinations can be given is No. XVIII., p.8, (see <lb/>enclosure). This By-Law is intended to meet the case of persons <lb/>who have proved by their work their exceptional eminence in the <lb/>profession and a very strict scrutiny would be made of any claim <lb/>for exemption under it. It is, of course, open for anyone to claim <lb/>exemption, but such claim would not be admitted except under <lb/>very special circumstances.   The provision of groups of subjects for the examination has <lb/>been adopted to meet the needs of persons who have been doing <lb/>special work. Candidates may apply for examination in subjects
+            <pb n="2" facs="L1916_4722_img_4058_2"/>
+            under groups D (pp.10 and 11), and each application is <lb/>individually considered. I have to inform you further <lb/>that parts I. and II. of the examination may be taken <lb/>separately.   I am, <lb/>Yours faithfully,   <lb/>Fellow &amp; Registrar.
+         </ab>
+      </body>
+   </text>
+</TEI>

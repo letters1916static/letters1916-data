@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1520">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from M. Malone to Nancy O'Rahilly, 17 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M. Malone</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter of condolence from M.Malone to Nancy O&#39;Rahilly (1875-1961). The writer expresses sympathy with Mrs. O&#39;Rahilly on the death of her husband and promises to pray every day for the repose of his soul and for Mrs. O&#39;Rahilly&#39;s consolation.Nancy O&#39;Rahilly was a member of the Provisional Council of Cumann na mBan at the founding in 1914 and the wife of Michael Joseph O&#39;Rahilly, self-described as &#39;The&#39; O&#39;Rahilly (1875-1916). The O&#39;Rahilly fought in the Easter Rising and was shot in Parnell/Moore Street on 28 April 1916 and died some time later. Nancy was pregnant at the time of her husband&#39;s death – the child was born three months later.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Humphreys Papers, P106/120/24</collection>
+                  <idno>https://letters1916.ie/item/1520</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0949">M. Malone</persName>
+              <date>1916-05-17</date>
+              <placeName key="#letters1916_place-0000">John Street, Dingle, Co. Kerry, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1534">Nancy O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1520_img_980_1"  type="Letter"  url="18c62be3a2c83aa987d28d0b074ec530.jpg"/>
+      <graphic xml:id="L1916_1520_img_980_2"  type="Letter"  url="12494928096634e13e662f6ed144c0bc.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1520_img_980_1"/>
+                John St., Dingle,    May 17th., 1916.   Dear Madam,   Accept my sincere <lb/> sympathy in your great bereave- <lb/>ment. We were all very <lb/>sorry to learn of the O' Rahilly's <lb/>death, &amp; we deeply sympathise <lb/> with you in your sorrow. Though <lb/> your cross be heavy, God will  
+            <pb n="2" facs="L1916_1520_img_980_2"/>
+              give you strength to bear it, &amp; we <lb/>pray for the repose of his soul <lb/>&amp; for your consolation every day.   I should have written sooner, <lb/>but I thought it better to wait <lb/> till the postal arrangements <lb/> were more satisfactory.   Again tendering you &amp; your <lb/>family my very sincere sympathy  <seg type="closer"> I remain, <lb/>Yours sincerely,   M. Malone. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

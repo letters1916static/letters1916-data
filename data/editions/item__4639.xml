@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4639">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas Kirkpatrick to John Edward Healy, 5 October 1917</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Kirkpatrick</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>From 1910 until 1954 Thomas Percy Kirkpatrick (1869-1954) served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.
+
+John Edward Healy (1872-1934) was a journalist and editor of the Irish Times (1907-34). A staunch Unionist Healy was committed to the idea of a unionist Ireland. Healy was among the first group of journalists to visit the Western Front and following the outbreak of the 1916 Rising he called for the immediate suppression of Sinn Féin. Despite receiving numerous threats Healy consistently refused protection during the War of Independence. A supporter of the Treaty Healy  accepted the new political order and supported the Free State&#39;s position within the British commonwealth. He would later attend the Imperial Press Conference as an Irish representative in 1931.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI 2-3-2-13-248</collection>
+                  <idno>https://letters1916.ie/item/4639</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1453">Thomas Kirkpatrick</persName>
+              <date>1917-10-05</date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John Edward Healy</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1954</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4639_img_3981_1"  type="Letter"  url="5003aff3ac96add0c7a66635c0071658.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4639_img_3981_1"/>
+             5th OCTOBER 17.   To The Editor, <lb/>Independent, <lb/>The Irish Times, <lb/>Dublin.   Dear Sir,   The President of the Royal College of Physicians and <lb/>Surgeons, Ireland, desire to call attention to the Regulations <lb/>regarding the prescribing of preparations of Opium and Cocaine <lb/>made by Order in Council of 5th December, 1916, and by Regulation <lb/>40 B of the Defence of the Realm Regulations.   The ordinary position as regards the prescribing of Opium <lb/>is not affected, but Cocaine may be supplied only in accordance <lb/>with a written prescription of a duly qualified medical prac- <lb/>titioner, which prescription must be dated and signed with the <lb/>prescribers full name, address and qualifications, and marked <lb/>"Not to be reposted."   Recently a medical practitioner and a pharmacist were fined <lb/> for neglecting to comply with the Regulations.   Yours faithfully,    T. Percy C.Kirkpatrick,  <lb/>Registrar R.C.P.I.
+         </ab>
+      </body>
+   </text>
+</TEI>

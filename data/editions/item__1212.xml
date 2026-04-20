@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1212">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from C. Harris, 15 May 1919</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>C. Harris</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from C. Harris of the War Office regarding the financial issue which arose after the death of Fr. Fitzgibbon (1882-1918) .Fr John &#39;Jack&#39; Fitzgibbon SJ was ordained a priest on 31st July 1915. His father, John Fitzgibbon, was a successful draper and Member of Parliament from 1910-1918. Fr Fitzgibbon served in the 6th Division of the British Army, having enlisted shortly after the death of his brother at Gallipoli. He was promoted to senior chaplain in 1917, and in the same year he was gassed at Loos on 5th September and awarded the military cross. Fr Fitzgibbon was killed in action by a shell on the 18th September 1918, and is buried at Trefcon, St. Quentin, Picardie.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IJA/CHPI/21/38enc, IJA/CHPI/21/38enc</collection>
+                  <idno>https://letters1916.ie/item/1212</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0734">C. Harris</persName>
+              <date>1919-05-15</date>
+              <placeName key="#letters1916_place-1029">War Office, South Kensington, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1212_img_3896_1"  type="Enclosure"  url="04e8f1f0f5e97ac6d102c835ee34150e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1212_img_3896_1"/>
+                WAR OFFICE,  IMPERIAL INSTITUTE,  SOUTH KENSINGTON,  LONDON, S.W.7,    15th May 1919.  <lb/>No. F1/170 (Accounts 4).  Sir.   I am directed to inform you that the Command Paymaster, <lb/>Eastern Command, Science Museum, Exhibition Road, S. Kensington, <lb/>London, S.W.7, has been authorised to issue to  the Reverend James <lb/>Bury to your care the sum of forty nine pounds <lb/>three shillings and four pence.   <hi rend="underline">Enclosures</hi><lb/>being the amount due from Army Funds to the estate of the late <lb/> Major. the Reverend J.Fitzgibbon M.C. <lb/>Royal Army Chaplain Department <lb/>Should no communication on this subject be received from <lb/>the Paymaster within the next few days, application for payment <lb/>should be made to him by letter.  The above statement is made up as follows:â <lb/> Gratuity under contract <lb/>pay 1st to 18th September <lb/>allowances 1st August-18th September <lb/>back belonging to deceased   ÃÂ£.s.d. <lb/>31.10.0 <lb/>9.9.0 <lb/>6.16.9 <hi rend="underline">1.8.9</hi><lb/><hi rend="underline">ÃÂ£49.3.4</hi> <seg type="closer"> I am, Sir <lb/>Your obedient Servant,  C Harris <lb/>Assistant Financial Secretary.   Quinlin Esq.  Solicitor.  Middle Abbey Street  Dublin  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

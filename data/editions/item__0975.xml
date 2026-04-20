@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0975">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Moorhead to the Under Secretary of Ireland, 24 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John R. Moorhead</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from John R. Moorhead (1859-1936) to the under secretary for Ireland requesting a week&#39;s leave to visit his son in Dublin who is training with the 4th Battalion of the Royal Irish Rifles. John R. Moorhead served as crown solicitor for Antrim and Belfast in 1916 while Sir Robert Chalmers (1858-1938) was the presiding under secretary for Ireland at this time. Chalmers was sent to Ireland as replacement under-secretary for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, 1916-12737</collection>
+                  <idno>https://letters1916.ie/item/975</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1437">John R. Moorhead</persName>
+              <date>1916-07-24</date>
+              <placeName key="#letters1916_place-2006">30 Rosemary Street, Belfast, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0975_img_2818_1"  type="Letter"  url="8bf339bfdd9e47e6a00fec3be56ca5fd.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0975_img_2818_1"/>
+             <seg type="head">Counties of Antrim &amp; Belfast Crown Solicitor's Office.</seg>   30 Rosemary Street,  Belfast.    July 24 1916   Dear Sir,   I expect to complete the work of <lb/>Belfast Assizes by the end of the week, and next week <lb/>assuming the assize work and all other urgent <lb/>matters are completed, I wish to spend a few days <lb/>in Dublin, where my son is with a section of <lb/>the 4<hi rend="superscript">th</hi> Batt. R I R engaged finishing his training <lb/>at Dollymount. I have not been absent <lb/>from my County for a day over three years <lb/>past. I should keep in touch with the office <lb/>by telephone from day to day so as to return at <lb/>once if anything urgent occurred.  I shall be glad to know if I <lb/>may have leave of absence for a few days, <lb/>not exceeding a week. <seg type="closer"> Your obedient servant  John R. Moorhead   The Under Secretary  The Castle  Dublin  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0661">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Loughrey to the Under Secretary for Ireland, June 29, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Vincent Loughrey</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Patrick Vincent Loughrey, a solicitor from Birr, to the under secretary for Ireland regarding the position of crown solicitor for King&#39;s County. Loughrey forwards testimonials to support his application. At the time this letter was written Sir Robert Chalmers (1858-1938) was serving as the under secretary of Ireland. Chalmers was sent to Ireland as a replacement for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered papers, CSO-RP-1916-5615-11092</collection>
+                  <idno>https://letters1916.ie/item/661</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1391">Patrick Vincent Loughrey</persName>
+              <date>1916-06-29T00:00:00</date>
+              <placeName key="#letters1916_place-0914">John&#39;s Place, Birr, Offaly, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0661_img_2144_1"  type="Letter"  url="03b456c985ec7c40d045cb37014719de.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0661_img_2144_1"/>
+                Offices: John's Place  Birr    29th June 1916.   Sir,   Kindly add the enclosed to the Testamonials <lb/>forwarded by me. I was unable to include it <lb/>in my previous letter as the subscriber was <lb/>from home and so I received it only today. <lb/>Permit me to add to my application that I <lb/>served my <sic>Apprentiseship</sic> with the Late Crown <lb/>Solicitor Mr R F Berry.  <seg type="closer"> Your obedient Servant  P V Loughrey   The Under Secretary,  Dublin Castle,  Dublin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

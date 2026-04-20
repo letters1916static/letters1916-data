@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1094">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Annie Carson Rae to Thomas Kirkpatrick, 25 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Annie Carson Rae</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Annie Carson Rae to Thomas Percy Kirkpatrick listing the training schools for nurses in Belfast, Cork and Limerick. Carson Rae explains that it is difficult to create a precise list as some hospitals consider themselves to be training schools but do not meet the requirements of even the Local Government Board. In 1917 Annie Carson Rae was elected Secretary to the Board responsible for carrying out a proposed nursing college scheme. The scheme was intended to improve the standard of education for nurses in Ireland.From 1910 until 1954 Thomas Kirkpatrick (1869-1954) served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-3-15-5, RCPI-2-3-3-15-5</collection>
+                  <idno>https://letters1916.ie/item/1094</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1495">Annie Carson Rae</persName>
+              <date>1916-03-25</date>
+              <placeName key="#letters1916_place-0225">34 St Stephen&#39;s Green, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0544">Thomas Percy Kirkpatrick</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1094_img_3245_1"  type="Letter"  url="a61ac6b6634644f509df0fb00600b156.jpg"/>
+      <graphic xml:id="L1916_1094_img_3245_2"  type="Letter"  url="2e9b960dae89fe108b37ac6c11110523.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1094_img_3245_1"/>
+                NURSES' HOSTEL,  34 ST. STEPHEN'S GREEN,  DUBLIN    March 25 1916.   Dear D <hi rend="superscript">r</hi> Kirkpatrick    I was <lb/>asked by Dr Phelps to supply <lb/>you with a list of Training <lb/>Schools in Ireland. It is <lb/>rather a difficult matter <lb/>as some Hospitals consider <lb/>themselves as such, who do <lb/>not come up to the reuire â <lb/>ments of even the Local Gov. <lb/>Board.   The following ones in <lb/>Belfast are <lb/>1. The Royal Victoria Hospital <lb/>2. Mater Nurses Hospital <lb/>3. The Union Infirmary   
+            <pb n="2" facs="L1916_1094_img_3245_2"/>
+              The last named, I think was <lb/>made a Training Sch. when D <hi rend="superscript">r</hi><lb/><seg type="unclear">Cory Biggar</seg> was Sap!   In Cork <lb/>1. The North Infirmary <lb/>2. The South   In Limerick <lb/>1. Barringtons Hospital <lb/>which is quite a small one.   The County Infirmaries (of which <lb/>a list is in the Directory) give <lb/>good training but have few beds. <lb/>These are all I know in the country <lb/>districts. Dublin, of course, you <lb/>know yourself.  <seg type="closer"> Yours truly  A. Carson Rae. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

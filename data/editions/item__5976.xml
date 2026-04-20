@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5976">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Copy of a letter from John H. Billinge, Hon. Secretary of the Belgian Funds Committee, to M. Albert Maeterlinck, Belgian Red Cross, 24 July 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John H. Billinge</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is part of a three-sided correspondence between the Irish War Hospital Supply Depot in Dublin, the Belgian Funds Committee in Manchester, and the Belgian Red Cross in London. The Belgian Funds Committee, represented by John H. Billinge as Hon. Secretary and Treasurer, arranged for the Irish War Hospital Supply Depot to regularly ship medical items to the Belgian Red Cross in London, where they were used to treat wounded Belgian soldiers. Eleanor Dallas Pratt, Catholic wife of a respected Anglican surgeon based in Dublin, served as Hon. Secretary to the Irish War Hospital Supply Depot. The letters on behalf of the Belgian Red Cross were written by M. Albert Maeterlinck and C. E. R. Abbott. Maeterlinck was a Belgian national and returned home in January 1919. All files are kept at the Manchester Central Library. The bound volume also contains the lists all dispatched supplies and letters of thanks or supplication from soldiers and their families.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Manchester Central Library</repository>
+                  <collection>GB127.M138/2435, Belgian Red Cross files, 1916-1919: File No. 5 &#34;Belgian Red Cross Fund&#34; (not paged)</collection>
+                  <idno>https://letters1916.ie/item/5976</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0093">John H. Billinge</persName>
+              <date>1918-07-24</date>
+              <placeName key="#letters1916_place-1169">Belgian Funds Committee, 78 King Street, Manchester, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1310">M. Albert Maeterlinck</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0444">Belgian Red Cross, Anglo-Belgian Committee, 48 Grosvenor Gardens, London, S. W. 1, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Medicine</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5976_img_None_1"  url="phpUbcilj.jpg"/>
+      <graphic xml:id="L1916_5976_img_None_2"  url="phpUoMgVY.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5976_img_0_1"/>
+              July 24th. 1916    Dear Mr. Maeterlinck   <hi rend="underline">Belgian Red Cross</hi><hi rend="underline"></hi>  I am advised by the Irish War Hospital Supply <seg type="del">d</seg><lb/>Depot that they are sending a further bale (number 2432) of<lb/>Hospital requisites for the above Fund.  Will you please<lb/>let me know when this comes to hand.   Yours sincerely,    M. Maeterlinck Esq.,<lb/>Belgian Red Cross,<lb/>48 Grosvenor Gardens,<lb/>London, S. W.1  
+            <pb n="2" facs="L1916_5976_img_0_2"/>
+             WHEN ACKNOWLEDGING<lb/>PLEASE QUOTE BALE NUMBER  <hi rend="underline">2432</hi>  <hi rend="underline">IRISH WAR HOSPITAL SUPPLY DEPOT</hi><lb/> 40, Morrion Square, DUBLIN    22.7.18   RECEIVED<lb/>23 JUL 1918  <hi rend="underline">Surgical Supplies</hi>                                                                                  <hi rend="underline">Remarks</hi>  Bandages Roller Blay                                                                            20 Pr Socks<lb/>                          Muslin                                                                        4 Helpless Case Shirts<lb/>                          Flanneletta                                                                 3 Pr.nPyjamas<lb/>         Many Tail Chest                                                                            1 Night Shirt<lb/>                          Abdominal                                                                     5 Hot Bottle Covers<lb/>                          Limb                                                                              12 Pillow Cases<lb/>                          Small                                                                              6 Bedjkts<lb/>                          Shoulder<lb/>                          Stump Arm<lb/>                                    Thigh<lb/>                           Hip<lb/>          Capeline<lb/>          Eye Knitted            <lb/><lb/><lb/><lb/>                                             <lb/><lb/>                          Flanneletta    
+         </ab>
+      </body>
+   </text>
+</TEI>

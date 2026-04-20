@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0535">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward Murray to Davidson, 13 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward James Murray</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Edward Murray (b. 1865), the proprietor of a chemical works in Dublin, to Davidson. In this letter Murray expresses his sympathies over injuries sustained by Davidson’s after being shot. Murray further informs Davidson that he had intended to forward a Christmas parcel to the Front for Davidson but he will now direct it to the hospital in England instead.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, IE/AL/1915/25</collection>
+                  <idno>https://letters1916.ie/item/535</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1232">Edward James Murray</persName>
+              <date>1915-12-13</date>
+              <placeName key="#letters1916_place-0368">Dundrum House, Dundrum, County Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mr Davidson</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0548">England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0535_img_1913_1"  type="Letter"  url="32a5453cf7de73c1e339a28a4b11ccb7.jpg"/>
+      <graphic xml:id="L1916_0535_img_1913_2"  type="Letter"  url="c7f0529f3fb17dc1ec21a352720fc118.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0535_img_1913_1"/>
+                 Dec <hi rend="underline">13 <hi rend="superscript">th</hi> 1915. </hi>    DUNDRUM HOUSE  DUNDRUM  CO. DUBLIN.  <lb/>TELEPHONE, <lb/> NO 12 'DUNDRUM'   Dear Davidson     I received your letter on <lb/> Saturday and was very <lb/> sorry to hear you had been <lb/> wounded; all the same it <lb/> might easily have been worse <lb/> and it is a mercy you are <lb/> where you are.   I wrote to my brother the day <lb/> after you were here and I <lb/> have an answer. He said <lb/> he did not know you but <lb/> that he would make it his  
+            <pb n="2" facs="L1916_0535_img_1913_2"/>
+              business to find you out <lb/> and it is rather a pity you <lb/> were hit just now because <lb/> the colonel might have been <lb/> able to do something for <lb/> you. However you are <lb/> very fortunate to be in England <lb/> and I hope you will let me <lb/> know when you get to Dundrum.    I had arranged to forward <lb/> a Christmas parcel to the <lb/> Front but your letter stopped <lb/> that, so I posted aforementioned to <lb/> the hospital today. Let me hear <lb/> how you get on. <seg type="closer"> Yours truly   Edward Murray. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

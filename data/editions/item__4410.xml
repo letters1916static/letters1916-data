@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4410">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Humphrey Pearson to Robert Chalmers, 21 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Humphrey Haines Pearson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Humphrey Pearson to Sir Robert Chalmers regarding the payment of expenses to the witness in a court case.  The witness does not feel that the expenses sufficiently cover the inconvenience and the out of pocket expenses that their attendance at court caused.
+
+In 1916 Humphrey Haines Pearson was serving as rector in St. Multose Church, Kinsale, Co. Cork.
+   
+Sir Robert Chalmers (1858-1938) was appointed under-secretary of Ireland in 1916, replacing Sir Matthew Nathan (1862-1939) in the aftermath of the Easter Rising.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-10511</collection>
+                  <idno>https://letters1916.ie/item/4410</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0686">Humphrey Haines Pearson</persName>
+              <date>1916-06-21</date>
+              <placeName key="#letters1916_place-0106">Kinsale, Co. Cork, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0268">Dublin Castle, Dublin, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4410_img_3762_1"  type="Letter"  url="3050a149b9797ed435ae2f45c92232ed.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4410_img_3762_1"/>
+             June 21st 1916   To The Under Secretary for Ireland <lb/>Dublin Castle <lb/>Knight &amp; Atkinson <lb/><hi rend="underline">Dublin Commission</hi>   Dear Sir   I have this day received an order <lb/>for £12.10.0 expenses as witness in   case.   I have to say that I feel the Treasure Scale <lb/>does not at all compensate me for the great <lb/>inconvenience &amp; expense I was put to in <lb/>attending twice within a fortnight in Dublin <lb/>first at the Police Court &amp; then at Green St.   I had to travel on each occasion nearly <lb/>400 miles &amp; to make provision for duty in <lb/>this important parish, on the last occasion <lb/>I had to provide a substitute for Sunday duty <lb/>£2.12.6 including <seg type="unclear">Ring</seg> family.   I trust that you will see your way to give <lb/>my case special consideration &amp; to make a <lb/>grant that will cover this out of pocket expense <lb/>&amp; the great inconvenience I was put to. I may say <lb/>I put another <seg type="unclear">day</seg> &amp;    on the 25 April when I <lb/>attempted to go up on first occasion to Police Court.   Faithfully Yours <lb/>H.W. Pearson 
+         </ab>
+      </body>
+   </text>
+</TEI>

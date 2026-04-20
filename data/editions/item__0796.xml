@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0796">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Wilfrid Spender to his wife Lady Lillian Spender, 13 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Bliss Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Sir Wilfrid Bliss Spender (1876-1960) to his wife, Lady Lillian Spender, née Dean, (1880-1968). In this incomplete letter, Spender briefly discusses a mutual friend &#39;Ivy&#39;, despairs at the slow speed at which his work is progressing, and tells Lillian there is no hope that she will be allowed to join him at Headquarters, given the complete lack of women there currently. He discusses the wildlife in his locality and alludes to a possible future trip the couple will make to Japan. Spender also confesses that he has not written a letter to &#39;his folks&#39; in a long time, as they are &#39;so difficult sometimes&#39; to write to.Sir Wilfrid Spender was a member of the British Army until 1913 when controversy surrounding his signature of the Ulster Solemn League and Covenant resulted in his resignation. Spender was called up for military service in 1914 and from 1915 served in the 36th (Ulster) Division. Throughout the war, Spender wrote a collection of letters to his wife Lady Lillian Spender. The letters date mainly from 1915 to 1918, when Sir Wilfrid was serving in France. The letters concern politics, the Irish question, personal life, and Wilfrid&#39;s experience of the Great War. Lady Lillian served in the Ulster Volunteer Nursing Corps during the war, and was an organiser of the Ulster Division Comforts Fund.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Lady Spender&#39;s Correspondence, D1633/1/1/385</collection>
+                  <idno>https://letters1916.ie/item/796</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0931">Wilfrid Bliss Spender</persName>
+              <date>1916-08-13</date>
+              <placeName key="#letters1916_place-0769">France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lillian Spender</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0796_img_2337_1"  type="NULL"  url="39d3e01436f92df1d5ade7c116608a6e.jpg"/>
+      <graphic xml:id="L1916_0796_img_2337_2"  type="NULL"  url="6879de89392931ba784100777a84396b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0796_img_2337_1"/>
+                Aug 13.   My p r   Such long letters lately &amp; I can't <lb/> grumble at the 7.30 AM pr if she is <lb/> really good the other end. I am delighted <lb/> about Ivy going to the Carsons. It will <lb/> make a very pleasant change for her &amp; <lb/> encourage her to come &amp; help the pr. <lb/> I hope she will think that a junior <lb/> sister, though of course usually a <lb/> nuisance, is not quite without her <lb/>uses sometimes.  Yesterday I was rather in despair <lb/> I only succeeded in writing  up  2 days operations <lb/> at which rate I should be another 6  
+            <pb n="2" facs="L1916_0796_img_2337_2"/>
+              weeks on my dispatch which <seg type="del">began</seg> dates <lb/><seg type="del">May 9th </seg> from May . However today is <lb/> cooler and I have a done a week already <lb/> and if I can do another 3 days by this <lb/> evening begin to see daylight, 10 hours <lb/><seg type="del">on</seg> hard work with only one and a half <lb/> pages to show for it was rather a <lb/> buster! I have been trying to see <lb/> the CGS today in order to get his <lb/> approval in general terms to the line <lb/> I am taking because it would be a <lb/> bad business if it is altogether <lb/> wrong.  No there is not a vestige of an <lb/> English lady not even Lady D H or K <lb/> has put in an appearance tho' they may <lb/> occasionally do so at the back GHQ, <lb/> so there is no hope for a poor <seg type="unclear">if</seg>   
+         </ab>
+      </body>
+   </text>
+</TEI>

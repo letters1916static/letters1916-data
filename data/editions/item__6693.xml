@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6693">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fr. Michael O'Flanagan to Bishop Bernard Coyne, 21 April 1917</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Fr Michael O&#39;Flanagan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Fr Michael O&#39;Flanagan (1876-1942) was a Catholic priest and republican activist. O&#39;Flanagan is here acknowledging a letter of 20 April, but denies that he attended a public meeting.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>O&#39;Flanagan Private Collection</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/6693</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0313">Fr Michael O&#39;Flanagan</persName>
+              <date>1917-04-21</date>
+              <placeName key="#letters1916_place-1026">Crosna, Boyle, Co. Roscommon</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0228">Bishop Bernard Coyne</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1942</item>
+               <item n="topic">Politics</item>
+               <item n="topic">The Rising Tide (1917-1919)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6693_img_None_1"  url="phpWeGRUu.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6693_img_0_1"/>
+              Crosna<lb/>Boyle    April 21 1917    My Lord,   I have received your letter of 20 inst. asking me<lb/>if it be a fact, as reported inthe Dublin Press, that I<lb/>attended a public meeting in Dublin on the previous day.<lb/>If your Lordship will be so good as to have another look<lb/>at the press reports, you will see that the assembly referred<lb/>to was not a public meeting, and hence was not covered by<lb/>your instructions of the 18. ult.<lb/> I am, My Lord,<lb/>Your obedient servant,     
+         </ab>
+      </body>
+   </text>
+</TEI>

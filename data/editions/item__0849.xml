@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0849">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard to Lily O'Brennan, 5 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Postcard addressed to the home of Éamonn Ceannt (1881-1916), at 2 Dolphin&#39;s Terrace, Dolphin&#39;s Barn, Dublin. The letter is unsigned. It is addressed to a Miss O&#39;Brennan, likely to be Miss Lily O&#39;Brennan (1878-1948), Ceannt&#39;s sister in law. This postcard discusses the distribution of a certificate related to Cumann na mBan business.Eamonn Ceannt was one of the leaders of the Easter Rising and a signatory of the Proclamation of the Irish Republic. During the Rising he commanded the garrison in the South Dublin Union. Following the surrender he was tried by court-martial and sentenced to death. He was executed on 8 May 1916. Aine Ceannt (1880-1954), a leading member of Cumann na mBan since 1914, fully supported her husband&#39;s separatist activities. She would later become active in the running of the Volunteer Dependants&#39; Fund, the Dáil courts, Sinn Féin, the Irish White Cross, and the Children&#39;s Relief Association. Áine&#39;s sister, Miss Lily O&#39;Brennan, lived with the Ceannts in Dolphin&#39;s Barn, throughout their married life. She was also a founding member of Cumann na mBan.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, Ceannt Collection, IE/AL/CC/1/31</collection>
+                  <idno>https://letters1916.ie/item/849</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-04-05</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lily O&#39;Brennan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1650">2 Dolphin's Terrace, Dolphin's Barn, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0849_img_2409_1"  type="Letter"  url="1095db964365c5ece961b2a29bc065d1.jpg"/>
+      <graphic xml:id="L1916_0849_img_2409_2"  type="Letter"  url="2f389568362a0ba528422d9f48d9337a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0849_img_2409_1"/>
+                 Miss C Brennan  2 Dolphin Ter.  Dolphins Barn  Dublin     
+            <pb n="2" facs="L1916_0849_img_2409_2"/>
+                 <hi rend="underline">5/4/16</hi>   <hi rend="underline">Cnamb</hi>   The certificate will be distributed <lb/> at 25. on Friday next. I trust <lb/> you will find it convenient to attend.   
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6677">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward Denison Ross to WB Yeats, 18 April 1917</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward Denison Ross</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Harry Ransom Center, The University of Texas at Austin</repository>
+                  <collection>William Butler Yeats Collection; II. Correspondence, 1891-1938, Outgoing. Box 8. Folder: Unidentified - Z (8.3)</collection>
+                  <idno>https://letters1916.ie/item/6677</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0866">Edward Denison Ross</persName>
+              <date>1917-04-18</date>
+              <placeName key="#letters1916_place-0289">School of Oriental Studies, Finnsbury Circle, London, E.C., England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1561">W.B. Yeats</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1940</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6677_img_None_1"  url="phpEqSWE8.jpeg"/>
+      <graphic xml:id="L1916_6677_img_None_2"  url="phprbPdea.jpeg"/>
+      <graphic xml:id="L1916_6677_img_None_3"  url="php2ry0Nb.jpeg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6677_img_0_1"/>
+              School of Oriental Studies, London Institution   Telephone:<lb/>LONDON WALL, 6792                    FINSBURY CIRCUS, E.C.    18.4.17    Dear Mr Yeats   The little photo<lb/>sent of wilson (which<lb/>I now return with<lb/>his letter) is very like<lb/>Chinese and could<lb/>be interpreted to mean<lb/>5 to 7 o'clock (that is<lb/>the 10<hi rend="superscript">th  </hi>of the 12 Chinese hours)<lb/><lb/>        
+            <pb n="2" facs="L1916_6677_img_0_2"/>
+             on the 13<hi rend="superscript">th </hi>day<lb/>The 13 - = + is<lb/>not written as it would<lb/>be in chinese, and it<lb/>may be 30<hi rend="superscript">th </hi>day.  is quite correct though<lb/><seg type="unclear">archsix </seg>in style as is also<lb/>(a day) 
+            <pb n="3" facs="L1916_6677_img_0_3"/>
+             Dulac will have told you<lb/>of a card test we thought<lb/>of if photography.  Thank you for the address  <seg type="unclear">q miss </seg><lb/><lb/> Yours sincerely<lb/>E Denison Ross  
+         </ab>
+      </body>
+   </text>
+</TEI>

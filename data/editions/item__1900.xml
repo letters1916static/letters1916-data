@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1900">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William M. Nolan to Robert Chalmers, 2 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William M. Nolan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from William M. Nolan (1855-1941), town clerk for Limerick, to Robert Chalmers (1858-1938), the under-secretary for Ireland. Chalmers obtained the position for a brief period following the resignation of Matthew Nathan (1862-1939), due to his administration&#39;s failure to anticipate and react to the 1916 Rising. The letter regards the superannuation allowance to  Patrick Reidy, a former labourer for the local gas works. The letter states that Reidy was awarded £67:3:4 annually. It goes on to state that his excellency of the council should be informed of this. The letter also discusses and enclosure of a medical, which has since been lost.  </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/5612/9459</collection>
+                  <idno>https://letters1916.ie/item/1900</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1399">William M. Nolan</persName>
+              <date>1916-06-02</date>
+              <placeName key="#letters1916_place-0556">Limerick, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers </persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1941</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1900_img_1351_1"  type="Letter"  url="d7e8f44f506b538891f08dd2dbf8b6ad.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1900_img_1351_1"/>
+             TOWN CLERK'S OFFICE, <lb/> TOWN HALL. <lb/>Limerick   2nd June 1916 . <seg type="del">1912</seg> <lb/>5711  Sir,   Referring to my letter to you of 7th April last, on the subject <lb/>of the superannuation allowance to Mr P. Reidy, late foreman at the <lb/>Gas Works, and forwarding you copy of the resolution adopted by the <lb/>County Borough Council on the 6th April agreeing to grant him an <lb/>allowance of £67:3:4 a year. I beg to inform you that, at the meeting <lb/>of the Council, held last evening, (which was the next meeting held <lb/>since the said 6th April ) the said resolution was unanimously <lb/>confirmed pursuant to the Local Officers Superannuation Act, 1869, <lb/>and I was directed to intimate said confirmation to you, so that you <lb/>may inform His Excellency of the Council's decision and obtain <lb/>His sanction to the Superannuation Allowance being paid to Mr Reidy.   I am, <lb/>Sir, <lb/>Your Obedient Servant,   W. M. Nolan  <lb/>Town Clerk.  P. S. In addition to the Medical Certificate, already sent you, I am <lb/>desired to enclose the first Certificate, dated July 1915, <lb/>furnished by Dr O' Sullivan.   The Under Secretary, <lb/>Dublin Castle. 
+         </ab>
+      </body>
+   </text>
+</TEI>

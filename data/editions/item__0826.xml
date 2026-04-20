@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0826">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Roger Casement to Robert Monteith, 11 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Roger Casement</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was sent by Sir Roger Casement to Robert Monteith in which he informs Monteith that he will not be able to attend this evening as he has no clean clothes. He then expresses hope that news will come soon.Roger Casement (1864-1916), an Irish nationalist who spent the months preceding the Easter Rising in Germany trying to induce captured Irish prisoners of war to join an ‘Irish brigade’ which would support the central powers by liberating Ireland. However, when it was clear that the Rising would not have sufficient assistance to make it a success Casement returned to Ireland on a German submarine in an attempt to dissuade the Rising&#39;s leaders from going ahead. Casement was captured before he could do so and after the Rising he was sentenced to death for treason. Casement was hanged on 3 August 1916. Robert Monteith (1879-1956) was a founding member of the Irish Volunteers. In 1915 he was selected by Thomas Clarke (1858–1916), a veteran of revolutionary politics, to accompany Sir Roger Casement to Germany to assist with the recruitment of an &#39;Irish Brigade&#39;.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, IE/AL/RM/1/7</collection>
+                  <idno>https://letters1916.ie/item/826</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1253">Roger Casement</persName>
+              <date>1916-01-11</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0377">Robert Monteith</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0826_img_2377_1"  type="Letter"  url="58a3680b6393706e665d8c3ec088fd41.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0826_img_2377_1"/>
+               Dear Captain Monteith,   I am not going tonight. <lb/> My clothes have not come from the <lb/> wash as they promised - and I<lb/> have not a clean shirt. I will<lb/> let you know in the morningâ<lb/> I hope news may come tomorrow. <lb/> I will let you know at once. <seg type="closer"> Yours sincerely,  Roger Casement .<lb/>  Jan 11. <hi rend="underline">1916</hi>  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

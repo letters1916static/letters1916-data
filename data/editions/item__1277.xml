@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1277">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William Pearse to The O'Rahilly, 21 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William Pearse</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A mobilisation order from William Pearse (1881-1916) to Michael Joseph O&#39;Rahilly (&#39;The O&#39;Rahilly&#39;) (1875-1916). Attached is an account of the O&#39;Rahilly&#39;s last moments, detailing his charge down Moore street and the writing of his last note. William Pearse was the brother of Patrick Pearse and fought under him in the GPO during the Easter Rising. He held the rank of captain and served on occasion as acting chief of staff but in reality had no power. Despite this, he pleaded guilty at his court martial and was executed on 4 May. Michael Joseph O&#39;Rahilly was involved in the procurement of arms in the lead-up to the Rising and was involved in the Howth gun-running incident. He fought in the G.P.O. During the Rising and was shot in Parnell/Moore Street on 28 April 1916 and died some time later.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Ms. 13,019, Ms. 13,019</collection>
+                  <idno>https://letters1916.ie/item/1277</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0853">William Pearse</persName>
+              <date>1916-04-21</date>
+              <placeName key="#letters1916_place-1271">2 Dawson Street, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0015">Michael Joseph O&#39;Rahilly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1090">40 Herbert Park, Ballsbridge</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1277_img_479_1"  type="Letter"  url="508ef9744132db8cf4df0446f8c4bc43.jpg"/>
+      <graphic xml:id="L1916_1277_img_479_2"  type="Enclosure"  url="ebebd9a674f5e4e2f5e8e2fb33bba617.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1277_img_479_1"/>
+                Staff No. 3 <hi rend="underline">IRISH VOLUNTEERS</hi>  Headquarters:-  2, Dawson Street, Dublin.    21 <hi rend="superscript">st</hi> April, 1916.     To:-  Comdt. The O'Rahilly  40 Herbert Park Ballsbridge    Sent at 5p.m    <hi rend="underline">DUBLIN BRIGADE : EASTER MANOEUVRES, 1916</hi>   You will report yourself to me at temporary Headquarters, <lb/> Beresford Place, at the hour of 4 p.m. on <lb/> Sunday next, 23 <hi rend="superscript">rd</hi> inst., (Easter Sunday) and hold yourself <lb/> in readiness to act on the Staff of Commandant P.H.Pearse, <lb/> Acting G.O.C. Dublin Brigade, during the Easter Manoeuvres.   You will provide yourself with a bicycle, a Street <lb/> map of Dublin City, a road map of Dublin District, and <lb/> a field message book. You will carry full arms and <lb/> ammunition, full service equipment (including overcoat) <lb/> and rations for eight hours.    You will acknowledge receipt of this order by <lb/> returning, by hand, to me at St. Enda's College, Rathfarnham, <lb/> the annexed form duly filled in and signed.  <seg type="closer"> William Pearse <lb/>Captain <lb/>Acting Chief of Staff </seg> 
+            <pb n="2" facs="L1916_1277_img_479_2"/>
+              (The above interesting orders which were typewritten, were <lb/> found on the body of the O'Rahilly, one of the rebel Commandants <lb/> who was shot by the 2/6 Sherwood Foresters as he was leading a charge <lb/> on one of their barricades in Moor Street near the Post Officer. Upon <lb/><sic>hom</sic>also was a letter written to his wife after he was wounded in which <lb/> he said he was shot leading a charge. He got into an entry on the <lb/> side of the street and later endeavoured to crawl to an opening on the <lb/> other side. He was wounded again and before he died he wrote in a <lb/> firm hand a pencilled note to his wife and children.)   
+         </ab>
+      </body>
+   </text>
+</TEI>

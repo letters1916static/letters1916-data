@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0219">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from P. C. McCarthy to Herbert Henry Asquith, 13 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>P. C. McCarthy</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from P.C. McCarthy to the desk of British Prime Minister Herbert Henry Asquith (1852–1928). McCarthy writes to notify Asquith that several male teachers who are set to retire soon wish to continue to work during the war so that those fit and able young men that are set to replace them are free to serve in the army.Herbert Henry Asquith was Liberal Prime Minister of the United Kingdom from 1908 to 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/8441</collection>
+                  <idno>https://letters1916.ie/item/219</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0832">P. C. McCarthy</persName>
+              <date>1916-05-13</date>
+              <placeName key="#letters1916_place-0596">Gallowshill, Leap, Skibbereen, Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0582">Herbert Henry Asquith</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0365">10 Downing Street, Whitehall, S.W., London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0219_img_1373_1"  type="Letter"  url="cd7dcbfb7a8d71e60bb01566b4dd491e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0219_img_1373_1"/>
+              <hi rend="underline">PRIVATE</hi>  <seg type="unclear">Irish office</seg>    Gallowshill,  Leap,  Skibereen, Co. Cork,    May 13th 1916   Right <seg type="unclear">Hon.</seg> Sir,   Having been creditably informed that several <lb/>of the men National Teachers in Ireland who have <lb/>attained the age of 65 years, and reports of their <lb/>teaching in their schools have been either <hi rend="underline">fair</hi> or <lb/><hi rend="underline">satisfactory</hi> for <hi rend="underline"> some years past, </hi>are now under <hi rend="underline">notice <lb/>from the Board of National Education to retire <lb/>on full pension the 30th of next June.</hi>  Several of these teachers,<hi rend="underline"> still capable of <lb/>discharging their duties as National Teachers, <lb/>are quite willing to continue teaching</hi> in their <lb/>schools during the <hi rend="underline"> continuance of the present war</hi><lb/>with the view of <hi rend="underline">economising</hi> for the <hi rend="underline">Treasury</hi>  I hope you will have this reasonable <lb/>matter considered at once by the Lords of His <lb/>Majesty's Treasury and that they will at once <lb/>cause the Board of National Education to <lb/><hi rend="underline">withdraw the notice of retirement</hi> on such <lb/>teachers. Certainly the <hi rend="underline">young teachers intended <lb/> to succeed them are of military age.</hi>  Sincerely hoping that our English Army <lb/>and their Allies will ere long be victorious. <seg type="closer"> I remain, Rt. Hon. Sir, <lb/>Your humble &amp; most obdt. Servant,  P.C. McCarthy. </seg> P.S. Young teachers coming from Training Colleges <lb/>towards the end of next June, of military age, <lb/>might be considered for voluntary enlistment. <lb/> P. G. M.C.  <hi rend="underline">To</hi>  Rt. Hon. H.H. Asquith K.C. M.P.   Prime Minister of England %C.   10 Downing Street,   Whitehall S.W.  London.    Referred to <lb/>The Secretaries, <seg type="unclear">Commis.</seg>of N.E <lb/>For favor of report <lb/>I.J. Taylor <lb/>18. V-16  
+         </ab>
+      </body>
+   </text>
+</TEI>

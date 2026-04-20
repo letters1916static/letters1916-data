@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5085">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Denis Mahony to Ellen Daly, [1923]</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Denis Mahony</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Kerry County Archives</repository>
+                  <collection>Charlie Daly Collection, P41/4/6/2</collection>
+                  <idno>https://letters1916.ie/item/5085</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0669">Denis Mahony</persName>
+              <date>1923--</date>
+              <placeName key="#letters1916_place-2109">Tintown Camp, The Curragh, Kildare, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Ellen Daly </persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Civil War (1922-1923)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5085_img_None_1"  url="a54f6d84063ac79dfd9f06b14c212c6e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5085_img_0_1"/>
+              P41/4/6/2    Prisoner 311<lb/>Hut 1<lb/>No. 2 Tintown Camp<lb/>The Curragh    Dear Mrs Daly,   I tender you my heartfelt sympathy<lb/>in the sore trial you have to bear through<lb/>poor Charlie's (R.I.P) untimely end  But no doubt its a consolation the fact<lb/>of he having received the rites of The Church<lb/>as he went to meet his God.  As this Camp is next to the one Bill is in<lb/>I happened to have a few passing words with<lb/>him to day. He told me let you know<lb/>he is alright and well under the circumstances<lb/>and not to have you worry over he having<lb/>not written, as at present all letters and<lb/>parcels have been stopped in his camp.  Again I can assure you Mrs Daly I<lb/>cannot express in words how I feel for<lb/>you in your trouble.   I remain<lb/>Yours in sympathy    Denis Mahony 311    If you have anything<lb/>to say to Bill<lb/>write to me<lb/> DM         
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1467">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Hugh A. Law to Miss Griffin, 31 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Hugh A. Law</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Hugh Law (1872-1943) to a Miss Griffin. Law is responding to a letter written by a Miss Griffin on behalf of Desmond Fitzgerald (1888-1947). Mr. Law agrees that Fitzgerald&#39;s sentence is very severe but that there is very little chance of getting sentences revised yet. He does think that later it should be possible to do something - at least for those who hadn&#39;t taken an active part. He will discuss it with his colleagues in London next month. He concludes by mentioning that all of his children are well, including his son who has spent nearly a year on the French front.Hugh Law was an Irish nationalist MP representing County Donegal in the British House of Commons from 1902 to 1918, and subsequently served as a TD in Dáil Éireann. Desmond Fitzgerald had served in the GPO during the Easter Rising, being placed in charge of the garrison&#39;s food supply. He initially escaped arrest after the Rising but was soon rounded up and imprisoned in Mountjoy, Dartmoor, Maidstone, Lewes and Portland.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Fitzgerald Papers, P80/1595/1</collection>
+                  <idno>https://letters1916.ie/item/1467</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0810">Hugh A. Law</persName>
+              <date>1916-05-31</date>
+              <placeName key="#letters1916_place-1234">Ballymore, Co. Donegal, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Miss Griffin</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1467_img_917_1"  type="Letter"  url="e97478525af37a3f636cb9c158f6e35a.jpg"/>
+      <graphic xml:id="L1916_1467_img_917_2"  type="Letter"  url="a5384a85d301ee18f53d640e72f93fd8.jpg"/>
+      <graphic xml:id="L1916_1467_img_917_3"  type="Letter"  url="7e31516357db47e8c950f5e463e10714.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1467_img_917_1"/>
+                <seg type="unclear">Marchhouse</seg>  Ballymore  Co.Donegal    <hi rend="underline">31 May 1916.</hi>   Dear Miss Griffin   I have had the <lb/> statement you sent me with <lb/> regard to Mr.Desmond Fitzgerald.   The sentence in his case <lb/> certainly seems to be very severe. <lb/> I am afraid there is not <lb/> much chance of getting such <lb/> sentences revised just at present  
+            <pb n="2" facs="L1916_1467_img_917_2"/>
+              while Martial Law is still in <lb/> force &amp; feeling is still naturally <lb/> strong against the rebels.   But a little later on <lb/> we may be able to do something <lb/> at any rate on behalf of those <lb/> who did not take an active <lb/> part in the insurrection.   Anyway I'll keep the matter <lb/> in mind &amp; consult with my <lb/> colleagues on my return to London <lb/> early next month (June).   <seg type="del">My then</seg><seg type="unclear"> Mrs </seg>.Law  
+            <pb n="3" facs="L1916_1467_img_917_3"/>
+              desires to be remembered to you.   All the children as well, <lb/> including our boy who has been <lb/> at the French front for nearly a <lb/> year with the Irish Guards.  <seg type="closer"> Very sincerely yours  <hi rend="underline">Hugh A.Law</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

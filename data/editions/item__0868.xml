@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0868">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Edward O'Farrell to John Bernard Connolly, 20 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Edward O&#39;Farrell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from the Assistant Under Secretary of Ireland, Edward O&#39;Farrell (1857-1926), to Drogheda Town Clerk, John Connolly (1878-1919) in response to a previous inquiry from Connolly regarding Article 31 of the Schedule to the Local Government (Application of Enactments) Order, 1898. The inquiry concerned an increase in the number of members on the council. According to O&#39;Farrell Connolly should seek an appropriate answer from the town&#39;s legal advisors.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5618/12108/2</collection>
+                  <idno>https://letters1916.ie/item/868</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date>1916-07-20T00:00:00</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0376">John Bernard Connolly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1287">Drogheda, Co. Louth, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0868_img_2430_1"  type="Letter"  url="fa24c05341d607022792ed512f2e58cf.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0868_img_2430_1"/>
+              12108    20th July 1916.   Sir,   In reply to you letter of the 14th <lb/>instant, I am directed by the Lords Justices <lb/>to acquaint you that the Drogheda Borough <lb/>Council should be guided in the matter <lb/>to which you refer by their own legal advisers. <seg type="closer"> I am, <lb/>Sir, <lb/>Your obedient Servant,  <hi rend="underline">E.O'Farrell</hi>   The Town Clerk,  Drogheda,  Co. Louth  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

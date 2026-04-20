@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0741">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Annie Schilling to the Office of the Irish Council, 3 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Annie Schilling</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Annie Schilling to the Office of the Irish Council. This letter is concerned with tracing the whereabouts of one Charles Kavanagh from Keady, county Armagh. In the letter it is stated that Annie Schilling does not wish Charles Kavanagh to know that she has been trying to find out about him.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered papers, CSO-RP-1916-5615-11237</collection>
+                  <idno>https://letters1916.ie/item/741</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1535">Annie Schilling</persName>
+              <date>1916-07-03</date>
+              <placeName key="#letters1916_place-1785">263 West 20th Street, New York City, New York, USA</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0741_img_2254_1"  type="Letter"  url="e020c8acbfc8637469733e2e72e8f9ff.jpg"/>
+      <graphic xml:id="L1916_0741_img_2254_2"  type="Letter"  url="cdff010d8d694ebcb5a1089a2724f978.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0741_img_2254_1"/>
+                3 - V11 - 16    263 West 20<hi rend="superscript">th</hi> St  New York City U S A    To the Office of The  Irish Council  Ireland   Dear Sir   Will you please let me<lb/> know if Charles Kavanagh<lb/> of Keady Co. Armagh is still<lb/> living also country residence<lb/><seg type="unclear"> Athrugurgin</seg> and Armagh as<lb/> I don't hear anything from him<lb/> I have to use this means to find<lb/> out about him he is very <hi rend="underline">old</hi><lb/> and if his is still living I don't<lb/> wish him to know that I am<lb/> trying to find out anything  
+            <pb n="2" facs="L1916_0741_img_2254_2"/>
+              about him also Please send me<lb/> his <sic>Counsals</sic> name and address<lb/> as I would like very much<lb/> to have it hoping this will<lb/> be agreeable to you and that<lb/> you will let me hear from<lb/> you at your earliest convenience<lb/> <seg type="closer"> I remain very<lb/> respectfully<lb/>  Mrs Annie Schilling   263 West 20<hi rend="superscript">th</hi> St New York  City  U S A  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

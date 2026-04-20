@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2731">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James Tate to his mother, Millicent Tate (née Farren), 24 September, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James Tate </author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a short letter from James Tate to his mother assuring her that well and asks after baby and daddy. He cannot write for long as he has a small job to do. 
+
+Alec C Tate served with the British army in India before he married Millicent Farren and started a family in Whiteabbey, Co. Antrim. Their sons, James and William continued the military tradition and enlisted with the British army with James serving as a Second Lieutenant with the Indian Expeditionary Force. James spent the majority of the war in India during which time the Indian Expeditionary Force was dispatched to Mesopotamia. This letter is part of a collection that he wrote to his parents detailing his movements and his day to day experience.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Tate Papers, D2859/2/16</collection>
+                  <idno>https://letters1916.ie/item/2731</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0064">James Tate </persName>
+              <date>1916-09-24</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Millicent Tate</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0782">2 Glenlua, Ballycastle, Co. Antrim, Ireland. </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2731_img_2151_1"  type="Letter"  url="5cf7bffe840bd067f4b9e6deacf98bd6.jpg"/>
+      <graphic xml:id="L1916_2731_img_2151_2"  type="Letter"  url="79923048367500e6ce5cf9559e530eca.jpg"/>
+      <graphic xml:id="L1916_2731_img_2151_3"  type="Envelope"  url="0daf809af1c20fc2d392cfeff5297f4b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2731_img_2151_1"/>
+             I.E.F.D   24/9/16   My Dear Mother   Don't get alarmed at the red cross. <lb/>I have only pinched this sheet from <lb/>our doctor &amp; am very well.    The boat is waiting for me. I am <lb/>going down river to do a small <lb/>job so have no more time. It is  only laying out a rest camp.  <lb/>I hope Baby is keeping well &amp; that <lb/>Daddy is <sic>allright</sic> again.   Love to all <lb/>From your loving son   Jimmy 
+            <pb n="2" facs="L1916_2731_img_2151_2"/>
+            <!-- envelope -->
+            <pb n="3" facs="L1916_2731_img_2151_3"/>
+             On Active Service   Mrs A.C. Tate <seg type="foreign">Slieve -na - Failthe</seg> <lb/>Whiteabbey <lb/>Co Antrim <lb/>Ireland   Tate 2<hi rend="superscript">nd</hi> lt APO 
+         </ab>
+      </body>
+   </text>
+</TEI>

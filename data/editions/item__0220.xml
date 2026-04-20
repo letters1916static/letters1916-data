@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0220">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Thomas Little Heath to Robert Chalmers, 19 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Little Heath</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Sir Thomas Little Heath (1861-1940), the secretary of the treasury, to the Under-Secretary Sir Robert Chalmers (1858–1938). The letter discusses the payment of the London and North Western Railway Company for the expense of seven party members that traveled with Augustine Birrell. The charge came to £15. 12s. 6d and Heath is directing Chalmers to the Foreign Office. After the Easter rising of 1916 Chalmers was sent to Ireland as under-secretary, replacing Sir Matthew Nathan (1862-1939) who had resigned along with Augustine Birrell (1850-1933), his chief secretary. Heath was a British civil servant, mathematician, classical scholar, historian of ancient Greek mathematics, translator, and mountaineer.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/8610</collection>
+                  <idno>https://letters1916.ie/item/220</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1472">Thomas Little Heath</persName>
+              <date>1916-05-19</date>
+              <placeName key="#letters1916_place-0658">Whitehall, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0220_img_1375_1"  type="Letter"  url="92180ea1a0b694615e8e8692507841ae.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0220_img_1375_1"/>
+              TREASURY CHAMBER <lb/>Any reply to this letter should be addressed to -    The Secretary,  Treasury,  Whitehall, London, S.W.   and the following number quoted 12672/16   19 May 1916.   Sir,   I have laid before the Lords Commissioners <lb/>of His Majesty's Treasury your letter of the 12th <lb/> instant (7924), relative to a claim for Â£15. 12s. 6d <lb/>made by the London and North Western Railway Company <lb/> in respect of the fares of seven members of the <lb/>party which accompanied Mr. Birrell to Ireland on <lb/>the 26th ultimo.  In reply I am to state that my Lords <lb/>understand that the arrangements for the journey were <lb/> made by the News Department of the Foreign Office, <lb/>which has defrayed the other expenses of the party, <lb/> and in the circumstances They would suggest that the <lb/>Railway Company's account should be transmitted to <lb/> the Foreign Office for settlement. <seg type="closer"> I am, Sir, <lb/>Your obedient Servant  T.L.Heath   The Under Secretary,  Dublin Castle  </seg> (I) Reqt <lb/>For copies of letter <lb/>of 9th inst. from <lb/>Command Pay Office <lb/> &amp; enclosure; <lb/>also of this T.L. <lb/>(II) Send copies to <lb/>F.Office <lb/>TLH <lb/>20.V.16  
+         </ab>
+      </body>
+   </text>
+</TEI>

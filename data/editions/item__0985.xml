@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0985">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to Hanna Sheehy Skeffington, 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Mabel Sarah Joynt</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from W.M. to Hanna Sheehy Skeffington regarding agencies which advertise posts mainly catering to women. According to the author it is rumoured that women of no tried capacity and little qualification are being taken on everywhere in England now. This contrasts to Ireland where there are few vacancies.Hanna Sheehy Skeffington (1877-1946), suffragette, nationalist, language teacher, was the widow of Francis Sheehy-Skeffington (who was summarily executed on 26 April 1916). She was active during the Rising, bringing food to the Volunteers in the G.P.O. and the College of Surgeons. Four days passed before she found out what had happened to her husband, Francis (1878-1916), and it wasn&#39;t until almost two weeks later that the full details of his execution emerged.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47, MS 33,604/15-7</collection>
+                  <idno>https://letters1916.ie/item/985</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1188">Mabel Sarah Joynt</persName>
+              <date>1916</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hanna Sheehy Skeffington</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0985_img_2832_1"  type="Letter"  url="5834e79f030aebb13222e160f47015dd.jpg"/>
+      <graphic xml:id="L1916_0985_img_2832_2"  type="Letter"  url="d9547e7103505d214201f60e5cb8f810.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0985_img_2832_1"/>
+                9 Dunville Av.  Rathmines    Sunday  1916    Dear Mrs. Skeffinton,   I am sorry for delay, <lb/>in answering your card. I have used <lb/>two agenciesâ   Messrs. Gabbitas, Thring, &amp; Co. 36 <lb/>Sackville St. London, W.  Messrs Truman &amp; Knightley, Ltd., <lb/>Sheffield House, 158-162 Oxford St., W.   The former advertise in the 'Irish Times,' <lb/>and generally have a monopoly of the <lb/>better paid posts. Another agency catering <lb/>I think mainly for women is  Messrs Griffiths, Powell, &amp; Smith, 34 <lb/>Bedford St., Strand.  On second thought I enclose the last issue  
+            <pb n="2" facs="L1916_0985_img_2832_2"/>
+              of the 'Journal of Education', the <lb/><sic>advts.</sic> giving a good notion of what <lb/>is doing. I hear that women even <lb/>of no tried capacity &amp; little in the way <lb/>of qualification are being taken on <lb/>everywhere in England now.  I do not want the 'J of Ed.' again.  I return copy of 'Forward' to F. <lb/>with heavy thanks, <seg type="closer"> Yours ever <lb/>In haste  <hi rend="underline">M.W.</hi> </seg> I am sorry to say that so far as I have <lb/>found, not many Irish vacancies turn up, <lb/>but it is worth trying and costs nothing <lb/>but a trifle for stamps.  
+         </ab>
+      </body>
+   </text>
+</TEI>

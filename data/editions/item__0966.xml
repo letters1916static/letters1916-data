@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0966">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to the Chief Secretary's Office from Richard Cronin, 22 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Richard Cronin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter to the Chief Secretary&#39;s office from Richard Cronin. In this letter Cronin is requesting financial compensation for expenses incurred while acting as a crown witness.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI-CSO-RP-1916-10688, NAI-CSO-RP-1916-10688</collection>
+                  <idno>https://letters1916.ie/item/966</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0350">Richard Cronin</persName>
+              <date>1916-06-22T00:00:00</date>
+              <placeName key="#letters1916_place-0312">Aldergrove, College Road, Co. Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0966_img_2796_1"  type="Letter"  url="665a11fdc2344dbd686cdb715a6278a9.jpg"/>
+      <graphic xml:id="L1916_0966_img_2796_2"  type="Letter"  url="718aa453a875d332749acaf16e2e338f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0966_img_2796_1"/>
+              Marginal note written sideways on left hand side  I Ack. <lb/>II Mr Gleeson <lb/>Crown Solicitor <lb/>to report E oF 24â6â16    Aldergrove,  College Road,  <seg type="del">Co.</seg> Cork,    June 22 &amp; 16.   Dear Sir,   I would humbly <lb/>bring under your notice the <lb/>following case: I was summoned <lb/>some months ago, as crown witness <lb/>to Clonmel. I sent Mr. Gleeson, <lb/>Crown Solicitor for that Rising my <lb/>list of expenses. He forwarded ten <lb/>shillings for hotel expenses, the police <lb/>gave railway expenses â about Â£1; <lb/>there remains beside Â£1 given to  
+            <pb n="2" facs="L1916_0966_img_2796_2"/>
+              clergyman to supply the morning <lb/>service only, also Â£2 for absence <lb/>through the whole day from <lb/>professional duties. This Â£3 has <lb/>not as yet been forwarded. <lb/>I would be grateful if you would <lb/>give the matter your kind <lb/>attention. Apologizing for <lb/>causing you trouble in the matter. <seg type="closer"> I remain, <lb/>Yours very Sincerely,  Richard Cronin </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1225">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William R. Fetherstonhaugh to Sir Matthew Nathan, 17 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>William R. Fetherstonhaugh</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from William Fetherstonhaugh to Sir Matthew Nathan enclosing a receipt for the six-monthly allowance paid to the Under Sheriff by the High Sheriff.William Fetherstonhaugh (b. 1871) was a land agent. The Featherstonhaugh family held estates in the midlands of Ireland, especially county Westmeath, since the seventeenth century. Sir Matthew Nathan (1862-1939) served as the under secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5596/164/9</collection>
+                  <idno>https://letters1916.ie/item/1225</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0268">William R. Fetherstonhaugh</persName>
+              <date>1915-12-17</date>
+              <placeName key="#letters1916_place-0007">Mullingar, Co. Westmeath, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1225_img_411_1"  type="Letter"  url="96d0080ea9dd9a4deec4bfccea039cf6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1225_img_411_1"/>
+                From  W. R. FETHERSTONHAUGH,  Sheriff's Office,  MULLINGAR    17<hi rend="superscript">th</hi> Dec<hi rend="superscript">b</hi> 1915.    To The Under Secretary  Dublin Castle   Sir,   In reply to your letter of <lb/>16<hi rend="superscript">th</hi> inst. I beg to enclose <lb/>your receipt to High Sherriff <lb/>for second moiety of <lb/>Salary allowed him for <lb/>Under Sherriff â <seg type="closer"> I am <lb/><sic>Yr obt</sic> servant  W.R. Fetherstonhaugh </seg> Payment <lb/>ordered <lb/>RP <lb/>21/12  
+         </ab>
+      </body>
+   </text>
+</TEI>

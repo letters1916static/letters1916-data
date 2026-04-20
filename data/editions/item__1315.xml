@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1315">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Éamonn Ceannt to Áine Ceannt, 4 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Éamonn Ceannt</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Éamonn Ceannt (1881-1916) to his wife Áine Ceannt (née Ní Bhraonáin) (1880-1954). This letter was written four days before his death. He asks his wife to give his gold watch to Mrs Burgess, wife of Cathal Brugha (Charles Burgess, 1874-1922) who had fought under Ceannt and was severely wounded. The other items and money in his possession, he writes, are Áine&#39;s to do as she sees fit.Éamonn Ceannt was one of the leaders of the Easter Rising and a signatory of the Proclamation of the Irish Republic. During the Rising he commanded the garrison in the South Dublin Union. Following the surrender he was tried by court-martial and sentenced to death. He was executed on 8 May 1916. Áine Ceannt (née Ní Bhraonáin) was born in 1880. She had an interest in Irish language and was engaged in cultural revivalist activities. In 1905 she married Eamonn Ceannt. In 1913 she attended the inaugural meeting of the Irish Volunteers and joined the Cumann na mBan, when it was formed a year later. Following the death of Eamonn Ceannt in the Rising, Áine assumed a public role as Vice-President of Cumann na mBan. She died on 2nd February 1954.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Eamonn Ceannt Papers, Collection List No. 97, Ms. 13,069/8</collection>
+                  <idno>https://letters1916.ie/item/1315</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0397">Éamonn Ceannt</persName>
+              <date>1916-05-04</date>
+              <placeName key="#letters1916_place-0863">Richmond Barracks, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Aine Ceannt</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Last letters before death</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1315_img_609_1"  type="NULL"  url="8c338e4f00423c954b00f1da796fb56f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1315_img_609_1"/>
+                Date 4/5/16    Place Richmond Barracks  To My wife, at  present at 57 Fitzwilliam Terrace  Dartry Road, Upper Rathmines    The gold watch in my poss-<lb/> ession give to Mrs Burgess.<lb/> The other things are yours to<lb/> use as you think fit and<lb/> this is to authorise the mil-<lb/> itary authorities to hand<lb/> all my things over to you.<lb/> I have Â£2 in notes and about 12/=<lb/> or 15/= in silver. Also a beads. <seg type="closer"> From   Ãamonn Ceannt </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

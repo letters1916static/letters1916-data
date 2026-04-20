@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0329">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Colonel Henry Gerard Kennard to the Under-Secretary for Ireland, 13 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Henry Gerard Kennard</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Colonel Henry Gerard Kennard (b. 1871), the commander of the Dublin garrison in 1916. The letter was addressed to the under-secretary for Ireland. This position was previously held by Sir Matthew Nathan (1862-1939). However, in May 1916 Nathan offered his resignation following the outbreak of the Easter Rising. He was soon replaced by Sir Robert Chalmers (1858-1938). In this letter Kennard informs the under-secretary that he is forwarding him the 13th list of casualties incurred in connection with the Sinn Féin insurrection.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/8286/1</collection>
+                  <idno>https://letters1916.ie/item/329</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1313">Henry Gerard Kennard</persName>
+              <date>1916-05-13</date>
+              <placeName key="#letters1916_place-0679">Lower Castle Yard, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0341">Upper Castle Yard, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0329_img_1553_1"  type="Letter"  url="cfca4ea02764cd953786e8c2199fdeff.jpg"/>
+      <graphic xml:id="L1916_0329_img_1553_2"  type="Enclosure"  url="966aed4573498d3e2a8fd94dc580ee99.jpg"/>
+      <graphic xml:id="L1916_0329_img_1553_3"  type="Enclosure"  url="646c6551d809edd3348599f01b61f5df.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0329_img_1553_1"/>
+             <seg type="head">Subject;- Sinn Fein Insurrection.<lb/> D.G.C.R No. 45/16. </seg>   The Under Secretary for Ireland,  Upper Castle Yard,  Dublin.   Sir,   I have the honor to forward herewith the 13th<lb/> list of Casualties incurred in connection with the<lb/> Sein Fein Insurrection. <seg type="closer"> I have the honor to be, <lb/> Sir, <lb/> Your obedient servant,  <hi rend="underline">H.G Kennard Colonel</hi> , <lb/> Commanding Troops, Dublin.<lb/>  Lr. Castle Yard,  Dublin.    13. 5. 1916.  </seg> 
+            <pb n="2" facs="L1916_0329_img_1553_2"/>
+               King George V. Hospital. Dublin. address  May 11th 1916.  date  paragraph  To. A.D.M.S,  paragraph  Dublin District.  paragraph  The undernoted casualties have not been previously reported to you: paragraph  Pte. Fox S.Staffs. Killed. paragraph  3370 Sibley A. 2/7 Sher.For. paragraph  2793 Barks G.W paragraph  2420 Cpl. Hoyle C.  paragraph  5605 Pte. Holbrook A. paragraph  2853 or 28537 Kitchen H.T. 2/8 paragraph  3080 OR 30807 Gross T. 2/7 paragraph  4136 Holland T. 2/8 paragraph  4809 Jepps P. 2/7  
+            <pb n="3" facs="L1916_0329_img_1553_3"/>
+              7155 A. D. M. S. D. D. <lb/> Sergeant Fletcher 6th South Staffords. ( DEAD ).<lb/> Private Barrett, 6th South Staffords ( DEAD ).   These men were buried in the grounds of the Parochial <lb/> Hall, Northumberland Road, Ballsbridge.  <seg type="unclear">Wpm, acknowledge<lb/> Lt. col. br.am.s</seg>  
+         </ab>
+      </body>
+   </text>
+</TEI>

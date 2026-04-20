@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1343">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Charles Arthur Munro to Mabel FitzGerald, 22 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Charles Arthur Munro</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Charles Munro (1869-1952) , governor of Mountjoy prison, to Mabel FitzGerald (née Washington McConnell) (1884-1958), wife of politician and intellectual Desmond FitzGerald (1888-1947). The letter is a response to queries from Mabel regarding a proposed visit to her husband during his imprisonment in Mountjoy.Mabel was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington (1878 -1916) during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week. Charles Arthur Munro was the governor of Mountjoy prison in Dublin. He is also the brother of the noted author H.H. Munro, better known through his literary pseudonym, Saki.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Desmond FitzGerald Papers, P80/1542/1</collection>
+                  <idno>https://letters1916.ie/item/1343</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0487">Charles Arthur Munro</persName>
+              <date>1916-02-02</date>
+              <placeName key="#letters1916_place-0259">H. M. Prison, Mountjoy, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0584">2 Loretto Villas, Bray, Co. Wicklow</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1343_img_681_1"  type="Letter"  url="229a91d5648f1ab032051815ebb7624a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1343_img_681_1"/>
+                From the Governor,  H.M.Prison, Mountjoy, Dublin.    2<hi rend="superscript">nd.</hi> February, 1916    To Mrs.Mabel Fitzgerald,   2 Loretto Villas,  Bray.    With reference to your letter of 1<hi rend="superscript">st.</hi> instant, I have to inform you that you <lb/> will be entitled to visit your husband on Saturday next, the 5<hi rend="superscript">th.</hi> inst., and that <lb/> the period of the visit may <sic>extendto</sic> half an hour. Your husband states he <lb/> would like to see   Einar O'Duffy, or one of his friends.  A baby in arms does not count as a visitor. If possible, it would be more <lb/> convenient for the visit to take place in the forenoon, but if Saturday is an <lb/> inconvenient  day,  I may mention that your husband states Monday would be an equally <lb/> suitable day for him  arriving . <seg type="closer"> C.T.Munro<lb/>Governor. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

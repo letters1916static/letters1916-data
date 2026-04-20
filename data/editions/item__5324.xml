@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5324">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Rupert Stanley to his colleagues, 3 March 1920</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Rupert Stanley</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Call for contributions for the purpose of commissioning an oil portrait of Captain Francis Forth to hang in the library.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Belfast College of Technology, BCT/8/2/43</collection>
+                  <idno>https://letters1916.ie/item/5324</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0525">Rupert Stanley</persName>
+              <date>1920-03-03</date>
+              <placeName key="#letters1916_place-1851">Municipal Technical Institute, Belfast, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">staff of the Municipal Technical Institute, Belfast</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1851">Municipal Technical Institute, Belfast, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5324_img_None_1"  url="d9cc1d9caf57e1e7dcdac8c3c53955db.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5324_img_0_1"/>
+             Telephone No 1168  MAJOR RUPERT STANLEY<lb/>B.A., M.I.E.E., F.I.R.E.<lb/>PRINCIPAL.   Municipal Techinical Institute<lb/>Belfast    3rd March, 1920.    Dear Sir (or Madam),   At a recent meeting of the permanent staff<lb/>of the Municipal Techincal Institute It was decided<lb/>to tale steps to perpetuate, in the Institute, the memory<lb/>of the late Principal - Capt. Fras. C. Forth.  The Memorial is to take the form of a<lb/>portrait in Oils which will be hung in the Institute<lb/>Library.  Several members of the Occasional Teaching<lb/>Staff have expressed a desire to take part in this<lb/>movement; I am therefore writing to say that all who wish<lb/>to do so may contribute to the Memorial Fund.  Contributions will be received at the General<lb/>Offie of the Institute, or they may be addressed to the<lb/>Hon. Treasurer, Professor Earls, Municipal Technical<lb/>Istitute, Belfast.   Yours faithfully,<lb/>Rupert Stanley<lb/>Principal.  
+         </ab>
+      </body>
+   </text>
+</TEI>

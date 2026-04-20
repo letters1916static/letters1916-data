@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1572">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Joseph MacDonagh to his sister Mary MacDonagh, 7 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Joseph MacDonagh</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter introduces Miss Cantwell, and seeks Muriel MacDonagh&#39;s present address. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>MS 20647 /2; Collection List 131</collection>
+                  <idno>https://letters1916.ie/item/1572</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1538">Joseph MacDonagh</persName>
+              <date>1916-05-07</date>
+              <placeName key="#letters1916_place-2071">Thurles</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mary MacDonagh</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1572_img_104_1"  type="Letter"  url="b472d0f48f475416662dd87c53ec472a.jpg"/>
+      <graphic xml:id="L1916_1572_img_104_2"  type="Letter"  url="bcf36408a676587e487435aef444a10f.jpg"/>
+      <graphic xml:id="L1916_1572_img_104_3"  type="Envelope"  url="d7e7cae66d8078f3f51af721a31f2da1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1572_img_104_1"/>
+             Thurles   7.5.16   My Dear Mary,   Miss Cantwell, the bearer <lb/>is a great friend of mine.   Give her Muriel's present <lb/> address if you know it. I presume <lb/> she is at her father's house. If you <lb/> don't know where that is, look up <lb/> a directory.   If you can, give her <lb/>dinner, as she has <seg type="del">come</seg> gone up <lb/>solely on my account.   Let me have all
+            <pb n="2" facs="L1916_1572_img_104_2"/>
+            news, you may tell Miss Cantwell <lb/> every thing. What of Jack?   I got home all right.   I am sending Father Flood's cape <lb/>back and will send the bicycle <lb/> on whatever day you can arrange to send <lb/> a boy to the 12.30 (at Kingsbridge) <lb/> train for it. Will Wednesday suit? <lb/> Arrange with Miss Cantwell.   Be strong of heart. Tom <lb/> died heroically.   As ever, <lb/>Your brother,    Joe 
+            <pb n="3" facs="L1916_1572_img_104_3"/>
+             First <lb/> Letters I got from <lb/> Joe Jim Nell <lb/> after Tom was shot <lb/>May 1916 
+         </ab>
+      </body>
+   </text>
+</TEI>

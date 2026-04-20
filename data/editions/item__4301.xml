@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4301">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from General Nevil Macready to Edward Carson, 1 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Nevil Macready</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Assistant-Adjutant General Nevil Macready (1862-1946) to  Edward Carson (1854-1935). Carson was a prominent Unionist Politician. Originally a practicing solicitor from Dublin, Carson&#39;s opposition to the proposed third Home Rule bill made him the figure head of Unionism throughout the island. He was the centerpiece of the speaking tour that culminated in Ulster Day (28 September 1912), when just under half a million signed Ulster&#39;s solemn league and covenant pledging to use ‘all means which may be found necessary to defeat the present conspiracy to set up a home rule parliament in Dublin’. Carson inaugurated the Larne gunrunning in 1914 which armed the UVF, many of whom Carson would encourage to join the British Army throughout the First World War.
+
+General Sir Cecil Frederick Nevil Macready, (1862- 1946), British Army officer, was known affectionately as Make-Ready (close to the correct pronunciation of his name). He served in senior staff appointments in the First World War and was the last British military commander in Ireland.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Carson Papers, D1507/A/16/2</collection>
+                  <idno>https://letters1916.ie/item/4301</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1136">Nevil Macready</persName>
+              <date>1916-05-01</date>
+              <placeName key="#letters1916_place-1117">War Office, S.W., London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0539">Edward Carson</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1133">House of Commons, Westminster, S.W., London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1946</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">Politics</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4301_img_3663_1"  type="Letter"  url="bb71870e7e43a1b91cb49096ed839690.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4301_img_3663_1"/>
+             Macready <seg type="unclear">Lieutenant</seg> General <lb/><seg type="unclear"><hi rend="underline">Recruiting</hi></seg>  1st May, 1916.   Dear Sir Edward Carson   As no doubt you are aware the recruiting in <lb/>Ireland has not been satisfactory, and has given the <lb/>War Office authorities a good deal of anxiety. It has <lb/>occurred to me that the present might not be an unsuitable <lb/>time to reconsider the whole question of our procedure <lb/>in that respect, and I venture to ask whether you could <lb/>see your way to attend a small conference which I thought <lb/>of holding in my office to discuss the whole question. <lb/>I propose to ask Mr. Redmond to attend, as I feel sure <lb/>that if in full possession of your and his views, it would <lb/>go a great way to help us in overcoming the difficulties <lb/>that exist.   Yours sincerely,   G N Macready.   The Rt. Hon. <lb/>Sir Edward Carson, M. P., <lb/>House of Commons, <lb/>S. W. 
+         </ab>
+      </body>
+   </text>
+</TEI>

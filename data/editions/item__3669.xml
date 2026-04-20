@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3669">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from New Scotland Yard to the Librarian, Royal College of Physicians of Ireland, 24 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>New Scotland Yard</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from New Scotland Yard informing the Royal College of Physicians of Ireland (RCPI) that an application for the certificates of conviction of Ulick Burke should be made to the magistrate clerk of West Ham Police Courts. 
+
+In 1916 the serving librarian of the RCPI was Mr Robert Phelps.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-1-58-T47-2</collection>
+                  <idno>https://letters1916.ie/item/3669</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1154">New Scotland Yard</persName>
+              <date>1915-11-24</date>
+              <placeName key="#letters1916_place-0301">New Scotland Yard, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1482">Robert Phelps</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Medicine</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3669_img_3063_1"  type="Letter"  url="52e27c878a260b078a71e478b98674fe.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3669_img_3063_1"/>
+             New Scotland Yard, S.W.   24th November, 1915.   Sir,   With reference to your letter of the 15th instant, <lb/>I am directed by the Commissioner of Police of the <lb/>Metropolis to acquaint you that application for <lb/>certificates of convictions in the case of Dr. U. J. <lb/>Burke should be made to the Magistrate's Clerk, <lb/>West Ham Police Court, with the payment of 1/- for each <lb/>certificate.   I am, <lb/>Sir, <lb/>Your obedient Servant,   <seg type="unclear">Wm Lindall</seg>   The Librarian, <lb/>Royal College of Physicians <lb/>of Ireland. 
+         </ab>
+      </body>
+   </text>
+</TEI>

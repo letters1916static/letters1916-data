@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0410">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Colonel George Francis Leverson, 1 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>George Francis Leverson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a copy of a letter written by Colonel George Francis Leverson (1857-1938). The letter concerns the 1st Garrison Battalion of the Royal Irish Regiment. The letter sends typed copies of two earlier letters regarding the conduct of the troops including one by Leverson. In the letter Leverson expresses his &#39;extreme satisfaction&#39; regarding the efficiency and conduct of all the ranks of the battalion in performing their duties. During the Great War the 1st Garrison Battalion of the Royal Irish Regiment landed at Mudros, having sailed from Devonport on 6 September 1915. Working parties were sent into Suvla Bay, Gallipoli, during October 1915. After the withdrawal from Gallipoli, the battalion was sent to Egypt, where it landed on 5 February 1916 and then remained throughout the war.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Royal Irish Regiment Papers, D/290/1/1</collection>
+                  <idno>https://letters1916.ie/item/410</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0790">George Francis Leverson</persName>
+              <date>1916-02-02</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName key="#letters1916_place-1487">Mudros, Greece</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0410_img_1675_1"  type="Letter"  url="b8d2dc4534b3799ba09033ad8d466fe9.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0410_img_1675_1"/>
+                A.A. &amp; Q.M.G.  Headquarters,  Intermediate Base.  I.B.2491  <lb/>Date.   1/2/16.    Commandant,  Mudros West.   ------------------- <lb/>Attached is forwarded for communication. <lb/>Inter Base. G.F. Leverson, Colonel <lb/>1/2/16. A.A. &amp; Q.M.G. <lb/>O.C, <lb/>1st. Gn.Bn. Royal Irish Regiment. <lb/>Forwarded and I would at the same time convey <lb/>to you my appreciation of the manner in which your <lb/>Battalion has performed its Duties while under my <lb/>command. <lb/>Mudros West A. Agnew, Col. <lb/>1/2/16 Camp Comdt. <lb/>A.A. &amp; Q.M.G. <lb/>Headquarters, <lb/>Intermediate Base. <lb/>I.B.2491 <lb/>Date. 1/2/16.  The Major-General Commanding Intermediate Base, <lb/>M.E.F. desires to convey to the Officer Commanding <lb/>1st. Garrison Battalion Royal Irish Regiment, his <lb/>extreme satisfaction with the ready and efficient <lb/>manner in which all ranks of the Battalion have performed <lb/>their duties, as well as with the general absence of <lb/>crime and good behaviour of the men, while serving <lb/>under him. <seg type="closer">Intermediate Base, G.F. Leverson, Colonel <lb/>1/2/16. A.A. &amp; Q.M.G.</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

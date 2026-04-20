@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0208">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from James H. Hampton to Robert Chamers, 2 June 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>James H. Hampton</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from James H. Hampton (1858-1931) to Robert Chalmers (1858-1938), the under-secretary for Ireland. In the letter Hampton complains about receiving a Roman Catholic pastoral letter which was forwarded by the Chief Secretary&#39;s Office, despite the fact he is a member of the Church of Ireland. He goes on to state that considering the position of the Bishop of Limerick, Edward Thomas O&#39;Dwyer (1842-1917) who openly supported the Rising, the government should not be forwarding such letters, or at least keep them within the Catholic community. He goes on to state that the issue will be brought to the House of Commons if it occurs again.Sir Robert Chalmers was sent to Ireland as replacement under-secretary for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5612/9484</collection>
+                  <idno>https://letters1916.ie/item/208</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1230">James H. Hampton</persName>
+              <date>1916-06-02</date>
+              <placeName key="#letters1916_place-1583">Queenstown (Cobh), Cork, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0208_img_1356_1"  type="Letter"  url="04d324c1521d677093c4ffed3e17e9d1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0208_img_1356_1"/>
+                2 Merille  Queenstown,    2<hi rend="superscript">nd</hi> June 1916.   Sir,   I received today from the Chief Secretary's Office <lb/>a Pastoral letter on Thrift by the Roman Catholic <lb/>Bishop of Meath. I have not read the Pastoral <lb/>nor do I intend to do so. I consider that an <lb/>unwarranted insult has been offered to me, as a <lb/>clergyman of the Church of Ireland, in sending <lb/>me a Pastoral by a Roman Catholic Bishop, <lb/>I am especially since it was forwarded 'On His Majesty's Service'. <lb/>When I consider the attitude taken up by the Roman <lb/>Catholic Bishop of Limerick with reference to the <lb/>Sinn Fein <seg type="unclear">inflammation</seg> and the recent rebellion, one <lb/>would imagine that His Majesty's Government would <lb/>have something better to do than to send Roman Catholic <lb/>Pastorals   throughout the country, and that <lb/>they would at least confine them to the members of <lb/>their own Communion. If any such literature is forwarded <lb/>to me again, I shall take steps to have the matter raised <lb/>in the House of Commons. <seg type="closer"> Yours faithfully,  <hi rend="underline">James H. Hampton</hi>   The Under Secretary for Ireland  <hi rend="underline">Dublin Castle</hi>  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

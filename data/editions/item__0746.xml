@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0746">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Sir Wilfrid Spender to his wife Lady Lillian Spender, 12 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Bliss Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Sir Wilfrid Bliss Spender (1876-1960) to his wife, Lady Lillian Spender, née Dean, (1880-1968). In this letter, Spender describes the recent successes of the (36th) Ulster Division, and mentions a narrow escape from death he has undergone.Sir Wilfrid Spender was a member of the British Army until 1913 when controversy surrounding his signature of the Ulster Solemn League and Covenant resulted in his resignation. Spender was called up for military service in 1914 and from 1915 served in the 36th (Ulster) Division. Throughout the war, Spender wrote a collection of letters to his wife Lady Lillian Spender. The letters date mainly from 1915 to 1918, when Sir Wilfrid was serving in France. The letters concern politics, the Irish question, personal life, and Wilfrid&#39;s experience of the Great War. Lady Lillian served in the Ulster Volunteer Nursing Corps during the war, and was an organiser of the Ulster Division Comforts Fund.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Lady Spender&#39;s Correspondence, D1633/1/1/311</collection>
+                  <idno>https://letters1916.ie/item/746</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0931">Wilfrid Bliss Spender</persName>
+              <date>1916-06-12</date>
+              <placeName key="#letters1916_place-0769">France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lillian Spender</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0746_img_2266_1"  type="NULL"  url="223b188008fc823485cde77d35dac261.jpg"/>
+      <graphic xml:id="L1916_0746_img_2266_2"  type="NULL"  url="b631cb5112ea4f343fc0c5781d900cb1.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0746_img_2266_1"/>
+                12 June   My Pr   As I expected our men did extraordinarily <lb/>well last night. The Germans won <lb/>in the line for I minute after having <lb/>knocked our trenches to pieces, but the <lb/>men after a most many shelling won <lb/> not a bit cowed &amp; went out over the <lb/> top &amp; bombed the Germans back.   Horses even swam but I hope theirs <lb/>were worse &amp; that they learnt a lesson.   P is I hope a little more inclined <lb/>to believe our modest reports but he is  
+            <pb n="2" facs="L1916_0746_img_2266_2"/>
+              identified. When one walks over the debris of trenches <lb/>one realises what it must have been like. It was <lb/>unusually quiet &amp; I think the Germans who lost <lb/> their officer must have suffered worse than we did.   Strange to say when I was in a disaster trench <lb/> 1000 yards behind the line 4 instantaneous shells fell <lb/>rather close covering me with mud &amp; smoke. I don't <lb/>think I could have been seen &amp; unless 2 men <lb/> who had run over the open a little time before <lb/>won the cause I can't think why I was honoured <lb/>in this way.   May heaven defend us from Edmund's wild <lb/>notions in his letter. It makes me think a so called <lb/>big man who is &amp; has been in the cabinet has <lb/>a power of mesmerizing people into believing any kind <lb/>of twaddle. <seg type="closer"> Your  b w<lb/> WB Spender </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

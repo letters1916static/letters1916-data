@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2265">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Flanagan to John F. Hogan, 10 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Flanagan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Fr Patrick Flanagan to Rev Dr John F. Hogan (1858-1918). Hogan was a priest, author, and president of St Patrick&#39;s College, Maynooth. During the Easter Rising a group of Volunteers from the town of Maynooth entered the college to seek a blessing before setting off for Dublin. Hogan reputedly refused to give his blessing to their ‘foolish and most ill-advised expedition’ and urged them to return home. They in turn refused; responding to their spiritual needs, he blessed them, while remaining totally opposed to their activities. He subsequently addressed the students on the need to show proper respect for authority.
+This letter was sent by Patrick Flanagan with the permission of the Bishop of Achonry, Patrick Morrisroe (1869-1946). In this letter Flanagan is wondering whether it would be possible for him to enter Maynooth next September. He is currently heading the first divinity course in Carlow but he has no degree and there is no facility in Carlow for doing so.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>St Patrick&#39;s College, Maynooth</repository>
+                  <collection>John F. Hogan Papers, 21/1/8a</collection>
+                  <idno>https://letters1916.ie/item/2265</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0241">Patrick Flanagan</persName>
+              <date>1916-04-10</date>
+              <placeName key="#letters1916_place-1273">St. Patrick&#39;s College, County Carlow, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John F. Hogan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2265_img_1708_1"  type="Letter"  url="4dbe59430c0d1fc41c920ceb2caee211.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2265_img_1708_1"/>
+             21/1/8a   St Patrick's College<lb/>Carlow.    10-4-'16    Right. Rev. Monsignor.   His Lordship<lb/>Dr Morrisroe, Bishop of Achonry, of<lb/>whose Diocese, I am a subject, has<lb/>authorised me to write to you, to know<lb/>if it would be possible for me to enter<lb/>Maynooth next September. I am at present<lb/>reading the First Divinity Course in<lb/>Carlow, but have taken no degree,<lb/>as there is no facility here for doing so.   Your Obedient Servant<lb/>Patrick Flanagan   <hi rend="underline">Right. Rev. Mgr. Hogan</hi>. 
+         </ab>
+      </body>
+   </text>
+</TEI>

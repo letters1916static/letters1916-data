@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5918">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Denis O'Driscoll to his daughter Bessie, 4 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Denis O&#39;Driscoll</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is part of a collection of letters which Denis O&#39; Driscoll (d. 1920) wrote to his daughters Elizabeth (Bessie) and Susanna (Sue) who had earlier emigrated to Boston, Massachusetts. Denis thanks Bessie for ten dollars sent on behalf of Sue. He refers to their two brothers who were in the British army at the time and that he is forwarding originals of letters sent by one of the brothers to her.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Denis McGrath</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/5918</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0229">Denis O&#39;Driscoll</persName>
+              <date>1916-01-04</date>
+              <placeName key="#letters1916_place-1447">1 St. Mura&#39;s Terrace, Church Road, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Elizabeth O&#39;Driscoll</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1928">Boston, Massachusetts, US</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5918_img_427_1"  type="Letter"  url="421f3516598b1b8251d4db4c537c55ad.jpg"/>
+      <graphic xml:id="L1916_5918_img_427_2"  type="Letter"  url="2cf48712911e773b1ba8a47ab9334069.jpg"/>
+      <graphic xml:id="L1916_5918_img_427_3"  type="Letter"  url="36195e1a2790753c3188cfc29682af10.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5918_img_427_1"/>
+                1, St. Mura's Tce Church Rd. Dublin    4<hi rend="superscript">t</hi>h January 1916   My dear Bessie   Your letter containing 10 dols <lb/>on Sue's behalf has just reached <lb/>me, and I hasten <lb/>to thank you and to assure <lb/>you that the Kindness of <lb/>both yourself &amp; Sue have <lb/>made our home brighter <lb/>and both Mamma &amp;Barbara <lb/>are as grateful as I am. <lb/>I am well pleased with the <lb/>opinion you have formed <lb/>of Finneen, and to show <lb/>you  
+            <pb n="2" facs="L1916_5918_img_427_2"/>
+              that you do not stand <lb/>alone in your opinion I <lb/>enclose a letter from Gerald <lb/>on the same subject which <lb/>speaks for itself. It is not <lb/>alone for the purpose of show <lb/>ing to you the coincidence of <lb/>your opinion with that of Gerald's <lb/>but that his letters to me may <lb/>furnish you with a proof of <lb/>the affectionate regard in which <lb/>one member of the family bears <lb/>towards the others. There is <lb/>just another consideration which <lb/>impels me to send Gerald's letter <lb/>to you. I know of old that  you are an admirer of the <lb/>sublime and beautiful and <lb/>Gerald's letters to me are of that <lb/>character; and I send the <lb/>originals to you from time to <lb/>time in order that you may <lb/>be in a position to frame <lb/>your own judgement from the <lb/>data which I send you.  forwarded to Finnie - the value <lb/>and more  than  the value of your <lb/>kindly present, and I sent on <lb/>your letter to him in order that <lb/>he may learn from first hand <lb/>the kindly interest of his sisters <lb/>in his behalf. I have not <lb/>heard from him during the past  
+            <pb n="3" facs="L1916_5918_img_427_3"/>
+              ten days but that is no <lb/>neglect on his part, but <lb/>that the exigencies of the <lb/>service does not give him <lb/>an opportunity.  I had a letter from Sue last <lb/>night, and I replied by return.  I owe you a letter on the war <lb/>a kind of leading article, <lb/>and I shall send it in a few <lb/>days.  A suggestion thrown out by you <lb/>shall be attended to â and <lb/>I am my dear Bessie <seg type="closer"> Your loving father  Denis O'Driscol </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

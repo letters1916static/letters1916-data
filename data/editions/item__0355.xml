@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0355">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Clarke to Matthew Nathan, 21 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Clarke</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>In this letter is from Patrick Clarke (b. 1869) to Sir Matthew Nathan (1862-1939), Patrick writes regarding his fourteen year old son, Patrick James Clarke (b. 1902), who has a &#39;horror for school.&#39; Patrick hopes to get his son on a naval training ship, as his job takes him out of the home and the mother is unable to keep his son out of trouble.Sir Matthew Nathan was the under-secretary for Ireland from 1914 to 1916. In 1916 Nathan offered his resignation following the outbreak of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary’s Office Registered papers, CSO RP/1916/8715/1</collection>
+                  <idno>https://letters1916.ie/item/355</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0859">Patrick Clarke</persName>
+              <date>1916-05-21</date>
+              <placeName key="#letters1916_place-0334">Letterkenny, County Donegal, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0355_img_1593_1"  type="Letter"  url="fb8727e9c3c6f9f3ec9946bc94fe4403.jpg"/>
+      <graphic xml:id="L1916_0355_img_1593_2"  type="Letter"  url="37797a551ac6eebbc6a29c5eeddad0a7.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0355_img_1593_1"/>
+                Letterkenny, Co. Donegal.    May 31<hi rend="superscript">st</hi> 1916.   The Hon Under Secretary <lb/>Dublin Castle <lb/>Hon <hi rend="underline">Sir</hi>   I have a boy 14 <lb/> years of age, <sic>altho</sic> he would <lb/> easily pass for a boy of 15 yrs <lb/> is strong and healthy, but has <lb/> a horror for school, will do <lb/>anything before going  His teachers say he has plenty <lb/> of brains if he would only <lb/>use them. My business takes me <lb/> from home all week, with the <lb/> result the mother is unable to <lb/> keep him from company <lb/> that is not healthy for him.  I wrote the Recruiting Officer <lb/> Naval Department L. Derry <lb/> if I could get him on <lb/> board a training ship, <lb/>he replied saying the boy <lb/>was too young, but <lb/> advising me write your  
+            <pb n="2" facs="L1916_0355_img_1593_2"/>
+              <lb/>your honour, stating my <lb/>case and in all <lb/> prob ab ility you would <lb/>advise me how to get <lb/> my boy on board the <lb/> training ship.  I can refer you to the <lb/> Recruiting Officer here, <lb/> will also forward any <lb/>references you may <lb/>require. <seg type="closer"> I am Sir, <lb/>Your Obedient Servant  <hi rend="underline">Patrick Clarke</hi> </seg> <hi rend="underline">P.S</hi><lb/>He is in the <lb/> fifth Standard <lb/>School Book. <hi rend="underline">PC</hi>  
+         </ab>
+      </body>
+   </text>
+</TEI>

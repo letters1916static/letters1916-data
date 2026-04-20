@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1415">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas William Lyster to Edward O'Farrell, 8 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas William Lyster</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Thomas William Lyster (1855-1922), librarian at the National Library of Ireland, to Edward O&#39;Farrell (1857-1926), assistant under-secretary for Ireland. Lyster writes in the hope of securing copies of the Proclamation of the Irish Republic, read from the front of the General Post Office by Patrick Pearse and distributed in Dublin on the first day of the Rising, and &#39;Irish War News&#39;, a newspaper published by the rebels during the Rising lasting only one issue, for several libraries including the NLI. Lyster points out it will &#39;important for historical purposes&#39; and that he has already had an expression of interest from the Welsh Library. A note on the letter by O&#39;Farrell agrees with the letter and it was passed to &#39;G&#39; Division, the detective branch of the Dublin Metropolitan Police, to secure copies. The enclosed minutes refer to attempts by the chief commissioner of the DMP to locate copies. It is noted that they had a copy of the bottom half (the proclamation was printed originally in two parts) taken from Liberty Hall where it was printed but had yet to find a full copy.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5611</collection>
+                  <idno>https://letters1916.ie/item/1415</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0677">Thomas William Lyster</persName>
+              <date>1916-05-08</date>
+              <placeName key="#letters1916_place-0838">National Library of Ireland, Kildare Street, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1386">Edward O&#39;Farrell</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1415_img_824_1"  type="Letter"  url="da85d63d934c9a23cc300016cc38f025.jpg"/>
+      <graphic xml:id="L1916_1415_img_824_2"  type="Letter"  url="aae1855e6081d414c11f59aa90334d43.jpg"/>
+      <graphic xml:id="L1916_1415_img_824_3"  type="Letter"  url="e70b7dc66dc3a5c1e36fdd6d60b72789.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1415_img_824_1"/>
+                NATIONAL LIBRARY OF IRELAND  KILDARE STREET  DUBLIN   8<hi rend="superscript">th</hi> May 1916  Dear O'Farrell   It will be important for historical purposes <lb/> in years to come that public libraries should <lb/> have copies of the Proclamation of the Irish Republic, <lb/> and of the one issue of the rebel newsletter. Would it <lb/> be possible for the Irish Office to preserve copies <lb/> for this Library, the British Museum, and the National <lb/> Library of Wales, from which latter I already have had <lb/> an application on this subject  (and indeed for some <lb/> other Libraries.)   I hope that at this frightfully busy time a <lb/> letter like this is not an intrusion on you <seg type="closer"> Yours sincerely,  T. W. Lyster </seg> Chief Com <lb/>I agree with this <lb/>&amp; possible there copies <lb/>should be supplied  <hi rend="underline">Supt G.</hi><lb/>Is it possible <lb/>to procure copies <lb/>T. Quinn  
+            <pb n="2" facs="L1916_1415_img_824_2"/>
+                DUBLIN METROPOLITAN POLICE  Detective Department  Dublin,  11th May 1916 .    Subject,<hi rend="underline">PROCLAMATION OF THE IRISH REPUBLIC</hi><lb/>Enclosed is a copy of the lower half <lb/> of the above Proclamation which was taken <lb/> from a printing press at Liberty Hall on <lb/> 9th inst. The type for the upper half ap- <lb/> pears to have been destroyed and no com- <lb/> plete copy is obtainable. <seg type="closer"> Owen Brien <lb/>Superintendent.</seg> <hi rend="underline">The U. Secretary</hi>  I have not been able <lb/> to get a complete copy <lb/> of this Proclamation. <lb/> W L Whintone <lb/> CC DMP <lb/><hi rend="underline">11/5/16</hi>  Asst Under Secretary <lb/> If <seg type="del">it</seg> a complete <lb/> copy be subsequently <lb/> found , Mr Lyster's <lb/> request may be <lb/> complied with, but at <lb/> present I fear he and <lb/> others must be content <lb/> with the reprint in the <lb/> 'Irish Times' Weekly Issue <lb/> dated 13th inst. <lb/> WMC 12/5/16   Resubmit; copies are <lb/> obtained <lb/> I have written to <lb/> M. Lyster EOF  12.v.16   Chief Com <lb/> Has a copy <lb/> since come to hand? <lb/> 20.6.16   <hi rend="underline">U Secretary</hi><lb/> no. <lb/> W.l Whintone <lb/> CC  <hi rend="underline">21/6/16</hi>   
+            <pb n="3" facs="L1916_1415_img_824_3"/>
+               Major Price <lb/> Please say if <lb/> you can kindly let me <lb/> have at least one <lb/> copy for Mr Lyster <lb/>EOF  21-6-16   I regret I <lb/> cannot supply <lb/> a complete copy. <lb/> I never had <lb/> one in my possession. <lb/><hi rend="underline">I.H. Price</hi><lb/> Major <lb/> The Under Secretary <lb/> Dublin Castle.  Assistant Secretary <lb/> We can't do more <lb/> WMC  23.6.16   Mr. Lyster so <lb/> informed EOF  23.6.16   
+         </ab>
+      </body>
+   </text>
+</TEI>

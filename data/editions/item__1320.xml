@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1320">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from George Scott to Sir Henry Grattan Bellew, 7 February 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>George Scott</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from George Scott to Sir Henry Grattan Bellew (1860-1942) regarding the application of Robert Atwell for a commission in Sir Henry&#39;s Batallion, the 4th Connaught Rangers. George Scott did not have a high opinion of Atwell, writing that he was &#39;stupid&#39; as after more than a year in the Lothians and Border Horse Yeomanry he still could not ride. He nevertheless recommended him for a commission.Sir Henry Christopher Grattan Bellew was the third baronet of Mount Bellew in County Galway. He held the rank of Lieutenant-Colonel, 4th Battalion Connaught Rangers. His son, sir Charles Christopher (1887-1948) held the rank of Lieutenant-Colonel, King&#39;s Royal Rifle Corps. He was decorated with the award of the Military Cross (M.C.) in 1918.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Bellew of Mount Bellew Papers, Collection List No. 33, Ms. 27,290</collection>
+                  <idno>https://letters1916.ie/item/1320</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1164">George Scott</persName>
+              <date>1916-02-07</date>
+              <placeName key="#letters1916_place-2087">2/1 Lothians &amp;amp; Border Horse Yeomanry, Amisfield House, Haddington</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Henry Grattan Bellew</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1320_img_614_1"  type="Letter"  url="f4972e321b28f99a14d44de451092511.jpg"/>
+      <graphic xml:id="L1916_1320_img_614_2"  type="Letter"  url="8e787a7c9103e3e2220d79ecb81ddc18.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1320_img_614_1"/>
+                2/1 Lothians &amp; Border Horse Yeomanry,  Amisfield House,  Haddington.    7th February 1916   Dear Sir H.Grattan Bellew   Re Atwell (Robert) <lb/>He is a nice sort of man: <lb/>I think him stupid. <lb/>He has been in this regiment for more than <lb/>a year, and even now cannot ride. <lb/>He is   a poor shot, and slow; <lb/>He is otherwise all right. <lb/>I have not promoted him ; nor am I thinking <lb/>of doing so.  I have no objection to recommending him for <lb/>a Commission.  Before <seg type="del">joining</seg>he can be gazetted he will <lb/> have to go before our Brigadier, who may  
+            <pb n="2" facs="L1916_1320_img_614_2"/>
+              <lb/>or may not sanction it. <seg type="closer"> Yours very truly  George Scott </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

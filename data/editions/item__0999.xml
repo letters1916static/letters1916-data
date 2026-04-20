@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0999">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Postcard to Margaret McCoubrey, 23 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>M. Lewall</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>In this letter written to Margaret McCoubrey (1880-1956) the sender writes that she had resigned from the Committee some time ago and therefore has no right to attend a meeting the following day.Margaret McCoubrey was a suffragette, pacifist and Labour activist. She was committed to helping women, children and the working class with local, national and international causes.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sheehy Skeffington Papers, Collection List No. 47, MS 33,604/15-14</collection>
+                  <idno>https://letters1916.ie/item/999</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0356">M. Lewall</persName>
+              <date>1916-01-23T00:00:00</date>
+              <placeName key="#letters1916_place-1140">43 Marsden Garden, Belfast, Co. Antrim, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0264">Margaret McCoubrey</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1610">37 Candahar Street, Ormeau Road, Belfast City, Co. Antrim, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Country and City Life</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Culture and the Arts</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0999_img_2846_1"  type="Letter"  url="41c002e6a3ec33a5888affb21c6ce841.jpg"/>
+      <graphic xml:id="L1916_0999_img_2846_2"  type="Envelope"  url="64392e63f4ef82d76862f80b0ae7298c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0999_img_2846_1"/>
+                 43 Marsden Garden    <hi rend="underline">23.1.16.</hi>   Dear Mrs. Mc. Coubrey,   I thought I had <lb/>resigned from the Committee <lb/>ages ago, so have no right <lb/>to come tomorrow even <lb/>if I could spare time <lb/>which I canât  Wishing you all success. <seg type="closer"> Yrs sincerely  M. Lewall </seg>  
+            <pb n="2" facs="L1916_0999_img_2846_2"/>
+                 Mrs. Mc. Coubrey.  37 Candahar St.  Ormeau Rd.  City.     
+         </ab>
+      </body>
+   </text>
+</TEI>

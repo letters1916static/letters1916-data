@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0244">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick English to Kate English, c. June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick English</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Patrick English to his mother Kate. In the letter Patrick describes the Frongoch conditions to his mother. According to Patrick if it were not for the rain the camp &#39;would be all right&#39;. Patrick also tells his mother not to visit as he believes it would be a waste of money.Patrick English (1894-1970) wrote this letter while he was interned. Patrick had been stationed in the G.P.O for the Rising. Following the surrender he was sent to Stafford Prison before being moved to Frongoch internment camp in Wales.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Patrick English</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/244</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0178">Patrick English</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0077">Kate English</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1722">Frongoch, Wales</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0244_img_1418_1"  type="NULL"  url="e356e7ce32f275c28cc616d7ebde9c6e.jpg"/>
+      <graphic xml:id="L1916_0244_img_1418_2"  type="NULL"  url="94f350bb945678258525abf1f0c811b2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0244_img_1418_1"/>
+              I believe you have left the cottage you <lb/> never mentioned it in any of your <lb/> letters. Frongoch is not <sic>to</sic> bad a place at <lb/> all only for the rain it would be all <lb/> right we get tea morning and evening <lb/> and a good dinner so you need not <lb/> worry about me I am all right Mick <lb/> Cosgrove is going on splendid so are <lb/> all the boys that I know here we sleep <lb/> in Huts thirty in each hut and I see by <lb/> your letter you have a good job waiting <lb/> for me whenever I'll get home which <lb/> of course you know will come some time <lb/> they not going to keep us forever?  
+            <pb n="2" facs="L1916_0244_img_1418_2"/>
+              I think I have told you all the news for <lb/> the present hoping you are keeping <lb/> quite strong and all at home also all <lb/> the long tailed <sic>faimley</sic> so I must <lb/> say good night for this time I am <lb/> just think about getting down my <lb/> bunk and if you are <sic>realy</sic> made<lb/> up your mind to come I wont stop you <lb/> but under the present <sic>circustances</sic>it <lb/> would be foolish and a waste of money<lb/> but you can rest assured I am all right <seg type="closer"> I remain your fond son <lb/> Patrick English xxxxxx </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

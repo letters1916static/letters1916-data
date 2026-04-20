@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1977">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Richard Creighton to Augustine Birrell, 25 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Richard Creighton</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Richard Creighton (b.1846), a clerk of the union and rural district council for Gorey. It was addressed to Augustine Birrell (1850-1933). Birrell was the chief secretary for Ireland from 1907 until his retirement in 1916 following the aftermath of the Easter Rising, for which Birrell accepted responsibility.
+In the letter Creighton mentions that he will be forwarding a resolution concerning the poisoning of dogs in the town of Gorey, County Wexford.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers; CSO RP/1916/7403/1</collection>
+                  <idno>https://letters1916.ie/item/1977</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1176">Richard Creighton</persName>
+              <date>1916-04-25</date>
+              <placeName key="#letters1916_place-1779">Gorey, County Wexford, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0534">Augustine Birrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1977_img_1424_1"  type="Letter"  url="17cc4816e4a1929c5df6ec2bb9998625.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1977_img_1424_1"/>
+             April 25th 1916   The Right Hon, <lb/>The Chief Secretary for Ireland, <lb/>Dublin Castle.   Hon Sir,   I am directed by the Gorey Board of <lb/>Guardians to forward you copy of a resolution <lb/>passed by them at their last meeting in <lb/>reference to the poisoning of dogs in the <lb/>town of Gorey. Quite a large number <lb/>have been poisoned during the last few <lb/>weeks.   I am, <lb/>Hon Sir, <lb/>Your obedient Servant   RCreighton. 
+         </ab>
+      </body>
+   </text>
+</TEI>

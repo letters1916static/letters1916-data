@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0845">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Pearse, 9 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Henry Pearse</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Patrick Henry Pearse (1879-1916) to an unknown person. In this letter, Pearse advises his correspondent that the idea of bringing an (unnamed) organisation &#39;with branches, etc.&#39; into existence at the present time is unworkable, and that it would be more advisable to found &#39;a small, central body in the nature of an information bureau&#39;, which could &#39;educate public opinion&#39; through pamphlets and so on.Pearse was a writer, a teacher, and a revolutionary nationalist. A strong critic of the soulless by-rote approach to learning he termed the &#39;murder machine&#39;, Pearse was the founder in 1908 of St. Enda&#39;s College, a bilingual school for boys with an ethos based around the needs and imaginations of the children themselves. He was a key member of the military council of the Irish Republican Brotherhood, and was one of the signatories of the proclamation of the Irish republic (largely his own writing), which he read outside the GPO after the outbreak of the Easter Rising. As president of the provisional government, it was Pearse who called the surrender. He was executed on 3 May 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Br. Allen Collection, Green Autograph Book 1, IE/AL/GAB1/70</collection>
+                  <idno>https://letters1916.ie/item/845</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0291">Patrick Henry Pearse</persName>
+              <date>1915-12-09</date>
+              <placeName key="#letters1916_place-0713">St. Enda&#39;s College, Rathfarnham, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0845_img_2403_1"  type="Letter"  url="3b7441fc5d67b9a65592c85e24485655.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0845_img_2403_1"/>
+                Scoil Eanna  Rath Fearnain  St Enda's College  Rathfarnham    9<hi rend="superscript">th</hi> Dec, 1915   A Chara   I'm sorry for my delay in answering yours <lb/>of 29<hi rend="superscript">th</hi> ult., but have been exceedingly busy.  I find nothing to object to in your <lb/>proposals, but I would urge this general <lb/>consideration, viz., that your will find it <lb/>extremely difficult to bring a new organisation <lb/>with branches etc., into existence at <lb/>present, and that it would perhaps be <lb/>better to have merely a small central <lb/>body in the nature of an information <lb/>bureau, whose duty would be to diffuse <lb/>information and educat<seg type="del">ion</seg> e  public opinion <lb/>by leaflets, pamphlets, press letters, etc. <lb/>If similar bureaux spring up <seg type="del">elsewhere</seg><lb/> in other centres, well and good. <seg type="closer"> P.H.Pearse </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

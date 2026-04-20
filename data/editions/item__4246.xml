@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4246">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Wilfrid Spender to Lillian Spender, circa November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Wilfrid Spender</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Letters from Sir Wilfrid Spender to Lady Spender, D1633/1/1/83</collection>
+                  <idno>https://letters1916.ie/item/4246</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0667">Wilfrid Spender</persName>
+              <date>1915-11</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Lillian Spender</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1960</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4246_img_3613_1"  type="Letter"  url="934d95007d60dcba7ad8c4c66f42f9be.jpg"/>
+      <graphic xml:id="L1916_4246_img_3613_2"  type="Enclosure"  url="43c72726d0817a2bbee1a375442c9e3a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4246_img_3613_1"/>
+             D1633/1/1/83   My dear Lil   The Margut Mortgage business is<lb/><seg type="unclear">destracting</seg> &amp; the best suggestion I can make is :—<lb/>to offer to sell to the district most of<lb/>the balance, telling the sisters to tender their<lb/>shares through Stavey &amp; Edmund, still seeing<lb/>Con's assent is first obtained.  <seg type="del">The property is show</seg>  I hope the others have received their<lb/>cheques &amp; and have acknowledged them to you<lb/>&amp; that they have quite accepted you as<lb/>the new manager in my place. I think<lb/>the addresses of both  agents  are in my book<lb/>John <seg type="unclear">Bayly</seg>  a  Cliftowith Chambers<lb/>Northdown road. margate<lb/>Meath Brooke Smith <hi rend="underline">?</hi>Hown<lb/> [questionable reading] St<lb/>Strand<lb/>our I think the other but the address you can<lb/>find off any of the monthly <seg type="unclear">tenancy</seg> lists     Your loving husband <lb/> Wilfred B Spender  
+            <pb n="2" facs="L1916_4246_img_3613_2"/>
+            "C" Form (   <lb/>MESSAGES AND SIGNALS. No. of Message <lb/>Prefix Code Words Received Sent, or sent out Office Stamp. <lb/> £ s. d. From At m <lb/>Charges to collect By To <lb/>Service Instructions <lb/> By <lb/>Handed in at the Office, at .m. Received here at .m. <lb/>To <lb/> <lb/><hi rend="superscript">superscript text</hi>Sender's Number. Day of Month. In reply to Number.<hi rend="superscript">superscript text</hi> AAA <lb/> <lb/>FROM <lb/>PLACE <lb/>TIME <lb/><hi rend="superscript">superscript text</hi>This line should be erased if not required.<hi rend="superscript">superscript text</hi> <lb/>W. 5375-423. 75,000 Pads-12/12-B. &amp; F.- 
+         </ab>
+      </body>
+   </text>
+</TEI>

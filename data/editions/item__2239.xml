@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2239">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Hugh de Fellenberg Montgomery to Hamilton, 10 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Hugh de Fellenberg Montgomery</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a copy of a letter from Hugh de Fellenberg Montgomery (1844-1924) to Hamilton. Originally a Liberal and a strong supporter of Gladstone, Montgomery was also a firm Unionist, but by 1916 he believed that Ulster Unionists had no choice but to accept Lloyd George&#39;s proposal for a six-county Northern Ireland.
+In this letter, Hamilton discusses letters regarding Colonel Henry Irvine (1850-1928), the chief recruiting officer for Tyrone, and Colonel John Arthur Welby (b. 1874). Montgomery states that Welby should be informed that a letter he sent will be brought before the county council in August and until then families of soldiers and help societies should continue their work. Montgomery believes that it would not be possible to set up a benefit committee without him. Montgomery also notes the lack of co-operative and benefit societies in Tyrone. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Montgomery of Blessingbourne Papers, D/627/429/37</collection>
+                  <idno>https://letters1916.ie/item/2239</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1402">Hugh de Fellenberg Montgomery</persName>
+              <date>1916-06-10</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hamilton</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1924</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2239_img_1683_1"  type="Letter"  url="f13b44e1276e9dc768120a7d69f2fada.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2239_img_1683_1"/>
+             Copy   16th June, 1916.    My dear Hamilton,   By all means send Colonel Irvine's letter to Colonel<lb/>Welby. Keep a copy.  I suppose you had better tell Colonel Welby that you<lb/>will bring his letter before the County Council at its next<lb/>meeting, which will be in August, and that meanwhile the<lb/>Soldiers' and Sailors' Families and Help Societies can continue<lb/>to carry on the work. You might add that you do not<lb/>think the Council is at all likely to agree to modify their<lb/>scheme, but you enclose Colonel Irvine's letter with regard<lb/>to the A.O.H. Colonel Irvine has done all the work of the<lb/>Soldiers and Sailors' Families Society hitherto, and you<lb/>do not see how it would be possible to run the proposed<lb/>Committee without his assistance, There are no co-operative<lb/>or benefit Societies in Tyrone except purely local Creamery<lb/>and Flax Societies, the constitution and objects of which<lb/>do not appear to entitle them to special representation on<lb/>a War Pension Committee.   Yours very truly,  
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0568">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from R. Taylor to the Under-Secretary, 4 August 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>R.Taylor</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from R. Taylor, the Belfast Banking Company, to Sir Robert Chalmers (1858-1938), Under-Secretary for Ireland, requesting the authorisation of payment of £1 to cover expenses for attending the Winter Assizes.Sir Robert Chalmers was sent to Ireland as replacement under secretary for Sir Matthew Nathan, who had resigned along with Augustine Birrell, his chief secretary, following the outbreak of the Easter Rising in 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5620/13449</collection>
+                  <idno>https://letters1916.ie/item/568</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1342">R.Taylor</persName>
+              <date>1916-08-04T00:00:00</date>
+              <placeName key="#letters1916_place-0276">Saintfield, County Down, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Sir Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0568_img_1961_1"  type="Letter"  url="552ad36b3e06bea1f6f7bea64eb394fe.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0568_img_1961_1"/>
+              <hi rend="underline">MEMORANDUM</hi>    4 AUGT 1916    The Belfast Banking Company  Limited  Saintfield Branch    To The Under Secretary  Dublin  Castle   Dear Sir   It is customary every year for <lb/>the person who attends the Winter Assizes <lb/>to get one pound expenses &amp; no such <lb/>certificate appears to have been sent <lb/>the <sic>Secy</sic> of the Council at Downpatrick <lb/>in consequence we have not yet rec <lb/>the Â£1. I would feel greatly obliged if <lb/>you would authorise the payment. <seg type="closer"> Yours faithfully  R Taylor Esq  </seg><lb/> 
+         </ab>
+      </body>
+   </text>
+</TEI>

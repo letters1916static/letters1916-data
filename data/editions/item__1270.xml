@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1270">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Colonel Maurice Moore to Herbert Henry Asquith, 29 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Maurice Moore</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Colonel Maurice Moore (1854-1939) to Prime Minister, H.H. Asquith (1852-1928) advising him to put a stop to further executions of the leaders of the Easter Rising. He believes it could bring acts of revenge as well as would &#39;keep the two countries apart for years&#39;.Herbert Henry Asquith was Liberal Prime Minister of the United Kingdom from 1908 to 1916. Colonel Maurice George Moore, author, soldier and politician, was the younger brother of the writer George Moore. Having reached the rank of colonel in 1902, he resigned his commission in 1906 over matters of principle during the Boer War. A member of the provisional committee of the Irish Volunteers in 1913, he was made the organisation&#39;s Inspector General, spending much of 1914 organising the troops in Ireland. In 1916 he collected a petition with Agnes O&#39;Farrelly asking for a reprieve of the death sentence against Roger Casement.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>NLI10561/1/1, NLI10561/1/1</collection>
+                  <idno>https://letters1916.ie/item/1270</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0505">Maurice Moore</persName>
+              <date>1916-07-29</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0582">Herbert Henry Asquith</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1810">Westminster, London, UK</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1270_img_462_1"  type="Letter"  url="9682c3b71e47376e717fb0ab2464c8f7.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1270_img_462_1"/>
+                44, Parnell Square,  Dublin    July 29<hi rend="superscript">th</hi>. 16.   Sir,   The most deplorable revulsion of feeling that has ever <lb/> occurred in Ireland happened after the shooting of the Irish <lb/> rebels.  A new execution is about to take place; at first <lb/> people did not believe it possible, and we who have been <lb/> appealing for mercy avoided public appeals or speeches <lb/> for fear of exciting the people. But now excitement is rising <lb/> and public declamation cannot be stopped and if the execution <lb/> is carried out, not only do I fear an enduring feeling of <lb/> hate, which will keep the two countries apart for years, <lb/> but in all probability some wild act of revenge, such as the <lb/> Phoenix Park murders, that will startle Europe and America.  Be wise; stop this execution; if not take a terrible <lb/> responsibility on yourself. At all events we have warned you. <seg type="closer"> I remain <lb/>Your obedient servant, <lb/> Maurice Moore <lb/>late Col. Com. 1st. Connaught Rangers.<lb/>  The Rt. Hon. H.H.Asquith M.P.  Prime Minister,  House of Commons,  Westminster.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2262">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to Hugh de Fellenberg Montgomery from Sir John Ross, 2 June 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Ross</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was addressed to Hugh de Fellenberg Montgomery (1844-1924). Montgomery was a lawyer and politician. Originally a Liberal and a strong supporter of Gladstone, Montgomery was also a firm Unionist, but by 1916 he believed that Ulster Unionists had no choice but to accept Lloyd George&#39;s proposal for a six-county Northern Ireland.
+The letter was written by Sir John Ross (1853-1935). Ross was a judge, Unionist politician and the last lord chancellor of Ireland. In 1916 he was asked to sit on the commission that adjudicated on internment after the Rising, but this invitation was withdrawn. He did, however, serve as chairman of the advisory appeal committee that monitored internment in Ireland (1920–21). In general he seems to have advised against excess in the state&#39;s response to the revolution. 
+The letter concerns a letter that Montgomery previously sent to Ross concerning Home Rule and the Irish question.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Montgomery of Blessingborn Papers; D/627/429/21</collection>
+                  <idno>https://letters1916.ie/item/2262</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1339">John Ross</persName>
+              <date>1916-06-02</date>
+              <placeName key="#letters1916_place-0310">Oatlands, Stillorgan, County Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1402">Hugh de Fellenberg Montgomery</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1935</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2262_img_1705_1"  type="Letter"  url="860774685dc1ba2a689425af91eb645e.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2262_img_1705_1"/>
+             OATLANDS, <lb/>STILLORGAN, <lb/>CO. DUBLIN.   2 June 1916   My dear Mongomery   I agree with <lb/>every word in y<hi rend="superscript">r</hi>. sons letter. <lb/>It is a letter of great ability showing <lb/>a complete grasp of the situation <lb/>in all its bearings.   I shall use y<hi rend="superscript">r</hi>. arguments which are quite sound.   <seg type="unclear">best Wishes</seg>   John Ross 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3687">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from the Earl of Meath proposing a different candidate to the vacancy of Deputy Lieutenant for Dublin, Feb. 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Reginald Le Normand Brabazon, 13th Earl of Meath, Lord Lieutenant of County Dublin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter to the under secretary at Dublin Castle ( Sir Matthew Nathan) with regards to the vacancy of Deputy Lieutenant for Deputy following the death of Captain Charles M. Celthurst Vesey from Reginald Le Normand Brabazon, 13th Earl of Meath, Lord Lieutenant of County Dublin. Meath had originally proposed  Viscount Powerscourt for the position (NAI_CSO/RP/1916/3644/15). However this was rejected by Nathan due to the fact that Powerscourt was already Lieutenant for Wicklow. Meath now proposes Mr. William T. Stewart of Killymoon, Donnybrook, Co. Dublin for the position.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI_CSO/RP/1916/3644/6</collection>
+                  <idno>https://letters1916.ie/item/3687</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0635">Reginald Le Normand Brabazon, 13th Earl of Meath, Lord Lieutenant of County Dublin</persName>
+              <date>1916-02-07</date>
+              <placeName key="#letters1916_place-0202">Chertsey, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0152">Sir Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1949</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3687_img_308_1"  type="Letter"  url="8ebc781a8df76d2b35196ca0852b161a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3687_img_308_1"/>
+              February 7th 1916   Sir,    His Excellency the Lord Lieutenant having <lb/>communicated to me by letter dated February 4th, his desire <lb/>that I should reconsider my recommendation that Lord <lb/>Powerscourt be appointed a Deputy Lieutenant for the County <lb/>of Dublin, as he is already His Majesty's Lieutenant for the <lb/>County Wicklow, I have the honour to withdraw my <lb/>recommendation made on the 11th Ultimo.   I now propose, subject to the approval of the Lord <lb/>Lieutenant, under the provisions of the Militia Act 1882, <lb/>to issue my Commission to Mr Wm. T. Stewart of <lb/>Killymoon, Donnybrook, Co. Dublin.   I shall be obliged if you will submit this letter to His <lb/>Excellency, and, should he approve of the appointment, if <lb/>you will forward me the usual form of Commission.  <seg type="closer"> Yours very truly  H.M.L. for County and City of Dublin.  Meath <seg type="closer">  The Under Secretary <lb/>Dublin Castle. 
+         </ab>
+      </body>
+   </text>
+</TEI>

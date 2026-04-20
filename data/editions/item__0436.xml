@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0436">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Geo. R. Boase to Marie Martin, 10 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Geor Boase</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from the soldier Geo R. Boase to Marie Martin, 10 July 1916. This letter was written to Marie Martin from a soldier she had tended to while she was a VAD in Malta. Boase writes her from Dublin, where he is stationed indicating that he would like to meet her. It is clear from the letter that he is unaware she is stationed in France.Marie Helena Martin (1892-1975) later known as &#39;Mother Mary&#39;, was a volunteer nurse during the First World War. She served in field hospitals in Malta, Leeds, and France working for the British army and later went on to become the founder of the Medical Missionaries of Mary (MMM).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Medical Missionaries of Mary</repository>
+                  <collection>France Letters, B/F/1/52</collection>
+                  <idno>https://letters1916.ie/item/436</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1019">Geor Boase</persName>
+              <date>1916-07-10</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0709">Marie Martin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1257">Monkstown, Dublin</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0436_img_1771_1"  type="Letter"  url="abd74661e6cb4dfca8568f381314f445.jpg"/>
+      <graphic xml:id="L1916_0436_img_1771_2"  type="Letter"  url="bfd3dc1538aa9b20cc002037a64765ea.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0436_img_1771_1"/>
+                Y.M.C.A.  H.M. Forces On Active Service  Patron  Military Camp Dept,  H.R.H Duke of Connaught.    July 10th 1916    Trooper Geor Boase 1847   'B' Squadron  City of London Yeomanry  'Rough Riders'  Marlboro' Barracks  Dublin   Dear Nurse Martin   I am writing these few lines in <lb/> the hope of you being home.   I doubt if you remember me at St. George's <lb/> Hospital, Malta, it is such a long time ago!   I am the fellow who wore the pink <lb/> pyjamas. Perhaps you recollect the chaps <lb/> in our ward all wanted a particular pair, <lb/> so you suggested we should draw for them. <lb/> I happened to be the winner.   I have been in hospital for seven  
+            <pb n="2" facs="L1916_0436_img_1771_2"/>
+              months altogether &amp; am now back with my <lb/> regiment. I came to Ireland last week <lb/> &amp; we are stationed at Marlborough Barracks.   I should very much like to call &amp; see <lb/> you if I may one afternoon or evening, when <lb/> I can get a few hours off.   Perhaps you will write me &amp; say if <lb/> I may come!  <seg type="closer"> Kind regards <lb/> Yours sincerely   <hi rend="underline">Geo. R. Boase</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

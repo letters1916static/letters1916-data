@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0131">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Denis Mangan to Anna O'Rahilly, 11 August 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Denis Mangan</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Denis Mangan (1894-1981) to Anna O&#39;Rahilly (d.1958), offering his condolences upon the death of her brother Michael. In the letter Denis, who is on a mission in Africa, comments on the Rising, stating that it was a hopeless affair but that he believes the rebels had the best intentions and that hopefully some good can come from the sacrifice. Michael Joseph &#39;The&#39; O&#39;Rahilly (1875–1916) was a nationalist and a journalist. In 1916 he aligned himself with Eoin MacNeill and Bulmer Hobson who opposed a preemptive rising. Although O&#39;Rahilly played a large role in delivering MacNeill&#39;s countermanding order he felt obligated to stand with the men he recruited and trained. O&#39;Rahilly was fatally wounded on the Thursday 27 April when the GPO was being evacuated.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>Sighle Humphreys Papers, P106/122/3</collection>
+                  <idno>https://letters1916.ie/item/131</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0091">Denis Mangan</persName>
+              <date>1916-08-11</date>
+              <placeName key="#letters1916_place-0866">Kamuli, Busoga, Africa</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0639">Anna O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0131_img_1221_1"  type="Letter"  url="856e37daddb4a2566cd57bd0035a825c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0131_img_1221_1"/>
+                <hi rend="underline">Aug 11th, 16</hi>    R. C. Mission  Kamuli  Busoga  B. E. Africa   My Dear Anna   The sad news has<lb/> reached me of poor Michael's tragic<lb/> death and I feel I must send<lb/> a word of condolence to you &amp; Nell.  It is a long way from Central <lb/> Africa to Ballylongford but my thoughts<lb/> have travelled back there many times<lb/> since I heard of Michael's death.  That rising was, indeed, a foolish<lb/> and hopeless affair, but no doubt,<lb/> those who took part in it, did so with<lb/> the best intentions. Let us hope that<lb/> some good may come from the sacrifice <lb/> of so many noble-minded fellows.  You and Nell must naturally<lb/> feel the death of your only brother and<lb/> therefore I wish to say that I feel for you<lb/> in your bereavement. <seg type="closer"> With kindest regards<lb/> I am<lb/> Yours very sincerely <lb/> D. M. Mangan </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

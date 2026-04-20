@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0430">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Copy of letter from F. O'Donnell to George Gavan Duffy, 4 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>F. O&#39;Donnell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a copy of a letter from F. O’Donnell (1846-1916), London, to George Gavan Duffy (1882-1951). Gavan Duffy was acting as solicitor to Sir Roger Casement (1864-1916) in his trial for treason. Casement had been arrested in Kerry after a failed landing of German arms for use in the Easter Rising. O&#39;Donnell states that the ‘secret papers’ in question (The Black Diaries) are said to have been shown by the Home Office to the trial&#39;s jury. He also lists others who claim to have seen the ‘incriminating matter’. The &#39;Black Diaries&#39; contained explicit material about Casement&#39;s personal life and were used to undermine his case.The correspondent is mostly probably Francis Hugh O&#39;Donnell, a nationalist politician and writer. He died in London in November 1916.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>George Gavan Duffy Papers P152/5, P152/5</collection>
+                  <idno>https://letters1916.ie/item/430</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1181">F. O&#39;Donnell</persName>
+              <date>1916-07-04</date>
+              <placeName key="#letters1916_place-1854">38 Tregunther Road, The Boltons, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0467">George Gavan Duffy</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0430_img_175_1"  type="Letter"  url="181d1ece4a885e80d2b8870993bba554.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0430_img_175_1"/>
+               (From F. O' Donnell)     38 Treganther Rd,  The Boltons, <hi rend="underline">S.W</hi>    July <hi rend="underline">4, 1916</hi>   Dear Sir   In reference to my visit this morning, I <lb/> should mention that the secret papers in question are <lb/> said to have been shown by the Home Office to the Jury. <lb/> This is a statement of men of high authority <lb/> who are in a position to know.    Miss Boyle O'Reilly and M<hi rend="superscript">r</hi> Kilty, the <lb/> latter described to me as a distinguished journalist, <lb/> are among the Americans who have been told or who <lb/> have seen the incriminating <sic>mater</sic>. <lb/> The Editor of the London Daily Chronicle is one of <lb/> the six English. Another who has seen I believe is <lb/> Mr. Clement Shorter, who appears to be convinced of <lb/> the guilt altho' married to a patriotic Irishwoman  <seg type="closer"> Yours faithfully </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

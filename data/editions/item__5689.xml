@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5689">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from S. Harper, 1 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>S. Harper</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by S. Harper in search of having the birth certificate of Freddy Harper returned in order to avoid paying for another one.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3826</collection>
+                  <idno>https://letters1916.ie/item/5689</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0129">S. Harper</persName>
+              <date>1916-03-01</date>
+              <placeName key="#letters1916_place-0057">No 94 Cottage, Sammy, Omagh, County Tyrone</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5689_img_791_1"  type="Letter"  url="52069ade26d3d64114edb7a604ad198b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5689_img_791_1"/>
+             No 94 Cottage <lb/>Lammy <lb/>Omagh <lb/>Co Tyrone   Dear Sir   Would you send <lb/>me the certificate of birth <lb/>I sent of Freddy Harper <lb/>I would have 2/7 to pay <lb/>for another one it <lb/>is very strange that he <lb/>can't get home when his <lb/>time is up I don't see <lb/>how <seg type="unclear">they</seg> can keep him <lb/>I will have to see another <lb/><seg type="del">P</seg> way of getting him <lb/>as the <seg type="unclear">magistrates</seg> knows <lb/>his time is up   Your obedient Servant ,   S. Harper 
+         </ab>
+      </body>
+   </text>
+</TEI>

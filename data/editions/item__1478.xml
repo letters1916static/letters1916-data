@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1478">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Austin Stack to Mabel FitzGerald, 4 June 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Austin Stack</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Austin Stack (1879-1929) to Mabel FitzGerald (née Washington McConnell) (1884-1958), wife of politician and intellectual Desmond FitzGerald (1888-1947). Stack writes from Richmond Barracks, Dublin. He says he saw and saluted Mr FitzGerald once (in prison) but they didn&#39;t speak - the next he heard, FitzGerald had been tried. He himself is to face trial but he is prepared to face the outcome without fear.Austin Stack, revolutionary, politician, was commandant of the Kerry Brigade of the Irish Volunteers and made preparations to receive Roger Casement. Stack was sentenced to death for his part in the Easter Rising, but this later commuted to penal servitude for life and he was released in 1917. Mabel Fitzgerald was the wife of Irish Volunteer Desmond Fitzgerald. Mabel was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1600/1</collection>
+                  <idno>https://letters1916.ie/item/1478</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1445">Austin Stack</persName>
+              <date>1916-06-04</date>
+              <placeName key="#letters1916_place-0863">Richmond Barracks, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1478_img_931_1"  type="Letter"  url="46dc80b925ea0fec16034b437c3627ce.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1478_img_931_1"/>
+                L - 4 Richmond Bks. Dublin    4th June 1916   My dear Mrs.Fitzgerald,   I take courage to write <lb/>you. I was ashamed not to have done so when <lb/>Desmond was imprisoned last December. <lb/>It must have been a severe trial on you to have <lb/>little Pierce at deaths door in the absence <lb/>of his father. But thank God the lad was <lb/>spared.  I saw Desmond but once after coming <lb/>up here, and, unfortunately, was not able to <lb/>have a word with him. A salute was all <lb/>that passed between us, and next day I <lb/>heard he had been tried. Perhaps some <lb/>day soon I may meet him and tell <lb/>him how Kathleen is going on. I <lb/>pray that he may return to you strong <lb/>in health. I know his ardour will not <lb/>be diminished.  I am to be before Court-martial on the <lb/>14th and shall face result without fear.  Accept my kindest regards for self &amp; children. <lb/>Some day I shall meet you again with God's help. <seg type="closer"> Very sincerely yours  Austin Stack </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

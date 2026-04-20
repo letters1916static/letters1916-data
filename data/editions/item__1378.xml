@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1378">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Andrew Philip Magill to William O'Brien, 28 February 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Andrew Philip Magill</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Andrew Philip Magill to William O&#39;Brien acknowledging of receipt of O&#39;Brien&#39;s letter concerning the control of shipping.Andrew Philip Magill (1871-1941) had a varied career in the Irish civil service; he moved to the Ministry of Home Affairs in Northern Ireland before resigning prematurely in 1925. As private secretary to Augustine Birrell, the Chief Secretary whose resignation was prompted by the 1916 Rising, Magill was well placed to observe the often bizarre workings of the pre-revolutionary Irish administration. His subsequent postings in Dublin and Belfast likewise made him an invaluable witness of conflicts associated with revolution and partition.William O&#39;Brien (1881-1968) was a politican and trade unionist. A close friend and associate of James Connolly, O&#39;Brien helped establish the Irish Transport and General Workers&#39; Union in 1909, and was instrumental in the Dublin Lock-out strike in 1913. A member of the Irish Neutrality League, and Anti-Conscription Committee, during the World War I, O&#39;Brien was interned on several occasions by the Dublin Castle government. From 1913 until 1918 O&#39;Brien served as secreatry of the Dublin Trades Council.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3733/3</collection>
+                  <idno>https://letters1916.ie/item/1378</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0014">Andrew Philip Magill</persName>
+              <date>1916-02-28</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1436">William O&#39;Brien</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1639">Capel Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1378_img_734_1"  type="Letter"  url="090eb2231f893db7cc988a389828a8ca.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1378_img_734_1"/>
+                28th February, 1916.   Dear Sir,   I am desired by Mr. Birrell to acknowledge the <lb/>receipt of your letter of 26th instant forwarding <lb/>copy of a resolution adopted by the Dublin United <lb/>Trades Council and Labour League relative to the control <lb/>of shipping. <seg type="closer"> Yours faithfully ,  (sd) A.P.M   The Acting Secretary,  Dublin United Trades Council and Labour League,  Trades Hall,  Capel Street,  Dublin.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1545">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Griffin to the Hon. Sec., Mayo Prisoners of War Fund, November, 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Griffin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The writer&#39;s brother is a 12th Lancers Prisoner of War and a native of Galway. He was refused assistance by the Galway Fund because he wasn&#39;t a Connaught Ranger - Mr. Griffin encloses a letter from the Galway Fund to this effect (not available. He thinks that it is unfair that his brother should be forgotten because he belongs to another regiment.
+Finally he thanks the ladies of Mayo for their kindness to his brother and he expresses the hope &#34;that we will soon be victorious and beat the Huns&#34;.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No. 54; Ms. 35,796/10/3</collection>
+                  <idno>https://letters1916.ie/item/1545</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0723">John Griffin</persName>
+              <date>1916-11</date>
+              <placeName key="#letters1916_place-1097">Provincial Bank, Galway, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Honorary Secretary, Mayo Prisoners of War Fund</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1664">35 Molesworth Street, Dublin, Ireland.</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1545_img_1012_1"  type="Letter"  url="5138b9c032c5e7e9f52ade531eac56f5.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1545_img_1012_1"/>
+             Provincial Bank <lb/>Galway  <lb/>To the Hon. Secty <lb/>Co. Mayo Prisoners of war fund  Dear Madam   With reference to your enquiry re my <lb/>Brother Peter Griffin of the 12<hi rend="superscript"><hi rend="underline">th</hi></hi> Lancers <lb/>a prisoner of war. I beg to say that he is <lb/>a native of Galway town but I enclose <lb/>you a letter from the Hon Secty of the <lb/>Galway fund to show you that he has <lb/>never received any<seg type="del">thing</seg>assistance from <lb/>it because he is not a Connaught Ranger. <lb/>I think it is very unfair to him that he <lb/>should be forgotten because he belongs <lb/>to another regiment. I beg to thank <sic>they</sic> <lb/>Ladies of Mayo for their kindness to him <lb/>and hope that we will soon be victorious <lb/>and beat the Huns.   Yours very grateful   John Griffin 
+         </ab>
+      </body>
+   </text>
+</TEI>

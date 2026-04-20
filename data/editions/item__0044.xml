@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0044">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Marie Martin to her mother Mary Martin, 29 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Marie Martin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Marie Helena Martin (1892-1975) to her mother Mary Martin (1866-1955) in Dublin. In this letter from the theatre of war, Marie writes home to her mother to talk about family matters. The main reason for her letter is that Marie is letting her mother know that she is doing everything she can to try and find her brother Charlie (1895-1915) who is missing in action. Marie explains all the ways she is going about to locate Charlie and prays for his safety. Marie Helena Martin (1892-1975) later known as &#39;Mother Mary&#39;, was a volunteer nurse during the First World War. She served in field hospitals in Malta, Leeds, and France working for the British army and later went on to become the founder of the Medical Missionaries of Mary (MMM).</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Medical Missionaries of Mary</repository>
+                  <collection>BF122, BF122</collection>
+                  <idno>https://letters1916.ie/item/44</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0709">Marie Martin</persName>
+              <date>1915-12-29</date>
+              <placeName key="#letters1916_place-1504">St. George&#39;s Hospital, Malta</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mary Martin</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0990">Greenbank, Monkstown, Dublin, Co. Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0044_img_1081_1"  type="Letter"  url="a6eb7f92e15b189aafc2594a2711c4b4.jpg"/>
+      <graphic xml:id="L1916_0044_img_1081_2"  type="Letter"  url="e9a460819f1f7f2a5add5138e272ebbb.jpg"/>
+      <graphic xml:id="L1916_0044_img_1081_3"  type="Letter"  url="1edec6cc4a3ec28429f4ddb4609b1f2c.jpg"/>
+      <graphic xml:id="L1916_0044_img_1081_4"  type="Envelope"  url="69f9764da362b646b35f53c09fd5bb46.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0044_img_1081_1"/>
+               My dearest Mother   Just a line to say I have <lb/> heard nothing of Charlie <lb/> a Hospital Ship arrived today <lb/> so am asking some one to find <lb/> out if he came on it. I have <lb/> also got the War Office to <lb/> find out where he is but <lb/> will not get an answer  
+            <pb n="2" facs="L1916_0044_img_1081_2"/>
+              till tomorrow but I hope by <lb/> this you will have had good <lb/> news.   I am in the very best of form <lb/> but longing to hear more <lb/> news.   I shall write you a long <lb/> letter tomorrow &amp; tell you <lb/> all the news.   I have just received a very nice <lb/> letter &amp; cheque from A. Lessy which <lb/> I hope to answer tomorrow <lb/> also M. Charles &amp; M. Frank, it <lb/> was so nice &amp; good of them <lb/> all to think of me so far <lb/> away.   Well I hope this will find  
+            <pb n="3" facs="L1916_0044_img_1081_3"/>
+              you very well with good news <lb/> of Charlie. I hope Tommy <lb/> is very well &amp; not gone out yet.   Very best of love to all. <seg type="closer"> Yours ever loving  Marie </seg><seg type="postscript"> <hi rend="underline">In great haste.</hi> </seg>     On Active Service<lb/><hi rend="underline">M.M.</hi>  Mrs Martin  Greenbank  Monkstown  Co Dublin  <hi rend="underline">Ireland</hi>      ! 
+            <pb n="4" facs="L1916_0044_img_1081_4"/>
+            
+         </ab>
+      </body>
+   </text>
+</TEI>

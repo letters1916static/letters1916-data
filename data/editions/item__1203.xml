@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1203">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Gerry Taylor, 3 October 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Gerry Taylor</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Gerry Taylor regarding the announcement of the death of Fr. Fitzgibbon (1882-1918) .Fr John &#39;Jack&#39; Fitzgibbon SJ was ordained a priest on 31st July 1915. His father, John Fitzgibbon, was a successful draper and Member of Parliament from 1910-1918. Fr Fitzgibbon served in the 6th Division of the British Army, having enlisted shortly after the death of his brother at Gallipoli. He was promoted to senior chaplain in 1917, and in the same year he was gassed at Loos on 5th September and awarded the military cross. Fr Fitzgibbon was killed in action by a shell on the 18th September 1918, and is buried at Trefcon, St. Quentin, Picardie.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Irish Jesuit Archives</repository>
+                  <collection>IJA/CHPI/21/29, IJA/CHPI/21/29</collection>
+                  <idno>https://letters1916.ie/item/1203</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1270">Gerry Taylor</persName>
+              <date>1918-10-03</date>
+              <placeName key="#letters1916_place-1106">War Office, St. Martin&#39;s Place, London, England </placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1203_img_3887_1"  type="Letter"  url="5f9d25069fbff38a82ae8096bd2ae924.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1203_img_3887_1"/>
+              PI/170. (C.3.A.L.)  <hi rend="underline">CERTIFICATE OF DEATH.</hi>  Certified that, according to the records of this <lb/>Office, the Revered JOHN FITZGIBBON, M.C., Temporary <lb/>to the Forces, 3rd Class, was killed in action <lb/> in the 16th Field Ambulance, either in France or in <lb/>Belgium, on the 18th day of September, 1918. <seg type="closer"> Gerry Taylor <lb/>for the secretary, War Office. <lb/>Dated at the War Office, London, <lb/>this 3rd day of October, 1918.</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

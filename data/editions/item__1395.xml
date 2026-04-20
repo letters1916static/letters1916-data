@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1395">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from 'R.H.' to William Henry Brayden, 14 May 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>R.H.</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from a brigadier-general on the general staff of the British army in Ireland, writing on behalf of Sir John Grenfell Maxwell (1859-1929) to William Henry Brayden (1865-1933) the editor of the &#39;Freeman&#39;s Journal&#39;. The letter complains about a number of articles which appeared in the &#39;Freeman&#39;s Journal&#39;, a nationalist newspaper, which he claims were aimed at criticising martial law and fostering sympathy for those who took up arms, or plotted to do so, during the Rising. It explains that articles of that nature will not be tolerated and action may be taken under the Defence of the Realm Act. The writer acknowledges that a number of innocent people have been detained but adds that &#39;flamboyant and incendiary language&#39; would hinder the peace which General Maxwell is trying to restore.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>De Valera Papers, P150/512</collection>
+                  <idno>https://letters1916.ie/item/1395</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0914">R.H.</persName>
+              <date>1916-05-14</date>
+              <placeName key="#letters1916_place-1307">Headquarters, Irish Command, Parkgate, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">William Henry Brayden, The Editor, Freeman&#39;s Journal.</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1395_img_778_1"  type="Letter"  url="33c7d34b32202281a50ee4c385212da2.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1395_img_778_1"/>
+                HEADQUARTERS, IRISH COMMAND,  PARKGATE, DUBLIN.    14<hi rend="superscript">th</hi> May, 1916.   Sir,   I am directed by the General Officer Commanding-in-Chief <lb/>to inform you that his attention has been drawn to several <lb/>articles that have appeared recently in your paper, the purpose <lb/>of which appears to be to criticise and bring into contempt the <lb/>administration of Martial Law in this country and to foster <lb/>sympathy for those who have taken up arms, or plotted <lb/>to do so, against His Majesty's Troops.  I am to inform you that the publication of such <lb/>sentiments cannot be tolerated and that the appearance of any <lb/>further articles of this nature in any newspaper under your <lb/>control will render you liable to immediate action being taken <lb/>under the provisions of the Defence of the Realm Act.  The General Officer Commanding-in-Chief is well aware <lb/>that the suppression of the rising inevitably entailed the <lb/>regrettable arrest and detention of a certain number of persons <lb/>who neither encouraged nor took part in the rebellion or in <lb/>the preparations for same. These cases are being investigated <lb/>with all possible dispatch and though some time may elapse before <lb/>all the innocent persons can be liberated, Press comments <lb/>dwelling upon and emphasising in flamboyant and incendiary <lb/>language any such cases of hardship and injustice can but have <lb/>a prejudicial effect upon the peace of the country which it is <lb/>the object of the General Officer Commanding-in-Chief to restore <lb/>as speedily as possible. <seg type="closer"> I have the honour to be, <lb/>Your obedient Servant  R.H. <lb/>BRIGADIER GENERAL, <lb/>GENERAL STAFF.   To  THE EDITOR,  FREEMAN'S JOURNAL,  D U B L I N.  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

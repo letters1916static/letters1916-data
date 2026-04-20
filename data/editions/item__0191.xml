@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0191">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Harold Smith-Wright to the Chief Secretary, Dublin Castle, 31 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Harold Smith-Wright</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from John Harold Smith-Wright, lieutenant commander of the Royal Navy, to the secretary, Dublin Castle. The letter concerns a letter sent by Wright regarding compensation for travel expenses for his servant, Violet Williams. At the time this letter was sent, there was no active chief secretary in Dublin Castle as Henry Duke (1855-1939) did not take up the position until 5 July 1916, following the resignation of Augustine Birrell (1850-1933) in the immediate aftermath of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/5612/9249</collection>
+                  <idno>https://letters1916.ie/item/191</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1001">John Harold Smith-Wright</persName>
+              <date>1916-05-31</date>
+              <placeName key="#letters1916_place-1766">Chatham, Kent, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">The Chief Secretary</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0890">Dublin Castle</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0191_img_1331_1"  type="Letter"  url="2f6691a65530b5f2076654c374a7c358.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0191_img_1331_1"/>
+                R.N. Barracks  Chatham    31.5.16   Sir,   I should be obliged if you <lb/>would let me know whether any action <lb/> is being taken with regard to my letter <lb/>of 5th inst,asking for compensation in <lb/>regard to the travelling expenses of my <lb/>servant, Violet Williams. I received an <lb/>acknowledgement of its receipt. <seg type="closer"> Yours faithfully  J. Smith Wright <lb/>Lt-Commander RN   The Secretary  Dublin Castle.  </seg> Under Secretary <lb/>Submitted for directions as to reply <lb/>to be sent <seg type="unclear">CWG</seg><lb/>1-6-'16  Reply that their <sic>Excies</sic> are unable to recognize <lb/>claim against public funds for compensation in <lb/>the <sic>circs.</sic> represented.<lb/>RC<lb/>1.6.16<lb/>  
+         </ab>
+      </body>
+   </text>
+</TEI>

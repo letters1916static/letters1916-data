@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0897">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Alice Katherine Wynne to Mr Oliver, 22 March 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Alice Katherine Wynne</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Alice Katherine Wynne (1833-1928) to a Mister Oliver. The letter details arrangements made on behalf of Mr Oliver with regards to renting a room. Refers to Mr Wynnes recovery from pleurisy.Alice Katherine Wynne was born to Reverend John George Wynne and Emily Goold. She was married to Albert Augustus Wynne and was the mother of five children, among them Charles Wyndham Wynne. Charles served as a captain in the Royal Garrison Artillery in the First World War. He was killed in action in June 1917.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Trinity College Dublin</repository>
+                  <collection>, TCD MS 10247-1-668</collection>
+                  <idno>https://letters1916.ie/item/897</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1267">Alice Katherine Wynne</persName>
+              <date>1916-03-22</date>
+              <placeName key="#letters1916_place-0096">Tigroney, Avoca, Co. Wicklow, Ireland.</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Mr Oliver</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0897_img_249_1"  type="Letter"  url="a256d0175c723b2e5d4f336a5291f1fe.jpg"/>
+      <graphic xml:id="L1916_0897_img_249_2"  type="Letter"  url="bebc84b30871d4a1f91d1f202b8bb40c.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0897_img_249_1"/>
+                Tigrony etc    Mar 22<hi rend="superscript">nd</hi> 1916   Dear Mr. Oliver   The months when you<lb/> will move out of Tigrony<lb/> (if we find a tenant) <lb/> can be July Aug<hi rend="superscript">st</hi>.  We will see whether<lb/> we can arrange to let<lb/> you have the extra <lb/> room you <seg type="del">want</seg> asked<lb/> for in yr last letter,<lb/> as to the garden we have<lb/> always been willing<lb/> that you shd have the run<lb/> of it &amp; help yourselves  
+            <pb n="2" facs="L1916_0897_img_249_2"/>
+              in season â but Mr <lb/> Wynne does not wish<lb/> to alter the terms wâ he has already mentioned<lb/> he prefers the<lb/> gardener being under<lb/> his own orders  I s<hi rend="superscript">hd</hi> mentio<lb/> n that it is just possible<lb/> that we may not be<lb/> able to move out on<lb/> May 1<hi rend="superscript">st</hi>. The matter<lb/> has drifted on for<lb/> so long &amp; Mr Wynne<lb/><cb/> is not yet over the<lb/> severe attack of <lb/> pleurisy wâ he had <seg type="closer"> Y<hi rend="superscript">rs</hi> truly in haste  Alice K Wynne </seg> There are 2 ser-<lb/> vants rooms.  
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1293">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Henry W. Nevinson to Gertrude Bannister, 12 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Henry W. Nevinson</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The letter is from writer, war correspondent and crusading journalist Henry W. Nevinson (1846-1951) to Gertrude Bannister (later Parry), a cousin of Sir Roger Casement (1864-1916). Nevinson writes to inform Bannister about individuals who have agreed to write personally to the British Prime Minister Herbert Henry Asquith (1852-1928) or sign petitions in support of Casement. The letter was written while Casement was imprisoned in London after he had been arrested while landing on the coast of Kerry in a submarine on the eve of the Easter Rising. Bannister was heavily involved in raising public support for Casement during his trial for treason. In the 1900s Nevinson had worked closely with Casement in raising awareness about slavery in western Africa and he worked extensively for the campaign to save Casement.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Roger Casement Papers, Collection List No A15, Ms. 13,075 /1</collection>
+                  <idno>https://letters1916.ie/item/1293</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1361">Henry W. Nevinson</persName>
+              <date>1916-07-12</date>
+              <placeName key="#letters1916_place-1840">4 Downside Cresent, Hampshire, England, UK</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1365">Gertrude Bannister</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1293_img_505_1"  type="Letter"  url="d1051d745fe69391552712f52a14db6e.jpg"/>
+      <graphic xml:id="L1916_1293_img_505_2"  type="Letter"  url="a47f2e7099bf101fc205566bdbc68855.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1293_img_505_1"/>
+                From Henry W. Nevinson,  4, Downside Crescent.  Hampstead, N. W.    July 12/16   Dear Miss Bannister,   Many thanks for <lb/> your letter this morning.    Zangwill writes that he has <lb/> already signed Clement Shorten's <lb/> petition and <seg type="unclear">Malsingham</seg> tells <lb/> me his is signing that too.   The Hon. Lady Barlow <lb/> (K.2. The Albany W.) is <lb/> writing privately to Asquith <lb/> and you may put her <lb/> name to the Llewellyn Davies <lb/> petition, or send it to her to <lb/> sign.   E. Richard Crofs (York) <lb/> the solicitor to the Nation  
+            <pb n="2" facs="L1916_1293_img_505_2"/>
+              <lb/>and a great friend of Ll. George <lb/> given me leave to put his <lb/> name to the Native Races <lb/> Petition. Please add it.   V Sir Edwin Pears will <lb/> write privately to Asquith &amp; <lb/> will probably sign one of <lb/> the petitions. His address <lb/> is Reform Club. Pall Mall <lb/> or 10 Lowther Road, Barnes.   I have not seen the D4 <lb/> News yet, but Gardiner <lb/> promised to put in my letter last night.   Please let me know <lb/> anything that can be done.  <seg type="closer"> Warmest <seg type="unclear">regards</seg>  H.W.N. </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

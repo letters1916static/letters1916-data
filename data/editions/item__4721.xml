@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4721">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Thomas Kirkpatrick to Clara Moser, 8 January 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Thomas Percy Kirkpatrick</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>From 1910 until 1954 Thomas Percy Kirkpatrick (1869-1954) served as the registrar for the Royal College of Physicians of Ireland. He also served as the general secretary of the Royal Academy of Medicine in Ireland. He took a particular interest in what were then termed venereal diseases; to encourage his patients (many of whom were prostitutes) to attend, he held a clinic for women at a discreet early morning hour to facilitate anonymity.
+
+Clara Moser was the secretary of the Irishwomen&#39;s Reform League, a non-party and non-militant suffrage organization, and the Dublin Watch Committee. Established in 1916 the Dublin Watch Committee was established to see that laws for the preservation of public decency, health, and morality were enforced.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Royal College of Physicians of Ireland</repository>
+                  <collection>RCPI-2-3-2-14-4</collection>
+                  <idno>https://letters1916.ie/item/4721</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0544">Thomas Percy Kirkpatrick</persName>
+              <date>1918-01-08</date>
+              <placeName key="#letters1916_place-1042">Royal College of Physicians, Kildare Street, Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0391">Clara Moser</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1770">Dublin Watch Committee, 29 South Anne Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1954</item>
+               <item n="tag">Medicine</item>
+               <item n="topic">Medicine</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4721_img_4057_1"  type="Letter"  url="a219c4c877436265eaa356cab37c4ab8.jpg"/>
+      <graphic xml:id="L1916_4721_img_4057_2"  type="Letter"  url="279bfc2786c54e84ca04da4bbf904142.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4721_img_4057_1"/>
+             8th JANUARY 18.   Miss Moser, <lb/>Hon. Sec., <lb/>Dublin Watch Committee, <lb/>Dublin.   Madam,   On Friday last the President and Fellows of the Royal College <lb/>of Physicians of Ireland had under consideration a report from <lb/>their Parliamentary Commitee on the subject of your deputation <lb/>to the College of the 13th December,1917    In the preparation of this report the Committee had the advan- <lb/>tage of an interview with Mrs.Kingsley Tarpey who kindly attended <lb/> and laid before the Committee the views of the National Council <lb/>for combating Venereal Diseases.   The President and Fellows see several possible difficulties in <lb/>the way of establishing a branch of the society in Dublin and <lb/>believe that the matter will have to be managed with great tact <lb/>if it is to be a success. They consider that if such a branch is <lb/>to be started in Dublin it should be started by a public meeting <lb/>or at all events by persons who are not directly connected with <lb/>the medical profession. They suggest that the Archbishops of <lb/>Dublin, as heads of the Churches, should be first approached on <lb/>the matter, either by Mrs.Tarpey, as representative of the parent <lb/>society, or by a deputation from your Society. If the views of
+            <pb n="2" facs="L1916_4721_img_4057_2"/>
+            the Archbishops are favourable to the project the President <lb/>and Fellows believe that the Lord Mayor of Dublin might be <lb/>induced to call a public meeting to form a branch. If the <lb/>views of the Archbishops are unfavourable the President and <lb/>Fellows are doubtful of success of the proposed under- <lb/>taking.   The President and Fellows will do what they can to help <lb/>in the matter, but they believe that the initial steps <lb/>should be taken by non-medical persons.   I remain, Madam, <lb/>Yours faithfully,  <lb/>Fellow &amp; Registrar.
+         </ab>
+      </body>
+   </text>
+</TEI>

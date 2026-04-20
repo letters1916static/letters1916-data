@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0061">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Patrick Pearse to Seán T. O'Kelly, 22 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Patrick Henry Pearse</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Patrick Pearse (1879-1916) to Seán Thomas O&#39;Kelly (1882-1966), politician and later president of Ireland. In this letter, written two days before the Easter Rising and on the eve of the original date for the Rising, Pearse asks if O&#39;Kelly can provide accommodation for the night for himself and his brother William (1881-1916), who was also later executed.Patrick Pearse was a writer, a teacher and one of the leaders of the Easter Rising, 1916. He was a key member of the IRB military council, a signatory of the proclamation of the Irish Republic (which he read outside the GPO). As president of the provisional government, it was Pearse who called the surrender. He along with 15 others, was executed shortly after surrender. Seán Thomas O&#39;Kelly was a founding member of the Irish Volunteers. A former editor of Arthur Griffith&#39;s newpaper, An Claideamh Soluis, O&#39;Kelly became the national secretary of the Gaelic League in 1915. O&#39;Kelly departed on a fund raising mission to the United States in 1915, returning to serve as Aide-de-Comp for Padraig Pearse during the 1916 Rising. He was incarcerated in Frongoch and Wandsworth prisons alongside other volunteers after the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Seán T. O&#39;Kelly Collection, BMH CD/95/2/1</collection>
+                  <idno>https://letters1916.ie/item/61</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0291">Patrick Henry Pearse</persName>
+              <date>1916-04-22</date>
+              <placeName key="#letters1916_place-0542">St. Enda&#39;s College, Rathfarnham, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0470">Seán T. O&#39;Kelly</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0746">27 Upper Rutland Street, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0061_img_1127_1"  type="Letter"  url="27f2df7a7e6522b2dae8229c21427fc6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0061_img_1127_1"/>
+                SCOIL ÃANNA,  RÃT FEARNÃIN.  ST. ENDA'S COLLEGE,  RATHFARNHAM.    22/4/16   <seg type="foreign">A Cara</seg>,   could you put my brother and myself <lb/> up tonight? It is important that we should<lb/> be in town. If you cannot, can you get <lb/> some friend to do it? Please let me know <lb/> by bearer. We should send some traps in <lb/> the early evening, and arrive on bicycles <lb/> ourselves later.  <seg type="closer"> <seg type="foreign">Mise</seg>  PÃ¡draig Mac Piarsaig  SeÃ¡n T O Ceallaig<lb/>  27 Upper Ruthland St.  <hi rend="underline">Dublin</hi>  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

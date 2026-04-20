@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4434">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John Elliott and Edward Clark to Henry T. Gallagher, 23 June 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Elliott</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Elliot &amp; Clark Solicitors to Henry T. Gallagher informing him that they will be acting as defence in the case of King vs Bonner &amp; Ors. and providing the list of witnesses for the trial.
+
+John Elliott (1859-1936) was a solcitor in the firm of Messrs Elliot ad Clark in Strabane, Co. Tyrone. Elliott&#39;s only son Cecil Moore Elliott was a private in Private &#34;D&#34; Coy. 7th Battalion of The Royal Dublin Fusiliers. He was killed in action in August 1915 aged twenty-two.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI/CSO/RP/1916/10858/2</collection>
+                  <idno>https://letters1916.ie/item/4434</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0147">John Elliott</persName>
+              <date>1916-06-23</date>
+              <placeName key="#letters1916_place-0754">Strabane, Co. Tyrone, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0430">Henry T. Gallagher</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0754">Strabane, Co. Tyrone, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1936</item>
+               <item n="tag">Law and Judiciary</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Law and Judiciary</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4434_img_3785_1"  type="Letter"  url="4e5bf1fe59a47aaec6c4029a3b90a25a.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4434_img_3785_1"/>
+             ELLIOTT &amp; CLARK <lb/>SOLICTORS. <lb/>JOHN ELLIOTT, <lb/>Coroner for North Tyrone <lb/>EDWARD CLARKE <lb/>Deputy Coroner. <lb/>Telegrams- "ELLIOTT, CORONER." <lb/>Telephone No 24.   STRABANE, <lb/>CO.TYRONE.   23rd June, 1916.  <seg type="head"><hi rend="underline">King V Bonner &amp; Ors.</hi></seg>  Dear Sir,   We are acting for the defence in above case at next <lb/>Lifford Assizes and wish to summon as witnesses for the defence Edward <lb/>Brennan of Aughmeen, Dungloe and Patrick Sweeney of Cranashallow, <lb/>Dungloe who in our opinion are material witnesses. Our clients are poor <lb/>people and as they will incur<seg type="del">e</seg> very heavy expense in the defence and <lb/>in travelling from Dungloe to Lifford, we would ask you to have the <lb/>two witnesses summoned by the Crown.   Yours faithfully,   Elliott &amp; Clarke   H.T. Gallagher Esq., <lb/>Crown Solictor, <lb/>Strabane. 
+         </ab>
+      </body>
+   </text>
+</TEI>

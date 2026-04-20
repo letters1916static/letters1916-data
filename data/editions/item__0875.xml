@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0875">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from William H Brown to Rev Patrick Murphy, 27 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from William H Brown, the Censor at Frongoch Interment Camp, to the Rev Patrick Murphy. Brown writes to confirm receiving Murphy&#39;s letter and sends permits to visit the following prisoners interred in the camp: W.Sears, D. O&#39;Brien, T.Doyle, P. Kehoe, J. Kavanagh, J. Murphy, C.J. Irvin,</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Wexford County Archive</repository>
+                  <collection>WXCA/P/289, WXCA/P/289</collection>
+                  <idno>https://letters1916.ie/item/875</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName ></persName>
+              <date>1916-09-27</date>
+              <placeName key="#letters1916_place-0738">Frongogh Internment Camp, Merionethshire, Wales</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Patrick Murphy</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0608">House of Missions, Enniscorthy </placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0875_img_2444_1"  type="Letter"  url="7a4f20b5b57b156d084d449bb72703be.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0875_img_2444_1"/>
+             W. P. Griffith, &amp; Sons Ltd., Printers, Old Bailey, E. C <lb/> [326] W9668/1672 2500m 12/14s 75 78. <lb/> forms c348 / 61 <seg type="head">MEMORANDUM</seg>   From The Censor  Internment Camp  To Rev Patrick Murphy  House of Missions,  Enniscorthy   Frongoch, near Bala,  27 September 1916    Rev. Sir,    Replying to your letter of <lb/> the 25th instant, I enclose (four) <lb/> permits to visit: W. Sears, C J. Irwin, <lb/>D.O' Brien, T Doyle, P Kehoe, <lb/> J. Kavanagh, J. Murphy and <lb/> P. Murphy, on the 3rd prox. <seg type="closer"> Yours faithfully,  William H Brown <lb/> 2nd Lieut., 60<hi rend="superscript">th</hi> Rifles <lb/> Censor.</seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

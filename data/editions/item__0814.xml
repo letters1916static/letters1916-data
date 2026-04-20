@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0814">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from J. C. Lyle, 28 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>J. C. Lyle</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from J.C. Lyle regarding the services he can offer as an employee. Lyle details his previous experiences and the objections which have hindered him obtaining a job thus far. Lyle states the he does not care what the employment is he just wants to serve his country.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/7428</collection>
+                  <idno>https://letters1916.ie/item/814</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1467">J. C. Lyle</persName>
+              <date>1916-04-28T00:00:00</date>
+              <placeName key="#letters1916_place-0488">343, Winchester House, Old Broad Street, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0814_img_2357_1"  type="Letter"  url="96787c1775a25c4d172eb383791c7154.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0814_img_2357_1"/>
+                343 Winchester House  Old Broad Street  London    28<hi rend="superscript">th</hi> April 1916   Sir   I have the honour to offer my <lb/>services in any capacity for which <lb/>I may be suited.  I served for 27 years in the State <lb/>Railway Dep<hi rend="superscript"><hi rend="underline">t</hi></hi> Gov<hi rend="superscript"><hi rend="underline">t</hi></hi> of India &amp; was <lb/>specially selected for several important <lb/>posts. I built the Durban Railways <lb/>in 1911 and was rewarded with <lb/>the distinction of C.V.O   I have been in sole charge of survey <lb/>operations through the <sic>Sind</sic> desert <lb/>&amp; much of my life has been spent <lb/>in charge of construction operations <lb/>in out of the way jungles. I was <lb/>some years ago badly smashed up at <lb/>polo &amp; have been so knocked about <lb/>that I believe there were some doubts <lb/>as to whether I would even be fit <lb/>again but I have been making <lb/>myself fit &amp; can now hunt walk <lb/>shoot &amp; play almost all games  I have of course offered by services <lb/>through the India Office &amp; had an <lb/>interview at the War Office but the <lb/>objection to employing me appears at <lb/>present to be that I held too high &amp; <lb/>responsible posts in India to now <lb/>go into a subordinate position. <lb/>I have personally no objection to <lb/>serving even under those who were <lb/>my junior assistants. I have no <lb/>objection to working with my hands <lb/>at any menial job if by so doing <lb/>I can assist my country. I can drive <lb/>a motor but am not a skilled mechanic <seg type="closer"> I have the honour to be <lb/>Your most obedient servant  J.C. Lyle C.V.D <seg type="unclear">Doyle</seg></seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

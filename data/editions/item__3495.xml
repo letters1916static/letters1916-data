@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3495">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from John French to John Redmond, 15 April 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John French</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from John French (1852-1925) to John Redmond (1856-1918). French is replying to Redmond to answer a complaint made by a Mr R. McGee about the refusal to give his son a commission. French informs Redmond that the decision was made &#39;for reasons entirely disconnected with politics&#39;.
+
+Sir John Denton Pinkstone French, first Earl of Ypres, was a British officer. Upon the outbreak of war, French was appointed Field Marshal of the British Expeditionary Force (BEF). Although popular with his men, the failure of his offensives, Neuve-Chapelle and Loos, to break the German lines and his criticism of the home government led to his replacement as Field Marshal by Sir Douglas Haig (1861-1928) in late 1915. French was appointed Commander in Chief of the Home forces in January 1916. John Redmond was an MP and leader of the Irish Parliamentary Party. He was instrumental in securing the promise of Home Rule from Asquith&#39;s liberal government. Upon the outbreak of war, Redmond addressed a group of Irish Volunteers at Woodenbridge, Co. Wicklow, encouraging them to fight with the British Army to ensure the implementation of Home Rule. Redmond&#39;s words split the Irish Volunteers across the country. The Easter Rising shocked Redmond, who condemned it bitterly. Nonetheless he appealed for leniency towards those who had not been involved in planning the Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>MS 15,188/7</collection>
+                  <idno>https://letters1916.ie/item/3495</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0529">John French</persName>
+              <date>1916-04-15</date>
+              <placeName key="#letters1916_place-1474">G.H.Q. Home Forces, Horse Guards, S.W., England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1486">John Redmond</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0077">House of Commons, London, England</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1925</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3495_img_2902_1"  type="Letter"  url="c76187ec43c3dbdab21e4c7011cdcdea.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3495_img_2902_1"/>
+             G.H.Q. Home Forces, <lb/>Horse Guards, <lb/>S.W.   15th April 1916.   My dear Mr Redmond   I have had enquiries made at the War Office in <lb/>reference to Mr R.McGhee's complaint about his son having <lb/>been refused a commission. It is perfectly clear that <lb/>although his son passed the examination at the O.T.C., <lb/>Grover Park, he was not recommended for a commission, for <lb/>reasons entirely disconnected with politics; and from the <lb/>information given to me,I think you may be quite satisfied <lb/>that your friend is wrong in his surmise that Captain <lb/>Snowden Smith was prejudiced against his son in any way.   I sent over to the War Office and ascertained that <lb/>Capt. The Hon. FitzRoy Hemphill's name has been noted for <lb/>employment. It is scarcely necessary for me to tell you <lb/>that the waiting list for all positions for which he is <lb/>qualified, is a very long one; but I shall keep his name in <lb/>mind, and hope I may have an opportunity of obliging you in <lb/>the matter.   Yours very sincerely   <hi rend="underline">French</hi>  <lb/>J.Redmond Esq, M.P. <lb/>House of Commons.
+         </ab>
+      </body>
+   </text>
+</TEI>

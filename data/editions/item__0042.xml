@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0042">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from The O'Rahilly to Hely's Limited, 1915/1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Michael Joseph O&#39;Rahilly</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Michael Joseph O&#39;Rahilly (1875-1916) to Hely&#39;s Limited, a printing company in Dublin. O&#39;Rahilly writes enclosing the money owed to Hely&#39;s from a bill accrued by the Irish Volunteers. It appears that he never got a chance to deliver the letter or the money himself and it was later done so by Fr Aloysius Travers (1870-1957) after the Rising.Michael Joseph O&#39;Rahilly, self-described as &#39;The&#39; O&#39;Rahilly, was involved in the procurement of arms in the lead-up to the Rising and was involved in the Howth gun-running incident. He fought in the G.P.O. During the Rising and was shot in Parnell/Moore Street on 28 April 1916 and died some time later. &#39;Fr Aloysius was a Capuchin priest in Church Street in Dublin and of the members of the church to minister to the leaders of the Easter Rising before the execution. Enclosed are the original bill, the receipt issued to Fr Aloysius and an acknowledgment from Hely&#39;s of the payment.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Bureau of Military History Contemporary Documents, Fr Augustine Collection, BMH CD/159/2</collection>
+                  <idno>https://letters1916.ie/item/42</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0015">Michael Joseph O&#39;Rahilly</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Hely&#39;s Limited</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Culture and the Arts</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0042_img_1073_1"  type="Letter"  url="4bdfbdbfdf15ac864add28703b96839c.jpg"/>
+      <graphic xml:id="L1916_0042_img_1073_2"  type="Letter"  url="bcfdb7aced019801b7a174f57a50ceed.jpg"/>
+      <graphic xml:id="L1916_0042_img_1073_3"  type="Letter"  url="253469dc044b450a4ae521be04888900.jpg"/>
+      <graphic xml:id="L1916_0042_img_1073_4"  type="Letter"  url="fceadd8ed589270840f97a208612cf37.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0042_img_1073_1"/>
+               <seg type="foreign">A cara</seg>   Enclosed is Â£16.10.0 <lb/> which is as well as <lb/> I can remember the <lb/> amount of the bill <lb/> due to you by the <lb/> Irish Volunteers which I told you would be paid.   This amount is paid out <lb/> of <hi rend="underline">Volunteer</hi> moneys in <lb/> my hands.  <seg type="closer"> <seg type="foreign">Mise do cara</seg>  Ua Raighaille <lb/>  (40 Herbert Park)  </seg> 
+            <pb n="2" facs="L1916_0042_img_1073_2"/>
+               
+            <pb n="3" facs="L1916_0042_img_1073_3"/>
+               
+            <pb n="4" facs="L1916_0042_img_1073_4"/>
+               
+         </ab>
+      </body>
+   </text>
+</TEI>

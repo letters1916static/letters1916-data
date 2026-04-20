@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_6725">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Fr Maher to Fr Michael O'Flanagan, 15 October 1918</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Fr Maher</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Fr Maher confirms that he has written to Canon Timlin, Skreen, Sligo and that the has replied to state he does not know the author of the rumour.  Fr Maher also states that he has spoken to Fr Michael Grady?, not sure of spelling.  Fr Maher states that Fr Grady? (handwritten letter, unsure of surname), when questioned stated that he had never heard of the rumour and that he gives retreats himself and never heard of Fr O&#39;Flanagan giving any grounds for such a rumour when on retreat.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>O&#39;Flanagan Private Collection</repository>
+                  <collection></collection>
+                  <idno>https://letters1916.ie/item/6725</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0339">Fr Maher</persName>
+              <date>1918-10-15</date>
+              <placeName key="#letters1916_place-1425">Milltown Park, Dublin</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0313">Fr Michael O&#39;Flanagan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">The Rising Tide (1917-1919)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_6725_img_None_1"  url="phppqQmon.jpg"/>
+      <graphic xml:id="L1916_6725_img_None_2"  url="php4rur37.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_6725_img_0_1"/>
+              Milltown Park<lb/>Dublin    My Dear Fr O'Flanagan   I wrote to Canon Timlin of Skreen seeking<lb/>him kindly to let me know the name of the Jesuit<lb/>to whom was attributed the rumour concerning<lb/>you. This morning, I receive his reply in which<lb/>he states that he does not know who was<lb/>the author of it, nor had he the remotest notion 
+            <pb n="2" facs="L1916_6725_img_0_2"/>
+             who gave rise to the rumours. I met the other day<lb/>Fr. Michael Garahy, who was until last July<lb/>attached to Milltown Parish Community &amp; who gave<lb/>the Killala Priests retreat at Ballina in July<lb/>asked him if he knew anything of this report and he<lb/>told me he never heard of it before or had you<lb/>the conversation (indirect) which he had with<lb/>you here when you were in Retreat given any<lb/>ground for such a suspricion or allegation as<lb/>the one in question   Yours faithfully    M Maher Fr  
+         </ab>
+      </body>
+   </text>
+</TEI>

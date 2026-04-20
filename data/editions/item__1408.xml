@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1408">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Major Luscombe to Sir Matthew Nathan, 30 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Major George A. Luscombe</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Major George A. Luscombe (c.1864-?) to Sir Matthew Nathan, Under Secretary for Ireland. Nathan (1862-1939) was the Under-Secretary for Ireland from 1914 until 1916. In 1916 he faced criticism for failing to be aware of and to prevent the outbreak of the Easter Rising on 24 April.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/3906</collection>
+                  <idno>https://letters1916.ie/item/1408</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1057">Major George A. Luscombe</persName>
+              <date>1916-01-30</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1306">Matthew Nathan</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1408_img_806_1"  type="Letter"  url="9ca2b78b2f8e40f7687ec21673616508.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1408_img_806_1"/>
+                The Under Secretary,  Dublin Castle.   Sir,   I beg to submit the attached <lb/>application for exemption from <lb/>internment on behalf Adolf <lb/>Ether, a prisoner of war in this <lb/>camp.  <seg type="closer"> I have the honour, <lb/>To be Sir, <lb/>Your obt Serv   M.T. Luscombe <lb/>Major <lb/>Commandant </seg> Chief Com <lb/><seg type="unclear">please send</seg><lb/>usual form <lb/>EOF <lb/>31.1.16   Supt. B.dmn <lb/>W.A.M. 1/2/16.   Inspt Willoughley <lb/>For report <lb/>1/2/16 <lb/>J Dunne <lb/>Chief Supt   
+         </ab>
+      </body>
+   </text>
+</TEI>

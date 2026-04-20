@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2318">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Martin McDonnell to  John Francis Hogan, 20 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Martin McDonnell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter was written by Martin McDonnell to John Francis Hogan (1858–1918), priest, author, and president of St Patrick&#39;s College, Maynooth. In the letter Martin asks pardon of Hogan after he left the college retreat the previous Saturday.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>St Patrick’s College, Maynooth</repository>
+                  <collection>John F. Hogan Papers 21/18/23</collection>
+                  <idno>https://letters1916.ie/item/2318</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0868">Martin McDonnell</persName>
+              <date>1916-09-20</date>
+              <placeName key="#letters1916_place-0685">Junior House, Maynooth</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">John Francis Hogan</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Faith</item>
+               <item n="topic">Faith</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2318_img_1766_1"  type="Letter"  url="b1ca389bdc5369d261492a0b605c943c.jpg"/>
+      <graphic xml:id="L1916_2318_img_1766_2"  type="Letter"  url="037d4cd70407b014b910351048fc7b7b.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2318_img_1766_1"/>
+             18/23  <!-- Embossed Address: --> JUNIOR HOUSE, MAYNOOTH.    20 Sept. '16,    My Lord,   I had the<lb/>misfortune to leave the<lb/>College last Saturday<lb/>morning. The cause was<lb/>as follows -:     During the retreat I<lb/>became somewhat scrupulous<lb/>and felt that if I were 
+            <pb n="2" facs="L1916_2318_img_1766_2"/>
+             to become a priest, my<lb/>life would be fully of misery.  Having entertained<lb/>these thoughts I had<lb/>the misfortune to leave<lb/>the College last Saturday<lb/>morning, and for this<lb/>offence I crave your<lb/>Lordship's pardon.   I remain, my<lb/>Lord Bishop,    Your Lordship's most<lb/>obedient servant,<lb/>Martin McDonnell.  
+         </ab>
+      </body>
+   </text>
+</TEI>

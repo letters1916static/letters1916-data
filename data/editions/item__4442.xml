@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_4442">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Col. F.A. Heygate Lambert to Sir Robert Chalmers, 26 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>F.A. Heygate Lambert</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Col. F.A. Heygate Lambert to Sir Robert Chalmers regarding the enclosed list of Irish prisoners to be released from Frongoch. 
+
+In 1916 Col. F.A. Heygate Lambert (1857-1929) was serving as the Commandant of Frongoch Internment Camp. Lambert served in the camp until the last of the prisoners were released in December 1916. In the Spring of 1917 he went to Ypres to command a battalion of the Labour Corps.
+
+Sir Robert Chalmers was appointed Under-Secretary of Ireland in 1916, replacing Sir Matthew Nathan (1862-1939) in the aftermath of the Easter Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>NAI/CSO/RP/1916/13321/3</collection>
+                  <idno>https://letters1916.ie/item/4442</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0929">F.A. Heygate Lambert</persName>
+              <date>1916-07-26</date>
+              <placeName key="#letters1916_place-1722">Frongoch, Wales</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Robert Chalmers</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1929</item>
+               <item n="tag">Easter Rising Ireland 1916</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+               <item n="topic">Politics</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_4442_img_3792_1"  type="Letter"  url="522e3fa4fe089b80c4d479658435b354.jpg"/>
+      <graphic xml:id="L1916_4442_img_3792_2"  type="Enclosure"  url="2f7b5d6990d4dedbbfa02bcd7a4d547b.jpg"/>
+      <graphic xml:id="L1916_4442_img_3792_3"  type="Enclosure"  url="bfc927e2e5411df48e4bcc6d4c883451.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_4442_img_3792_1"/>
+             The Under Secretary,<lb/>Dublin Castle,<lb/>Dublin,   Sir,   In confirmation of my telegram of to-day, I attach<lb/>herewith nominal rolls of Irish prisoners to be released<lb/>on Thursday the 27th inst., and who will travel by the<lb/>Holyhead and Kingstown route, leaving Holyhead by the<lb/>midnight boat on Thursday.   I have the honour to be,<lb/>Sir,<lb/>Your obedient servant ,  F.A. Heygate Lambert.  Colonel.<lb/>Commandant.  Prisoners of War Camp,<lb/>Frongoch, nr. Bala.   26th July 1916  
+            <pb n="2" facs="L1916_4442_img_3792_2"/>
+             List of Irish Prisoners to be<lb/>RELEASED<lb/>at 8.0 p.m. Thursday.  27 July  [Talbe not transcribed. See table/image.] 
+            <pb n="3" facs="L1916_4442_img_3792_3"/>
+             Camp No. W.O No Name Address.<lb/>955 1105 Brybe, Patk 2 Alexander Terr.<lb/>1715 1105 Byrne, Jas <seg type="del">39 Nicholas Street,</seg><lb/>1809 836 D'Arcy, Jas Milltown.<lb/>369 625 Derham, Matthias. Roar Rock, Skerries.<lb/>1713 1582 Forde, JOhn 30 Up. George Street,<lb/>1556 603 Early, Patk J. Swords.<lb/>1482 1578 Kearney, Thos. Ballyboden.<lb/>1430 1211 Kelly Fergus. Coolgariff, Stillorgan.<lb/>1511 682 Horan, Matthew. 2 Anglesay Avenue, Blackrock.<lb/>1543 1536 McKee, Richard Finlas Bridge.<lb/>810 1480 McKenna, John C/O John Redmond, Forge, Milltown.<lb/>312 688 Noctor John 27 Dean Grange Terr. Blackrock.<lb/>1748 1560 O'Brian, Wm. 10. Annaville. Ranelagh.<lb/>1283 1440 O'Driscoll. E. Ashtown, Castleknock  Colonel,<lb/>Commandant.  Prisoneres of war camp,<lb/>Frongoch, nr. Pala.<lb/>27th July 1916.  Certificate:  Certified that I have examined the above named Irish prisoneres<lb/>and consider them in a good state of health. I am also of opinion<lb/>that internment in this camp has been in no way injurious to their<lb/>health.  FRONGOCH.<lb/>27th July 1916.  <seg type="unclear">g</seg>.o.i/e. 
+         </ab>
+      </body>
+   </text>
+</TEI>

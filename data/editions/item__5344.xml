@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5344">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from R.R. Clark to John Earls, 2 March 1919</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>R. R. Clark</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Expresses regret that they will be unable to attend the meeting called to discuss the motion to express sympathy with Captain Forth&#39;s family.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Public Record Office of Northern Ireland</repository>
+                  <collection>Belfast College of Technology, BCT/8/2/43</collection>
+                  <idno>https://letters1916.ie/item/5344</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1558">R. R. Clark</persName>
+              <date>1919-03-02</date>
+              <placeName key="#letters1916_place-0505">57 The Mount, Albert Bridge Rd., Belfast, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0494">John Earls</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1370">Municipal  Technical Institute, Belfast, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5344_img_None_1"  url="c3bbaeda42141f5b0ee7dd6410a221fb.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5344_img_0_1"/>
+              57 The Mount<lb/>Albert Bridge Ct.<lb/>Belfast- <lb/> 2/3/19   J.Earls .Esq BA.<lb/>  Sir,    I regret that I<lb/>cannot attend the special meeting<lb/>tomorrow night at 6.30, as I<lb/>will be working late.  I write in warmest sympathy<lb/>with the object of the meeting,<lb/>and am very sorry indeed.<lb/>that I cannot attend in<lb/>person.   I am Sir<lb/>yours sincerely   R.R. Clark. 
+         </ab>
+      </body>
+   </text>
+</TEI>

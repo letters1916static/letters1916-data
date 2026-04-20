@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0904">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Peter Mooney to his sister Katie Mooney, 21 Sept 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Peter Mooney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Peter Mooney (b1886) to his sister Katie (b.1884). Peter writes of pictures of the battle of the Somme. This could relate to actual pictures sent home or more likely, the screening of the official war film, the Battle of the Somme. He writes of the increasingly cold weather and asks Kate to send him undershirts and a jacket cardigan that is not too large and khaki in colour. Peter asks about family life at home and informs Katie that his address has changed to, P. Mooney 192689:88 section P. company 4th special battalion R.E BEF. Orphaned at age 7, Peter and his sister Katie were raised by their uncle William and his wife Mary in Caulstown. While there are no surviving enlistment papers for Peter, his War Badge Index Record shows his enlistment date as 18 October 1915. He served with the Royal Artillery and later transferred to the Royal Engineers where he was promoted to the rank of Sergeant. He served in several places at the Western Front, including Ypres, St. Omer and Passchendael. Peter and Kate were avid correspondents. This letter part of a collection of over ninety surviving letters.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Mooney Family Papers</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/904</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0428">Peter Mooney</persName>
+              <date>1916-09-21</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1038">Katie Mooney</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0904_img_2515_1"  type="Letter"  url="75768d214880a182556b819526187919.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0904_img_2515_1"/>
+                Sept 21<hi rend="superscript">st</hi> 1916   Dear Katie   I received you first card this morning. Glad<lb/> to see that all are so well. I am sure you engage at<lb/> the Pictures of the Somme Battle it must give one a<lb/> fair idea of what the real thing is like. I will watch<lb/> for your next letter as you say you have some interesting<lb/> news for me. The weather is getting cold out here<lb/> now so I would like you to send me a pair of<lb/> undershirts &amp; a Cardigan jacket. Not too large a size<lb/> and if possible Khaki colour. I had a letter from Denis<lb/> Farrell this morning he is going on well he is certainly<lb/> very lucky considering he being out all the time.<lb/> You might tell James if you see him. Can you tell me<lb/> what date the Auction will be held I hope it will<lb/> be successful. I have got another change of address as follows.<lb/> Pioneer P.Mooney 192689: 88 Section..P: Company: 4th Special<lb/> Batt: R.E. B.E.F. France. I had a letter from Laurence Kelly<lb/> last week kindly tell him of my change of address. How<lb/> is old Charlie getting on I hope he minds the Grey horse<lb/> well. Old Billy must be gone down a lot now he is so<lb/> very old. I have no more to say at present so Good Bye<lb/> &amp; May God Bless &amp; keep you all. <seg type="closer"> Good-Bye.  Peter Mooney </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

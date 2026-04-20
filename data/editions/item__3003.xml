@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3003">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Laurence Ginnell, 9 December 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Laurence Ginnell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>The author of this letter, Laurence Ginnell (1852-1923) was a land agitator, lawyer, and politician, serving as an Irish Parliamentary Party MP from 1906. Politically isolated on account of his position at the extreme wing of Irish agrarian agitation, Ginnell was charged on multiple occasions with incitement to cattle-driving. After the executions of the Easter Rising leaders, Ginnell accused the British government of murder. In 1918 he became the only IPP MP to leave the party for Sinn Féin.
+
+In this letter, Ginnell is writing in connection to his work with the Midland Peat Industrial Committee. He writes that the committee has taken  on several new members and that the newly enlarged committee will meet on 3 January 1916 at the Greville Arms Hotel, Mullingar, to transact &#34;business of the utmost importance&#34;. He invites his correspondent to attend.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Military Archives of Ireland</repository>
+                  <collection>Military Archives of Ireland, Br Allen Collection, Green Autograph Book 1; IE/AL/GAB1/100</collection>
+                  <idno>https://letters1916.ie/item/3003</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1007">Laurence Ginnell</persName>
+              <date>1915-12-09</date>
+              <placeName key="#letters1916_place-1638">House of Commons, Westminster, London, England</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName ></persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1923</item>
+               <item n="tag">Industry and Public Administration</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3003_img_2405_1"  type="Letter"  url="1aac0592fc65caa4c6d2fc946a54defe.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3003_img_2405_1"/>
+             9<hi rend="superscript">th</hi> December, 1915   Dear Sir,  <hi rend="underline">Midland Peat Industries Committee.</hi>  This Committee at it's meeting on the 15<hi rend="superscript"><hi rend="underline">th</hi></hi> November <lb/>co-opted the following gentlemen, subject to their consenting <lb/>to act, which each of them has since done :- Mess<hi rend="superscript">rs</hi> H.M. <lb/>Tuite J.P ; James King J.P. ; Hugh O'Neill J.P. ; Charles E. <lb/> Levinge J.P. ; Christopher Lennon D.C. ; and Dominick <lb/>Nugent.    It was decided to hold a meeting of the enlarged <lb/>Committee in the Greville Arms Hotel, Mullingar, <lb/>on Monday, 3<hi rend="superscript">rd</hi> January, 1916, at one o'clock for the <lb/>transaction of business of the utmost importance; and <lb/>I was asked to express the hope of the Committee that <lb/>you will be able to attend on that occasion.    Yours faithfully    L. Ginnell. 
+         </ab>
+      </body>
+   </text>
+</TEI>

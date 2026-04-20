@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5697">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter to Lady Clonbrock, 25 July 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>May (or Mary) Mackreegio[?]</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter of congratulation on the golden wedding anniversary of Lord and Lady Clonbrock. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>NLI MS 35,793 (9)</collection>
+                  <idno>https://letters1916.ie/item/5697</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0999">May (or Mary) Mackreegio[?]</persName>
+              <date>1916-07-25</date>
+              <placeName key="#letters1916_place-1219">House of Farr, Inverness, Scotland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0049">Lady Clonbrock</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="tag">Personal Relations</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5697_img_80_1"  type="Letter"  url="892f70de3dab8f42b48c3cf7aab6ade8.jpg"/>
+      <graphic xml:id="L1916_5697_img_80_2"  type="Letter"  url="e39afc44067d594f1295e05aa5db276f.jpg"/>
+      <graphic xml:id="L1916_5697_img_80_3"  type="Letter"  url="7f6df942137d7d994e2ae173b6184c33.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5697_img_80_1"/>
+             <sic>Yrs</sic> <sic>v. affectn.</sic>May Mackenzie  <lb/>Inverness Station (9 Miles)<lb/>Parcels to Daviot Station (7 Miles)  Inverfarigaig Pier for Canal 13 Miles<lb/>(conveyances at Foyers Hotel)<lb/><lb/>Letters and Telegrams to  <lb/> HOUSE OF FARR,<lb/>INVERNESS. <lb/> 25: July.    My dear Tweetie   I was <hi rend="underline">very</hi> much interested<lb/>in seeing the other day in<lb/>the Papers a notice of<lb yours="">Wedding anniversary!<lb/>I hope you will not think<lb/> 
+            <pb n="2" facs="L1916_5697_img_80_2"/>
+             it is too late for me to<lb/>wish &amp; offer you both our<lb/>very heartiest &amp; most sincere<lb/>congrats on the happy anni—<lb/>versary? Yours has been<lb/>such a beautiful &amp; ideal<lb/>marriage! it is only fitting<lb/>it should be celebrated with<lb/>much joy &amp; thankfulness.<lb/>I have so many beautiful  <lb/>&amp; happy memories connected<lb/>with Clonbrock &amp; with you<lb/><hi rend="underline">both. </hi>&amp; all your unfailing<lb/>kindness to me &amp; mine, I<lb/>should not like to be left out<lb/>in my good wishes on this<lb/>happy occasion. I hope<lb/>you are all keeping very well<lb/>&amp; as happy as anyone can<lb/>be with this terribly bad war<lb/>raging on! I do think you 
+            <pb n="3" facs="L1916_5697_img_80_3"/>
+             seem to be getting on at last! How<lb/>splendidly brave our men are!<lb/>My Son William had all his<lb/><hi rend="underline">three</hi> Grandsons fighting at the<lb/>front — <hi rend="underline">two </hi> have now been killed<lb/>in action bravely leading their<lb/>men &amp; only one alas! is now<lb/>left! God Grant he may be spared<lb/>to us! I saw dear Harriet &amp; <seg type="unclear">Stella</seg> <lb/>just before coming North to the<lb/><seg type="unclear">Teaching</seg> Sch. Bob did not come<lb/>to stay with us but went to Hilda's<lb/>instead — their little Granddaughter is<lb/>a great joy to them all. With love to<lb/>you &amp; with every good wish from my husband.  <!-- see end of letter and writer Mary Mackenzie\'s signature at top of page 1. -->
+         </ab>
+      </body>
+   </text>
+</TEI>

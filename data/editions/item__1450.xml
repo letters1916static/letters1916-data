@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1450">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Scott Alexander to Augustine Birrell, 3 March 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Scott Alexander</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from Scott Alexander to Augustine Birrell (1850-1933), the Chief Secretary for Ireland. Alexander is offering his skills to the British Government. He claims to be a powerful speaker and holds the ability to entice people to sign up for the British Army.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/4172</collection>
+                  <idno>https://letters1916.ie/item/1450</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1415">Scott Alexander</persName>
+              <date>1916-03-03</date>
+              <placeName key="#letters1916_place-1353">24 Buckingham Street, Strand, W.C., London, United Kingdom</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0534">Augustine Birrell</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1868">House of Commons, London S.W., United Kingdom</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1450_img_879_1"  type="NULL"  url="6d07f422810d299b7ca859de3a202040.jpg"/>
+      <graphic xml:id="L1916_1450_img_879_2"  type="NULL"  url="04f95ad725d9da3e11e544414561036f.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1450_img_879_1"/>
+                24, Buckingham Street,  Strand. W.C.    3rd March 1916.    Mr. Birbell.  Chief Secretary of State for Ireland.  House of Commons. S.W.   Sir,   I wish to place my services at the <lb/>disposal of the Government.   For the last 25 years I have been <lb/>controlling large bodies of people, as <lb/>organiser of Exhibitions, Fetes, Theatrical <lb/>and Variety Companies &amp;c. &amp;c. so am used to <lb/>vast crowds of people, keeping them in order <lb/>addressing them &amp;c.   My business has taken me through nearly <lb/>every town and village in Great Britain and <lb/>Ireland as well as in S.Africa and Australia.   I have been (till last Saturday) running <lb/>some important Theatrical Ventures, but <lb/>owing to the calling up of the young men, <hi rend="underline">both Artistes and Audience</hi> I felt that my brains <lb/>may be better employed in the service of my <lb/>Country, where men with experience such as <lb/>mine are rare, and might put to a more <lb/>useful purpose during the Crisis.   My age is 46: my father was a distinguished <lb/>Commander in the Royal Navy, who won the <lb/>Legion of Honour during the Crimean War.   
+            <pb n="2" facs="L1916_1450_img_879_2"/>
+              During the early stages of this war, <lb/>I gave recruiting speeches at various Theatres. <lb/>At the Hippodrome, Stoke-on-Trent, I succeeded <lb/>in getting 13 members of the audience to come <lb/>on to the stage and enlist, whilst many others <lb/>went to the Town Hall the following morning <lb/>and enlisted also.   I was a powerful speaker, a skilled organiser <lb/>and possess a thorough knowledge of the <lb/>British Temperament.   If you can make any use of my services, <lb/>I will be glad of an early reply.  <seg type="closer"> Your truly  Scott Alexander </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

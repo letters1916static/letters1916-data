@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0168">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from W. O. Henry to Mr Kerford, 8 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>W. P. Henry</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This is a letter from a Mr Henry to a Mr Kerford in which Kerford is asked to pass on a letter to Miss Ross so that she may communicate with the writer. A reply is written on the bottom of the page from Andrew Philip Magill (1871-1941), the private secretary of Chief Secretary of Ireland Augustine Birrell (1850-1933) claiming that Miss Ross had indeed written and will do so again.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Archives of Ireland</repository>
+                  <collection>Chief Secretary&#39;s Office Registered Papers, CSO RP/1916/7557/1</collection>
+                  <idno>https://letters1916.ie/item/168</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1512">W. P. Henry</persName>
+              <date>1916-05-08</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Kerford</persName>
+              <date></date>
+              <placeName key="#letters1916_place-2014">Dublin Castle, Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0168_img_1302_1"  type="Letter"  url="9988f4c68eb0a27501a9a0859a373e7a.jpg"/>
+      <graphic xml:id="L1916_0168_img_1302_2"  type="Enclosure"  url="b9bc1504975473a593ff487619c50c57.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0168_img_1302_1"/>
+              Mr. Magill <lb/><seg type="unclear">To sec</seg><lb/>W. O. H. <lb/>8/5/16    Mr. Kerford,   Please show <lb/>this letter to Miss Ross in <lb/>order that she may <lb/>communicate with the <lb/>writer.  <seg type="closer">  W. O. H.  <lb/>  8/5/16  </seg> Mr. <hi rend="underline">Henry</hi><lb/>Miss Ross has written &amp; <lb/>will write again to her brother <lb/>soon. Returned with <lb/>thanks, A. P. M. 10/5 <seg type="unclear">JBK</seg> 8/5/16   
+            <pb n="2" facs="L1916_0168_img_1302_2"/>
+               With <lb/>The Under Secretary's Compliments. <lb/>Dublin Castle   
+         </ab>
+      </body>
+   </text>
+</TEI>

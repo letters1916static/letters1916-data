@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5583">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Monteith to Roger Casement, 24 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Monteith</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Robert Monteith (1880-1956) to Sir Roger Casement (1865-1916) detailing his recent activities, as well as encloses several other letters. Monteith was the commander of the Irish Brigade, appointed by Casement. In the letter, Monteith reports confidently on the situation and mentions that he received a telegram yesterday asking him to come to Berlin. 
+
+This letter is taken from a collection of letters, poems, articles and other documents of Roger Casement and his family covering his career in the British Diplomatic Service as well as his activities in the Irish Revolutionary movement, 1889-1945. Sir Roger Casement was a humanitarian and Irish Nationalist. Casement believed that an Irish insurrection would be crushed unless it received substantial assistance from Germany. He spent eighteen months in Germany, arriving first as an envoy of Irish-American leaders, attempting to encourage Germany to support Irish separatist aspirations by providing arms. Casement succeeded in securing limited German support but his attempt to form a brigade of Irish soldiers in German prisoner of war camps to fight against Britain was largely unsuccessful.  When it became clear that adequate help would not be forthcoming he travelled to Ireland by submarine. Casement landed and was arrested at Banna Strand, County Kerry on Good Friday 1916. He was tried in the Old Bailey for treason and subsequently executed by hanging at Pentonville Prison on 3 August 1916.
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Sir Roger Casement Collection, Collection List No. A15; Ms. 13,085 /24</collection>
+                  <idno>https://letters1916.ie/item/5583</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0377">Robert Monteith</persName>
+              <date>1916-01-24</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1253">Roger Casement</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="death">1956</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">Politics</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5583_img_678_1"  type="Letter"  url="26605b7ecff7a9c69c08763a76c9a70a.jpg"/>
+      <graphic xml:id="L1916_5583_img_678_2"  type="Letter"  url="8a2ea5f9d2b2cc7d184a536874ad7292.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5583_img_678_1"/>
+             R. at M. 26.1.16   24.1.16    Dear Sir Roger    I was delighted to receive your letter <lb/>yesterday morning and to know you were well fixed <lb/>up. As your body is fit you may also get your mind <lb/> in the same condition, and be ready to join us as we <lb/> pass through Vienna on our way to the front. I am <lb/> sure we will go this time, I have made the boys <lb/> sign an agreement, so I will not be troubled with <lb/>backsliders as heretofore -   I am enclosing 3 letters a C.T. and <lb/> a receipt for the box forwarded to mr.Gaffney. <lb/> I took over a leather case from the landlord of <lb/> the Golden Lion, let me know if you want it &amp; <lb/> I will send it on -   Yesterday I had a wire from Miss McF. <lb/>to come to Berlin &amp; see Dr.Curry, which I <lb/>did - he was very anxious about you, and I thought
+            <pb n="2" facs="L1916_5583_img_678_2"/>
+            gone round begging for it either —   Beverly is quite well again, and I <lb/> have no bad news, so rest contented.  With best wishes and trusting to see <lb/>you soon where the sun is warm and <lb/>the skies blue   I remain <lb/>Yours Sincerely   <hi rend="underline">R.Monteith</hi>  <lb/><hi rend="underline">P.S.</hi> I enclose Dr.Marks' address in Vienna. <lb/> I did not care to write him unless directed by you <lb/>to do so. <lb/><hi rend="underline">RM</hi>
+         </ab>
+      </body>
+   </text>
+</TEI>

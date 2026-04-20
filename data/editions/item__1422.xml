@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1422">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Nancy Campbell to Mabel FitzGerald, 23 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Nancy Campbell</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Nancy Campbell to Mabel FitzGerald (1884-1957). Mrs. Campbell feels sure that there will be pressure put on the British by America. She feels that all of the prisoners will be released at the end of the war and urges Mrs FitzGerald to remain hopeful. She mentions a vacant house (in her area) which she suggests Mrs. FitzGerald might take for the summer. Nancy Campbell, neé Maude, (b. 23 May 1886) was the daughter of Colonel Aubrey Maude, Cameronian Highlanders. Nancy met the poet Joseph Campbell (1879 – 1944) during a visit to Ireland in 1909 and married him in May 1910 whereupon Nancy became completely estranged from her family. Mabel Fitzgerald was the wife of Irish Volunteer Desmond Fitzgerald (1888-1947). Mabel was a former governess in London. She later vigorously canvassed her former acquaintances in London&#39;s liberal circles for support for Francis Sheehy Skeffington (1878 -1916) during his hunger strike in 1915. Both Mabel and Desmond would serve in the GPO garrison during Easter Week.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University College Dublin Archives</repository>
+                  <collection>FitzGerald Papers, P80/1579/1</collection>
+                  <idno>https://letters1916.ie/item/1422</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-1336">Nancy Campbell</persName>
+              <date>1916-05-23</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1316">Mabel FitzGerald</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1422_img_834_1"  type="Letter"  url="b819479c8ab0c44a64cc1819addbfad6.jpg"/>
+      <graphic xml:id="L1916_1422_img_834_2"  type="Letter"  url="f8359c574c7484a16363aa6fef13e0ec.jpg"/>
+      <graphic xml:id="L1916_1422_img_834_3"  type="Letter"  url="2be4cd151e911fc10645169f6a4de94d.jpg"/>
+      <graphic xml:id="L1916_1422_img_834_4"  type="Letter"  url="24e654563d6c9f1948b334f1a3b71aba.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1422_img_834_1"/>
+                May 23 <hi rend="superscript">rd</hi> 1916    Dear Mrs.Fitzgerald   I had <seg type="unclear">called</seg> by to <lb/> find you yesterday but <lb/> of course <seg type="del">if</seg> you had <lb/> the chance of seeing <lb/> your husband - I do hope you did?   I think his sentence is monstrous - but <lb/> I am sure pressure will  
+            <pb n="2" facs="L1916_1422_img_834_2"/>
+              <lb/>be brought to bear from <lb/> America etc. - &amp; even <lb/> if he is left till the <lb/> end of the war they will <lb/> all be let out then.   So, though I know you <lb/> must feel wretched, <lb/> you mustn't be hopeless â <lb/> they simply can't keep to all those atrocious <lb/> sentences âso many of <lb/> them too.   What will your plans be?  
+            <pb n="3" facs="L1916_1422_img_834_3"/>
+              <lb/>There is the farm house <lb/> (Mr.Quigley's you know) <lb/> near here which I <lb/> believe is to be 'set' <lb/> for the summer â <lb/>you couldn't come there, <lb/> could you?   I do hope the children are <lb/> better - you don't want <lb/> any other worries!   I don't know if I <lb/> can get in again <lb/> this week - unless its  
+            <pb n="4" facs="L1916_1422_img_834_4"/>
+              <lb/>Friday â let me know <lb/> if you'll be in then â <lb/> I'll bring some more <lb/> eggs.   The heroism of the <lb/> Volunteers grows &amp; <lb/>grows for me  <seg type="closer"> Yours  Nancy Campbell </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

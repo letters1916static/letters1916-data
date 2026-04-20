@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_5856">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Henry Deschamps Chamier to Lady Clonbrock, 7 September 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Henry Deschamps Chamier</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>This letter is from Henry Deschamps Chamier to Augusta Caroline Dillon (née Crofton). Lady Clonbrock (1840-1928) was a member of the Irish Women&#39;s Association, which was set up to provide aid and assistance to Irish regiments and to Irish members of the British army who were being held in prisoner of war camps. Chamier was a colonel serving in the First World War with the Connaught Rangers.
+Chamier writes about the case of two wounded soldiers, one who had an operation to save an eye and another who was assisted with ten shillings. She asks that the association&#39;s funds cover the costs and that a procedure be set up for similar cases.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Clonbrock Estate Papers, Collection List No 54; Ms. 35,796</collection>
+                  <idno>https://letters1916.ie/item/5856</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0148">Henry Deschamps Chamier</persName>
+              <date>1916-09-07</date>
+              <placeName key="#letters1916_place-0155">Renmore Barracks, County Galway, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Augusta Dillon</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="death">1950</item>
+               <item n="tag">World War I (1914-1918)</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_5856_img_954_1"  type="Letter"  url="ae71726bc88d70bfdc5d057cdc005664.jpg"/>
+      <graphic xml:id="L1916_5856_img_954_2"  type="Letter"  url="e159f8b248c6d093b7ba89723f50db88.jpg"/>
+      <graphic xml:id="L1916_5856_img_954_3"  type="Letter"  url="f266f8cc6bd0557f45b1524488fb1616.jpg"/>
+      <graphic xml:id="L1916_5856_img_954_4"  type="Letter"  url="132df501b10a2b48fa20efbe32c81a91.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_5856_img_954_1"/>
+             ans? — <lb/>that <seg type="unclear">part hopes</seg> <lb/> shd: send him <lb/>£10 for "immediate distress"—   Renmore Barracks <lb/>Galway   Sep 7<hi rend="superscript">th</hi> 1916   Dear Lady Clonbrock,   An ex Conn: Ranger, <lb/>who lost his eye at the <lb/> front, had to be sent <lb/> for treatment to Dublin; <lb/>to save the other eye; I <lb/>managed this at the <lb/>cost of £2=6=0, through
+            <pb n="2" facs="L1916_5856_img_954_2"/>
+            D<hi rend="superscript">r</hi>, Kinkead's kind <lb/>assistance at a cost of £2=6=0. A <lb/>Leinster Regt. man named <lb/>Gill was also assisted <lb/>with ten shillings to cover <lb/>period during which his <lb/>pension was being reassessed; <lb/>this man has lost a leg. <lb/>I suggest that our War <lb/>Fund should defray these
+            <pb n="3" facs="L1916_5856_img_954_3"/>
+            expenses. If you authorize <lb/>it, the Committee can confirm it.   All men in similar <lb/>circumstances come to <lb/> me. Could not some <lb/> less cumbersome method <lb/> be adopted to relieve
+            <pb n="4" facs="L1916_5856_img_954_4"/>
+             1916 <lb/>Sep. 7 —  immediate distress?   Yrs sincerely,   H. D. Chamier. 
+         </ab>
+      </body>
+   </text>
+</TEI>

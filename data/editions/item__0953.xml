@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0953">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Joseph E. Devlin to the Urban District Council, Longford, 26 May 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Joseph E. Devlin</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Joseph E. Devlin, the assistant secretary for the Local Government Board in Dublin Castle, to the Longford Urban District Council regarding the Education (Provision of Meals (Ireland)) Act 1916 which will see a raise in the rating limit.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Longford County Archives Service</repository>
+                  <collection>LUDC-1-3-1916-6-6, LUDC-1-3-1916-6-6</collection>
+                  <idno>https://letters1916.ie/item/953</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0998">Joseph E. Devlin</persName>
+              <date>1916-05-26T00:00:00</date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-None">Nicholas Lamb</persName>
+              <date></date>
+              <placeName key="#letters1916_place-0610">Longford, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">Industry and Public Administration</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0953_img_2768_1"  type="Letter"  url="c0695293d037bbc3db06f03a076e11c9.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0953_img_2768_1"/>
+              Local for Board.    26<hi rend="superscript">th</hi> May. 1916  <lb/>Education (Provision of Meals (Ireland) Acts  Sir   â I am directed by the Local for Board <lb/>for Ireland to forward, for the information of your <lb/>Council the enclosed copy of the Education, <lb/>(Provision of Meals (Ireland) Act 1916, which <lb/>recently the Royal Royal Assent.  It will be observed that the effect of this Act <lb/>is to raise the rating limit for the purposes of the <lb/>Premium Act of 1914 from one halfpenny to one penny <lb/>limiting the duration of that statute has been <lb/>repealed. <seg type="closer"> I am Sir, your <sic>obd servt</sic>  J E Devlin  Asst<hi rend="superscript">t</hi> Secty;   The Clerk  Of Each<hi rend="underline">Urban District</hi>  </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

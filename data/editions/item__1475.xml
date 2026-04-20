@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1475">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Frederick Rudolph Lambart, Lord Cavan, to John Redmond, 8 February 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Frederick Rudolph Lambart</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from Lord Cavan (1865-1946) to John Redmond (1856-1918). informing Redmond that the Guards Division is now part of his command. Cavan feels the demand for reinforcements is growing and says it would be a good step forward if they could reinforce while Germany can&#39;t.Frederick Rudolf Lambart, 10th Earl of Cavan, was sent to the front as a major-general to take part in the First Battle of Ypres in October 1914. By 1916 Cavan was placed at the head of XIV Corps and took part in the Battle of the Somme that summer. He was made a Grand Officer of the Belgian Order of the Crown on 2 November 1916 and appointed a Knight of the Order of St Patrick in November 1916.John Redmond (1856-1918) was an MP and leader of the Irish Parliamentary Party. He was instrumental in securing the promise of Home Rule from Asquith&#39;s liberal government. Upon the outbreak of war, Redmond addressed a group of Irish Volunteers at Woodenbridge, Co. Wicklow, encouraging them to fight with the British Army to ensure the implementation of Home Rule. Redmond&#39;s words split the Irish Volunteers across the country. The Easter Rising shocked Redmond, who condemned it bitterly. Nonetheless he appealed for leniency towards those who had not been involved in planning the Rising.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>Erskine Childers Papers, Collection List No 161;, Ms. 15,175</collection>
+                  <idno>https://letters1916.ie/item/1475</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0744">Frederick Rudolph Lambart</persName>
+              <date>1916-02-08</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1486">John Redmond</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1475_img_926_1"  type="Letter"  url="5f408d3ebeba2b2d874217bd1164e1a8.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1475_img_926_1"/>
+                HQ  XIV Corps  .   Feb.8.   Dear Mr. Redmond   The Guards will be a <lb/> part of my Corps directly. I need <lb/> not say how delighted I am. We <lb/> have a difficult bit â in the extreme <lb/> North â but I hope we shall not make <lb/> a hash of it. The other 2 Divn. are excellent too.  I read the Galway meeting and the <lb/><seg type="unclear">header</seg> there on in the 'Freeman's <lb/> Journal'. Very hopeful â but I am <lb/> sure the demand for reinforcements <lb/> is bound to be very great by the <lb/> autumn â &amp; if we <hi rend="underline">can</hi> reinforce <lb/>when Germany <hi rend="underline">can't</hi> â we shall have <lb/>made a big step forward. <seg type="closer"> Very <seg type="unclear">truly</seg> yrs  <hi rend="underline">Cavan</hi> </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

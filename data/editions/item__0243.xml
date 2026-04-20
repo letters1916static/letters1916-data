@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_0243">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Robert Driscoll to Patrick English, 13 August 1916.</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Robert Driscoll</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>A letter from Robert Driscoll (b.1898) to Patrick English (1894-1970). The letter discusses the fact Patrick has yet to return home and accounts the activities of Patrick&#39;s friends who have returned home from the prison. Robert goes on to discuss speaking with Patrick&#39;s sister. He also asks if some of his friends are still in Frongoch, asking Patrick to give one of them a smoke to remember him by.This letter is from a collection Patrick English, an Irish Volunteer imprisoned in the Stafford and later Frongoch Prisons. He had at least six cousins fighting with the British Army in France during his incarceration.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Patrick English</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/243</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0616">Robert Driscoll</persName>
+              <date>1916-08-13</date>
+              <placeName key="#letters1916_place-0463">High Road, Cashtown</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0178">Patrick English</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1722">Frongoch, Wales</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="topic">World War I (1914-1918)</item>
+               <item n="topic">Easter Rising Ireland 1916</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_0243_img_1415_1"  type="Letter"  url="842361bb05622a5cb90ee3f690341f7d.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_0243_img_1415_1"/>
+                High Road Ashtown    13.8.16   Dear Paddy   I never thought I would have to write <lb/> to you I was expecting you home every day I don't know what <lb/> they mean by keeping you after letting us all home however <lb/> don't be downhearted it is very <sic>lonly</sic>over here I wish I was <lb/> back again I never got a minute since I came back I miss <lb/> all the fun very much all the other Boys are going about <lb/>doing nothing except J Mooney and Kit Duffy. I do be talking <lb/> to your sister often they are <sic>nocked</sic>about very much over <lb/> you. however I told them not to mind that you would be <lb/> alright I told her about all the sport we had in <seg type="unclear">hut</seg> 20 <lb/> together Let me know if O'Leary and Joe McDonnough is <lb/>still in camp let me know the   number I have forgotten it <lb/> I want to write to<sic> bouth </sic> of them I called to O'Learys house <lb/> last week but he was not home then. I very often meet some <lb/> of the boys in the City they all wish to be back again <lb/> Don't think bad of me sending you this order for <sic>sigarettes</sic><lb/>I know you will want plenty of smoking and if O'Leary <lb/> is with you give him a few in rememberance of me. But don't <lb/>forget to write to me. And remember me to all the other lads <lb/>that I knew in camp. <seg type="closer"> Sincerely yours  R O'Driscoll </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>

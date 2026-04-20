@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_3151">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from Peter Mooney to Katie Mooney, 19 November 1915</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>Peter Mooney</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Peter Mooney writing to his sister to thank her for the things she has sent him and to ask about the family and farm.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Mooney Family Papers</repository>
+                  <collection>Private Collection</collection>
+                  <idno>https://letters1916.ie/item/3151</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0428">Peter Mooney</persName>
+              <date>1915-11-19</date>
+              <placeName ></placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-1038">Katie Mooney</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1382">Caulstown Dunboyne Co. Meath</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Country and City Life</item>
+               <item n="topic">Personal Relations</item>
+               <item n="topic">Country and City Life</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_3151_img_2573_1"  type="Letter"  url="43176b7c31c2d6939ab073a1766d61ee.jpg"/>
+      <graphic xml:id="L1916_3151_img_2573_2"  type="Letter"  url="9a9f117af6418fa09455d823e53572e4.jpg"/>
+      <graphic xml:id="L1916_3151_img_2573_3"  type="Letter"  url="4bcfb315c863fad87d5eb26760dd770e.jpg"/>
+      <graphic xml:id="L1916_3151_img_2573_4"  type="Envelope"  url="73ceb0efe9bea39491073e1e51ccdbc6.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_3151_img_2573_1"/>
+             Nov 19<hi rend="superscript">th</hi> 1915   Dear Katie,   I received your letters <lb/>this morning alright. I <lb/>got the boots &amp; tobacco <lb/>alright. The pipe was <lb/>just the sort I wanted. <lb/>I am sure I am giving <lb/>you all a lot of trouble <lb/>with all you have to <lb/>send me 
+            <pb n="2" facs="L1916_3151_img_2573_2"/>
+             I did not get the Numerals <lb/> I must have thrown <lb/> them away in the packing <lb/> as I got the Shino <lb/>alright. The next time <lb/> you go to Dublin you <lb/> can send them on. <lb/> You might send me on <lb/> another inside shirt. <lb/> I the one I have is <lb/>in flitters. I am doing <lb/>splendid here. The eleven <lb/>of us that came here <lb/>from Athlone are called <lb/> the Athlone drivers.   The weather here is <lb/> grand now. Tell Tommy <lb/> not to delay in putting <lb/> on the slates. Tell <lb/> James to tell Mr Martin <lb/> about the slates in <lb/>Holiestown. Tommy can <lb/> <sic>settel</sic> them. I am glad <lb/> that Gray horse is jumping <lb/> so well tell Charley <lb/> to be careful of him
+            <pb n="3" facs="L1916_3151_img_2573_3"/>
+             As regards coming here <lb/> to see me it would be <lb/> useless for you to come <lb/> here as I would have <lb/>no time to see you &amp; <lb/> Christmas is not so <lb/> far off when I hope to <lb/> get home. You might <lb/> not send on the three <lb/> papers every day. The Independent <lb/> would be enough. You may <lb/> send on the Drogheda and Sport. <lb/>I have no more to say <lb/> at present so I say Good Bye <lb/> &amp;God Bless you all.   Peter Mooney 
+            <pb n="4" facs="L1916_3151_img_2573_4"/>
+             Miss K Mooney <lb/>Caulstown <lb/>Dunboyne <lb/>Co. Meath  
+         </ab>
+      </body>
+   </text>
+</TEI>

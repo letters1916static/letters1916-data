@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_2441">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter From John Miley in France to Diarmid Coffey on the Ulster Home Defence Force</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>John Miley</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter From John Miley with the British Expeditionary Force, 39th Royal Field Artillery in France on the Ulster Home Defence Force
+</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>National Library of Ireland</repository>
+                  <collection>MS 46,307 /10</collection>
+                  <idno>https://letters1916.ie/item/2441</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0368">John Miley</persName>
+              <date>1915-11-02</date>
+              <placeName key="#letters1916_place-0769">France</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0284">Diarmid Coffey</persName>
+              <date></date>
+              <placeName key="#letters1916_place-1917">Dublin, Ireland</placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Male</item>
+               <item n="tag">Politics</item>
+               <item n="topic">Politics</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_2441_img_188_1"  type="Letter"  url="8cbbc1f36b2bcc0da56f7769ec0af7cd.jpg"/>
+      <graphic xml:id="L1916_2441_img_188_2"  type="Letter"  url="ab78d30d41784570059add3c22e154bd.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_2441_img_188_1"/>
+             39<hi rend="superscript">th</hi> Brigade R.F.A<lb/>B.E.F.   2.11.15 <lb/> Dear Dermot,   Thanks for your letters both of which I have received. Strange<lb/>to say I had already read your contribution to the Leader. It's<lb/>one of the papers Val sometimes sends me. I think your squib<lb/>was quite good, though I rather bar the paper as a rule. I regard<lb/>it quite as the Irish John Bull — yes it's a bit thick the<lb/>King sending Valedictory notices to the Ulster Home Defence<lb/>Force. Possibly they may have to go to Serbia now and if so<lb/>I don't mind. By the way I suppose you saw the little prem<lb/>about Maurice Healy in New Ireland. It was by someone with<lb/>a Gaelic <seg type="foreign">nom de plume</seg> beginning with M, which I forget, and<lb/>was one of the best things of its kind I have struck.  I have taken up my new duties now and in fact just<lb/>at present I am acting as Adjutant  as well  until the 11<hi rend="superscript"><hi rend="underline">th</hi></hi>. I had a very<lb/>narrow escape of getting the job permanently, and hope to <seg type="del">th</seg> be<lb/>the next occupant. However I shall have to be careful. There<lb/>are times when I feel that the delight of thoroughly shocking<lb/>some of my superiors by my views, would repay me for<lb/>immediate execution. We expect to go back to the firing line<lb/>next week. We have been resting and refitting for the<lb/>last fortnight. 
+            <pb n="2" facs="L1916_2441_img_188_2"/>
+             I hope your Father is better and that your Mother is keeping well. <lb/> Please give them my regards.   Please remember me to all the "firm" also to O'Brien and Stevens. <lb/> Stir up "Himself" and Tom to drop me an odd line.   Yours <lb/>J.M. 
+         </ab>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:id="L1916_1243">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Letter from May Fay to James Finn, 14 January 1916</title>
+            <title type="sub">Letters 1916-1923</title>
+            <author>May Fay</author>
+         </titleStmt>
+         <editionStmt>
+            <p>This work was originally published by Maynooth University in Ireland in <date>2017</date>. In 2026 this data, stored in a relational database was extracted and converted into this TEI/XML document.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities</publisher>
+            <pubPlace>Vienna, AT</pubPlace>
+            <date>2026</date>
+            <availability>
+               <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+            </availability>
+            <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+         </publicationStmt>
+         
+         <notesStmt>
+            <note type="summary">
+               <p>Letter from May Fay (1897-1976) to James Finn (1877-1922) reassuring James of her regard and affection for him following their recent engagement. May Fay became engaged to James Finn in January 1916. Despite the twenty year age gap their letters show a very personal and private insight into courting in early 20th century Ireland. After his death May held on to his letters as her reminder of him. May never remarried and focused her attention instead on her businesses in order to provide for their children.James Finn was a civil servant, working in the National Health Service Commission on Mount Street. While neither James nor May were politically active their letters provide a very unique insight into the affairs of Easter Week and its aftermath. James died in 1922 as a result of the flu epidemic, May was pregnant with their fourth child at the time.</p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Finn Family Collection</repository>
+                  <collection>NULL, NULL</collection>
+                  <idno>https://letters1916.ie/item/1243</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident="en">English</language>
+        </langUsage>
+        <correspDesc>
+           <correspAction type="sent">
+              <persName key="#letters1916_person-0367">May Fay</persName>
+              <date>1916-01-14</date>
+              <placeName key="#letters1916_place-1114">Togherstown, Ballinea, Westmeath, Ireland</placeName>
+           </correspAction>
+           <correspAction type="received">
+              <persName key="#letters1916_person-0500">James Finn</persName>
+              <date></date>
+              <placeName ></placeName>
+           </correspAction>
+        </correspDesc>
+        <textClass>
+         <keywords>
+            <list>
+               <item n="gender">Female</item>
+               <item n="topic">Personal Relations</item>
+            </list>
+         </keywords>
+        </textClass>
+     </profileDesc>
+     <encodingDesc>
+         <projectDesc>
+            <p>The data in these XML files was generated based on a data dump from the Magellan database (https://github.com/Maynooth-Center-for-Digital-Humanities/Magellan). Each database record has been converted to a JSON file (https://github.com/letters1916static/letters-data/tree/main/json). The element section of the JSON file contains the TEI-encoded contents of the letters. The TEI XML has been cleaned and made well-formed using a Python script (https://github.com/letters1916static/letters-data/tree/main/src).</p>
+         </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <graphic xml:id="L1916_1243_img_432_1"  type="Letter"  url="42a895c0ec579298dd75871dcf0474d9.jpg"/>
+      <graphic xml:id="L1916_1243_img_432_2"  type="Letter"  url="00cc82bd5e54ef5a7d6c4cd0242fbe24.jpg"/>
+      <graphic xml:id="L1916_1243_img_432_3"  type="Letter"  url="7e2e5e8e16ac54e1732d660da358e093.jpg"/>
+   </facsimile>
+   <text>
+      <body>
+         <ab>
+            <pb n="1" facs="L1916_1243_img_432_1"/>
+              This was late for the <lb/>post last night I think <lb/>you will have it tonight <lb/>(Sat) I have just opened it <lb/>here the <seg type="unclear">P.O.M.G.</seg> are to tell <lb/>you the reason of delay <lb/>Love from <hi rend="underline">May</hi>    Togherstown,  Ballinea,  Mullingar    <hi rend="underline">14-1-1916</hi>   My dearest James,   I was delighted <lb/>to get your letter this morn, <lb/>you were very good to <lb/>write so soon I was not <lb/>expecting it tho' I was  
+            <pb n="2" facs="L1916_1243_img_432_2"/>
+              hoping you would I am <lb/>quite looking forward to <lb/>seeing you the week after <lb/>next, I did feel a wee bit <lb/>lonely after you leaving <lb/>and you may be quite sure <lb/>I would not have consented <lb/>to marry you if I did <lb/>like you very much &amp; <lb/>that for some time but <lb/>I never thought I would be <lb/>so fortunate as to get a <cb/> warm corner in your <lb/>heart. I do hope dear <lb/>James that at some time <lb/>I will be able to show <lb/>how much I appreciate <lb/>your love.  Mother has decided <lb/>on going to see Jennie <lb/>Monday next had a letter <lb/>from her yesterday saying <lb/>she was not feeling so well <lb/>&amp; would like to see her <lb/>she expects to be back about  
+            <pb n="3" facs="L1916_1243_img_432_3"/>
+              Monday I hope she will <lb/>anyway so that I can <lb/>get up to see you, if <hi rend="underline">Mrs.</hi><lb/>S. is ready then.  Your mother wrote me <lb/>a very nice letter I am <lb/>delighted she is so pleased <lb/>with me, I'm sure we <lb/>will be very happy together. <lb/>I will write to her tomorrow.  Bye Bye now dearest James <seg type="closer"> fondest love, <lb/>from  May </seg> 
+         </ab>
+      </body>
+   </text>
+</TEI>
