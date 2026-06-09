@@ -12,7 +12,7 @@ import json
 
 INPUT_DIR = "./data/editions"
 OUTPUT_DIR = "./data/editions"
-MODEL = "gpt-5.5"
+MODEL = "gpt-5.4-mini"
 
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
@@ -97,7 +97,7 @@ def parse_body(xml_string):
 
 files = glob(f"{INPUT_DIR}/*.xml")
 
-for file_path in files:
+for file_path in files[11:14]:
     print(f"Processing {file_path}")
 
     parser = etree.XMLParser(remove_blank_text=False)
