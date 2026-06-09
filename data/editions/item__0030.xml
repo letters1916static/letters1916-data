@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xml:id="L1916_0030">
       <fileDesc>
@@ -21,7 +22,7 @@
          
          <notesStmt>
             <note type="summary">
-               <p>This is a postcard from an unknown &#39;T.&#39; to Miss Macoun in Portadown, 1916. The postcard shows the ruins of Eden Quay after the Rising. The author writes to Miss Macoun about their account being written up by a Miss C.The message may refer to an article written by Miss Christabel Crowther, published in the Dublin Journal of Medical Science, Vol. CZLII, pp. 55-58, July 1916, &#39;Dublin during the Rebellion. Reprint from the Nursing Mirror and Midwives Journal, May 13, 1916&#39;.</p>
+               <p>This is a postcard from an unknown 'T.' to Miss Macoun in Portadown, 1916. The postcard shows the ruins of Eden Quay after the Rising. The author writes to Miss Macoun about their account being written up by a Miss C.The message may refer to an article written by Miss Christabel Crowther, published in the Dublin Journal of Medical Science, Vol. CZLII, pp. 55-58, July 1916, 'Dublin during the Rebellion. Reprint from the Nursing Mirror and Midwives Journal, May 13, 1916'.</p>
             </note>
          </notesStmt>
          
@@ -47,7 +48,7 @@
            </correspAction>
            <correspAction type="received">
               <persName key="#letters1916_person-None">Miss Macoun</persName>
-              <date></date>
+              <date/>
               <placeName key="#letters1916_place-0889">Portadown, Co. Armagh, Ireland</placeName>
            </correspAction>
         </correspDesc>
@@ -66,17 +67,16 @@
      </encodingDesc>
   </teiHeader>
    <facsimile>
-      <graphic xml:id="L1916_0030_img_1061_1"  type="Letter"  url="6c76ce84ebf248728601a4f000f57751.jpg"/>
-      <graphic xml:id="L1916_0030_img_1061_2"  type="Photograph"  url="0b99dc30beb352062179455b7e120ce2.jpg"/>
+      <graphic xml:id="L1916_0030_img_1061_1" type="Letter" url="6c76ce84ebf248728601a4f000f57751.jpg"/>
+      <graphic xml:id="L1916_0030_img_1061_2" type="Photograph" url="0b99dc30beb352062179455b7e120ce2.jpg"/>
    </facsimile>
    <text>
       <body>
-         <ab>
+         <div>
             <pb n="1" facs="L1916_0030_img_1061_1"/>
-                 Miss Macoun,  102, Thomas St.,  <hi rend="underline">Portadown</hi>    10 May 1916    Hope you got my <lb/>card. Get the Nursing <lb/>Mirror for this week. <lb/>Miss C. wrote our <lb/>account to it. <lb/> This card shows <lb/>only little of <lb/>the ruins. <seg type="closer"> Best love from <lb/>  T. </seg>  
+                 <opener><dateline>Miss Macoun,  102, Thomas St.,  <hi rend="underline">Portadown</hi>    10 May 1916</dateline></opener><p>Hope you got my <lb/>card. Get the Nursing <lb/>Mirror for this week. <lb/>Miss C. wrote our <lb/>account to it. <lb/> This card shows <lb/>only little of <lb/>the ruins. </p><closer><salute>Best love from <lb/>  T.</salute><signed/></closer>  
             <pb n="2" facs="L1916_0030_img_1061_2"/>
-               After the insurrection - Ruins of - Ruins of Eden Quay.   
-         </ab>
-      </body>
-   </text>
+               <p>After the insurrection - Ruins of - Ruins of Eden Quay.   </p>
+         </div>
+      </body></text>
 </TEI>

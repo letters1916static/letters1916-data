@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xml:id="L1916_0028">
       <fileDesc>
@@ -29,7 +30,7 @@
             <msDesc>
                <msIdentifier>
                   <repository>Private Collection</repository>
-                  <collection></collection>
+                  <collection/>
                   <idno>https://letters1916.ie/item/28</idno>
                </msIdentifier>
             </msDesc>
@@ -47,7 +48,7 @@
            </correspAction>
            <correspAction type="received">
               <persName key="#letters1916_person-None">Vera Brennan</persName>
-              <date></date>
+              <date/>
               <placeName key="#letters1916_place-1731">Dublin, County Dublin, Ireland</placeName>
            </correspAction>
         </correspDesc>
@@ -68,14 +69,15 @@
      </encodingDesc>
   </teiHeader>
    <facsimile>
-      <graphic xml:id="L1916_0028_img_1059_1"  type="Letter"  url="98a7801a9c3d05c21b9cd57e63d55602.jpg"/>
+      <graphic xml:id="L1916_0028_img_1059_1" type="Letter" url="98a7801a9c3d05c21b9cd57e63d55602.jpg"/>
    </facsimile>
    <text>
       <body>
-         <ab>
+         <div>
             <pb n="1" facs="L1916_0028_img_1059_1"/>
-                Thurs 4th May 1916   Dearest Wife   We are going to be tried today. I am afraid <lb/> it is all up with me. Oh Vera won't you pray for <lb/> me. I love you. I am breaking my heart. <lb/> I hope poor Tom is alive. I heard he was <lb/> shot. I know it will be hard on you <lb/> but bear it bravely for the Love of God. <lb/> I can't write any more.   Remember me to Dear Lily Annie Jennie <lb/> and your poor mother also Anne and <seg type="unclear">mammy</seg>. <lb/> It is a hard life <lb/> But this is not our home  <seg type="closer"> Goodbye and God Bless you <lb/> Your devoted husband <lb/> till death   <hi rend="underline">Jim</hi> </seg><seg type="postscript"> Pray for me <lb/> and get all the <lb/> Church St people <lb/> to pray for me  </seg> 
-         </ab>
-      </body>
-   </text>
+            <opener><dateline>Thurs 4th May 1916</dateline><salute>Dearest Wife</salute></opener>
+            <p>We are going to be tried today. I am afraid <lb/> it is all up with me. Oh Vera won't you pray for <lb/> me. I love you. I am breaking my heart. <lb/> I hope poor Tom is alive. I heard he was <lb/> shot. I know it will be hard on you <lb/> but bear it bravely for the Love of God. <lb/> I can't write any more.   Remember me to Dear Lily Annie Jennie <lb/> and your poor mother also Anne and <seg type="unclear">mammy</seg>. <lb/> It is a hard life <lb/> But this is not our home  </p>
+            <closer><salute>Goodbye and God Bless you <lb/> Your devoted husband <lb/> till death   <hi rend="underline">Jim</hi></salute><signed/></closer><seg type="postscript"> Pray for me <lb/> and get all the <lb/> Church St people <lb/> to pray for me  </seg>
+         </div>
+      </body></text>
 </TEI>

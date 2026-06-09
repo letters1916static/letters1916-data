@@ -55,6 +55,8 @@ Rules:
   <opener> with <dateline> and <salute>
   <closer> with <salute> and <signed>
 
+- Replace <ab></ab> Element with <div></div>
+- Wrap direct text node children of the .//body/div into <p> elements
 - Replace constructs like:
   <seg type="closer">...</seg>
 
@@ -98,7 +100,7 @@ def parse_body(xml_string):
 
 files = glob(f"{INPUT_DIR}/*.xml")
 
-for file_path in files[14:20]:
+for file_path in files[20:30]:
     started_at = perf_counter()
     print(f"Processing {file_path}")
 
