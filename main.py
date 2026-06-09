@@ -1,6 +1,7 @@
 from glob import glob
 from pathlib import Path
 from copy import deepcopy
+from time import perf_counter
 from lxml import etree
 from openai import OpenAI
 import os
@@ -97,7 +98,8 @@ def parse_body(xml_string):
 
 files = glob(f"{INPUT_DIR}/*.xml")
 
-for file_path in files[11:14]:
+for file_path in files[14:20]:
+    started_at = perf_counter()
     print(f"Processing {file_path}")
 
     parser = etree.XMLParser(remove_blank_text=False)
@@ -157,10 +159,13 @@ for file_path in files[11:14]:
             pretty_print=True,
         )
 
-        print(f"✓ Written {output_path}")
+        elapsed_seconds = perf_counter() - started_at
+        print(f"✓ Written {output_path} ({elapsed_seconds:.2f}s)")
 
     except Exception as e:
+        elapsed_seconds = perf_counter() - started_at
         print(f"✗ Failed {file_path}")
+        print(f"Elapsed: {elapsed_seconds:.2f}s")
         print(e)
 
 print("Done.")
