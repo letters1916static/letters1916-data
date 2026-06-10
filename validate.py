@@ -1,6 +1,5 @@
 import csv
 from pathlib import Path
-from tqdm import tqdm
 from lxml import etree as ET
 
 
