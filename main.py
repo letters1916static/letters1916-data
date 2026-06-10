@@ -13,7 +13,7 @@ import csv
 # -----------------------------------------------------------------------------
 
 INPUT_DIR = "./data/editions"
-MODEL = "gpt-5.4-mini"
+MODEL = "gpt-5.4-nano"
 OUTPUT_DIR = f"./llm/{MODEL}"
 LOG_FILE = Path("./llm/log.csv")
 
@@ -64,10 +64,22 @@ Rules:
   <closer> with <salute> and <signed>
 - Replace constructs like:
   <seg type="closer">...</seg>
-- If there are text nodes after (!) the the closing <closer> element, wrap those into <postscript> element
+- If there are text nodes after (!) the the closing <closer> element, wrap those into <postscript><p> element-structure
 - Replace <ab></ab> Element with <div></div>
-- Wrap direct text node children of the .//body/div into <p> elements but <opener> and <closer> must not be children of <p> and must not container <p>
-
+- Wrap direct text node children of the .//body/div into <p> elements but <opener> and <closer> must not be children of <p> and must not contain <p>
+- The final structure of the body element should follow this pattern
+```xml
+<div>
+    <opener>
+        <dateline></dateline><salute></salute>
+    </opener>
+    <p></p>
+    <closer>
+        <salute></salute>
+    </closer>
+    <postscript><p></p></postscript>
+</div>
+```
 
 - Output must remain valid XML.
 """
