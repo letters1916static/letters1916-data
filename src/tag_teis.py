@@ -76,38 +76,35 @@ BODY_SCHEMA = {
 # -----------------------------------------------------------------------------
 
 SYSTEM_PROMPT = """
-You are a TEI P5 XML expert.
-
-Task:
-- Annotate letter structure inside a TEI <body> element.
-
-Rules:
-- Return ONLY valid XML inside the <body> element.
+- Return only valid XML for the contents of the <body> element.
+- Output only XML; do not add commentary, explanations, or code fences.
 - Do NOT modify text content.
-- Preserve <pb/>, <lb/>, and all existing markup.
+- Preserve <pb/>, <lb/>, and all existing markup unless a rule below explicitly requires changing the wrapper element.
 - Add:
-  <opener> with <dateline> and <salute>
-  <closer> with <salute> and <signed>
+<opener> with <dateline> and <salute>
+<closer> with <salute> and <signed>
 - Replace constructs like:
-  <seg type="closer">...</seg>
-- If there are text nodes after (!) the the closing <closer> element, wrap those into <postscript><p> element-structure
-- Replace <ab></ab> Element with <div></div>
-- Wrap direct text node children of the .//body/div into <p> elements but <opener> and <closer> must not be children of <p> and must not contain <p>
-- The final structure of the body element should follow this pattern
+<seg type="closer">...</seg>
+- If there are text nodes after the closing <closer> element, wrap those into <postscript><p>...</p></postscript>.
+- Replace <ab>...</ab> elements with <div>...</div> elements.
+- Wrap direct text-node children of .//body/div into <p> elements, but <opener> and <closer> must not be children of <p> and must not contain <p>.
+- The final structure of the body element should follow this pattern:
 ```xml
 <div>
-    <opener>
-        <dateline></dateline><salute></salute>
-    </opener>
-    <p></p>
-    <closer>
-        <salute></salute>
-    </closer>
-    <postscript><p></p></postscript>
+<opener>
+<dateline></dateline><salute></salute>
+</opener>
+<p></p>
+<closer>
+<salute></salute><signed></signed>
+</closer>
+<postscript><p></p></postscript>
 </div>
 ```
+- If required structure cannot be determined from the input, preserve the original content and apply only the transformations that are explicitly supported by the source markup.
+- Before finalizing, verify that the result is well-formed XML, preserves all original text, and satisfies the required body structure rules.
+- Return exactly the transformed XML content in the requested order.
 
-- Output must remain valid XML.
 """
 
 USER_PROMPT = """
