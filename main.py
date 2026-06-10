@@ -6,6 +6,7 @@ from lxml import etree
 from openai import OpenAI
 import os
 import json
+import csv
 
 # -----------------------------------------------------------------------------
 # CONFIG
@@ -14,12 +15,17 @@ import json
 INPUT_DIR = "./data/editions"
 MODEL = "gpt-5.4"
 OUTPUT_DIR = f"./llm/{MODEL}"
-LOG_FILE = Path("./llm/log.txt")
+LOG_FILE = Path("./llm/log.csv")
 
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
 Path(OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
 LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
+
+if not LOG_FILE.exists() or LOG_FILE.stat().st_size == 0:
+    with LOG_FILE.open("w", encoding="utf-8", newline="") as handle:
+        writer = csv.writer(handle, delimiter="|")
+        writer.writerow(["model", "file", "duration", "status"])
 
 NS = {"tei": "http://www.tei-c.org/ns/1.0"}
 
@@ -79,11 +85,10 @@ def serialize(elem):
     return etree.tostring(elem, encoding="unicode", pretty_print=True)
 
 
-def log_print(*args, sep=" ", end="\n"):
-    message = sep.join(str(arg) for arg in args) + end
-    print(*args, sep=sep, end=end)
-    with LOG_FILE.open("a", encoding="utf-8") as handle:
-        handle.write(message)
+def append_log_row(file_path, duration_seconds, status):
+    with LOG_FILE.open("a", encoding="utf-8", newline="") as handle:
+        writer = csv.writer(handle, delimiter="|")
+        writer.writerow([MODEL, file_path, f"{duration_seconds:.2f}", status])
 
 
 def extract_body(xml_tree):
@@ -111,21 +116,25 @@ files = glob(f"{INPUT_DIR}/*.xml")
 
 for file_path in files[0:10]:
     started_at = perf_counter()
-    log_print(f"Processing {file_path}")
+    print(f"Processing {file_path}")
 
     parser = etree.XMLParser(remove_blank_text=False)
 
     try:
         tree = etree.parse(file_path, parser)
     except Exception as e:
-        log_print(f"Parse error: {file_path}: {e}")
+        elapsed_seconds = perf_counter() - started_at
+        print(f"Parse error: {file_path}: {e}")
+        append_log_row(file_path, elapsed_seconds, "parse_error")
         continue
 
     root = tree.getroot()
     body = extract_body(root)
 
     if body is None:
-        log_print(f"No <body> found in {file_path}")
+        elapsed_seconds = perf_counter() - started_at
+        print(f"No <body> found in {file_path}")
+        append_log_row(file_path, elapsed_seconds, "no_body")
         continue
 
     original_body = serialize(body)
@@ -171,12 +180,14 @@ for file_path in files[0:10]:
         )
 
         elapsed_seconds = perf_counter() - started_at
-        log_print(f"✓ Written {output_path} ({elapsed_seconds:.2f}s)")
+        print(f"✓ Written {output_path} ({elapsed_seconds:.2f}s)")
+        append_log_row(file_path, elapsed_seconds, "success")
 
     except Exception as e:
         elapsed_seconds = perf_counter() - started_at
-        log_print(f"✗ Failed {file_path}")
-        log_print(f"Elapsed: {elapsed_seconds:.2f}s")
-        log_print(e)
+        print(f"✗ Failed {file_path}")
+        print(f"Elapsed: {elapsed_seconds:.2f}s")
+        print(e)
+        append_log_row(file_path, elapsed_seconds, "failed")
 
-    log_print("Done.")
+    print("Done.")
