@@ -16,16 +16,39 @@ INPUT_DIR = "./data/editions"
 MODEL = "gpt-5.4-nano"
 OUTPUT_DIR = f"./llm/{MODEL}"
 LOG_FILE = Path("./llm/log.csv")
+SCHEMA_PATH = Path("schema/tei_all.rng")
 
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
 Path(OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
 LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
 
+with SCHEMA_PATH.open("rb") as schema_file:
+    validator = etree.RelaxNG(etree.parse(schema_file))
+
+LOG_FIELDNAMES = ["model", "file", "duration", "status", "valid"]
+
 if not LOG_FILE.exists() or LOG_FILE.stat().st_size == 0:
     with LOG_FILE.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.writer(handle, delimiter="|")
-        writer.writerow(["model", "file", "duration", "status"])
+        writer.writerow(LOG_FIELDNAMES)
+else:
+    with LOG_FILE.open("r", encoding="utf-8", newline="") as handle:
+        reader = csv.DictReader(handle, delimiter="|")
+        existing_fieldnames = reader.fieldnames or []
+
+        if "valid" not in existing_fieldnames:
+            rows = list(reader)
+            with LOG_FILE.open("w", encoding="utf-8", newline="") as rewrite_handle:
+                writer = csv.DictWriter(
+                    rewrite_handle,
+                    fieldnames=LOG_FIELDNAMES,
+                    delimiter="|",
+                )
+                writer.writeheader()
+                for row in rows:
+                    row["valid"] = "false"
+                    writer.writerow(row)
 
 NS = {"tei": "http://www.tei-c.org/ns/1.0"}
 
@@ -98,10 +121,19 @@ def serialize(elem):
     return etree.tostring(elem, encoding="unicode", pretty_print=True)
 
 
-def append_log_row(file_path, duration_seconds, status):
+def validate_xml_file(xml_path):
+    try:
+        xml_doc = etree.parse(str(xml_path))
+    except (OSError, etree.XMLSyntaxError):
+        return False
+
+    return validator.validate(xml_doc)
+
+
+def append_log_row(file_path, duration_seconds, status, valid):
     with LOG_FILE.open("a", encoding="utf-8", newline="") as handle:
         writer = csv.writer(handle, delimiter="|")
-        writer.writerow([MODEL, file_path, f"{duration_seconds:.2f}", status])
+        writer.writerow([MODEL, file_path, f"{duration_seconds:.2f}", status, valid])
 
 
 def extract_body(xml_tree):
@@ -127,7 +159,7 @@ def parse_body(xml_string):
 
 files = glob(f"{INPUT_DIR}/*.xml")
 
-for file_path in files[0:10]:
+for file_path in files[0:1]:
     started_at = perf_counter()
     print(f"Processing {file_path}")
 
@@ -138,7 +170,7 @@ for file_path in files[0:10]:
     except Exception as e:
         elapsed_seconds = perf_counter() - started_at
         print(f"Parse error: {file_path}: {e}")
-        append_log_row(file_path, elapsed_seconds, "parse_error")
+        append_log_row(file_path, elapsed_seconds, "parse_error", "false")
         continue
 
     root = tree.getroot()
@@ -147,7 +179,7 @@ for file_path in files[0:10]:
     if body is None:
         elapsed_seconds = perf_counter() - started_at
         print(f"No <body> found in {file_path}")
-        append_log_row(file_path, elapsed_seconds, "no_body")
+        append_log_row(file_path, elapsed_seconds, "no_body", "false")
         continue
 
     original_body = serialize(body)
@@ -192,15 +224,18 @@ for file_path in files[0:10]:
             pretty_print=True,
         )
 
+        is_valid = validate_xml_file(output_path)
+
         elapsed_seconds = perf_counter() - started_at
         print(f"✓ Written {output_path} ({elapsed_seconds:.2f}s)")
-        append_log_row(file_path, elapsed_seconds, "success")
+        print(f"Valid: {is_valid}")
+        append_log_row(file_path, elapsed_seconds, "success", "true" if is_valid else "false")
 
     except Exception as e:
         elapsed_seconds = perf_counter() - started_at
         print(f"✗ Failed {file_path}")
         print(f"Elapsed: {elapsed_seconds:.2f}s")
         print(e)
-        append_log_row(file_path, elapsed_seconds, "failed")
+        append_log_row(file_path, elapsed_seconds, "failed", "false")
 
     print("Done.")
