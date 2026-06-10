@@ -12,12 +12,14 @@ import json
 # -----------------------------------------------------------------------------
 
 INPUT_DIR = "./data/editions"
-OUTPUT_DIR = "./data/editions"
 MODEL = "gpt-5.4-mini"
+OUTPUT_DIR = f"./llm/{MODEL}"
+LOG_FILE = Path("./llm/log.txt")
 
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
 Path(OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
+LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
 
 NS = {"tei": "http://www.tei-c.org/ns/1.0"}
 
@@ -54,11 +56,11 @@ Rules:
 - Add:
   <opener> with <dateline> and <salute>
   <closer> with <salute> and <signed>
-
-- Replace <ab></ab> Element with <div></div>
-- Wrap direct text node children of the .//body/div into <p> elements
 - Replace constructs like:
   <seg type="closer">...</seg>
+- If there are text nodes after (!) the the closing <closer> element, wrap those into <postscript> element
+- Replace <ab></ab> Element with <div></div>
+- Wrap direct text node children of the .//body/div into <p> elements
 
 - Output must remain valid XML.
 """
@@ -75,6 +77,13 @@ Annotate this TEI body:
 
 def serialize(elem):
     return etree.tostring(elem, encoding="unicode", pretty_print=True)
+
+
+def log_print(*args, sep=" ", end="\n"):
+    message = sep.join(str(arg) for arg in args) + end
+    print(*args, sep=sep, end=end)
+    with LOG_FILE.open("a", encoding="utf-8") as handle:
+        handle.write(message)
 
 
 def extract_body(xml_tree):
@@ -100,23 +109,23 @@ def parse_body(xml_string):
 
 files = glob(f"{INPUT_DIR}/*.xml")
 
-for file_path in files[20:30]:
+for file_path in files[0:10]:
     started_at = perf_counter()
-    print(f"Processing {file_path}")
+    log_print(f"Processing {file_path}")
 
     parser = etree.XMLParser(remove_blank_text=False)
 
     try:
         tree = etree.parse(file_path, parser)
     except Exception as e:
-        print(f"Parse error: {file_path}: {e}")
+        log_print(f"Parse error: {file_path}: {e}")
         continue
 
     root = tree.getroot()
     body = extract_body(root)
 
     if body is None:
-        print(f"No <body> found in {file_path}")
+        log_print(f"No <body> found in {file_path}")
         continue
 
     original_body = serialize(body)
@@ -162,12 +171,12 @@ for file_path in files[20:30]:
         )
 
         elapsed_seconds = perf_counter() - started_at
-        print(f"✓ Written {output_path} ({elapsed_seconds:.2f}s)")
+        log_print(f"✓ Written {output_path} ({elapsed_seconds:.2f}s)")
 
     except Exception as e:
         elapsed_seconds = perf_counter() - started_at
-        print(f"✗ Failed {file_path}")
-        print(f"Elapsed: {elapsed_seconds:.2f}s")
-        print(e)
+        log_print(f"✗ Failed {file_path}")
+        log_print(f"Elapsed: {elapsed_seconds:.2f}s")
+        log_print(e)
 
-print("Done.")
+    log_print("Done.")
