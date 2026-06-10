@@ -12,7 +12,7 @@ import json
 # -----------------------------------------------------------------------------
 
 INPUT_DIR = "./data/editions"
-MODEL = "gpt-5.4-mini"
+MODEL = "gpt-5.4"
 OUTPUT_DIR = f"./llm/{MODEL}"
 LOG_FILE = Path("./llm/log.txt")
 
