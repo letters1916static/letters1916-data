@@ -162,7 +162,7 @@ def parse_body(xml_string):
 
 files = glob(f"{INPUT_DIR}/*.xml")
 
-for file_path in files[10:60]:
+for file_path in files[60:70]:
     started_at = perf_counter()
     print(f"Processing {file_path}")
 

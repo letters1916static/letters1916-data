@@ -26,12 +26,12 @@ holds TEI/XML encoded meta texts, e.g. about the project (`about.xml`)
 source set_env_varibales.sh
 ```
 
-* run `uv run tag_teis.py`
+* run `uv run src/tag_teis.py`
 
 ### evaluation
 
 ```bash
-uv run evaluate.py
+uv run src/evaluate.py
 ```
 
 and inspect [llm/stats.csv](llm/stats.csv)
