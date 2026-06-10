@@ -13,7 +13,7 @@ import csv
 # -----------------------------------------------------------------------------
 
 INPUT_DIR = "./data/editions"
-MODEL = "gpt-5.5"
+MODEL = "gpt-5.4"
 OUTPUT_DIR = f"./llm/{MODEL}"
 LOG_FILE = Path("./llm/log.csv")
 SCHEMA_PATH = Path("schema/tei_all.rng")
