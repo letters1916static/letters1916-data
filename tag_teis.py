@@ -13,12 +13,15 @@ import csv
 # -----------------------------------------------------------------------------
 
 INPUT_DIR = "./data/editions"
-MODEL = "gpt-5.4-nano"
+MODEL = "gpt-5.5"
 OUTPUT_DIR = f"./llm/{MODEL}"
 LOG_FILE = Path("./llm/log.csv")
 SCHEMA_PATH = Path("schema/tei_all.rng")
 
-client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+client = OpenAI(
+    api_key=os.environ.get("OPENAI_API_KEY", "lm-studio"),
+    base_url=os.environ.get("OPENAI_BASE_URL", "https://api.openai.com/v1"),
+)
 
 Path(OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
 LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
@@ -159,7 +162,7 @@ def parse_body(xml_string):
 
 files = glob(f"{INPUT_DIR}/*.xml")
 
-for file_path in files[0:1]:
+for file_path in files[2:10]:
     started_at = perf_counter()
     print(f"Processing {file_path}")
 
