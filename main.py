@@ -13,7 +13,7 @@ import csv
 # -----------------------------------------------------------------------------
 
 INPUT_DIR = "./data/editions"
-MODEL = "gpt-5.4"
+MODEL = "gpt-5.4-mini"
 OUTPUT_DIR = f"./llm/{MODEL}"
 LOG_FILE = Path("./llm/log.csv")
 
@@ -66,7 +66,8 @@ Rules:
   <seg type="closer">...</seg>
 - If there are text nodes after (!) the the closing <closer> element, wrap those into <postscript> element
 - Replace <ab></ab> Element with <div></div>
-- Wrap direct text node children of the .//body/div into <p> elements
+- Wrap direct text node children of the .//body/div into <p> elements but <opener> and <closer> must not be children of <p> and must not container <p>
+
 
 - Output must remain valid XML.
 """
