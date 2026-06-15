@@ -16,17 +16,16 @@ holds TEI/XML index files for persons (`listperson.xml`) and places (`listplace.
 
 holds TEI/XML encoded meta texts, e.g. about the project (`about.xml`)
 
-
 ## llm processing
 
-* add openAI credentials to `secret.env` (see `default.env`)
-* set them as env-varibles
+- add openAI credentials to `secret.env` (see `default.env`)
+- set them as env-varibles
 
 ```bash
-source set_env_varibales.sh
+source set_env_variables.sh
 ```
 
-* run `uv run src/tag_teis.py`
+- run `uv run src/tag_teis.py`
 
 ### evaluation
 

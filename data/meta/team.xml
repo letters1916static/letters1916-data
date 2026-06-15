@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Team</title>
+        <title type="sub">Letters 1916-1923</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities</publisher>
+        <pubPlace>Vienna, AT</pubPlace>
+        <date>2026</date>
+        <availability>
+          <p>This is an open access work licensed under Creative Commons Attribution NonCommercial 4.0 International license (CC BY-NC 4.0).</p>
+        </availability>
+        <ptr target="https://creativecommons.org/licenses/by-nc/4.0/"/>
+      </publicationStmt>
+      <sourceDesc>
+        <p>The following institutions have graciously allowed us to include images of letters and photographs in the Letters of 1916-1923 project: 
+          <list>
+            <item>American Irish Historical Society</item>
+            <item>Butte-Silver Bow Public Archives</item>
+            <item>Chicago History Museum</item>
+            <item>Cloyne Diocesan Archives</item>
+            <item>Conradh na Gaeilge</item>
+            <item>Cork City and County Archives</item>
+            <item>Cork Public Museum</item>
+            <item>Drogheda Museum, Millmount</item>
+            <item>Irish Capuchin Provincial Archives</item>
+            <item>Limerick Diocesan Archives</item>
+            <item>Local History &amp; Archives Department, Kerry Library, Tralee</item>
+            <item>Longford County Library and Archives</item>
+            <item>Irish Distillers Pernod Ricard Archive</item>
+            <item>Irish Jesuit Archives</item>
+            <item>The Jackie Clarke Collection</item>
+            <item>Archives and Special Collections, James Hardiman Library, NUI Galway</item>
+            <item>Manchester Central Library</item>
+            <item>Maynooth University, Library</item>
+            <item>Medical Missionaries of Mary</item>
+            <item>Merseyside Record Office Liverpool</item>
+            <item>Military Archives of Ireland</item>
+            <item>New York Public Library, Manuscripts and Archives Division</item>
+            <item>National Archives of Ireland</item>
+            <item>National Library of Ireland</item>
+            <item>National Museum of Ireland</item>
+            <item>Public Record Office of Northern Ireland (PRONI)</item>
+            <item>Redemptorist Provincial Archive</item>
+            <item>Royal Botanic Gardens, Kew</item>
+            <item>Royal College of Physicians of Ireland</item>
+            <item>Royal College of Surgeons in Ireland (RCSI) Heritage Collections</item>
+            <item>St.Patrick's College Maynooth, Archives</item>
+            <item>Trinity College Dublin, Manuscripts and Archives Research Library</item>
+            <item>University Archives of UCC</item>
+            <item>University College Cork Library Archives Service</item>
+            <item>University College Dublin, UCD Archives</item>
+            <item>Wexford County Archive</item>
+          </list>
+        </p>
+        <p>More than 2,000 transcribers participated in a crowdsourced transcription project to transcribe the letters. Currently, more than 3,000 letters have been transcribed, validated, and made available for publication.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="section" n="1" xml:id="susan-schreibman">
+        <head>Professor Susan Schreibman</head>
+        <p>
+          <hi rendition="#bold">Project Director and Editor-in-Chief</hi> | September 2013 – present
+        </p>
+        <p>Susan Schreibman is Professor Emeritus of Digital Arts and Culture at Maastricht University, and previously Professor of Digital Humanities at Maynooth University and Director of An Foras Feasa. Her publications include Feminist Digital Humanities (U of Illinois Press, 2025), A New Companion to Digital Humanities (Blackwell-Wiley, 2016), Thomas MacGreevy: A Critical Reappraisal (Bloomsbury 2013), A Companion to Digital Literary Studies (Blackwell, 2008). She is the founding Editor of the peer-reviewed Journal of the Text Encoding Initiative. Her digital projects include PURE3D, The Thomas MacGreevy Archive, and Contested Memories: The Battle of Mount Street Bridge.</p>
+      </div>
+      <div type="section" n="1" xml:id="monika-barget">
+        <head>Monika Barget</head>
+        <p>
+          <hi rendition="#bold">Project Manager</hi> | October 2017 – present
+        </p>
+        <p>Monika studied history, history of art and theology in Augsburg (Germany) and Galway (Ireland). From 2013 to 2017, she was member of the international research group “Early Modern Revolts” at Konstanz University (Germany). Her research interests include early modern constitutional history, political iconography and uprisings in the British Empire. As Letters 1916-1923 project manager, Monika is responsible for the sourcing and contextualization of new collections, our collaboration with Volunteer Ireland, as well as writing content for the Letters 1916-1923 website.</p>
+      </div>
+      <div type="section" n="1" xml:id="arnoud-wils">
+        <head>Arnoud Wils</head>
+        <p>
+          <hi rendition="#bold">Research Software Engineer</hi> | 2026 - present
+        </p>
+        <p>Arnoud Wils is a Classics graduate (PhD in Literary Studies) from KU Leuven University. Throughout his career, he has been involved in various projects at the intersection of digital technologies, literature, culture, and the humanities. Since 2023, he has been a Research Software Engineer at 
+          <hi rendition="#italic">The Plant</hi>, the newly established digital laboratory of the Faculty of Humanities and Social Sciences at Maastricht University. In 2026, he was awarded a research fellowship at the Austrian Centre for Digital Humanities, where he built on the in-house developed 
+          <ref target="https://github.com/acdh-oeaw/dse-static-cookiecutter">dse-cookiecutter template</ref> to create a sustainable, static website for the publication of Letters 1916.
+        </p>
+      </div>
+      <div type="section" n="2" xml:id="past-team-members">
+        <head>Past Team Members</head>
+        <div type="level2" xml:id="researchers">
+          <list type="unordered">
+            <head>Researchers</head>
+            <item>
+              <p>
+                <hi rendition="#bold">Stavros Angelis | Technical Developer | October 2017 – December 2019</hi>: Stavros was responsible for the technical development of the original Letters of 1916 platform. This included integrating components of the current implementation and developing new aspects to allow integration between data collection, enrichment, analysis and publication of information, research into building the transparency into the database and integrating interactive data mining modules. The aim is, learning from the Letters of 1916 experience and practice, to develop a single framework and workflow. 
+                <lb/>Stavros studied Archives and Library Science at the Ionian University (2004) where he received an MSc in Information Science (2006). He has worked as a researcher, a web developer and a graphic designer with much experience in both European and national projects, as well as industry projects. His area of expertise includes metadata schemas, web programming and database programming. His research interests include digital preservation, digital repositories, digital libraries, metadata, registries, user experience and user interfaces, conceptual modeling and knowledge organization. He has worked on research implementations including digital library systems, repositories and registries as well as in defining, implementing, extending and transforming metadata schemas and creating mappings across various metadata schemas and industry projects including product design and development.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Padraig MacCarron | Postdoctoral Researcher | October 2017 – December 2018</hi>: Pádraig was responsible for analysing the letter data. Initially this involved managing and cleaning the underlying database. He also performed statistical analysis to gain insights from the letter data. The letter network was analysed and visualised and tools like natural language processing were applied.
+                <lb/> Pádraig has a PhD in Applied Mathematics and his main research interest is on social networks. His PhD analysed the social networks in ancient narratives such as epics like the Iliad and the Táin Bó Cúailnge. After his PhD, Pádraig did a 3 year postdoc in the University of Oxford working on a large mobile phone dataset and smaller human and non-human primate social networks.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Emma Clarke | Outreach Coordinator | September 2013 – May 2018</hi>: Emma coordinated outreach for the Letters of 1916 project. This involved co-ordinating volunteers and organising the addition of letters from individual letter holders to the Letters of 1916 collection, managing web and socials media content such as featured letter posts and featured profiles, as well as tweeting from 
+                <ref target="https://twitter.com/Letters1916">@Letters1916</ref>. 
+                <lb/>Emma Clarke is a PhD candidate in Digital Humanities and Linguistics in the School of Computer Science in Trinity College Dublin. Since completing an M.Phil in Digital Humanities in 2013, she has worked on a number of Digital Humanities projects besides Letters of 1916. These include 
+                <ref target="https://dttp.tcd.ie/">Drawn to the Page: Irish Artist Illustrations 1830 – 1930</ref> and 
+                <ref target="http://dh.tcd.ie/pricediary/">The 1916 Diary of Dorothy Price</ref>.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Karolina Badzmierowska | Workflow, Communication and Social Media Coordinator | September 2013 – December 2016</hi>: Karolina was responsible for the project image digitisation and curation, which involved photographing the letters, editing and managing. She looked after social media communication and outreach. Karolina also designed all digital and printed materials for the project, such as the website, posters, postcards and infographics.
+                <lb/>Karolina was a PhD researcher with the Digital Arts and Humanities Structured PhD Programme in the Department of History of Art and Architecture, Trinity College Dublin, where she was awarded a Postgraduate Research Studentship in 2013. Karolina’s PhD topic explores digital methodologies in art historical research, with a focus on the concept of online research collections. Her career combined strong interests in digital humanities, (digital) art history, culture, heritage and museum studies.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Vinayak Das Gupta | Postdoctoral Researcher | September 2015 – August 2017</hi>
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Richard Hadden | DiXiT PhD Candidate | April 2014 – April 2017</hi>: Richard was working on the Letters project as part of his research as a DiXiT scholar on Digital Scholarly Editions and Mass Digitisation at Maynooth University. His research aimed to cover methodologies for building large-scale editions, and allowing access for reading, exploring, and for data processing.
+                <lb/>He graduated from Durham University in 2007 with a BA in Modern European Languages, and from University College London in 2010 with an MA in Electronic Publishing &amp; Communication. Richard has also worked on the Woodman Diary project.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Hannah Healy | Former Intern, Research Assistant | June 2014 – February 2017, March 2017 – September 2017</hi>: Hannah’s work on the project largely concerned the everyday workflow. Having previously been involved with photographing and image editing she was responsible for researching collections, editing and approving letters, validating markup and writing additional content for the site.
+                <lb/>Hannah graduated with a BA in History from Trinity College Dublin in 2016 and is currently doing an MA in Digital Humanities in Maynooth University. In the past she has worked on other Digital Humanities projects, such as the 
+                <ref target="http://mountstreet1916.ie/">Contested Memories: Battle of Mount Street Bridge</ref>.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Neale Rooney | Research Assistant | April 2015 - August 2017</hi>: Neale was responsible for maintaining the project workflow. This included the photographing, uploading, editing and approving of letter images. He also assisted other members of the team with project outreach, management of the L1916 podcast and tumblr accounts, and researching historical information about the collections.
+                <lb/> Neale graduated with a BA in Media Studies and History from Maynooth University in 2014, and with an MA in Digital Humanities from Maynooth University in 2015. His previous experience with Digital Humanities includes work done on the 
+                <ref target="http://mountstreet1916.ie/">Contested Memories: Battle of Mount Street Bridge</ref> and 
+                <ref target="http://dhprojects.maynoothuniversity.ie/woodman/">Woodman Diary</ref> projects.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Roman Bleier | PhD internship | May – July 2014, April 2015, September 2015 – March 2016</hi>: Roman joined the Letters team for a three month internship from May to July 2014. He worked on the potential of Distant Reading of the letter corpus using Topic Modelling. In April 2015 he worked on TEI templates for the Letters project.
+                <lb/>Roman was a PhD student on the Digital Arts and Humanities programme in Trinity College Dublin. His research focuses on digital editing with TEI and he worked on a digital edition of Saint Patrick’s writings under the supervision of Professor Seán Duffy.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Linda Spinazzè | DiXit postdoctoral | February 2015 – February 2016</hi>: Linda Spinazzè worked on the Letters of 1916 project as a DiXiT postdoctoral fellow (
+                <ref target="http://dixit.uni-koeln.de/">http://dixit.uni-koeln.de/</ref>. She contributed to the second phase of the project which focused on the publication and analysis of the digitised letters.
+                <lb/>After completing her first degree in Medieval Latin Literature, Linda developed a strong interest in Digital Humanities. She has collaborated as both a digital editor and as a technical assistant on two different projects, which involved in building literary archive for intertextual research in Latin literature. After gaining a second degree in Computer Science &amp; Humanities, she obtained her PhD in Medieval and Classical Philology with an experimental dissertation on Elegies by Maximianus and investigating an alternative model of digital scholarly editing. She released the web-based user-oriented tool Cursus in Clausula (
+                <ref target="http://www.cursusinclausula.eu/">www.cursusinclausula.eu</ref>) . The opportunity to join and contribute to the Letters of 1916 project provided a new opportunity to put her skills to their best use in an international context and in a different disciplinary field.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">William Buck | Postdoctoral Researcher | November 2014 – April 2015</hi>: William Buck was a Digital Repository of Ireland Postdoctoral Researcher working on the Letters of 1916 project. William’s primary role within the 1916 letters project team involved sourcing, proofing and adding historical context to letters, while utilising the digitisation tools and methods in order to create a complete digital collection of letters for the project.
+                <lb/>William completed his PhD in Modern Irish History at Mary Immaculate College, Limerick in October 2013. William’s PhD thesis was entitled 
+                <hi rendition="#italic">Aliens in wartime: Analysing the reactions and responses to foreign nationalities and minority groups throughout Ireland during the First World War</hi>. William graduated from the University of Sunderland, England, with a BA (Hons.) degree in Historical Studies in 2000. He also completed an MA degree at the same university in 2001.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Brian Hughes | Postdoctoral Researcher, Associate Editor | November 2013 – September 2014</hi>: Brian Hughes was a Digital Repository of Ireland Postdoctoral Researcher and Associate Editor before taking up a position in Trinity College Dublin. His work mainly involved historical research, the sourcing of relevant letters and the creation and proofing of metadata for the items in the project collection.
+                <lb/>Dr Brian Hughes graduated from NUI Maynooth with a BA in History and English in 2004 before completing a MPhil in Modern Irish History in Trinity College Dublin. An expanded version of his MPhil thesis on 
+                <ref target="http://www.obrien.ie/michael-mallin">Michael Mallin</ref> was published by the O’Brien Press in 2012 as part of their 16 Lives series of biographies. He was awarded a PhD at Trinity College Dublin in April 2014. He was an Irish Research Council Postdoctoral Fellow in the Department of History, Trinity College Dublin. His monograph, 
+                <hi rendition="#italic">Defying the IRA: intimidation, coercion and communities during the Irish Revolution</hi>, was published by Liverpool University Press.
+              </p>
+            </item>
+          </list>
+          <list type="unordered">
+            <head>Technical Team</head>
+            <item>
+              <p>
+                <hi rendition="#bold">Fabiano Pallonetto | Technical Officer | April 2017 – April 2018</hi>: Fabiano Pallonetto is an IT professional specialised in data science, software architecture, database modelling, UX/UI CX and optimisation techniques. He is proficient in SQL, R, Java and Python. He worked as database modeller and administrator for several different companies where he acquired an extensive experience in query optimisation, data analysis and machine learning techniques. He acquired experience in software developing, team leading and agile project management.
+                <lb/>He also prepared and taught three courses to entrepreneurs and MA students in Livorno, Italy aimed to teach technical skills such as basic programming, renewable energies simulation and database modelling.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Shane McGarry | Senior Developer | October 2014 – September 2016</hi>: Shane worked on the Letters of 1916 project as the Senior Software Developer. He was responsible for the construction of the EXPLORE digital scholarly edition, which was the home of the Letters of 1916 after its migration from the original transcription desk. Shane was responsible for the overall design as well as the construction of the digital scholarly edition.
+                <lb/>Shane was a Ph.D. candidate in Digital Humanities at Maynooth University, where his research focused on the presentation of text in a digital environment. He explored new paradigms in search and data visualisations as well as the presentation of text in an effort to break away from the book metaphor. In addition to his PhD studies, Shane also served as the project manager on the 
+                <ref target="http://dhprojects.maynoothuniversity.ie/woodman">Woodman Diary</ref> project and was one of the student coordinators for the upcoming Graduate Symposium 2016. Prior to the commencement of his Ph.D. studies, Shane worked in the private sector for nearly 15 years as a software developer and solutions architect, working across numerous industry verticals. Shane holds a B.S. in Information Technology and an M.A. in Digital Media &amp; Interactive Design.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Paddy Doyle | Senior Systems Administrator | September 2013 – April 2014</hi>: Paddy was responsible for provisioning and managing the server hardware and systems software for the project. He also assisted in the software development of parts of the front-end and back-end of the application.
+                <lb/>Paddy worked in the Research IT Support unit in Trinity College Dublin, where he contributed to a number of Digital Humanities projects. He spends most of his time running HPC (High Performance Computing) Linux clusters, looking after hardware and software issues. He dabbles in web technologies when the opportunity arises.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Juliusz Filipkowski | Web Application Specialist / Website development | September 2013 – April 2014</hi>: Juliusz Filipowski, who joined Research IT Support in Trinity College Dublin, in June 2012 as Web Application Specialist has extensive experience in software development, database design and automated testing. Juliusz was part of the team working on the front-end and back-end of the application.
+                <lb/>Juliusz had opportunity to work on projects involved ASAPS (A Sharing Approach to Promoting Science), Neuroscience Department and Digital Humanities.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Dermot Frost | Research IT Manager | September 2013 – April 2014</hi>: Dermot Frost was involved in the Letters project at its inception, helping out with the system architecture as well as co-ordinating the implementation of the software by the Research IT team. He was the Principal Investigator for the Digital Repository of Ireland for Trinity College and also a member of the Digital Humanities Steering Committee in Trinity.
+              </p>
+            </item>
+          </list>
+          <list type="unordered">
+            <head>Interns</head>
+            <item>
+              <p>
+                <hi rendition="#bold">Sinéad Greene | Research assistant | April 2018 – September 2018</hi>: Sinéad was responsible for maintaining the project workflow. This included the uploading, editing, collecting of metadata and approving of letter images. She also assisted other members of the team with project outreach, management of the 
+                <ref target="https://twitter.com/Letters1916">Letters1916</ref> twitter account, and researching historical information about the collections.
+                <lb/>Sinéad graduated with a BA in Music and History from Maynooth University in 2017, and was a MA student in Digital Humanities. Her previous experience with Digital Humanities includes work done on the 
+                <ref target="http://dhprojects.maynoothuniversity.ie/2017/littlehales/">Inside Dublin Castle</ref> and the 
+                <ref target="http://dhprojects.maynoothuniversity.ie/2017/3dcuneiform/">3D Cuneiform</ref> projects as well as working on the DariahTeach and History in a Box projects.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Amanda Morse | Research assistant | April – July 2018</hi>: Amanda was responsible for maintaining the project workflow. This included the uploading and editing of letter images and the collection of metadata. She also assisted other members of the team with project outreach, management of the Letters 1916 Twitter account, and researching historical information about the collections.
+                <lb/>Amanda Morse graduated with a BA in Anthropology and History from Maynooth University in 2016 and completed her Msc. in Spatial Humanities in autumn 2018. She was previously involved in the 3D Cuneiform Project.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Marianna Sylivrili | Intern and research assistant | May 2016 – December 2017</hi>: After completing her undergraduate degree at the Department of Philology at the Aristotle University of Thessaloniki in 2015, Marianna did her MA in Digital Humanities at Maynooth University in 2016-2017. Initially specializing in medieval and modern Greek literature, Marianna has since worked with correspondence relating to the First World War and the rise of Irish republicanism. During her Digital Humanities practicum, she coordinated the workflow of a new collection and digitized, transcribed and proofed letters. The collection Marianna prepared for publication is held by the Irish Jesuit Archives (
+                <ref target="http://www.jesuitarchives.ie/">http://www.jesuitarchives.ie/</ref>) and includes almost 100 letters written between 1916 and 1919. Furthermore, Marianna added metadata and tags to letters from the extensive Charlie Daly and Thomas Ashe collections.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Richard Breen | Intern | September 2015 – February 2016</hi>: While working on the Letters of 1916, Richard contributed to the project by assisting in image processing, letter collections days, and helped create the Letters of 1916 Podcast.
+                <lb/>Richard did his MA in Digital Humanities program at Maynooth University. His primary interests are in music, history, and cultural studies.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">John Chambers | Intern | November 2015 – September 2016</hi>: John worked on the Letters 1916 project in various ways such as photographing documents at archival institutions, image processing, research, writing abstracts, proofing transcriptions, validating markup and producing the Letters of 1916 podcasts.
+                <lb/>John did his MA Digital Humanities at Maynooth University.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Kevin Kavanagh | Intern | 2014</hi>: While working on the Letters 1916 project Kevin assisted with various tasks including, image processing and public outreach. Kevin graduated from Trinity College Dublin with an M. Phil. in Public History and Cultural Heritage. Modern Irish history and the digitisation of primary source material continue to hold his interest.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Tom Noonan | Intern | June 2015 – August 2015</hi>: While working on the Letters 1916 project Tom assisted with various tasks including contextual research, image processing, collaborating with the Defence Forces’ Military Archives, and the creation of lesson plans allowing secondary school students to engage with the Letters 1916 project.
+                <lb/>Tom studied History and English Literature at Trinity College Dublin. His primary interest is in contemporary fiction and poetry, and in the uses and abuses of history in modern society.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Zhilong Wang | 2013</hi>
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Frank Lynam | PhD internship | August 2014</hi>: Frank joined the Letters team for a brief internship in August 2014. He carried out a feasibility study into the publication of the Letters data to the Semantic Web as Linked Open Data. He wrote an extension for the Schema.org public data ontology, to allow for the modelling of letter concepts. He then mapped the letters archive onto this model. Users of the prototype system are able to interrogate this mapped RDF data using a SPARQL interface.
+                <lb/>Frank has extensive experience of working in the technology sector. He completed his BA at Trinity College Dublin in Ancient History and Archaeology and Italian and his MPhil in Archaeology at the University of Cambridge. He completed a 4-year Digital Arts and Humanities PhD under the supervision of Dr Christine Morris at Trinity College Dublin. His doctoral research considered how archaeology might benefit from Big Data analysis using Linked Open Data and Semantic Web techniques.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Shane Murtagh | PhD Internship | August – September 2014</hi>: Shane carried out an internship with the project from August to September 2014. His work focused on the encoding of the letters. As part of this work, he designed a TEI Header for the project. He also investigated the feasibility of using Natural Language Processing to automate the encoding of the texts of the letters.
+                <lb/>Shane was a PhD candidate with An Foras Feasa and the Department of English, Media and Theatre Studies in Maynooth University. He was also a participant in the national structured PhD in Digital Arts and Humanities (DAH). He holds a BA in English and History and an MA in Digital Humanities. His doctoral research examines the impact of new technologies and methodologies on the fields of scholarly editing and literary studies, under the supervision of Prof. Emer Nolan and Prof. Susan Schreibman.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Hannah Healy | Intern | June 2014 – September 2014, May 2015</hi>: While working on the Letters 1916 project Hannah assisted with various tasks including, visiting archival institutions, image processing, contextual research and the creation of lesson plans incorporating the Letters 1916 project for secondary schools.
+                <lb/> Hannah obtained a degree in History at Trinity College Dublin. Her primary interest is in modern Irish history and the consumption of history in modern society.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Aaron Hoey | Intern | June 2014 – September 2014</hi>: As a summer intern on the Letters 1916 project Aaron participated in various tasks including sourcing primary documents, image processing, and contextual research. Aaron also participated in a teacher workshop, working with teachers and project participants in creating lesson plans for secondary school students.
+                <lb/>Aaron is an English and History graduate from Maynooth University. His main areas of interest include Early Modern Irish history and the history of the Irish labour movement.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Barney Doherty | Intern | June 2014 – September 2014</hi>: Barney worked as a summer intern on the Letters 1916 project when he carried out various tasks, including, Source locating, Image Processing, Historical Research, Visiting Archives, Collaborating with teachers to create various lesson plans, creating informative videos, and hosting Twitter chats.
+                <lb/>Barney is a History and English graduate from Maynooth University. His interest is social and political history of Ireland and Britain.
+              </p>
+            </item>
+            <item>
+              <p>
+                <hi rendition="#bold">Ryan McKeown | Intern | June 2014 – September 2014</hi>: While working with the Letters 1916 project Ryan assisted in photographing, editing and transcribing letters in order for them to be uploaded onto the online website. Ryan also assisted in historical research and visiting the Public Records Office of Northern Ireland to locate suitable letters for use in the project.
+                <lb/>Ryan is a History graduate from Queen’s University Belfast. His interests include 20th Century Irish history with a focus on the Irish Revolution and Northern Ireland ‘Troubles’ period.
+              </p>
+            </item>
+          </list>
+          <p>We also thank Kate Bateman for her help in identifying letters at the National Library of Ireland for inclusion in the collection.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
